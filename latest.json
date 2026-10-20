@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T16:37:54.821353Z",
+  "generated_at": "2026-10-20T17:00:34.783155Z",
   "reporting_window": {
-    "start": "2026-10-13T16:37:54.821353Z",
-    "end": "2026-10-20T16:37:54.821353Z",
+    "start": "2026-10-13T17:00:34.783155Z",
+    "end": "2026-10-20T17:00:34.783155Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,7 +14,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-20T16:37:53.473667Z",
+      "last_successful_poll": "2026-10-20T17:00:29.839384Z",
       "warnings": []
     },
     {
@@ -23,7 +23,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-20T16:37:53.807017Z",
+      "last_successful_poll": "2026-10-20T17:00:31.183069Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-20T16:37:54.131970Z",
+      "last_successful_poll": "2026-10-20T17:00:32.615695Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-20T16:37:54.371406Z",
+      "last_successful_poll": "2026-10-20T17:00:34.103399Z",
       "warnings": []
     },
     {
@@ -50,7 +50,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-20T16:37:54.769504Z",
+      "last_successful_poll": "2026-10-20T17:00:34.678594Z",
       "warnings": []
     }
   ],
