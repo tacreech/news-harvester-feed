@@ -1,0 +1,521 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-20T16:37:17.821654Z",
+  "reporting_window": {
+    "start": "2026-10-13T16:37:17.821654Z",
+    "end": "2026-10-20T16:37:17.821654Z",
+    "days": 7,
+    "basis": "publication_time_utc"
+  },
+  "channels": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "identity_status": "verified",
+      "health": "success_no_new",
+      "discovery_status": "success_no_new",
+      "last_successful_poll": "2026-10-20T16:37:16.034640Z",
+      "warnings": []
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "identity_status": "verified",
+      "health": "success_no_new",
+      "discovery_status": "success_no_new",
+      "last_successful_poll": "2026-10-20T16:37:16.402173Z",
+      "warnings": []
+    },
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "identity_status": "verified",
+      "health": "success_no_new",
+      "discovery_status": "success_no_new",
+      "last_successful_poll": "2026-10-20T16:37:16.697956Z",
+      "warnings": []
+    },
+    {
+      "creator": "Mike Figueredo — The Humanist Report",
+      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
+      "identity_status": "verified",
+      "health": "success_no_new",
+      "discovery_status": "success_no_new",
+      "last_successful_poll": "2026-10-20T16:37:17.115308Z",
+      "warnings": []
+    },
+    {
+      "creator": "House of El – AI",
+      "channel_id": "UCsoc5Ad-fC7wWie2PH4rPcw",
+      "identity_status": "verified",
+      "health": "success_no_new",
+      "discovery_status": "success_no_new",
+      "last_successful_poll": "2026-10-20T16:37:17.714701Z",
+      "warnings": []
+    }
+  ],
+  "videos": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "ckGg8HeLfpQ",
+      "title": "This is insane",
+      "published_at": "2026-10-20T16:17:55.000000Z",
+      "url": "https://www.youtube.com/watch?v=ckGg8HeLfpQ",
+      "first_seen": "2026-10-20T16:21:39.057693Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "mK-VyajlS-0",
+      "title": "The release of Grand Theft Auto could cost economy $1 billion in productivity.",
+      "published_at": "2026-10-20T15:24:05.000000Z",
+      "url": "https://www.youtube.com/watch?v=mK-VyajlS-0",
+      "first_seen": "2026-10-20T16:21:39.057693Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "CiIqLelHiP0",
+      "title": "Trump LASHES OUT at Americans as he and Musk Faces CRIMINAL Investigations, WAR CRIMINALS!!",
+      "published_at": "2026-10-20T14:07:36.000000Z",
+      "url": "https://www.youtube.com/watch?v=CiIqLelHiP0",
+      "first_seen": "2026-10-20T16:21:39.057693Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "DlH74W9itZ8",
+      "title": "This is horrific.",
+      "published_at": "2026-10-20T13:39:47.000000Z",
+      "url": "https://www.youtube.com/watch?v=DlH74W9itZ8",
+      "first_seen": "2026-10-20T16:21:39.057693Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "evgOxqc3VBc",
+      "title": "Trump is a war criminal",
+      "published_at": "2026-10-20T12:50:26.000000Z",
+      "url": "https://www.youtube.com/watch?v=evgOxqc3VBc",
+      "first_seen": "2026-10-20T16:21:39.057693Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "MWLcrusqouk",
+      "title": "This is outrageous",
+      "published_at": "2026-10-20T11:59:00.000000Z",
+      "url": "https://www.youtube.com/watch?v=MWLcrusqouk",
+      "first_seen": "2026-10-20T16:21:39.057693Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "p7XR3QM3Tno",
+      "title": "Trump CRASHES OUT as he FUMES Over Americans Protesting, Goes on TIRADE!",
+      "published_at": "2026-10-20T00:49:24.000000Z",
+      "url": "https://www.youtube.com/watch?v=p7XR3QM3Tno",
+      "first_seen": "2026-10-20T16:21:39.057693Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Mike Figueredo — The Humanist Report",
+      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
+      "video_id": "-X-zHJqnbKw",
+      "title": "GOP Plant Leaves Abdul El-Sayed Rally in Shame After Getting Humiliated",
+      "published_at": "2026-10-20T00:41:58.000000Z",
+      "url": "https://www.youtube.com/watch?v=-X-zHJqnbKw",
+      "first_seen": "2026-10-20T16:21:04.015300Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "a04jkCGM0ok",
+      "title": "This is urgent",
+      "published_at": "2026-10-20T00:41:17.000000Z",
+      "url": "https://www.youtube.com/watch?v=a04jkCGM0ok",
+      "first_seen": "2026-10-20T16:21:39.057693Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "WlTQaQ9gB_E",
+      "title": "Huge FBI Cyberattack Update...",
+      "published_at": "2026-10-20T00:01:15.000000Z",
+      "url": "https://www.youtube.com/watch?v=WlTQaQ9gB_E",
+      "first_seen": "2026-10-20T16:21:03.566705Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "NgCcgr9aGs0",
+      "title": "Let me know what you think!",
+      "published_at": "2026-10-19T23:43:30.000000Z",
+      "url": "https://www.youtube.com/watch?v=NgCcgr9aGs0",
+      "first_seen": "2026-10-20T16:21:39.057693Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "sQlzv7xhsr0",
+      "title": "3,000 Protests RAGE NATIONWIDE As No Kings BANNED On Social Media!! | The Kyle Kulinski Show",
+      "published_at": "2026-10-19T23:15:22.000000Z",
+      "url": "https://www.youtube.com/watch?v=sQlzv7xhsr0",
+      "first_seen": "2026-10-20T16:21:02.760355Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "W5fMvTUOK7A",
+      "title": "‘APPALLING’: Obama FINALLY SNAPS & CALLS OUT TRUMP!! | The Kyle Kulinski Show",
+      "published_at": "2026-10-19T22:45:38.000000Z",
+      "url": "https://www.youtube.com/watch?v=W5fMvTUOK7A",
+      "first_seen": "2026-10-20T16:21:02.760355Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "9a_9udLmmcM",
+      "title": "JD Vance SH*TS HIMSELF In Town Hall DISASTER | The Kyle Kulinski Show",
+      "published_at": "2026-10-19T22:15:13.000000Z",
+      "url": "https://www.youtube.com/watch?v=9a_9udLmmcM",
+      "first_seen": "2026-10-20T16:21:02.760355Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "AgABoyzfo74",
+      "title": "Major news out of Virginia and Florida—costs could soon soar.",
+      "published_at": "2026-10-19T22:03:23.000000Z",
+      "url": "https://www.youtube.com/watch?v=AgABoyzfo74",
+      "first_seen": "2026-10-20T16:21:39.057693Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "0B5HVBRH4Ds",
+      "title": "🚨 Trump in a PANIC, Orders BOMBSHELL Interference as Walls Close in, this is URGENT!!!",
+      "published_at": "2026-10-19T21:55:46.000000Z",
+      "url": "https://www.youtube.com/watch?v=0B5HVBRH4Ds",
+      "first_seen": "2026-10-20T16:21:39.057693Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "IgXfMuAFa0s",
+      "title": "Abdul DISMANTLES Paid MAGA Hack TO HIS FACE | The Kyle Kulinski Show",
+      "published_at": "2026-10-19T21:45:19.000000Z",
+      "url": "https://www.youtube.com/watch?v=IgXfMuAFa0s",
+      "first_seen": "2026-10-20T16:21:02.760355Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "bvdXIjlgWRE",
+      "title": "Riots ERUPT Across Europe As ALL HELL BREAKS LOOSE!!",
+      "published_at": "2026-10-19T21:15:01.000000Z",
+      "url": "https://www.youtube.com/watch?v=bvdXIjlgWRE",
+      "first_seen": "2026-10-20T16:21:02.760355Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "mlkgWMB6PVg",
+      "title": "‘EVACUATE NOW’: Iran Defense Minister’s DIRE WARNING of MASS US CASUALTIES! | The Kyle Kulinski Show",
+      "published_at": "2026-10-19T20:45:35.000000Z",
+      "url": "https://www.youtube.com/watch?v=mlkgWMB6PVg",
+      "first_seen": "2026-10-20T16:21:02.760355Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "0FoTVhkeUso",
+      "title": "This is insane—share this everywhere.",
+      "published_at": "2026-10-19T20:37:32.000000Z",
+      "url": "https://www.youtube.com/watch?v=0FoTVhkeUso",
+      "first_seen": "2026-10-20T16:21:39.057693Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "emf8CY4D4q0",
+      "title": "‘BLOODBATH’: GOP Pollster Says MAGA IS F*CKED For Midterms | The Kyle Kulinski Show",
+      "published_at": "2026-10-19T20:15:23.000000Z",
+      "url": "https://www.youtube.com/watch?v=emf8CY4D4q0",
+      "first_seen": "2026-10-20T16:21:02.760355Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "GJ2MDEsV0ko",
+      "title": "Idiocracy",
+      "published_at": "2026-10-19T20:15:18.000000Z",
+      "url": "https://www.youtube.com/watch?v=GJ2MDEsV0ko",
+      "first_seen": "2026-10-20T16:21:39.057693Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "-YnQ-nGPmqY",
+      "title": "Trump PANICS As THE END IS NEAR!! | The Kyle Kulinski Show",
+      "published_at": "2026-10-19T19:45:08.000000Z",
+      "url": "https://www.youtube.com/watch?v=-YnQ-nGPmqY",
+      "first_seen": "2026-10-20T16:21:02.760355Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "Ju25ZjVX6Wo",
+      "title": "LIVE | Raging Perspectives with Aaron Parnas and Jessica Tarlov",
+      "published_at": "2026-10-19T19:19:35.000000Z",
+      "url": "https://www.youtube.com/watch?v=Ju25ZjVX6Wo",
+      "first_seen": "2026-10-20T16:21:39.057693Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "m4F0zpyeeAo",
+      "title": "Donald Trump’s lawsuit is getting worse for him.",
+      "published_at": "2026-10-19T17:37:15.000000Z",
+      "url": "https://www.youtube.com/watch?v=m4F0zpyeeAo",
+      "first_seen": "2026-10-20T16:21:39.057693Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "nts32hr4W9g",
+      "title": "We WILL Be Emulating GTA 6...",
+      "published_at": "2026-10-18T23:50:19.000000Z",
+      "url": "https://www.youtube.com/watch?v=nts32hr4W9g",
+      "first_seen": "2026-10-20T16:21:03.566705Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "ktziwFNecvc",
+      "title": "Nvidia Is Lying To You...",
+      "published_at": "2026-10-17T23:43:49.000000Z",
+      "url": "https://www.youtube.com/watch?v=ktziwFNecvc",
+      "first_seen": "2026-10-20T16:21:03.566705Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "cZN3kGnvEwY",
+      "title": "'TRUMP R*PED KIDS!': Dem Candidate GOES NUCLEAR & Tells THE WHOLE TRUTH",
+      "published_at": "2026-10-17T01:02:57.000000Z",
+      "url": "https://www.youtube.com/watch?v=cZN3kGnvEwY",
+      "first_seen": "2026-10-20T16:21:02.760355Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "2gmpkZG-swU",
+      "title": "I Really Hope We Get This Win...",
+      "published_at": "2026-10-16T22:56:56.000000Z",
+      "url": "https://www.youtube.com/watch?v=2gmpkZG-swU",
+      "first_seen": "2026-10-20T16:21:03.566705Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "wnsOsbzeY3c",
+      "title": "BREAKING: ZACHARIA FIRED! NETANYAHU CALLS OBAMA ANTISEMITE! TRUMP BETRAYS UKRAINE!!",
+      "published_at": "2026-10-16T20:30:08.000000Z",
+      "url": "https://www.youtube.com/watch?v=wnsOsbzeY3c",
+      "first_seen": "2026-10-20T16:21:02.760355Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "House of El – AI",
+      "channel_id": "UCsoc5Ad-fC7wWie2PH4rPcw",
+      "video_id": "AdQQXU3E_mA",
+      "title": "AI’s \"Free Software\" Boom Just Showed How the Bubble Dies",
+      "published_at": "2026-10-16T16:00:10.000000Z",
+      "url": "https://www.youtube.com/watch?v=AdQQXU3E_mA",
+      "first_seen": "2026-10-20T16:21:40.285169Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Mike Figueredo — The Humanist Report",
+      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
+      "video_id": "dq8Bb5G0Bx0",
+      "title": "Kamala's Mea Culpa & Kelly Clarkson's Bird Scandal | Leftist Mafia #191",
+      "published_at": "2026-10-16T02:52:08.000000Z",
+      "url": "https://www.youtube.com/watch?v=dq8Bb5G0Bx0",
+      "first_seen": "2026-10-20T16:21:04.015300Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "S1cekfYK7u8",
+      "title": "‘F*CKING JOKE’: Fuentes Says Trump’s Corruption Makes Watergate Look Tame | The Kyle Kulinski Show",
+      "published_at": "2026-10-16T00:30:11.000000Z",
+      "url": "https://www.youtube.com/watch?v=S1cekfYK7u8",
+      "first_seen": "2026-10-20T16:21:02.760355Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "mMnoiZQGcR8",
+      "title": "Bill Maher Completely Sells His Soul To Trump | The Kyle Kulinski Show",
+      "published_at": "2026-10-16T00:05:24.000000Z",
+      "url": "https://www.youtube.com/watch?v=mMnoiZQGcR8",
+      "first_seen": "2026-10-20T16:21:02.760355Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "PoWx5Lq8QFI",
+      "title": "Republican Data Center Support BACKFIRES SPECTACULARLY!! | The Kyle Kulinski Show",
+      "published_at": "2026-10-15T23:40:02.000000Z",
+      "url": "https://www.youtube.com/watch?v=PoWx5Lq8QFI",
+      "first_seen": "2026-10-20T16:21:02.760355Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "r4faygDPHgU",
+      "title": "Internet Ads Are Now Hacking Your Computer...",
+      "published_at": "2026-10-15T23:22:05.000000Z",
+      "url": "https://www.youtube.com/watch?v=r4faygDPHgU",
+      "first_seen": "2026-10-20T16:21:03.566705Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "jMeaFM9dtXU",
+      "title": "‘YOU’RE A SNAKE’: MTG Finally Tells The Complete Truth About Trump | The Kyle Kulinski Show",
+      "published_at": "2026-10-15T23:15:13.000000Z",
+      "url": "https://www.youtube.com/watch?v=jMeaFM9dtXU",
+      "first_seen": "2026-10-20T16:21:02.760355Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "w2BwoH3RZ5Y",
+      "title": "MAGA Network PANICS When Guest BASHES TRUMP & Goes OFF SCRIPT | The Kyle Kulinski Show",
+      "published_at": "2026-10-15T22:45:31.000000Z",
+      "url": "https://www.youtube.com/watch?v=w2BwoH3RZ5Y",
+      "first_seen": "2026-10-20T16:21:02.760355Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Mike Figueredo — The Humanist Report",
+      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
+      "video_id": "Ns_5PKJqx8c",
+      "title": "*THIS* is How Democrats Should Respond to Anti-Trans Attacks",
+      "published_at": "2026-10-15T13:59:49.000000Z",
+      "url": "https://www.youtube.com/watch?v=Ns_5PKJqx8c",
+      "first_seen": "2026-10-20T16:21:04.015300Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "4QbHRL3rZ7s",
+      "title": "The Future Of Gaming Is Complete Slop...",
+      "published_at": "2026-10-14T23:08:26.000000Z",
+      "url": "https://www.youtube.com/watch?v=4QbHRL3rZ7s",
+      "first_seen": "2026-10-20T16:21:03.566705Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Mike Figueredo — The Humanist Report",
+      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
+      "video_id": "puZEYqcwKUE",
+      "title": "MS NOW Analyst Falsely Claims Trump Supporters “Are Not Stupid”",
+      "published_at": "2026-10-14T13:59:52.000000Z",
+      "url": "https://www.youtube.com/watch?v=puZEYqcwKUE",
+      "first_seen": "2026-10-20T16:21:04.015300Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "bSqabe_qVOU",
+      "title": "No One Cares Anymore...",
+      "published_at": "2026-10-13T21:16:36.000000Z",
+      "url": "https://www.youtube.com/watch?v=bSqabe_qVOU",
+      "first_seen": "2026-10-20T16:21:03.566705Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    }
+  ]
+}
