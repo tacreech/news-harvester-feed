@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-21T18:30:30.758549Z",
+  "generated_at": "2026-10-21T19:00:33.675334Z",
   "reporting_window": {
-    "start": "2026-10-14T18:30:30.758549Z",
-    "end": "2026-10-21T18:30:30.758549Z",
+    "start": "2026-10-14T19:00:33.675334Z",
+    "end": "2026-10-21T19:00:33.675334Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,16 +14,16 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-21T18:30:28.932010Z",
+      "last_successful_poll": "2026-10-21T19:00:28.775601Z",
       "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-21T18:30:29.337773Z",
+      "health": "success_new",
+      "discovery_status": "success_new",
+      "last_successful_poll": "2026-10-21T19:00:29.969479Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-21T18:30:29.862899Z",
+      "last_successful_poll": "2026-10-21T19:00:31.206170Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-21T18:30:30.310250Z",
+      "last_successful_poll": "2026-10-21T19:00:32.368372Z",
       "warnings": []
     },
     {
@@ -50,11 +50,22 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-21T18:30:30.702938Z",
+      "last_successful_poll": "2026-10-21T19:00:33.579979Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "FM7r0zqv-Jg",
+      "title": "Tennessee voters have reported issues during early vote per WSMV.",
+      "published_at": "2026-10-21T18:47:36.000000Z",
+      "url": "https://www.youtube.com/watch?v=FM7r0zqv-Jg",
+      "first_seen": "2026-10-21T19:00:29.969479Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
