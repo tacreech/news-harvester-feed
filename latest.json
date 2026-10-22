@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-22T09:30:22.081150Z",
+  "generated_at": "2026-10-22T10:00:14.015390Z",
   "reporting_window": {
-    "start": "2026-10-15T09:30:22.081150Z",
-    "end": "2026-10-22T09:30:22.081150Z",
+    "start": "2026-10-15T10:00:14.015390Z",
+    "end": "2026-10-22T10:00:14.015390Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,7 +14,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-22T09:30:19.859903Z",
+      "last_successful_poll": "2026-10-22T10:00:12.063965Z",
       "warnings": []
     },
     {
@@ -23,7 +23,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-22T09:30:20.238958Z",
+      "last_successful_poll": "2026-10-22T10:00:12.682982Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-22T09:30:20.658313Z",
+      "last_successful_poll": "2026-10-22T10:00:12.920576Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-22T09:30:21.318021Z",
+      "last_successful_poll": "2026-10-22T10:00:13.524928Z",
       "warnings": []
     },
     {
@@ -50,7 +50,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-22T09:30:22.004200Z",
+      "last_successful_poll": "2026-10-22T10:00:13.911868Z",
       "warnings": []
     }
   ],
