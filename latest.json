@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-24T13:30:21.970766Z",
+  "generated_at": "2026-10-24T14:00:22.291140Z",
   "reporting_window": {
-    "start": "2026-10-17T13:30:21.970766Z",
-    "end": "2026-10-24T13:30:21.970766Z",
+    "start": "2026-10-17T14:00:22.291140Z",
+    "end": "2026-10-24T14:00:22.291140Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,16 +14,16 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-24T13:30:19.579072Z",
+      "last_successful_poll": "2026-10-24T14:00:19.652829Z",
       "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_new",
-      "discovery_status": "success_new",
-      "last_successful_poll": "2026-10-24T13:30:20.206271Z",
+      "health": "success_no_new",
+      "discovery_status": "success_no_new",
+      "last_successful_poll": "2026-10-24T14:00:20.243359Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-24T13:30:20.623463Z",
+      "last_successful_poll": "2026-10-24T14:00:20.425550Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-24T13:30:21.268423Z",
+      "last_successful_poll": "2026-10-24T14:00:21.631306Z",
       "warnings": []
     },
     {
@@ -50,7 +50,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-24T13:30:21.867354Z",
+      "last_successful_poll": "2026-10-24T14:00:22.209536Z",
       "warnings": []
     }
   ],
