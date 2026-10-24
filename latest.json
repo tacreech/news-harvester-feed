@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-24T21:00:22.077890Z",
+  "generated_at": "2026-10-24T21:30:22.610658Z",
   "reporting_window": {
-    "start": "2026-10-17T21:00:22.077890Z",
-    "end": "2026-10-24T21:00:22.077890Z",
+    "start": "2026-10-17T21:30:22.610658Z",
+    "end": "2026-10-24T21:30:22.610658Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,16 +14,16 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-24T21:00:19.969408Z",
+      "last_successful_poll": "2026-10-24T21:30:19.898743Z",
       "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_new",
-      "discovery_status": "success_new",
-      "last_successful_poll": "2026-10-24T21:00:20.605617Z",
+      "health": "success_no_new",
+      "discovery_status": "success_no_new",
+      "last_successful_poll": "2026-10-24T21:30:20.522435Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-24T21:00:20.799849Z",
+      "last_successful_poll": "2026-10-24T21:30:21.147470Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-24T21:00:21.303007Z",
+      "last_successful_poll": "2026-10-24T21:30:21.830232Z",
       "warnings": []
     },
     {
@@ -50,7 +50,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-24T21:00:21.963034Z",
+      "last_successful_poll": "2026-10-24T21:30:22.500555Z",
       "warnings": []
     }
   ],
@@ -65,7 +65,7 @@
       "first_seen": "2026-10-24T21:00:20.605617Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "not_queued"
+      "transcript_status": "captions_ready"
     },
     {
       "creator": "Aaron Parnas",
@@ -617,7 +617,7 @@
       "first_seen": "2026-10-22T17:30:19.814673Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "discovered"
+      "transcript_status": "captions_ready"
     },
     {
       "creator": "Aaron Parnas",
