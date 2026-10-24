@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-24T14:00:22.291140Z",
+  "generated_at": "2026-10-24T14:30:21.586801Z",
   "reporting_window": {
-    "start": "2026-10-17T14:00:22.291140Z",
-    "end": "2026-10-24T14:00:22.291140Z",
+    "start": "2026-10-17T14:30:21.586801Z",
+    "end": "2026-10-24T14:30:21.586801Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,16 +14,16 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-24T14:00:19.652829Z",
+      "last_successful_poll": "2026-10-24T14:30:19.673215Z",
       "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-24T14:00:20.243359Z",
+      "health": "success_new",
+      "discovery_status": "success_new",
+      "last_successful_poll": "2026-10-24T14:30:20.117584Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-24T14:00:20.425550Z",
+      "last_successful_poll": "2026-10-24T14:30:20.320189Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-24T14:00:21.631306Z",
+      "last_successful_poll": "2026-10-24T14:30:20.778897Z",
       "warnings": []
     },
     {
@@ -50,11 +50,33 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-24T14:00:22.209536Z",
+      "last_successful_poll": "2026-10-24T14:30:21.481970Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "jpgPmvE_Q7I",
+      "title": "🚨 Trump’s OWN AIDES Fear a ‘RAMPAGE’ as His Presidency COLLAPSES, this is THE END!!",
+      "published_at": "2026-10-24T14:03:48.000000Z",
+      "url": "https://www.youtube.com/watch?v=jpgPmvE_Q7I",
+      "first_seen": "2026-10-24T14:30:20.117584Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "L2qGbHxXj78",
+      "title": "Trump sells out Alaska.",
+      "published_at": "2026-10-24T14:02:44.000000Z",
+      "url": "https://www.youtube.com/watch?v=L2qGbHxXj78",
+      "first_seen": "2026-10-24T14:30:20.117584Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
