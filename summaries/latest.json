@@ -1,11 +1,2333 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-24T18:47:46.550409Z",
+  "generated_at": "2026-10-25T16:49:09.779303Z",
   "reporting_window": {
-    "start": "2026-10-17T18:47:46.550409Z",
-    "end": "2026-10-24T18:47:46.550409Z"
+    "start": "2026-10-18T16:49:09.779303Z",
+    "end": "2026-10-25T16:49:09.779303Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "U8XExPsBsf4",
+      "title": "Trump is not happy.",
+      "url": "https://www.youtube.com/watch?v=U8XExPsBsf4",
+      "published_at": "2026-10-25T14:39:13.000000Z",
+      "summary": "Creator Aaron Parnas says Donald Trump reacted angrily on Truth Social after former President Barack Obama drew a larger crowd in Michigan. Parnas describes overnight posts in which Trump criticized Obama’s presidency, alleged that Obama paid Iran billions, attacked Hillary Clinton and Kamala Harris, and suggested that candidates endorsed by Obama lose. The episode also contrasts coverage of Trump’s rally in Georgia with coverage of Obama’s appearance, asserting that networks did not fully cover Trump’s event while covering Obama’s. Parnas interprets these developments as evidence that Trump was unhappy with the previous night’s results and adds a personal judgment about Trump’s attention to Obama. The short transcript provides no direct quotations, links to the cited posts, crowd figures, event details, network names, or independent confirmation of the allegations. Its claims therefore reflect the creator’s characterization of events and require outside verification.",
+      "topics": [
+        "Trump’s Truth Social reaction",
+        "Obama rally crowd comparison",
+        "Claims about Obama’s presidency",
+        "Media coverage of political rallies"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Trump criticized Obama and made allegations about his presidency, Iran, Clinton, and Harris in overnight Truth Social posts.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim": "Obama drew a larger crowd than Trump in Michigan.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim": "Networks did not fully cover Trump’s Georgia rally while covering Obama’s event.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            14,
+            15,
+            16
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames Trump’s reaction as anger over Obama’s larger Michigan crowd.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            16,
+            17
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 39.68
+        },
+        {
+          "point": "The reported Truth Social criticism targeted Obama and several other political figures.",
+          "evidence_segment_indices": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "start_seconds": 14.719,
+          "end_seconds": 32.239
+        },
+        {
+          "point": "The episode contrasts television coverage of rallies involving Trump and Obama.",
+          "evidence_segment_indices": [
+            14,
+            15,
+            16
+          ],
+          "start_seconds": 29.92,
+          "end_seconds": 38.239
+        },
+        {
+          "point": "The transcript is brief and omits source posts, figures, network identities, and corroboration.",
+          "evidence_segment_indices": [
+            7,
+            14,
+            15,
+            18,
+            19
+          ],
+          "start_seconds": 14.719,
+          "end_seconds": 41.84
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "773c044c1d1260fe9c0278db9b783092dc861d6419442a934e1630571a923469",
+      "transcript_captured_at": "2026-10-25T15:03:06.448183Z",
+      "summary_generated_at": "2026-10-25T15:08:10.249048Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a short creator narration rather than the underlying social-media posts or event records.",
+        "Crowd-size and media-coverage claims lack figures, named sources, and corroborating details.",
+        "Caption wording includes informal phrasing and at least one apparent name transcription defect.",
+        "Several statements are opinions or interpretations attributed to Parnas, not independently established facts.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "4e0stmWCS88",
+      "title": "Republicans PANIC and Admit Congress is LOST as Trump MELTS DOWN Over Obama, this is the END!!",
+      "url": "https://www.youtube.com/watch?v=4e0stmWCS88",
+      "published_at": "2026-10-25T14:00:29.000000Z",
+      "summary": "Aaron Parnas argues that Republican candidates are politically endangered ahead of the midterm elections, contrasting Donald Trump’s Georgia rally with Barack Obama’s appearances in Ohio and Michigan. Parnas characterizes Trump’s remarks about elevated fuel prices and oil-sector profits as politically damaging, while presenting Obama’s calls for change, opposition to the war, expanded healthcare, and campaign support as a more effective message. The episode also says Republicans are privately conceding that the House, and possibly the Senate, may be lost, though the transcript provides no direct Republican sources for those claims. A separate segment relays Forbes reporting alleging that Trump used charitable deductions tied to golf-course properties to reduce potential tax liability by more than $1 billion, including a reported $450 million potential saving. The material is primarily commentary and excerpts from speeches and news coverage; several names, phrases, and transitions are garbled in the automated captions, and the cited political and financial assertions are not independently established here.",
+      "topics": [
+        "U.S. midterm election messaging",
+        "Trump rally and fuel prices",
+        "Obama campaign appearances",
+        "Golf-course tax deductions"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Republicans are privately conceding that the House may be lost and the Senate could soon be lost.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "claim": "Trump’s remarks concerned elevated fuel prices and claimed large oil-sector or national profits connected to Middle East events.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            49,
+            50,
+            51,
+            52,
+            56,
+            57,
+            63,
+            64,
+            65,
+            69,
+            70,
+            74,
+            80,
+            95,
+            96
+          ]
+        },
+        {
+          "claim": "Forbes reporting estimated that Trump’s golf-course-related arrangements could reduce taxes on more than $1 billion in income, including a potential $450 million saving.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            175,
+            176,
+            177,
+            178,
+            181,
+            182,
+            183,
+            188,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            203,
+            204,
+            205,
+            206,
+            207,
+            209
+          ]
+        },
+        {
+          "claim": "Trump’s closing message harmed Republican electoral prospects, including in Georgia.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode contrasts Trump’s Georgia rally with Obama’s Ohio and Michigan appearances.",
+          "evidence_segment_indices": [
+            2,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "start_seconds": 3.439,
+          "end_seconds": 27.84
+        },
+        {
+          "point": "Parnas presents Trump’s fuel-price and oil-profit remarks as a liability for Republicans.",
+          "evidence_segment_indices": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            41,
+            42,
+            43,
+            44
+          ],
+          "start_seconds": 62.239,
+          "end_seconds": 104.479
+        },
+        {
+          "point": "Obama’s excerpts emphasize voter dissatisfaction, political change, ending the war, and healthcare.",
+          "evidence_segment_indices": [
+            110,
+            113,
+            114,
+            115,
+            116,
+            117,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            144,
+            146,
+            147,
+            151,
+            152,
+            153,
+            154
+          ],
+          "start_seconds": 248.0,
+          "end_seconds": 365.039
+        },
+        {
+          "point": "The episode relays allegations about tax deductions involving Trump golf properties.",
+          "evidence_segment_indices": [
+            171,
+            172,
+            173,
+            174,
+            175,
+            178,
+            179,
+            180,
+            181,
+            184,
+            185,
+            186,
+            187,
+            188,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            202,
+            203
+          ],
+          "start_seconds": 399.36,
+          "end_seconds": 471.039
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "93a1bb295e856a3e8efbe3412a6d3ef3f551d6cbc258fdfa2d7a81b6a5ff8df2",
+      "transcript_captured_at": "2026-10-25T14:33:05.704325Z",
+      "summary_generated_at": "2026-10-25T14:38:12.598593Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is an automated caption record with overlapping, truncated, and visibly misrecognized phrases and names.",
+        "The political forecasts and interpretations are Parnas’s commentary, not independently verified findings in the source.",
+        "The tax figures and allegations are attributed to Forbes reporting as relayed in the episode; the underlying report and relevant records are not provided.",
+        "The excerpts do not establish the broader election status, polling, or legal conclusions beyond what the speakers claim.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "NBqK-ovcODw",
+      "title": "This is massive",
+      "url": "https://www.youtube.com/watch?v=NBqK-ovcODw",
+      "published_at": "2026-10-25T12:41:02.000000Z",
+      "summary": "Aaron Parnas alleges that Donald Trump used a Jupiter, Florida golf-course transaction to obtain a substantial tax deduction while retaining control of the club. Parnas says Forbes reported roughly $1.4 billion in cryptocurrency income and more than $200 million in real-estate income in 2025, alongside a projected tax bill exceeding $500 million. He describes Trump’s company as donating development rights to a land trust on the grounds that the course was natural habitat, and says the resulting write-off was $825 million. Parnas further claims Trump has used similar arrangements five times since 2005, sued the IRS after the Jupiter transaction, and benefits from an audit agreement involving an attorney who later became attorney general. The episode presents these points as evidence of a broader tax strategy and criticizes the lack of public outrage. The transcript alone does not establish the accuracy, legality, valuation, frequency, or effect of the transactions and agreements described.",
+      "topics": [
+        "Trump golf-course tax strategy",
+        "Jupiter land trust transaction",
+        "Cryptocurrency and real-estate income",
+        "IRS audit agreement",
+        "Political accountability"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Trump’s company donated development rights connected to a Jupiter, Florida golf course to a land trust and claimed an $825 million write-off.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim": "Trump received roughly $1.4 billion from cryptocurrency and more than $200 million from real estate in 2025, with a projected tax bill above $500 million.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim": "Trump has used comparable arrangements five times since 2005 and sued the IRS one month after the Jupiter transaction.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim": "An audit agreement involving Trump’s personal criminal-defense attorney, later identified in the episode as the attorney general, prevents the IRS from pursuing him over the transaction.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames the golf-course transaction as a major tax shelter and alleges it harmed the public.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 11.44
+        },
+        {
+          "point": "The episode links the alleged deduction to donated development rights and a natural-habitat rationale while the club continued operating.",
+          "evidence_segment_indices": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "start_seconds": 20.8,
+          "end_seconds": 39.36
+        },
+        {
+          "point": "Parnas broadens the allegation to prior transactions, IRS litigation, and an audit agreement.",
+          "evidence_segment_indices": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "start_seconds": 37.68,
+          "end_seconds": 56.16
+        },
+        {
+          "point": "The closing argues that the conduct has generated insufficient public outrage.",
+          "evidence_segment_indices": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "start_seconds": 54.239,
+          "end_seconds": 63.84
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "5cab798fc4d74add75530e9dd871839db4ad53049ab7ad27228c2309440e8a7d",
+      "transcript_captured_at": "2026-10-25T13:03:06.020778Z",
+      "summary_generated_at": "2026-10-25T13:08:10.577021Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a short, opinionated monologue and provides no underlying documents or independent corroboration.",
+        "Several captions contain apparent errors or awkward phrasing, including the description of the land-trust transaction and the audit agreement.",
+        "The source does not define the legal structure, valuation methodology, tax treatment, or precise identities involved in the allegations.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "LOK1iNPVGPM",
+      "title": "Trump is panicking",
+      "url": "https://www.youtube.com/watch?v=LOK1iNPVGPM",
+      "published_at": "2026-10-25T11:18:27.000000Z",
+      "summary": "Aaron Parnas argues that Republican prospects are deteriorating nine days before the midterm elections, presenting Donald Trump’s closing message as a source of concern within the party. He contrasts Trump’s rally appearances with Barack Obama’s events in Michigan and Ohio, saying the difference in speaking and crowd-rallying ability was conspicuous. Parnas highlights Trump’s remarks about making unusually large amounts of money amid high gas prices, interpreting them as politically damaging because people are struggling at the pump. He also says some Republican operatives are privately describing the party’s position in highly negative terms and that the situation is becoming increasingly difficult for Republican operatives nationwide. The episode is brief and primarily consists of the creator’s interpretation of political messaging and reported behind-the-scenes sentiment. It does not provide polling, named sources, election results, or independent evidence establishing that Republican support is collapsing or that Trump’s speaking difficulties reflect a particular cause.",
+      "topics": [
+        "Midterm elections",
+        "Republican Party",
+        "Donald Trump",
+        "Barack Obama",
+        "Gas prices"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Some Republican operatives are saying the Republican Party’s position is collapsing or effectively finished before the midterm elections.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            0,
+            1,
+            8,
+            9,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim": "Donald Trump said, amid high gas prices, that “we’re making money like we’ve never made before.”",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "claim": "Trump sounded hoarse and had difficulty speaking at times during a rally, especially compared with Obama’s rallies in Michigan and Ohio.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames the episode around alleged Republican anxiety nine days before the midterm elections.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 11.2
+        },
+        {
+          "point": "The creator contrasts Trump and Obama’s speaking and rally performances.",
+          "evidence_segment_indices": [
+            5,
+            6,
+            7,
+            18,
+            20,
+            21,
+            22
+          ],
+          "start_seconds": 9.2,
+          "end_seconds": 45.68
+        },
+        {
+          "point": "Parnas presents Trump’s gas-price remarks as vulnerable to criticism while people face high pump prices.",
+          "evidence_segment_indices": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "start_seconds": 19.279,
+          "end_seconds": 34.48
+        },
+        {
+          "point": "The episode closes with a promise of further updates and a request that viewers follow along.",
+          "evidence_segment_indices": [
+            27,
+            28,
+            29,
+            30,
+            31
+          ],
+          "start_seconds": 52.719,
+          "end_seconds": 62.96
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "05224f571dc457d8d85d75c867f55492feb5d6e479a4b28d9cb7aaa84480c8d9",
+      "transcript_captured_at": "2026-10-25T11:33:05.650096Z",
+      "summary_generated_at": "2026-10-25T11:38:10.095146Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains apparent caption or speech-recognition defects, including “horsearo,” repeated words, and fragmented phrasing.",
+        "The source does not identify the Republican operatives or provide supporting documentation for their alleged views.",
+        "The material offers commentary and reported claims but no polling, election outcomes, or independent corroboration.",
+        "The cited comparison between rallies is described by the creator without measurable criteria for speaking or crowd performance.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "2AdlUz2Mi6g",
+      "title": "Trump is not happy",
+      "url": "https://www.youtube.com/watch?v=2AdlUz2Mi6g",
+      "published_at": "2026-10-25T00:42:03.000000Z",
+      "summary": "Aaron Parnas argues that Donald Trump was displeased by Barack Obama’s well-attended appearance in Michigan, contrasting it with what Parnas describes as less consistently full Trump rallies in recent weeks. The episode says Trump was campaigning in Georgia for Mike Collins against John Oaf and attributes to Trump the claim that Obama’s Michigan venue was empty. Parnas disputes that characterization, stating that no seats were empty while Obama spoke. He also says Fox News briefly cut away from Trump’s speech, which Parnas characterizes as rambling. The short clip is commentary rather than a detailed report: it provides no independent crowd figures, footage, polling, broadcast transcript, or explanation of the referenced political contests. One closing phrase is unclear and appears unrelated to the preceding discussion. The overview therefore reflects the creator’s framing and the claims presented in the captions, without independently establishing attendance levels, Trump’s reaction, or the reason for any broadcast change.",
+      "topics": [
+        "Trump and Obama",
+        "Michigan event attendance",
+        "Trump rally coverage",
+        "Fox News broadcast"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Trump said Barack Obama’s Michigan venue was empty.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim": "Obama’s Michigan appearance had no empty seats.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "claim": "Fox News cut away from Trump’s speech because it was rambling.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            12,
+            13,
+            14
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames Trump as unhappy about Obama’s Michigan crowd.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2
+          ],
+          "start_seconds": 0.08,
+          "end_seconds": 7.04
+        },
+        {
+          "point": "The clip contrasts Obama’s attendance with Trump’s recent rallies.",
+          "evidence_segment_indices": [
+            2,
+            3,
+            4
+          ],
+          "start_seconds": 3.36,
+          "end_seconds": 10.8
+        },
+        {
+          "point": "Trump is described as campaigning in Georgia for Mike Collins.",
+          "evidence_segment_indices": [
+            4,
+            5,
+            6
+          ],
+          "start_seconds": 7.04,
+          "end_seconds": 14.559
+        },
+        {
+          "point": "Parnas rejects Trump’s account of Obama’s crowd size.",
+          "evidence_segment_indices": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "start_seconds": 12.48,
+          "end_seconds": 23.519
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "1a052e30b71dd00a1dfbf79700495d42e9c8b012dd39c005a3044babfc2994d9",
+      "transcript_captured_at": "2026-10-25T03:03:05.473960Z",
+      "summary_generated_at": "2026-10-25T03:08:10.416756Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a brief commentary clip, not independent reporting.",
+        "No attendance figures or supporting visuals are provided.",
+        "The political name rendered as “John Oaf” may reflect a caption defect or ambiguity.",
+        "The closing word “Tofu” appears unrelated and may be a caption artifact.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "YWd_2n1DCws",
+      "title": "The Internet Might Need To Shut Down...",
+      "url": "https://www.youtube.com/watch?v=YWd_2n1DCws",
+      "published_at": "2026-10-25T00:07:53.000000Z",
+      "summary": "Mutahar argues that a cluster of recent internet-security stories illustrates a worsening digital-risk environment. He focuses on what he calls “HTTP-to-shell,” describing a purported vulnerability in Google’s Brotli compression decoder that could allegedly enable memory corruption, information disclosure, denial of service, or code execution when malformed compressed data is processed. He says exposure may arise through inbound requests, automatically decoded outbound responses, or direct decompression, including URL previews, webhooks, crawlers, and image proxies. The episode then broadens to artificial intelligence: Mutahar contends that coding and reverse-engineering models are accelerating vulnerability research and exploit development, while less-restricted models make safeguards easier to bypass. He also discusses alleged device surveillance, account restrictions, and competition among AI companies. His central prediction is that security fears could motivate tighter regulation, platform consolidation, and reduced privacy or self-hosting. The source presents these points as commentary and speculation; several technical names and examples are unclear in the captions and require independent verification.",
+      "topics": [
+        "Internet security vulnerabilities",
+        "Brotli and Node.js exposure",
+        "AI-assisted exploit development",
+        "Platform regulation and privacy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The described Brotli decoder vulnerability affects versions 1.0.3 through 1.2.0 and can permit memory corruption, information disclosure, denial of service, or arbitrary code execution.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            60,
+            61,
+            62,
+            64,
+            65,
+            66,
+            68,
+            69,
+            70,
+            71,
+            72
+          ]
+        },
+        {
+          "claim": "Node.js features such as fetch may automatically decode Brotli responses, exposing URL previews, webhooks, crawlers, image proxies, and similar services.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119
+          ]
+        },
+        {
+          "claim": "AI systems and reverse-engineering tools are being used to generate working exploits or uncover surveillance behavior in consumer devices.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            191,
+            192,
+            193,
+            194,
+            358,
+            359,
+            360,
+            361,
+            362,
+            363,
+            364,
+            365,
+            366,
+            367
+          ]
+        },
+        {
+          "claim": "A reverse-engineering user’s OpenAI account was deactivated for cyber abuse, and related claims about television microphone access occurred as described.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            367,
+            368,
+            369,
+            370,
+            371,
+            372,
+            373,
+            374,
+            375,
+            376,
+            377,
+            378,
+            379,
+            380,
+            381,
+            382,
+            383,
+            384
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode begins with Mutahar characterizing the week as unusually intense for internet safety and security news.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "start_seconds": 0.24,
+          "end_seconds": 31.199
+        },
+        {
+          "point": "He explains the alleged decoder issue as an out-of-bounds write caused by malformed compressed input.",
+          "evidence_segment_indices": [
+            60,
+            61,
+            62,
+            64,
+            65,
+            66,
+            68,
+            69,
+            70,
+            71,
+            72,
+            93,
+            94,
+            95,
+            96,
+            97
+          ],
+          "start_seconds": 144.959,
+          "end_seconds": 240.959
+        },
+        {
+          "point": "He emphasizes uncertainty about how widely these vulnerabilities have been exploited in practice.",
+          "evidence_segment_indices": [
+            136,
+            137,
+            141,
+            142,
+            143,
+            144,
+            145,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166
+          ],
+          "start_seconds": 327.52,
+          "end_seconds": 399.6
+        },
+        {
+          "point": "He predicts that AI-enabled security risks may lead to stronger controls, platform consolidation, and less privacy or self-hosting.",
+          "evidence_segment_indices": [
+            277,
+            278,
+            279,
+            280,
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287,
+            288,
+            289,
+            294,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            303,
+            304
+          ],
+          "start_seconds": 640.48,
+          "end_seconds": 708.64
+        },
+        {
+          "point": "The episode combines technical discussion with speculative criticism of AI companies’ incentives and safety claims.",
+          "evidence_segment_indices": [
+            502,
+            503,
+            504,
+            506,
+            507,
+            508,
+            509,
+            510,
+            511,
+            512,
+            513,
+            514,
+            515,
+            516,
+            517,
+            518,
+            519,
+            520,
+            521
+          ],
+          "start_seconds": 1123.76,
+          "end_seconds": 1165.12
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "82ad93999c7ae98b83ed5a733f6427904380d3a37f239e700cbd3f98e00ae9f2",
+      "transcript_captured_at": "2026-10-25T02:03:03.666305Z",
+      "summary_generated_at": "2026-10-25T02:08:15.578141Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Automatic captions contain apparent transcription errors in technical terms, including Brotli, vulnerability names, and product names.",
+        "The source is a single creator’s commentary and does not establish the reported vulnerabilities, exploitation, surveillance, or corporate actions independently.",
+        "Several examples are explicitly framed by Mutahar as unconfirmed, speculative, or conspiratorial.",
+        "The overview relies only on the supplied transcript and does not assess the underlying technical claims.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "0cI6rbutpLc",
+      "title": "Omg watch this",
+      "url": "https://www.youtube.com/watch?v=0cI6rbutpLc",
+      "published_at": "2026-10-24T23:13:24.000000Z",
+      "summary": "The creator presents a clip in which Barack Obama is portrayed as sharply criticizing Donald Trump and a defense secretary identified in the captions as “Pete Hexth.” Obama argues that diplomacy and a deal had prevented Iran from obtaining nuclear weapons, while Trump’s withdrawal allegedly preceded a war. He then describes consequences he attributes to that war, including attacks on allies and bases, American deaths and injuries, reduced missile stocks, and Iranian leverage over the Strait of Hormuz, linking those developments to higher oil, diesel, and general prices. Obama also ridicules the defense secretary, alleging that his attention centers on troops’ jawlines and testosterone, livestreamed executions, and cultivating a “warrior spirit,” before joking about the official’s appearance and time spent looking in a mirror. The source is a short excerpt with overlapping, imperfect captions and no independent documentation, surrounding context, or clear identification of the defense secretary.",
+      "topics": [
+        "Obama criticism",
+        "Iran nuclear diplomacy",
+        "War consequences",
+        "Defense secretary"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Obama’s described nuclear agreement prevented Iran from obtaining nuclear weapons, and Trump later withdrew from it.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            6,
+            7,
+            8,
+            10,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "claim": "The subsequent war resulted in attacks on allies and bases, American deaths and injuries, reduced missile stocks, and Iranian leverage over the Strait of Hormuz.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            17,
+            18,
+            19,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "claim": "The war caused increases in oil, diesel, and broader prices.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+          ]
+        },
+        {
+          "claim": "The defense secretary focused on troops’ jawlines and testosterone, livestreamed executions, and cultivating a warrior spirit.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames the clip as an unusually harsh attack by Obama on Trump and a defense secretary.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "start_seconds": 0.08,
+          "end_seconds": 16.8
+        },
+        {
+          "point": "Obama contrasts military escalation with diplomacy and a prior Iran nuclear deal.",
+          "evidence_segment_indices": [
+            6,
+            7,
+            8,
+            10,
+            12,
+            14,
+            15,
+            16
+          ],
+          "start_seconds": 13.92,
+          "end_seconds": 46.12
+        },
+        {
+          "point": "He attributes military, supply, energy, and price consequences to the later conflict.",
+          "evidence_segment_indices": [
+            17,
+            18,
+            19,
+            24,
+            27,
+            28,
+            29,
+            30,
+            33,
+            36,
+            38
+          ],
+          "start_seconds": 40.559,
+          "end_seconds": 107.68
+        },
+        {
+          "point": "He uses sarcasm to criticize the defense secretary’s alleged priorities and appearance.",
+          "evidence_segment_indices": [
+            41,
+            44,
+            45,
+            46,
+            47,
+            48,
+            50,
+            51,
+            52,
+            53,
+            54
+          ],
+          "start_seconds": 110.0,
+          "end_seconds": 155.08
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "a114b21917ef6eb71c0663fb5d53a1cbbd45c96535c4c58b95ba4a9a815d200b",
+      "transcript_captured_at": "2026-10-24T23:33:03.428053Z",
+      "summary_generated_at": "2026-10-24T23:38:10.637559Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Captions contain overlap, interruptions, stutters, and apparent transcription errors.",
+        "The defense secretary’s name is unclear; the caption renders it as “Pete Hexth.”",
+        "The excerpt does not establish the date, setting, or full context of the quoted remarks.",
+        "All political, military, casualty, and economic assertions are presented only through this source and require independent verification.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "YaSiUj9VGsE",
+      "title": "Barack Obama TEARS Into Trump Leaving MAGA Furious, Trump is MELTING DOWN!!",
+      "url": "https://www.youtube.com/watch?v=YaSiUj9VGsE",
+      "published_at": "2026-10-24T22:36:33.000000Z",
+      "summary": "The creator presents a politically charged roundup centered on Barack Obama’s reported campaign appearances in Ohio and Michigan. The creator says Obama criticized Donald Trump’s White House renovations, describing gold décor, a ballroom, and a helicopter pad through mocking comparisons; the transcript does not independently establish the renovations’ details. The creator also says Obama questioned the conduct and priorities of officials identified in the captions as Vivek Ramaswamy and Pete Hegseth, including criticism of wartime performance and public behavior. A second focus is Elon Musk’s statement that Starlink access was restricted after alleged Ukrainian use for offensive drone operations. The creator characterizes this as a possible war crime and suggests Musk or administration officials might need pardons, while the excerpt supplies no legal finding or independent corroboration. Finally, the creator discusses a president saying pardons for junior officials had not been considered but might be permissible. The segment ends with a subscription appeal and personal programming note.",
+      "topics": [
+        "Obama campaign remarks",
+        "White House renovations",
+        "Defense and wartime criticism",
+        "Starlink and Ukraine",
+        "Potential pardons"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The creator characterizes Musk’s Starlink statement as a possible admission of conduct that could constitute a war crime.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            11,
+            12,
+            14,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim": "The creator reports that Starlink access was restricted because Ukraine allegedly used the service for offensive drone operations.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            145,
+            148,
+            151,
+            153,
+            154,
+            158,
+            160,
+            161,
+            162
+          ]
+        },
+        {
+          "claim": "The creator reports that the president may consider pardons for junior administration officials.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            167,
+            168,
+            170,
+            176,
+            178,
+            189,
+            190
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator says Obama criticized Trump’s renovations and mocked the White House’s reported gold décor and planned ballroom.",
+          "evidence_segment_indices": [
+            38,
+            43,
+            44,
+            45,
+            61,
+            63,
+            64,
+            67,
+            70,
+            71
+          ],
+          "start_seconds": 82.479,
+          "end_seconds": 169.28
+        },
+        {
+          "point": "The creator presents Obama as arguing that public officials should meet standards of decency and character.",
+          "evidence_segment_indices": [
+            82,
+            84,
+            85,
+            89,
+            93,
+            94
+          ],
+          "start_seconds": 194.08,
+          "end_seconds": 229.239
+        },
+        {
+          "point": "The creator says Obama criticized defense leadership over reported wartime outcomes and officials’ priorities.",
+          "evidence_segment_indices": [
+            95,
+            101,
+            106,
+            109,
+            111,
+            115,
+            122,
+            126,
+            128,
+            136,
+            138
+          ],
+          "start_seconds": 230.239,
+          "end_seconds": 362.0
+        },
+        {
+          "point": "The episode combines political commentary with discussion of Starlink restrictions and possible pardons.",
+          "evidence_segment_indices": [
+            141,
+            145,
+            151,
+            158,
+            166,
+            167,
+            178,
+            190
+          ],
+          "start_seconds": 365.44,
+          "end_seconds": 468.56
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "23b848afd3a8835f844c4f92ada2d78b894922e7ffb40f28a3ef576c5822185f",
+      "transcript_captured_at": "2026-10-24T23:03:03.378515Z",
+      "summary_generated_at": "2026-10-24T23:08:11.279858Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies solely on the supplied transcript and does not verify its political, legal, military, or pricing claims.",
+        "Several names, titles, and words appear mistranscribed, including references to officials and Starlink.",
+        "The excerpt contains overlapping captions, fragments, and unclear wording that may affect attribution and meaning.",
+        "The source presents commentary and allegations alongside quoted remarks; it does not establish the underlying facts independently.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "LhoSlJvhqPU",
+      "title": "This is insane.",
+      "url": "https://www.youtube.com/watch?v=LhoSlJvhqPU",
+      "published_at": "2026-10-24T22:11:14.000000Z",
+      "summary": "Aaron Parnas alleges that Elon Musk admitted turning off Starlink for Ukraine and links that decision to civilian deaths. The episode presents Musk as saying Starlink was not permitted for offensive drone strikes and that Ukrainian military use violated the service’s terms. Parnas disputes the justification, stating there was no evidence for the alleged offensive use, and says a loophole had been closed the previous week. He further alleges that Musk initially blamed the White House before acknowledging responsibility. The segment concludes by asserting that Ukrainian civilians died after the reported change and urges viewers to spread the claim. The supplied captions contain only Parnas’s narration and fragments attributed to Musk; they do not include the underlying post, independent reporting, evidence of the alleged terms-of-service violation, or documentation connecting the service change to specific deaths. Accordingly, the episode conveys a pointed allegation and call to action rather than independently established findings.",
+      "topics": [
+        "Starlink access in Ukraine",
+        "Elon Musk statements",
+        "Military use allegations",
+        "Civilian casualties"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Elon Musk admitted turning off Starlink for Ukraine.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            0,
+            1,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim": "The Starlink decision led to the deaths of Ukrainian civilians.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            1,
+            2,
+            14
+          ]
+        },
+        {
+          "claim": "Ukrainian military forces violated Starlink terms of service by using it for offensive drone strikes.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim": "Musk initially blamed the White House and later acknowledged responsibility for closing a loophole.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas attributes to Musk a position against using Starlink for offensive drone strikes.",
+          "evidence_segment_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "start_seconds": 6.64,
+          "end_seconds": 19.6
+        },
+        {
+          "point": "Parnas says there was no evidence supporting the alleged Ukrainian terms-of-service violation.",
+          "evidence_segment_indices": [
+            7,
+            8,
+            9
+          ],
+          "start_seconds": 14.88,
+          "end_seconds": 21.439
+        },
+        {
+          "point": "The narration says a loophole was closed the previous week and connects the event with civilian deaths.",
+          "evidence_segment_indices": [
+            9,
+            10,
+            11,
+            14
+          ],
+          "start_seconds": 17.76,
+          "end_seconds": 32.4
+        },
+        {
+          "point": "The episode ends with a request to spread the claim and follow the creator.",
+          "evidence_segment_indices": [
+            14,
+            15
+          ],
+          "start_seconds": 27.279,
+          "end_seconds": 32.4
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "ef82a02ebd0370c1caefb8c24d8f996fcaf1ce17bd16cea8a0357eb425e870a8",
+      "transcript_captured_at": "2026-10-24T22:33:05.727909Z",
+      "summary_generated_at": "2026-10-24T22:38:10.129857Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The captions provide no underlying Musk post or corroborating source.",
+        "The causal link between the Starlink change and civilian deaths is asserted but not documented in the supplied material.",
+        "The caption renders “Starling” once, likely referring to Starlink.",
+        "The excerpt is a short creator narration and does not establish the broader timeline or affected incidents.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "0hIzwCXxkSo",
+      "title": "Wow",
+      "url": "https://www.youtube.com/watch?v=0hIzwCXxkSo",
+      "published_at": "2026-10-24T20:43:01.000000Z",
+      "summary": "Aaron Parnas presents a clip in which Barack Obama and another speaker criticize Donald Trump’s apparent priorities and White House-related renovations. The commentary argues that promises have not produced expected results and questions whether Trump is spending sufficient time on policy issues. It then characterizes him as focused on home renovations, including an alleged ballroom larger than the White House, changes to the Rose Garden, a helicopter pad on the South Lawn, and extensive use of gold. The remarks are delivered in a mocking, critical tone, including a comparison to Saddam Hussein and a cheesecake factory. The source is a short, automatically captioned excerpt and provides no date, location, surrounding discussion, visual confirmation, or independent corroboration for the renovation claims. It also does not clearly identify which speaker makes each statement beyond the clip’s opening attribution to Obama. Accordingly, the episode overview reflects the speakers’ assertions and Parnas’s framing rather than establishing the underlying claims as fact.",
+      "topics": [
+        "Donald Trump",
+        "Barack Obama",
+        "White House renovations",
+        "Political commentary"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The White House has been altered with a ballroom larger than the White House, a helicopter pad on the South Lawn, and extensive gold decoration.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            24
+          ]
+        },
+        {
+          "claim": "The Rose Garden has been paved over as part of the renovations.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            19,
+            20
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames the clip as Obama sharply criticizing Trump, while the excerpt itself provides limited speaker identification.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "start_seconds": 0.08,
+          "end_seconds": 10.8
+        },
+        {
+          "point": "The commentary questions whether Trump is focused on policy issues and says he appears focused on home renovations.",
+          "evidence_segment_indices": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "start_seconds": 22.48,
+          "end_seconds": 46.52
+        },
+        {
+          "point": "The speakers mock the alleged scale and style of the renovations, emphasizing a ballroom, helicopter pad, and gold décor.",
+          "evidence_segment_indices": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            24,
+            25,
+            26
+          ],
+          "start_seconds": 46.64,
+          "end_seconds": 71.439
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "38d50b8710b6e105e25ca713af8fbf1ac7fb6c1578e7a3ae7d8c98d0751160c4",
+      "transcript_captured_at": "2026-10-24T21:03:06.108073Z",
+      "summary_generated_at": "2026-10-24T21:08:20.870005Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Automatic captions contain stutters, truncations, and awkward phrasing.",
+        "The short excerpt does not clearly establish which person says every line.",
+        "The renovation descriptions and promise tally are presented only as commentary, without corroboration or broader context.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "L7sY-hYTKtQ",
+      "title": "Oops!",
+      "url": "https://www.youtube.com/watch?v=L7sY-hYTKtQ",
+      "published_at": "2026-10-24T18:31:20.000000Z",
+      "summary": "Aaron Parnas argues that Trump-themed merchandise stores are closing across the United States and presents this as evidence that enthusiasm for Trump and MAGA products has declined. Citing The Independent, he says at least four stores selling Trump merchandise have shut down. Parnas attributes the alleged business failures to reduced consumer interest, Trump no longer being on the ballot, and what he describes as a historically high unpopularity rating. He refers to stores in Pennsylvania and Tennessee and says operators who opened them are rapidly going out of business. The episode is a brief commentary built around a political interpretation of reported store closures, rather than a detailed examination of sales data, store finances, or broader retail trends. Its conclusions therefore depend on the accuracy and completeness of the cited reporting and on whether the closures reflect national demand. The segment ends with a request that viewers share the claim and follow for more content.",
+      "topics": [
+        "Trump merchandise retail closures",
+        "MAGA consumer interest",
+        "Trump popularity",
+        "Political commentary"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "At least four stores selling Trump merchandise have closed across the country, according to The Independent.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim": "Trump merchandise stores are closing because Americans are less interested in buying MAGA or Trump-related products.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim": "Trump's unpopularity rating is at a historic high.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim": "Trump merchandise stores in Pennsylvania and Tennessee are rapidly going out of business.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames reported store closures as a sign of declining Trump-related commercial enthusiasm.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            6,
+            7,
+            8
+          ],
+          "start_seconds": 0.24,
+          "end_seconds": 24.0
+        },
+        {
+          "point": "The episode cites at least four reported closures and mentions Pennsylvania and Tennessee.",
+          "evidence_segment_indices": [
+            3,
+            4,
+            5,
+            13,
+            14,
+            15
+          ],
+          "start_seconds": 7.68,
+          "end_seconds": 41.36
+        },
+        {
+          "point": "The creator links the alleged decline to Trump's ballot status and claimed unpopularity.",
+          "evidence_segment_indices": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "start_seconds": 19.279,
+          "end_seconds": 35.6
+        },
+        {
+          "point": "The conclusion is presented as commentary and does not include sales figures or detailed business evidence.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            17,
+            18
+          ],
+          "start_seconds": 0.24,
+          "end_seconds": 46.559
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "9cd234adbde19936e3c1e2da435c95eb5d8e6db2639f2e6f71872ac9cacc32e5",
+      "transcript_captured_at": "2026-10-24T19:03:05.756704Z",
+      "summary_generated_at": "2026-10-24T19:10:27.344260Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a short commentary clip and provides no underlying sales, financial, or polling data.",
+        "The cited Independent report is referenced but not reproduced, so its scope and wording cannot be assessed here.",
+        "The transcript may contain caption or phrasing defects, including compressed wording around political claims.",
+        "The source does not establish whether the mentioned closures represent a broader national retail trend.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "oU7UIGi2ylM",
+      "title": "🚨Trump and Elon PANIC Over Fear of PRISON, They are Getting DESPERATE",
+      "url": "https://www.youtube.com/watch?v=oU7UIGi2ylM",
+      "published_at": "2026-10-24T16:50:26.000000Z",
+      "summary": "Aaron Parnas argues that Donald Trump and Elon Musk are acting out of fear of future investigations, testimony, and possible prosecution. He says the White House is considering broad or preemptive pardons for junior staff and personnel associated with areas including deportation, war, and trade, while contending that pardons could compel recipients to testify and therefore backfire. Parnas also portrays Musk’s campaign spending as an effort to preserve Republican congressional control and avoid scrutiny of his government-related activities. The episode cites alleged consequences involving USAID, Starlink, SpaceX, immigration enforcement, military action, and trade, while incorporating commentary from Lawrence O’Donnell and references to Bill Gates. Parnas further discusses Trump’s remarks that he could issue pardons, including a possible self-pardon, and interprets those comments as evidence of mounting concern. The segment is primarily commentary and prediction; its reported claims, legal assertions, spending figures, and allegations are presented without supporting documentation in the transcript.",
+      "topics": [
+        "Presidential pardons",
+        "Congressional investigations",
+        "Elon Musk’s campaign spending",
+        "Trump administration accountability"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The White House is considering broad or preemptive pardons for junior staff or personnel connected to specific policy areas.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            28,
+            29,
+            30,
+            31,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+          ]
+        },
+        {
+          "claim": "Elon Musk has spent more than $442 million in midterm elections, including $76 million in the preceding month.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148
+          ]
+        },
+        {
+          "claim": "Musk’s actions involving USAID allegedly contributed to deaths through deprivation of food or medicine.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            152,
+            153,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183
+          ]
+        },
+        {
+          "claim": "Trump said he is legally allowed to issue a self-pardon and could pardon people who worked for him.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            98,
+            99,
+            108,
+            109,
+            110,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            130,
+            131,
+            132,
+            133
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas presents possible mass pardons as a response to anticipated investigations and prosecution.",
+          "evidence_segment_indices": [
+            8,
+            9,
+            12,
+            16,
+            17,
+            18,
+            28,
+            29,
+            30,
+            31,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            46,
+            47,
+            48,
+            95,
+            96,
+            97
+          ],
+          "start_seconds": 19.84,
+          "end_seconds": 218.64
+        },
+        {
+          "point": "He argues that accepting a pardon could remove Fifth Amendment protections for the pardoned conduct and expose recipients to questioning or perjury charges.",
+          "evidence_segment_indices": [
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94
+          ],
+          "start_seconds": 138.4,
+          "end_seconds": 211.2
+        },
+        {
+          "point": "The episode links Musk’s political spending to a desire to avoid congressional testimony about his government-related activities.",
+          "evidence_segment_indices": [
+            141,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162
+          ],
+          "start_seconds": 301.919,
+          "end_seconds": 353.039
+        },
+        {
+          "point": "Trump’s recorded remarks address pardons, including whether he might pardon himself and employees who could face legal scrutiny.",
+          "evidence_segment_indices": [
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126
+          ],
+          "start_seconds": 220.0,
+          "end_seconds": 277.52
+        },
+        {
+          "point": "Parnas closes by predicting an uncertain and potentially damaging political future for people inside and outside the administration.",
+          "evidence_segment_indices": [
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211
+          ],
+          "start_seconds": 451.039,
+          "end_seconds": 483.52
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "e1758748fdab9af04e1fc6f980b02725a0aa8f56c74a6b458db1b8fa0826b19c",
+      "transcript_captured_at": "2026-10-24T17:08:24.881229Z",
+      "summary_generated_at": "2026-10-24T18:33:16.033597Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is commentary and includes predictions, interpretations, and allegations that are not independently established within the source.",
+        "Several captions contain repetitions, transcription errors, and unclear names or phrases.",
+        "Attributions to outside reporting and commentators are mentioned, but the underlying reports and recordings are not provided here.",
+        "The source offers limited context for legal claims, election-spending figures, polling or turnout statements, and alleged causal links.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "1LS5nvcU5SI",
+      "title": "This will backfire.",
+      "url": "https://www.youtube.com/watch?v=1LS5nvcU5SI",
+      "published_at": "2026-10-24T15:32:53.000000Z",
+      "summary": "Aaron Parnas discusses reporting that Donald Trump is considering mass pardons for junior staffers in the White House and executive branch. Parnas argues that such pardons could backfire because, in his view, recipients would lose Fifth Amendment protection and the right to remain silent regarding pardoned offenses. He also suggests that issuing preemptive pardons to many staffers could carry a damaging political implication: the public might infer that the president believes they were involved in, aided, or abetted criminal conduct. The episode presents these points as commentary on reported possibilities, not as established facts. The source does not identify the alleged offenses, the staffers involved, the scope or status of any contemplated pardons, or the legal basis for the constitutional claim. It relies on brief, overlapping captions and attributes the underlying report to the Washington Sun. Parnas closes by inviting viewers to share their opinions and follow for more content.",
+      "topics": [
+        "Potential mass pardons",
+        "White House staffers",
+        "Fifth Amendment protections",
+        "Political implications"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The Washington Sun reported that Donald Trump is considering mass pardons for junior White House and executive-branch staffers.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim": "A pardon removes Fifth Amendment protection or the right to remain silent for the pardoned offenses.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim": "Preemptive pardons would signal that the president believes the recipients may have aided, abetted, or committed criminal offenses.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames the reported pardon possibility as something that could significantly backfire on Trump.",
+          "evidence_segment_indices": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "start_seconds": 5.68,
+          "end_seconds": 16.16
+        },
+        {
+          "point": "The commentary focuses on legal consequences for pardon recipients and political perceptions of mass pardons.",
+          "evidence_segment_indices": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "start_seconds": 11.679,
+          "end_seconds": 40.239
+        },
+        {
+          "point": "The source provides no names, alleged offenses, or confirmation that pardons are being issued.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            19
+          ],
+          "start_seconds": 0.08,
+          "end_seconds": 43.52
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "57f83a4467d633c53ace3cd207ff3571ad9668dd275ccbf13df101e9cc7ca7fd",
+      "transcript_captured_at": "2026-10-24T17:09:49.300951Z",
+      "summary_generated_at": "2026-10-24T18:23:37.793527Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The account is based on brief creator commentary and attributed reporting, not primary documentation.",
+        "Overlapping caption segments may contain transcription defects or incomplete phrasing.",
+        "The source does not establish whether Trump has formally decided to issue any pardons.",
+        "The legal claims and reported proposal require independent verification.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "L2qGbHxXj78",
+      "title": "Trump sells out Alaska.",
+      "url": "https://www.youtube.com/watch?v=L2qGbHxXj78",
+      "published_at": "2026-10-24T14:02:44.000000Z",
+      "summary": "Aaron Parnas argues that Donald Trump is “selling out” Alaska by allowing Russian interests into a major American gas project. He cites reported Financial Times and New York Times investigations alleging that U.S. executives left a $25 billion venture after concerns about concealed Russian control and that a sanctioned Russian energy company secretly financed an American firm promoting an Alaska gas project. The account says the Russian involvement was routed through a UAE-linked intermediary and that the White House was warned about the financing and urged to investigate. It also connects the project to Ukraine peace discussions involving Vladimir Putin, Steve Witkoff, and Jared Kushner. Parnas explicitly notes there is no direct indication that Witkoff or Kushner knew about the alleged Russian ties. The episode presents these reports as raising questions about sanctions, oversight, and economic cooperation between Putin and the Trump administration. The supplied captions contain only the creator’s brief account and do not independently establish the allegations.",
+      "topics": [
+        "Alaska gas project",
+        "Russian financing allegations",
+        "U.S. sanctions and oversight",
+        "Ukraine peace discussions"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A sanctioned Russian energy company secretly financed an American company promoting an Alaska gas project through a UAE-linked intermediary.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            10,
+            11,
+            12,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "claim": "U.S. executives resigned from a $25 billion gas venture because of alleged Russian ties.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            4,
+            5,
+            6,
+            19,
+            20
+          ]
+        },
+        {
+          "claim": "The White House was warned about alleged Russian financing and urged to investigate.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim": "The Alaska project was discussed in Ukraine peace talks involving Putin, Witkoff, and Kushner.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            12,
+            13,
+            14,
+            15
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames alleged Russian involvement in an Alaska energy venture as a political scandal.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            7
+          ],
+          "start_seconds": 0.0,
+          "end_seconds": 19.439
+        },
+        {
+          "point": "The cited investigations allegedly describe concealed financing and Russian control concerns.",
+          "evidence_segment_indices": [
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            21,
+            22
+          ],
+          "start_seconds": 6.48,
+          "end_seconds": 51.36
+        },
+        {
+          "point": "The account does not directly implicate Witkoff or Kushner in knowing about the alleged ties.",
+          "evidence_segment_indices": [
+            16,
+            17,
+            18
+          ],
+          "start_seconds": 35.2,
+          "end_seconds": 42.879
+        },
+        {
+          "point": "The episode questions how sanctioned Russian interests entered a major U.S. energy project.",
+          "evidence_segment_indices": [
+            27,
+            28,
+            29,
+            30,
+            31
+          ],
+          "start_seconds": 59.039,
+          "end_seconds": 76.24
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "77e1ef7db790b320ea0cc5ddf02dc729d05d7e93db3a5c9ed040a66a49339893",
+      "transcript_captured_at": "2026-10-24T17:10:10.844538Z",
+      "summary_generated_at": "2026-10-24T18:51:09.192995Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies only on the supplied captions and does not independently verify the cited investigations or allegations.",
+        "Captions contain repeated and overlapping phrasing, including references to both Financial Times and New York Times investigations.",
+        "The source does not identify the venture, companies, intermediary, or specific evidence supporting the reported claims.",
+        "The captions provide limited context and end with rhetorical questions rather than documented conclusions.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "0yN7TrDRzuk",
+      "title": "Hitler’s estate has been set ablaze.",
+      "url": "https://www.youtube.com/watch?v=0yN7TrDRzuk",
+      "published_at": "2026-10-24T13:14:58.000000Z",
+      "summary": "Aaron Parnas reports that Hitler’s Eagle Nest estate in southern Bavaria was set ablaze, attributing the location and incident to a report from Der Spiegel. He says an individual was arrested on suspicion of arson and describes the fire as having engulfed and largely destroyed the estate. The episode also states that access to the building is now restricted to people using what the captions render as “heavy breathing apparatus.” The source provides no details about the arrested person, the cause or circumstances of the fire, the extent of structural damage, or whether investigators have confirmed arson. It also offers no independent documentation beyond the creator’s brief narration and a reference to Der Spiegel. Because the available material is short and appears to contain captioning errors, the report should be treated as a limited account of alleged events rather than a fully substantiated incident report.",
+      "topics": [
+        "Eagle Nest estate",
+        "Southern Bavaria fire",
+        "Suspected arson",
+        "Arrest report"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The Eagle Nest estate in southern Bavaria was set ablaze.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            5
+          ]
+        },
+        {
+          "claim": "An individual was arrested on suspicion of arson.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim": "The fire largely destroyed the building and restricted access requires breathing apparatus.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator reports a fire at Hitler’s Eagle Nest estate.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            5
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 18.32
+        },
+        {
+          "point": "The report attributes the suspected-arson information to Der Spiegel.",
+          "evidence_segment_indices": [
+            2,
+            3,
+            4
+          ],
+          "start_seconds": 5.68,
+          "end_seconds": 16.16
+        },
+        {
+          "point": "The creator says the fire largely destroyed the estate.",
+          "evidence_segment_indices": [
+            5,
+            6,
+            7
+          ],
+          "start_seconds": 13.759,
+          "end_seconds": 22.48
+        },
+        {
+          "point": "The available narration gives little detail about the incident or investigation.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 26.88
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "8b82e7d553d52988c0691b7ad39e5e3d26bafb56ea24ca5cde61785f02a2aba6",
+      "transcript_captured_at": "2026-10-24T17:10:16.476024Z",
+      "summary_generated_at": "2026-10-24T19:38:19.503931Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The material is a very short creator narration with no supporting documents or visual evidence included.",
+        "The captions contain a likely defect in the phrase rendered as “heavy breathing apparatus.”",
+        "The source does not establish the identity of the arrested person, the confirmed cause, or the precise extent of damage.",
+        "The reference to Der Spiegel is not independently verifiable from the supplied material.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "mgPbhWZQt4s",
+      "title": "White House officials prepare for an “all out rampage”",
+      "url": "https://www.youtube.com/watch?v=mgPbhWZQt4s",
+      "published_at": "2026-10-24T12:15:33.000000Z",
+      "summary": "Aaron Parnas argues that White House officials are preparing for possible upheaval as an election approaches and the president becomes increasingly vulnerable politically. He says aides fear a post-election “rampage” involving staff firings or reassignments if Republicans lose at least one chamber of Congress, attributing the account to CNN and other White House sources. Parnas frames the situation as the possible end of a presidency, citing both reported concerns about the president’s public performance and the prospect of legislative gridlock. He predicts that a Democratic takeover of the House would stall the Trump agenda, while also contending that the administration has already achieved limited legislative success. The episode presents these developments as an internal White House assessment and political interpretation rather than independently established facts. The short transcript offers no detailed sourcing, corroborating statements, election results, or direct comments from officials, so its forecasts and descriptions require independent verification.",
+      "topics": [
+        "White House staffing",
+        "Election outlook",
+        "Congressional control",
+        "Presidential lame-duck status"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "White House aides and officials reportedly anticipate staff firings or reassignments if Republicans lose at least one chamber of Congress.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            4,
+            6,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim": "CNN and other sources inside the White House reported significant internal jockeying ahead of the election.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim": "A Democratic takeover of the House would stall the Trump agenda.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            18,
+            19,
+            20,
+            21
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas describes officials as bracing for possible post-election upheaval.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            3,
+            4,
+            8,
+            9
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 24.0
+        },
+        {
+          "point": "The reported scenario includes firing or reassigning staff after a Republican loss in Congress.",
+          "evidence_segment_indices": [
+            10,
+            11,
+            12
+          ],
+          "start_seconds": 21.6,
+          "end_seconds": 31.039
+        },
+        {
+          "point": "The episode links a House Democratic victory to legislative gridlock.",
+          "evidence_segment_indices": [
+            18,
+            19,
+            20,
+            21
+          ],
+          "start_seconds": 39.76,
+          "end_seconds": 50.0
+        },
+        {
+          "point": "Parnas characterizes the administration as becoming a lame duck and the presidency as nearing its end.",
+          "evidence_segment_indices": [
+            2,
+            5,
+            14,
+            15,
+            26,
+            27,
+            29,
+            30
+          ],
+          "start_seconds": 4.319,
+          "end_seconds": 67.68
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "6b06584f679f8e0bcb13d4f55b11ae18f5c2eb92ab8b724821d812543065cf83",
+      "transcript_captured_at": "2026-10-24T17:10:22.198459Z",
+      "summary_generated_at": "2026-10-24T19:38:40.862894Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is short and provides no direct quotations or independently verifiable documentation from officials.",
+        "Caption defects and wording ambiguities include “allout,” “aids,” and the unclear phrase “allout quote rampage.”",
+        "Predictions about a future internal “rampage,” election outcomes, and legislative consequences remain unconfirmed in the source.",
+        "The transcript attributes some reporting to CNN and unnamed White House sources but does not identify specific reports or individuals.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -496,6 +2818,1044 @@
         "The source attributes vulnerability details, attacks, advisories, and affected organizations to the creator’s discussion; it does not provide independently verifiable documentation.",
         "Some claims about attack prevalence, millions of devices, botnet expansion, government warnings, and specific CVEs remain ambiguous or incomplete in the transcript.",
         "The episode mixes technical discussion with personal anecdotes, predictions, and rhetorical comparisons, so scope and severity should not be inferred beyond the cited statements.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "v3feGzrk5x8",
+      "title": "You need to see this. I couldn’t hold my back.",
+      "url": "https://www.youtube.com/watch?v=v3feGzrk5x8",
+      "published_at": "2026-10-23T23:02:42.000000Z",
+      "summary": "Aaron Parnas presents a clip he describes as a viral moment involving a Fox News reporter speaking with college students at a Donald Trump rally. In Parnas’s framing, the reporter is seeking favorable comments about Trump, but a student instead discusses hopes for relief related to war, inflation, interest rates, shopping costs, and gasoline prices. The student says current pricing feels excessive and expresses a broader desire for economic relief. The reporter begins to respond by referencing “the latest Fox,” after which the supplied narration says the microphone is pulled away and emphasizes a pause. Parnas characterizes this sequence as the reporter effectively leaving the exchange, then ends with a request to follow for more. The evidence consists of a short transcript with overlapping captions and commentary from Parnas; it does not provide the full video, the reporter’s identity, the rally’s location, or surrounding context. The transcript therefore supports describing the presented exchange and Parnas’s interpretation, but not independently confirming the broader viral framing or intent attributed to the reporter.",
+      "topics": [
+        "Fox News interview",
+        "Donald Trump rally",
+        "College student concerns",
+        "Inflation and prices"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Parnas alleges that the reporter was attempting to elicit praise for Donald Trump from college students.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim": "Parnas’s narration portrays the reporter as pulling away and leaving after the student discussed economic concerns.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            22,
+            23,
+            24,
+            25
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "A student lists war relief, lower inflation and interest rates, and more predictable everyday costs as priorities.",
+          "evidence_segment_indices": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "start_seconds": 24.24,
+          "end_seconds": 44.079
+        },
+        {
+          "point": "The student describes current pricing as excessive and hopes for broader economic relief.",
+          "evidence_segment_indices": [
+            18,
+            19,
+            20,
+            21
+          ],
+          "start_seconds": 32.559,
+          "end_seconds": 44.079
+        },
+        {
+          "point": "The supplied narration highlights a microphone movement and pause after the student’s answer.",
+          "evidence_segment_indices": [
+            22,
+            23,
+            24,
+            25
+          ],
+          "start_seconds": 41.2,
+          "end_seconds": 50.68
+        },
+        {
+          "point": "The clip ends with Parnas asking viewers to follow for more.",
+          "evidence_segment_indices": [
+            26
+          ],
+          "start_seconds": 51.92,
+          "end_seconds": 54.719
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "dd34dfd6f3f6b0e96d81bf8d069fe44715a5aea85bd5ff7cf0b5dc6d0b550538",
+      "transcript_captured_at": "2026-10-24T17:33:05.674488Z",
+      "summary_generated_at": "2026-10-24T20:08:22.997254Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Captions overlap and contain an incomplete phrase near the opening.",
+        "The transcript does not identify the reporter, students, rally location, or full exchange.",
+        "The claim that the moment is viral comes from Parnas’s narration and is not independently established here.",
+        "The supplied material captures only a short excerpt and may omit relevant context.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "WWrlUTYv3Io",
+      "title": "Trump is declining.",
+      "url": "https://www.youtube.com/watch?v=WWrlUTYv3Io",
+      "published_at": "2026-10-23T22:32:44.000000Z",
+      "summary": "Aaron Parnas argues that Donald Trump appeared to struggle to maintain a coherent line of thought during a recent Florida appearance, presenting the episode as concerning to observers. The supplied captions show Trump discussing U.S. military equipment, referring first to Venezuela and then to what appears to be “the Islamic Republic of Iran,” with an unclear intervening phrase. Parnas interprets the delivery as a sign that Trump was prompting himself to continue and describes the remarks as jumping between subjects. He also connects the clip to what he characterizes as other recent noises or sounds. The evidence here is limited to a short, automatically generated caption excerpt and Parnas’s interpretation of it. The transcript contains apparent errors and incomplete wording, so it does not independently establish Trump’s condition, intentions, or the broader reactions asserted by the creator.",
+      "topics": [
+        "Donald Trump",
+        "Aaron Parnas",
+        "Florida appearance",
+        "Speech coherence"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Aaron Parnas says Trump was struggling to put together a cohesive thought and that this alarmed people around him, publicly and online.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim": "The clip allegedly shows Trump moving among references to Venezuela, a national-related topic, and Iran.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            5,
+            7,
+            8,
+            9,
+            10,
+            13,
+            14
+          ]
+        },
+        {
+          "claim": "Parnas characterizes Trump’s delivery as including self-prompting and other unusual sounds.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            11,
+            12,
+            15,
+            16,
+            17
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames the Florida clip as evidence of declining verbal coherence.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 11.28
+        },
+        {
+          "point": "Trump’s quoted remarks mention military equipment and Venezuela before an unclear transition involving Iran.",
+          "evidence_segment_indices": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "start_seconds": 9.519,
+          "end_seconds": 26.0
+        },
+        {
+          "point": "Parnas interprets the sequence as abrupt topic changes and possible self-correction.",
+          "evidence_segment_indices": [
+            11,
+            12,
+            13,
+            14
+          ],
+          "start_seconds": 24.16,
+          "end_seconds": 33.44
+        },
+        {
+          "point": "The material consists of a brief caption excerpt and does not independently verify the creator’s conclusions.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            11,
+            12,
+            15,
+            16,
+            17
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 37.92
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "47013306378fe0e6bb92c09712ff0e83fef428185cffb6783ffd410b45e2ee18",
+      "transcript_captured_at": "2026-10-24T17:33:21.310501Z",
+      "summary_generated_at": "2026-10-24T20:08:44.583439Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The captions contain incomplete and apparently erroneous wording, including an unclear phrase before the reference to Iran.",
+        "The excerpt does not provide the full Florida remarks or surrounding context.",
+        "Claims about observers being alarmed and about other sounds are attributed to the creator and are not independently established here.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "Kd1uibsWLL4",
+      "title": "Marco Rubio calls on Cuban citizens to partner with the CIA.",
+      "url": "https://www.youtube.com/watch?v=Kd1uibsWLL4",
+      "published_at": "2026-10-23T21:56:43.000000Z",
+      "summary": "Creator Aaron Parnas presents the possibility that Cuba could be the next focus of U.S. policy, asserting that the U.S. government and Marco Rubio are openly encouraging Cuban citizens to work with the CIA. He characterizes the alleged proposal as a discreet partnership intended to create political change and potentially overthrow Cuba’s government. Parnas also links this claim to a reported statement by Donald Trump that the United States would “take care of Cuba” after dealing with Iran. From these statements, he predicts that the Trump administration may soon initiate another regime-change effort in Cuba and urges viewers to share the information. The excerpt provides no direct text of Rubio’s purported message, Trump’s full statement, or independent confirmation of either claim. Because the material is a short, commentary-style clip and the captions are fragmented across overlapping segments, its description should be treated as the creator’s interpretation rather than verification of U.S. policy, covert activity, or planned military action.",
+      "topics": [
+        "U.S.-Cuba relations",
+        "CIA cooperation allegation",
+        "Marco Rubio",
+        "Donald Trump",
+        "Regime-change prediction"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Marco Rubio or the U.S. government publicly called on Cuban citizens to partner with the CIA.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim": "The alleged partnership was intended to create change by overthrowing Cuba’s government.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim": "Donald Trump said the United States would take care of Cuba after Iran.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "claim": "The Trump administration may soon begin a regime-change effort in Cuba.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            11,
+            12
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator says Cuba is likely to be the next focus of U.S. action.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            11,
+            12
+          ],
+          "start_seconds": 0.0,
+          "end_seconds": 25.72
+        },
+        {
+          "point": "The central allegation concerns an alleged CIA partnership with Cuban citizens.",
+          "evidence_segment_indices": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_seconds": 3.44,
+          "end_seconds": 17.24
+        },
+        {
+          "point": "The creator connects the allegation to remarks attributed to Trump about Cuba and Iran.",
+          "evidence_segment_indices": [
+            9,
+            10,
+            11
+          ],
+          "start_seconds": 17.24,
+          "end_seconds": 24.16
+        },
+        {
+          "point": "The clip predicts a possible future regime-change effort and offers no primary-source documentation.",
+          "evidence_segment_indices": [
+            12,
+            13
+          ],
+          "start_seconds": 22.12,
+          "end_seconds": 28.04
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "0bf1fefa609b40de8e2899d849bdaeb0ad40190a97d4e488863296848d247b33",
+      "transcript_captured_at": "2026-10-24T17:33:27.046911Z",
+      "summary_generated_at": "2026-10-24T20:38:20.874560Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The excerpt does not reproduce the alleged Rubio or Trump statements in full.",
+        "Overlapping, fragmented captions make some wording and attribution ambiguous.",
+        "The clip is commentary and contains no independent confirmation or source documentation.",
+        "Coverage is limited to a brief prediction about possible future U.S. policy.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "sL8r-IeMTYA",
+      "title": "Trump’s Interference Efforts FAIL HORRIBLY, he is FURIOUS and Sees the END!!",
+      "url": "https://www.youtube.com/watch?v=sL8r-IeMTYA",
+      "published_at": "2026-10-23T21:39:47.000000Z",
+      "summary": "Aaron Parnas frames the episode as an argument that Donald Trump’s alleged efforts to influence election administration are failing in court and with voters. He cites claimed court defeats involving voter-registration requirements, mail-ballot delivery, and federal demands for state voter data, while presenting polling figures about public attitudes toward certification and election control. Parnas interviews Jonathan Diaz of the Campaign Legal Center, who characterizes a pre-election Alaska certification lawsuit as legally defective and describes preparations for possible litigation involving ballots, voting machines, federal agents, and state certification. Diaz says election administration is primarily handled by states and localities, outlines post-election safeguards such as recounts and audits, and treats possible congressional swearing-in interference as a contingency rather than an expected event. He concludes by urging anxious voters to make an early voting plan and maintain a backup option. The episode is commentary and an interview, so its legal, polling, and procedural assertions require checking against primary records and current law.",
+      "topics": [
+        "Election litigation",
+        "Voting administration",
+        "Alaska certification lawsuit",
+        "Voter data",
+        "Election participation"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The episode says 34 federal rulings blocked Trump-related election efforts, including rulings involving voter registration and mail ballots.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            29,
+            30,
+            35,
+            38,
+            44,
+            47
+          ]
+        },
+        {
+          "claim": "The episode says the Justice Department lost all 26 decided lawsuits seeking states’ private voter data and sought records including driver’s-license information and partial Social Security numbers.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            53,
+            54,
+            55,
+            56,
+            58,
+            59,
+            60
+          ]
+        },
+        {
+          "claim": "The episode reports polling figures of 56%, 37%, 90%, and 58% concerning election control, certification, and election denial.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            80,
+            81,
+            84,
+            86,
+            88,
+            91,
+            92
+          ]
+        },
+        {
+          "claim": "Jonathan Diaz says the Alaska lawsuit lacks a ripe claim, a cause of action, and requested relief, and characterizes it as a press release filed in court.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            133,
+            136,
+            141,
+            152,
+            157,
+            159,
+            160
+          ]
+        },
+        {
+          "claim": "Jonathan Diaz says the Campaign Legal Center successfully sued to block two executive orders concerning voter registration and mail-in voting.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            177,
+            180,
+            181,
+            187,
+            188,
+            189,
+            190
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas presents alleged election interference efforts as repeatedly failing in court and among voters.",
+          "evidence_segment_indices": [
+            0,
+            8,
+            10,
+            12,
+            26,
+            76,
+            94
+          ],
+          "start_seconds": 0.08,
+          "end_seconds": 194.319
+        },
+        {
+          "point": "The interview focuses on an Alaska lawsuit seeking to challenge certification before results are available.",
+          "evidence_segment_indices": [
+            4,
+            5,
+            6,
+            126,
+            128,
+            129,
+            130,
+            139,
+            140
+          ],
+          "start_seconds": 7.68,
+          "end_seconds": 295.759
+        },
+        {
+          "point": "Diaz describes legal preparations for potential disputes over ballots, machines, federal deployments, and state certification.",
+          "evidence_segment_indices": [
+            210,
+            212,
+            215,
+            218,
+            219,
+            225,
+            226,
+            227
+          ],
+          "start_seconds": 433.44,
+          "end_seconds": 478.24
+        },
+        {
+          "point": "Diaz emphasizes state and local election administration and existing recount, audit, and contest procedures.",
+          "evidence_segment_indices": [
+            181,
+            182,
+            183,
+            184,
+            185,
+            245,
+            250,
+            252,
+            255,
+            257
+          ],
+          "start_seconds": 367.919,
+          "end_seconds": 549.839
+        },
+        {
+          "point": "The closing advice is to vote early when possible and keep a backup plan for obstacles.",
+          "evidence_segment_indices": [
+            413,
+            414,
+            415,
+            416,
+            417,
+            418,
+            419,
+            422,
+            424
+          ],
+          "start_seconds": 911.68,
+          "end_seconds": 939.36
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "b75275af3677735293afc26a03f912d9e619586a62f2ad94b65c754cabd6c852",
+      "transcript_captured_at": "2026-10-24T17:33:33.191000Z",
+      "summary_generated_at": "2026-10-24T20:38:47.560475Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a single commentary episode and interview, not independent documentation of the cited cases or polls.",
+        "Some legal and institutional assertions are opinions by Parnas or Diaz and should not be treated as established findings without source review.",
+        "Caption defects include duplicated words, omissions, and garbled phrases, which may affect precise interpretation.",
+        "The discussion uses relative election timing and hypothetical scenarios; their applicability depends on the underlying date and legal circumstances.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "bOiIsZwVeq0",
+      "title": "Scientists have developed technology that allows people to digitally transmit smell across the world",
+      "url": "https://www.youtube.com/watch?v=bOiIsZwVeq0",
+      "published_at": "2026-10-23T20:08:51.000000Z",
+      "summary": "Aaron Parnas presents researchers’ reported prototype for digitally conveying smells between distant locations. The described system uses an electronic nose to identify certain scents, such as coffee, and directs a wearable remote device to release corresponding scent molecules. Parnas says the approach could eventually add smell to phone calls, video chats, and other remotely shared media, while an Ohio State University doctoral student characterizes it as recreating a detected smell elsewhere alongside existing visual and audio information. The episode emphasizes that the technology remains only a prototype and may take a long time to become practical. Its broader applications and “ground-breaking” significance are presented as the creator’s assessment rather than established conclusions. The supplied captions provide no technical specifications, study citation, performance measurements, list of recognized odors, or evidence that the system works across global distances. They also do not independently establish the researchers’ identities or institutional details beyond the quoted attribution, so the overview is limited to the claims and caveats stated in the episode.",
+      "topics": [
+        "Digital scent transmission",
+        "Electronic noses",
+        "Wearable scent devices",
+        "Remote communication"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Researchers have developed a prototype that detects certain smells electronically and causes a remote wearable device to release corresponding scent molecules.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            27
+          ]
+        },
+        {
+          "claim": "The system can transmit or recreate smells across arbitrary distances, potentially including worldwide communication.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            2,
+            3,
+            14,
+            15,
+            18,
+            19,
+            20
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode describes adding smell to phone calls, video chats, and other shared media as a possible future use.",
+          "evidence_segment_indices": [
+            4,
+            5,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "start_seconds": 7.08,
+          "end_seconds": 48.4
+        },
+        {
+          "point": "An electronic nose is said to recognize scents such as coffee and trigger scent release elsewhere.",
+          "evidence_segment_indices": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "start_seconds": 15.16,
+          "end_seconds": 26.88
+        },
+        {
+          "point": "A quoted doctoral student explains the concept as detecting a smell in one place and recreating it in another.",
+          "evidence_segment_indices": [
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "start_seconds": 28.88,
+          "end_seconds": 38.64
+        },
+        {
+          "point": "The creator says the technology is currently only a prototype and may require substantial development before becoming real-world technology.",
+          "evidence_segment_indices": [
+            27,
+            28,
+            29,
+            30
+          ],
+          "start_seconds": 45.96,
+          "end_seconds": 56.4
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "96d5bac475dca46f6c1d6bf63c250eae4315eb2345afb0920ee6ac60b3332f95",
+      "transcript_captured_at": "2026-10-24T17:33:38.764899Z",
+      "summary_generated_at": "2026-10-24T21:08:43.145510Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Captions overlap and contain fragmented phrasing, which may affect precise interpretation.",
+        "The source provides no study, publication, technical specifications, or measured results.",
+        "The discussion is limited to the creator’s presentation and a brief quoted researcher statement; practical range and scent fidelity are unspecified.",
+        "Future applications and the technology’s significance are presented as possibilities or opinions, not independently established facts.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "3LDprxot5ys",
+      "title": "You need to see this.",
+      "url": "https://www.youtube.com/watch?v=3LDprxot5ys",
+      "published_at": "2026-10-23T17:54:38.000000Z",
+      "summary": "Aaron Parnas presents what he characterizes as disturbing audio involving Ohio Republican gubernatorial nominee V.C. Ramaswami and a campaign advertisement about Amy Acton. The source says a short recording captures Ramaswami discussing how politicians identify opponents’ perceived flaws. Parnas connects that remark to a longer, approximately two-minute exchange at an Ohio child care center, where someone allegedly questioned Ramaswami about an advertisement involving Acton. According to Parnas, Acton experienced childhood abuse and had been estranged from her mother for decades; he says the campaign used Acton’s mother against her in the advertisement. Parnas further interprets Ramaswami’s response as suggesting that Acton’s abuse was a personal flaw and argues that the advertisement should be removed. The transcript provides only excerpts and Parnas’s characterization of the audio and advertisement. It does not independently establish the recording’s full context, the advertisement’s wording, the identities or motivations of participants, or whether the alleged statements accurately reflect the longer exchange.",
+      "topics": [
+        "Ohio gubernatorial campaign",
+        "V.C. Ramaswami",
+        "Amy Acton",
+        "Campaign advertising"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The audio is authentic and accurately represents Ramaswami’s remarks in context.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim": "A campaign advertisement used Amy Acton’s mother and referenced her childhood abuse or estrangement.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim": "Ramaswami’s remarks suggested that Acton’s experience of abuse was a personal flaw.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            3,
+            4,
+            18,
+            19,
+            20
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas introduces audio he attributes to V.C. Ramaswami discussing opponents’ perceived flaws.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            6,
+            7,
+            8
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 19.52
+        },
+        {
+          "point": "The source links the excerpt to a longer confrontation at an Ohio child care center.",
+          "evidence_segment_indices": [
+            9,
+            10,
+            11,
+            12
+          ],
+          "start_seconds": 18.08,
+          "end_seconds": 26.72
+        },
+        {
+          "point": "Parnas says the dispute concerned a campaign advertisement involving Amy Acton and her mother.",
+          "evidence_segment_indices": [
+            13,
+            14,
+            16,
+            17,
+            18
+          ],
+          "start_seconds": 25.279,
+          "end_seconds": 39.52
+        },
+        {
+          "point": "Parnas interprets the response as minimizing or blaming Acton for abuse she endured.",
+          "evidence_segment_indices": [
+            15,
+            18,
+            19,
+            20
+          ],
+          "start_seconds": 29.439,
+          "end_seconds": 44.399
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "65ffe783dfd731b5f2304acb51139c89ee493feb0dca0568b589cf5de58cc39f",
+      "transcript_captured_at": "2026-10-24T18:03:11.408642Z",
+      "summary_generated_at": "2026-10-24T21:38:19.933647Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is an automatically generated excerpt with overlapping segments and incomplete context.",
+        "The source does not provide the full audio, the complete exchange, or the advertisement text.",
+        "Several allegations and interpretations are presented by Parnas rather than independently established in the source.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "7ATLMe0RHxQ",
+      "title": "Trump ERUPTS After Being CONFRONTED with his CORRUPTION and FAILURES, he is FUMING!!",
+      "url": "https://www.youtube.com/watch?v=7ATLMe0RHxQ",
+      "published_at": "2026-10-23T17:12:42.000000Z",
+      "summary": "Aaron Parnas frames the episode as a critique of Donald Trump’s response to questions about a political advertisement targeting Ohio candidate Amy Acton through statements attributed to her estranged mother. The excerpted exchange shows Trump defending use of the mother’s criticism while dismissing questions about reported sexual-abuse allegations and sharply challenging an NBC reporter. Parnas then discusses a Vanity Fair report, attributed to journalist Matthew Cole, alleging that Jared Kushner’s phone and financial activity were monitored and that large transfers involved funds from Azerbaijan; Kushner’s lawyer and Trump deny the allegations. The episode also covers a lawsuit involving Trump and World Liberty Financial, which Parnas says alleges unconstitutional profits from foreign-government payments. Parnas describes a Justice Department lawsuit concerning certification of Alaska’s Senate election amid confusion over two candidates named Dan Sullivan. In an interview, Illinois Governor JB Pritzker predicts Democratic gains and outlines proposals on wages, paid leave, healthcare, immigration, and affordability. Pritzker also describes Illinois assistance programs and rejects discussing a national campaign for himself.",
+      "topics": [
+        "Trump and political advertising",
+        "Kushner financial allegations",
+        "Alaska Senate election litigation",
+        "Democratic election strategy",
+        "Illinois policy proposals"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A Vanity Fair report attributed to Matthew Cole alleges Dutch monitoring of Jared Kushner’s phone and large transfers involving funds from Azerbaijan and Dubai; Kushner’s lawyer and Trump deny the allegations.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            106,
+            108,
+            109,
+            110,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131
+          ]
+        },
+        {
+          "claim": "A lawsuit alleges that Trump and World Liberty Financial illegally profited from foreign-government payments in violation of the U.S. Constitution.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153
+          ]
+        },
+        {
+          "claim": "The Justice Department filed a lawsuit seeking to prevent certification of Alaska’s Senate results under specified candidate and vote-transfer conditions.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            157,
+            158,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189
+          ]
+        },
+        {
+          "claim": "Illinois operates a short-term program called Fresh to replace SNAP assistance and has expanded free clinics.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            357,
+            364,
+            365,
+            366,
+            367,
+            368,
+            369,
+            370,
+            371,
+            372,
+            373,
+            374,
+            375,
+            376
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas presents Trump as defending an advertisement that uses criticism attributed to Amy Acton’s estranged mother and as reacting angrily to questions about abuse allegations.",
+          "evidence_segment_indices": [
+            26,
+            27,
+            28,
+            31,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            42,
+            43,
+            45,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57
+          ],
+          "start_seconds": 59.199,
+          "end_seconds": 129.36
+        },
+        {
+          "point": "Trump calls the Kushner-related reporting false, while Parnas says the report concerns phone monitoring, foreign funds, and transfers to several individuals.",
+          "evidence_segment_indices": [
+            106,
+            107,
+            108,
+            109,
+            110,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            129,
+            130,
+            131,
+            136,
+            137,
+            139,
+            140,
+            141
+          ],
+          "start_seconds": 237.76,
+          "end_seconds": 304.24
+        },
+        {
+          "point": "Parnas links the episode’s election coverage to Alaska litigation over two candidates named Dan Sullivan and to a broader dispute over election certification.",
+          "evidence_segment_indices": [
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185
+          ],
+          "start_seconds": 336.08,
+          "end_seconds": 383.36
+        },
+        {
+          "point": "Pritzker predicts Democratic gains but expresses uncertainty, saying the Senate contest could be close and identifying several governor’s races he is watching.",
+          "evidence_segment_indices": [
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259
+          ],
+          "start_seconds": 418.16,
+          "end_seconds": 518.719
+        },
+        {
+          "point": "Pritzker advocates an affordability-focused agenda including higher wages, paid leave, healthcare, immigration reform, and measures intended to protect benefits.",
+          "evidence_segment_indices": [
+            273,
+            277,
+            278,
+            279,
+            280,
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290,
+            291,
+            292,
+            293,
+            294,
+            295,
+            296,
+            316,
+            318,
+            319
+          ],
+          "start_seconds": 540.88,
+          "end_seconds": 639.279
+        },
+        {
+          "point": "Pritzker says he plans to help elect a Democratic president rather than discuss a personal national campaign.",
+          "evidence_segment_indices": [
+            429,
+            431,
+            432,
+            433,
+            434,
+            435,
+            436,
+            437,
+            438,
+            439,
+            440,
+            441,
+            442,
+            443,
+            444
+          ],
+          "start_seconds": 868.32,
+          "end_seconds": 898.8
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "8672054650d2d346b48e75241628471c6942a1f6c2ffef35a56dca8ba5c2c260",
+      "transcript_captured_at": "2026-10-24T18:03:18.258025Z",
+      "summary_generated_at": "2026-10-24T21:38:32.786475Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains apparent caption and recognition errors, including inconsistent spellings of names and unclear phrases.",
+        "Several allegations are presented through commentary, quoted reporting, or legal complaints and are denied by the people or representatives discussed.",
+        "The episode excerpt provides no independent documents or corroborating evidence for the legal, financial, election, or program claims.",
+        "Predictions about election outcomes and policy effects are opinions attributed to Pritzker or Parnas, not established results.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
