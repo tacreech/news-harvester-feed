@@ -1,11 +1,196 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-25T16:49:09.779303Z",
+  "generated_at": "2026-10-25T23:12:00.200940Z",
   "reporting_window": {
-    "start": "2026-10-18T16:49:09.779303Z",
-    "end": "2026-10-25T16:49:09.779303Z"
+    "start": "2026-10-18T23:12:00.200940Z",
+    "end": "2026-10-25T23:12:00.200940Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "E-dUd1n-FPA",
+      "title": "🚨 Trump TERRIFIED as Young People RISE UP Around the World, his Time is ENDING!!!",
+      "url": "https://www.youtube.com/watch?v=E-dUd1n-FPA",
+      "published_at": "2026-10-25T22:01:25.000000Z",
+      "summary": "Aaron Parnas presents a partisan argument that youth-led opposition movements, especially in Serbia, signal declining support for strongman politics and could foreshadow setbacks for Donald Trump and Republicans. He says Serbian students organized prolonged anti-corruption protests, won a parliamentary election, and prompted Aleksandar Vučić to concede, while demonstrations in Albania may indicate a similar trend. The episode then focuses on Trump’s comments about high oil prices and alleged energy profits, which Parnas portrays as politically damaging while households face higher costs. Parnas also discusses the outlook for U.S. midterm elections through an interview with Indiana congressional candidate Mary Allen. Allen says her campaign is gaining support among some Republicans and farmers despite the district’s Republican lean, and advocates affordable services, agricultural stability, campaign-finance reform, and restrictions on congressional stock trading. The episode combines commentary, selected political claims, and campaign advocacy; several reported election results, polling conditions, economic assertions, and quotations require independent verification.",
+      "topics": [
+        "Youth-led protests",
+        "Serbia and Albania",
+        "Trump and oil prices",
+        "U.S. midterm elections",
+        "Campaign finance"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A student list won 138 of Serbia’s 250 parliamentary seats, while Vučić’s party won 104, and Vučić conceded.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            60,
+            61,
+            62,
+            63,
+            67,
+            68
+          ]
+        },
+        {
+          "claim": "Serbia’s turnout was nearly 70%, reportedly the highest since the breakup of Yugoslavia.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            69,
+            70,
+            71
+          ]
+        },
+        {
+          "claim": "Trump said the United States was making hundreds of billions or trillions of dollars from oil and related developments while prices were elevated.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            98,
+            105,
+            112,
+            118,
+            123,
+            127,
+            128,
+            145,
+            147
+          ]
+        },
+        {
+          "claim": "Republican advisers privately believed the party was losing ground and that the House was nearly certain to be lost.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            11,
+            12,
+            13,
+            148,
+            149,
+            150,
+            151,
+            152
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames Serbian student mobilization as an example of young voters challenging entrenched leadership.",
+          "evidence_segment_indices": [
+            39,
+            42,
+            44,
+            51,
+            52,
+            53,
+            54,
+            55,
+            74,
+            75,
+            76,
+            77
+          ],
+          "start_seconds": 85.84,
+          "end_seconds": 186.0
+        },
+        {
+          "point": "He links reported protests in Albania to a broader international challenge to strongman politics.",
+          "evidence_segment_indices": [
+            78,
+            79,
+            80,
+            81,
+            83,
+            84,
+            85
+          ],
+          "start_seconds": 184.48,
+          "end_seconds": 210.4
+        },
+        {
+          "point": "The episode argues that Trump’s oil-price remarks could worsen political pressure on Republicans.",
+          "evidence_segment_indices": [
+            86,
+            87,
+            88,
+            90,
+            91,
+            92,
+            93,
+            94,
+            140,
+            141,
+            142,
+            143,
+            144
+          ],
+          "start_seconds": 208.879,
+          "end_seconds": 341.919
+        },
+        {
+          "point": "Mary Allen describes her Indiana campaign as building cross-party and agricultural support despite the district’s Republican tilt.",
+          "evidence_segment_indices": [
+            160,
+            169,
+            173,
+            174,
+            175,
+            176,
+            177,
+            180,
+            195,
+            196,
+            201,
+            204,
+            205,
+            208
+          ],
+          "start_seconds": 368.56,
+          "end_seconds": 461.199
+        },
+        {
+          "point": "Allen proposes healthcare, childcare, Social Security, immigration, farm, and campaign-finance priorities if elected.",
+          "evidence_segment_indices": [
+            287,
+            288,
+            289,
+            290,
+            291,
+            292,
+            307,
+            312,
+            313,
+            314,
+            316,
+            318,
+            328,
+            333,
+            334,
+            347,
+            348,
+            349
+          ],
+          "start_seconds": 618.079,
+          "end_seconds": 749.839
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "359ab2c666f366c9bb2e8899bb61aba24c766dbda5a7cfe54f6fa9776d5f091e",
+      "transcript_captured_at": "2026-10-25T23:03:08.803629Z",
+      "summary_generated_at": "2026-10-25T23:08:17.037384Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Several names and terms appear mistranscribed in the captions, including references to Aleksandar Vučić and Serbian institutions.",
+        "The transcript presents election results, turnout, polling assessments, oil-market claims, and private adviser views without supporting documentation.",
+        "The reported timeframe and references to upcoming elections are source-only and may be difficult to interpret from captions alone.",
+        "The episode mixes direct quotations, interview statements, and the host’s commentary, so attribution should be preserved when assessing claims.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -3568,294 +3753,6 @@
         "The transcript is an automatically generated excerpt with overlapping segments and incomplete context.",
         "The source does not provide the full audio, the complete exchange, or the advertisement text.",
         "Several allegations and interpretations are presented by Parnas rather than independently established in the source.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "7ATLMe0RHxQ",
-      "title": "Trump ERUPTS After Being CONFRONTED with his CORRUPTION and FAILURES, he is FUMING!!",
-      "url": "https://www.youtube.com/watch?v=7ATLMe0RHxQ",
-      "published_at": "2026-10-23T17:12:42.000000Z",
-      "summary": "Aaron Parnas frames the episode as a critique of Donald Trump’s response to questions about a political advertisement targeting Ohio candidate Amy Acton through statements attributed to her estranged mother. The excerpted exchange shows Trump defending use of the mother’s criticism while dismissing questions about reported sexual-abuse allegations and sharply challenging an NBC reporter. Parnas then discusses a Vanity Fair report, attributed to journalist Matthew Cole, alleging that Jared Kushner’s phone and financial activity were monitored and that large transfers involved funds from Azerbaijan; Kushner’s lawyer and Trump deny the allegations. The episode also covers a lawsuit involving Trump and World Liberty Financial, which Parnas says alleges unconstitutional profits from foreign-government payments. Parnas describes a Justice Department lawsuit concerning certification of Alaska’s Senate election amid confusion over two candidates named Dan Sullivan. In an interview, Illinois Governor JB Pritzker predicts Democratic gains and outlines proposals on wages, paid leave, healthcare, immigration, and affordability. Pritzker also describes Illinois assistance programs and rejects discussing a national campaign for himself.",
-      "topics": [
-        "Trump and political advertising",
-        "Kushner financial allegations",
-        "Alaska Senate election litigation",
-        "Democratic election strategy",
-        "Illinois policy proposals"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A Vanity Fair report attributed to Matthew Cole alleges Dutch monitoring of Jared Kushner’s phone and large transfers involving funds from Azerbaijan and Dubai; Kushner’s lawyer and Trump deny the allegations.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            106,
-            108,
-            109,
-            110,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131
-          ]
-        },
-        {
-          "claim": "A lawsuit alleges that Trump and World Liberty Financial illegally profited from foreign-government payments in violation of the U.S. Constitution.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            144,
-            145,
-            146,
-            147,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153
-          ]
-        },
-        {
-          "claim": "The Justice Department filed a lawsuit seeking to prevent certification of Alaska’s Senate results under specified candidate and vote-transfer conditions.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            157,
-            158,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189
-          ]
-        },
-        {
-          "claim": "Illinois operates a short-term program called Fresh to replace SNAP assistance and has expanded free clinics.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            357,
-            364,
-            365,
-            366,
-            367,
-            368,
-            369,
-            370,
-            371,
-            372,
-            373,
-            374,
-            375,
-            376
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas presents Trump as defending an advertisement that uses criticism attributed to Amy Acton’s estranged mother and as reacting angrily to questions about abuse allegations.",
-          "evidence_segment_indices": [
-            26,
-            27,
-            28,
-            31,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            42,
-            43,
-            45,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57
-          ],
-          "start_seconds": 59.199,
-          "end_seconds": 129.36
-        },
-        {
-          "point": "Trump calls the Kushner-related reporting false, while Parnas says the report concerns phone monitoring, foreign funds, and transfers to several individuals.",
-          "evidence_segment_indices": [
-            106,
-            107,
-            108,
-            109,
-            110,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            129,
-            130,
-            131,
-            136,
-            137,
-            139,
-            140,
-            141
-          ],
-          "start_seconds": 237.76,
-          "end_seconds": 304.24
-        },
-        {
-          "point": "Parnas links the episode’s election coverage to Alaska litigation over two candidates named Dan Sullivan and to a broader dispute over election certification.",
-          "evidence_segment_indices": [
-            162,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185
-          ],
-          "start_seconds": 336.08,
-          "end_seconds": 383.36
-        },
-        {
-          "point": "Pritzker predicts Democratic gains but expresses uncertainty, saying the Senate contest could be close and identifying several governor’s races he is watching.",
-          "evidence_segment_indices": [
-            209,
-            210,
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            248,
-            249,
-            250,
-            251,
-            252,
-            253,
-            254,
-            255,
-            256,
-            257,
-            258,
-            259
-          ],
-          "start_seconds": 418.16,
-          "end_seconds": 518.719
-        },
-        {
-          "point": "Pritzker advocates an affordability-focused agenda including higher wages, paid leave, healthcare, immigration reform, and measures intended to protect benefits.",
-          "evidence_segment_indices": [
-            273,
-            277,
-            278,
-            279,
-            280,
-            281,
-            282,
-            283,
-            284,
-            285,
-            286,
-            287,
-            288,
-            289,
-            290,
-            291,
-            292,
-            293,
-            294,
-            295,
-            296,
-            316,
-            318,
-            319
-          ],
-          "start_seconds": 540.88,
-          "end_seconds": 639.279
-        },
-        {
-          "point": "Pritzker says he plans to help elect a Democratic president rather than discuss a personal national campaign.",
-          "evidence_segment_indices": [
-            429,
-            431,
-            432,
-            433,
-            434,
-            435,
-            436,
-            437,
-            438,
-            439,
-            440,
-            441,
-            442,
-            443,
-            444
-          ],
-          "start_seconds": 868.32,
-          "end_seconds": 898.8
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "8672054650d2d346b48e75241628471c6942a1f6c2ffef35a56dca8ba5c2c260",
-      "transcript_captured_at": "2026-10-24T18:03:18.258025Z",
-      "summary_generated_at": "2026-10-24T21:38:32.786475Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains apparent caption and recognition errors, including inconsistent spellings of names and unclear phrases.",
-        "Several allegations are presented through commentary, quoted reporting, or legal complaints and are denied by the people or representatives discussed.",
-        "The episode excerpt provides no independent documents or corroborating evidence for the legal, financial, election, or program claims.",
-        "Predictions about election outcomes and policy effects are opinions attributed to Pritzker or Parnas, not established results.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
