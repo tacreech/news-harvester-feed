@@ -1,11 +1,240 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-26T15:12:00.241494Z",
+  "generated_at": "2026-10-26T17:42:00.194822Z",
   "reporting_window": {
-    "start": "2026-10-19T15:12:00.241494Z",
-    "end": "2026-10-26T15:12:00.241494Z"
+    "start": "2026-10-19T17:42:00.194822Z",
+    "end": "2026-10-26T17:42:00.194822Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "Dw2btI0KIBg",
+      "title": "Trump FURIOUS as Judge Hands Nemesis HUGE WIN, he is Privately EXPLODING!!",
+      "url": "https://www.youtube.com/watch?v=Dw2btI0KIBg",
+      "published_at": "2026-10-26T16:57:33.000000Z",
+      "summary": "Aaron Parnas presents a commentary episode arguing that a federal judge granted Marine Comey relief after the Justice Department terminated her employment. He says the ruling found the removal unauthorized under federal law and inconsistent with constitutional separation-of-powers principles, and that it ordered reinstatement, back pay, and related declarations. The episode attributes Comey’s lawsuit to her claim that she was dismissed because she is James Comey’s daughter, while noting that the Justice Department argued the termination was lawful. Parnas then shifts to polling that he says shows Barack Obama viewed more favorably than Donald Trump among Americans and independents, and that respondents more often identify Obama as the better or most admired president. The recording includes a substantial Smalls cat-food advertisement and promotional calls to subscribe. The supplied captions contain transcription errors, and the episode provides no independently verifiable court document, polling methodology, or supporting source beyond the spoken presentation.",
+      "topics": [
+        "Marine Comey employment lawsuit",
+        "Federal court ruling",
+        "Executive removal authority",
+        "Trump and Obama favorability",
+        "Political commentary"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A federal judge ruled that Marine Comey’s termination violated federal law and constitutional separation-of-powers principles, ordering reinstatement and back pay.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            114,
+            115,
+            116,
+            117,
+            128,
+            129,
+            130,
+            131,
+            133,
+            134,
+            135,
+            138,
+            141,
+            142,
+            143,
+            144
+          ]
+        },
+        {
+          "claim": "Comey was terminated because she is the daughter of former FBI Director James Comey.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            93,
+            94,
+            95,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103
+          ]
+        },
+        {
+          "claim": "Polling presented in the episode shows Obama with higher net favorability and stronger overall assessments than Trump.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            214,
+            217,
+            218,
+            219,
+            224,
+            225,
+            226,
+            232,
+            235,
+            237,
+            256,
+            257,
+            258,
+            268,
+            269,
+            270,
+            271,
+            272
+          ]
+        },
+        {
+          "claim": "The episode says Trump is privately furious about the ruling and Comey’s reinstatement.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            148,
+            149,
+            150,
+            151
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode centers on a reported ruling involving Marine Comey’s dismissal from the U.S. Attorney’s Office for the Southern District of New York.",
+          "evidence_segment_indices": [
+            24,
+            25,
+            35,
+            36,
+            37,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89
+          ],
+          "start_seconds": 55.6,
+          "end_seconds": 192.879
+        },
+        {
+          "point": "The presented legal reasoning concerns statutory removal protections, Article II, and separation of powers.",
+          "evidence_segment_indices": [
+            43,
+            44,
+            45,
+            46,
+            48,
+            49,
+            57,
+            61,
+            62,
+            65,
+            66,
+            67,
+            68,
+            70,
+            80,
+            81,
+            82,
+            83,
+            123,
+            124,
+            125,
+            126,
+            127
+          ],
+          "start_seconds": 95.68,
+          "end_seconds": 272.88
+        },
+        {
+          "point": "The creator frames the ruling as politically damaging to Trump and personally unwelcome to the White House.",
+          "evidence_segment_indices": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153
+          ],
+          "start_seconds": 36.399,
+          "end_seconds": 322.24
+        },
+        {
+          "point": "A later segment discusses claimed polling comparisons between Obama and Trump, including favorability and presidential assessments.",
+          "evidence_segment_indices": [
+            214,
+            217,
+            218,
+            224,
+            225,
+            226,
+            228,
+            235,
+            237,
+            256,
+            257,
+            258,
+            291,
+            292,
+            293,
+            294
+          ],
+          "start_seconds": 440.56,
+          "end_seconds": 602.72
+        },
+        {
+          "point": "The episode includes a sponsored cat-food advertisement and subscription promotions.",
+          "evidence_segment_indices": [
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            200,
+            201,
+            202,
+            203,
+            300,
+            301,
+            302,
+            307
+          ],
+          "start_seconds": 319.68,
+          "end_seconds": 629.44
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "036d286d0cb7abea28eefd9587ec459cf476f557bffc822221792f6a68636d18",
+      "transcript_captured_at": "2026-10-26T17:33:07.272765Z",
+      "summary_generated_at": "2026-10-26T17:38:17.420071Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies only on the supplied transcript and does not independently confirm the court ruling or polling.",
+        "Captions contain apparent transcription defects, including names, legal terms, and fragmented phrases.",
+        "The recording attributes alleged motive and private anger to the creator or litigant rather than establishing them independently.",
+        "The polling discussion does not identify the pollster, field dates, sample, question wording, or methodology.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -3727,184 +3956,6 @@
         "Overlapping, fragmented captions make some wording and attribution ambiguous.",
         "The clip is commentary and contains no independent confirmation or source documentation.",
         "Coverage is limited to a brief prediction about possible future U.S. policy.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "sL8r-IeMTYA",
-      "title": "Trump’s Interference Efforts FAIL HORRIBLY, he is FURIOUS and Sees the END!!",
-      "url": "https://www.youtube.com/watch?v=sL8r-IeMTYA",
-      "published_at": "2026-10-23T21:39:47.000000Z",
-      "summary": "Aaron Parnas frames the episode as an argument that Donald Trump’s alleged efforts to influence election administration are failing in court and with voters. He cites claimed court defeats involving voter-registration requirements, mail-ballot delivery, and federal demands for state voter data, while presenting polling figures about public attitudes toward certification and election control. Parnas interviews Jonathan Diaz of the Campaign Legal Center, who characterizes a pre-election Alaska certification lawsuit as legally defective and describes preparations for possible litigation involving ballots, voting machines, federal agents, and state certification. Diaz says election administration is primarily handled by states and localities, outlines post-election safeguards such as recounts and audits, and treats possible congressional swearing-in interference as a contingency rather than an expected event. He concludes by urging anxious voters to make an early voting plan and maintain a backup option. The episode is commentary and an interview, so its legal, polling, and procedural assertions require checking against primary records and current law.",
-      "topics": [
-        "Election litigation",
-        "Voting administration",
-        "Alaska certification lawsuit",
-        "Voter data",
-        "Election participation"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The episode says 34 federal rulings blocked Trump-related election efforts, including rulings involving voter registration and mail ballots.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            29,
-            30,
-            35,
-            38,
-            44,
-            47
-          ]
-        },
-        {
-          "claim": "The episode says the Justice Department lost all 26 decided lawsuits seeking states’ private voter data and sought records including driver’s-license information and partial Social Security numbers.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            53,
-            54,
-            55,
-            56,
-            58,
-            59,
-            60
-          ]
-        },
-        {
-          "claim": "The episode reports polling figures of 56%, 37%, 90%, and 58% concerning election control, certification, and election denial.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            80,
-            81,
-            84,
-            86,
-            88,
-            91,
-            92
-          ]
-        },
-        {
-          "claim": "Jonathan Diaz says the Alaska lawsuit lacks a ripe claim, a cause of action, and requested relief, and characterizes it as a press release filed in court.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            133,
-            136,
-            141,
-            152,
-            157,
-            159,
-            160
-          ]
-        },
-        {
-          "claim": "Jonathan Diaz says the Campaign Legal Center successfully sued to block two executive orders concerning voter registration and mail-in voting.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            177,
-            180,
-            181,
-            187,
-            188,
-            189,
-            190
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas presents alleged election interference efforts as repeatedly failing in court and among voters.",
-          "evidence_segment_indices": [
-            0,
-            8,
-            10,
-            12,
-            26,
-            76,
-            94
-          ],
-          "start_seconds": 0.08,
-          "end_seconds": 194.319
-        },
-        {
-          "point": "The interview focuses on an Alaska lawsuit seeking to challenge certification before results are available.",
-          "evidence_segment_indices": [
-            4,
-            5,
-            6,
-            126,
-            128,
-            129,
-            130,
-            139,
-            140
-          ],
-          "start_seconds": 7.68,
-          "end_seconds": 295.759
-        },
-        {
-          "point": "Diaz describes legal preparations for potential disputes over ballots, machines, federal deployments, and state certification.",
-          "evidence_segment_indices": [
-            210,
-            212,
-            215,
-            218,
-            219,
-            225,
-            226,
-            227
-          ],
-          "start_seconds": 433.44,
-          "end_seconds": 478.24
-        },
-        {
-          "point": "Diaz emphasizes state and local election administration and existing recount, audit, and contest procedures.",
-          "evidence_segment_indices": [
-            181,
-            182,
-            183,
-            184,
-            185,
-            245,
-            250,
-            252,
-            255,
-            257
-          ],
-          "start_seconds": 367.919,
-          "end_seconds": 549.839
-        },
-        {
-          "point": "The closing advice is to vote early when possible and keep a backup plan for obstacles.",
-          "evidence_segment_indices": [
-            413,
-            414,
-            415,
-            416,
-            417,
-            418,
-            419,
-            422,
-            424
-          ],
-          "start_seconds": 911.68,
-          "end_seconds": 939.36
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "b75275af3677735293afc26a03f912d9e619586a62f2ad94b65c754cabd6c852",
-      "transcript_captured_at": "2026-10-24T17:33:33.191000Z",
-      "summary_generated_at": "2026-10-24T20:38:47.560475Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is a single commentary episode and interview, not independent documentation of the cited cases or polls.",
-        "Some legal and institutional assertions are opinions by Parnas or Diaz and should not be treated as established findings without source review.",
-        "Caption defects include duplicated words, omissions, and garbled phrases, which may affect precise interpretation.",
-        "The discussion uses relative election timing and hypothetical scenarios; their applicability depends on the underlying date and legal circumstances.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
