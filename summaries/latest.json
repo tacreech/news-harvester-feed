@@ -1,11 +1,205 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-25T23:12:00.200940Z",
+  "generated_at": "2026-10-26T02:42:00.236385Z",
   "reporting_window": {
-    "start": "2026-10-18T23:12:00.200940Z",
-    "end": "2026-10-25T23:12:00.200940Z"
+    "start": "2026-10-19T02:42:00.236385Z",
+    "end": "2026-10-26T02:42:00.236385Z"
   },
   "episodes": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "O-BWu2BcWeE",
+      "title": "The Switch 2 Has Been Hacked...",
+      "url": "https://www.youtube.com/watch?v=O-BWu2BcWeE",
+      "published_at": "2026-10-25T23:50:31.000000Z",
+      "summary": "The creator argues that a reported Switch 2 jailbreak marks an important but early development in console hacking. He describes NS2JB as a tethered software jailbreak attributed to Pepsi Poo, capable of running native code, homebrew, reverse engineering, game modification, save backups, and peripheral access, while emphasizing that it does not yet constitute deep kernel access or automatically enable piracy. The episode also links the research to an AI coding harness that allegedly helped investigate WebKit and Switch software, including a Switch 1 title used in the process. The creator says the exploit remains experimental, potentially risky, and not yet packaged for convenient use. He speculates that further progress could eventually facilitate game dumping, emulation, and piracy, while arguing that such developments might encourage publishers to abandon physical releases or impose stronger DRM. He presents game preservation as one personal rationale for long-term access, but the discussion remains based on the reported demonstration and his interpretation rather than independent testing.",
+      "topics": [
+        "Nintendo Switch 2 security",
+        "Console jailbreaking",
+        "AI-assisted reverse engineering",
+        "Emulation and piracy",
+        "Game preservation"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Pepsi Poo produced NS2JB, a tethered Switch 2 software jailbreak with the described native-code and system-access capabilities.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            9,
+            78,
+            81,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115
+          ]
+        },
+        {
+          "claim": "The reported research used an AI coding harness to investigate the Switch 2 through WebKit and related software.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            143,
+            144,
+            145,
+            161,
+            162,
+            164,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            180,
+            181,
+            182,
+            183
+          ]
+        },
+        {
+          "claim": "Nintendo removed Smile Basic 4 from the eShop in the preceding days because of this research.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            205,
+            206,
+            207,
+            208,
+            211,
+            212,
+            213,
+            214
+          ]
+        },
+        {
+          "claim": "People running the exploit encountered a Nintendo Switch 2 brick captured on camera.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            286,
+            287,
+            290,
+            291,
+            292,
+            293,
+            294,
+            295
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator distinguishes the reported jailbreak from full kernel compromise and says it is not yet equivalent to broad piracy enablement.",
+          "evidence_segment_indices": [
+            62,
+            63,
+            64,
+            75,
+            76,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121
+          ],
+          "start_seconds": 134.8,
+          "end_seconds": 271.199
+        },
+        {
+          "point": "The jailbreak is described as tethered, requiring renewed execution after a cold boot, with comparisons to earlier console jailbreaks.",
+          "evidence_segment_indices": [
+            81,
+            82,
+            83,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ],
+          "start_seconds": 176.8,
+          "end_seconds": 224.239
+        },
+        {
+          "point": "The creator credits both AI-assisted coding and the human researcher’s architectural knowledge for the reported progress.",
+          "evidence_segment_indices": [
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            264,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278,
+            279,
+            280,
+            281,
+            282
+          ],
+          "start_seconds": 574.16,
+          "end_seconds": 628.079
+        },
+        {
+          "point": "The creator speculates that future exploitation could lead to Switch 2 game dumping, emulation, and stronger publisher restrictions, but says those outcomes have not occurred here.",
+          "evidence_segment_indices": [
+            537,
+            538,
+            539,
+            540,
+            541,
+            542,
+            543,
+            544,
+            555,
+            556,
+            557,
+            558,
+            559,
+            560
+          ],
+          "start_seconds": 1164.0,
+          "end_seconds": 1224.0
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "526cf5a4ad635c80fddf30d74aa75616e23ff7d8aef64d9f09826b2d99c04217",
+      "transcript_captured_at": "2026-10-26T02:33:12.250859Z",
+      "summary_generated_at": "2026-10-26T02:38:33.337882Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies on the creator’s narration of another person’s demonstration; the creator says he did not personally test the exploit.",
+        "Captioning contains transcription defects, profanity redactions, laughter, and ambiguous technical terms.",
+        "The source describes future piracy, emulation, and publisher responses as possibilities or predictions, not established outcomes.",
+        "The supplied material does not independently verify the reported exploit, eShop removal, or alleged device brick.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -3633,126 +3827,6 @@
         "The source provides no study, publication, technical specifications, or measured results.",
         "The discussion is limited to the creator’s presentation and a brief quoted researcher statement; practical range and scent fidelity are unspecified.",
         "Future applications and the technology’s significance are presented as possibilities or opinions, not independently established facts.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "3LDprxot5ys",
-      "title": "You need to see this.",
-      "url": "https://www.youtube.com/watch?v=3LDprxot5ys",
-      "published_at": "2026-10-23T17:54:38.000000Z",
-      "summary": "Aaron Parnas presents what he characterizes as disturbing audio involving Ohio Republican gubernatorial nominee V.C. Ramaswami and a campaign advertisement about Amy Acton. The source says a short recording captures Ramaswami discussing how politicians identify opponents’ perceived flaws. Parnas connects that remark to a longer, approximately two-minute exchange at an Ohio child care center, where someone allegedly questioned Ramaswami about an advertisement involving Acton. According to Parnas, Acton experienced childhood abuse and had been estranged from her mother for decades; he says the campaign used Acton’s mother against her in the advertisement. Parnas further interprets Ramaswami’s response as suggesting that Acton’s abuse was a personal flaw and argues that the advertisement should be removed. The transcript provides only excerpts and Parnas’s characterization of the audio and advertisement. It does not independently establish the recording’s full context, the advertisement’s wording, the identities or motivations of participants, or whether the alleged statements accurately reflect the longer exchange.",
-      "topics": [
-        "Ohio gubernatorial campaign",
-        "V.C. Ramaswami",
-        "Amy Acton",
-        "Campaign advertising"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The audio is authentic and accurately represents Ramaswami’s remarks in context.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "claim": "A campaign advertisement used Amy Acton’s mother and referenced her childhood abuse or estrangement.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ]
-        },
-        {
-          "claim": "Ramaswami’s remarks suggested that Acton’s experience of abuse was a personal flaw.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            3,
-            4,
-            18,
-            19,
-            20
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas introduces audio he attributes to V.C. Ramaswami discussing opponents’ perceived flaws.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            6,
-            7,
-            8
-          ],
-          "start_seconds": 0.16,
-          "end_seconds": 19.52
-        },
-        {
-          "point": "The source links the excerpt to a longer confrontation at an Ohio child care center.",
-          "evidence_segment_indices": [
-            9,
-            10,
-            11,
-            12
-          ],
-          "start_seconds": 18.08,
-          "end_seconds": 26.72
-        },
-        {
-          "point": "Parnas says the dispute concerned a campaign advertisement involving Amy Acton and her mother.",
-          "evidence_segment_indices": [
-            13,
-            14,
-            16,
-            17,
-            18
-          ],
-          "start_seconds": 25.279,
-          "end_seconds": 39.52
-        },
-        {
-          "point": "Parnas interprets the response as minimizing or blaming Acton for abuse she endured.",
-          "evidence_segment_indices": [
-            15,
-            18,
-            19,
-            20
-          ],
-          "start_seconds": 29.439,
-          "end_seconds": 44.399
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "65ffe783dfd731b5f2304acb51139c89ee493feb0dca0568b589cf5de58cc39f",
-      "transcript_captured_at": "2026-10-24T18:03:11.408642Z",
-      "summary_generated_at": "2026-10-24T21:38:19.933647Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is an automatically generated excerpt with overlapping segments and incomplete context.",
-        "The source does not provide the full audio, the complete exchange, or the advertisement text.",
-        "Several allegations and interpretations are presented by Parnas rather than independently established in the source.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
