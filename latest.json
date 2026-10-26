@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-26T15:00:38.854036Z",
+  "generated_at": "2026-10-26T15:30:39.403623Z",
   "reporting_window": {
-    "start": "2026-10-19T15:00:38.854036Z",
-    "end": "2026-10-26T15:00:38.854036Z",
+    "start": "2026-10-19T15:30:39.403623Z",
+    "end": "2026-10-26T15:30:39.403623Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,16 +14,16 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-26T15:00:35.642261Z",
+      "last_successful_poll": "2026-10-26T15:30:34.921055Z",
       "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-26T15:00:35.819231Z",
+      "health": "success_new",
+      "discovery_status": "success_new",
+      "last_successful_poll": "2026-10-26T15:30:36.390950Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-26T15:00:36.355732Z",
+      "last_successful_poll": "2026-10-26T15:30:36.877331Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-26T15:00:37.547046Z",
+      "last_successful_poll": "2026-10-26T15:30:38.049534Z",
       "warnings": []
     },
     {
@@ -50,11 +50,23 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-26T15:00:38.689037Z",
+      "last_successful_poll": "2026-10-26T15:30:39.253551Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "YxR6od1Kcig",
+      "title": "Not a great moment for Ted Cruz.",
+      "published_at": "2026-10-26T15:11:55.000000Z",
+      "url": "https://www.youtube.com/watch?v=YxR6od1Kcig",
+      "first_seen": "2026-10-26T15:30:36.390950Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -65,7 +77,7 @@
       "first_seen": "2026-10-26T14:30:20.764658Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "not_queued"
+      "transcript_status": "captions_ready"
     },
     {
       "creator": "Aaron Parnas",
