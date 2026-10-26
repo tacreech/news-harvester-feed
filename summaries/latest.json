@@ -1,11 +1,224 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-26T22:42:00.239831Z",
+  "generated_at": "2026-10-26T23:42:00.186073Z",
   "reporting_window": {
-    "start": "2026-10-19T22:42:00.239831Z",
-    "end": "2026-10-26T22:42:00.239831Z"
+    "start": "2026-10-19T23:42:00.186073Z",
+    "end": "2026-10-26T23:42:00.186073Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "z8MJQ-wPKlM",
+      "title": "Netanyahu PANICS As Military REFUSES ORDERS In TOTAL MUTINY!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=z8MJQ-wPKlM",
+      "published_at": "2026-10-26T22:00:39.000000Z",
+      "summary": "Kyle Kulinski argues that an apparent dispute between Israeli Prime Minister Benjamin Netanyahu and the military reflects a broader political and security crisis. He presents reports that the chief of staff resisted or halted an operation concerning Iran, sought written clarification and legal advice, and faced Netanyahu in heated discussions; an embedded news report characterizes the information as officially permitted but limited in scope. Kulinski interprets the reported developments as an effort to provoke Iran, involve the United States, and delay Israel’s election, while citing Israeli political opponents who accuse Netanyahu of endangering soldiers for political survival. The episode also discusses conflicting messages about Iran’s nuclear threat, alleged Iranian plots against U.S. personnel, and reported U.S. preparations for military bases to operate independently during a major conflict. Kulinski predicts that a future U.S.-Israeli attack could trigger severe retaliation, including infrastructure, economic, or cyber disruption. The material is presented through commentary, quotations, and breaking-news excerpts, with several consequential claims unresolved.",
+      "topics": [
+        "Israeli civil-military tensions",
+        "Netanyahu and election politics",
+        "Iran escalation risks",
+        "U.S. military preparedness"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The Israeli military chief resisted or halted a Netanyahu-linked operation concerning Iran and sought legal clarification.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            89,
+            90,
+            91,
+            92,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            120,
+            121,
+            122
+          ]
+        },
+        {
+          "claim": "Israeli aircraft reportedly flew toward Iran and were recalled amid concerns about provoking an Iranian response.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140
+          ]
+        },
+        {
+          "claim": "U.S. intelligence reportedly assessed advanced Iranian plots targeting American diplomats and officials.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            321,
+            322,
+            323,
+            324,
+            325,
+            326
+          ]
+        },
+        {
+          "claim": "The Pentagon reportedly prepared major U.S. bases to operate for 90 days without external utilities or supplies.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            359,
+            360,
+            361,
+            362,
+            363,
+            364,
+            365,
+            366,
+            367,
+            368,
+            369,
+            370,
+            371
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode centers on reported resistance by Israel’s military leadership to an Iran-related order attributed to Netanyahu.",
+          "evidence_segment_indices": [
+            8,
+            9,
+            10,
+            89,
+            90,
+            91,
+            92,
+            102,
+            103,
+            104,
+            105
+          ],
+          "start_seconds": 18.64,
+          "end_seconds": 235.36
+        },
+        {
+          "point": "Kulinski attributes the alleged escalation to Netanyahu’s political interests and the approaching Israeli election.",
+          "evidence_segment_indices": [
+            43,
+            44,
+            45,
+            46,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            142,
+            143,
+            144,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153
+          ],
+          "start_seconds": 91.439,
+          "end_seconds": 340.56
+        },
+        {
+          "point": "An embedded correspondent says the report was approved by military censorship but remains limited and still developing.",
+          "evidence_segment_indices": [
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            130,
+            131,
+            158,
+            159
+          ],
+          "start_seconds": 204.4,
+          "end_seconds": 352.16
+        },
+        {
+          "point": "The discussion broadens to Iran’s nuclear threat, alleged attacks on U.S. personnel, and preparations for possible regional war.",
+          "evidence_segment_indices": [
+            226,
+            227,
+            228,
+            229,
+            321,
+            322,
+            323,
+            324,
+            359,
+            360,
+            361,
+            362,
+            363,
+            373,
+            374,
+            375,
+            376,
+            377
+          ],
+          "start_seconds": 477.919,
+          "end_seconds": 776.72
+        },
+        {
+          "point": "Kulinski warns that escalation could produce retaliation against military bases, infrastructure, communications, and supply chains.",
+          "evidence_segment_indices": [
+            378,
+            379,
+            380,
+            381,
+            382,
+            383,
+            384,
+            385,
+            386,
+            387,
+            388,
+            389,
+            394,
+            395,
+            396
+          ],
+          "start_seconds": 774.48,
+          "end_seconds": 811.68
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "6086094e9daf07456607fa26348bf6b5ad6a197d5c89e6075171cc1264589a42",
+      "transcript_captured_at": "2026-10-26T23:33:09.730859Z",
+      "summary_generated_at": "2026-10-26T23:38:14.967247Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a commentary program combining the host’s interpretations, quoted statements, and an embedded news report.",
+        "The embedded report explicitly describes the information as limited in scope and still developing.",
+        "Claims about motives, planned attacks, intelligence assessments, and future retaliation are not independently established within the source.",
+        "Some captions contain transcription defects, profanity placeholders, and ambiguous wording.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -3890,238 +4103,6 @@
         "Caption defects and wording ambiguities include “allout,” “aids,” and the unclear phrase “allout quote rampage.”",
         "Predictions about a future internal “rampage,” election outcomes, and legislative consequences remain unconfirmed in the source.",
         "The transcript attributes some reporting to CNN and unnamed White House sources but does not identify specific reports or individuals.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "rz2FEZB-n-g",
-      "title": "DEBATE: Is The Liberal Leftist Alliance COLLAPSING?? (w/ Tim Miller)",
-      "url": "https://www.youtube.com/watch?v=rz2FEZB-n-g",
-      "published_at": "2026-10-23T23:44:42.000000Z",
-      "summary": "The speakers argue that online conflict between liberal and leftist Democrats may exaggerate the alliance’s weakness. One speaker says pre-2028 positioning, platform incentives, and personal disagreements could make the 2028 primaries especially bruising, while also arguing that many disputes are manufactured for attention. Another says polling and early voting suggest a durable coalition around defeating MAGA, though both acknowledge genuine ideological differences. They criticize focusing excessively on James Carville, Hasan, or social-media disputes when campaign work and opposition to Republican candidates may matter more. The discussion then turns to a substantive divide over the Democratic Party’s future, including healthcare, foreign policy, Israel, technology, corporate influence, policing, and the role of the DSA. The speakers ultimately favor a nominee who can combine priorities from both factions, while disagreeing over whether centrist criticism of left-wing positions reproduces Republican talking points. The transcript contains fragmented captions and unverified references to polling, fundraising, campaign activity, and political statements.",
-      "topics": [
-        "Democratic coalition",
-        "2028 primary politics",
-        "Online political conflict",
-        "Progressive-centrist divide",
-        "Campaign strategy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Polling and early voting reportedly indicate a durable liberal-left alliance supporting Democratic candidates and opposing MAGA.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            129
-          ]
-        },
-        {
-          "claim": "The speakers state that Sarah Longwell and associated organizations have raised money, campaigned for Democratic candidates, and helped raise approximately half a million dollars for Haitian people in Ohio.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            303,
-            304,
-            305,
-            306,
-            307,
-            308,
-            309,
-            310,
-            311,
-            312,
-            313,
-            314,
-            315,
-            316,
-            317,
-            318,
-            319
-          ]
-        },
-        {
-          "claim": "The speakers attribute fundraising and campaign activity in Mississippi and Pennsylvania to James Carville.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            206,
-            207,
-            208,
-            209,
-            210,
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The speakers say online friction may overstate fractures within the liberal-left coalition, especially before the 2028 primaries.",
-          "evidence_segment_indices": [
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            47,
-            48,
-            49
-          ],
-          "start_seconds": 39.64,
-          "end_seconds": 99.88
-        },
-        {
-          "point": "They distinguish between real ideological disagreements and disputes they view as strategic, performative, or amplified by algorithms.",
-          "evidence_segment_indices": [
-            74,
-            75,
-            76,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86,
-            110,
-            111,
-            112,
-            118,
-            119,
-            120
-          ],
-          "start_seconds": 142.04,
-          "end_seconds": 234.84
-        },
-        {
-          "point": "The discussion contrasts immediate electoral cooperation with longer-term fights over the Democratic Party’s direction.",
-          "evidence_segment_indices": [
-            143,
-            144,
-            145,
-            146,
-            147,
-            148,
-            149,
-            150,
-            151,
-            371,
-            372,
-            380,
-            381,
-            382,
-            387,
-            388,
-            389,
-            390,
-            391,
-            392,
-            396,
-            397,
-            398,
-            399
-          ],
-          "start_seconds": 276.44,
-          "end_seconds": 758.28
-        },
-        {
-          "point": "The speakers argue that social-media criticism should be weighed alongside campaigning, fundraising, and other offline political work.",
-          "evidence_segment_indices": [
-            290,
-            291,
-            292,
-            293,
-            294,
-            295,
-            296,
-            302,
-            303,
-            304,
-            305,
-            306,
-            307,
-            308,
-            329,
-            330,
-            331,
-            332,
-            333,
-            334,
-            335,
-            336
-          ],
-          "start_seconds": 546.44,
-          "end_seconds": 633.56
-        },
-        {
-          "point": "One proposed 2028 strategy is to combine progressive priorities on healthcare and wars with lessons about unpopular positions and broader electoral appeal.",
-          "evidence_segment_indices": [
-            485,
-            486,
-            487,
-            488,
-            489,
-            490,
-            491,
-            518,
-            519,
-            520,
-            521,
-            522,
-            523,
-            524,
-            525,
-            526,
-            527,
-            528,
-            529,
-            530,
-            531,
-            532
-          ],
-          "start_seconds": 917.44,
-          "end_seconds": 1014.08
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "26a8296c1f0d649701eb859cb7ce38b3feb427d9e957318652538f44bd0911b1",
-      "transcript_captured_at": "2026-10-24T17:08:11.563935Z",
-      "summary_generated_at": "2026-10-24T18:22:42.224620Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Automatic captions are fragmented and include redactions, profanity placeholders, laughter, and apparent name-recognition errors.",
-        "The excerpt ends during a response about whether centrist attacks echo Republican talking points, so that exchange is incomplete.",
-        "References to polling, early voting, fundraising, campaign activity, and other people’s statements are presented only as speakers’ claims and are not independently established here.",
-        "Some speaker identities and references are ambiguous because the captions do not consistently label speakers.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
