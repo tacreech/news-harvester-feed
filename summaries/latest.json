@@ -1,11 +1,202 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-26T02:42:00.236385Z",
+  "generated_at": "2026-10-26T15:12:00.241494Z",
   "reporting_window": {
-    "start": "2026-10-19T02:42:00.236385Z",
-    "end": "2026-10-26T02:42:00.236385Z"
+    "start": "2026-10-19T15:12:00.241494Z",
+    "end": "2026-10-26T15:12:00.241494Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "xaHk42iHBQI",
+      "title": "🚨 White House PANICKED as MAJOR Epstein News is Revealed and Right Wing Governments FAIL",
+      "url": "https://www.youtube.com/watch?v=xaHk42iHBQI",
+      "published_at": "2026-10-26T14:06:28.000000Z",
+      "summary": "Aaron Parnas argues that the White House is facing simultaneous political pressure over Epstein-related allegations, setbacks for right-wing allies abroad, vulnerable Republican candidates, and possible military action involving Iran. He centers on a House Judiciary Democrats’ report that accuses Donald Trump of lying about his relationship with Jeffrey Epstein and requests a special counsel, while noting that most of the report’s material was previously public and that the White House denies its allegations. Parnas then describes reported electoral defeats or difficulties involving conservative leaders in Hungary, Brazil, and Serbia, attributing their success to opposition from younger voters. Domestically, he cites reported concern among Trump allies about post-midterm investigations, weak approval numbers, shifting district contests, and inflammatory campaign rhetoric. Finally, he presents reports that U.S. forces could conduct major strikes on Iran after the midterms, alongside regional military preparations and possible retaliation. The episode is commentary built largely around claims attributed to reports, officials, and political actors.",
+      "topics": [
+        "Epstein allegations and special counsel",
+        "Global right-wing electoral setbacks",
+        "U.S. midterm vulnerability",
+        "Possible Iran military escalation"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The House Judiciary Democrats’ report alleges that Trump repeatedly lied about Epstein and calls for an independent special counsel.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            35,
+            36,
+            37,
+            68,
+            74,
+            84,
+            89
+          ]
+        },
+        {
+          "claim": "The report cites documents and flight records to dispute Trump’s statements about Epstein, including claims about flights, Mar-a-Lago, and a birthday note.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            48,
+            50,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64
+          ]
+        },
+        {
+          "claim": "Right-wing or Russia-aligned political figures in Hungary, Brazil, and Serbia recently suffered reported electoral setbacks, with young voters described as a major factor.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            105,
+            106,
+            107,
+            109,
+            110,
+            111,
+            112,
+            113,
+            116,
+            117,
+            118,
+            120,
+            124,
+            132,
+            133,
+            134,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143
+          ]
+        },
+        {
+          "claim": "CNN reportedly said U.S. forces could launch major strikes on Iran within 96 hours, potentially after the midterms, amid broader regional preparations.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            178,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            196,
+            197,
+            198,
+            199,
+            200,
+            203,
+            204,
+            205,
+            206,
+            207
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas says the report’s significance lies mainly in its timing and request for a special counsel, not new evidence.",
+          "evidence_segment_indices": [
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75
+          ],
+          "start_seconds": 139.36,
+          "end_seconds": 157.84
+        },
+        {
+          "point": "The White House rejects the report’s allegations and characterizes it as a partisan distraction.",
+          "evidence_segment_indices": [
+            93,
+            94,
+            95,
+            96
+          ],
+          "start_seconds": 191.36,
+          "end_seconds": 200.959
+        },
+        {
+          "point": "The episode links overseas political reversals to a broader challenge for Trump-aligned movements.",
+          "evidence_segment_indices": [
+            105,
+            106,
+            107,
+            124,
+            126,
+            131,
+            139,
+            141,
+            142,
+            144
+          ],
+          "start_seconds": 215.44,
+          "end_seconds": 353.84
+        },
+        {
+          "point": "Parnas portrays the midterms and possible Iran escalation as immediate sources of White House pressure.",
+          "evidence_segment_indices": [
+            145,
+            147,
+            148,
+            149,
+            150,
+            152,
+            177,
+            178,
+            187,
+            188,
+            192,
+            194
+          ],
+          "start_seconds": 351.28,
+          "end_seconds": 450.479
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "9ba65a74871b3de18ab4a6307bab084fd90b8e89107048ca5ce75c5f188a22ae",
+      "transcript_captured_at": "2026-10-26T15:03:08.741280Z",
+      "summary_generated_at": "2026-10-26T15:08:17.103297Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies only on the supplied transcript and does not independently verify its allegations, polling, election results, or attributed reports.",
+        "Several names, words, and phrases appear mistranscribed, including references to Brazilian, Serbian, Israeli, and U.S. political figures.",
+        "Some transcript sections are incomplete or unclear, including a brief inserted passage around segments 122–123.",
+        "The source is commentary and includes rhetorical framing; its interpretations are attributed to the creator rather than presented as established fact.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
@@ -3714,119 +3905,6 @@
         "Some legal and institutional assertions are opinions by Parnas or Diaz and should not be treated as established findings without source review.",
         "Caption defects include duplicated words, omissions, and garbled phrases, which may affect precise interpretation.",
         "The discussion uses relative election timing and hypothetical scenarios; their applicability depends on the underlying date and legal circumstances.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "bOiIsZwVeq0",
-      "title": "Scientists have developed technology that allows people to digitally transmit smell across the world",
-      "url": "https://www.youtube.com/watch?v=bOiIsZwVeq0",
-      "published_at": "2026-10-23T20:08:51.000000Z",
-      "summary": "Aaron Parnas presents researchers’ reported prototype for digitally conveying smells between distant locations. The described system uses an electronic nose to identify certain scents, such as coffee, and directs a wearable remote device to release corresponding scent molecules. Parnas says the approach could eventually add smell to phone calls, video chats, and other remotely shared media, while an Ohio State University doctoral student characterizes it as recreating a detected smell elsewhere alongside existing visual and audio information. The episode emphasizes that the technology remains only a prototype and may take a long time to become practical. Its broader applications and “ground-breaking” significance are presented as the creator’s assessment rather than established conclusions. The supplied captions provide no technical specifications, study citation, performance measurements, list of recognized odors, or evidence that the system works across global distances. They also do not independently establish the researchers’ identities or institutional details beyond the quoted attribution, so the overview is limited to the claims and caveats stated in the episode.",
-      "topics": [
-        "Digital scent transmission",
-        "Electronic noses",
-        "Wearable scent devices",
-        "Remote communication"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Researchers have developed a prototype that detects certain smells electronically and causes a remote wearable device to release corresponding scent molecules.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            27
-          ]
-        },
-        {
-          "claim": "The system can transmit or recreate smells across arbitrary distances, potentially including worldwide communication.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            2,
-            3,
-            14,
-            15,
-            18,
-            19,
-            20
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode describes adding smell to phone calls, video chats, and other shared media as a possible future use.",
-          "evidence_segment_indices": [
-            4,
-            5,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26
-          ],
-          "start_seconds": 7.08,
-          "end_seconds": 48.4
-        },
-        {
-          "point": "An electronic nose is said to recognize scents such as coffee and trigger scent release elsewhere.",
-          "evidence_segment_indices": [
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "start_seconds": 15.16,
-          "end_seconds": 26.88
-        },
-        {
-          "point": "A quoted doctoral student explains the concept as detecting a smell in one place and recreating it in another.",
-          "evidence_segment_indices": [
-            16,
-            17,
-            18,
-            19,
-            20
-          ],
-          "start_seconds": 28.88,
-          "end_seconds": 38.64
-        },
-        {
-          "point": "The creator says the technology is currently only a prototype and may require substantial development before becoming real-world technology.",
-          "evidence_segment_indices": [
-            27,
-            28,
-            29,
-            30
-          ],
-          "start_seconds": 45.96,
-          "end_seconds": 56.4
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "96d5bac475dca46f6c1d6bf63c250eae4315eb2345afb0920ee6ac60b3332f95",
-      "transcript_captured_at": "2026-10-24T17:33:38.764899Z",
-      "summary_generated_at": "2026-10-24T21:08:43.145510Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Captions overlap and contain fragmented phrasing, which may affect precise interpretation.",
-        "The source provides no study, publication, technical specifications, or measured results.",
-        "The discussion is limited to the creator’s presentation and a brief quoted researcher statement; practical range and scent fidelity are unspecified.",
-        "Future applications and the technology’s significance are presented as possibilities or opinions, not independently established facts.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
