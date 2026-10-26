@@ -1,11 +1,503 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-26T17:42:00.194822Z",
+  "generated_at": "2026-10-26T22:12:00.204735Z",
   "reporting_window": {
-    "start": "2026-10-19T17:42:00.194822Z",
-    "end": "2026-10-26T17:42:00.194822Z"
+    "start": "2026-10-19T22:12:00.204735Z",
+    "end": "2026-10-26T22:12:00.204735Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "bi7tFaNqUGQ",
+      "title": "Brazilian Left Has SHOCKING COMEBACK WIN As Far-Right IN SHAMBLES!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=bi7tFaNqUGQ",
+      "published_at": "2026-10-26T21:35:29.000000Z",
+      "summary": "Kyle Kulinski argues that Lula’s reported Brazilian runoff victory, after losing the first round, represents a major comeback and may foreshadow outcomes in future U.S. midterm elections. He attributes the reversal to increased turnout, reduced blank ballots, transfers from eliminated candidates, and Lula’s performance in debates. Kulinski also alleges that allies of Flavio Bolsonaro disrupted public transportation in Lula-leaning areas, prompting Brazil’s Supreme Court to extend voting hours; he presents this as an attempted effort to suppress or disrupt the vote. The episode contrasts Lula’s worker-focused economic and environmental record with Bolsonaro-aligned proposals and describes Brazil’s legislature as more right-leaning than the presidency. Kulinski further discusses Bolsonaro’s refusal to concede, reported political and corporate opposition to Lula, and a claimed stock-market decline after the result. He concludes by interpreting the election as evidence that voters may distinguish incumbent responsibility from broader economic conditions and reiterates his view that the result is relevant to U.S. politics.",
+      "topics": [
+        "Brazilian presidential runoff",
+        "Lula’s electoral comeback",
+        "Election administration and allegations",
+        "Brazilian right-wing politics",
+        "Implications for U.S. midterms"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Lula won the runoff after losing the first round, reportedly by about 4.4 million votes.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            17,
+            18,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            32,
+            33,
+            34,
+            35,
+            232,
+            233,
+            234
+          ]
+        },
+        {
+          "claim": "Supporters or allies of Flavio Bolsonaro disrupted public transportation in Lula-leaning areas, and Brazil’s Supreme Court extended voting hours in response.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            157,
+            158,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            182,
+            183,
+            184,
+            185,
+            189,
+            190,
+            191,
+            192,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202
+          ]
+        },
+        {
+          "claim": "Turnout increased and blank or null voting declined between rounds, contributing to Lula’s improved result.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275
+          ]
+        },
+        {
+          "claim": "The episode reports that Bolsonaro refused to acknowledge the election result and sought to have it annulled.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            369,
+            370,
+            371,
+            372,
+            373,
+            374
+          ]
+        },
+        {
+          "claim": "The episode reports a substantial decline in Brazil’s stock market after Lula’s victory.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            418,
+            419,
+            420,
+            421
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski presents Lula’s victory as an unprecedented or highly unusual comeback in Brazil’s modern presidential history.",
+          "evidence_segment_indices": [
+            32,
+            33,
+            34,
+            35,
+            37,
+            38,
+            39,
+            40
+          ],
+          "start_seconds": 79.68,
+          "end_seconds": 98.4
+        },
+        {
+          "point": "He attributes the result partly to debate performances and the movement of voters from other candidates or non-voting categories.",
+          "evidence_segment_indices": [
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            276,
+            277,
+            278,
+            279,
+            280,
+            281,
+            282,
+            283
+          ],
+          "start_seconds": 231.2,
+          "end_seconds": 598.88
+        },
+        {
+          "point": "He says Lula faces a right-leaning legislature that may constrain his ability to govern.",
+          "evidence_segment_indices": [
+            291,
+            292,
+            293,
+            294,
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305,
+            306
+          ],
+          "start_seconds": 609.68,
+          "end_seconds": 643.68
+        },
+        {
+          "point": "Kulinski interprets the election as a possible signal for U.S. political contests, while acknowledging that Brazil’s circumstances differ.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            440,
+            441,
+            442,
+            443,
+            444,
+            445
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 932.48
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "d797d077442ed303b962a16688f823b94f5c1d9b0ff1418d6217083c1e126bdd",
+      "transcript_captured_at": "2026-10-26T22:03:18.452248Z",
+      "summary_generated_at": "2026-10-26T22:08:36.748094Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a single commentary episode and does not independently establish the reported election results, vote totals, turnout figures, court actions, transport disruptions, or market movements.",
+        "Several names, quotations, figures, and institutions appear garbled or inconsistently transcribed in the captions.",
+        "The episode contains strong political judgments and allegations; these are represented as Kulinski’s claims rather than verified facts.",
+        "The source provides limited detail about Brazil’s electoral rules, the legislature, and the evidentiary basis for alleged interference.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "8JemlCKYU4g",
+      "title": "Obama VERBALLY ASSASSINATES Trump Without Even Trying | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=8JemlCKYU4g",
+      "published_at": "2026-10-26T21:11:26.000000Z",
+      "summary": "Kyle Kulinski argues that Barack Obama’s campaign appearances for Democratic candidates contrast sharply with Donald Trump’s political style and record. He highlights Obama’s emphasis on disagreement within shared goals, border enforcement alongside constitutional protections, criticism of current economic and foreign-policy decisions, and attacks on perceived Republican hypocrisy over tariffs, deficits, and presidential spending. Kulinski also discusses Obama’s jokes about Trump’s renovations and luxury aesthetics, presenting them as politically effective because of wider concerns about living costs. The episode includes Trump’s response, which Kulinski portrays as a series of personal attacks against Obama and a Democratic candidate. Finally, Kulinski focuses on Obama’s endorsement of Angie Nixon, interpreting it as evidence that Obama is becoming more accepting of left-wing candidates and that Democratic politics may be moving in that direction. The source is a commentary program built around selected speech clips and the host’s interpretations, so its factual assertions and predictions require independent verification.",
+      "topics": [
+        "Obama campaign appearances",
+        "Trump criticism",
+        "Border and foreign policy",
+        "Tariffs and deficits",
+        "Democratic Party direction"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Obama’s remarks characterized current border enforcement as involving masked agents, arrests, detention, or shootings of law-abiding citizens, while contrasting it with his administration’s approach.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            197,
+            200,
+            202,
+            206,
+            207
+          ]
+        },
+        {
+          "claim": "The episode reports that current foreign-policy decisions contributed to attacks, higher energy prices, and Iran gaining strategic leverage over the Strait of Hormuz.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            247,
+            252,
+            255,
+            258,
+            260
+          ]
+        },
+        {
+          "claim": "The episode states that tariff refunds benefited companies rather than consumers and alleges that related arrangements transferred wealth upward.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            637,
+            641,
+            643,
+            645,
+            648,
+            654
+          ]
+        },
+        {
+          "claim": "Kulinski claims Obama’s endorsement of Angie Nixon signals acceptance of a future led by left-wing or DSA-aligned candidates.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            848,
+            853,
+            858,
+            860,
+            865,
+            874,
+            876
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski praises Obama’s campaign effectiveness and contrasts it with Trump’s demand for loyalty.",
+          "evidence_segment_indices": [
+            10,
+            17,
+            88,
+            90
+          ],
+          "start_seconds": 30.64,
+          "end_seconds": 214.48
+        },
+        {
+          "point": "Obama’s featured speech argues that disagreement over methods can coexist with agreement on broader goals.",
+          "evidence_segment_indices": [
+            79,
+            80,
+            126,
+            128
+          ],
+          "start_seconds": 184.319,
+          "end_seconds": 303.12
+        },
+        {
+          "point": "The commentary presents tariffs, deficits, healthcare, and presidential renovations as central themes in Obama’s criticism of Trump.",
+          "evidence_segment_indices": [
+            607,
+            626,
+            682,
+            698,
+            717,
+            723,
+            511,
+            518
+          ],
+          "start_seconds": 1122.88,
+          "end_seconds": 1594.52
+        },
+        {
+          "point": "Kulinski interprets Obama’s endorsement of Angie Nixon as a significant Democratic political development.",
+          "evidence_segment_indices": [
+            831,
+            848,
+            858,
+            866
+          ],
+          "start_seconds": 1831.12,
+          "end_seconds": 1915.44
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "3d640ddb0308edf6a9775b10c8ce9d7cbcdc45637516f31ac273c796022076d7",
+      "transcript_captured_at": "2026-10-26T22:03:12.252408Z",
+      "summary_generated_at": "2026-10-26T22:08:24.723950Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains profanity, redactions, malformed names, and apparent caption errors.",
+        "Several clips are excerpted without full event context, making speaker attribution or wording occasionally ambiguous.",
+        "The overview reflects the supplied commentary and transcript only; quoted claims, polling figures, policy descriptions, and political predictions are not independently verified.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "i6VPWV29gEc",
+      "title": "Trump SPIRALS As Rally GOES OFF THE RAILS & HEALTH CRASHES!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=i6VPWV29gEc",
+      "published_at": "2026-10-26T20:30:12.000000Z",
+      "summary": "The creator presents a strongly critical commentary on Donald Trump’s rally remarks, arguing that they combine inflammatory rhetoric, attacks on political opponents, and claims about immigration, race, energy, healthcare, and foreign policy. The episode highlights Trump’s comments about a Muslim Senate candidate, his references to oil profits and high gas prices, and statements about military strength and possible action involving Iran and Cuba. The creator also challenges allegations concerning Representative Ilhan Omar and discusses polling claims about Trump’s approval and cost-of-living performance. A substantial portion addresses alleged corruption and trading activity, including comparisons with Nancy Pelosi, though the transcript supplies no supporting documentation. Near the end, the creator discusses online speculation about Trump’s health, bruises, posture, and a supposed exoskeleton, while acknowledging some claims as theories. Overall, the episode is an opinion-driven compilation of clips and accusations, with many factual assertions presented without independently verifiable evidence in the supplied captions.",
+      "topics": [
+        "Trump rally rhetoric",
+        "Political allegations and corruption",
+        "Energy and cost of living",
+        "Foreign policy and military action",
+        "Health speculation"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The creator presents claims about Trump’s approval ratings, including historically low overall numbers and 0% strong approval among young voters on cost of living.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            936,
+            937,
+            938,
+            939,
+            946,
+            948,
+            953,
+            956,
+            958
+          ]
+        },
+        {
+          "claim": "The creator claims Trump conducted more stock trades in one day than Nancy Pelosi made since 2014, shortly before a tariffs announcement.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            1064,
+            1066,
+            1068,
+            1069,
+            1072,
+            1079,
+            1080
+          ]
+        },
+        {
+          "claim": "The creator reports that Trump’s administration carried out extensive strikes in Somalia and alleges civilian harm and other war crimes.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            961,
+            963,
+            964,
+            974,
+            980,
+            983,
+            988,
+            991
+          ]
+        },
+        {
+          "claim": "The creator discusses speculation that Trump has serious health problems or uses an exoskeleton, based on posture, bruises, and social-media posts.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            1002,
+            1003,
+            1010,
+            1012,
+            1017,
+            1022,
+            1032,
+            1040,
+            1046,
+            1058
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode centers on the creator’s interpretation of Trump’s rally comments as racist, inflammatory, and politically damaging.",
+          "evidence_segment_indices": [
+            69,
+            72,
+            81,
+            95,
+            97,
+            1095,
+            1096
+          ],
+          "start_seconds": 153.76,
+          "end_seconds": 2293.839
+        },
+        {
+          "point": "It critiques Trump’s remarks about gas prices, oil profits, data centers, and economic pressures on households.",
+          "evidence_segment_indices": [
+            327,
+            334,
+            354,
+            359,
+            365,
+            460,
+            461,
+            475,
+            485
+          ],
+          "start_seconds": 706.56,
+          "end_seconds": 1019.44
+        },
+        {
+          "point": "The creator challenges statements about immigration, Representative Ilhan Omar, healthcare, and military policy.",
+          "evidence_segment_indices": [
+            536,
+            542,
+            545,
+            613,
+            616,
+            901,
+            906,
+            915,
+            962
+          ],
+          "start_seconds": 1108.64,
+          "end_seconds": 2009.039
+        },
+        {
+          "point": "The program relies heavily on commentary, selected clips, allegations, and predictions rather than documented source material.",
+          "evidence_segment_indices": [
+            20,
+            21,
+            28,
+            34,
+            82,
+            148,
+            161,
+            220,
+            1002,
+            1058
+          ],
+          "start_seconds": 47.84,
+          "end_seconds": 2204.4
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "6359aeafaf1818aecb467e5bd0ba860529c8a072c14c6f58cfdd2d7c4a55d25d",
+      "transcript_captured_at": "2026-10-26T22:03:08.345354Z",
+      "summary_generated_at": "2026-10-26T22:08:14.433112Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The supplied material is a transcript of commentary and embedded clips, not an independently verified record.",
+        "Several captions contain transcription errors, omissions, profanity placeholders, and unclear names.",
+        "Claims about polling, trades, military strikes, corruption, and health require independent verification.",
+        "Some health-related statements are explicitly framed as speculation rather than established findings.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -3617,345 +4109,6 @@
         "The source attributes vulnerability details, attacks, advisories, and affected organizations to the creator’s discussion; it does not provide independently verifiable documentation.",
         "Some claims about attack prevalence, millions of devices, botnet expansion, government warnings, and specific CVEs remain ambiguous or incomplete in the transcript.",
         "The episode mixes technical discussion with personal anecdotes, predictions, and rhetorical comparisons, so scope and severity should not be inferred beyond the cited statements.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "v3feGzrk5x8",
-      "title": "You need to see this. I couldn’t hold my back.",
-      "url": "https://www.youtube.com/watch?v=v3feGzrk5x8",
-      "published_at": "2026-10-23T23:02:42.000000Z",
-      "summary": "Aaron Parnas presents a clip he describes as a viral moment involving a Fox News reporter speaking with college students at a Donald Trump rally. In Parnas’s framing, the reporter is seeking favorable comments about Trump, but a student instead discusses hopes for relief related to war, inflation, interest rates, shopping costs, and gasoline prices. The student says current pricing feels excessive and expresses a broader desire for economic relief. The reporter begins to respond by referencing “the latest Fox,” after which the supplied narration says the microphone is pulled away and emphasizes a pause. Parnas characterizes this sequence as the reporter effectively leaving the exchange, then ends with a request to follow for more. The evidence consists of a short transcript with overlapping captions and commentary from Parnas; it does not provide the full video, the reporter’s identity, the rally’s location, or surrounding context. The transcript therefore supports describing the presented exchange and Parnas’s interpretation, but not independently confirming the broader viral framing or intent attributed to the reporter.",
-      "topics": [
-        "Fox News interview",
-        "Donald Trump rally",
-        "College student concerns",
-        "Inflation and prices"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Parnas alleges that the reporter was attempting to elicit praise for Donald Trump from college students.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4
-          ]
-        },
-        {
-          "claim": "Parnas’s narration portrays the reporter as pulling away and leaving after the student discussed economic concerns.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            22,
-            23,
-            24,
-            25
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "A student lists war relief, lower inflation and interest rates, and more predictable everyday costs as priorities.",
-          "evidence_segment_indices": [
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21
-          ],
-          "start_seconds": 24.24,
-          "end_seconds": 44.079
-        },
-        {
-          "point": "The student describes current pricing as excessive and hopes for broader economic relief.",
-          "evidence_segment_indices": [
-            18,
-            19,
-            20,
-            21
-          ],
-          "start_seconds": 32.559,
-          "end_seconds": 44.079
-        },
-        {
-          "point": "The supplied narration highlights a microphone movement and pause after the student’s answer.",
-          "evidence_segment_indices": [
-            22,
-            23,
-            24,
-            25
-          ],
-          "start_seconds": 41.2,
-          "end_seconds": 50.68
-        },
-        {
-          "point": "The clip ends with Parnas asking viewers to follow for more.",
-          "evidence_segment_indices": [
-            26
-          ],
-          "start_seconds": 51.92,
-          "end_seconds": 54.719
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "dd34dfd6f3f6b0e96d81bf8d069fe44715a5aea85bd5ff7cf0b5dc6d0b550538",
-      "transcript_captured_at": "2026-10-24T17:33:05.674488Z",
-      "summary_generated_at": "2026-10-24T20:08:22.997254Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Captions overlap and contain an incomplete phrase near the opening.",
-        "The transcript does not identify the reporter, students, rally location, or full exchange.",
-        "The claim that the moment is viral comes from Parnas’s narration and is not independently established here.",
-        "The supplied material captures only a short excerpt and may omit relevant context.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "WWrlUTYv3Io",
-      "title": "Trump is declining.",
-      "url": "https://www.youtube.com/watch?v=WWrlUTYv3Io",
-      "published_at": "2026-10-23T22:32:44.000000Z",
-      "summary": "Aaron Parnas argues that Donald Trump appeared to struggle to maintain a coherent line of thought during a recent Florida appearance, presenting the episode as concerning to observers. The supplied captions show Trump discussing U.S. military equipment, referring first to Venezuela and then to what appears to be “the Islamic Republic of Iran,” with an unclear intervening phrase. Parnas interprets the delivery as a sign that Trump was prompting himself to continue and describes the remarks as jumping between subjects. He also connects the clip to what he characterizes as other recent noises or sounds. The evidence here is limited to a short, automatically generated caption excerpt and Parnas’s interpretation of it. The transcript contains apparent errors and incomplete wording, so it does not independently establish Trump’s condition, intentions, or the broader reactions asserted by the creator.",
-      "topics": [
-        "Donald Trump",
-        "Aaron Parnas",
-        "Florida appearance",
-        "Speech coherence"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Aaron Parnas says Trump was struggling to put together a cohesive thought and that this alarmed people around him, publicly and online.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3
-          ]
-        },
-        {
-          "claim": "The clip allegedly shows Trump moving among references to Venezuela, a national-related topic, and Iran.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            5,
-            7,
-            8,
-            9,
-            10,
-            13,
-            14
-          ]
-        },
-        {
-          "claim": "Parnas characterizes Trump’s delivery as including self-prompting and other unusual sounds.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            11,
-            12,
-            15,
-            16,
-            17
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator frames the Florida clip as evidence of declining verbal coherence.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4
-          ],
-          "start_seconds": 0.16,
-          "end_seconds": 11.28
-        },
-        {
-          "point": "Trump’s quoted remarks mention military equipment and Venezuela before an unclear transition involving Iran.",
-          "evidence_segment_indices": [
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ],
-          "start_seconds": 9.519,
-          "end_seconds": 26.0
-        },
-        {
-          "point": "Parnas interprets the sequence as abrupt topic changes and possible self-correction.",
-          "evidence_segment_indices": [
-            11,
-            12,
-            13,
-            14
-          ],
-          "start_seconds": 24.16,
-          "end_seconds": 33.44
-        },
-        {
-          "point": "The material consists of a brief caption excerpt and does not independently verify the creator’s conclusions.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            11,
-            12,
-            15,
-            16,
-            17
-          ],
-          "start_seconds": 0.16,
-          "end_seconds": 37.92
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "47013306378fe0e6bb92c09712ff0e83fef428185cffb6783ffd410b45e2ee18",
-      "transcript_captured_at": "2026-10-24T17:33:21.310501Z",
-      "summary_generated_at": "2026-10-24T20:08:44.583439Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The captions contain incomplete and apparently erroneous wording, including an unclear phrase before the reference to Iran.",
-        "The excerpt does not provide the full Florida remarks or surrounding context.",
-        "Claims about observers being alarmed and about other sounds are attributed to the creator and are not independently established here.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "Kd1uibsWLL4",
-      "title": "Marco Rubio calls on Cuban citizens to partner with the CIA.",
-      "url": "https://www.youtube.com/watch?v=Kd1uibsWLL4",
-      "published_at": "2026-10-23T21:56:43.000000Z",
-      "summary": "Creator Aaron Parnas presents the possibility that Cuba could be the next focus of U.S. policy, asserting that the U.S. government and Marco Rubio are openly encouraging Cuban citizens to work with the CIA. He characterizes the alleged proposal as a discreet partnership intended to create political change and potentially overthrow Cuba’s government. Parnas also links this claim to a reported statement by Donald Trump that the United States would “take care of Cuba” after dealing with Iran. From these statements, he predicts that the Trump administration may soon initiate another regime-change effort in Cuba and urges viewers to share the information. The excerpt provides no direct text of Rubio’s purported message, Trump’s full statement, or independent confirmation of either claim. Because the material is a short, commentary-style clip and the captions are fragmented across overlapping segments, its description should be treated as the creator’s interpretation rather than verification of U.S. policy, covert activity, or planned military action.",
-      "topics": [
-        "U.S.-Cuba relations",
-        "CIA cooperation allegation",
-        "Marco Rubio",
-        "Donald Trump",
-        "Regime-change prediction"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Marco Rubio or the U.S. government publicly called on Cuban citizens to partner with the CIA.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        },
-        {
-          "claim": "The alleged partnership was intended to create change by overthrowing Cuba’s government.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "claim": "Donald Trump said the United States would take care of Cuba after Iran.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            9,
-            10,
-            11
-          ]
-        },
-        {
-          "claim": "The Trump administration may soon begin a regime-change effort in Cuba.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            11,
-            12
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator says Cuba is likely to be the next focus of U.S. action.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            11,
-            12
-          ],
-          "start_seconds": 0.0,
-          "end_seconds": 25.72
-        },
-        {
-          "point": "The central allegation concerns an alleged CIA partnership with Cuban citizens.",
-          "evidence_segment_indices": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ],
-          "start_seconds": 3.44,
-          "end_seconds": 17.24
-        },
-        {
-          "point": "The creator connects the allegation to remarks attributed to Trump about Cuba and Iran.",
-          "evidence_segment_indices": [
-            9,
-            10,
-            11
-          ],
-          "start_seconds": 17.24,
-          "end_seconds": 24.16
-        },
-        {
-          "point": "The clip predicts a possible future regime-change effort and offers no primary-source documentation.",
-          "evidence_segment_indices": [
-            12,
-            13
-          ],
-          "start_seconds": 22.12,
-          "end_seconds": 28.04
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "0bf1fefa609b40de8e2899d849bdaeb0ad40190a97d4e488863296848d247b33",
-      "transcript_captured_at": "2026-10-24T17:33:27.046911Z",
-      "summary_generated_at": "2026-10-24T20:38:20.874560Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The excerpt does not reproduce the alleged Rubio or Trump statements in full.",
-        "Overlapping, fragmented captions make some wording and attribution ambiguous.",
-        "The clip is commentary and contains no independent confirmation or source documentation.",
-        "Coverage is limited to a brief prediction about possible future U.S. policy.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
