@@ -1,11 +1,269 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-27T16:12:00.227583Z",
+  "generated_at": "2026-10-27T18:42:00.229482Z",
   "reporting_window": {
-    "start": "2026-10-20T16:12:00.227583Z",
-    "end": "2026-10-27T16:12:00.227583Z"
+    "start": "2026-10-20T18:42:00.229482Z",
+    "end": "2026-10-27T18:42:00.229482Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "XYmPbRPhhDc",
+      "title": "Trump CRASHES OUT, Throws ‘TANTRUM’ as Courts REBUKE his Dreams, he is FURIOUS",
+      "url": "https://www.youtube.com/watch?v=XYmPbRPhhDc",
+      "published_at": "2026-10-27T17:48:57.000000Z",
+      "summary": "Aaron Parnas frames the episode as a critique of Donald Trump’s reported efforts to reshape Washington, arguing that court resistance to a proposed golf-course renovation and delays involving a large arch have fueled presidential frustration. The creator alleges that tree removal and the arch could affect Arlington National Cemetery sites, while also portraying voters as dissatisfied with economic conditions. The episode includes Vice President JD Vance discussing gas prices and inflation, followed by a voter’s demand for lower living costs. Its central interview is with retired Judge Jeremy Fogel, who describes the federal judiciary as resilient but under severe pressure from hostile rhetoric, threats, rapid executive action, and alleged noncompliance with court orders. Fogel argues that courts are being forced to constrain executive power while Congress is insufficiently active, and says uncertainty about Justice Department representations has damaged judicial confidence. He declines firm predictions, suggesting elections could influence congressional behavior. The transcript alone does not establish the episode’s factual allegations.",
+      "topics": [
+        "Trump and Washington projects",
+        "Federal judiciary and executive power",
+        "Economic concerns and voter sentiment",
+        "Court compliance and DOJ trust"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Courts repeatedly blocked or restricted Trump’s proposed Washington golf-course project.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            29,
+            30,
+            31,
+            32,
+            44,
+            45,
+            46,
+            47,
+            49,
+            66
+          ]
+        },
+        {
+          "claim": "A proposed 250-foot arch could cast shadows over Arlington National Cemetery graves, monuments, and memorials.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79
+          ]
+        },
+        {
+          "claim": "Trees were cut despite a court instruction not to make major changes to the golf course.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            490,
+            491,
+            492,
+            493,
+            494,
+            495,
+            496
+          ]
+        },
+        {
+          "claim": "Federal judges have reported noncompliance with court orders and diminished trust in DOJ representations.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            434,
+            437,
+            438,
+            439,
+            440,
+            441,
+            442,
+            453,
+            454,
+            455,
+            456,
+            461,
+            462,
+            463,
+            467,
+            468,
+            472,
+            473,
+            477,
+            478,
+            479
+          ]
+        },
+        {
+          "claim": "The episode presents voter dissatisfaction with prices and the economy as a broader political trend.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            113,
+            114,
+            120,
+            121,
+            123
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator’s main argument links reported project setbacks to Trump’s political messaging and frustration.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            66,
+            67,
+            68
+          ],
+          "start_seconds": 0.08,
+          "end_seconds": 154.239
+        },
+        {
+          "point": "The episode highlights alleged effects of a proposed arch on Arlington memorials and burial sites.",
+          "evidence_segment_indices": [
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            77,
+            78,
+            79
+          ],
+          "start_seconds": 152.16,
+          "end_seconds": 179.84
+        },
+        {
+          "point": "Vance’s remarks on gas prices and inflation are contrasted with a voter’s focus on living costs.",
+          "evidence_segment_indices": [
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            113,
+            114,
+            120,
+            121,
+            123
+          ],
+          "start_seconds": 193.12,
+          "end_seconds": 287.199
+        },
+        {
+          "point": "Judge Fogel describes courts as resilient but strained by executive speed, threats, and institutional pressure.",
+          "evidence_segment_indices": [
+            180,
+            184,
+            185,
+            186,
+            187,
+            192,
+            194,
+            195,
+            196,
+            197,
+            239,
+            240,
+            241,
+            247,
+            248,
+            249,
+            258,
+            259
+          ],
+          "start_seconds": 403.12,
+          "end_seconds": 590.32
+        },
+        {
+          "point": "Fogel argues that congressional inactivity leaves the judiciary carrying more of the burden of checking executive power.",
+          "evidence_segment_indices": [
+            264,
+            265,
+            266,
+            271,
+            272,
+            273,
+            275,
+            276,
+            279,
+            280,
+            281,
+            282,
+            284,
+            285,
+            286
+          ],
+          "start_seconds": 595.6,
+          "end_seconds": 656.079
+        },
+        {
+          "point": "Fogel says elections could affect congressional responses but avoids predicting the outcome.",
+          "evidence_segment_indices": [
+            500,
+            501,
+            502,
+            503,
+            504,
+            505,
+            506,
+            507,
+            508,
+            509,
+            511,
+            512,
+            514,
+            515,
+            516,
+            517,
+            518,
+            519
+          ],
+          "start_seconds": 1132.64,
+          "end_seconds": 1176.72
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "d1629982b658b66dcbc70d4b63cd27c0fef4ad4c6212d8b008b94c1d263b875d",
+      "transcript_captured_at": "2026-10-27T18:33:07.828569Z",
+      "summary_generated_at": "2026-10-27T18:38:16.391282Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains apparent captioning errors and garbled names or phrases.",
+        "Several assertions are presented by the creator or interviewee without supporting documents in the source.",
+        "The source includes promotional material and excerpted remarks, so context may be incomplete.",
+        "Attributions and wording around court orders, project details, and election expectations require external verification.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4732,145 +4990,6 @@
         "The defense secretary’s name is unclear; the caption renders it as “Pete Hexth.”",
         "The excerpt does not establish the date, setting, or full context of the quoted remarks.",
         "All political, military, casualty, and economic assertions are presented only through this source and require independent verification.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "YaSiUj9VGsE",
-      "title": "Barack Obama TEARS Into Trump Leaving MAGA Furious, Trump is MELTING DOWN!!",
-      "url": "https://www.youtube.com/watch?v=YaSiUj9VGsE",
-      "published_at": "2026-10-24T22:36:33.000000Z",
-      "summary": "The creator presents a politically charged roundup centered on Barack Obama’s reported campaign appearances in Ohio and Michigan. The creator says Obama criticized Donald Trump’s White House renovations, describing gold décor, a ballroom, and a helicopter pad through mocking comparisons; the transcript does not independently establish the renovations’ details. The creator also says Obama questioned the conduct and priorities of officials identified in the captions as Vivek Ramaswamy and Pete Hegseth, including criticism of wartime performance and public behavior. A second focus is Elon Musk’s statement that Starlink access was restricted after alleged Ukrainian use for offensive drone operations. The creator characterizes this as a possible war crime and suggests Musk or administration officials might need pardons, while the excerpt supplies no legal finding or independent corroboration. Finally, the creator discusses a president saying pardons for junior officials had not been considered but might be permissible. The segment ends with a subscription appeal and personal programming note.",
-      "topics": [
-        "Obama campaign remarks",
-        "White House renovations",
-        "Defense and wartime criticism",
-        "Starlink and Ukraine",
-        "Potential pardons"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The creator characterizes Musk’s Starlink statement as a possible admission of conduct that could constitute a war crime.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            11,
-            12,
-            14,
-            16,
-            17,
-            18
-          ]
-        },
-        {
-          "claim": "The creator reports that Starlink access was restricted because Ukraine allegedly used the service for offensive drone operations.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            145,
-            148,
-            151,
-            153,
-            154,
-            158,
-            160,
-            161,
-            162
-          ]
-        },
-        {
-          "claim": "The creator reports that the president may consider pardons for junior administration officials.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            167,
-            168,
-            170,
-            176,
-            178,
-            189,
-            190
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator says Obama criticized Trump’s renovations and mocked the White House’s reported gold décor and planned ballroom.",
-          "evidence_segment_indices": [
-            38,
-            43,
-            44,
-            45,
-            61,
-            63,
-            64,
-            67,
-            70,
-            71
-          ],
-          "start_seconds": 82.479,
-          "end_seconds": 169.28
-        },
-        {
-          "point": "The creator presents Obama as arguing that public officials should meet standards of decency and character.",
-          "evidence_segment_indices": [
-            82,
-            84,
-            85,
-            89,
-            93,
-            94
-          ],
-          "start_seconds": 194.08,
-          "end_seconds": 229.239
-        },
-        {
-          "point": "The creator says Obama criticized defense leadership over reported wartime outcomes and officials’ priorities.",
-          "evidence_segment_indices": [
-            95,
-            101,
-            106,
-            109,
-            111,
-            115,
-            122,
-            126,
-            128,
-            136,
-            138
-          ],
-          "start_seconds": 230.239,
-          "end_seconds": 362.0
-        },
-        {
-          "point": "The episode combines political commentary with discussion of Starlink restrictions and possible pardons.",
-          "evidence_segment_indices": [
-            141,
-            145,
-            151,
-            158,
-            166,
-            167,
-            178,
-            190
-          ],
-          "start_seconds": 365.44,
-          "end_seconds": 468.56
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "23b848afd3a8835f844c4f92ada2d78b894922e7ffb40f28a3ef576c5822185f",
-      "transcript_captured_at": "2026-10-24T23:03:03.378515Z",
-      "summary_generated_at": "2026-10-24T23:08:11.279858Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview relies solely on the supplied transcript and does not verify its political, legal, military, or pricing claims.",
-        "Several names, titles, and words appear mistranscribed, including references to officials and Starlink.",
-        "The excerpt contains overlapping captions, fragments, and unclear wording that may affect attribution and meaning.",
-        "The source presents commentary and allegations alongside quoted remarks; it does not establish the underlying facts independently.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
