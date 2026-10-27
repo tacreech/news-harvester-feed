@@ -1,11 +1,451 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-27T00:42:00.174394Z",
+  "generated_at": "2026-10-27T01:12:00.174917Z",
   "reporting_window": {
-    "start": "2026-10-20T00:42:00.174394Z",
-    "end": "2026-10-27T00:42:00.174394Z"
+    "start": "2026-10-20T01:12:00.174917Z",
+    "end": "2026-10-27T01:12:00.174917Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "_y6xeqw1eSQ",
+      "title": "🚨Court Orders Musk Emails About Election RELEASED, This is a MAJOR DISASTER for Elon",
+      "url": "https://www.youtube.com/watch?v=_y6xeqw1eSQ",
+      "published_at": "2026-10-27T00:17:59.000000Z",
+      "summary": "Aaron Parnas presents what he describes as a major setback for Elon Musk, reporting that a Travis County judge ordered Texas Governor Greg Abbott to allow state representative Gina Hinojosa to review previously withheld communications with Musk. The episode says the records involve more than 1,000 pages, with many pages redacted, and frames the dispute around transparency, political contributions, public contracts, tax benefits, and possible pay-to-play concerns. Hinojosa alleges that Musk donated to Abbott before companies associated with Musk received substantial tax and broadband benefits, and she further alleges that a state parks agency planned to sell Boca Chica Beach to Musk. These allegations are presented through Hinojosa’s statements and are not independently established by the episode. Parnas then argues that Texas politics may be competitive, citing an agriculture commissioner who said he did not vote for Abbott and campaign messaging suggesting Texas could turn Democratic. The episode also includes a voting-information advertisement and advocacy urging viewers to participate in the election.",
+      "topics": [
+        "Texas public-records lawsuit",
+        "Elon Musk and Greg Abbott",
+        "Political donations and contracts",
+        "Texas gubernatorial election"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A Travis County judge ordered Abbott to provide Hinojosa access to more than 1,000 pages of communications with Musk, including previously redacted material.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93
+          ]
+        },
+        {
+          "claim": "Hinojosa alleges that Musk’s campaign donation to Abbott preceded major tax and broadband benefits involving Musk’s companies.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            96,
+            97,
+            98,
+            99
+          ]
+        },
+        {
+          "claim": "Hinojosa alleges that a Texas parks agency planned to sell Boca Chica Beach to Musk shortly after the election.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            100,
+            101,
+            102,
+            103
+          ]
+        },
+        {
+          "claim": "The agriculture commissioner said he did not vote for Abbott, while the episode uses this as evidence that Texas politics could be competitive.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            195,
+            196,
+            197
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode centers on court-ordered access to Abbott-Musk communications requested by Hinojosa.",
+          "evidence_segment_indices": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            54,
+            55,
+            56,
+            57,
+            60,
+            61,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91
+          ],
+          "start_seconds": 57.76,
+          "end_seconds": 218.4
+        },
+        {
+          "point": "Hinojosa characterizes the records dispute as part of a broader transparency and corruption fight.",
+          "evidence_segment_indices": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53
+          ],
+          "start_seconds": 84.64,
+          "end_seconds": 121.759
+        },
+        {
+          "point": "The program links the controversy to the upcoming Texas election and urges voting.",
+          "evidence_segment_indices": [
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130
+          ],
+          "start_seconds": 247.599,
+          "end_seconds": 313.919
+        },
+        {
+          "point": "A sponsored segment promotes a voter-information tool and describes registration, polling-place, and ballot features.",
+          "evidence_segment_indices": [
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162
+          ],
+          "start_seconds": 332.479,
+          "end_seconds": 382.639
+        },
+        {
+          "point": "The closing political commentary includes claims that Texas could turn Democratic.",
+          "evidence_segment_indices": [
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221
+          ],
+          "start_seconds": 443.44,
+          "end_seconds": 509.919
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "770857a4e11e3ee2f911f478b4236fa1fa8e9fb0b68d1a11ad8d1360656a0580",
+      "transcript_captured_at": "2026-10-27T01:03:14.961522Z",
+      "summary_generated_at": "2026-10-27T01:08:33.230956Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies only on the supplied transcript and does not verify the court ruling, financial figures, contracts, proposed sale, or political statements.",
+        "Names, places, legal references, and other wording contain apparent caption or transcription errors, including variations of Hinojosa’s name and the Boca Chica reference.",
+        "The episode mixes reported events, quoted political advocacy, predictions, commentary, and sponsored material, so their evidentiary status differs.",
+        "The transcript provides no opposing response from Abbott, Musk, or relevant agencies.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "Xeya0ZAjwjM",
+      "title": "Bill Maher PANICS As Trump TURNS ON HIM After Chummy Dinner!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=Xeya0ZAjwjM",
+      "published_at": "2026-10-27T00:00:27.000000Z",
+      "summary": "Kyle Kulinski argues that Bill Maher’s repeated dinners with Donald Trump demonstrate an overly conciliatory approach that Trump quickly exploited. The episode contrasts Maher’s account of private conversations—where he describes Trump as attentive, humorous, and willing to discuss disagreements—with Kulinski’s view that the meetings “humanize” Trump and turn Maher into a de facto spokesperson. It also reviews commentary from Stephen A. Smith, who describes a long, hospitable White House visit involving Maher, Trump, Kid Rock, and Smith, with discussion of the economy, foreign policy, and historically Black colleges. Kulinski then highlights Trump’s later hostile post criticizing Maher, presenting the reversal as evidence that the apparent rapport was temporary. The segment concludes by criticizing Maher’s political judgments and promoting Kulinski’s related writing. The source is an opinionated commentary program containing edited clips, strong language, humor, and numerous allegations; it does not independently establish the factual claims discussed.",
+      "topics": [
+        "Bill Maher’s White House dinners with Trump",
+        "Kyle Kulinski’s criticism of political conciliation",
+        "Stephen A. Smith’s account of the visit",
+        "Trump’s subsequent criticism of Maher"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The second White House dinner lasted approximately four and a half hours and included Trump, Maher, Stephen A. Smith, and Kid Rock.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            295,
+            298,
+            307,
+            312,
+            313,
+            314
+          ]
+        },
+        {
+          "claim": "Trump publicly criticized Maher shortly after describing the dinner as positive.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            387,
+            388,
+            389,
+            391,
+            392,
+            393,
+            411,
+            412,
+            613,
+            621,
+            629,
+            630,
+            631
+          ]
+        },
+        {
+          "claim": "The episode recounts a prior 2013 lawsuit by Trump against Maher over a joke about Trump’s birth certificate and says the suit was later dropped.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Maher says he sought direct conversation with Trump despite major political disagreements and described Trump as attentive and personable in private.",
+          "evidence_segment_indices": [
+            39,
+            42,
+            43,
+            52,
+            53,
+            56,
+            61,
+            64,
+            74,
+            75,
+            90,
+            97
+          ],
+          "start_seconds": 77.68,
+          "end_seconds": 189.599
+        },
+        {
+          "point": "Stephen A. Smith says the later visit covered policy topics including the economy, foreign policy, and HBCU funding.",
+          "evidence_segment_indices": [
+            312,
+            313,
+            314,
+            315,
+            345,
+            346,
+            347,
+            348,
+            367,
+            368,
+            369
+          ],
+          "start_seconds": 561.92,
+          "end_seconds": 655.76
+        },
+        {
+          "point": "Kulinski interprets the dinners as evidence that Maher is being flattered or used, while Maher presents dialogue itself as worthwhile.",
+          "evidence_segment_indices": [
+            76,
+            77,
+            78,
+            82,
+            83,
+            84,
+            85,
+            86,
+            167,
+            168,
+            320,
+            321,
+            328,
+            331,
+            332,
+            333,
+            334,
+            335,
+            336,
+            337,
+            338,
+            339,
+            340,
+            341
+          ],
+          "start_seconds": 141.68,
+          "end_seconds": 608.64
+        },
+        {
+          "point": "The episode ends by framing Trump’s later attack on Maher as a reversal of the friendly dinner rhetoric.",
+          "evidence_segment_indices": [
+            173,
+            174,
+            175,
+            176,
+            387,
+            388,
+            391,
+            392,
+            393,
+            400,
+            411,
+            412,
+            613,
+            621,
+            629,
+            630,
+            631
+          ],
+          "start_seconds": 326.56,
+          "end_seconds": 1113.039
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "db5da3ab226aabb36bf15701f2df279bfe988209d479b97e7d11015dcc90de5d",
+      "transcript_captured_at": "2026-10-27T01:03:19.688276Z",
+      "summary_generated_at": "2026-10-27T01:08:46.563717Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is caption-derived and contains redactions, misrecognitions, overlapping speakers, and unclear names.",
+        "The program mixes original commentary with excerpts from interviews, podcasts, and other clips, sometimes without clearly marking transitions.",
+        "Allegations about violence, corruption, crime, policy effects, ratings, and audience reactions are presented as commentary and require independent verification.",
+        "The overview reflects only the supplied transcript and does not verify dates, identities, quotations, or external events.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -221,6 +661,252 @@
         "The poll’s source, sample, date, wording, and methodology are not provided.",
         "Claims about laws, healthcare losses, wars, corruption, and alleged misconduct are source-only assertions and require independent verification.",
         "The transcript mixes Kulinski’s commentary with excerpts from political advertisements, interviews, and satire.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "wY32TMEsmE8",
+      "title": "Reddit Mods Are Embarrassing...",
+      "url": "https://www.youtube.com/watch?v=wY32TMEsmE8",
+      "published_at": "2026-10-26T23:21:57.000000Z",
+      "summary": "Mutahar argues that a Reddit open-source community’s strict anti-AI moderation illustrates a broader difficulty: distinguishing harmful “AI slop” from useful assistance. He describes rules reportedly excluding projects made with or intended for AI, imposing account-age and contribution requirements, and rejecting AI-translated participation; he presents community criticism and a moderator’s later clarification as evidence of inconsistency. The episode then contrasts disposable, lightly reviewed code with assistive use in mature projects, citing the creator’s account of Linux kernel work involving an LLM and examples from game recompilation. Mutahar says AI can lower barriers to experimentation, while maintenance, review, architecture, and understanding remain human responsibilities. He draws a sharper line around generated audio and video, associating them in his discussion with misinformation, deepfakes, exploitative material, and unsafe chatbot interactions. The overview reflects the creator’s commentary and reported examples only; the transcript does not independently establish the external claims about Reddit policy, kernel contributions, legal cases, or technology impacts.",
+      "topics": [
+        "Reddit moderation",
+        "AI-assisted coding",
+        "Open-source communities",
+        "Generative media risks"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The referenced open-source subreddit adopted rules restricting AI-related projects, requiring project and account-age thresholds, and limiting AI-translated participation.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            45,
+            51,
+            55,
+            56,
+            57,
+            58,
+            59,
+            91,
+            94,
+            106,
+            115,
+            120,
+            121,
+            122,
+            123,
+            131,
+            136
+          ]
+        },
+        {
+          "claim": "The Linux kernel work discussed by Mutahar involved Claude Code or another LLM assistant under Linus Torvalds’s direction.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            170,
+            174,
+            175,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195
+          ]
+        },
+        {
+          "claim": "Character AI faced legal, regulatory, and operational problems, including wrongful-death litigation and alleged safety failures involving minors.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            577,
+            578,
+            583,
+            584,
+            585,
+            586,
+            588,
+            589,
+            590,
+            591,
+            592,
+            593,
+            594,
+            597,
+            598,
+            599,
+            600,
+            601
+          ]
+        },
+        {
+          "claim": "A browser-based Need for Speed Underground 2 project supports multiplayer features through static recompilation and related community work.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            490,
+            493,
+            494,
+            498,
+            499,
+            500,
+            501,
+            502,
+            503,
+            506,
+            508,
+            509,
+            510,
+            511,
+            512,
+            513,
+            520,
+            522,
+            523
+          ]
+        },
+        {
+          "claim": "AI-generated audio and video are widely used for misinformation, deepfakes, and exploitative material.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            430,
+            431,
+            432,
+            433,
+            434,
+            443,
+            445,
+            451,
+            452,
+            454,
+            456,
+            457,
+            458,
+            460,
+            461,
+            462,
+            466,
+            467,
+            468
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Mutahar frames the Reddit dispute as a conflict between anti-slop moderation and legitimate AI-assisted development.",
+          "evidence_segment_indices": [
+            55,
+            56,
+            57,
+            58,
+            59,
+            91,
+            93,
+            115,
+            116,
+            136
+          ],
+          "start_seconds": 124.079,
+          "end_seconds": 318.479
+        },
+        {
+          "point": "He distinguishes generated code that is lightly reviewed from assistive tools used for testing, review, scripting, and mature project maintenance.",
+          "evidence_segment_indices": [
+            389,
+            390,
+            391,
+            392,
+            393,
+            394,
+            395,
+            396,
+            397,
+            398,
+            399,
+            400,
+            407,
+            408,
+            409,
+            410,
+            411,
+            412,
+            413
+          ],
+          "start_seconds": 884.0,
+          "end_seconds": 939.199
+        },
+        {
+          "point": "He argues that AI lowers barriers to coding and game modification but shifts difficulty toward comprehension, architecture, and long-term maintenance.",
+          "evidence_segment_indices": [
+            292,
+            293,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300,
+            316,
+            319,
+            320,
+            321,
+            322,
+            323,
+            526,
+            527,
+            528,
+            531,
+            532,
+            533
+          ],
+          "start_seconds": 675.04,
+          "end_seconds": 1188.24
+        },
+        {
+          "point": "He presents coding as comparatively useful while expressing strong opposition to generative audio and video because of alleged social harms.",
+          "evidence_segment_indices": [
+            623,
+            624,
+            629,
+            630,
+            631,
+            632,
+            633,
+            634,
+            638,
+            640,
+            641,
+            648,
+            691,
+            692,
+            693,
+            694,
+            695,
+            696,
+            698
+          ],
+          "start_seconds": 1375.039,
+          "end_seconds": 1530.88
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "ef20b0f6964266c7d633451375e50522ec3cf9c15ada61757d3c9adbcfa23a9f",
+      "transcript_captured_at": "2026-10-27T01:03:09.355277Z",
+      "summary_generated_at": "2026-10-27T01:08:20.826682Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is an automatically generated transcript with profanity redactions, names, and technical terms occasionally misrecognized.",
+        "The episode reports screenshots, posts, legal material, and project behavior without supplying independently inspectable source documents here.",
+        "Some quoted Reddit rules and external examples are presented through Mutahar’s interpretation, so their exact wording and context remain uncertain.",
+        "The source reflects one creator’s perspective and does not establish the broader prevalence or effects of the described AI practices.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -4070,489 +4756,6 @@
         "The causal link between the Starlink change and civilian deaths is asserted but not documented in the supplied material.",
         "The caption renders “Starling” once, likely referring to Starlink.",
         "The excerpt is a short creator narration and does not establish the broader timeline or affected incidents.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "0hIzwCXxkSo",
-      "title": "Wow",
-      "url": "https://www.youtube.com/watch?v=0hIzwCXxkSo",
-      "published_at": "2026-10-24T20:43:01.000000Z",
-      "summary": "Aaron Parnas presents a clip in which Barack Obama and another speaker criticize Donald Trump’s apparent priorities and White House-related renovations. The commentary argues that promises have not produced expected results and questions whether Trump is spending sufficient time on policy issues. It then characterizes him as focused on home renovations, including an alleged ballroom larger than the White House, changes to the Rose Garden, a helicopter pad on the South Lawn, and extensive use of gold. The remarks are delivered in a mocking, critical tone, including a comparison to Saddam Hussein and a cheesecake factory. The source is a short, automatically captioned excerpt and provides no date, location, surrounding discussion, visual confirmation, or independent corroboration for the renovation claims. It also does not clearly identify which speaker makes each statement beyond the clip’s opening attribution to Obama. Accordingly, the episode overview reflects the speakers’ assertions and Parnas’s framing rather than establishing the underlying claims as fact.",
-      "topics": [
-        "Donald Trump",
-        "Barack Obama",
-        "White House renovations",
-        "Political commentary"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The White House has been altered with a ballroom larger than the White House, a helicopter pad on the South Lawn, and extensive gold decoration.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            18,
-            19,
-            20,
-            21,
-            22,
-            24
-          ]
-        },
-        {
-          "claim": "The Rose Garden has been paved over as part of the renovations.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            19,
-            20
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames the clip as Obama sharply criticizing Trump, while the excerpt itself provides limited speaker identification.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "start_seconds": 0.08,
-          "end_seconds": 10.8
-        },
-        {
-          "point": "The commentary questions whether Trump is focused on policy issues and says he appears focused on home renovations.",
-          "evidence_segment_indices": [
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17
-          ],
-          "start_seconds": 22.48,
-          "end_seconds": 46.52
-        },
-        {
-          "point": "The speakers mock the alleged scale and style of the renovations, emphasizing a ballroom, helicopter pad, and gold décor.",
-          "evidence_segment_indices": [
-            18,
-            19,
-            20,
-            21,
-            22,
-            24,
-            25,
-            26
-          ],
-          "start_seconds": 46.64,
-          "end_seconds": 71.439
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "38d50b8710b6e105e25ca713af8fbf1ac7fb6c1578e7a3ae7d8c98d0751160c4",
-      "transcript_captured_at": "2026-10-24T21:03:06.108073Z",
-      "summary_generated_at": "2026-10-24T21:08:20.870005Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Automatic captions contain stutters, truncations, and awkward phrasing.",
-        "The short excerpt does not clearly establish which person says every line.",
-        "The renovation descriptions and promise tally are presented only as commentary, without corroboration or broader context.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "L7sY-hYTKtQ",
-      "title": "Oops!",
-      "url": "https://www.youtube.com/watch?v=L7sY-hYTKtQ",
-      "published_at": "2026-10-24T18:31:20.000000Z",
-      "summary": "Aaron Parnas argues that Trump-themed merchandise stores are closing across the United States and presents this as evidence that enthusiasm for Trump and MAGA products has declined. Citing The Independent, he says at least four stores selling Trump merchandise have shut down. Parnas attributes the alleged business failures to reduced consumer interest, Trump no longer being on the ballot, and what he describes as a historically high unpopularity rating. He refers to stores in Pennsylvania and Tennessee and says operators who opened them are rapidly going out of business. The episode is a brief commentary built around a political interpretation of reported store closures, rather than a detailed examination of sales data, store finances, or broader retail trends. Its conclusions therefore depend on the accuracy and completeness of the cited reporting and on whether the closures reflect national demand. The segment ends with a request that viewers share the claim and follow for more content.",
-      "topics": [
-        "Trump merchandise retail closures",
-        "MAGA consumer interest",
-        "Trump popularity",
-        "Political commentary"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "At least four stores selling Trump merchandise have closed across the country, according to The Independent.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            3,
-            4,
-            5
-          ]
-        },
-        {
-          "claim": "Trump merchandise stores are closing because Americans are less interested in buying MAGA or Trump-related products.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "claim": "Trump's unpopularity rating is at a historic high.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "claim": "Trump merchandise stores in Pennsylvania and Tennessee are rapidly going out of business.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            13,
-            14,
-            15,
-            16,
-            17
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator frames reported store closures as a sign of declining Trump-related commercial enthusiasm.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            6,
-            7,
-            8
-          ],
-          "start_seconds": 0.24,
-          "end_seconds": 24.0
-        },
-        {
-          "point": "The episode cites at least four reported closures and mentions Pennsylvania and Tennessee.",
-          "evidence_segment_indices": [
-            3,
-            4,
-            5,
-            13,
-            14,
-            15
-          ],
-          "start_seconds": 7.68,
-          "end_seconds": 41.36
-        },
-        {
-          "point": "The creator links the alleged decline to Trump's ballot status and claimed unpopularity.",
-          "evidence_segment_indices": [
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "start_seconds": 19.279,
-          "end_seconds": 35.6
-        },
-        {
-          "point": "The conclusion is presented as commentary and does not include sales figures or detailed business evidence.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            17,
-            18
-          ],
-          "start_seconds": 0.24,
-          "end_seconds": 46.559
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "9cd234adbde19936e3c1e2da435c95eb5d8e6db2639f2e6f71872ac9cacc32e5",
-      "transcript_captured_at": "2026-10-24T19:03:05.756704Z",
-      "summary_generated_at": "2026-10-24T19:10:27.344260Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is a short commentary clip and provides no underlying sales, financial, or polling data.",
-        "The cited Independent report is referenced but not reproduced, so its scope and wording cannot be assessed here.",
-        "The transcript may contain caption or phrasing defects, including compressed wording around political claims.",
-        "The source does not establish whether the mentioned closures represent a broader national retail trend.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "oU7UIGi2ylM",
-      "title": "🚨Trump and Elon PANIC Over Fear of PRISON, They are Getting DESPERATE",
-      "url": "https://www.youtube.com/watch?v=oU7UIGi2ylM",
-      "published_at": "2026-10-24T16:50:26.000000Z",
-      "summary": "Aaron Parnas argues that Donald Trump and Elon Musk are acting out of fear of future investigations, testimony, and possible prosecution. He says the White House is considering broad or preemptive pardons for junior staff and personnel associated with areas including deportation, war, and trade, while contending that pardons could compel recipients to testify and therefore backfire. Parnas also portrays Musk’s campaign spending as an effort to preserve Republican congressional control and avoid scrutiny of his government-related activities. The episode cites alleged consequences involving USAID, Starlink, SpaceX, immigration enforcement, military action, and trade, while incorporating commentary from Lawrence O’Donnell and references to Bill Gates. Parnas further discusses Trump’s remarks that he could issue pardons, including a possible self-pardon, and interprets those comments as evidence of mounting concern. The segment is primarily commentary and prediction; its reported claims, legal assertions, spending figures, and allegations are presented without supporting documentation in the transcript.",
-      "topics": [
-        "Presidential pardons",
-        "Congressional investigations",
-        "Elon Musk’s campaign spending",
-        "Trump administration accountability"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The White House is considering broad or preemptive pardons for junior staff or personnel connected to specific policy areas.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            28,
-            29,
-            30,
-            31,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48
-          ]
-        },
-        {
-          "claim": "Elon Musk has spent more than $442 million in midterm elections, including $76 million in the preceding month.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            141,
-            142,
-            143,
-            144,
-            145,
-            146,
-            147,
-            148
-          ]
-        },
-        {
-          "claim": "Musk’s actions involving USAID allegedly contributed to deaths through deprivation of food or medicine.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            152,
-            153,
-            162,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183
-          ]
-        },
-        {
-          "claim": "Trump said he is legally allowed to issue a self-pardon and could pardon people who worked for him.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            98,
-            99,
-            108,
-            109,
-            110,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            130,
-            131,
-            132,
-            133
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas presents possible mass pardons as a response to anticipated investigations and prosecution.",
-          "evidence_segment_indices": [
-            8,
-            9,
-            12,
-            16,
-            17,
-            18,
-            28,
-            29,
-            30,
-            31,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            46,
-            47,
-            48,
-            95,
-            96,
-            97
-          ],
-          "start_seconds": 19.84,
-          "end_seconds": 218.64
-        },
-        {
-          "point": "He argues that accepting a pardon could remove Fifth Amendment protections for the pardoned conduct and expose recipients to questioning or perjury charges.",
-          "evidence_segment_indices": [
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            83,
-            84,
-            85,
-            86,
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94
-          ],
-          "start_seconds": 138.4,
-          "end_seconds": 211.2
-        },
-        {
-          "point": "The episode links Musk’s political spending to a desire to avoid congressional testimony about his government-related activities.",
-          "evidence_segment_indices": [
-            141,
-            144,
-            145,
-            146,
-            147,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160,
-            161,
-            162
-          ],
-          "start_seconds": 301.919,
-          "end_seconds": 353.039
-        },
-        {
-          "point": "Trump’s recorded remarks address pardons, including whether he might pardon himself and employees who could face legal scrutiny.",
-          "evidence_segment_indices": [
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121,
-            122,
-            123,
-            124,
-            125,
-            126
-          ],
-          "start_seconds": 220.0,
-          "end_seconds": 277.52
-        },
-        {
-          "point": "Parnas closes by predicting an uncertain and potentially damaging political future for people inside and outside the administration.",
-          "evidence_segment_indices": [
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            210,
-            211
-          ],
-          "start_seconds": 451.039,
-          "end_seconds": 483.52
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "e1758748fdab9af04e1fc6f980b02725a0aa8f56c74a6b458db1b8fa0826b19c",
-      "transcript_captured_at": "2026-10-24T17:08:24.881229Z",
-      "summary_generated_at": "2026-10-24T18:33:16.033597Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is commentary and includes predictions, interpretations, and allegations that are not independently established within the source.",
-        "Several captions contain repetitions, transcription errors, and unclear names or phrases.",
-        "Attributions to outside reporting and commentators are mentioned, but the underlying reports and recordings are not provided here.",
-        "The source offers limited context for legal claims, election-spending figures, polling or turnout statements, and alleged causal links.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
