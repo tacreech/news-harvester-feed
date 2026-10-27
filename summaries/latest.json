@@ -1,11 +1,927 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-26T23:42:00.186073Z",
+  "generated_at": "2026-10-27T00:42:00.174394Z",
   "reporting_window": {
-    "start": "2026-10-19T23:42:00.186073Z",
-    "end": "2026-10-26T23:42:00.186073Z"
+    "start": "2026-10-20T00:42:00.174394Z",
+    "end": "2026-10-27T00:42:00.174394Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "U70F4ILPI7I",
+      "title": "Dear Democrats, DO NOT THROW TRANS PEOPLE UNDER THE BUS | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=U70F4ILPI7I",
+      "published_at": "2026-10-26T23:30:04.000000Z",
+      "summary": "Kyle Kulinski argues that Democratic candidates should stop using anti-trans messaging, contending that such appeals will not attract Republican voters and instead undermine Democratic principles. He criticizes Iowa candidate Josh Turk’s advertisement, which opposes transgender women competing in female sports and taxpayer-funded gender-affirming surgery while presenting itself as a rejection of political extremes. Kulinski contrasts that approach with Adam Hamilton’s stated opposition to bullying transgender people and his appeal to humane treatment. He argues Democrats should emphasize equality, defend minority groups, and focus political criticism on issues such as costs, corruption, war, and billionaire influence rather than adopting Republican framing. Kulinski also presents a satirical bathroom-themed clip and cites a poll that he says gives Democrats a nine-point advantage over Republicans on handling transgender issues. The episode is strongly partisan and includes sweeping, inflammatory accusations about Republicans and the Trump administration that are presented as Kulinski’s assertions rather than independently established facts.",
+      "topics": [
+        "Democratic campaign strategy",
+        "Transgender rights",
+        "Political advertising",
+        "Partisan messaging"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Kulinski says a poll shows Democrats leading Republicans by nine points on handling transgender issues.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229
+          ]
+        },
+        {
+          "claim": "The featured Josh Turk advertisement says opposing males competing in female sports is already illegal in Iowa and opposes taxpayer-funded sex changes.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46
+          ]
+        },
+        {
+          "claim": "Kulinski claims that more than 15 million people lost healthcare directly because of Donald Trump.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            60,
+            61,
+            62,
+            63,
+            64
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski’s central message is that Democrats should not sacrifice transgender people for electoral positioning.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "start_seconds": 0.24,
+          "end_seconds": 26.4
+        },
+        {
+          "point": "He criticizes Josh Turk’s ad for adopting anti-trans and “both sides” framing while endorsing Turk over a Republican opponent.",
+          "evidence_segment_indices": [
+            33,
+            34,
+            35,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91
+          ],
+          "start_seconds": 71.2,
+          "end_seconds": 194.239
+        },
+        {
+          "point": "Adam Hamilton is presented as an alternative model centered on opposing bullying and treating transgender people humanely.",
+          "evidence_segment_indices": [
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126
+          ],
+          "start_seconds": 213.84,
+          "end_seconds": 257.359
+        },
+        {
+          "point": "Kulinski argues Democrats should foreground equality and economic concerns while identifying billionaires, war proponents, and fascists as political opponents.",
+          "evidence_segment_indices": [
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180
+          ],
+          "start_seconds": 318.479,
+          "end_seconds": 366.639
+        },
+        {
+          "point": "He argues that Republicans’ focus on transgender issues is electorally counterproductive and portrays Democrats as fairer on the issue.",
+          "evidence_segment_indices": [
+            217,
+            218,
+            219,
+            220,
+            221,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244
+          ],
+          "start_seconds": 442.479,
+          "end_seconds": 493.52
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "5530f2b0c88edad6896f56a6b7bcfe1e8a5377ca50df7c040e1889e7f46b0644",
+      "transcript_captured_at": "2026-10-27T00:33:24.906231Z",
+      "summary_generated_at": "2026-10-27T00:39:41.668205Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains automatic-caption defects, redactions, profanity placeholders, and apparent transcription errors.",
+        "The poll’s source, sample, date, wording, and methodology are not provided.",
+        "Claims about laws, healthcare losses, wars, corruption, and alleged misconduct are source-only assertions and require independent verification.",
+        "The transcript mixes Kulinski’s commentary with excerpts from political advertisements, interviews, and satire.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Mike Figueredo — The Humanist Report",
+      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
+      "video_id": "XeKbmbfQBTc",
+      "title": "Brazil Shocks the World by Rejecting U.S.-Backed Fascist in Presidential Election",
+      "url": "https://www.youtube.com/watch?v=XeKbmbfQBTc",
+      "published_at": "2026-10-26T23:08:43.000000Z",
+      "summary": "The creator presents Lula’s reported presidential victory in Brazil as a major defeat for a far-right opponent and celebrates Lula’s public appreciation for lawmaker Erica Hilton, emphasizing her campaign work and identity as a trans woman. The episode attributes the result to broad mobilization across rural, Indigenous, working-class, elderly, and LGBTQ+ communities, including increased second-round turnout and difficult journeys to polling places. It also relays allegations that technology companies, U.S. political actors, and billionaire interests attempted to influence the election, while noting that the defeated candidate and foreign allies were challenging the result. The creator argues that defeating authoritarian movements requires stronger democratic safeguards, regulation of digital platforms, accountability for political violence, and succession planning within Lula’s party. A recurring comparison contrasts Brazil’s alleged accountability for insurrection-related conduct with the United States. The material is commentary-driven, uses inflammatory labels, and includes many claims that require independent verification.",
+      "topics": [
+        "Brazilian election",
+        "Political mobilization",
+        "Foreign interference allegations",
+        "Digital-platform regulation",
+        "Democratic accountability"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Lula won Brazil’s presidential runoff after losing the first round, in an outcome described as historically unusual.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "claim": "Nearly three million more people voted in the second round, with rural and Indigenous voters using boats or other difficult transport to reach polling places.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            65,
+            66,
+            67,
+            68,
+            79,
+            80,
+            81,
+            82,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            97,
+            98,
+            99,
+            100
+          ]
+        },
+        {
+          "claim": "Meta and other technology companies manipulated algorithms to benefit the far-right candidate, while the Trump administration interfered in Brazil’s election.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58
+          ]
+        },
+        {
+          "claim": "The defeated candidate sought to nullify the result, and foreign political figures encouraged pressure against Lula or Brazil’s government.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            212,
+            213
+          ]
+        },
+        {
+          "claim": "Brazilian authorities extended polling hours after transportation complaints, and the defeated candidate’s party had supported the extension before disputing its consequences.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames Lula’s victory as a democratic rejection of authoritarian politics.",
+          "evidence_segment_indices": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "start_seconds": 48.48,
+          "end_seconds": 81.92
+        },
+        {
+          "point": "The episode credits cross-community organizing and increased turnout for the reported result.",
+          "evidence_segment_indices": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+          ],
+          "start_seconds": 137.44,
+          "end_seconds": 170.0
+        },
+        {
+          "point": "The creator calls for regulation of foreign digital platforms and stronger democratic protections.",
+          "evidence_segment_indices": [
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136
+          ],
+          "start_seconds": 256.799,
+          "end_seconds": 294.08
+        },
+        {
+          "point": "The creator warns that political and legal challenges to the result could continue, especially through foreign pressure.",
+          "evidence_segment_indices": [
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            220,
+            221,
+            222,
+            223
+          ],
+          "start_seconds": 338.32,
+          "end_seconds": 460.72
+        },
+        {
+          "point": "The episode concludes that Brazil’s organizing could serve as a model while warning that far-right movements remain a long-term threat.",
+          "evidence_segment_indices": [
+            375,
+            376,
+            377,
+            378,
+            379,
+            380,
+            381,
+            382,
+            384,
+            385,
+            386,
+            387,
+            388,
+            396,
+            397,
+            398,
+            399,
+            400,
+            401,
+            402,
+            408,
+            409,
+            410,
+            411
+          ],
+          "start_seconds": 807.839,
+          "end_seconds": 884.079
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "057ad41b396a61faed85e09788d5a4be6dbcdb25c6cd90d720ca99f68760daff",
+      "transcript_captured_at": "2026-10-27T00:33:08.283256Z",
+      "summary_generated_at": "2026-10-27T00:38:30.871746Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains numerous apparent caption errors, including distorted names, numbers, and words.",
+        "The source is a single commentary episode and does not provide independent documentation for its allegations.",
+        "Several claims are presented through rhetorical or inflammatory language, making the speaker’s interpretation difficult to separate from reported events.",
+        "The excerpt may omit visual material, linked articles, or context referenced by the speakers.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "6djkC8tmQbI",
+      "title": "Mehdi DOG WALKS Matt Yglesias (NSFW: VIOLENCE & GORE) | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=6djkC8tmQbI",
+      "published_at": "2026-10-26T23:00:13.000000Z",
+      "summary": "Kyle Kulinski argues that Mehdi Hasan’s debate with Matt Yglesias exposed major differences over political strategy, immigration, and Gaza. Kulinski portrays Yglesias as prioritizing electoral salience and waiting to act until Democrats regain power, while Hasan presses him on whether opposition parties should publicly challenge alleged abuses even when doing so may be politically costly. Kulinski endorses a principle-driven approach, arguing that Democrats and the left should oppose what he characterizes as authoritarian immigration enforcement and defend people facing mistreatment. The episode then turns to Yglesias’s earlier description of Israel’s war in Gaza as just. In the excerpt, Yglesias ultimately says the war itself was not just, while maintaining that Israel had a just cause to fight Hamas. Kulinski treats this exchange as evidence that Yglesias avoids directly confronting the scale and nature of the conduct being discussed. The commentary is highly adversarial and relies heavily on claims about polling, deaths, detention, and alleged abuses that are presented without supporting documentation in the source.",
+      "topics": [
+        "Political strategy and electoral salience",
+        "Immigration enforcement and protest",
+        "Israel-Gaza war",
+        "Foreign-policy credibility"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The source claims that polling has shifted toward Democrats on immigration and that fewer voters now prioritize immigration.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            55,
+            56,
+            57,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74
+          ]
+        },
+        {
+          "claim": "The source alleges constitutional violations, unlawful detention practices, deaths in custody, violence, and other abuses connected to ICE.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265
+          ]
+        },
+        {
+          "claim": "The source claims that protests and organizing in Minnesota caused ICE to leave the streets and that an official was removed.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            178,
+            179,
+            180,
+            181,
+            182,
+            190,
+            191,
+            192
+          ]
+        },
+        {
+          "claim": "The source presents disputed casualty, famine, criminal-charge, and alleged-war-crime claims concerning Gaza.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            305,
+            306,
+            307,
+            308,
+            309,
+            310,
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318,
+            319,
+            320,
+            321,
+            322,
+            323,
+            324,
+            325
+          ]
+        },
+        {
+          "claim": "The source claims that Israel’s conduct in Gaza constitutes genocide or ethnic cleansing and that Israeli policy would have produced similar harm regardless of Palestinian conduct.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            363,
+            364,
+            367,
+            368,
+            369,
+            370,
+            376,
+            377,
+            378,
+            379,
+            380,
+            381,
+            382,
+            383,
+            384,
+            385,
+            467,
+            468,
+            469,
+            470,
+            471,
+            472,
+            473,
+            474
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames Hasan’s exchange with Yglesias as a decisive defeat for Yglesias.",
+          "evidence_segment_indices": [
+            21,
+            22,
+            23,
+            24,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "start_seconds": 40.879,
+          "end_seconds": 77.92
+        },
+        {
+          "point": "Yglesias argues that emphasizing immigration can help Republicans, while Hasan argues that political conditions and public opinion can change.",
+          "evidence_segment_indices": [
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            65,
+            66,
+            67,
+            68,
+            71,
+            72,
+            73,
+            74
+          ],
+          "start_seconds": 107.439,
+          "end_seconds": 154.56
+        },
+        {
+          "point": "The discussion contrasts electoral calculation with moral and principled opposition to alleged abuses.",
+          "evidence_segment_indices": [
+            103,
+            104,
+            105,
+            106,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125
+          ],
+          "start_seconds": 207.599,
+          "end_seconds": 235.68
+        },
+        {
+          "point": "On Gaza, Yglesias distinguishes between a just cause for fighting Hamas and a war that was not itself just.",
+          "evidence_segment_indices": [
+            370,
+            371,
+            372,
+            373,
+            374,
+            375,
+            421,
+            422,
+            423,
+            424,
+            425,
+            426,
+            427,
+            428,
+            429,
+            430,
+            431,
+            435,
+            436
+          ],
+          "start_seconds": 641.839,
+          "end_seconds": 751.68
+        },
+        {
+          "point": "Kulinski concludes that Yglesias’s positions reflect contrarianism and criticizes his treatment of left-wing concerns.",
+          "evidence_segment_indices": [
+            499,
+            500,
+            501,
+            502,
+            503,
+            504,
+            505,
+            506,
+            507,
+            508,
+            509,
+            510,
+            511,
+            512,
+            513,
+            514,
+            515,
+            516,
+            517,
+            518,
+            519,
+            520,
+            521,
+            522
+          ],
+          "start_seconds": 863.44,
+          "end_seconds": 910.399
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "089c492f7be922275279564fbe18c0ee62a50d990c7cdca6c5c34db3711580a4",
+      "transcript_captured_at": "2026-10-27T00:33:19.134308Z",
+      "summary_generated_at": "2026-10-27T00:39:25.451712Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Automatic captions contain numerous transcription errors and garbled names.",
+        "Speaker attribution is sometimes unclear because the excerpt interleaves commentary with quoted debate audio.",
+        "The source provides no underlying polling, casualty, legal, or investigative documentation.",
+        "The overview reflects the episode’s presentation and does not independently establish its allegations.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "0lJVg6D5qD8",
+      "title": "VIVEK IS F*CKED | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=0lJVg6D5qD8",
+      "published_at": "2026-10-26T22:30:39.000000Z",
+      "summary": "Kyle Kulinski argues that Vivek Ramaswamy’s Ohio gubernatorial campaign damaged itself by featuring Amy Acton’s mother in an attack advertisement. Kulinski says the mother previously supported a man accused of raping Acton as a child, and criticizes the campaign for using her as a character witness. He also discusses reports that the woman had been living in a car and claims the campaign sought her participation in the advertisement; the transcript does not establish whether she was compensated. Kulinski says a revised advertisement removed an allegation that Acton lied about living in a tent, which he interprets as an attempt to reduce defamation exposure. He further reports that some venues withdrew from Ramaswamy’s bus tour and attributes this to backlash over the advertisement. The episode ends with Kulinski asserting that Ramaswamy’s election odds had fallen to about 20% in betting markets. These claims are presented through commentary and cited reports, but the transcript supplies no independent documentation or opposing responses.",
+      "topics": [
+        "Ohio gubernatorial campaign",
+        "Political advertising",
+        "Amy Acton allegations",
+        "Campaign backlash"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Ramaswamy’s campaign used Amy Acton’s mother in an attack advertisement and later removed an allegation about Acton living in a tent.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            6,
+            7,
+            30,
+            78,
+            80,
+            86,
+            91,
+            98
+          ]
+        },
+        {
+          "claim": "Acton’s mother supported a man accused or indicted in connection with rape and child sexual abuse involving Acton.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            14,
+            15,
+            16,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "claim": "Some venues withdrew from hosting Ramaswamy’s Ohio bus tour because of the advertisement.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            114
+          ]
+        },
+        {
+          "claim": "Betting markets gave Ramaswamy approximately a 20% chance of winning.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            156,
+            157,
+            158,
+            159
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames the episode as an argument that the advertisement harmed Ramaswamy’s campaign.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            29,
+            36,
+            156,
+            165
+          ],
+          "start_seconds": 0.0,
+          "end_seconds": 372.24
+        },
+        {
+          "point": "The discussion centers on the campaign’s reliance on Acton’s mother as an attacking witness.",
+          "evidence_segment_indices": [
+            6,
+            7,
+            30,
+            31,
+            32,
+            35
+          ],
+          "start_seconds": 10.48,
+          "end_seconds": 74.64
+        },
+        {
+          "point": "The transcript reports criticism of the advertisement and alleged venue cancellations.",
+          "evidence_segment_indices": [
+            77,
+            78,
+            101,
+            102,
+            104,
+            106,
+            114
+          ],
+          "start_seconds": 167.92,
+          "end_seconds": 258.079
+        },
+        {
+          "point": "Kulinski broadens the criticism into an attack on Ramaswamy and the Republican Party.",
+          "evidence_segment_indices": [
+            118,
+            124,
+            136,
+            138,
+            146,
+            147,
+            154
+          ],
+          "start_seconds": 262.24,
+          "end_seconds": 345.6
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "8292d2825d6ad71416ad3002880a08682eabfa13a1d753ec7725fe05d1aab7e8",
+      "transcript_captured_at": "2026-10-27T00:33:14.042199Z",
+      "summary_generated_at": "2026-10-27T00:38:44.586027Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a single commentator’s account and does not independently verify the allegations.",
+        "Claims about the mother’s circumstances, compensation, and legal exposure are incomplete or speculative in the source.",
+        "Caption defects include redacted profanity, apparent transcription errors, and inconsistent name spellings.",
+        "No response from Ramaswamy, Acton, Acton’s mother, venues, or cited reporters is included.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -3637,472 +4553,6 @@
         "Several captions contain repetitions, transcription errors, and unclear names or phrases.",
         "Attributions to outside reporting and commentators are mentioned, but the underlying reports and recordings are not provided here.",
         "The source offers limited context for legal claims, election-spending figures, polling or turnout statements, and alleged causal links.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "1LS5nvcU5SI",
-      "title": "This will backfire.",
-      "url": "https://www.youtube.com/watch?v=1LS5nvcU5SI",
-      "published_at": "2026-10-24T15:32:53.000000Z",
-      "summary": "Aaron Parnas discusses reporting that Donald Trump is considering mass pardons for junior staffers in the White House and executive branch. Parnas argues that such pardons could backfire because, in his view, recipients would lose Fifth Amendment protection and the right to remain silent regarding pardoned offenses. He also suggests that issuing preemptive pardons to many staffers could carry a damaging political implication: the public might infer that the president believes they were involved in, aided, or abetted criminal conduct. The episode presents these points as commentary on reported possibilities, not as established facts. The source does not identify the alleged offenses, the staffers involved, the scope or status of any contemplated pardons, or the legal basis for the constitutional claim. It relies on brief, overlapping captions and attributes the underlying report to the Washington Sun. Parnas closes by inviting viewers to share their opinions and follow for more content.",
-      "topics": [
-        "Potential mass pardons",
-        "White House staffers",
-        "Fifth Amendment protections",
-        "Political implications"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The Washington Sun reported that Donald Trump is considering mass pardons for junior White House and executive-branch staffers.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4
-          ]
-        },
-        {
-          "claim": "A pardon removes Fifth Amendment protection or the right to remain silent for the pardoned offenses.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            6,
-            7,
-            8,
-            9
-          ]
-        },
-        {
-          "claim": "Preemptive pardons would signal that the president believes the recipients may have aided, abetted, or committed criminal offenses.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            14,
-            15,
-            16,
-            17,
-            18
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames the reported pardon possibility as something that could significantly backfire on Trump.",
-          "evidence_segment_indices": [
-            3,
-            4,
-            5,
-            6
-          ],
-          "start_seconds": 5.68,
-          "end_seconds": 16.16
-        },
-        {
-          "point": "The commentary focuses on legal consequences for pardon recipients and political perceptions of mass pardons.",
-          "evidence_segment_indices": [
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ],
-          "start_seconds": 11.679,
-          "end_seconds": 40.239
-        },
-        {
-          "point": "The source provides no names, alleged offenses, or confirmation that pardons are being issued.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            19
-          ],
-          "start_seconds": 0.08,
-          "end_seconds": 43.52
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "57f83a4467d633c53ace3cd207ff3571ad9668dd275ccbf13df101e9cc7ca7fd",
-      "transcript_captured_at": "2026-10-24T17:09:49.300951Z",
-      "summary_generated_at": "2026-10-24T18:23:37.793527Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The account is based on brief creator commentary and attributed reporting, not primary documentation.",
-        "Overlapping caption segments may contain transcription defects or incomplete phrasing.",
-        "The source does not establish whether Trump has formally decided to issue any pardons.",
-        "The legal claims and reported proposal require independent verification.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "L2qGbHxXj78",
-      "title": "Trump sells out Alaska.",
-      "url": "https://www.youtube.com/watch?v=L2qGbHxXj78",
-      "published_at": "2026-10-24T14:02:44.000000Z",
-      "summary": "Aaron Parnas argues that Donald Trump is “selling out” Alaska by allowing Russian interests into a major American gas project. He cites reported Financial Times and New York Times investigations alleging that U.S. executives left a $25 billion venture after concerns about concealed Russian control and that a sanctioned Russian energy company secretly financed an American firm promoting an Alaska gas project. The account says the Russian involvement was routed through a UAE-linked intermediary and that the White House was warned about the financing and urged to investigate. It also connects the project to Ukraine peace discussions involving Vladimir Putin, Steve Witkoff, and Jared Kushner. Parnas explicitly notes there is no direct indication that Witkoff or Kushner knew about the alleged Russian ties. The episode presents these reports as raising questions about sanctions, oversight, and economic cooperation between Putin and the Trump administration. The supplied captions contain only the creator’s brief account and do not independently establish the allegations.",
-      "topics": [
-        "Alaska gas project",
-        "Russian financing allegations",
-        "U.S. sanctions and oversight",
-        "Ukraine peace discussions"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A sanctioned Russian energy company secretly financed an American company promoting an Alaska gas project through a UAE-linked intermediary.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            10,
-            11,
-            12,
-            21,
-            22,
-            23
-          ]
-        },
-        {
-          "claim": "U.S. executives resigned from a $25 billion gas venture because of alleged Russian ties.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            4,
-            5,
-            6,
-            19,
-            20
-          ]
-        },
-        {
-          "claim": "The White House was warned about alleged Russian financing and urged to investigate.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            24,
-            25,
-            26
-          ]
-        },
-        {
-          "claim": "The Alaska project was discussed in Ukraine peace talks involving Putin, Witkoff, and Kushner.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            12,
-            13,
-            14,
-            15
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames alleged Russian involvement in an Alaska energy venture as a political scandal.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            7
-          ],
-          "start_seconds": 0.0,
-          "end_seconds": 19.439
-        },
-        {
-          "point": "The cited investigations allegedly describe concealed financing and Russian control concerns.",
-          "evidence_segment_indices": [
-            3,
-            4,
-            5,
-            6,
-            9,
-            10,
-            11,
-            21,
-            22
-          ],
-          "start_seconds": 6.48,
-          "end_seconds": 51.36
-        },
-        {
-          "point": "The account does not directly implicate Witkoff or Kushner in knowing about the alleged ties.",
-          "evidence_segment_indices": [
-            16,
-            17,
-            18
-          ],
-          "start_seconds": 35.2,
-          "end_seconds": 42.879
-        },
-        {
-          "point": "The episode questions how sanctioned Russian interests entered a major U.S. energy project.",
-          "evidence_segment_indices": [
-            27,
-            28,
-            29,
-            30,
-            31
-          ],
-          "start_seconds": 59.039,
-          "end_seconds": 76.24
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "77e1ef7db790b320ea0cc5ddf02dc729d05d7e93db3a5c9ed040a66a49339893",
-      "transcript_captured_at": "2026-10-24T17:10:10.844538Z",
-      "summary_generated_at": "2026-10-24T18:51:09.192995Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview relies only on the supplied captions and does not independently verify the cited investigations or allegations.",
-        "Captions contain repeated and overlapping phrasing, including references to both Financial Times and New York Times investigations.",
-        "The source does not identify the venture, companies, intermediary, or specific evidence supporting the reported claims.",
-        "The captions provide limited context and end with rhetorical questions rather than documented conclusions.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "0yN7TrDRzuk",
-      "title": "Hitler’s estate has been set ablaze.",
-      "url": "https://www.youtube.com/watch?v=0yN7TrDRzuk",
-      "published_at": "2026-10-24T13:14:58.000000Z",
-      "summary": "Aaron Parnas reports that Hitler’s Eagle Nest estate in southern Bavaria was set ablaze, attributing the location and incident to a report from Der Spiegel. He says an individual was arrested on suspicion of arson and describes the fire as having engulfed and largely destroyed the estate. The episode also states that access to the building is now restricted to people using what the captions render as “heavy breathing apparatus.” The source provides no details about the arrested person, the cause or circumstances of the fire, the extent of structural damage, or whether investigators have confirmed arson. It also offers no independent documentation beyond the creator’s brief narration and a reference to Der Spiegel. Because the available material is short and appears to contain captioning errors, the report should be treated as a limited account of alleged events rather than a fully substantiated incident report.",
-      "topics": [
-        "Eagle Nest estate",
-        "Southern Bavaria fire",
-        "Suspected arson",
-        "Arrest report"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The Eagle Nest estate in southern Bavaria was set ablaze.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            5
-          ]
-        },
-        {
-          "claim": "An individual was arrested on suspicion of arson.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            2,
-            3,
-            4
-          ]
-        },
-        {
-          "claim": "The fire largely destroyed the building and restricted access requires breathing apparatus.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator reports a fire at Hitler’s Eagle Nest estate.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            5
-          ],
-          "start_seconds": 0.16,
-          "end_seconds": 18.32
-        },
-        {
-          "point": "The report attributes the suspected-arson information to Der Spiegel.",
-          "evidence_segment_indices": [
-            2,
-            3,
-            4
-          ],
-          "start_seconds": 5.68,
-          "end_seconds": 16.16
-        },
-        {
-          "point": "The creator says the fire largely destroyed the estate.",
-          "evidence_segment_indices": [
-            5,
-            6,
-            7
-          ],
-          "start_seconds": 13.759,
-          "end_seconds": 22.48
-        },
-        {
-          "point": "The available narration gives little detail about the incident or investigation.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ],
-          "start_seconds": 0.16,
-          "end_seconds": 26.88
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "8b82e7d553d52988c0691b7ad39e5e3d26bafb56ea24ca5cde61785f02a2aba6",
-      "transcript_captured_at": "2026-10-24T17:10:16.476024Z",
-      "summary_generated_at": "2026-10-24T19:38:19.503931Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The material is a very short creator narration with no supporting documents or visual evidence included.",
-        "The captions contain a likely defect in the phrase rendered as “heavy breathing apparatus.”",
-        "The source does not establish the identity of the arrested person, the confirmed cause, or the precise extent of damage.",
-        "The reference to Der Spiegel is not independently verifiable from the supplied material.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "mgPbhWZQt4s",
-      "title": "White House officials prepare for an “all out rampage”",
-      "url": "https://www.youtube.com/watch?v=mgPbhWZQt4s",
-      "published_at": "2026-10-24T12:15:33.000000Z",
-      "summary": "Aaron Parnas argues that White House officials are preparing for possible upheaval as an election approaches and the president becomes increasingly vulnerable politically. He says aides fear a post-election “rampage” involving staff firings or reassignments if Republicans lose at least one chamber of Congress, attributing the account to CNN and other White House sources. Parnas frames the situation as the possible end of a presidency, citing both reported concerns about the president’s public performance and the prospect of legislative gridlock. He predicts that a Democratic takeover of the House would stall the Trump agenda, while also contending that the administration has already achieved limited legislative success. The episode presents these developments as an internal White House assessment and political interpretation rather than independently established facts. The short transcript offers no detailed sourcing, corroborating statements, election results, or direct comments from officials, so its forecasts and descriptions require independent verification.",
-      "topics": [
-        "White House staffing",
-        "Election outlook",
-        "Congressional control",
-        "Presidential lame-duck status"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "White House aides and officials reportedly anticipate staff firings or reassignments if Republicans lose at least one chamber of Congress.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            4,
-            6,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "claim": "CNN and other sources inside the White House reported significant internal jockeying ahead of the election.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "claim": "A Democratic takeover of the House would stall the Trump agenda.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            18,
-            19,
-            20,
-            21
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas describes officials as bracing for possible post-election upheaval.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            3,
-            4,
-            8,
-            9
-          ],
-          "start_seconds": 0.16,
-          "end_seconds": 24.0
-        },
-        {
-          "point": "The reported scenario includes firing or reassigning staff after a Republican loss in Congress.",
-          "evidence_segment_indices": [
-            10,
-            11,
-            12
-          ],
-          "start_seconds": 21.6,
-          "end_seconds": 31.039
-        },
-        {
-          "point": "The episode links a House Democratic victory to legislative gridlock.",
-          "evidence_segment_indices": [
-            18,
-            19,
-            20,
-            21
-          ],
-          "start_seconds": 39.76,
-          "end_seconds": 50.0
-        },
-        {
-          "point": "Parnas characterizes the administration as becoming a lame duck and the presidency as nearing its end.",
-          "evidence_segment_indices": [
-            2,
-            5,
-            14,
-            15,
-            26,
-            27,
-            29,
-            30
-          ],
-          "start_seconds": 4.319,
-          "end_seconds": 67.68
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "6b06584f679f8e0bcb13d4f55b11ae18f5c2eb92ab8b724821d812543065cf83",
-      "transcript_captured_at": "2026-10-24T17:10:22.198459Z",
-      "summary_generated_at": "2026-10-24T19:38:40.862894Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is short and provides no direct quotations or independently verifiable documentation from officials.",
-        "Caption defects and wording ambiguities include “allout,” “aids,” and the unclear phrase “allout quote rampage.”",
-        "Predictions about a future internal “rampage,” election outcomes, and legislative consequences remain unconfirmed in the source.",
-        "The transcript attributes some reporting to CNN and unnamed White House sources but does not identify specific reports or individuals.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
