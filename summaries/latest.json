@@ -1,11 +1,477 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-27T21:42:00.213526Z",
+  "generated_at": "2026-10-27T23:12:00.252737Z",
   "reporting_window": {
-    "start": "2026-10-20T21:42:00.213526Z",
-    "end": "2026-10-27T21:42:00.213526Z"
+    "start": "2026-10-20T23:12:00.252737Z",
+    "end": "2026-10-27T23:12:00.252737Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "_ffJpqgFWG0",
+      "title": "Tim Dillon FINALLY SNAPS & Calls Republicans THE P*DOPHILE PARTY!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=_ffJpqgFWG0",
+      "published_at": "2026-10-27T22:00:34.000000Z",
+      "summary": "The creator presents Tim Dillon’s reported criticism of Republican figures and Trump-aligned politics, focusing on a campaign advertisement involving allegations of childhood abuse and disputes over how the underlying accusations are characterized. The episode contrasts Dillon’s earlier support for Trump and JD Vance with his current denunciation of what he describes as protection of alleged sexual abusers. The creator adopts and expands that critique, arguing that Republican responses to the advertisement, the Epstein controversy, and alleged misconduct by politicians reflect a broader pattern of partisan denial and protection. He also discusses a reported assault at a rally involving someone wearing an Epstein-files shirt, using it to argue that MAGA supporters have become more hostile and politically insulated. The episode then broadens its criticism to Trump’s foreign-policy record, alleged corruption, and rally conduct, while faulting Dillon for reaching these conclusions later than left-wing critics. The material is commentary and includes numerous allegations, labels, and factual assertions that are not independently established by the transcript.",
+      "topics": [
+        "Tim Dillon’s political criticism",
+        "Ohio campaign advertisement controversy",
+        "Trump and Epstein-related claims",
+        "MAGA movement and rally conduct",
+        "Trump foreign-policy record"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The discussed campaign advertisement characterized a candidate’s family dispute and childhood-abuse allegations in the manner described by the speakers.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            9,
+            10,
+            26,
+            27,
+            28,
+            29,
+            36,
+            39,
+            40,
+            41,
+            154,
+            155,
+            176,
+            177,
+            178,
+            179,
+            180
+          ]
+        },
+        {
+          "claim": "A person wearing an Epstein-files shirt was assaulted at a Trump rally.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            217,
+            220,
+            221,
+            222,
+            223,
+            224,
+            244,
+            245,
+            249,
+            250,
+            251
+          ]
+        },
+        {
+          "claim": "The transcript’s claims about Republican politicians, Trump, Epstein, and alleged sexual crimes are accurate and representative of the broader Republican Party.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            88,
+            89,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            115,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            126,
+            127,
+            128,
+            129
+          ]
+        },
+        {
+          "claim": "Trump’s first-term military actions included the specific operations and a 432% increase in drone strikes cited by the creator.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270,
+            271,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278,
+            279,
+            280,
+            281,
+            282,
+            283,
+            284
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode centers on a reported dispute over an advertisement concerning allegations of childhood abuse and the role of family members.",
+          "evidence_segment_indices": [
+            15,
+            16,
+            17,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            38,
+            39,
+            40,
+            41
+          ],
+          "start_seconds": 32.0,
+          "end_seconds": 97.439
+        },
+        {
+          "point": "The creator says Tim Dillon shifted from supporting Trump and JD Vance to calling them protectors of alleged abusers.",
+          "evidence_segment_indices": [
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195
+          ],
+          "start_seconds": 406.4,
+          "end_seconds": 423.44
+        },
+        {
+          "point": "The creator treats the Epstein controversy and reported rally assault as evidence of political denial and escalating hostility, though the transcript supplies no independent documentation.",
+          "evidence_segment_indices": [
+            48,
+            49,
+            50,
+            63,
+            64,
+            65,
+            66,
+            67,
+            217,
+            221,
+            222,
+            223,
+            249,
+            250,
+            251
+          ],
+          "start_seconds": 105.92,
+          "end_seconds": 541.92
+        },
+        {
+          "point": "The episode argues that Trump’s conduct and policies were consistent with earlier warnings from liberal and left-wing critics.",
+          "evidence_segment_indices": [
+            261,
+            262,
+            263,
+            264,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290,
+            291,
+            292,
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307
+          ],
+          "start_seconds": 561.6,
+          "end_seconds": 665.519
+        },
+        {
+          "point": "The creator welcomes Dillon’s changed position but says it came years after similar criticism from the left.",
+          "evidence_segment_indices": [
+            308,
+            309,
+            310,
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318
+          ],
+          "start_seconds": 663.68,
+          "end_seconds": 689.519
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "00f1f1c4ad5a251a308d5dd52b54cd30b12ef521e205b0ce3c2dc5281f25867a",
+      "transcript_captured_at": "2026-10-27T23:03:16.695803Z",
+      "summary_generated_at": "2026-10-27T23:08:32.677365Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is an edited commentary segment, not a source record for the underlying events.",
+        "Automatic captions contain names, wording, and profanity defects that make some references ambiguous.",
+        "Several claims are framed as allegations or opinions, while the transcript provides no corroborating documents or full excerpts of the referenced advertisements.",
+        "The episode offers only source-side coverage and does not include responses from the people or organizations criticized.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "b0oTwctFS2k",
+      "title": "Joe Rogan COMPLETELY SOLD OUT & All of His Fans Know It | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=b0oTwctFS2k",
+      "published_at": "2026-10-27T21:30:39.000000Z",
+      "summary": "Kyle Kulinski argues that Joe Rogan’s public image has deteriorated because Rogan increasingly accepts commercial and political associations that conflict with his earlier presentation as an independent everyman. Kulinski focuses on Rogan’s promotion of DraftKings, contrasting those advertisements with Rogan’s past descriptions of gambling addiction as destructive and comparable to hard-drug dependence. He also discusses a video about comedian Dave Smith, whose audience criticized gambling sponsorships; Smith reportedly removed one sponsor while maintaining that doing so did not reflect a change in principle. Kulinski’s broader criticism is that allowing gambling promotion differs from merely supporting the freedom to gamble, especially when the promoter does not need the income. The episode further links Rogan to Trump-aligned figures and other wealthy guests, presenting these relationships as evidence of a political and ethical “sellout.” The source is commentary built around clips and allegations; it does not independently establish audience trends, financial figures, sponsorship terms, or the claims made about betting platforms.",
+      "topics": [
+        "Joe Rogan’s sponsorships",
+        "Online gambling promotion",
+        "Media independence",
+        "Political and commercial alignment"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Kulinski says Rogan’s popularity, including among young men, fell by about 11 points after Trump’s election.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            2,
+            3,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim": "The episode states that Rogan’s current and previous Spotify deals were each worth about $250 million.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            411,
+            412,
+            413,
+            415,
+            416,
+            417,
+            418,
+            419
+          ]
+        },
+        {
+          "claim": "The episode alleges that betting platforms may ban winners while rewarding heavy losers.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            200,
+            201,
+            202,
+            203
+          ]
+        },
+        {
+          "claim": "Kulinski alleges that gambling-related betting contributed to sports-integrity scandals and game manipulation.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            377,
+            378,
+            379,
+            380,
+            381,
+            382,
+            383,
+            384,
+            385,
+            386,
+            387,
+            388,
+            389,
+            390,
+            391,
+            392,
+            400,
+            401,
+            402,
+            403
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames Rogan’s DraftKings advertising as inconsistent with Rogan’s earlier warnings about gambling addiction.",
+          "evidence_segment_indices": [
+            427,
+            428,
+            429,
+            430,
+            435,
+            436,
+            437,
+            438,
+            439,
+            440,
+            441,
+            442,
+            443,
+            444,
+            445,
+            446,
+            447,
+            448,
+            449,
+            450,
+            451,
+            452,
+            604,
+            605
+          ],
+          "start_seconds": 803.92,
+          "end_seconds": 1137.28
+        },
+        {
+          "point": "The episode distinguishes the freedom to gamble from being paid to promote gambling services.",
+          "evidence_segment_indices": [
+            348,
+            349,
+            350,
+            351,
+            352,
+            353,
+            354,
+            355,
+            356,
+            588,
+            589,
+            590,
+            591,
+            592,
+            593,
+            594,
+            595,
+            596,
+            597,
+            598
+          ],
+          "start_seconds": 647.279,
+          "end_seconds": 1126.24
+        },
+        {
+          "point": "A featured discussion says Dave Smith dropped a gambling sponsor after audience backlash but rejected the claim that the sponsorship compromised his principles.",
+          "evidence_segment_indices": [
+            230,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253
+          ],
+          "start_seconds": 443.28,
+          "end_seconds": 482.8
+        },
+        {
+          "point": "Kulinski presents Rogan’s relationships with Trump-aligned figures and wealthy guests as evidence that Rogan is no longer politically independent.",
+          "evidence_segment_indices": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            624,
+            625,
+            626,
+            627,
+            628,
+            629,
+            632,
+            633,
+            634,
+            635,
+            636,
+            639,
+            640,
+            641
+          ],
+          "start_seconds": 51.12,
+          "end_seconds": 1209.2
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "5239d40807d45b4066f49fed81c8c8db92927a2caeb383f58c220ad379b5332a",
+      "transcript_captured_at": "2026-10-27T23:03:10.332078Z",
+      "summary_generated_at": "2026-10-27T23:08:19.775383Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains profanity redactions, transcription errors, speaker-label ambiguity, and duplicated or overlapping captions.",
+        "The episode is argumentative commentary using selected clips; the source does not provide independent corroboration for its factual allegations.",
+        "Several figures, sponsorship details, and references to outside reports are asserted without dates, documentation, or enough context to assess accuracy.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4851,266 +5317,6 @@
         "The political forecasts and interpretations are Parnas’s commentary, not independently verified findings in the source.",
         "The tax figures and allegations are attributed to Forbes reporting as relayed in the episode; the underlying report and relevant records are not provided.",
         "The excerpts do not establish the broader election status, polling, or legal conclusions beyond what the speakers claim.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "NBqK-ovcODw",
-      "title": "This is massive",
-      "url": "https://www.youtube.com/watch?v=NBqK-ovcODw",
-      "published_at": "2026-10-25T12:41:02.000000Z",
-      "summary": "Aaron Parnas alleges that Donald Trump used a Jupiter, Florida golf-course transaction to obtain a substantial tax deduction while retaining control of the club. Parnas says Forbes reported roughly $1.4 billion in cryptocurrency income and more than $200 million in real-estate income in 2025, alongside a projected tax bill exceeding $500 million. He describes Trump’s company as donating development rights to a land trust on the grounds that the course was natural habitat, and says the resulting write-off was $825 million. Parnas further claims Trump has used similar arrangements five times since 2005, sued the IRS after the Jupiter transaction, and benefits from an audit agreement involving an attorney who later became attorney general. The episode presents these points as evidence of a broader tax strategy and criticizes the lack of public outrage. The transcript alone does not establish the accuracy, legality, valuation, frequency, or effect of the transactions and agreements described.",
-      "topics": [
-        "Trump golf-course tax strategy",
-        "Jupiter land trust transaction",
-        "Cryptocurrency and real-estate income",
-        "IRS audit agreement",
-        "Political accountability"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Trump’s company donated development rights connected to a Jupiter, Florida golf course to a land trust and claimed an $825 million write-off.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
-          ]
-        },
-        {
-          "claim": "Trump received roughly $1.4 billion from cryptocurrency and more than $200 million from real estate in 2025, with a projected tax bill above $500 million.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "claim": "Trump has used comparable arrangements five times since 2005 and sued the IRS one month after the Jupiter transaction.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            16,
-            17,
-            18
-          ]
-        },
-        {
-          "claim": "An audit agreement involving Trump’s personal criminal-defense attorney, later identified in the episode as the attorney general, prevents the IRS from pursuing him over the transaction.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames the golf-course transaction as a major tax shelter and alleges it harmed the public.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "start_seconds": 0.16,
-          "end_seconds": 11.44
-        },
-        {
-          "point": "The episode links the alleged deduction to donated development rights and a natural-habitat rationale while the club continued operating.",
-          "evidence_segment_indices": [
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
-          ],
-          "start_seconds": 20.8,
-          "end_seconds": 39.36
-        },
-        {
-          "point": "Parnas broadens the allegation to prior transactions, IRS litigation, and an audit agreement.",
-          "evidence_segment_indices": [
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23
-          ],
-          "start_seconds": 37.68,
-          "end_seconds": 56.16
-        },
-        {
-          "point": "The closing argues that the conduct has generated insufficient public outrage.",
-          "evidence_segment_indices": [
-            24,
-            25,
-            26,
-            27,
-            28
-          ],
-          "start_seconds": 54.239,
-          "end_seconds": 63.84
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "5cab798fc4d74add75530e9dd871839db4ad53049ab7ad27228c2309440e8a7d",
-      "transcript_captured_at": "2026-10-25T13:03:06.020778Z",
-      "summary_generated_at": "2026-10-25T13:08:10.577021Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is a short, opinionated monologue and provides no underlying documents or independent corroboration.",
-        "Several captions contain apparent errors or awkward phrasing, including the description of the land-trust transaction and the audit agreement.",
-        "The source does not define the legal structure, valuation methodology, tax treatment, or precise identities involved in the allegations.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "LOK1iNPVGPM",
-      "title": "Trump is panicking",
-      "url": "https://www.youtube.com/watch?v=LOK1iNPVGPM",
-      "published_at": "2026-10-25T11:18:27.000000Z",
-      "summary": "Aaron Parnas argues that Republican prospects are deteriorating nine days before the midterm elections, presenting Donald Trump’s closing message as a source of concern within the party. He contrasts Trump’s rally appearances with Barack Obama’s events in Michigan and Ohio, saying the difference in speaking and crowd-rallying ability was conspicuous. Parnas highlights Trump’s remarks about making unusually large amounts of money amid high gas prices, interpreting them as politically damaging because people are struggling at the pump. He also says some Republican operatives are privately describing the party’s position in highly negative terms and that the situation is becoming increasingly difficult for Republican operatives nationwide. The episode is brief and primarily consists of the creator’s interpretation of political messaging and reported behind-the-scenes sentiment. It does not provide polling, named sources, election results, or independent evidence establishing that Republican support is collapsing or that Trump’s speaking difficulties reflect a particular cause.",
-      "topics": [
-        "Midterm elections",
-        "Republican Party",
-        "Donald Trump",
-        "Barack Obama",
-        "Gas prices"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Some Republican operatives are saying the Republican Party’s position is collapsing or effectively finished before the midterm elections.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            0,
-            1,
-            8,
-            9,
-            23,
-            24,
-            25,
-            26
-          ]
-        },
-        {
-          "claim": "Donald Trump said, amid high gas prices, that “we’re making money like we’ve never made before.”",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        {
-          "claim": "Trump sounded hoarse and had difficulty speaking at times during a rally, especially compared with Obama’s rallies in Michigan and Ohio.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames the episode around alleged Republican anxiety nine days before the midterm elections.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4
-          ],
-          "start_seconds": 0.16,
-          "end_seconds": 11.2
-        },
-        {
-          "point": "The creator contrasts Trump and Obama’s speaking and rally performances.",
-          "evidence_segment_indices": [
-            5,
-            6,
-            7,
-            18,
-            20,
-            21,
-            22
-          ],
-          "start_seconds": 9.2,
-          "end_seconds": 45.68
-        },
-        {
-          "point": "Parnas presents Trump’s gas-price remarks as vulnerable to criticism while people face high pump prices.",
-          "evidence_segment_indices": [
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17
-          ],
-          "start_seconds": 19.279,
-          "end_seconds": 34.48
-        },
-        {
-          "point": "The episode closes with a promise of further updates and a request that viewers follow along.",
-          "evidence_segment_indices": [
-            27,
-            28,
-            29,
-            30,
-            31
-          ],
-          "start_seconds": 52.719,
-          "end_seconds": 62.96
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "05224f571dc457d8d85d75c867f55492feb5d6e479a4b28d9cb7aaa84480c8d9",
-      "transcript_captured_at": "2026-10-25T11:33:05.650096Z",
-      "summary_generated_at": "2026-10-25T11:38:10.095146Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains apparent caption or speech-recognition defects, including “horsearo,” repeated words, and fragmented phrasing.",
-        "The source does not identify the Republican operatives or provide supporting documentation for their alleged views.",
-        "The material offers commentary and reported claims but no polling, election outcomes, or independent corroboration.",
-        "The cited comparison between rallies is described by the creator without measurable criteria for speaking or crowd performance.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
