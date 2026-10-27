@@ -1,11 +1,247 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-27T01:12:00.174917Z",
+  "generated_at": "2026-10-27T16:12:00.227583Z",
   "reporting_window": {
-    "start": "2026-10-20T01:12:00.174917Z",
-    "end": "2026-10-27T01:12:00.174917Z"
+    "start": "2026-10-20T16:12:00.227583Z",
+    "end": "2026-10-27T16:12:00.227583Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "hMrTNaihqPo",
+      "title": "🚨 Trump's BOMBSHELL Putin Ties Exposed, Intelligence Officials SOUND THE ALARM!!",
+      "url": "https://www.youtube.com/watch?v=hMrTNaihqPo",
+      "published_at": "2026-10-27T14:23:12.000000Z",
+      "summary": "Aaron Parnas argues that reported connections between Donald Trump Jr. and Russian figures warrant scrutiny, focusing on a Financial Times account of a Mongolia hunting trip involving Umar Kremlv, whom the episode describes as a Putin ally, and earlier wedding-related payments. The episode says a former counterintelligence official warned that Russian services could exploit such relationships, while noting that the Justice Department will not investigate the wedding payments and that a House Democrat has opened an inquiry. It then turns to Texas, where a judge reportedly ordered Greg Abbott’s office to provide less-redacted communications with Elon Musk amid a competitive governor’s race and disputes over campaign donations, state incentives, and contracts. Parnas also covers a federal restriction on changes to a Washington golf course, a protest at a Trump rally, and a coming Israeli election. The material is presented as a rapid news commentary, with several allegations and predictions attributed to participants or reports rather than independently established.",
+      "topics": [
+        "Trump family and Russia",
+        "Texas election and Abbott-Musk communications",
+        "Washington golf course litigation",
+        "Trump rally protest",
+        "Israeli election"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A Financial Times investigation reported that Donald Trump Jr. hunted in Mongolia with Umar Kremlv, who was described as a Putin ally and linked to wedding-related payments.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64
+          ]
+        },
+        {
+          "claim": "A former counterintelligence official warned that Russian intelligence services could weaponize relationships involving high-value people.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86
+          ]
+        },
+        {
+          "claim": "A judge ordered Greg Abbott’s office to provide access to communications with Elon Musk after many pages were redacted.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136
+          ]
+        },
+        {
+          "claim": "The episode links Musk’s campaign donation to Abbott with state incentives and reported contracts involving Musk’s companies.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            118,
+            119,
+            120,
+            121,
+            122,
+            139,
+            140,
+            141,
+            142
+          ]
+        },
+        {
+          "claim": "A federal judge restricted further tree removal or other irreparable modifications at a Washington public golf course.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames the Russia-related material as a national-security concern, while citing a reported investigation and an official’s warning.",
+          "evidence_segment_indices": [
+            42,
+            43,
+            44,
+            46,
+            47,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86
+          ],
+          "start_seconds": 92.0,
+          "end_seconds": 183.84
+        },
+        {
+          "point": "The episode says the House Oversight inquiry is proceeding while the Justice Department will not investigate the wedding payments.",
+          "evidence_segment_indices": [
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94
+          ],
+          "start_seconds": 182.72,
+          "end_seconds": 197.36
+        },
+        {
+          "point": "Texas coverage centers on Abbott’s race against Gina Hinojosa and litigation over Abbott-Musk emails.",
+          "evidence_segment_indices": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115
+          ],
+          "start_seconds": 205.76,
+          "end_seconds": 240.4
+        },
+        {
+          "point": "Trump’s day is portrayed as difficult because of the golf-course ruling and a hostile interruption at a Mississippi rally.",
+          "evidence_segment_indices": [
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187
+          ],
+          "start_seconds": 355.12,
+          "end_seconds": 406.56
+        },
+        {
+          "point": "The closing discussion previews an Israeli election and attributes claims of possible rigging to Netanyahu.",
+          "evidence_segment_indices": [
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222
+          ],
+          "start_seconds": 504.24,
+          "end_seconds": 518.56
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "eb5a1d1dd582e937d8f3f0681169aa4ada89b791d8d8a02353a7b7d2ee0f3344",
+      "transcript_captured_at": "2026-10-27T16:03:07.703812Z",
+      "summary_generated_at": "2026-10-27T16:08:15.781525Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies only on the supplied transcript and does not independently verify reported events, legal rulings, names, dates, or financial figures.",
+        "Several captions contain transcription defects, including unclear names, locations, and phrases.",
+        "Some statements are opinions, allegations, predictions, or quoted claims by participants rather than established findings.",
+        "The episode compresses multiple stories and provides limited procedural or documentary detail.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4635,127 +4871,6 @@
         "Several names, titles, and words appear mistranscribed, including references to officials and Starlink.",
         "The excerpt contains overlapping captions, fragments, and unclear wording that may affect attribution and meaning.",
         "The source presents commentary and allegations alongside quoted remarks; it does not establish the underlying facts independently.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "LhoSlJvhqPU",
-      "title": "This is insane.",
-      "url": "https://www.youtube.com/watch?v=LhoSlJvhqPU",
-      "published_at": "2026-10-24T22:11:14.000000Z",
-      "summary": "Aaron Parnas alleges that Elon Musk admitted turning off Starlink for Ukraine and links that decision to civilian deaths. The episode presents Musk as saying Starlink was not permitted for offensive drone strikes and that Ukrainian military use violated the service’s terms. Parnas disputes the justification, stating there was no evidence for the alleged offensive use, and says a loophole had been closed the previous week. He further alleges that Musk initially blamed the White House before acknowledging responsibility. The segment concludes by asserting that Ukrainian civilians died after the reported change and urges viewers to spread the claim. The supplied captions contain only Parnas’s narration and fragments attributed to Musk; they do not include the underlying post, independent reporting, evidence of the alleged terms-of-service violation, or documentation connecting the service change to specific deaths. Accordingly, the episode conveys a pointed allegation and call to action rather than independently established findings.",
-      "topics": [
-        "Starlink access in Ukraine",
-        "Elon Musk statements",
-        "Military use allegations",
-        "Civilian casualties"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Elon Musk admitted turning off Starlink for Ukraine.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            0,
-            1,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "claim": "The Starlink decision led to the deaths of Ukrainian civilians.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            1,
-            2,
-            14
-          ]
-        },
-        {
-          "claim": "Ukrainian military forces violated Starlink terms of service by using it for offensive drone strikes.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "claim": "Musk initially blamed the White House and later acknowledged responsibility for closing a loophole.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas attributes to Musk a position against using Starlink for offensive drone strikes.",
-          "evidence_segment_indices": [
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ],
-          "start_seconds": 6.64,
-          "end_seconds": 19.6
-        },
-        {
-          "point": "Parnas says there was no evidence supporting the alleged Ukrainian terms-of-service violation.",
-          "evidence_segment_indices": [
-            7,
-            8,
-            9
-          ],
-          "start_seconds": 14.88,
-          "end_seconds": 21.439
-        },
-        {
-          "point": "The narration says a loophole was closed the previous week and connects the event with civilian deaths.",
-          "evidence_segment_indices": [
-            9,
-            10,
-            11,
-            14
-          ],
-          "start_seconds": 17.76,
-          "end_seconds": 32.4
-        },
-        {
-          "point": "The episode ends with a request to spread the claim and follow the creator.",
-          "evidence_segment_indices": [
-            14,
-            15
-          ],
-          "start_seconds": 27.279,
-          "end_seconds": 32.4
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "ef82a02ebd0370c1caefb8c24d8f996fcaf1ce17bd16cea8a0357eb425e870a8",
-      "transcript_captured_at": "2026-10-24T22:33:05.727909Z",
-      "summary_generated_at": "2026-10-24T22:38:10.129857Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The captions provide no underlying Musk post or corroborating source.",
-        "The causal link between the Starlink change and civilian deaths is asserted but not documented in the supplied material.",
-        "The caption renders “Starling” once, likely referring to Starlink.",
-        "The excerpt is a short creator narration and does not establish the broader timeline or affected incidents.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
