@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-27T23:00:18.026139Z",
+  "generated_at": "2026-10-27T23:31:18.256123Z",
   "reporting_window": {
-    "start": "2026-10-20T23:00:18.026139Z",
-    "end": "2026-10-27T23:00:18.026139Z",
+    "start": "2026-10-20T23:31:18.256123Z",
+    "end": "2026-10-27T23:31:18.256123Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -12,8 +12,8 @@
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
       "identity_status": "verified",
-      "health": "success_new",
-      "discovery_status": "success_new",
+      "health": "feed_unavailable",
+      "discovery_status": "feed_unavailable",
       "last_successful_poll": "2026-10-27T23:00:16.370013Z",
       "warnings": []
     },
@@ -21,8 +21,8 @@
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
+      "health": "feed_unavailable",
+      "discovery_status": "feed_unavailable",
       "last_successful_poll": "2026-10-27T23:00:16.738539Z",
       "warnings": []
     },
@@ -30,8 +30,8 @@
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
+      "health": "feed_unavailable",
+      "discovery_status": "feed_unavailable",
       "last_successful_poll": "2026-10-27T23:00:17.151884Z",
       "warnings": []
     },
@@ -39,8 +39,8 @@
       "creator": "Mike Figueredo — The Humanist Report",
       "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
+      "health": "feed_unavailable",
+      "discovery_status": "feed_unavailable",
       "last_successful_poll": "2026-10-27T23:00:17.508385Z",
       "warnings": []
     },
@@ -48,8 +48,8 @@
       "creator": "House of El – AI",
       "channel_id": "UCsoc5Ad-fC7wWie2PH4rPcw",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
+      "health": "feed_unavailable",
+      "discovery_status": "feed_unavailable",
       "last_successful_poll": "2026-10-27T23:00:17.887707Z",
       "warnings": []
     }
@@ -101,7 +101,7 @@
       "first_seen": "2026-10-27T22:30:59.473029Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "not_queued"
+      "transcript_status": "captions_ready"
     },
     {
       "creator": "Aaron Parnas",
@@ -125,7 +125,7 @@
       "first_seen": "2026-10-27T22:00:59.796989Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "not_queued"
+      "transcript_status": "captions_ready"
     },
     {
       "creator": "Kyle Kulinski — Secular Talk",
@@ -665,7 +665,7 @@
       "first_seen": "2026-10-25T22:31:00.107415Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "captions_ready"
+      "transcript_status": "expired"
     },
     {
       "creator": "Aaron Parnas",
@@ -1863,30 +1863,6 @@
       "published_at": "2026-10-21T00:00:28.000000Z",
       "url": "https://www.youtube.com/watch?v=ONJ9Eo6Yvxw",
       "first_seen": "2026-10-21T00:30:29.811530Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "not_queued"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "LzdSv2vKzFM",
-      "title": "James Carville INFURIATES DEMS with SHOCKINGLY BAD Take!! | The Kyle Kulinski Show",
-      "published_at": "2026-10-20T23:30:26.000000Z",
-      "url": "https://www.youtube.com/watch?v=LzdSv2vKzFM",
-      "first_seen": "2026-10-21T00:00:30.068197Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "not_queued"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "k4xBKt9mv5U",
-      "title": "CNN Liberal Is Totally Done With Idiot MAGA Panelists | The Kyle Kulinski Show",
-      "published_at": "2026-10-20T23:01:51.000000Z",
-      "url": "https://www.youtube.com/watch?v=k4xBKt9mv5U",
-      "first_seen": "2026-10-20T23:30:28.991572Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "not_queued"
