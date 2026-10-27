@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-27T17:00:35.989168Z",
+  "generated_at": "2026-10-27T17:31:01.246537Z",
   "reporting_window": {
-    "start": "2026-10-20T17:00:35.989168Z",
-    "end": "2026-10-27T17:00:35.989168Z",
+    "start": "2026-10-20T17:31:01.246537Z",
+    "end": "2026-10-27T17:31:01.246537Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,16 +14,16 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-27T17:00:30.644942Z",
+      "last_successful_poll": "2026-10-27T17:30:59.522541Z",
       "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-27T17:00:31.886753Z",
+      "health": "success_new",
+      "discovery_status": "success_new",
+      "last_successful_poll": "2026-10-27T17:30:59.840603Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-27T17:00:33.106723Z",
+      "last_successful_poll": "2026-10-27T17:31:00.136311Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-27T17:00:34.498565Z",
+      "last_successful_poll": "2026-10-27T17:31:00.608637Z",
       "warnings": []
     },
     {
@@ -50,11 +50,23 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-27T17:00:35.837550Z",
+      "last_successful_poll": "2026-10-27T17:31:01.099228Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "B_yoMEHIG8o",
+      "title": "The right win in Brazil is terrified.",
+      "published_at": "2026-10-27T17:02:09.000000Z",
+      "url": "https://www.youtube.com/watch?v=B_yoMEHIG8o",
+      "first_seen": "2026-10-27T17:30:59.840603Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -1839,18 +1851,6 @@
       "published_at": "2026-10-20T18:21:03.000000Z",
       "url": "https://www.youtube.com/watch?v=78szwon9p3s",
       "first_seen": "2026-10-20T19:00:29.159134Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "not_queued"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "sTCwnKrhboU",
-      "title": "GA cop fired after giving ICE agent husband Flock access for nearly 1,000 license plate searches.",
-      "published_at": "2026-10-20T17:09:13.000000Z",
-      "url": "https://www.youtube.com/watch?v=sTCwnKrhboU",
-      "first_seen": "2026-10-20T17:30:29.677675Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "not_queued"
