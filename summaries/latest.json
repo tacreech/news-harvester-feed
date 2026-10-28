@@ -1,11 +1,179 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T08:12:00.249697Z",
+  "generated_at": "2026-10-28T15:42:00.345573Z",
   "reporting_window": {
-    "start": "2026-10-21T08:12:00.249697Z",
-    "end": "2026-10-28T08:12:00.249697Z"
+    "start": "2026-10-21T15:42:00.345573Z",
+    "end": "2026-10-28T15:42:00.345573Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "kaRgGhqCFhQ",
+      "title": "Chaos ERUPTS as Vance Faces CRIMINAL Probe and Trump Faces HORRIFIC Allegations",
+      "url": "https://www.youtube.com/watch?v=kaRgGhqCFhQ",
+      "published_at": "2026-10-28T14:10:09.000000Z",
+      "summary": "Aaron Parnas presents a rapid overview of allegations and reported developments involving U.S. political figures. He says Brazilian authorities ordered an investigation into whether the Rockbridge Network, founded by JD Vance, provided prohibited support to Flavio Bolsonaro’s campaign; Rockbridge denies involvement, and Vance’s office reportedly declined comment. Parnas also discusses a House Judiciary Democrats’ report containing a former Miss Switzerland’s allegation that Donald Trump raped her in 1993, emphasizing that it remains an allegation. He attributes to Representative Jamie Raskin claims about multiple accusations and an alleged Justice Department cover-up. The episode further criticizes RFK Jr.’s comments about Arab scientific achievement and says Arabs have won major scientific prizes. Finally, Parnas reports that the United States has advised Gulf allies to prepare for possible military action against Iran after the midterm elections, while stressing that Americans are not currently in danger. The source is a creator-led commentary segment, and several claims are attributed to reports or political actors rather than independently established.",
+      "topics": [
+        "Brazil investigation involving Rockbridge Network",
+        "Trump sexual-assault allegation",
+        "RFK Jr. comments about Arabs",
+        "Reported U.S.-Iran military preparations"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Brazilian authorities ordered a criminal investigation into whether Rockbridge Network provided money, staff, services, or other support to Flavio Bolsonaro’s campaign.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            47,
+            48,
+            50,
+            51,
+            52,
+            53,
+            54,
+            57,
+            58,
+            62
+          ]
+        },
+        {
+          "claim": "A House Judiciary Democrats’ report included a former Miss Switzerland’s allegation that Donald Trump raped her in 1993.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119
+          ]
+        },
+        {
+          "claim": "Representative Jamie Raskin said five women had accused Trump of rape or sexual assault and alleged that the Justice Department was covering up crimes.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140
+          ]
+        },
+        {
+          "claim": "The Wall Street Journal reportedly said the United States told Gulf allies to prepare for a brief military campaign against Iran after the midterms.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Rockbridge denies involvement in the alleged Brazilian campaign support, while Vance’s office reportedly declined comment.",
+          "evidence_segment_indices": [
+            63,
+            64,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75
+          ],
+          "start_seconds": 137.599,
+          "end_seconds": 166.879
+        },
+        {
+          "point": "The episode distinguishes the Trump rape allegation from established fact by repeatedly describing it as an allegation.",
+          "evidence_segment_indices": [
+            103,
+            104,
+            105,
+            110,
+            111,
+            131,
+            132,
+            133
+          ],
+          "start_seconds": 226.159,
+          "end_seconds": 304.16
+        },
+        {
+          "point": "Parnas condemns RFK Jr.’s remarks and counters that Arabs have produced scientific achievements, including Nobel-recognized work.",
+          "evidence_segment_indices": [
+            144,
+            147,
+            148,
+            149,
+            150,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170
+          ],
+          "start_seconds": 326.72,
+          "end_seconds": 399.6
+        },
+        {
+          "point": "Parnas says the reported Iran preparations do not mean Americans face immediate danger and rejects online supply-related fear-mongering.",
+          "evidence_segment_indices": [
+            185,
+            186,
+            187,
+            188,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205
+          ],
+          "start_seconds": 425.28,
+          "end_seconds": 469.919
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "789321ecae7adc4dd9a009b9b651937b13be2e0bd3716007755044bb11d25885",
+      "transcript_captured_at": "2026-10-28T15:33:10.324105Z",
+      "summary_generated_at": "2026-10-28T15:38:15.919412Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains apparent caption or recognition errors in names, titles, and wording, including variants of Bolsonaro, Vance, and other proper nouns.",
+        "The overview reflects a single creator’s presentation and cited attributions; it does not independently establish the reported allegations or military preparations.",
+        "Some statements are compressed, incomplete, or ambiguous in the captions, limiting precise interpretation.",
+        "The source provides no underlying documents, responses from all named parties, or corroborating reporting beyond the references mentioned by the creator.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5279,163 +5447,6 @@
         "The transcript contains profanity, redactions, malformed names, and apparent caption errors.",
         "Several clips are excerpted without full event context, making speaker attribution or wording occasionally ambiguous.",
         "The overview reflects the supplied commentary and transcript only; quoted claims, polling figures, policy descriptions, and political predictions are not independently verified.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "i6VPWV29gEc",
-      "title": "Trump SPIRALS As Rally GOES OFF THE RAILS & HEALTH CRASHES!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=i6VPWV29gEc",
-      "published_at": "2026-10-26T20:30:12.000000Z",
-      "summary": "The creator presents a strongly critical commentary on Donald Trump’s rally remarks, arguing that they combine inflammatory rhetoric, attacks on political opponents, and claims about immigration, race, energy, healthcare, and foreign policy. The episode highlights Trump’s comments about a Muslim Senate candidate, his references to oil profits and high gas prices, and statements about military strength and possible action involving Iran and Cuba. The creator also challenges allegations concerning Representative Ilhan Omar and discusses polling claims about Trump’s approval and cost-of-living performance. A substantial portion addresses alleged corruption and trading activity, including comparisons with Nancy Pelosi, though the transcript supplies no supporting documentation. Near the end, the creator discusses online speculation about Trump’s health, bruises, posture, and a supposed exoskeleton, while acknowledging some claims as theories. Overall, the episode is an opinion-driven compilation of clips and accusations, with many factual assertions presented without independently verifiable evidence in the supplied captions.",
-      "topics": [
-        "Trump rally rhetoric",
-        "Political allegations and corruption",
-        "Energy and cost of living",
-        "Foreign policy and military action",
-        "Health speculation"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The creator presents claims about Trump’s approval ratings, including historically low overall numbers and 0% strong approval among young voters on cost of living.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            936,
-            937,
-            938,
-            939,
-            946,
-            948,
-            953,
-            956,
-            958
-          ]
-        },
-        {
-          "claim": "The creator claims Trump conducted more stock trades in one day than Nancy Pelosi made since 2014, shortly before a tariffs announcement.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            1064,
-            1066,
-            1068,
-            1069,
-            1072,
-            1079,
-            1080
-          ]
-        },
-        {
-          "claim": "The creator reports that Trump’s administration carried out extensive strikes in Somalia and alleges civilian harm and other war crimes.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            961,
-            963,
-            964,
-            974,
-            980,
-            983,
-            988,
-            991
-          ]
-        },
-        {
-          "claim": "The creator discusses speculation that Trump has serious health problems or uses an exoskeleton, based on posture, bruises, and social-media posts.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            1002,
-            1003,
-            1010,
-            1012,
-            1017,
-            1022,
-            1032,
-            1040,
-            1046,
-            1058
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode centers on the creator’s interpretation of Trump’s rally comments as racist, inflammatory, and politically damaging.",
-          "evidence_segment_indices": [
-            69,
-            72,
-            81,
-            95,
-            97,
-            1095,
-            1096
-          ],
-          "start_seconds": 153.76,
-          "end_seconds": 2293.839
-        },
-        {
-          "point": "It critiques Trump’s remarks about gas prices, oil profits, data centers, and economic pressures on households.",
-          "evidence_segment_indices": [
-            327,
-            334,
-            354,
-            359,
-            365,
-            460,
-            461,
-            475,
-            485
-          ],
-          "start_seconds": 706.56,
-          "end_seconds": 1019.44
-        },
-        {
-          "point": "The creator challenges statements about immigration, Representative Ilhan Omar, healthcare, and military policy.",
-          "evidence_segment_indices": [
-            536,
-            542,
-            545,
-            613,
-            616,
-            901,
-            906,
-            915,
-            962
-          ],
-          "start_seconds": 1108.64,
-          "end_seconds": 2009.039
-        },
-        {
-          "point": "The program relies heavily on commentary, selected clips, allegations, and predictions rather than documented source material.",
-          "evidence_segment_indices": [
-            20,
-            21,
-            28,
-            34,
-            82,
-            148,
-            161,
-            220,
-            1002,
-            1058
-          ],
-          "start_seconds": 47.84,
-          "end_seconds": 2204.4
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "6359aeafaf1818aecb467e5bd0ba860529c8a072c14c6f58cfdd2d7c4a55d25d",
-      "transcript_captured_at": "2026-10-26T22:03:08.345354Z",
-      "summary_generated_at": "2026-10-26T22:08:14.433112Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The supplied material is a transcript of commentary and embedded clips, not an independently verified record.",
-        "Several captions contain transcription errors, omissions, profanity placeholders, and unclear names.",
-        "Claims about polling, trades, military strikes, corruption, and health require independent verification.",
-        "Some health-related statements are explicitly framed as speculation rather than established findings.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
