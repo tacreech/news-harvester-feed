@@ -1,11 +1,233 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T07:42:00.253430Z",
+  "generated_at": "2026-10-28T08:12:00.249697Z",
   "reporting_window": {
-    "start": "2026-10-21T07:42:00.253430Z",
-    "end": "2026-10-28T07:42:00.253430Z"
+    "start": "2026-10-21T08:12:00.249697Z",
+    "end": "2026-10-28T08:12:00.249697Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "fA9m_USGz6c",
+      "title": "Trump Hit With BOMBSHELL New Allegations, Calls for SPECIAL COUNSEL",
+      "url": "https://www.youtube.com/watch?v=fA9m_USGz6c",
+      "published_at": "2026-10-28T00:13:45.000000Z",
+      "summary": "Aaron Parnas presents a report about a newly public allegation involving Donald Trump and Jeffrey Epstein, while emphasizing that the account remains an allegation rather than an established fact. He says a former pageant contestant told House Judiciary Committee staff that Trump sexually assaulted her at a 1993 event, and that she described associated promises involving a visa and university admission. The episode recounts her reported interactions with Epstein, including an invitation to a party, and describes the report as outlining a longer Trump-Epstein relationship. Parnas also highlights a call from Epstein survivors for an independent special counsel to investigate Epstein’s network, possible enabling or concealment by officials or institutions, and potential conflicts at the Justice Department. A later segment shows a Trump rally attendee being removed while wearing an “Epstein files” shirt, which Parnas interprets as evidence of hostility toward discussion of the subject. The episode includes a substantial Shopify advertisement and promotional appeals.",
+      "topics": [
+        "Epstein allegations",
+        "Trump and pageants",
+        "Special counsel request",
+        "House Judiciary report",
+        "Political commentary"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A former pageant contestant reportedly told House Judiciary Committee staff that Donald Trump sexually assaulted her at a 1993 pageant event.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            54,
+            56,
+            62,
+            100,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113
+          ]
+        },
+        {
+          "claim": "The House Judiciary Committee released a 50-page report containing the allegation and a timeline concerning Trump and Epstein.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            14,
+            15,
+            16,
+            18,
+            54,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220
+          ]
+        },
+        {
+          "claim": "More than a dozen Epstein survivors called for an independent special counsel to investigate Epstein’s network and possible enabling or concealment.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199
+          ]
+        },
+        {
+          "claim": "A person wearing an 'Epstein files' shirt was removed from a Trump rally.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            223,
+            224,
+            225,
+            233,
+            234,
+            235
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode centers on a newly described sexual-assault allegation attributed to a former pageant contestant and presented through a committee report.",
+          "evidence_segment_indices": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47
+          ],
+          "start_seconds": 33.2,
+          "end_seconds": 93.92
+        },
+        {
+          "point": "The account describes reported contact among the contestant, Trump, and Epstein at a 1993 pageant, including offers of assistance and an invitation to a party.",
+          "evidence_segment_indices": [
+            60,
+            65,
+            70,
+            71,
+            75,
+            76,
+            78,
+            83,
+            84,
+            85,
+            86,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98
+          ],
+          "start_seconds": 115.84,
+          "end_seconds": 190.08
+        },
+        {
+          "point": "Survivors are quoted calling for an independent special counsel, citing concerns about conflicts and political interference.",
+          "evidence_segment_indices": [
+            176,
+            179,
+            180,
+            181,
+            182,
+            185,
+            186,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "start_seconds": 333.44,
+          "end_seconds": 383.12
+        },
+        {
+          "point": "The creator connects the subject to a Trump rally incident and argues the issue should remain in public discussion.",
+          "evidence_segment_indices": [
+            223,
+            224,
+            225,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244
+          ],
+          "start_seconds": 416.479,
+          "end_seconds": 500.16
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "d6be47f4d909f9ca00f6069e0ae205297256fb938bfc1e5cc07aa3caf0cddd4b",
+      "transcript_captured_at": "2026-10-28T08:03:10.924249Z",
+      "summary_generated_at": "2026-10-28T08:08:16.344899Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies solely on the supplied episode transcript and does not establish the truth of the reported allegations.",
+        "Caption transcription contains apparent name, word, and phrase errors, including inconsistent spellings and garbled passages.",
+        "The transcript does not provide the full House Judiciary report, the underlying interview materials, or responses from the accused.",
+        "The rally segment is fragmentary and its surrounding context is limited.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
@@ -5214,235 +5436,6 @@
         "Several captions contain transcription errors, omissions, profanity placeholders, and unclear names.",
         "Claims about polling, trades, military strikes, corruption, and health require independent verification.",
         "Some health-related statements are explicitly framed as speculation rather than established findings.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "Dw2btI0KIBg",
-      "title": "Trump FURIOUS as Judge Hands Nemesis HUGE WIN, he is Privately EXPLODING!!",
-      "url": "https://www.youtube.com/watch?v=Dw2btI0KIBg",
-      "published_at": "2026-10-26T16:57:33.000000Z",
-      "summary": "Aaron Parnas presents a commentary episode arguing that a federal judge granted Marine Comey relief after the Justice Department terminated her employment. He says the ruling found the removal unauthorized under federal law and inconsistent with constitutional separation-of-powers principles, and that it ordered reinstatement, back pay, and related declarations. The episode attributes Comey’s lawsuit to her claim that she was dismissed because she is James Comey’s daughter, while noting that the Justice Department argued the termination was lawful. Parnas then shifts to polling that he says shows Barack Obama viewed more favorably than Donald Trump among Americans and independents, and that respondents more often identify Obama as the better or most admired president. The recording includes a substantial Smalls cat-food advertisement and promotional calls to subscribe. The supplied captions contain transcription errors, and the episode provides no independently verifiable court document, polling methodology, or supporting source beyond the spoken presentation.",
-      "topics": [
-        "Marine Comey employment lawsuit",
-        "Federal court ruling",
-        "Executive removal authority",
-        "Trump and Obama favorability",
-        "Political commentary"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A federal judge ruled that Marine Comey’s termination violated federal law and constitutional separation-of-powers principles, ordering reinstatement and back pay.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            114,
-            115,
-            116,
-            117,
-            128,
-            129,
-            130,
-            131,
-            133,
-            134,
-            135,
-            138,
-            141,
-            142,
-            143,
-            144
-          ]
-        },
-        {
-          "claim": "Comey was terminated because she is the daughter of former FBI Director James Comey.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            93,
-            94,
-            95,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103
-          ]
-        },
-        {
-          "claim": "Polling presented in the episode shows Obama with higher net favorability and stronger overall assessments than Trump.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            214,
-            217,
-            218,
-            219,
-            224,
-            225,
-            226,
-            232,
-            235,
-            237,
-            256,
-            257,
-            258,
-            268,
-            269,
-            270,
-            271,
-            272
-          ]
-        },
-        {
-          "claim": "The episode says Trump is privately furious about the ruling and Comey’s reinstatement.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            16,
-            17,
-            18,
-            19,
-            20,
-            148,
-            149,
-            150,
-            151
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode centers on a reported ruling involving Marine Comey’s dismissal from the U.S. Attorney’s Office for the Southern District of New York.",
-          "evidence_segment_indices": [
-            24,
-            25,
-            35,
-            36,
-            37,
-            84,
-            85,
-            86,
-            87,
-            88,
-            89
-          ],
-          "start_seconds": 55.6,
-          "end_seconds": 192.879
-        },
-        {
-          "point": "The presented legal reasoning concerns statutory removal protections, Article II, and separation of powers.",
-          "evidence_segment_indices": [
-            43,
-            44,
-            45,
-            46,
-            48,
-            49,
-            57,
-            61,
-            62,
-            65,
-            66,
-            67,
-            68,
-            70,
-            80,
-            81,
-            82,
-            83,
-            123,
-            124,
-            125,
-            126,
-            127
-          ],
-          "start_seconds": 95.68,
-          "end_seconds": 272.88
-        },
-        {
-          "point": "The creator frames the ruling as politically damaging to Trump and personally unwelcome to the White House.",
-          "evidence_segment_indices": [
-            16,
-            17,
-            18,
-            19,
-            20,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153
-          ],
-          "start_seconds": 36.399,
-          "end_seconds": 322.24
-        },
-        {
-          "point": "A later segment discusses claimed polling comparisons between Obama and Trump, including favorability and presidential assessments.",
-          "evidence_segment_indices": [
-            214,
-            217,
-            218,
-            224,
-            225,
-            226,
-            228,
-            235,
-            237,
-            256,
-            257,
-            258,
-            291,
-            292,
-            293,
-            294
-          ],
-          "start_seconds": 440.56,
-          "end_seconds": 602.72
-        },
-        {
-          "point": "The episode includes a sponsored cat-food advertisement and subscription promotions.",
-          "evidence_segment_indices": [
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            200,
-            201,
-            202,
-            203,
-            300,
-            301,
-            302,
-            307
-          ],
-          "start_seconds": 319.68,
-          "end_seconds": 629.44
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "036d286d0cb7abea28eefd9587ec459cf476f557bffc822221792f6a68636d18",
-      "transcript_captured_at": "2026-10-26T17:33:07.272765Z",
-      "summary_generated_at": "2026-10-26T17:38:17.420071Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview relies only on the supplied transcript and does not independently confirm the court ruling or polling.",
-        "Captions contain apparent transcription defects, including names, legal terms, and fragmented phrases.",
-        "The recording attributes alleged motive and private anger to the creator or litigant rather than establishing them independently.",
-        "The polling discussion does not identify the pollster, field dates, sample, question wording, or methodology.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
