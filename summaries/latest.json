@@ -1,11 +1,763 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T22:42:00.360571Z",
+  "generated_at": "2026-10-28T23:42:00.373170Z",
   "reporting_window": {
-    "start": "2026-10-21T22:42:00.360571Z",
-    "end": "2026-10-28T22:42:00.360571Z"
+    "start": "2026-10-21T23:42:00.373170Z",
+    "end": "2026-10-28T23:42:00.373170Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "N6IC2_Awlc4",
+      "title": "‘STAND UP FOR BOSSES’: Republican SELF DESTRUCTS In Rally Speech DISASTER! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=N6IC2_Awlc4",
+      "published_at": "2026-10-28T23:00:01.000000Z",
+      "summary": "Kyle Kulinski argues that Ashley Moody’s rally remark about “representing the bosses” exposes what he portrays as the Republican Party’s alignment with wealthy interests. He contrasts Moody with Democratic Senate opponent Angie Nixon, whose speech emphasizes wages, healthcare, retirement security, medical costs, teachers, and reducing war spending. Kulinski presents Nixon as a mainstream rather than radical candidate and praises her campaign while asserting that the Florida race is competitive. He then discusses a reported suspension of Nixon’s organizing account by Meta, alleging—without presenting evidence in this excerpt—that Trump or his allies pressured Mark Zuckerberg. Kulinski uses the episode to advocate nationalizing social media, expanding constitutional protections online, and imposing very high taxes on billionaires to fund public services. The program is strongly opinionated and includes severe allegations about politicians, business figures, and the Epstein case. The transcript alone does not establish those allegations, the race’s polling position, the account suspension’s circumstances, or the broader socioeconomic statistics cited.",
+      "topics": [
+        "Florida Senate race",
+        "Republican economic alignment",
+        "Healthcare and worker policies",
+        "Social-media moderation",
+        "Wealth inequality"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Ashley Moody is running against Angie Nixon for a U.S. Senate seat in Florida.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "claim": "The Florida Senate race is six points and Nixon is gaining ground.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            169,
+            170,
+            173,
+            174,
+            282,
+            283,
+            384,
+            385
+          ]
+        },
+        {
+          "claim": "Meta suspended Nixon’s organizing account ahead of the midterms.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            286,
+            287,
+            288,
+            289
+          ]
+        },
+        {
+          "claim": "Trump or someone in his White House pressured Mark Zuckerberg to suspend political accounts.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            298,
+            299,
+            300,
+            301,
+            302,
+            303,
+            308,
+            309,
+            310
+          ]
+        },
+        {
+          "claim": "Nixon voted to end healthcare for more than 440,000 people and took $10 million from sick children through Florida Medicaid.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski interprets Moody’s “representing the bosses” line as revealing Republican priorities.",
+          "evidence_segment_indices": [
+            32,
+            33,
+            34,
+            35,
+            50,
+            51,
+            52,
+            53
+          ],
+          "start_seconds": 62.48,
+          "end_seconds": 113.28
+        },
+        {
+          "point": "Nixon’s speech frames economic security, healthcare, retirement, and children’s care as non-radical goals.",
+          "evidence_segment_indices": [
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            141,
+            142
+          ],
+          "start_seconds": 248.799,
+          "end_seconds": 318.88
+        },
+        {
+          "point": "Kulinski characterizes Nixon as a competitive candidate whose positions reflect mainstream opinion.",
+          "evidence_segment_indices": [
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            220,
+            221,
+            222,
+            223,
+            224,
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263
+          ],
+          "start_seconds": 370.08,
+          "end_seconds": 555.839
+        },
+        {
+          "point": "He links the reported account suspension to a broader argument for public control of social media and higher taxation of extreme wealth.",
+          "evidence_segment_indices": [
+            286,
+            287,
+            288,
+            289,
+            309,
+            310,
+            311,
+            312,
+            334,
+            335,
+            336,
+            337,
+            343,
+            344,
+            345,
+            346,
+            347,
+            348,
+            349,
+            354,
+            355,
+            356,
+            357
+          ],
+          "start_seconds": 595.76,
+          "end_seconds": 745.2
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "3d964e233e0b3a65bd98d0bded3487e7a10bbc3edeb80f1cef754d85f5a71fcf",
+      "transcript_captured_at": "2026-10-28T23:33:36.694359Z",
+      "summary_generated_at": "2026-10-28T23:38:46.799975Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a single opinionated commentary transcript, not independent reporting.",
+        "Automatic captions contain profanity redactions, transcription errors, and ambiguous names or phrases.",
+        "Several numerical, legal, electoral, and criminal claims are asserted without supporting documentation in the excerpt.",
+        "The transcript does not provide the date, context, or rationale for the reported Meta action.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "DCf6voK9fvg",
+      "title": "Republicans LOSE THEIR MINDS Over Obama’s ‘Cheesecake Factory’ Line | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=DCf6voK9fvg",
+      "published_at": "2026-10-28T22:30:37.000000Z",
+      "summary": "Kyle Kulinski argues that Barack Obama deliberately provoked conservative backlash with a joke comparing Donald Trump’s White House style to Saddam Hussein opening a Cheesecake Factory. He says the reaction from Fox commentators and other Trump supporters illustrates an effort to recast criticism of lavish décor as hostility toward ordinary Americans and popular restaurants. Kulinski disputes that framing, portraying Trump’s aesthetic choices as gaudy and elitist while arguing that economic concerns, healthcare, prices, wars, and alleged favoritism toward wealthy supporters matter more than the restaurant reference. He also claims Obama’s remark successfully redirected conservative discussion toward defending Trump’s “vanity projects.” The episode relies heavily on excerpts from commentators and Kulinski’s responses, using sarcasm, insults, and additional allegations about Trump’s conduct. It presents Kulinski’s interpretation of the political exchange rather than independently establishing the factual claims discussed.",
+      "topics": [
+        "Obama’s Cheesecake Factory remark",
+        "Trump’s White House décor",
+        "Political messaging and backlash",
+        "Elitism and economic priorities"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The episode alleges that Trump raised taxes for most Americans while cutting taxes for billionaires.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            271,
+            272,
+            273
+          ]
+        },
+        {
+          "claim": "The episode alleges that Trump removed more than 15 million people from Medicaid or healthcare coverage.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            194,
+            195,
+            198,
+            199
+          ]
+        },
+        {
+          "claim": "The episode alleges that Trump engaged in wars, pardons, or other conduct benefiting wealthy or connected individuals.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            194,
+            195,
+            196,
+            241,
+            244,
+            245,
+            246,
+            247,
+            251,
+            252
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski interprets Obama’s joke as a deliberate baiting strategy designed to provoke a prolonged conservative reaction.",
+          "evidence_segment_indices": [
+            8,
+            9,
+            10,
+            20,
+            21,
+            25,
+            26,
+            277,
+            278,
+            279,
+            280,
+            281
+          ],
+          "start_seconds": 18.48,
+          "end_seconds": 587.68
+        },
+        {
+          "point": "Fox commentators frame the dispute as one about appreciating beauty and defending the Cheesecake Factory, while Kulinski says they misunderstood Obama’s comparison.",
+          "evidence_segment_indices": [
+            52,
+            53,
+            54,
+            92,
+            93,
+            94,
+            117,
+            122,
+            123,
+            134,
+            135,
+            136,
+            157,
+            158,
+            159,
+            160,
+            161
+          ],
+          "start_seconds": 115.52,
+          "end_seconds": 354.479
+        },
+        {
+          "point": "Kulinski contrasts the décor controversy with issues he considers more important, including wages, healthcare, prices, and alleged policies favoring the wealthy.",
+          "evidence_segment_indices": [
+            22,
+            23,
+            24,
+            195,
+            196,
+            198,
+            199,
+            294,
+            295,
+            296,
+            297,
+            298
+          ],
+          "start_seconds": 51.12,
+          "end_seconds": 620.8
+        },
+        {
+          "point": "The episode concludes that Trump’s reported or alleged vanity projects symbolize self-promotion and disregard for ordinary people’s struggles.",
+          "evidence_segment_indices": [
+            283,
+            284,
+            285,
+            289,
+            290,
+            291,
+            299,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            310,
+            311,
+            314,
+            315,
+            316,
+            317,
+            318
+          ],
+          "start_seconds": 587.68,
+          "end_seconds": 662.88
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "7a4e2a69c672ba7f5b7f6ca99c08fab4d7f4441e098148f45ba49efb7ceef5e3",
+      "transcript_captured_at": "2026-10-28T23:33:28.912175Z",
+      "summary_generated_at": "2026-10-28T23:38:36.039098Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains redacted profanity, transcription errors, speaker-label ambiguity, and overlapping caption segments.",
+        "The source provides commentary and quoted media excerpts but does not independently substantiate the factual allegations made.",
+        "Some references to current events, projects, legal matters, and policy effects are unclear from the transcript alone.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "GI6Sf0q6Qdg",
+      "title": "EARLY VOTE APOCALYPSE FOR MAGA | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=GI6Sf0q6Qdg",
+      "published_at": "2026-10-28T22:00:38.000000Z",
+      "summary": "Kyle Kulinski argues that early-voting figures indicate unusually strong Democratic positioning and a potentially broad Republican setback, while emphasizing that these are not election results. He highlights Florida, where he says the Republican early-vote advantage is narrow and Andrew Nixon is within six points in a cited poll, and Kansas, where Democrats reportedly lead early voting after trailing in comparable cycles. He also discusses Democratic advantages in Nevada and Texas, including polling and turnout figures, and cites leads for Democrats in Maine and Minnesota. Kulinski presents a Texas Senate poll showing James Talarico ahead of Ken Paxton and describes South Carolina as unexpectedly competitive. He interprets national early-voting figures and Fox News projections as consistent with Democratic control of the House and a possible Senate majority. The episode closes with a call to vote and warnings that, in Kulinski’s view, Republicans may contest or undermine unfavorable results. The transcript contains numerous inflammatory characterizations and several claims that require source verification.",
+      "topics": [
+        "Early voting trends",
+        "Senate race polling",
+        "House and Senate projections",
+        "Election integrity concerns"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The cited early-voting totals and party margins in Florida, Kansas, Nevada, Texas, and nationally are accurate and comparable across election cycles.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            7,
+            10,
+            12,
+            13,
+            52,
+            54,
+            78,
+            79,
+            105,
+            106,
+            107,
+            108,
+            355,
+            356,
+            357
+          ]
+        },
+        {
+          "claim": "The cited polls show Democratic leads in Texas, Maine, Minnesota, Michigan, South Carolina, and Florida.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            147,
+            149,
+            150,
+            198,
+            199,
+            227,
+            228,
+            238,
+            239,
+            275,
+            278,
+            279,
+            310,
+            311
+          ]
+        },
+        {
+          "claim": "Fox News projected Democratic and Republican ranges for the House and Senate as described.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            379,
+            383,
+            390,
+            391,
+            397,
+            398,
+            402,
+            403,
+            405,
+            407
+          ]
+        },
+        {
+          "claim": "A single Texas Democratic candidate reportedly matched the combined Republican candidate and committee donor count across the cited fundraising platforms.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            116,
+            118,
+            120,
+            121,
+            142,
+            143,
+            144,
+            145
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator interprets early-voting data as evidence that several traditionally Republican-leaning or competitive states may be in play.",
+          "evidence_segment_indices": [
+            27,
+            28,
+            68,
+            75,
+            76,
+            87,
+            94,
+            95,
+            303,
+            304
+          ],
+          "start_seconds": 66.8,
+          "end_seconds": 677.218
+        },
+        {
+          "point": "He cites polling leads for Democratic candidates in Texas, Maine, Minnesota, Michigan, and Florida, while describing South Carolina as tied.",
+          "evidence_segment_indices": [
+            149,
+            150,
+            198,
+            199,
+            227,
+            228,
+            238,
+            239,
+            278,
+            279,
+            310,
+            311
+          ],
+          "start_seconds": 359.654,
+          "end_seconds": 695.058
+        },
+        {
+          "point": "He says Fox News projections anticipate Democratic House control and a Senate outcome that depends on the scale of Republican or Democratic polling error.",
+          "evidence_segment_indices": [
+            383,
+            390,
+            391,
+            402,
+            403,
+            409,
+            417,
+            427,
+            433,
+            436
+          ],
+          "start_seconds": 836.899,
+          "end_seconds": 950.061
+        },
+        {
+          "point": "Kulinski urges viewers to vote and predicts a large Democratic victory, while alleging that Republicans may attempt to contest the outcome.",
+          "evidence_segment_indices": [
+            465,
+            468,
+            471,
+            475,
+            478,
+            480,
+            485,
+            506,
+            507,
+            509
+          ],
+          "start_seconds": 1001.462,
+          "end_seconds": 1082.182
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "5e73a146fc254b27c7167a4d576e19e853f12872f1ec6d5185e501ba843b6018",
+      "transcript_captured_at": "2026-10-28T23:33:20.395704Z",
+      "summary_generated_at": "2026-10-28T23:38:25.732255Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies only on the provided transcript; no underlying polls, turnout databases, fundraising records, or projections were supplied.",
+        "Several numbers and candidate names may be affected by caption errors, including apparent transcription mistakes and compressed percentages.",
+        "The transcript mixes reported figures with the creator’s interpretations, predictions, allegations, and strongly partisan language.",
+        "Some referenced events, candidates, and election cycles are ambiguous within the source alone.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "XEtiLvXcay8",
+      "title": "MAJOR BREAKING: FBI SAYS TRUMP TO ORDER VOTING MACHINES TAKEN",
+      "url": "https://www.youtube.com/watch?v=XEtiLvXcay8",
+      "published_at": "2026-10-28T21:50:53.000000Z",
+      "summary": "Kyle Kulinski discusses reports and commentary surrounding Alaska’s Senate race, where a New York Times article attributed to a campaign source an effort to recruit another candidate named Dan Sullivan, potentially confusing voters. He notes that the source later tried to retract the account and that the campaign denied involvement. Kulinski says Donald Trump responded by alleging illegality, perjury, and election fraud, and by calling for prosecutions and changes to the ballot. Kulinski disputes those characterizations, describing the alleged tactic as dirty but not illegal, while also citing his understanding that a court found the candidates distinguishable on the ballot. He then discusses an MSNBC report that FBI agents privately feared being ordered to seize voting machines or take other legally questionable steps during the midterms. Kulinski interprets the sequence as evidence of possible election interference, but the transcript provides no independent confirmation of either report. He closes with broader criticism of conservative politicians whom he says imitate Trump, including remarks about Brazil’s former president Jair Bolsonaro.",
+      "topics": [
+        "Alaska Senate race",
+        "Election integrity allegations",
+        "Trump response",
+        "FBI concerns",
+        "Conservative politics"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A campaign-linked person said Mary Peltola’s campaign helped recruit another Dan Sullivan to confuse Republican voters, then attempted to retract the account.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            2,
+            6,
+            14,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188
+          ]
+        },
+        {
+          "claim": "Donald Trump alleged that the recruitment was illegal, involved perjury, and warranted prosecution or removal of candidates from the ballot.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63
+          ]
+        },
+        {
+          "claim": "FBI agents privately feared they could be ordered to seize voting machines or take other legally questionable steps during the midterm elections.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            160,
+            161
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode centers on competing accounts of an alleged candidate-recruitment strategy in Alaska.",
+          "evidence_segment_indices": [
+            2,
+            6,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "start_seconds": 3.6,
+          "end_seconds": 68.88
+        },
+        {
+          "point": "Kulinski characterizes Trump’s response as an attempt to justify prosecutions and deny or alter the election outcome.",
+          "evidence_segment_indices": [
+            60,
+            61,
+            62,
+            63,
+            107,
+            108,
+            109,
+            114,
+            115,
+            124,
+            125,
+            126,
+            127
+          ],
+          "start_seconds": 130.239,
+          "end_seconds": 275.04
+        },
+        {
+          "point": "Kulinski says the alleged tactic may be politically dirty but argues it was not illegal and cites a court ruling about ballot confusion.",
+          "evidence_segment_indices": [
+            82,
+            83,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201
+          ],
+          "start_seconds": 179.12,
+          "end_seconds": 418.479
+        },
+        {
+          "point": "The episode broadens into criticism of conservative leaders whom Kulinski says emulate Trump, including discussion of Jair Bolsonaro.",
+          "evidence_segment_indices": [
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            231,
+            232,
+            233,
+            250,
+            251,
+            252,
+            253,
+            254
+          ],
+          "start_seconds": 428.24,
+          "end_seconds": 527.12
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "ce3e9890c2352baefd88fa795eb95e2e795df04a50f02848d1259698c22ac914",
+      "transcript_captured_at": "2026-10-28T23:33:12.345632Z",
+      "summary_generated_at": "2026-10-28T23:38:14.676265Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a partisan commentary segment, not an independent verification of the events discussed.",
+        "Several names and words appear mistranscribed or ambiguous in the captions, including references to Mary Peltola and other political figures.",
+        "The campaign source’s alleged account was reportedly retracted, leaving its reliability unresolved in the supplied material.",
+        "The transcript does not provide the underlying articles, court record, FBI statements, or corroborating evidence.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4534,1028 +5286,6 @@
         "The program mixes original commentary with excerpts from interviews, podcasts, and other clips, sometimes without clearly marking transitions.",
         "Allegations about violence, corruption, crime, policy effects, ratings, and audience reactions are presented as commentary and require independent verification.",
         "The overview reflects only the supplied transcript and does not verify dates, identities, quotations, or external events.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "U70F4ILPI7I",
-      "title": "Dear Democrats, DO NOT THROW TRANS PEOPLE UNDER THE BUS | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=U70F4ILPI7I",
-      "published_at": "2026-10-26T23:30:04.000000Z",
-      "summary": "Kyle Kulinski argues that Democratic candidates should stop using anti-trans messaging, contending that such appeals will not attract Republican voters and instead undermine Democratic principles. He criticizes Iowa candidate Josh Turk’s advertisement, which opposes transgender women competing in female sports and taxpayer-funded gender-affirming surgery while presenting itself as a rejection of political extremes. Kulinski contrasts that approach with Adam Hamilton’s stated opposition to bullying transgender people and his appeal to humane treatment. He argues Democrats should emphasize equality, defend minority groups, and focus political criticism on issues such as costs, corruption, war, and billionaire influence rather than adopting Republican framing. Kulinski also presents a satirical bathroom-themed clip and cites a poll that he says gives Democrats a nine-point advantage over Republicans on handling transgender issues. The episode is strongly partisan and includes sweeping, inflammatory accusations about Republicans and the Trump administration that are presented as Kulinski’s assertions rather than independently established facts.",
-      "topics": [
-        "Democratic campaign strategy",
-        "Transgender rights",
-        "Political advertising",
-        "Partisan messaging"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Kulinski says a poll shows Democrats leading Republicans by nine points on handling transgender issues.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            221,
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            229
-          ]
-        },
-        {
-          "claim": "The featured Josh Turk advertisement says opposing males competing in female sports is already illegal in Iowa and opposes taxpayer-funded sex changes.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46
-          ]
-        },
-        {
-          "claim": "Kulinski claims that more than 15 million people lost healthcare directly because of Donald Trump.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            60,
-            61,
-            62,
-            63,
-            64
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski’s central message is that Democrats should not sacrifice transgender people for electoral positioning.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ],
-          "start_seconds": 0.24,
-          "end_seconds": 26.4
-        },
-        {
-          "point": "He criticizes Josh Turk’s ad for adopting anti-trans and “both sides” framing while endorsing Turk over a Republican opponent.",
-          "evidence_segment_indices": [
-            33,
-            34,
-            35,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            88,
-            89,
-            90,
-            91
-          ],
-          "start_seconds": 71.2,
-          "end_seconds": 194.239
-        },
-        {
-          "point": "Adam Hamilton is presented as an alternative model centered on opposing bullying and treating transgender people humanely.",
-          "evidence_segment_indices": [
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121,
-            122,
-            123,
-            124,
-            125,
-            126
-          ],
-          "start_seconds": 213.84,
-          "end_seconds": 257.359
-        },
-        {
-          "point": "Kulinski argues Democrats should foreground equality and economic concerns while identifying billionaires, war proponents, and fascists as political opponents.",
-          "evidence_segment_indices": [
-            157,
-            158,
-            159,
-            160,
-            161,
-            162,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180
-          ],
-          "start_seconds": 318.479,
-          "end_seconds": 366.639
-        },
-        {
-          "point": "He argues that Republicans’ focus on transgender issues is electorally counterproductive and portrays Democrats as fairer on the issue.",
-          "evidence_segment_indices": [
-            217,
-            218,
-            219,
-            220,
-            221,
-            226,
-            227,
-            228,
-            229,
-            230,
-            231,
-            232,
-            233,
-            234,
-            235,
-            236,
-            237,
-            238,
-            239,
-            240,
-            241,
-            242,
-            243,
-            244
-          ],
-          "start_seconds": 442.479,
-          "end_seconds": 493.52
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "5530f2b0c88edad6896f56a6b7bcfe1e8a5377ca50df7c040e1889e7f46b0644",
-      "transcript_captured_at": "2026-10-27T00:33:24.906231Z",
-      "summary_generated_at": "2026-10-27T00:39:41.668205Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains automatic-caption defects, redactions, profanity placeholders, and apparent transcription errors.",
-        "The poll’s source, sample, date, wording, and methodology are not provided.",
-        "Claims about laws, healthcare losses, wars, corruption, and alleged misconduct are source-only assertions and require independent verification.",
-        "The transcript mixes Kulinski’s commentary with excerpts from political advertisements, interviews, and satire.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "wY32TMEsmE8",
-      "title": "Reddit Mods Are Embarrassing...",
-      "url": "https://www.youtube.com/watch?v=wY32TMEsmE8",
-      "published_at": "2026-10-26T23:21:57.000000Z",
-      "summary": "Mutahar argues that a Reddit open-source community’s strict anti-AI moderation illustrates a broader difficulty: distinguishing harmful “AI slop” from useful assistance. He describes rules reportedly excluding projects made with or intended for AI, imposing account-age and contribution requirements, and rejecting AI-translated participation; he presents community criticism and a moderator’s later clarification as evidence of inconsistency. The episode then contrasts disposable, lightly reviewed code with assistive use in mature projects, citing the creator’s account of Linux kernel work involving an LLM and examples from game recompilation. Mutahar says AI can lower barriers to experimentation, while maintenance, review, architecture, and understanding remain human responsibilities. He draws a sharper line around generated audio and video, associating them in his discussion with misinformation, deepfakes, exploitative material, and unsafe chatbot interactions. The overview reflects the creator’s commentary and reported examples only; the transcript does not independently establish the external claims about Reddit policy, kernel contributions, legal cases, or technology impacts.",
-      "topics": [
-        "Reddit moderation",
-        "AI-assisted coding",
-        "Open-source communities",
-        "Generative media risks"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The referenced open-source subreddit adopted rules restricting AI-related projects, requiring project and account-age thresholds, and limiting AI-translated participation.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            45,
-            51,
-            55,
-            56,
-            57,
-            58,
-            59,
-            91,
-            94,
-            106,
-            115,
-            120,
-            121,
-            122,
-            123,
-            131,
-            136
-          ]
-        },
-        {
-          "claim": "The Linux kernel work discussed by Mutahar involved Claude Code or another LLM assistant under Linus Torvalds’s direction.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            170,
-            174,
-            175,
-            187,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195
-          ]
-        },
-        {
-          "claim": "Character AI faced legal, regulatory, and operational problems, including wrongful-death litigation and alleged safety failures involving minors.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            577,
-            578,
-            583,
-            584,
-            585,
-            586,
-            588,
-            589,
-            590,
-            591,
-            592,
-            593,
-            594,
-            597,
-            598,
-            599,
-            600,
-            601
-          ]
-        },
-        {
-          "claim": "A browser-based Need for Speed Underground 2 project supports multiplayer features through static recompilation and related community work.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            490,
-            493,
-            494,
-            498,
-            499,
-            500,
-            501,
-            502,
-            503,
-            506,
-            508,
-            509,
-            510,
-            511,
-            512,
-            513,
-            520,
-            522,
-            523
-          ]
-        },
-        {
-          "claim": "AI-generated audio and video are widely used for misinformation, deepfakes, and exploitative material.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            430,
-            431,
-            432,
-            433,
-            434,
-            443,
-            445,
-            451,
-            452,
-            454,
-            456,
-            457,
-            458,
-            460,
-            461,
-            462,
-            466,
-            467,
-            468
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Mutahar frames the Reddit dispute as a conflict between anti-slop moderation and legitimate AI-assisted development.",
-          "evidence_segment_indices": [
-            55,
-            56,
-            57,
-            58,
-            59,
-            91,
-            93,
-            115,
-            116,
-            136
-          ],
-          "start_seconds": 124.079,
-          "end_seconds": 318.479
-        },
-        {
-          "point": "He distinguishes generated code that is lightly reviewed from assistive tools used for testing, review, scripting, and mature project maintenance.",
-          "evidence_segment_indices": [
-            389,
-            390,
-            391,
-            392,
-            393,
-            394,
-            395,
-            396,
-            397,
-            398,
-            399,
-            400,
-            407,
-            408,
-            409,
-            410,
-            411,
-            412,
-            413
-          ],
-          "start_seconds": 884.0,
-          "end_seconds": 939.199
-        },
-        {
-          "point": "He argues that AI lowers barriers to coding and game modification but shifts difficulty toward comprehension, architecture, and long-term maintenance.",
-          "evidence_segment_indices": [
-            292,
-            293,
-            295,
-            296,
-            297,
-            298,
-            299,
-            300,
-            316,
-            319,
-            320,
-            321,
-            322,
-            323,
-            526,
-            527,
-            528,
-            531,
-            532,
-            533
-          ],
-          "start_seconds": 675.04,
-          "end_seconds": 1188.24
-        },
-        {
-          "point": "He presents coding as comparatively useful while expressing strong opposition to generative audio and video because of alleged social harms.",
-          "evidence_segment_indices": [
-            623,
-            624,
-            629,
-            630,
-            631,
-            632,
-            633,
-            634,
-            638,
-            640,
-            641,
-            648,
-            691,
-            692,
-            693,
-            694,
-            695,
-            696,
-            698
-          ],
-          "start_seconds": 1375.039,
-          "end_seconds": 1530.88
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "ef20b0f6964266c7d633451375e50522ec3cf9c15ada61757d3c9adbcfa23a9f",
-      "transcript_captured_at": "2026-10-27T01:03:09.355277Z",
-      "summary_generated_at": "2026-10-27T01:08:20.826682Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is an automatically generated transcript with profanity redactions, names, and technical terms occasionally misrecognized.",
-        "The episode reports screenshots, posts, legal material, and project behavior without supplying independently inspectable source documents here.",
-        "Some quoted Reddit rules and external examples are presented through Mutahar’s interpretation, so their exact wording and context remain uncertain.",
-        "The source reflects one creator’s perspective and does not establish the broader prevalence or effects of the described AI practices.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mike Figueredo — The Humanist Report",
-      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
-      "video_id": "XeKbmbfQBTc",
-      "title": "Brazil Shocks the World by Rejecting U.S.-Backed Fascist in Presidential Election",
-      "url": "https://www.youtube.com/watch?v=XeKbmbfQBTc",
-      "published_at": "2026-10-26T23:08:43.000000Z",
-      "summary": "The creator presents Lula’s reported presidential victory in Brazil as a major defeat for a far-right opponent and celebrates Lula’s public appreciation for lawmaker Erica Hilton, emphasizing her campaign work and identity as a trans woman. The episode attributes the result to broad mobilization across rural, Indigenous, working-class, elderly, and LGBTQ+ communities, including increased second-round turnout and difficult journeys to polling places. It also relays allegations that technology companies, U.S. political actors, and billionaire interests attempted to influence the election, while noting that the defeated candidate and foreign allies were challenging the result. The creator argues that defeating authoritarian movements requires stronger democratic safeguards, regulation of digital platforms, accountability for political violence, and succession planning within Lula’s party. A recurring comparison contrasts Brazil’s alleged accountability for insurrection-related conduct with the United States. The material is commentary-driven, uses inflammatory labels, and includes many claims that require independent verification.",
-      "topics": [
-        "Brazilian election",
-        "Political mobilization",
-        "Foreign interference allegations",
-        "Digital-platform regulation",
-        "Democratic accountability"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Lula won Brazil’s presidential runoff after losing the first round, in an outcome described as historically unusual.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            23,
-            24,
-            25,
-            26,
-            27,
-            35,
-            36,
-            37
-          ]
-        },
-        {
-          "claim": "Nearly three million more people voted in the second round, with rural and Indigenous voters using boats or other difficult transport to reach polling places.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            65,
-            66,
-            67,
-            68,
-            79,
-            80,
-            81,
-            82,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            97,
-            98,
-            99,
-            100
-          ]
-        },
-        {
-          "claim": "Meta and other technology companies manipulated algorithms to benefit the far-right candidate, while the Trump administration interfered in Brazil’s election.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58
-          ]
-        },
-        {
-          "claim": "The defeated candidate sought to nullify the result, and foreign political figures encouraged pressure against Lula or Brazil’s government.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            212,
-            213
-          ]
-        },
-        {
-          "claim": "Brazilian authorities extended polling hours after transportation complaints, and the defeated candidate’s party had supported the extension before disputing its consequences.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            185,
-            186,
-            187,
-            188,
-            189,
-            190,
-            191,
-            192
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator frames Lula’s victory as a democratic rejection of authoritarian politics.",
-          "evidence_segment_indices": [
-            19,
-            20,
-            21,
-            22,
-            23,
-            28,
-            29,
-            30,
-            31,
-            32
-          ],
-          "start_seconds": 48.48,
-          "end_seconds": 81.92
-        },
-        {
-          "point": "The episode credits cross-community organizing and increased turnout for the reported result.",
-          "evidence_segment_indices": [
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76
-          ],
-          "start_seconds": 137.44,
-          "end_seconds": 170.0
-        },
-        {
-          "point": "The creator calls for regulation of foreign digital platforms and stronger democratic protections.",
-          "evidence_segment_indices": [
-            119,
-            120,
-            121,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136
-          ],
-          "start_seconds": 256.799,
-          "end_seconds": 294.08
-        },
-        {
-          "point": "The creator warns that political and legal challenges to the result could continue, especially through foreign pressure.",
-          "evidence_segment_indices": [
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            220,
-            221,
-            222,
-            223
-          ],
-          "start_seconds": 338.32,
-          "end_seconds": 460.72
-        },
-        {
-          "point": "The episode concludes that Brazil’s organizing could serve as a model while warning that far-right movements remain a long-term threat.",
-          "evidence_segment_indices": [
-            375,
-            376,
-            377,
-            378,
-            379,
-            380,
-            381,
-            382,
-            384,
-            385,
-            386,
-            387,
-            388,
-            396,
-            397,
-            398,
-            399,
-            400,
-            401,
-            402,
-            408,
-            409,
-            410,
-            411
-          ],
-          "start_seconds": 807.839,
-          "end_seconds": 884.079
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "057ad41b396a61faed85e09788d5a4be6dbcdb25c6cd90d720ca99f68760daff",
-      "transcript_captured_at": "2026-10-27T00:33:08.283256Z",
-      "summary_generated_at": "2026-10-27T00:38:30.871746Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains numerous apparent caption errors, including distorted names, numbers, and words.",
-        "The source is a single commentary episode and does not provide independent documentation for its allegations.",
-        "Several claims are presented through rhetorical or inflammatory language, making the speaker’s interpretation difficult to separate from reported events.",
-        "The excerpt may omit visual material, linked articles, or context referenced by the speakers.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "6djkC8tmQbI",
-      "title": "Mehdi DOG WALKS Matt Yglesias (NSFW: VIOLENCE & GORE) | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=6djkC8tmQbI",
-      "published_at": "2026-10-26T23:00:13.000000Z",
-      "summary": "Kyle Kulinski argues that Mehdi Hasan’s debate with Matt Yglesias exposed major differences over political strategy, immigration, and Gaza. Kulinski portrays Yglesias as prioritizing electoral salience and waiting to act until Democrats regain power, while Hasan presses him on whether opposition parties should publicly challenge alleged abuses even when doing so may be politically costly. Kulinski endorses a principle-driven approach, arguing that Democrats and the left should oppose what he characterizes as authoritarian immigration enforcement and defend people facing mistreatment. The episode then turns to Yglesias’s earlier description of Israel’s war in Gaza as just. In the excerpt, Yglesias ultimately says the war itself was not just, while maintaining that Israel had a just cause to fight Hamas. Kulinski treats this exchange as evidence that Yglesias avoids directly confronting the scale and nature of the conduct being discussed. The commentary is highly adversarial and relies heavily on claims about polling, deaths, detention, and alleged abuses that are presented without supporting documentation in the source.",
-      "topics": [
-        "Political strategy and electoral salience",
-        "Immigration enforcement and protest",
-        "Israel-Gaza war",
-        "Foreign-policy credibility"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The source claims that polling has shifted toward Democrats on immigration and that fewer voters now prioritize immigration.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            55,
-            56,
-            57,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74
-          ]
-        },
-        {
-          "claim": "The source alleges constitutional violations, unlawful detention practices, deaths in custody, violence, and other abuses connected to ICE.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            252,
-            253,
-            254,
-            255,
-            256,
-            257,
-            258,
-            259,
-            260,
-            261,
-            262,
-            263,
-            264,
-            265
-          ]
-        },
-        {
-          "claim": "The source claims that protests and organizing in Minnesota caused ICE to leave the streets and that an official was removed.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            178,
-            179,
-            180,
-            181,
-            182,
-            190,
-            191,
-            192
-          ]
-        },
-        {
-          "claim": "The source presents disputed casualty, famine, criminal-charge, and alleged-war-crime claims concerning Gaza.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            305,
-            306,
-            307,
-            308,
-            309,
-            310,
-            311,
-            312,
-            313,
-            314,
-            315,
-            316,
-            317,
-            318,
-            319,
-            320,
-            321,
-            322,
-            323,
-            324,
-            325
-          ]
-        },
-        {
-          "claim": "The source claims that Israel’s conduct in Gaza constitutes genocide or ethnic cleansing and that Israeli policy would have produced similar harm regardless of Palestinian conduct.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            363,
-            364,
-            367,
-            368,
-            369,
-            370,
-            376,
-            377,
-            378,
-            379,
-            380,
-            381,
-            382,
-            383,
-            384,
-            385,
-            467,
-            468,
-            469,
-            470,
-            471,
-            472,
-            473,
-            474
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames Hasan’s exchange with Yglesias as a decisive defeat for Yglesias.",
-          "evidence_segment_indices": [
-            21,
-            22,
-            23,
-            24,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32
-          ],
-          "start_seconds": 40.879,
-          "end_seconds": 77.92
-        },
-        {
-          "point": "Yglesias argues that emphasizing immigration can help Republicans, while Hasan argues that political conditions and public opinion can change.",
-          "evidence_segment_indices": [
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            65,
-            66,
-            67,
-            68,
-            71,
-            72,
-            73,
-            74
-          ],
-          "start_seconds": 107.439,
-          "end_seconds": 154.56
-        },
-        {
-          "point": "The discussion contrasts electoral calculation with moral and principled opposition to alleged abuses.",
-          "evidence_segment_indices": [
-            103,
-            104,
-            105,
-            106,
-            110,
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121,
-            122,
-            123,
-            124,
-            125
-          ],
-          "start_seconds": 207.599,
-          "end_seconds": 235.68
-        },
-        {
-          "point": "On Gaza, Yglesias distinguishes between a just cause for fighting Hamas and a war that was not itself just.",
-          "evidence_segment_indices": [
-            370,
-            371,
-            372,
-            373,
-            374,
-            375,
-            421,
-            422,
-            423,
-            424,
-            425,
-            426,
-            427,
-            428,
-            429,
-            430,
-            431,
-            435,
-            436
-          ],
-          "start_seconds": 641.839,
-          "end_seconds": 751.68
-        },
-        {
-          "point": "Kulinski concludes that Yglesias’s positions reflect contrarianism and criticizes his treatment of left-wing concerns.",
-          "evidence_segment_indices": [
-            499,
-            500,
-            501,
-            502,
-            503,
-            504,
-            505,
-            506,
-            507,
-            508,
-            509,
-            510,
-            511,
-            512,
-            513,
-            514,
-            515,
-            516,
-            517,
-            518,
-            519,
-            520,
-            521,
-            522
-          ],
-          "start_seconds": 863.44,
-          "end_seconds": 910.399
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "089c492f7be922275279564fbe18c0ee62a50d990c7cdca6c5c34db3711580a4",
-      "transcript_captured_at": "2026-10-27T00:33:19.134308Z",
-      "summary_generated_at": "2026-10-27T00:39:25.451712Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Automatic captions contain numerous transcription errors and garbled names.",
-        "Speaker attribution is sometimes unclear because the excerpt interleaves commentary with quoted debate audio.",
-        "The source provides no underlying polling, casualty, legal, or investigative documentation.",
-        "The overview reflects the episode’s presentation and does not independently establish its allegations.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
