@@ -1,11 +1,392 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T15:42:00.345573Z",
+  "generated_at": "2026-10-28T21:12:00.354559Z",
   "reporting_window": {
-    "start": "2026-10-21T15:42:00.345573Z",
-    "end": "2026-10-28T15:42:00.345573Z"
+    "start": "2026-10-21T21:12:00.354559Z",
+    "end": "2026-10-28T21:12:00.354559Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "r_yenD-GAL4",
+      "title": "Hasan SUES SCOTT JENNINGS For $72 Million For Defamation!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=r_yenD-GAL4",
+      "published_at": "2026-10-28T20:30:25.000000Z",
+      "summary": "Kyle Kulinski discusses a reported defamation lawsuit in which Hasan Piker seeks more than $72 million from commentator Scott Jennings. Kulinski presents the filing as a response to Jennings’s portrayal of Piker’s remarks about race, lynching, and Democratic politics, while arguing that the remarks were sarcastic or taken out of context. He emphasizes that Piker’s lawyers previously represented Dominion in litigation against Fox News and treats that history as strategically significant. Kulinski also explains his understanding that public-figure defamation cases require proof of knowing or reckless falsity, then predicts that Piker will prevail through an apology, settlement, or trial judgment. The episode frames the dispute as part of a wider conflict over how left-wing figures are portrayed in mainstream media, and Kulinski says the lawsuit could deter similar claims. The transcript provides commentary and excerpts but does not independently establish the lawsuit’s filing, the underlying full context, the legal standard, or likely outcome.",
+      "topics": [
+        "Hasan Piker defamation lawsuit",
+        "Scott Jennings commentary",
+        "Media framing and political rhetoric",
+        "Public-figure defamation standards"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Hasan Piker filed a federal defamation lawsuit against Scott Jennings seeking more than $72 million in damages.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim": "Piker’s lawyers previously represented Dominion in litigation that resulted in a $787.5 million Fox News settlement.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim": "The dispute concerns Jennings’s presentation of Piker’s remarks about race and lynching, which Kulinski says were sarcastic and clipped out of context.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            104,
+            108,
+            109,
+            117,
+            132,
+            133,
+            134,
+            135,
+            136,
+            214,
+            215,
+            216,
+            226,
+            227,
+            238,
+            239
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski strongly supports the reported lawsuit and characterizes Jennings’s statements as defamatory allegations rather than legitimate criticism.",
+          "evidence_segment_indices": [
+            23,
+            24,
+            25,
+            26,
+            191,
+            192,
+            203,
+            204,
+            241,
+            254,
+            255,
+            256,
+            257
+          ],
+          "start_seconds": 54.559,
+          "end_seconds": 539.2
+        },
+        {
+          "point": "The episode describes excerpts attributed to Jennings and Piker, including discussion of Piker’s political associations and comments about race-related issues.",
+          "evidence_segment_indices": [
+            104,
+            108,
+            109,
+            110,
+            117,
+            118,
+            119,
+            120,
+            121,
+            125,
+            127,
+            128,
+            143,
+            147,
+            148,
+            152,
+            153
+          ],
+          "start_seconds": 220.799,
+          "end_seconds": 319.6
+        },
+        {
+          "point": "Kulinski says public figures face a difficult burden in defamation cases and identifies malicious intent as central to his explanation.",
+          "evidence_segment_indices": [
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41
+          ],
+          "start_seconds": 68.479,
+          "end_seconds": 96.479
+        },
+        {
+          "point": "Kulinski predicts that Piker will achieve a favorable result and argues the case could discourage future attacks on left-wing figures.",
+          "evidence_segment_indices": [
+            278,
+            279,
+            280,
+            281,
+            282,
+            283,
+            286,
+            287,
+            289,
+            290,
+            291,
+            292,
+            293,
+            298,
+            299,
+            304,
+            305,
+            306
+          ],
+          "start_seconds": 582.24,
+          "end_seconds": 651.76
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "d0a0bc8348d80f67749c64cb7b3dcc741409b824a37ff914fde6d3faf62ae34f",
+      "transcript_captured_at": "2026-10-28T21:03:20.107372Z",
+      "summary_generated_at": "2026-10-28T21:08:27.123433Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains automatic-caption gaps and redactions, including names and profanity, which may obscure wording.",
+        "Only selected excerpts are presented; the full statements, surrounding context, court filings, and opposing account are not included.",
+        "Legal assertions and predictions are presented as episode commentary and require independent verification.",
+        "The transcript does not establish whether the reported lawsuit or any stated damages, settlement, or outcome is legally confirmed.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "DTFXn909Ops",
+      "title": "Netanyahu PANICS As Israeli Election SHOCKS THE WORLD!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=DTFXn909Ops",
+      "published_at": "2026-10-28T20:00:24.000000Z",
+      "summary": "Kyle Kulinski argues that early Israeli election results leave Netanyahu’s Likud as the largest party but short of the 61-seat majority needed to govern, making coalition negotiations decisive. He highlights conflicting projections, with results changing as counting continues, and says Netanyahu’s bloc later stood near 53–55 seats while opposition parties held a potential majority including Arab parties. Kulinski also discusses allegations from Likud that the election was stolen through fraud, presenting them as unverified claims. He contends that replacing Netanyahu would not necessarily change Israel’s broader policies toward Palestinians or Iran, citing statements attributed to Israeli political figures and reports of possible coalition arrangements. Finally, he warns that the United States and Israel may be preparing renewed military action against Iran, while acknowledging uncertainty about Netanyahu’s political survival. The episode is strongly opinionated and relies on reported results, attributed statements, and predictions rather than independently established evidence.",
+      "topics": [
+        "Israeli election results",
+        "Netanyahu coalition prospects",
+        "Election-fraud allegations",
+        "Israel-Iran escalation"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Early election projections showed Likud or Netanyahu’s bloc leading but below the 61 seats required for a Knesset majority.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            6,
+            7,
+            9,
+            10,
+            68,
+            69,
+            70,
+            71,
+            99,
+            100,
+            101
+          ]
+        },
+        {
+          "claim": "Likud alleged widespread electoral fraud, including bribery, intimidation, violence, double voting, and ballot manipulation.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            94,
+            95,
+            96,
+            97,
+            98
+          ]
+        },
+        {
+          "claim": "Trump allies and U.S. officials were discussing arrangements that could keep Netanyahu in power, including a unity government.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            102,
+            103,
+            104,
+            129,
+            130,
+            131,
+            139,
+            140,
+            141,
+            142,
+            143,
+            145,
+            146,
+            154,
+            155
+          ]
+        },
+        {
+          "claim": "The United States and Israel were preparing for renewed military operations against Iran, including possible strikes after the U.S. midterm elections.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Netanyahu’s party was projected to lead, but no bloc had clearly secured the governing majority.",
+          "evidence_segment_indices": [
+            9,
+            10,
+            11,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            75
+          ],
+          "start_seconds": 21.279,
+          "end_seconds": 186.8
+        },
+        {
+          "point": "Kulinski argues that anti-Netanyahu alternatives may share important positions on territorial expansion and military policy.",
+          "evidence_segment_indices": [
+            35,
+            36,
+            37,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52
+          ],
+          "start_seconds": 93.6,
+          "end_seconds": 136.16
+        },
+        {
+          "point": "The episode presents Netanyahu’s continued leadership as possible through coalition bargaining despite uncertain results.",
+          "evidence_segment_indices": [
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217
+          ],
+          "start_seconds": 295.6,
+          "end_seconds": 477.759
+        },
+        {
+          "point": "Kulinski predicts that regional escalation with Iran could continue regardless of who leads Israel.",
+          "evidence_segment_indices": [
+            152,
+            153,
+            154,
+            155,
+            156,
+            160,
+            161,
+            311,
+            312,
+            313,
+            314,
+            315,
+            316
+          ],
+          "start_seconds": 333.759,
+          "end_seconds": 666.959
+        },
+        {
+          "point": "He frames the election and regional developments through a strongly critical interpretation of Israeli and U.S. policy.",
+          "evidence_segment_indices": [
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206
+          ],
+          "start_seconds": 414.16,
+          "end_seconds": 456.72
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "f5652279db154ce0f9392a1d01ce3d2ae6c988a2da94f73f381305bb10daa8e1",
+      "transcript_captured_at": "2026-10-28T21:03:12.315387Z",
+      "summary_generated_at": "2026-10-28T21:08:14.979554Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains automated-caption defects, profanity redactions, name distortions, and unclear phrases.",
+        "Election figures vary across cited projections and may have changed as counting continued.",
+        "Allegations about fraud, military intentions, secret negotiations, and future conflict are presented as reported claims or predictions, not verified findings.",
+        "This overview reflects only the episode transcript and does not independently assess the cited reporting or broader context.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5112,341 +5493,6 @@
         "Several reported legal, electoral, and polling claims are presented only through the episode and require independent verification.",
         "The recording mixes commentary, interview excerpts, sponsorship, and promotional material, so some statements reflect advocacy rather than neutral reporting.",
         "The source provides no underlying documents or methodological details for the cited voting totals, polling claims, or lawsuit count.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "bi7tFaNqUGQ",
-      "title": "Brazilian Left Has SHOCKING COMEBACK WIN As Far-Right IN SHAMBLES!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=bi7tFaNqUGQ",
-      "published_at": "2026-10-26T21:35:29.000000Z",
-      "summary": "Kyle Kulinski argues that Lula’s reported Brazilian runoff victory, after losing the first round, represents a major comeback and may foreshadow outcomes in future U.S. midterm elections. He attributes the reversal to increased turnout, reduced blank ballots, transfers from eliminated candidates, and Lula’s performance in debates. Kulinski also alleges that allies of Flavio Bolsonaro disrupted public transportation in Lula-leaning areas, prompting Brazil’s Supreme Court to extend voting hours; he presents this as an attempted effort to suppress or disrupt the vote. The episode contrasts Lula’s worker-focused economic and environmental record with Bolsonaro-aligned proposals and describes Brazil’s legislature as more right-leaning than the presidency. Kulinski further discusses Bolsonaro’s refusal to concede, reported political and corporate opposition to Lula, and a claimed stock-market decline after the result. He concludes by interpreting the election as evidence that voters may distinguish incumbent responsibility from broader economic conditions and reiterates his view that the result is relevant to U.S. politics.",
-      "topics": [
-        "Brazilian presidential runoff",
-        "Lula’s electoral comeback",
-        "Election administration and allegations",
-        "Brazilian right-wing politics",
-        "Implications for U.S. midterms"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Lula won the runoff after losing the first round, reportedly by about 4.4 million votes.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            17,
-            18,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            32,
-            33,
-            34,
-            35,
-            232,
-            233,
-            234
-          ]
-        },
-        {
-          "claim": "Supporters or allies of Flavio Bolsonaro disrupted public transportation in Lula-leaning areas, and Brazil’s Supreme Court extended voting hours in response.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            157,
-            158,
-            160,
-            161,
-            162,
-            163,
-            164,
-            165,
-            166,
-            167,
-            182,
-            183,
-            184,
-            185,
-            189,
-            190,
-            191,
-            192,
-            197,
-            198,
-            199,
-            200,
-            201,
-            202
-          ]
-        },
-        {
-          "claim": "Turnout increased and blank or null voting declined between rounds, contributing to Lula’s improved result.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            261,
-            262,
-            263,
-            264,
-            265,
-            266,
-            267,
-            269,
-            270,
-            271,
-            272,
-            273,
-            274,
-            275
-          ]
-        },
-        {
-          "claim": "The episode reports that Bolsonaro refused to acknowledge the election result and sought to have it annulled.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            369,
-            370,
-            371,
-            372,
-            373,
-            374
-          ]
-        },
-        {
-          "claim": "The episode reports a substantial decline in Brazil’s stock market after Lula’s victory.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            418,
-            419,
-            420,
-            421
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski presents Lula’s victory as an unprecedented or highly unusual comeback in Brazil’s modern presidential history.",
-          "evidence_segment_indices": [
-            32,
-            33,
-            34,
-            35,
-            37,
-            38,
-            39,
-            40
-          ],
-          "start_seconds": 79.68,
-          "end_seconds": 98.4
-        },
-        {
-          "point": "He attributes the result partly to debate performances and the movement of voters from other candidates or non-voting categories.",
-          "evidence_segment_indices": [
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            276,
-            277,
-            278,
-            279,
-            280,
-            281,
-            282,
-            283
-          ],
-          "start_seconds": 231.2,
-          "end_seconds": 598.88
-        },
-        {
-          "point": "He says Lula faces a right-leaning legislature that may constrain his ability to govern.",
-          "evidence_segment_indices": [
-            291,
-            292,
-            293,
-            294,
-            297,
-            298,
-            299,
-            300,
-            301,
-            302,
-            303,
-            304,
-            305,
-            306
-          ],
-          "start_seconds": 609.68,
-          "end_seconds": 643.68
-        },
-        {
-          "point": "Kulinski interprets the election as a possible signal for U.S. political contests, while acknowledging that Brazil’s circumstances differ.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            440,
-            441,
-            442,
-            443,
-            444,
-            445
-          ],
-          "start_seconds": 0.16,
-          "end_seconds": 932.48
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "d797d077442ed303b962a16688f823b94f5c1d9b0ff1418d6217083c1e126bdd",
-      "transcript_captured_at": "2026-10-26T22:03:18.452248Z",
-      "summary_generated_at": "2026-10-26T22:08:36.748094Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is a single commentary episode and does not independently establish the reported election results, vote totals, turnout figures, court actions, transport disruptions, or market movements.",
-        "Several names, quotations, figures, and institutions appear garbled or inconsistently transcribed in the captions.",
-        "The episode contains strong political judgments and allegations; these are represented as Kulinski’s claims rather than verified facts.",
-        "The source provides limited detail about Brazil’s electoral rules, the legislature, and the evidentiary basis for alleged interference.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "8JemlCKYU4g",
-      "title": "Obama VERBALLY ASSASSINATES Trump Without Even Trying | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=8JemlCKYU4g",
-      "published_at": "2026-10-26T21:11:26.000000Z",
-      "summary": "Kyle Kulinski argues that Barack Obama’s campaign appearances for Democratic candidates contrast sharply with Donald Trump’s political style and record. He highlights Obama’s emphasis on disagreement within shared goals, border enforcement alongside constitutional protections, criticism of current economic and foreign-policy decisions, and attacks on perceived Republican hypocrisy over tariffs, deficits, and presidential spending. Kulinski also discusses Obama’s jokes about Trump’s renovations and luxury aesthetics, presenting them as politically effective because of wider concerns about living costs. The episode includes Trump’s response, which Kulinski portrays as a series of personal attacks against Obama and a Democratic candidate. Finally, Kulinski focuses on Obama’s endorsement of Angie Nixon, interpreting it as evidence that Obama is becoming more accepting of left-wing candidates and that Democratic politics may be moving in that direction. The source is a commentary program built around selected speech clips and the host’s interpretations, so its factual assertions and predictions require independent verification.",
-      "topics": [
-        "Obama campaign appearances",
-        "Trump criticism",
-        "Border and foreign policy",
-        "Tariffs and deficits",
-        "Democratic Party direction"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Obama’s remarks characterized current border enforcement as involving masked agents, arrests, detention, or shootings of law-abiding citizens, while contrasting it with his administration’s approach.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            197,
-            200,
-            202,
-            206,
-            207
-          ]
-        },
-        {
-          "claim": "The episode reports that current foreign-policy decisions contributed to attacks, higher energy prices, and Iran gaining strategic leverage over the Strait of Hormuz.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            247,
-            252,
-            255,
-            258,
-            260
-          ]
-        },
-        {
-          "claim": "The episode states that tariff refunds benefited companies rather than consumers and alleges that related arrangements transferred wealth upward.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            637,
-            641,
-            643,
-            645,
-            648,
-            654
-          ]
-        },
-        {
-          "claim": "Kulinski claims Obama’s endorsement of Angie Nixon signals acceptance of a future led by left-wing or DSA-aligned candidates.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            848,
-            853,
-            858,
-            860,
-            865,
-            874,
-            876
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski praises Obama’s campaign effectiveness and contrasts it with Trump’s demand for loyalty.",
-          "evidence_segment_indices": [
-            10,
-            17,
-            88,
-            90
-          ],
-          "start_seconds": 30.64,
-          "end_seconds": 214.48
-        },
-        {
-          "point": "Obama’s featured speech argues that disagreement over methods can coexist with agreement on broader goals.",
-          "evidence_segment_indices": [
-            79,
-            80,
-            126,
-            128
-          ],
-          "start_seconds": 184.319,
-          "end_seconds": 303.12
-        },
-        {
-          "point": "The commentary presents tariffs, deficits, healthcare, and presidential renovations as central themes in Obama’s criticism of Trump.",
-          "evidence_segment_indices": [
-            607,
-            626,
-            682,
-            698,
-            717,
-            723,
-            511,
-            518
-          ],
-          "start_seconds": 1122.88,
-          "end_seconds": 1594.52
-        },
-        {
-          "point": "Kulinski interprets Obama’s endorsement of Angie Nixon as a significant Democratic political development.",
-          "evidence_segment_indices": [
-            831,
-            848,
-            858,
-            866
-          ],
-          "start_seconds": 1831.12,
-          "end_seconds": 1915.44
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "3d640ddb0308edf6a9775b10c8ce9d7cbcdc45637516f31ac273c796022076d7",
-      "transcript_captured_at": "2026-10-26T22:03:12.252408Z",
-      "summary_generated_at": "2026-10-26T22:08:24.723950Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains profanity, redactions, malformed names, and apparent caption errors.",
-        "Several clips are excerpted without full event context, making speaker attribution or wording occasionally ambiguous.",
-        "The overview reflects the supplied commentary and transcript only; quoted claims, polling figures, policy descriptions, and political predictions are not independently verified.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
