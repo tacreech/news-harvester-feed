@@ -1,11 +1,199 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T00:12:00.238480Z",
+  "generated_at": "2026-10-28T01:42:00.201253Z",
   "reporting_window": {
-    "start": "2026-10-21T00:12:00.238480Z",
-    "end": "2026-10-28T00:12:00.238480Z"
+    "start": "2026-10-21T01:42:00.201253Z",
+    "end": "2026-10-28T01:42:00.201253Z"
   },
   "episodes": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "GAE1YwoFFVI",
+      "title": "Sony And Playstation Keep Getting Hacked...",
+      "url": "https://www.youtube.com/watch?v=GAE1YwoFFVI",
+      "published_at": "2026-10-27T23:36:06.000000Z",
+      "summary": "The creator argues that recent PlayStation firmware breaches have enabled community-built jailbreak, emulation, Linux, and homebrew projects that expand what PS5 hardware can do. He presents PS2 and PS3 emulation, disc-based game installation, trophy integration, private online services, GameCube and Wii support, and improved GTA 4 performance as examples, while acknowledging that compatibility and performance remain uneven. He frames these developments as a backlash against Sony’s reduced support for physical media and backwards compatibility, and predicts that a future hypervisor exploit could create major risks around newly released games. The episode also discusses alleged PlayStation family-account abuse and a reported data exposure involving Sony’s Japanese ISP Sonet, while advising viewers to review spending limits and account security. Overall, the creator’s perspective is strongly hostile toward Sony and sympathetic to modding, but several technical, security, and leak-related assertions are presented as personal reports, possibilities, or machine-translated information rather than independently established facts.",
+      "topics": [
+        "PlayStation jailbreaks and firmware",
+        "Console emulation and backwards compatibility",
+        "Physical media and digital ownership",
+        "Sony security allegations",
+        "Hypervisor exploit risks"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The creator reports that PlayStation firmware 13.6 was breached and that related jailbreak methods enable PS2/PS3 emulation and other homebrew features.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            24,
+            25,
+            26,
+            39,
+            40,
+            45,
+            63,
+            64,
+            96,
+            97,
+            148,
+            158
+          ]
+        },
+        {
+          "claim": "The creator reports an alleged PlayStation family-account exploit that could add unauthorized child accounts and potentially access a family manager’s wallet.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            458,
+            460,
+            465,
+            470,
+            472,
+            510,
+            511,
+            512,
+            514,
+            518,
+            522
+          ]
+        },
+        {
+          "claim": "The creator reports that more than 2.58 million Sonet members had personal information exposed, while noting that the account is based partly on machine translation.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            527,
+            532,
+            538,
+            539,
+            543,
+            545,
+            550,
+            554,
+            555
+          ]
+        },
+        {
+          "claim": "The creator speculates that a hypervisor exploit could allow purchased GTA 6 data to be dumped and run through emulation.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            313,
+            315,
+            323,
+            325,
+            326,
+            328,
+            330,
+            332,
+            625,
+            628,
+            629
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator showcases community projects that allegedly add multi-generation emulation, enhancements, private online play, and Linux support to jailbreakable PS5 systems.",
+          "evidence_segment_indices": [
+            49,
+            50,
+            63,
+            64,
+            87,
+            89,
+            189,
+            190,
+            268,
+            272
+          ],
+          "start_seconds": 108.72,
+          "end_seconds": 633.04
+        },
+        {
+          "point": "He says PS2 emulation is comparatively polished, while PS3 emulation remains inconsistent and game-dependent.",
+          "evidence_segment_indices": [
+            72,
+            80,
+            81,
+            113,
+            121,
+            161,
+            162,
+            163,
+            176,
+            180
+          ],
+          "start_seconds": 164.879,
+          "end_seconds": 412.0
+        },
+        {
+          "point": "He argues that community projects demonstrate capabilities Sony could have offered through stronger backwards compatibility and physical-media support.",
+          "evidence_segment_indices": [
+            104,
+            106,
+            107,
+            108,
+            113,
+            184,
+            199,
+            205,
+            206,
+            414,
+            417
+          ],
+          "start_seconds": 237.519,
+          "end_seconds": 968.48
+        },
+        {
+          "point": "He recommends account-protection measures including spending limits, password and passkey changes, and two-factor authentication.",
+          "evidence_segment_indices": [
+            514,
+            515,
+            516,
+            521,
+            522,
+            598,
+            599,
+            600
+          ],
+          "start_seconds": 1174.96,
+          "end_seconds": 1361.44
+        },
+        {
+          "point": "The episode closes with the creator predicting continued conflict between Sony and console-modding communities while expressing support for preserving physical media.",
+          "evidence_segment_indices": [
+            379,
+            380,
+            381,
+            383,
+            384,
+            387,
+            388,
+            637,
+            639,
+            653,
+            654
+          ],
+          "start_seconds": 884.24,
+          "end_seconds": 1483.36
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "c85c0d5ef463d0cdadb3fdae9bda74d53f31dbd8e27c9cc06cb94e8503052a7e",
+      "transcript_captured_at": "2026-10-28T01:33:07.901802Z",
+      "summary_generated_at": "2026-10-28T01:38:18.955623Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains frequent caption errors, profanity substitutions, and uncertain names for projects and technical components.",
+        "Several security and data-exposure statements are explicitly described as alleged, reported, unconfirmed, or machine-translated.",
+        "The source is a single creator’s commentary and demonstrations; it does not independently establish the status, legality, safety, or reproducibility of the described exploits.",
+        "Predictions about GTA 6, future hypervisor exploits, PC releases, and Sony’s response are speculative.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5165,191 +5353,6 @@
         "Captioning contains transcription defects, profanity redactions, laughter, and ambiguous technical terms.",
         "The source describes future piracy, emulation, and publisher responses as possibilities or predictions, not established outcomes.",
         "The supplied material does not independently verify the reported exploit, eShop removal, or alleged device brick.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "E-dUd1n-FPA",
-      "title": "🚨 Trump TERRIFIED as Young People RISE UP Around the World, his Time is ENDING!!!",
-      "url": "https://www.youtube.com/watch?v=E-dUd1n-FPA",
-      "published_at": "2026-10-25T22:01:25.000000Z",
-      "summary": "Aaron Parnas presents a partisan argument that youth-led opposition movements, especially in Serbia, signal declining support for strongman politics and could foreshadow setbacks for Donald Trump and Republicans. He says Serbian students organized prolonged anti-corruption protests, won a parliamentary election, and prompted Aleksandar Vučić to concede, while demonstrations in Albania may indicate a similar trend. The episode then focuses on Trump’s comments about high oil prices and alleged energy profits, which Parnas portrays as politically damaging while households face higher costs. Parnas also discusses the outlook for U.S. midterm elections through an interview with Indiana congressional candidate Mary Allen. Allen says her campaign is gaining support among some Republicans and farmers despite the district’s Republican lean, and advocates affordable services, agricultural stability, campaign-finance reform, and restrictions on congressional stock trading. The episode combines commentary, selected political claims, and campaign advocacy; several reported election results, polling conditions, economic assertions, and quotations require independent verification.",
-      "topics": [
-        "Youth-led protests",
-        "Serbia and Albania",
-        "Trump and oil prices",
-        "U.S. midterm elections",
-        "Campaign finance"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A student list won 138 of Serbia’s 250 parliamentary seats, while Vučić’s party won 104, and Vučić conceded.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            60,
-            61,
-            62,
-            63,
-            67,
-            68
-          ]
-        },
-        {
-          "claim": "Serbia’s turnout was nearly 70%, reportedly the highest since the breakup of Yugoslavia.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            69,
-            70,
-            71
-          ]
-        },
-        {
-          "claim": "Trump said the United States was making hundreds of billions or trillions of dollars from oil and related developments while prices were elevated.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            98,
-            105,
-            112,
-            118,
-            123,
-            127,
-            128,
-            145,
-            147
-          ]
-        },
-        {
-          "claim": "Republican advisers privately believed the party was losing ground and that the House was nearly certain to be lost.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            11,
-            12,
-            13,
-            148,
-            149,
-            150,
-            151,
-            152
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames Serbian student mobilization as an example of young voters challenging entrenched leadership.",
-          "evidence_segment_indices": [
-            39,
-            42,
-            44,
-            51,
-            52,
-            53,
-            54,
-            55,
-            74,
-            75,
-            76,
-            77
-          ],
-          "start_seconds": 85.84,
-          "end_seconds": 186.0
-        },
-        {
-          "point": "He links reported protests in Albania to a broader international challenge to strongman politics.",
-          "evidence_segment_indices": [
-            78,
-            79,
-            80,
-            81,
-            83,
-            84,
-            85
-          ],
-          "start_seconds": 184.48,
-          "end_seconds": 210.4
-        },
-        {
-          "point": "The episode argues that Trump’s oil-price remarks could worsen political pressure on Republicans.",
-          "evidence_segment_indices": [
-            86,
-            87,
-            88,
-            90,
-            91,
-            92,
-            93,
-            94,
-            140,
-            141,
-            142,
-            143,
-            144
-          ],
-          "start_seconds": 208.879,
-          "end_seconds": 341.919
-        },
-        {
-          "point": "Mary Allen describes her Indiana campaign as building cross-party and agricultural support despite the district’s Republican tilt.",
-          "evidence_segment_indices": [
-            160,
-            169,
-            173,
-            174,
-            175,
-            176,
-            177,
-            180,
-            195,
-            196,
-            201,
-            204,
-            205,
-            208
-          ],
-          "start_seconds": 368.56,
-          "end_seconds": 461.199
-        },
-        {
-          "point": "Allen proposes healthcare, childcare, Social Security, immigration, farm, and campaign-finance priorities if elected.",
-          "evidence_segment_indices": [
-            287,
-            288,
-            289,
-            290,
-            291,
-            292,
-            307,
-            312,
-            313,
-            314,
-            316,
-            318,
-            328,
-            333,
-            334,
-            347,
-            348,
-            349
-          ],
-          "start_seconds": 618.079,
-          "end_seconds": 749.839
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "359ab2c666f366c9bb2e8899bb61aba24c766dbda5a7cfe54f6fa9776d5f091e",
-      "transcript_captured_at": "2026-10-25T23:03:08.803629Z",
-      "summary_generated_at": "2026-10-25T23:08:17.037384Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Several names and terms appear mistranscribed in the captions, including references to Aleksandar Vučić and Serbian institutions.",
-        "The transcript presents election results, turnout, polling assessments, oil-market claims, and private adviser views without supporting documentation.",
-        "The reported timeframe and references to upcoming elections are source-only and may be difficult to interpret from captions alone.",
-        "The episode mixes direct quotations, interview statements, and the host’s commentary, so attribution should be preserved when assessing claims.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
