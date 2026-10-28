@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T08:00:21.505570Z",
+  "generated_at": "2026-10-28T08:30:22.337216Z",
   "reporting_window": {
-    "start": "2026-10-21T08:00:21.505570Z",
-    "end": "2026-10-28T08:00:21.505570Z",
+    "start": "2026-10-21T08:30:22.337216Z",
+    "end": "2026-10-28T08:30:22.337216Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,7 +14,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-28T08:00:19.654420Z",
+      "last_successful_poll": "2026-10-28T08:30:19.843814Z",
       "warnings": []
     },
     {
@@ -23,7 +23,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-28T08:00:20.298107Z",
+      "last_successful_poll": "2026-10-28T08:30:20.501496Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-28T08:00:20.504747Z",
+      "last_successful_poll": "2026-10-28T08:30:21.120806Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-28T08:00:20.954420Z",
+      "last_successful_poll": "2026-10-28T08:30:21.509971Z",
       "warnings": []
     },
     {
@@ -50,7 +50,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-28T08:00:21.344489Z",
+      "last_successful_poll": "2026-10-28T08:30:22.179999Z",
       "warnings": []
     }
   ],
@@ -65,7 +65,7 @@
       "first_seen": "2026-10-28T07:00:27.519987Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "not_queued"
+      "transcript_status": "captions_ready"
     },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
