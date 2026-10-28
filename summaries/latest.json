@@ -1,11 +1,165 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-27T23:42:00.262196Z",
+  "generated_at": "2026-10-28T00:12:00.238480Z",
   "reporting_window": {
-    "start": "2026-10-20T23:42:00.262196Z",
-    "end": "2026-10-27T23:42:00.262196Z"
+    "start": "2026-10-21T00:12:00.238480Z",
+    "end": "2026-10-28T00:12:00.238480Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "kcfepgGrTVc",
+      "title": "Jesse Ventura ERUPTS AT TRUMP & Leaves Hasan Speechless | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=kcfepgGrTVc",
+      "published_at": "2026-10-27T22:30:19.000000Z",
+      "summary": "Kyle Kulinski reviews Hasan Piker’s interview with Jesse Ventura, portraying Ventura as outspoken, highly talkative, and willing to criticize Donald Trump, Republicans, ICE, and Israel’s government. The episode highlights Ventura’s suggestion that Trump’s son should perform military service, his criticism of Trump’s Vietnam-era nonservice, and his use of “Gestapo” to describe ICE actions in Minneapolis. Ventura also argues that Republicans are anti-constitutional and that government policies should be open to criticism without equating opposition to antisemitism. Kulinski strongly endorses Ventura’s broader political assessment, while asserting that Democrats and Republicans should not be treated as equivalent and urging support for Democrats. He also mentions a discussion of 9/11 conspiracy theories and recommends viewing the full interview. The source is a commentary segment summarizing selected excerpts rather than the complete interview; several claims, characterizations, and references are presented by the speakers without supporting documentation in the transcript.",
+      "topics": [
+        "Jesse Ventura interview",
+        "U.S. elections and parties",
+        "Military service and Donald Trump",
+        "ICE and constitutional criticism",
+        "Israel and antisemitism"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Ventura said Trump avoided military service during the Vietnam War because of bone spurs and contrasted that with his own service.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            153,
+            157,
+            160,
+            164,
+            165
+          ]
+        },
+        {
+          "claim": "Ventura and Kulinski characterized ICE actions in Minneapolis as comparable to the Gestapo.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            58,
+            60,
+            62,
+            65,
+            66
+          ]
+        },
+        {
+          "claim": "Ventura argued that Republicans are fascist and anti-constitutional, citing war and January 6 as examples.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            68,
+            71,
+            72,
+            78,
+            80,
+            83,
+            84
+          ]
+        },
+        {
+          "claim": "Kulinski described Ventura as a prolific 9/11 conspiracy theorist with a television program focused on conspiracy theories.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            216,
+            224,
+            225,
+            226,
+            228,
+            229
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski presents Ventura as dominating the interview conversationally and speaking at length.",
+          "evidence_segment_indices": [
+            12,
+            14,
+            18,
+            19,
+            23,
+            24
+          ],
+          "start_seconds": 25.6,
+          "end_seconds": 60.239
+        },
+        {
+          "point": "Ventura proposed paying for Baron Trump’s military clothing if he served and discussed height-related uniform concerns.",
+          "evidence_segment_indices": [
+            31,
+            32,
+            34,
+            36,
+            38,
+            40,
+            51
+          ],
+          "start_seconds": 71.04,
+          "end_seconds": 121.36
+        },
+        {
+          "point": "Ventura separated criticism of Israel’s government from hostility toward Jewish people and defended criticism of government policy.",
+          "evidence_segment_indices": [
+            179,
+            182,
+            186,
+            191,
+            194,
+            196,
+            198,
+            204,
+            205
+          ],
+          "start_seconds": 390.56,
+          "end_seconds": 448.0
+        },
+        {
+          "point": "Kulinski argues that Democrats and Republicans are not politically equivalent and urges opposition to Republican control.",
+          "evidence_segment_indices": [
+            118,
+            120,
+            123,
+            128,
+            130,
+            143,
+            144
+          ],
+          "start_seconds": 267.68,
+          "end_seconds": 324.72
+        },
+        {
+          "point": "The episode concludes by recommending the full interview and praising Ventura’s directness and campaign appeal.",
+          "evidence_segment_indices": [
+            211,
+            212,
+            231,
+            237,
+            242,
+            249,
+            252
+          ],
+          "start_seconds": 457.36,
+          "end_seconds": 554.72
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "6cab5f9bb8568d64206cbe0aaa022ead6131834e2eedc551c4995b10cef8cd09",
+      "transcript_captured_at": "2026-10-28T00:03:10.700312Z",
+      "summary_generated_at": "2026-10-28T00:08:15.001520Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains automatic-caption defects, including inconsistent spellings of names and terms such as “Gestapo” and “antisemitic.”",
+        "The source is a host’s commentary and selected excerpts, not the complete interview or independent documentation.",
+        "Some statements are rhetorical opinions or allegations whose factual basis cannot be established from the supplied transcript alone.",
+        "Speaker attribution is occasionally ambiguous in the captions, especially around brief responses and laughter.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5196,122 +5350,6 @@
         "The transcript presents election results, turnout, polling assessments, oil-market claims, and private adviser views without supporting documentation.",
         "The reported timeframe and references to upcoming elections are source-only and may be difficult to interpret from captions alone.",
         "The episode mixes direct quotations, interview statements, and the host’s commentary, so attribution should be preserved when assessing claims.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "U8XExPsBsf4",
-      "title": "Trump is not happy.",
-      "url": "https://www.youtube.com/watch?v=U8XExPsBsf4",
-      "published_at": "2026-10-25T14:39:13.000000Z",
-      "summary": "Creator Aaron Parnas says Donald Trump reacted angrily on Truth Social after former President Barack Obama drew a larger crowd in Michigan. Parnas describes overnight posts in which Trump criticized Obama’s presidency, alleged that Obama paid Iran billions, attacked Hillary Clinton and Kamala Harris, and suggested that candidates endorsed by Obama lose. The episode also contrasts coverage of Trump’s rally in Georgia with coverage of Obama’s appearance, asserting that networks did not fully cover Trump’s event while covering Obama’s. Parnas interprets these developments as evidence that Trump was unhappy with the previous night’s results and adds a personal judgment about Trump’s attention to Obama. The short transcript provides no direct quotations, links to the cited posts, crowd figures, event details, network names, or independent confirmation of the allegations. Its claims therefore reflect the creator’s characterization of events and require outside verification.",
-      "topics": [
-        "Trump’s Truth Social reaction",
-        "Obama rally crowd comparison",
-        "Claims about Obama’s presidency",
-        "Media coverage of political rallies"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Trump criticized Obama and made allegations about his presidency, Iran, Clinton, and Harris in overnight Truth Social posts.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "claim": "Obama drew a larger crowd than Trump in Michigan.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3
-          ]
-        },
-        {
-          "claim": "Networks did not fully cover Trump’s Georgia rally while covering Obama’s event.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            14,
-            15,
-            16
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames Trump’s reaction as anger over Obama’s larger Michigan crowd.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            16,
-            17
-          ],
-          "start_seconds": 0.16,
-          "end_seconds": 39.68
-        },
-        {
-          "point": "The reported Truth Social criticism targeted Obama and several other political figures.",
-          "evidence_segment_indices": [
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "start_seconds": 14.719,
-          "end_seconds": 32.239
-        },
-        {
-          "point": "The episode contrasts television coverage of rallies involving Trump and Obama.",
-          "evidence_segment_indices": [
-            14,
-            15,
-            16
-          ],
-          "start_seconds": 29.92,
-          "end_seconds": 38.239
-        },
-        {
-          "point": "The transcript is brief and omits source posts, figures, network identities, and corroboration.",
-          "evidence_segment_indices": [
-            7,
-            14,
-            15,
-            18,
-            19
-          ],
-          "start_seconds": 14.719,
-          "end_seconds": 41.84
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "773c044c1d1260fe9c0278db9b783092dc861d6419442a934e1630571a923469",
-      "transcript_captured_at": "2026-10-25T15:03:06.448183Z",
-      "summary_generated_at": "2026-10-25T15:08:10.249048Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is a short creator narration rather than the underlying social-media posts or event records.",
-        "Crowd-size and media-coverage claims lack figures, named sources, and corroborating details.",
-        "Caption wording includes informal phrasing and at least one apparent name transcription defect.",
-        "Several statements are opinions or interpretations attributed to Parnas, not independently established facts.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
