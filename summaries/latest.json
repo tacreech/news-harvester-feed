@@ -1,11 +1,216 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T23:42:00.373170Z",
+  "generated_at": "2026-10-29T00:12:00.336981Z",
   "reporting_window": {
-    "start": "2026-10-21T23:42:00.373170Z",
-    "end": "2026-10-28T23:42:00.373170Z"
+    "start": "2026-10-22T00:12:00.336981Z",
+    "end": "2026-10-29T00:12:00.336981Z"
   },
   "episodes": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "g4TbJVuR08k",
+      "title": "Nintendo Switch 2 Emulators Might Release Soon...",
+      "url": "https://www.youtube.com/watch?v=g4TbJVuR08k",
+      "published_at": "2026-10-28T23:13:58.000000Z",
+      "summary": "Mutahar of SomeOrdinaryGamers discusses alleged early Nintendo Switch 2 jailbreaking and possible emulation, while emphasizing that several demonstrations remain unverified. He describes a reported entry point through a Switch application and tools said to dump Switch 2 game files, but notes that the console is not fully hacked and that private emulator builds are unavailable for independent testing. The episode also presents NX Native, which Mutahar says can run legally dumped Switch games on iPhones, iPads, and Macs through code translation and native graphics APIs. He reports testing Dragon Quest XI on an iPhone, describing generally near-60-frame performance with occasional shader-related stutters. A separate Mario Kart World demonstration on an iPhone is treated skeptically because of missing graphics, unavailable source code, and possible video manipulation. Mutahar argues that emulation may support game preservation, while warning that piracy concerns could encourage stronger DRM and reduced physical media. He predicts public Switch 2 emulation tools may appear soon, but the source provides no independent confirmation.",
+      "topics": [
+        "Nintendo Switch 2 jailbreaking",
+        "Emulation and native recompilation",
+        "NX Native on Apple devices",
+        "Game preservation and piracy",
+        "Verification of emulator demonstrations"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "NX Native reportedly runs legally dumped Switch games on iPhones, iPads, and Macs, with the creator reporting near-60-frame performance for Dragon Quest XI on an iPhone.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            100,
+            101,
+            102,
+            106,
+            107,
+            114,
+            115,
+            150,
+            155,
+            156,
+            158,
+            160,
+            162,
+            168,
+            176,
+            179,
+            186
+          ]
+        },
+        {
+          "claim": "A reported Mario Kart World demonstration allegedly runs on an iPhone 18 Pro, but Mutahar questions its authenticity because graphics fail to load, source code is unavailable, and footage may be manipulated.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            217,
+            218,
+            220,
+            223,
+            226,
+            227,
+            229,
+            231,
+            233,
+            234,
+            237
+          ]
+        },
+        {
+          "claim": "Tools allegedly enable dumping unencrypted Switch 2 game files, updates, and DLC, potentially providing material for future emulation.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            240,
+            243,
+            244,
+            245,
+            271,
+            274,
+            278,
+            282,
+            289,
+            292,
+            293
+          ]
+        },
+        {
+          "claim": "A private fork of the Eden emulator allegedly runs the Switch 2 exclusive Splatoon Raiders, though the creator says he cannot test or confirm it.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            296,
+            300,
+            301,
+            303,
+            304,
+            307,
+            308,
+            310,
+            313,
+            314
+          ]
+        },
+        {
+          "claim": "Mutahar predicts that a public Switch 2 emulation repository could become available within roughly a week or several weeks.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            441,
+            445,
+            446,
+            447,
+            448,
+            449
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode frames Switch 2 emulation as an emerging possibility rather than an established, fully functional capability.",
+          "evidence_segment_indices": [
+            3,
+            5,
+            6,
+            8,
+            23,
+            24,
+            25,
+            27,
+            237,
+            238
+          ],
+          "start_seconds": 5.359,
+          "end_seconds": 559.92
+        },
+        {
+          "point": "Mutahar reports a personal Switch 1 test using NX Native and Dragon Quest XI on an iPhone, while describing intermittent stutters.",
+          "evidence_segment_indices": [
+            100,
+            106,
+            115,
+            134,
+            150,
+            155,
+            158,
+            160,
+            162
+          ],
+          "start_seconds": 229.12,
+          "end_seconds": 376.72
+        },
+        {
+          "point": "He distinguishes publicly demonstrated Switch 1 native-style projects from unconfirmed Switch 2 footage and private emulator builds.",
+          "evidence_segment_indices": [
+            168,
+            175,
+            176,
+            208,
+            213,
+            214,
+            231,
+            237,
+            303,
+            307,
+            308
+          ],
+          "start_seconds": 386.319,
+          "end_seconds": 722.72
+        },
+        {
+          "point": "The creator presents preservation as a benefit of emulation but says wider piracy fears could lead manufacturers to increase DRM and reduce physical media.",
+          "evidence_segment_indices": [
+            321,
+            324,
+            326,
+            328,
+            332,
+            337,
+            338,
+            357,
+            358,
+            359,
+            386,
+            387
+          ],
+          "start_seconds": 747.92,
+          "end_seconds": 904.32
+        },
+        {
+          "point": "The discussion is explicitly framed by the creator as informational rather than an endorsement of piracy.",
+          "evidence_segment_indices": [
+            31,
+            32,
+            34,
+            37,
+            41,
+            45,
+            47
+          ],
+          "start_seconds": 64.72,
+          "end_seconds": 107.04
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "d0594104dff9f6e9ff727dea7948f18338b567d110e489e5c49cb97b52a3613d",
+      "transcript_captured_at": "2026-10-29T00:03:10.322950Z",
+      "summary_generated_at": "2026-10-29T00:08:15.514314Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is an automated transcript with transcription defects, omissions, profanity placeholders, and several unclear technical terms.",
+        "Most Switch 2 demonstrations are described from third-party footage or private builds that Mutahar says he could not independently test.",
+        "Performance figures and claims about future public releases are creator statements or predictions, not independently established evidence.",
+        "The overview relies only on the supplied episode transcript and does not assess the legality, authenticity, or technical accuracy of the projects discussed.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5116,176 +5321,6 @@
         "Names, places, legal references, and other wording contain apparent caption or transcription errors, including variations of Hinojosa’s name and the Boca Chica reference.",
         "The episode mixes reported events, quoted political advocacy, predictions, commentary, and sponsored material, so their evidentiary status differs.",
         "The transcript provides no opposing response from Abbott, Musk, or relevant agencies.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "Xeya0ZAjwjM",
-      "title": "Bill Maher PANICS As Trump TURNS ON HIM After Chummy Dinner!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=Xeya0ZAjwjM",
-      "published_at": "2026-10-27T00:00:27.000000Z",
-      "summary": "Kyle Kulinski argues that Bill Maher’s repeated dinners with Donald Trump demonstrate an overly conciliatory approach that Trump quickly exploited. The episode contrasts Maher’s account of private conversations—where he describes Trump as attentive, humorous, and willing to discuss disagreements—with Kulinski’s view that the meetings “humanize” Trump and turn Maher into a de facto spokesperson. It also reviews commentary from Stephen A. Smith, who describes a long, hospitable White House visit involving Maher, Trump, Kid Rock, and Smith, with discussion of the economy, foreign policy, and historically Black colleges. Kulinski then highlights Trump’s later hostile post criticizing Maher, presenting the reversal as evidence that the apparent rapport was temporary. The segment concludes by criticizing Maher’s political judgments and promoting Kulinski’s related writing. The source is an opinionated commentary program containing edited clips, strong language, humor, and numerous allegations; it does not independently establish the factual claims discussed.",
-      "topics": [
-        "Bill Maher’s White House dinners with Trump",
-        "Kyle Kulinski’s criticism of political conciliation",
-        "Stephen A. Smith’s account of the visit",
-        "Trump’s subsequent criticism of Maher"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The second White House dinner lasted approximately four and a half hours and included Trump, Maher, Stephen A. Smith, and Kid Rock.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            295,
-            298,
-            307,
-            312,
-            313,
-            314
-          ]
-        },
-        {
-          "claim": "Trump publicly criticized Maher shortly after describing the dinner as positive.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            387,
-            388,
-            389,
-            391,
-            392,
-            393,
-            411,
-            412,
-            613,
-            621,
-            629,
-            630,
-            631
-          ]
-        },
-        {
-          "claim": "The episode recounts a prior 2013 lawsuit by Trump against Maher over a joke about Trump’s birth certificate and says the suit was later dropped.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            29,
-            30,
-            31,
-            32,
-            33,
-            34
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Maher says he sought direct conversation with Trump despite major political disagreements and described Trump as attentive and personable in private.",
-          "evidence_segment_indices": [
-            39,
-            42,
-            43,
-            52,
-            53,
-            56,
-            61,
-            64,
-            74,
-            75,
-            90,
-            97
-          ],
-          "start_seconds": 77.68,
-          "end_seconds": 189.599
-        },
-        {
-          "point": "Stephen A. Smith says the later visit covered policy topics including the economy, foreign policy, and HBCU funding.",
-          "evidence_segment_indices": [
-            312,
-            313,
-            314,
-            315,
-            345,
-            346,
-            347,
-            348,
-            367,
-            368,
-            369
-          ],
-          "start_seconds": 561.92,
-          "end_seconds": 655.76
-        },
-        {
-          "point": "Kulinski interprets the dinners as evidence that Maher is being flattered or used, while Maher presents dialogue itself as worthwhile.",
-          "evidence_segment_indices": [
-            76,
-            77,
-            78,
-            82,
-            83,
-            84,
-            85,
-            86,
-            167,
-            168,
-            320,
-            321,
-            328,
-            331,
-            332,
-            333,
-            334,
-            335,
-            336,
-            337,
-            338,
-            339,
-            340,
-            341
-          ],
-          "start_seconds": 141.68,
-          "end_seconds": 608.64
-        },
-        {
-          "point": "The episode ends by framing Trump’s later attack on Maher as a reversal of the friendly dinner rhetoric.",
-          "evidence_segment_indices": [
-            173,
-            174,
-            175,
-            176,
-            387,
-            388,
-            391,
-            392,
-            393,
-            400,
-            411,
-            412,
-            613,
-            621,
-            629,
-            630,
-            631
-          ],
-          "start_seconds": 326.56,
-          "end_seconds": 1113.039
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "db5da3ab226aabb36bf15701f2df279bfe988209d479b97e7d11015dcc90de5d",
-      "transcript_captured_at": "2026-10-27T01:03:19.688276Z",
-      "summary_generated_at": "2026-10-27T01:08:46.563717Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is caption-derived and contains redactions, misrecognitions, overlapping speakers, and unclear names.",
-        "The program mixes original commentary with excerpts from interviews, podcasts, and other clips, sometimes without clearly marking transitions.",
-        "Allegations about violence, corruption, crime, policy effects, ratings, and audience reactions are presented as commentary and require independent verification.",
-        "The overview reflects only the supplied transcript and does not verify dates, identities, quotations, or external events.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
