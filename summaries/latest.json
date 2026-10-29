@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-29T02:42:00.392668Z",
+  "generated_at": "2026-10-29T09:42:00.326134Z",
   "reporting_window": {
-    "start": "2026-10-22T02:42:00.392668Z",
-    "end": "2026-10-29T02:42:00.392668Z"
+    "start": "2026-10-22T09:42:00.326134Z",
+    "end": "2026-10-29T09:42:00.326134Z"
   },
   "episodes": [
     {
@@ -168,6 +168,258 @@
         "Crowd sizes, rally circumstances, and allegations in the clips are source-reported and require independent verification.",
         "The excerpt provides selected commentary and clips rather than a complete account of the events.",
         "Some references and names are ambiguous because surrounding context is absent.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "nCLtgStISqE",
+      "title": "Trump SEETHING Behind The Scenes Over Obama’s POPULARITY, He is OBSESSED!",
+      "url": "https://www.youtube.com/watch?v=nCLtgStISqE",
+      "published_at": "2026-10-28T23:51:32.000000Z",
+      "summary": "Aaron Parnas argues that Donald Trump is preoccupied with Barack Obama’s visibility and popularity, presenting alleged private frustration alongside contrasting rally-size claims. In conversation with Jessica Tarlov, Parnas and Tarlov assess the approaching election, focusing on Trump’s campaign appearances in Republican-leaning states, the Texas race involving Ken Paxton, and Democratic hopes in several Senate contests. They characterize the races as unusually close and debate whether turnout, third-party candidates, endorsements, and polling will determine outcomes. The discussion also critiques JD Vance’s campaign performance, considers Alexandria Ocasio-Cortez’s effort to reframe attacks about socialism around services and living costs, and reviews claims about political developments in Israel and Brazil. A later segment addresses allegations that federal officials have withheld information from the family of a person fatally shot by immigration agents. The episode is primarily commentary and prediction, with embedded clips, advertising, personal remarks, and captions that contain substantial transcription errors; the overview therefore does not independently validate its factual assertions.",
+      "topics": [
+        "Trump and Obama",
+        "Election and Senate races",
+        "Campaign messaging",
+        "Israel and Brazil",
+        "Immigration accountability"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The episode reports that private sources say Trump is angry about Obama receiving more views, clicks, and rally attendance.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            14,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "claim": "The episode presents specific rally-attendance comparisons in Ohio and Georgia.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim": "The episode reports that a Brazilian investigation concerns alleged contacts between Flavio Bolsonaro’s campaign and Rockbridge Network.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            702,
+            703,
+            705,
+            709,
+            710,
+            711,
+            712,
+            713,
+            715,
+            716,
+            717,
+            718
+          ]
+        },
+        {
+          "claim": "The episode says the family of a Minneapolis nurse fatally shot by federal immigration agents alleges that the administration is withholding investigative information.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            762,
+            763,
+            764,
+            765,
+            766,
+            767,
+            768,
+            769,
+            770,
+            771,
+            772,
+            773
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas and Tarlov discuss the election as a series of close contests where turnout and candidate quality may matter more than traditional state expectations.",
+          "evidence_segment_indices": [
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            187,
+            188,
+            189,
+            190,
+            191
+          ],
+          "start_seconds": 257.519,
+          "end_seconds": 425.759
+        },
+        {
+          "point": "They predict that Democratic messaging focused on costs, health care, schools, and services may be more effective than repeated socialism or communism attacks.",
+          "evidence_segment_indices": [
+            468,
+            469,
+            470,
+            471,
+            472,
+            473,
+            476,
+            480,
+            482,
+            483,
+            484,
+            485,
+            496,
+            497,
+            498,
+            530,
+            531,
+            532,
+            547,
+            548,
+            563,
+            564,
+            571,
+            577
+          ],
+          "start_seconds": 1001.6,
+          "end_seconds": 1250.88
+        },
+        {
+          "point": "The discussion portrays JD Vance’s campaign as weak while speculating that limited scrutiny could affect his future Republican prospects.",
+          "evidence_segment_indices": [
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            244,
+            245,
+            246,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260,
+            271,
+            274
+          ],
+          "start_seconds": 463.84,
+          "end_seconds": 599.76
+        },
+        {
+          "point": "The Israel segment describes an inconclusive political situation and emphasizes uncertainty about coalition formation and future elections.",
+          "evidence_segment_indices": [
+            580,
+            581,
+            582,
+            583,
+            584,
+            585,
+            586,
+            587,
+            588,
+            589,
+            590,
+            602,
+            603,
+            604,
+            605,
+            606,
+            607,
+            608,
+            609,
+            610,
+            688,
+            689,
+            690,
+            691
+          ],
+          "start_seconds": 1252.0,
+          "end_seconds": 1488.08
+        },
+        {
+          "point": "The episode closes with commentary about alleged government opacity after a fatal immigration-agent shooting and criticism of officials’ public descriptions.",
+          "evidence_segment_indices": [
+            764,
+            765,
+            766,
+            767,
+            768,
+            769,
+            770,
+            771,
+            772,
+            773,
+            774,
+            779,
+            780,
+            781,
+            782,
+            783,
+            789,
+            790,
+            791,
+            792,
+            793
+          ],
+          "start_seconds": 1626.24,
+          "end_seconds": 1692.48
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "35167b04200dad20e4c9d882e17050e57c55b39d9443ce175e2797cb68c8ea2f",
+      "transcript_captured_at": "2026-10-29T09:10:10.955255Z",
+      "summary_generated_at": "2026-10-29T09:38:16.953938Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains numerous garbled names, phrases, and apparent caption substitutions, limiting reliable identification of some people and places.",
+        "Many numerical, polling, rally-attendance, election, and international claims are presented as discussion or reported information and are not independently verified here.",
+        "Predictions and interpretations are attributed to the speakers rather than treated as established outcomes.",
+        "The source includes an advertisement and personal or conversational material that are not central to the political overview.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -4968,193 +5220,6 @@
         "Captioning contains transcription errors, omitted profanity, and ambiguous names and phrases.",
         "Several claims are explicitly framed as speculation or inference by the creator rather than established findings.",
         "The supplied material includes no responses from Trump, the White House, DOJ, FBI, or the people mentioned.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "i2YHLM_3CJw",
-      "title": "MAGA In ALL OUT PANIC & Over Midterm COLLAPSE | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=i2YHLM_3CJw",
-      "published_at": "2026-10-27T20:05:17.000000Z",
-      "summary": "Kyle Kulinski argues that Republican candidates are politically vulnerable ahead of the midterms, citing what he describes as Democratic advantages in early voting and repeated awkward or controversial moments. He focuses on rhetoric targeting Muslim and immigrant political figures, including remarks he characterizes as racist, xenophobic, or Islamophobic. Kulinski also discusses a Trump-endorsed candidate’s recorded offensive comments and criticizes Elon Musk–backed advertising that portrays liberals as hostile toward white people. A substantial portion examines Mike Rogers’s difficulty answering whether he is a MAGA Republican, his attacks on Abdul El-Sayed, and competing interpretations of past comments about the Muslim Brotherhood. Kulinski says Rogers’s campaign is relying on artificial or manufactured support and highlights a reportedly empty “Democrats for Mike Rogers” event as evidence of weak enthusiasm. The episode ends with a warning that anti-Muslim rhetoric and Democratic infighting could affect the Michigan race, alongside a call for viewers to vote.",
-      "topics": [
-        "Midterm elections",
-        "Republican campaign rhetoric",
-        "Michigan congressional race",
-        "Political advertising",
-        "Media commentary"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Kulinski says Democrats hold a solid midterm lead and that early-voting figures are highly unfavorable to Republicans.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            54,
-            55,
-            56,
-            57,
-            58,
-            59
-          ]
-        },
-        {
-          "claim": "Kulinski says Trump personally intervened to stop Epstein investigations and that Trump faces a new rape allegation.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21
-          ]
-        },
-        {
-          "claim": "Kulinski says Elon Musk has spent nearly half a billion dollars in the election cycle and is supporting Ken Paxton.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            222,
-            225,
-            226,
-            227,
-            228,
-            229,
-            230,
-            231
-          ]
-        },
-        {
-          "claim": "Kulinski says a pro-Mike Rogers event in Pontiac was effectively empty and uses it as evidence of weak grassroots enthusiasm.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            689,
-            690,
-            691,
-            692,
-            693,
-            694,
-            695,
-            696,
-            699,
-            700,
-            701
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode presents Republican candidates as panicked, politically exposed, and increasingly distanced from Trump.",
-          "evidence_segment_indices": [
-            4,
-            5,
-            10,
-            11,
-            12,
-            13,
-            315,
-            316,
-            317,
-            318,
-            319,
-            320
-          ],
-          "start_seconds": 8.8,
-          "end_seconds": 690.399
-        },
-        {
-          "point": "Kulinski condemns campaign rhetoric portraying Muslim candidates as outsiders, terrorists, or insufficiently American.",
-          "evidence_segment_indices": [
-            65,
-            66,
-            68,
-            69,
-            70,
-            91,
-            92,
-            109,
-            110,
-            111,
-            489,
-            490,
-            491,
-            492,
-            493,
-            494
-          ],
-          "start_seconds": 142.16,
-          "end_seconds": 1037.76
-        },
-        {
-          "point": "Kulinski criticizes Mike Rogers for avoiding direct answers about MAGA affiliation and for calling Abdul El-Sayed extreme without specifying why.",
-          "evidence_segment_indices": [
-            385,
-            386,
-            387,
-            390,
-            391,
-            392,
-            397,
-            398,
-            401,
-            402,
-            403,
-            553,
-            554,
-            555,
-            556,
-            557,
-            558
-          ],
-          "start_seconds": 823.04,
-          "end_seconds": 1151.36
-        },
-        {
-          "point": "The episode argues that racialized advertising and intra-Democratic attacks could shape the Michigan contest.",
-          "evidence_segment_indices": [
-            235,
-            236,
-            237,
-            238,
-            241,
-            242,
-            243,
-            244,
-            245,
-            713,
-            714,
-            715,
-            716,
-            717,
-            718,
-            719,
-            720,
-            721,
-            722,
-            723,
-            724,
-            725,
-            726
-          ],
-          "start_seconds": 489.12,
-          "end_seconds": 1490.559
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "36ba51b49c9b54db0e6b483bf8b837d90f0ef98dbf2a5c474c61f04e3763ef4a",
-      "transcript_captured_at": "2026-10-27T21:33:08.208303Z",
-      "summary_generated_at": "2026-10-27T21:38:14.610624Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains substantial caption defects, profanity redactions, overlaps, and occasional unclear names or phrases.",
-        "The overview reflects the creator’s framing and excerpts presented in the transcript; it does not independently establish the political, legal, polling, spending, or event-related claims.",
-        "Several clips are summarized without their original visual or documentary context.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
