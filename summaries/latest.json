@@ -1,11 +1,466 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-29T20:12:00.363321Z",
+  "generated_at": "2026-10-29T20:42:00.446417Z",
   "reporting_window": {
-    "start": "2026-10-22T20:12:00.363321Z",
-    "end": "2026-10-29T20:12:00.363321Z"
+    "start": "2026-10-22T20:42:00.446417Z",
+    "end": "2026-10-29T20:42:00.446417Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "TMQLJjVMma4",
+      "title": "Dave Rubin Has Completely Lost His Mind | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=TMQLJjVMma4",
+      "published_at": "2026-10-29T20:00:27.000000Z",
+      "summary": "Kyle Kulinski critiques Dave Rubin’s political evolution and responds to an AI-generated video depicting a dystopian future under Democratic Socialists of America (DSA)-aligned politics. Kulinski characterizes Rubin as having moved from liberal commentary to conventional Republican and pro-Trump advocacy, while alleging that Rubin’s positions on Israel, Muslims, and Gaza reflect prejudice and support for violence. He then reviews portions of Rubin’s video, which portray protests, rationing, property seizure, ideological conformity, and social unrest under a hypothetical DSA-led America. Kulinski argues that the video caricatures left-wing politics and says several conditions it depicts are, in his view, more closely associated with the Trump administration, citing alleged immigration detention, due-process violations, border-wall property conflicts, and economic pressures. He also rejects the video’s implication that support for Palestinian rights conflicts with LGBTQ rights. The episode is primarily commentary and ridicule, relying on excerpts and Kulinski’s assertions rather than independently presented documentation.",
+      "topics": [
+        "Dave Rubin",
+        "AI-generated political video",
+        "DSA and political caricature",
+        "Trump administration criticism",
+        "Israel and Gaza"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Kulinski alleges that Dave Rubin defended the bombing of schools during a dispute with The Young Turks and later adopted increasingly conservative and pro-Trump positions.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            4,
+            7,
+            13,
+            14,
+            17,
+            20,
+            27,
+            29,
+            34
+          ]
+        },
+        {
+          "claim": "Kulinski alleges that Trump administration policies have involved gas or diesel rationing, property seizure for border construction, immigration detention, torture, and due-process violations.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            115,
+            119,
+            129,
+            130,
+            140,
+            143,
+            150,
+            156,
+            258,
+            261,
+            263,
+            267,
+            272
+          ]
+        },
+        {
+          "claim": "Kulinski states that 90% of immigrants sent to a detention facility in El Salvador had no criminal record and were tortured or raped.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            261,
+            262,
+            263,
+            264,
+            265
+          ]
+        },
+        {
+          "claim": "Kulinski alleges that Rubin supports or excuses Israeli violence in Gaza and portrays Rubin’s politics as Islamophobic.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            175,
+            176,
+            184,
+            185,
+            194,
+            195,
+            198,
+            223,
+            225,
+            227,
+            228
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames Rubin’s political trajectory as a shift from liberal branding to conservative Republican and pro-Trump advocacy.",
+          "evidence_segment_indices": [
+            4,
+            5,
+            6,
+            23,
+            27,
+            28,
+            29,
+            34
+          ],
+          "start_seconds": 6.56,
+          "end_seconds": 70.799
+        },
+        {
+          "point": "The episode critiques Rubin’s use of AI-generated narration and reviews a video imagining social disorder under DSA influence.",
+          "evidence_segment_indices": [
+            57,
+            63,
+            64,
+            67,
+            68,
+            82,
+            83,
+            93,
+            96,
+            103,
+            109,
+            134,
+            162,
+            205,
+            209,
+            233
+          ],
+          "start_seconds": 112.72,
+          "end_seconds": 541.44
+        },
+        {
+          "point": "Kulinski argues the video presents a distorted caricature of left-wing goals and contrasts it with his stated priorities of equality, justice, healthcare, education, wages, unions, and personal freedom.",
+          "evidence_segment_indices": [
+            211,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220
+          ],
+          "start_seconds": 478.639,
+          "end_seconds": 508.72
+        },
+        {
+          "point": "Kulinski contends that support for LGBTQ rights and opposition to violence against Palestinians are compatible positions.",
+          "evidence_segment_indices": [
+            182,
+            183,
+            184,
+            188,
+            190,
+            200,
+            201,
+            202
+          ],
+          "start_seconds": 407.199,
+          "end_seconds": 458.08
+        },
+        {
+          "point": "The episode ends by portraying Rubin as unwilling to acknowledge the DSA’s stated aims and as defending Israel and right-wing governments.",
+          "evidence_segment_indices": [
+            290,
+            291,
+            293,
+            294,
+            295,
+            296,
+            297,
+            300,
+            301,
+            302
+          ],
+          "start_seconds": 662.399,
+          "end_seconds": 690.16
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "238cb52e61e4d395b93cd905aecab98d157fe9951451febdf6369bd947e76f40",
+      "transcript_captured_at": "2026-10-29T20:33:28.846718Z",
+      "summary_generated_at": "2026-10-29T20:38:37.310983Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The account is a single commentator’s polemical interpretation and does not independently establish the allegations discussed.",
+        "Several captions contain redactions, transcription errors, and ambiguous names or acronyms, including DSA, DFA, and references to detention facilities.",
+        "The reviewed AI-video excerpts are incomplete, so its full context and intended claims cannot be determined from this transcript alone.",
+        "Some historical, polling, policy, and conflict assertions are mentioned without supporting documentation in the source.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "dA1GUNDm8wg",
+      "title": "Elon Musk Is Pure Evil | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=dA1GUNDm8wg",
+      "published_at": "2026-10-29T19:30:04.000000Z",
+      "summary": "Kyle Kulinski argues that Elon Musk’s prominence undermines the idea that extreme wealth reliably reflects superior intelligence, effort, or merit. He portrays Musk’s political involvement and alleged influence over government programs as evidence of an “anti-meritocracy,” while criticizing cuts he attributes to Musk and the Trump administration across aid, research, safety, and public services. Kulinski also challenges Republican criticism of George Soros by presenting an alleged comparison of election spending involving Musk and Soros. He disputes Musk’s past technology and product promises, citing autonomy, robotaxis, Mars travel, Hyperloop, and the Tesla Roadster. The episode concludes with Kulinski advocating a no-billionaires tax, redistribution of wealth, and possible criminal accountability for Musk. The source is a strongly partisan monologue containing numerous inflammatory characterizations, allegations, causal claims, and references to unnamed or quoted reporting; it does not independently establish those claims.",
+      "topics": [
+        "Elon Musk",
+        "Billionaire wealth",
+        "Government cuts",
+        "Election spending",
+        "Tax policy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Kulinski says Musk’s political activity and government-related decisions contributed to cuts affecting public services, research, safety programs, and foreign aid.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            37,
+            41,
+            45,
+            53,
+            60,
+            62,
+            64,
+            89,
+            322,
+            334
+          ]
+        },
+        {
+          "claim": "Kulinski presents figures asserting that Musk spent $759 million on U.S. election campaigns in two years, compared with $624 million attributed to Soros over his lifetime.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            141,
+            142,
+            143,
+            150,
+            152,
+            153,
+            155,
+            156
+          ]
+        },
+        {
+          "claim": "Kulinski repeats estimates that U.S. aid cuts associated with Musk could cause large numbers of deaths, including a cited estimate involving 500,000 children.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            363,
+            365,
+            367,
+            368,
+            369,
+            370,
+            374,
+            375
+          ]
+        },
+        {
+          "claim": "Kulinski alleges that Musk made and failed to meet multiple timelines or promises involving autonomous driving, robotaxis, Mars travel, Hyperloop, and the Tesla Roadster.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            262,
+            263,
+            266,
+            269,
+            270,
+            271,
+            272,
+            276,
+            278,
+            281
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode frames Musk as a counterexample to meritocratic explanations of extreme wealth.",
+          "evidence_segment_indices": [
+            0,
+            5,
+            16,
+            17,
+            396,
+            397
+          ],
+          "start_seconds": 0.32,
+          "end_seconds": 825.2
+        },
+        {
+          "point": "Kulinski links Musk to alleged reductions in domestic programs and international aid, emphasizing humanitarian consequences.",
+          "evidence_segment_indices": [
+            38,
+            42,
+            54,
+            62,
+            323,
+            337,
+            338
+          ],
+          "start_seconds": 85.439,
+          "end_seconds": 704.72
+        },
+        {
+          "point": "The commentary argues that scrutiny of Musk’s political spending should match scrutiny directed at Soros.",
+          "evidence_segment_indices": [
+            130,
+            138,
+            149,
+            161,
+            162
+          ],
+          "start_seconds": 276.88,
+          "end_seconds": 357.52
+        },
+        {
+          "point": "Kulinski proposes eliminating billionaires through taxation and redistributing wealth toward social benefits.",
+          "evidence_segment_indices": [
+            412,
+            416,
+            418,
+            419,
+            420,
+            421
+          ],
+          "start_seconds": 851.839,
+          "end_seconds": 880.399
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "300c79373a152cd04031453d43702f5d987242a6f690364fbbb16f03d9790bb6",
+      "transcript_captured_at": "2026-10-29T20:33:20.988718Z",
+      "summary_generated_at": "2026-10-29T20:38:25.668598Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is an edited automatic caption source with profanity redactions, transcription errors, and occasional unclear names or phrases.",
+        "Many factual claims are presented by Kulinski as allegations, quotations, estimates, or causal interpretations rather than demonstrated findings in the source.",
+        "The episode references charts, Oxfam, Futurism, a documentary, and other speakers, but the underlying materials are not provided here.",
+        "The source reflects one commentator’s strongly partisan perspective and does not provide counterarguments or independent corroboration.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "Oz5cy1jG_50",
+      "title": "Jared Kushner PANICS As Global Criminal Cartel EXPOSED!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=Oz5cy1jG_50",
+      "published_at": "2026-10-29T19:00:19.000000Z",
+      "summary": "Kyle Kulinski discusses allegations attributed to a forthcoming book and a Vanity Fair excerpt concerning Jared Kushner’s finances, foreign-policy dealings, and relationships with Gulf governments. The episode says sources described a Dubai account containing hundreds of millions of dollars, allegedly funded through Azerbaijan, and transfers involving individuals portrayed as a warlord, mercenary, or hitman.【8-23】 It also presents claims that roughly $2 billion was made available to Kushner, possibly in connection with lobbying for regional priorities and normalization with Israel, while noting that the allegations remain unverified in the episode.【55-88】【114-115】 Kulinski connects these claims to other reported or alleged payments, classified-information accusations, and speculation about the killing of journalist Jamal Khashoggi, while emphasizing that some links are questions raised by others rather than established conclusions.【120-153】 He criticizes Kushner’s reported legal threats and argues that foreign money and political influence reveal systemic corruption. The closing discussion alleges that regional investments backfired amid an Iran conflict and energy crisis, but those assertions also receive no independent substantiation here.【248-290】",
+      "topics": [
+        "Jared Kushner allegations",
+        "Foreign funding and diplomacy",
+        "Gulf-state influence",
+        "Legal threats and defamation",
+        "Iran conflict and economic fallout"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A forthcoming book and Vanity Fair excerpt allege that Kushner accessed a Dubai account containing hundreds of millions of dollars, with funds linked to Azerbaijan and transfers to violent or military-linked figures.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            3,
+            8,
+            23,
+            49,
+            58
+          ]
+        },
+        {
+          "claim": "The episode presents an allegation that roughly $2 billion was placed into accounts Kushner could access in exchange for advancing regional agendas with Donald Trump.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            55,
+            62,
+            82,
+            100,
+            106
+          ]
+        },
+        {
+          "claim": "The episode repeats allegations connecting Kushner to classified-information disclosures, Saudi repression, and questions surrounding Jamal Khashoggi’s killing.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            120,
+            132,
+            145,
+            153
+          ]
+        },
+        {
+          "claim": "The episode alleges that Trump’s Iran-related actions caused severe energy and economic consequences and prompted Gulf states to withdraw from investments.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            253,
+            264,
+            277,
+            285
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The discussion is based on a book, an excerpt, named sources, and commentary; the episode does not independently establish the allegations.",
+          "evidence_segment_indices": [
+            3,
+            8,
+            24,
+            114,
+            115
+          ],
+          "start_seconds": 5.52,
+          "end_seconds": 242.72
+        },
+        {
+          "point": "Kushner’s alleged financial arrangements are framed as potentially connected to diplomacy, normalization, and foreign-policy influence.",
+          "evidence_segment_indices": [
+            74,
+            82,
+            88,
+            92
+          ],
+          "start_seconds": 153.84,
+          "end_seconds": 194.0
+        },
+        {
+          "point": "The program links the Kushner allegations to broader accusations involving Trump, Steve Witkoff, Gulf governments, and foreign payments.",
+          "evidence_segment_indices": [
+            89,
+            109,
+            136,
+            158
+          ],
+          "start_seconds": 182.4,
+          "end_seconds": 343.759
+        },
+        {
+          "point": "Kulinski argues that legal threats could draw more attention rather than resolve the underlying allegations.",
+          "evidence_segment_indices": [
+            214,
+            223,
+            228,
+            306
+          ],
+          "start_seconds": 461.599,
+          "end_seconds": 642.8
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "dcf48ea801bac4889530c2c8eba6ff65d2613c185c64f3af20d39ccc9733339e",
+      "transcript_captured_at": "2026-10-29T20:33:12.381349Z",
+      "summary_generated_at": "2026-10-29T20:38:14.278081Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a commentary transcript, not corroborating documentation or an independent investigation.",
+        "Several claims are explicitly described as alleged, attributed to sources, or framed as questions and speculation.",
+        "Caption defects and transcription errors affect names, wording, and some financial or geopolitical references.",
+        "The episode’s assertions about later conflicts, economic effects, and investment withdrawals are not independently substantiated in the supplied material.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4556,682 +5011,6 @@
         "The source is a host’s commentary and selected excerpts, not the complete interview or independent documentation.",
         "Some statements are rhetorical opinions or allegations whose factual basis cannot be established from the supplied transcript alone.",
         "Speaker attribution is occasionally ambiguous in the captions, especially around brief responses and laughter.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "_ffJpqgFWG0",
-      "title": "Tim Dillon FINALLY SNAPS & Calls Republicans THE P*DOPHILE PARTY!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=_ffJpqgFWG0",
-      "published_at": "2026-10-27T22:00:34.000000Z",
-      "summary": "The creator presents Tim Dillon’s reported criticism of Republican figures and Trump-aligned politics, focusing on a campaign advertisement involving allegations of childhood abuse and disputes over how the underlying accusations are characterized. The episode contrasts Dillon’s earlier support for Trump and JD Vance with his current denunciation of what he describes as protection of alleged sexual abusers. The creator adopts and expands that critique, arguing that Republican responses to the advertisement, the Epstein controversy, and alleged misconduct by politicians reflect a broader pattern of partisan denial and protection. He also discusses a reported assault at a rally involving someone wearing an Epstein-files shirt, using it to argue that MAGA supporters have become more hostile and politically insulated. The episode then broadens its criticism to Trump’s foreign-policy record, alleged corruption, and rally conduct, while faulting Dillon for reaching these conclusions later than left-wing critics. The material is commentary and includes numerous allegations, labels, and factual assertions that are not independently established by the transcript.",
-      "topics": [
-        "Tim Dillon’s political criticism",
-        "Ohio campaign advertisement controversy",
-        "Trump and Epstein-related claims",
-        "MAGA movement and rally conduct",
-        "Trump foreign-policy record"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The discussed campaign advertisement characterized a candidate’s family dispute and childhood-abuse allegations in the manner described by the speakers.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            9,
-            10,
-            26,
-            27,
-            28,
-            29,
-            36,
-            39,
-            40,
-            41,
-            154,
-            155,
-            176,
-            177,
-            178,
-            179,
-            180
-          ]
-        },
-        {
-          "claim": "A person wearing an Epstein-files shirt was assaulted at a Trump rally.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            217,
-            220,
-            221,
-            222,
-            223,
-            224,
-            244,
-            245,
-            249,
-            250,
-            251
-          ]
-        },
-        {
-          "claim": "The transcript’s claims about Republican politicians, Trump, Epstein, and alleged sexual crimes are accurate and representative of the broader Republican Party.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            88,
-            89,
-            94,
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            115,
-            117,
-            118,
-            119,
-            120,
-            121,
-            122,
-            126,
-            127,
-            128,
-            129
-          ]
-        },
-        {
-          "claim": "Trump’s first-term military actions included the specific operations and a 432% increase in drone strikes cited by the creator.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            261,
-            262,
-            263,
-            264,
-            265,
-            266,
-            267,
-            268,
-            269,
-            270,
-            271,
-            273,
-            274,
-            275,
-            276,
-            277,
-            278,
-            279,
-            280,
-            281,
-            282,
-            283,
-            284
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode centers on a reported dispute over an advertisement concerning allegations of childhood abuse and the role of family members.",
-          "evidence_segment_indices": [
-            15,
-            16,
-            17,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            38,
-            39,
-            40,
-            41
-          ],
-          "start_seconds": 32.0,
-          "end_seconds": 97.439
-        },
-        {
-          "point": "The creator says Tim Dillon shifted from supporting Trump and JD Vance to calling them protectors of alleged abusers.",
-          "evidence_segment_indices": [
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195
-          ],
-          "start_seconds": 406.4,
-          "end_seconds": 423.44
-        },
-        {
-          "point": "The creator treats the Epstein controversy and reported rally assault as evidence of political denial and escalating hostility, though the transcript supplies no independent documentation.",
-          "evidence_segment_indices": [
-            48,
-            49,
-            50,
-            63,
-            64,
-            65,
-            66,
-            67,
-            217,
-            221,
-            222,
-            223,
-            249,
-            250,
-            251
-          ],
-          "start_seconds": 105.92,
-          "end_seconds": 541.92
-        },
-        {
-          "point": "The episode argues that Trump’s conduct and policies were consistent with earlier warnings from liberal and left-wing critics.",
-          "evidence_segment_indices": [
-            261,
-            262,
-            263,
-            264,
-            285,
-            286,
-            287,
-            288,
-            289,
-            290,
-            291,
-            292,
-            297,
-            298,
-            299,
-            300,
-            301,
-            302,
-            303,
-            304,
-            305,
-            306,
-            307
-          ],
-          "start_seconds": 561.6,
-          "end_seconds": 665.519
-        },
-        {
-          "point": "The creator welcomes Dillon’s changed position but says it came years after similar criticism from the left.",
-          "evidence_segment_indices": [
-            308,
-            309,
-            310,
-            311,
-            312,
-            313,
-            314,
-            315,
-            316,
-            317,
-            318
-          ],
-          "start_seconds": 663.68,
-          "end_seconds": 689.519
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "00f1f1c4ad5a251a308d5dd52b54cd30b12ef521e205b0ce3c2dc5281f25867a",
-      "transcript_captured_at": "2026-10-27T23:03:16.695803Z",
-      "summary_generated_at": "2026-10-27T23:08:32.677365Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is an edited commentary segment, not a source record for the underlying events.",
-        "Automatic captions contain names, wording, and profanity defects that make some references ambiguous.",
-        "Several claims are framed as allegations or opinions, while the transcript provides no corroborating documents or full excerpts of the referenced advertisements.",
-        "The episode offers only source-side coverage and does not include responses from the people or organizations criticized.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "zkw2y-lXEOE",
-      "title": "Trump Allies PANICKED as President GLITCHES, this is the END of the TRUMP ERA!!",
-      "url": "https://www.youtube.com/watch?v=zkw2y-lXEOE",
-      "published_at": "2026-10-27T21:59:05.000000Z",
-      "summary": "Creator Aaron Parnas presents the episode as a pre-election roundup focused on Donald Trump’s Texas rallies, election administration, international political developments, and an interview with former Vice President Kamala Harris. Parnas characterizes Trump’s speech as containing repeated glitches and highlights Trump saying he would accept the election result only if it were “honest.” The episode also reports, based on cited media accounts, that hacking attempts disrupted the Federal Election Commission’s filing system and that Russian influence operations were spreading AI-generated videos. It discusses preliminary Israeli polling, Brazil-related allegations involving a Trump-aligned politician, and possible changes in U.S.-Russia policy. In the interview, Harris describes Democratic voter energy, recommends investigations and accountability over impeachment if Democrats win Congress, and advocates reconsidering institutions including the Supreme Court and Electoral College. The material combines commentary, reported claims, political predictions, and advocacy; several assertions are presented without supporting documentation in the transcript.",
-      "topics": [
-        "U.S. election and Trump campaign",
-        "Election security and foreign influence",
-        "Israel and Brazil politics",
-        "Democratic strategy and institutional reform"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Hacking attempts reportedly took the Federal Election Commission’s electronic filing system offline for nearly 24 hours.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            83,
-            84,
-            85,
-            86,
-            87,
-            88,
-            89
-          ]
-        },
-        {
-          "claim": "A Russian operation called Storm 1516 reportedly spread AI-generated videos containing accusations against Democrats.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            96,
-            97,
-            98,
-            99,
-            100,
-            101
-          ]
-        },
-        {
-          "claim": "Exit polling reportedly projected a major decline in Netanyahu’s governing bloc and no immediate majority for either side.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121,
-            122
-          ]
-        },
-        {
-          "claim": "The U.S. State Department reportedly planned to issue visas to Flavio Bolsonaro and his family while Brazil’s Supreme Court sought his passports in a money-laundering investigation.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas interprets Trump’s repeated speech disruptions as politically concerning and links them to predictions that Republicans could lose congressional power.",
-          "evidence_segment_indices": [
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            62,
-            63,
-            64,
-            65
-          ],
-          "start_seconds": 57.039,
-          "end_seconds": 137.76
-        },
-        {
-          "point": "Trump is quoted saying he would respect election results only if they were honest; Parnas treats the qualification as significant.",
-          "evidence_segment_indices": [
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82
-          ],
-          "start_seconds": 150.56,
-          "end_seconds": 175.44
-        },
-        {
-          "point": "Harris says Democrats should prioritize investigations, accountability, and policy action rather than impeachment if they regain Congress.",
-          "evidence_segment_indices": [
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            210,
-            211,
-            212,
-            213,
-            214,
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224,
-            225
-          ],
-          "start_seconds": 427.36,
-          "end_seconds": 497.199
-        },
-        {
-          "point": "Harris advocates evaluating or changing institutions, including expanding the Supreme Court, considering statehood for Washington, D.C., and Puerto Rico, and reexamining the Electoral College.",
-          "evidence_segment_indices": [
-            345,
-            346,
-            347,
-            348,
-            349,
-            350,
-            351,
-            352,
-            353,
-            354,
-            356,
-            357,
-            358,
-            359,
-            360,
-            361,
-            362,
-            363,
-            364,
-            365,
-            366,
-            367,
-            368,
-            369
-          ],
-          "start_seconds": 790.88,
-          "end_seconds": 856.56
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "7385aac3e1e66fe73219c2d00f81982346378870d4c4c73eba6388b874aa37e6",
-      "transcript_captured_at": "2026-10-27T23:33:10.326535Z",
-      "summary_generated_at": "2026-10-27T23:38:15.561056Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains frequent captioning errors and apparent name distortions, including references to “Kla Harris,” “Ken Pakistan,” and “Flavio Bolsinaro.”",
-        "Several claims are attributed to Reuters, NPR, experts, exit polls, or unnamed officials, but the underlying sources are not included here.",
-        "The transcript does not independently establish the reported hacking, foreign-influence, visa, investigation, polling, or policy claims.",
-        "Predictions about election outcomes and the “end of the Trump era” are commentary or forecasts rather than confirmed results.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "b0oTwctFS2k",
-      "title": "Joe Rogan COMPLETELY SOLD OUT & All of His Fans Know It | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=b0oTwctFS2k",
-      "published_at": "2026-10-27T21:30:39.000000Z",
-      "summary": "Kyle Kulinski argues that Joe Rogan’s public image has deteriorated because Rogan increasingly accepts commercial and political associations that conflict with his earlier presentation as an independent everyman. Kulinski focuses on Rogan’s promotion of DraftKings, contrasting those advertisements with Rogan’s past descriptions of gambling addiction as destructive and comparable to hard-drug dependence. He also discusses a video about comedian Dave Smith, whose audience criticized gambling sponsorships; Smith reportedly removed one sponsor while maintaining that doing so did not reflect a change in principle. Kulinski’s broader criticism is that allowing gambling promotion differs from merely supporting the freedom to gamble, especially when the promoter does not need the income. The episode further links Rogan to Trump-aligned figures and other wealthy guests, presenting these relationships as evidence of a political and ethical “sellout.” The source is commentary built around clips and allegations; it does not independently establish audience trends, financial figures, sponsorship terms, or the claims made about betting platforms.",
-      "topics": [
-        "Joe Rogan’s sponsorships",
-        "Online gambling promotion",
-        "Media independence",
-        "Political and commercial alignment"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Kulinski says Rogan’s popularity, including among young men, fell by about 11 points after Trump’s election.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            2,
-            3,
-            15,
-            16,
-            17,
-            18
-          ]
-        },
-        {
-          "claim": "The episode states that Rogan’s current and previous Spotify deals were each worth about $250 million.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            411,
-            412,
-            413,
-            415,
-            416,
-            417,
-            418,
-            419
-          ]
-        },
-        {
-          "claim": "The episode alleges that betting platforms may ban winners while rewarding heavy losers.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            200,
-            201,
-            202,
-            203
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that gambling-related betting contributed to sports-integrity scandals and game manipulation.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            377,
-            378,
-            379,
-            380,
-            381,
-            382,
-            383,
-            384,
-            385,
-            386,
-            387,
-            388,
-            389,
-            390,
-            391,
-            392,
-            400,
-            401,
-            402,
-            403
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames Rogan’s DraftKings advertising as inconsistent with Rogan’s earlier warnings about gambling addiction.",
-          "evidence_segment_indices": [
-            427,
-            428,
-            429,
-            430,
-            435,
-            436,
-            437,
-            438,
-            439,
-            440,
-            441,
-            442,
-            443,
-            444,
-            445,
-            446,
-            447,
-            448,
-            449,
-            450,
-            451,
-            452,
-            604,
-            605
-          ],
-          "start_seconds": 803.92,
-          "end_seconds": 1137.28
-        },
-        {
-          "point": "The episode distinguishes the freedom to gamble from being paid to promote gambling services.",
-          "evidence_segment_indices": [
-            348,
-            349,
-            350,
-            351,
-            352,
-            353,
-            354,
-            355,
-            356,
-            588,
-            589,
-            590,
-            591,
-            592,
-            593,
-            594,
-            595,
-            596,
-            597,
-            598
-          ],
-          "start_seconds": 647.279,
-          "end_seconds": 1126.24
-        },
-        {
-          "point": "A featured discussion says Dave Smith dropped a gambling sponsor after audience backlash but rejected the claim that the sponsorship compromised his principles.",
-          "evidence_segment_indices": [
-            230,
-            233,
-            234,
-            235,
-            236,
-            237,
-            238,
-            239,
-            240,
-            241,
-            242,
-            243,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251,
-            252,
-            253
-          ],
-          "start_seconds": 443.28,
-          "end_seconds": 482.8
-        },
-        {
-          "point": "Kulinski presents Rogan’s relationships with Trump-aligned figures and wealthy guests as evidence that Rogan is no longer politically independent.",
-          "evidence_segment_indices": [
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            624,
-            625,
-            626,
-            627,
-            628,
-            629,
-            632,
-            633,
-            634,
-            635,
-            636,
-            639,
-            640,
-            641
-          ],
-          "start_seconds": 51.12,
-          "end_seconds": 1209.2
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "5239d40807d45b4066f49fed81c8c8db92927a2caeb383f58c220ad379b5332a",
-      "transcript_captured_at": "2026-10-27T23:03:10.332078Z",
-      "summary_generated_at": "2026-10-27T23:08:19.775383Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains profanity redactions, transcription errors, speaker-label ambiguity, and duplicated or overlapping captions.",
-        "The episode is argumentative commentary using selected clips; the source does not provide independent corroboration for its factual allegations.",
-        "Several figures, sponsorship details, and references to outside reports are asserted without dates, documentation, or enough context to assess accuracy.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
