@@ -1,11 +1,219 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-29T20:42:00.446417Z",
+  "generated_at": "2026-10-29T21:12:00.392633Z",
   "reporting_window": {
-    "start": "2026-10-22T20:42:00.446417Z",
-    "end": "2026-10-29T20:42:00.446417Z"
+    "start": "2026-10-22T21:12:00.392633Z",
+    "end": "2026-10-29T21:12:00.392633Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "xnlVQOmesNM",
+      "title": "Trump LOSES IT on Stage and has MENTAL HEALTH Episode, Republicans Want him to HIDE!!",
+      "url": "https://www.youtube.com/watch?v=xnlVQOmesNM",
+      "published_at": "2026-10-29T20:30:57.000000Z",
+      "summary": "Aaron Parnas argues that a Trump rally in South Carolina showed disorganization and declining enthusiasm shortly before Election Day. He presents Trump’s remarks about Black and Jewish voters, comments about being served meat, and an awkward attempted departure as evidence of what he characterizes as troubling behavior. Parnas also says Republican advisers are concerned, that rallies have been canceled in conservative states such as Kansas, and that Darlene Graham’s South Carolina race has become competitive, though the transcript provides no independent sourcing for those claims. The episode includes footage of protesters and a Fox News interview with a rally attendee who compares the event to a cult, followed by commentary that some attendees came to observe rather than support Trump. A separate segment discusses Republican opposition to Ken Paxton in Texas and includes Paxton rejecting corruption allegations against him and James Talarico. The video also contains a sponsored promotion for a nonpartisan voting assistant. Caption quality is uneven, and several names and statements are unclear.",
+      "topics": [
+        "Trump rally conduct",
+        "South Carolina campaign",
+        "Republican voter reactions",
+        "Ken Paxton allegations",
+        "Voting information promotion"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Rallies were canceled in Kansas because of Trump’s declining support or behavior.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            6,
+            7,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "claim": "Darlene Graham’s South Carolina race is a tossup and Republicans are unnerved.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            18,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "claim": "Advisers panicked over Trump’s remarks about Black and Jewish voters.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            60,
+            61,
+            62,
+            63,
+            64
+          ]
+        },
+        {
+          "claim": "A major protest occurred inside the South Carolina rally, and many attendees were Democrats observing the event.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            106,
+            107
+          ]
+        },
+        {
+          "claim": "The Vote Eat assistant does not sell or share user data and uses verified election databases.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            119,
+            120,
+            121,
+            128,
+            129,
+            132,
+            133,
+            134,
+            135
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas interprets Trump’s South Carolina remarks and stage behavior as signs of mental decline, but this is commentary rather than a clinical assessment.",
+          "evidence_segment_indices": [
+            31,
+            37,
+            38,
+            40,
+            41,
+            42,
+            70,
+            78,
+            79
+          ],
+          "start_seconds": 67.76,
+          "end_seconds": 176.319
+        },
+        {
+          "point": "The video presents Trump’s comments about voting constituencies, meat, and leaving the stage through quoted or replayed footage.",
+          "evidence_segment_indices": [
+            43,
+            44,
+            45,
+            46,
+            47,
+            71,
+            72,
+            73,
+            74,
+            75,
+            182,
+            183,
+            184,
+            185,
+            186
+          ],
+          "start_seconds": 93.04,
+          "end_seconds": 417.44
+        },
+        {
+          "point": "Protesters and at least one interviewed attendee appear at or discuss the rally; Parnas portrays the crowd response as less enthusiastic than expected.",
+          "evidence_segment_indices": [
+            94,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            158,
+            159,
+            160,
+            180,
+            181
+          ],
+          "start_seconds": 204.8,
+          "end_seconds": 397.44
+        },
+        {
+          "point": "The episode contrasts Trump-related criticism with a Texas Republican primary dispute involving Ken Paxton and James Talarico.",
+          "evidence_segment_indices": [
+            204,
+            205,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            224,
+            227,
+            228,
+            229,
+            230,
+            236,
+            237,
+            238,
+            239
+          ],
+          "start_seconds": 445.039,
+          "end_seconds": 516.24
+        },
+        {
+          "point": "A sponsored segment promotes Vote Eat as a free, nonpartisan voting assistant.",
+          "evidence_segment_indices": [
+            109,
+            110,
+            111,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127
+          ],
+          "start_seconds": 256.239,
+          "end_seconds": 297.52
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "0d94a0330ad8a0f7ea4a1d1a35fb8ed25258c8e754513369e776a89785d00e83",
+      "transcript_captured_at": "2026-10-29T21:03:10.851402Z",
+      "summary_generated_at": "2026-10-29T21:08:15.545552Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The captions contain transcription defects, missing words, and unclear names, including references to candidates and locations.",
+        "The transcript identifies statements and commentary but does not independently establish polling, rally cancellations, adviser reactions, attendance composition, or data-privacy claims.",
+        "The opening framing uses mental-health language without clinical evidence or an identified professional assessment.",
+        "The source includes promotional material that is separate from the episode’s political commentary.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4857,160 +5065,6 @@
         "The transcript contains overlapping segments, profanity redactions, and apparent caption defects.",
         "Speaker attribution is sometimes ambiguous, particularly where commentary interrupts quoted footage.",
         "This overview covers only the supplied transcript and does not independently verify its political, financial, legal, or biographical assertions.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "kcfepgGrTVc",
-      "title": "Jesse Ventura ERUPTS AT TRUMP & Leaves Hasan Speechless | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=kcfepgGrTVc",
-      "published_at": "2026-10-27T22:30:19.000000Z",
-      "summary": "Kyle Kulinski reviews Hasan Piker’s interview with Jesse Ventura, portraying Ventura as outspoken, highly talkative, and willing to criticize Donald Trump, Republicans, ICE, and Israel’s government. The episode highlights Ventura’s suggestion that Trump’s son should perform military service, his criticism of Trump’s Vietnam-era nonservice, and his use of “Gestapo” to describe ICE actions in Minneapolis. Ventura also argues that Republicans are anti-constitutional and that government policies should be open to criticism without equating opposition to antisemitism. Kulinski strongly endorses Ventura’s broader political assessment, while asserting that Democrats and Republicans should not be treated as equivalent and urging support for Democrats. He also mentions a discussion of 9/11 conspiracy theories and recommends viewing the full interview. The source is a commentary segment summarizing selected excerpts rather than the complete interview; several claims, characterizations, and references are presented by the speakers without supporting documentation in the transcript.",
-      "topics": [
-        "Jesse Ventura interview",
-        "U.S. elections and parties",
-        "Military service and Donald Trump",
-        "ICE and constitutional criticism",
-        "Israel and antisemitism"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Ventura said Trump avoided military service during the Vietnam War because of bone spurs and contrasted that with his own service.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            153,
-            157,
-            160,
-            164,
-            165
-          ]
-        },
-        {
-          "claim": "Ventura and Kulinski characterized ICE actions in Minneapolis as comparable to the Gestapo.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            58,
-            60,
-            62,
-            65,
-            66
-          ]
-        },
-        {
-          "claim": "Ventura argued that Republicans are fascist and anti-constitutional, citing war and January 6 as examples.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            68,
-            71,
-            72,
-            78,
-            80,
-            83,
-            84
-          ]
-        },
-        {
-          "claim": "Kulinski described Ventura as a prolific 9/11 conspiracy theorist with a television program focused on conspiracy theories.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            216,
-            224,
-            225,
-            226,
-            228,
-            229
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski presents Ventura as dominating the interview conversationally and speaking at length.",
-          "evidence_segment_indices": [
-            12,
-            14,
-            18,
-            19,
-            23,
-            24
-          ],
-          "start_seconds": 25.6,
-          "end_seconds": 60.239
-        },
-        {
-          "point": "Ventura proposed paying for Baron Trump’s military clothing if he served and discussed height-related uniform concerns.",
-          "evidence_segment_indices": [
-            31,
-            32,
-            34,
-            36,
-            38,
-            40,
-            51
-          ],
-          "start_seconds": 71.04,
-          "end_seconds": 121.36
-        },
-        {
-          "point": "Ventura separated criticism of Israel’s government from hostility toward Jewish people and defended criticism of government policy.",
-          "evidence_segment_indices": [
-            179,
-            182,
-            186,
-            191,
-            194,
-            196,
-            198,
-            204,
-            205
-          ],
-          "start_seconds": 390.56,
-          "end_seconds": 448.0
-        },
-        {
-          "point": "Kulinski argues that Democrats and Republicans are not politically equivalent and urges opposition to Republican control.",
-          "evidence_segment_indices": [
-            118,
-            120,
-            123,
-            128,
-            130,
-            143,
-            144
-          ],
-          "start_seconds": 267.68,
-          "end_seconds": 324.72
-        },
-        {
-          "point": "The episode concludes by recommending the full interview and praising Ventura’s directness and campaign appeal.",
-          "evidence_segment_indices": [
-            211,
-            212,
-            231,
-            237,
-            242,
-            249,
-            252
-          ],
-          "start_seconds": 457.36,
-          "end_seconds": 554.72
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "6cab5f9bb8568d64206cbe0aaa022ead6131834e2eedc551c4995b10cef8cd09",
-      "transcript_captured_at": "2026-10-28T00:03:10.700312Z",
-      "summary_generated_at": "2026-10-28T00:08:15.001520Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains automatic-caption defects, including inconsistent spellings of names and terms such as “Gestapo” and “antisemitic.”",
-        "The source is a host’s commentary and selected excerpts, not the complete interview or independent documentation.",
-        "Some statements are rhetorical opinions or allegations whose factual basis cannot be established from the supplied transcript alone.",
-        "Speaker attribution is occasionally ambiguous in the captions, especially around brief responses and laughter.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
