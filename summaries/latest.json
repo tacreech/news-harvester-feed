@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-29T00:42:00.355694Z",
+  "generated_at": "2026-10-29T02:12:00.359006Z",
   "reporting_window": {
-    "start": "2026-10-22T00:42:00.355694Z",
-    "end": "2026-10-29T00:42:00.355694Z"
+    "start": "2026-10-22T02:12:00.359006Z",
+    "end": "2026-10-29T02:12:00.359006Z"
   },
   "episodes": [
     {
@@ -211,6 +211,227 @@
         "The transcript does not independently establish whether quoted posts, broadcasts, or statements occurred as described.",
         "Several claims are presented through the creator’s interpretation, sarcasm, or speculation rather than corroborated evidence.",
         "The source covers one commentator’s account of a political-media controversy and does not provide independent reactions, context, or outcome data.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "ioaqSaTZipo",
+      "title": "Steve Bannon THROWS TANTRUM As TRUMP’S PLANS COLLAPSE!! | The Kyle Kulinski",
+      "url": "https://www.youtube.com/watch?v=ioaqSaTZipo",
+      "published_at": "2026-10-28T23:30:02.000000Z",
+      "summary": "The creator argues that Steve Bannon reacted angrily to Luiz Inácio Lula da Silva’s reported electoral victory in Brazil, presenting it as a setback for an international right-wing alliance. The episode contrasts Bannon’s quoted call for the United States to sever diplomatic and trade ties with Brazil against the creator’s defense of Lula as a populist associated with poverty reduction, infrastructure, social transfers, and environmental protection. The creator also says Bannon and Donald Trump use claims of election theft to prepare supporters to reject unfavorable results, drawing a parallel between Bannon’s Brazil-related commentary and disputes over the 2020 U.S. election. Much of the discussion is polemical: the creator accuses Bannon and Trump of hypocrisy, establishment ties, corruption, and exploiting supporters, while characterizing Lula as genuinely anti-establishment and pro-worker. The transcript includes extensive allegations and political claims without supporting documentation, so the episode is best understood as commentary rather than an independently verified account.",
+      "topics": [
+        "Brazilian politics",
+        "Steve Bannon",
+        "Election narratives",
+        "Donald Trump",
+        "Political commentary"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Lula defeated Flavio Bolsonaro in Brazil’s second-round election and had been banned from Facebook.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            10,
+            11,
+            19,
+            20
+          ]
+        },
+        {
+          "claim": "Lula’s record includes expanding electricity access, direct cash transfers, reducing poverty, and building infrastructure.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ]
+        },
+        {
+          "claim": "Flavio Bolsonaro was investigated over funding allegedly connected to Peter Thiel, JD Vance, and other billionaires.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121
+          ]
+        },
+        {
+          "claim": "Bannon and Trump used or may use election-fraud claims to undermine confidence in future election results.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            64,
+            65,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160
+          ]
+        },
+        {
+          "claim": "Steve Bannon was pardoned by Trump and was involved in a fraud connected to the We Build the Wall fundraising effort.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            238,
+            239,
+            240,
+            241,
+            244,
+            245,
+            246,
+            247,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames Lula’s victory as a defeat for forces aligned with Trump and Bannon.",
+          "evidence_segment_indices": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            14,
+            15,
+            16,
+            17,
+            18,
+            20
+          ],
+          "start_seconds": 8.08,
+          "end_seconds": 49.84
+        },
+        {
+          "point": "Bannon’s quoted response calls for ending diplomatic and trade relations with Brazil and labels its government illegitimate.",
+          "evidence_segment_indices": [
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54
+          ],
+          "start_seconds": 93.28,
+          "end_seconds": 115.92
+        },
+        {
+          "point": "The creator argues that election-fraud rhetoric can preemptively delegitimize unfavorable results.",
+          "evidence_segment_indices": [
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174
+          ],
+          "start_seconds": 302.56,
+          "end_seconds": 348.8
+        },
+        {
+          "point": "The episode attacks Bannon and Trump as insincere anti-establishment figures and contrasts them with the creator’s portrayal of Lula.",
+          "evidence_segment_indices": [
+            93,
+            94,
+            95,
+            96,
+            97,
+            122,
+            123,
+            124,
+            125,
+            126,
+            267,
+            268,
+            269,
+            270,
+            271,
+            272,
+            274,
+            275,
+            276,
+            277,
+            278,
+            279,
+            280
+          ],
+          "start_seconds": 189.76,
+          "end_seconds": 551.04
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "01d78bba13f1365870ee908e9ee19f1bcef5c05689ed8f1256a72a80b3cd7066",
+      "transcript_captured_at": "2026-10-29T02:03:12.176044Z",
+      "summary_generated_at": "2026-10-29T02:08:16.587103Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is an automatic caption record with profanity redactions and several apparent transcription errors, including names and phrases.",
+        "The source contains one speaker’s strongly partisan commentary plus excerpts attributed to Bannon; it does not provide independent corroboration.",
+        "Some election, funding, legal, economic, and policy assertions are presented without dates, documents, or specific source references.",
+        "The transcript alone does not establish whether quoted or paraphrased allegations are accurate.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -5025,242 +5246,6 @@
         "Several assertions are presented by the creator or interviewee without supporting documents in the source.",
         "The source includes promotional material and excerpted remarks, so context may be incomplete.",
         "Attributions and wording around court orders, project details, and election expectations require external verification.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "hMrTNaihqPo",
-      "title": "🚨 Trump's BOMBSHELL Putin Ties Exposed, Intelligence Officials SOUND THE ALARM!!",
-      "url": "https://www.youtube.com/watch?v=hMrTNaihqPo",
-      "published_at": "2026-10-27T14:23:12.000000Z",
-      "summary": "Aaron Parnas argues that reported connections between Donald Trump Jr. and Russian figures warrant scrutiny, focusing on a Financial Times account of a Mongolia hunting trip involving Umar Kremlv, whom the episode describes as a Putin ally, and earlier wedding-related payments. The episode says a former counterintelligence official warned that Russian services could exploit such relationships, while noting that the Justice Department will not investigate the wedding payments and that a House Democrat has opened an inquiry. It then turns to Texas, where a judge reportedly ordered Greg Abbott’s office to provide less-redacted communications with Elon Musk amid a competitive governor’s race and disputes over campaign donations, state incentives, and contracts. Parnas also covers a federal restriction on changes to a Washington golf course, a protest at a Trump rally, and a coming Israeli election. The material is presented as a rapid news commentary, with several allegations and predictions attributed to participants or reports rather than independently established.",
-      "topics": [
-        "Trump family and Russia",
-        "Texas election and Abbott-Musk communications",
-        "Washington golf course litigation",
-        "Trump rally protest",
-        "Israeli election"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A Financial Times investigation reported that Donald Trump Jr. hunted in Mongolia with Umar Kremlv, who was described as a Putin ally and linked to wedding-related payments.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64
-          ]
-        },
-        {
-          "claim": "A former counterintelligence official warned that Russian intelligence services could weaponize relationships involving high-value people.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86
-          ]
-        },
-        {
-          "claim": "A judge ordered Greg Abbott’s office to provide access to communications with Elon Musk after many pages were redacted.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136
-          ]
-        },
-        {
-          "claim": "The episode links Musk’s campaign donation to Abbott with state incentives and reported contracts involving Musk’s companies.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            118,
-            119,
-            120,
-            121,
-            122,
-            139,
-            140,
-            141,
-            142
-          ]
-        },
-        {
-          "claim": "A federal judge restricted further tree removal or other irreparable modifications at a Washington public golf course.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames the Russia-related material as a national-security concern, while citing a reported investigation and an official’s warning.",
-          "evidence_segment_indices": [
-            42,
-            43,
-            44,
-            46,
-            47,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86
-          ],
-          "start_seconds": 92.0,
-          "end_seconds": 183.84
-        },
-        {
-          "point": "The episode says the House Oversight inquiry is proceeding while the Justice Department will not investigate the wedding payments.",
-          "evidence_segment_indices": [
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94
-          ],
-          "start_seconds": 182.72,
-          "end_seconds": 197.36
-        },
-        {
-          "point": "Texas coverage centers on Abbott’s race against Gina Hinojosa and litigation over Abbott-Musk emails.",
-          "evidence_segment_indices": [
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            115
-          ],
-          "start_seconds": 205.76,
-          "end_seconds": 240.4
-        },
-        {
-          "point": "Trump’s day is portrayed as difficult because of the golf-course ruling and a hostile interruption at a Mississippi rally.",
-          "evidence_segment_indices": [
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187
-          ],
-          "start_seconds": 355.12,
-          "end_seconds": 406.56
-        },
-        {
-          "point": "The closing discussion previews an Israeli election and attributes claims of possible rigging to Netanyahu.",
-          "evidence_segment_indices": [
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            222
-          ],
-          "start_seconds": 504.24,
-          "end_seconds": 518.56
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "eb5a1d1dd582e937d8f3f0681169aa4ada89b791d8d8a02353a7b7d2ee0f3344",
-      "transcript_captured_at": "2026-10-27T16:03:07.703812Z",
-      "summary_generated_at": "2026-10-27T16:08:15.781525Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview relies only on the supplied transcript and does not independently verify reported events, legal rulings, names, dates, or financial figures.",
-        "Several captions contain transcription defects, including unclear names, locations, and phrases.",
-        "Some statements are opinions, allegations, predictions, or quoted claims by participants rather than established findings.",
-        "The episode compresses multiple stories and provides limited procedural or documentary detail.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
