@@ -1,11 +1,223 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-29T22:12:00.394584Z",
+  "generated_at": "2026-10-29T23:12:00.368245Z",
   "reporting_window": {
-    "start": "2026-10-22T22:12:00.394584Z",
-    "end": "2026-10-29T22:12:00.394584Z"
+    "start": "2026-10-22T23:12:00.368245Z",
+    "end": "2026-10-29T23:12:00.368245Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "zQ6lnpnMUPg",
+      "title": "FOX NEWS IS GIGA-F*CKED | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=zQ6lnpnMUPg",
+      "published_at": "2026-10-29T21:30:42.000000Z",
+      "summary": "Kyle Kulinski argues that reported declines in Fox News viewership signal weakening enthusiasm for Republicans before the midterms. He cites preliminary Nielsen figures reportedly obtained by Status, including 1.1 million total-day viewers in October 2026 and 98,000 viewers in the 25–54 demographic, while describing the figures as unusually poor for the network. He also discusses reported declines in prime-time and “Fox & Friends” audiences, alongside claimed increases for rival networks. Kulinski interprets these trends as evidence that conservative audiences are tiring of Donald Trump and that Fox News is adjusting its programming in response, including renewed live rally coverage. He further connects the alleged audience decline to Trump’s criticism of Fox News and to broader economic and political dissatisfaction. The episode concludes with Kulinski predicting a major Democratic midterm victory and alleging that Trump and Republicans may try to undermine the result. These interpretations and predictions are presented by the creator, while the underlying ratings and political claims remain source-reported and require verification.",
+      "topics": [
+        "Fox News ratings",
+        "Republican midterm prospects",
+        "Donald Trump and conservative media",
+        "Political audience trends"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Preliminary Nielsen data reportedly showed Fox News averaging 1.1 million total-day viewers and 98,000 viewers in the 25–54 demographic during October 2026.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "claim": "The episode reports substantial year-over-year declines in Fox News total, prime-time, and key-demographic viewership.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            90,
+            91,
+            92,
+            93,
+            95,
+            96,
+            97,
+            98,
+            104,
+            105,
+            106,
+            109,
+            110,
+            111,
+            112,
+            113
+          ]
+        },
+        {
+          "claim": "The episode reports audience gains for MS NOW and CNN during the same period.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135
+          ]
+        },
+        {
+          "claim": "An anonymous source is reported to have said that Fox News programming directives reflect the view that Trump no longer attracts ratings.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames Fox News’s alleged ratings decline as a warning sign for Republican enthusiasm before the midterms.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "start_seconds": 0.24,
+          "end_seconds": 59.84
+        },
+        {
+          "point": "He argues that conservative audiences may be distancing themselves from Trump and that media outlets are reducing emphasis on him.",
+          "evidence_segment_indices": [
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191
+          ],
+          "start_seconds": 385.919,
+          "end_seconds": 422.319
+        },
+        {
+          "point": "He links the alleged media shift to Trump’s public criticism of Fox News and its coverage choices.",
+          "evidence_segment_indices": [
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158
+          ],
+          "start_seconds": 307.44,
+          "end_seconds": 350.479
+        },
+        {
+          "point": "Kulinski predicts a large Democratic victory and alleges that Trump may attempt to undermine the election outcome.",
+          "evidence_segment_indices": [
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241
+          ],
+          "start_seconds": 481.759,
+          "end_seconds": 527.44
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "f0110e5011f3919ef8df3a4103c0d0f7ab0028ee44838a7a5ca5dd1caae23cfb",
+      "transcript_captured_at": "2026-10-29T23:03:13.653326Z",
+      "summary_generated_at": "2026-10-29T23:08:15.211825Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains numerous captioning defects, including misrecognized names, ratings terms, and network references.",
+        "The cited ratings are described as preliminary and obtained ahead of official release; no source document or methodology is included.",
+        "The creator’s interpretations, allegations, and election predictions are opinions in the episode, not independently established findings.",
+        "The excerpt provides only the creator’s account and does not include responses from Fox News or the named networks.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4821,194 +5033,6 @@
         "Caption transcription contains apparent name, word, and phrase errors, including inconsistent spellings and garbled passages.",
         "The transcript does not provide the full House Judiciary report, the underlying interview materials, or responses from the accused.",
         "The rally segment is fragmentary and its surrounding context is limited.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "GAE1YwoFFVI",
-      "title": "Sony And Playstation Keep Getting Hacked...",
-      "url": "https://www.youtube.com/watch?v=GAE1YwoFFVI",
-      "published_at": "2026-10-27T23:36:06.000000Z",
-      "summary": "The creator argues that recent PlayStation firmware breaches have enabled community-built jailbreak, emulation, Linux, and homebrew projects that expand what PS5 hardware can do. He presents PS2 and PS3 emulation, disc-based game installation, trophy integration, private online services, GameCube and Wii support, and improved GTA 4 performance as examples, while acknowledging that compatibility and performance remain uneven. He frames these developments as a backlash against Sony’s reduced support for physical media and backwards compatibility, and predicts that a future hypervisor exploit could create major risks around newly released games. The episode also discusses alleged PlayStation family-account abuse and a reported data exposure involving Sony’s Japanese ISP Sonet, while advising viewers to review spending limits and account security. Overall, the creator’s perspective is strongly hostile toward Sony and sympathetic to modding, but several technical, security, and leak-related assertions are presented as personal reports, possibilities, or machine-translated information rather than independently established facts.",
-      "topics": [
-        "PlayStation jailbreaks and firmware",
-        "Console emulation and backwards compatibility",
-        "Physical media and digital ownership",
-        "Sony security allegations",
-        "Hypervisor exploit risks"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The creator reports that PlayStation firmware 13.6 was breached and that related jailbreak methods enable PS2/PS3 emulation and other homebrew features.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            24,
-            25,
-            26,
-            39,
-            40,
-            45,
-            63,
-            64,
-            96,
-            97,
-            148,
-            158
-          ]
-        },
-        {
-          "claim": "The creator reports an alleged PlayStation family-account exploit that could add unauthorized child accounts and potentially access a family manager’s wallet.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            458,
-            460,
-            465,
-            470,
-            472,
-            510,
-            511,
-            512,
-            514,
-            518,
-            522
-          ]
-        },
-        {
-          "claim": "The creator reports that more than 2.58 million Sonet members had personal information exposed, while noting that the account is based partly on machine translation.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            527,
-            532,
-            538,
-            539,
-            543,
-            545,
-            550,
-            554,
-            555
-          ]
-        },
-        {
-          "claim": "The creator speculates that a hypervisor exploit could allow purchased GTA 6 data to be dumped and run through emulation.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            313,
-            315,
-            323,
-            325,
-            326,
-            328,
-            330,
-            332,
-            625,
-            628,
-            629
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator showcases community projects that allegedly add multi-generation emulation, enhancements, private online play, and Linux support to jailbreakable PS5 systems.",
-          "evidence_segment_indices": [
-            49,
-            50,
-            63,
-            64,
-            87,
-            89,
-            189,
-            190,
-            268,
-            272
-          ],
-          "start_seconds": 108.72,
-          "end_seconds": 633.04
-        },
-        {
-          "point": "He says PS2 emulation is comparatively polished, while PS3 emulation remains inconsistent and game-dependent.",
-          "evidence_segment_indices": [
-            72,
-            80,
-            81,
-            113,
-            121,
-            161,
-            162,
-            163,
-            176,
-            180
-          ],
-          "start_seconds": 164.879,
-          "end_seconds": 412.0
-        },
-        {
-          "point": "He argues that community projects demonstrate capabilities Sony could have offered through stronger backwards compatibility and physical-media support.",
-          "evidence_segment_indices": [
-            104,
-            106,
-            107,
-            108,
-            113,
-            184,
-            199,
-            205,
-            206,
-            414,
-            417
-          ],
-          "start_seconds": 237.519,
-          "end_seconds": 968.48
-        },
-        {
-          "point": "He recommends account-protection measures including spending limits, password and passkey changes, and two-factor authentication.",
-          "evidence_segment_indices": [
-            514,
-            515,
-            516,
-            521,
-            522,
-            598,
-            599,
-            600
-          ],
-          "start_seconds": 1174.96,
-          "end_seconds": 1361.44
-        },
-        {
-          "point": "The episode closes with the creator predicting continued conflict between Sony and console-modding communities while expressing support for preserving physical media.",
-          "evidence_segment_indices": [
-            379,
-            380,
-            381,
-            383,
-            384,
-            387,
-            388,
-            637,
-            639,
-            653,
-            654
-          ],
-          "start_seconds": 884.24,
-          "end_seconds": 1483.36
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "c85c0d5ef463d0cdadb3fdae9bda74d53f31dbd8e27c9cc06cb94e8503052a7e",
-      "transcript_captured_at": "2026-10-28T01:33:07.901802Z",
-      "summary_generated_at": "2026-10-28T01:38:18.955623Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains frequent caption errors, profanity substitutions, and uncertain names for projects and technical components.",
-        "Several security and data-exposure statements are explicitly described as alleged, reported, unconfirmed, or machine-translated.",
-        "The source is a single creator’s commentary and demonstrations; it does not independently establish the status, legality, safety, or reproducibility of the described exploits.",
-        "Predictions about GTA 6, future hypervisor exploits, PC releases, and Sony’s response are speculative.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
