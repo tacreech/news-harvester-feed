@@ -1,11 +1,178 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-29T02:12:00.359006Z",
+  "generated_at": "2026-10-29T02:42:00.392668Z",
   "reporting_window": {
-    "start": "2026-10-22T02:12:00.359006Z",
-    "end": "2026-10-29T02:12:00.359006Z"
+    "start": "2026-10-22T02:42:00.392668Z",
+    "end": "2026-10-29T02:42:00.392668Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "7V5W0TiRnSU",
+      "title": "Obama ENDS Republican Hopes and TEARS Into Trump, MAGA is SCRAMBLING!!",
+      "url": "https://www.youtube.com/watch?v=7V5W0TiRnSU",
+      "published_at": "2026-10-29T01:19:00.000000Z",
+      "summary": "Aaron Parnas presents a commentary episode contrasting Barack Obama’s remarks at a Georgia event with Donald Trump’s appearance in Ohio. Parnas says Obama criticized Trump and the White House over reported attention to gold decorations, economic pressures, tariffs, and a government response to an Obama joke about the Cheesecake Factory. The excerpt includes Obama alleging corruption, self-enrichment, favoritism toward the president’s family, and insufficient Republican oversight; these are presented as Obama’s accusations, not independently established facts. Parnas also emphasizes his interpretation that Obama’s large crowd could benefit Democrats in Georgia, while Trump reportedly appeared before a much smaller audience. The episode further depicts Trump discussing protesters and alleging that some were paid. It closes with Parnas urging viewers to share and subscribe. The transcript is a selected, sometimes fragmented set of clips and narration, so it does not independently establish crowd sizes, alleged conduct, or the broader political context.",
+      "topics": [
+        "Obama’s criticism of Trump",
+        "Georgia political rally",
+        "White House and economic claims",
+        "Trump’s Ohio appearance"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Obama’s remarks concerned gold decorations in the Oval Office and criticized the administration’s priorities during war and high prices.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            31,
+            33,
+            34,
+            36,
+            37,
+            39,
+            40
+          ]
+        },
+        {
+          "claim": "Obama alleged corruption, self-enrichment, favoritism toward the president’s family, and inadequate Republican oversight.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            59,
+            61,
+            62,
+            119,
+            121,
+            123,
+            127,
+            131,
+            133,
+            138
+          ]
+        },
+        {
+          "claim": "Obama addressed a government response to his Cheesecake Factory joke, including an alleged Treasury Secretary appearance outside the restaurant.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            49,
+            50,
+            51,
+            72,
+            75,
+            76,
+            78,
+            87,
+            88,
+            93,
+            97
+          ]
+        },
+        {
+          "claim": "Parnas reported that Obama drew more than 10,000 people in Georgia while Trump filled roughly 1,000 seats in Ohio.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim": "Trump alleged that protesters were paid, including a reference to a $250 payment.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            175,
+            176,
+            177,
+            184,
+            185,
+            186,
+            187
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode is framed as a contrast between Obama’s Georgia event and Trump’s Ohio appearance.",
+          "evidence_segment_indices": [
+            10,
+            12,
+            14,
+            15,
+            16,
+            17,
+            18,
+            190,
+            191
+          ],
+          "start_seconds": 20.08,
+          "end_seconds": 622.8
+        },
+        {
+          "point": "Obama’s featured criticism focuses on priorities, prices, tariffs, corruption, and alleged conflicts of interest.",
+          "evidence_segment_indices": [
+            33,
+            39,
+            40,
+            52,
+            53,
+            55,
+            56,
+            59,
+            61,
+            119,
+            122,
+            127
+          ],
+          "start_seconds": 65.119,
+          "end_seconds": 357.52
+        },
+        {
+          "point": "Parnas interprets Obama’s reception as potentially helpful to Democrats in Georgia.",
+          "evidence_segment_indices": [
+            11,
+            12,
+            13
+          ],
+          "start_seconds": 21.84,
+          "end_seconds": 30.56
+        },
+        {
+          "point": "The closing asks viewers to share, subscribe, and follow the creator’s podcast content.",
+          "evidence_segment_indices": [
+            22,
+            23,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199
+          ],
+          "start_seconds": 44.48,
+          "end_seconds": 640.8
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "cda9ef0bbc80ec7b12ea96c6306cea57076c20944ccbed91618b7700e5eaa1a4",
+      "transcript_captured_at": "2026-10-29T02:33:13.067387Z",
+      "summary_generated_at": "2026-10-29T02:38:15.273705Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains fragmented captions, overlaps, repetitions, and apparent transcription errors.",
+        "Crowd sizes, rally circumstances, and allegations in the clips are source-reported and require independent verification.",
+        "The excerpt provides selected commentary and clips rather than a complete account of the events.",
+        "Some references and names are ambiguous because surrounding context is absent.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mike Figueredo — The Humanist Report",
       "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
@@ -4988,264 +5155,6 @@
         "The transcript contains substantial caption defects, profanity redactions, overlaps, and occasional unclear names or phrases.",
         "The overview reflects the creator’s framing and excerpts presented in the transcript; it does not independently establish the political, legal, polling, spending, or event-related claims.",
         "Several clips are summarized without their original visual or documentary context.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "XYmPbRPhhDc",
-      "title": "Trump CRASHES OUT, Throws ‘TANTRUM’ as Courts REBUKE his Dreams, he is FURIOUS",
-      "url": "https://www.youtube.com/watch?v=XYmPbRPhhDc",
-      "published_at": "2026-10-27T17:48:57.000000Z",
-      "summary": "Aaron Parnas frames the episode as a critique of Donald Trump’s reported efforts to reshape Washington, arguing that court resistance to a proposed golf-course renovation and delays involving a large arch have fueled presidential frustration. The creator alleges that tree removal and the arch could affect Arlington National Cemetery sites, while also portraying voters as dissatisfied with economic conditions. The episode includes Vice President JD Vance discussing gas prices and inflation, followed by a voter’s demand for lower living costs. Its central interview is with retired Judge Jeremy Fogel, who describes the federal judiciary as resilient but under severe pressure from hostile rhetoric, threats, rapid executive action, and alleged noncompliance with court orders. Fogel argues that courts are being forced to constrain executive power while Congress is insufficiently active, and says uncertainty about Justice Department representations has damaged judicial confidence. He declines firm predictions, suggesting elections could influence congressional behavior. The transcript alone does not establish the episode’s factual allegations.",
-      "topics": [
-        "Trump and Washington projects",
-        "Federal judiciary and executive power",
-        "Economic concerns and voter sentiment",
-        "Court compliance and DOJ trust"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Courts repeatedly blocked or restricted Trump’s proposed Washington golf-course project.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            29,
-            30,
-            31,
-            32,
-            44,
-            45,
-            46,
-            47,
-            49,
-            66
-          ]
-        },
-        {
-          "claim": "A proposed 250-foot arch could cast shadows over Arlington National Cemetery graves, monuments, and memorials.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79
-          ]
-        },
-        {
-          "claim": "Trees were cut despite a court instruction not to make major changes to the golf course.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            490,
-            491,
-            492,
-            493,
-            494,
-            495,
-            496
-          ]
-        },
-        {
-          "claim": "Federal judges have reported noncompliance with court orders and diminished trust in DOJ representations.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            434,
-            437,
-            438,
-            439,
-            440,
-            441,
-            442,
-            453,
-            454,
-            455,
-            456,
-            461,
-            462,
-            463,
-            467,
-            468,
-            472,
-            473,
-            477,
-            478,
-            479
-          ]
-        },
-        {
-          "claim": "The episode presents voter dissatisfaction with prices and the economy as a broader political trend.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            85,
-            86,
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            113,
-            114,
-            120,
-            121,
-            123
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator’s main argument links reported project setbacks to Trump’s political messaging and frustration.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            7,
-            8,
-            66,
-            67,
-            68
-          ],
-          "start_seconds": 0.08,
-          "end_seconds": 154.239
-        },
-        {
-          "point": "The episode highlights alleged effects of a proposed arch on Arlington memorials and burial sites.",
-          "evidence_segment_indices": [
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            77,
-            78,
-            79
-          ],
-          "start_seconds": 152.16,
-          "end_seconds": 179.84
-        },
-        {
-          "point": "Vance’s remarks on gas prices and inflation are contrasted with a voter’s focus on living costs.",
-          "evidence_segment_indices": [
-            86,
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            113,
-            114,
-            120,
-            121,
-            123
-          ],
-          "start_seconds": 193.12,
-          "end_seconds": 287.199
-        },
-        {
-          "point": "Judge Fogel describes courts as resilient but strained by executive speed, threats, and institutional pressure.",
-          "evidence_segment_indices": [
-            180,
-            184,
-            185,
-            186,
-            187,
-            192,
-            194,
-            195,
-            196,
-            197,
-            239,
-            240,
-            241,
-            247,
-            248,
-            249,
-            258,
-            259
-          ],
-          "start_seconds": 403.12,
-          "end_seconds": 590.32
-        },
-        {
-          "point": "Fogel argues that congressional inactivity leaves the judiciary carrying more of the burden of checking executive power.",
-          "evidence_segment_indices": [
-            264,
-            265,
-            266,
-            271,
-            272,
-            273,
-            275,
-            276,
-            279,
-            280,
-            281,
-            282,
-            284,
-            285,
-            286
-          ],
-          "start_seconds": 595.6,
-          "end_seconds": 656.079
-        },
-        {
-          "point": "Fogel says elections could affect congressional responses but avoids predicting the outcome.",
-          "evidence_segment_indices": [
-            500,
-            501,
-            502,
-            503,
-            504,
-            505,
-            506,
-            507,
-            508,
-            509,
-            511,
-            512,
-            514,
-            515,
-            516,
-            517,
-            518,
-            519
-          ],
-          "start_seconds": 1132.64,
-          "end_seconds": 1176.72
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "d1629982b658b66dcbc70d4b63cd27c0fef4ad4c6212d8b008b94c1d263b875d",
-      "transcript_captured_at": "2026-10-27T18:33:07.828569Z",
-      "summary_generated_at": "2026-10-27T18:38:16.391282Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains apparent captioning errors and garbled names or phrases.",
-        "Several assertions are presented by the creator or interviewee without supporting documents in the source.",
-        "The source includes promotional material and excerpted remarks, so context may be incomplete.",
-        "Attributions and wording around court orders, project details, and election expectations require external verification.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
