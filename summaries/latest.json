@@ -1,11 +1,231 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T15:12:00.393349Z",
+  "generated_at": "2026-10-30T15:42:00.331878Z",
   "reporting_window": {
-    "start": "2026-10-23T15:12:00.393349Z",
-    "end": "2026-10-30T15:12:00.393349Z"
+    "start": "2026-10-23T15:42:00.331878Z",
+    "end": "2026-10-30T15:42:00.331878Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "WC8LibQpSIc",
+      "title": "Trump is in FULL PANIC MODE ahead of Midterms, Prepares MASSIVE Attack as Voters TURN",
+      "url": "https://www.youtube.com/watch?v=WC8LibQpSIc",
+      "published_at": "2026-10-30T14:20:43.000000Z",
+      "summary": "Aaron Parnas argues that Donald Trump’s campaign appears unsettled four days before the midterms, citing cancelled and reinstated rallies, a cancelled JD Vance event, reported Republican concerns about congressional losses, and unfavorable polling claims. The episode also presents Vance’s discussion of housing affordability and interprets his criticism of Republicans’ attention to cost-of-living pressures as possible political positioning. Parnas then links the domestic election narrative to alleged post-election military options involving Iran, reported attacks affecting shipping in the Strait of Hormuz, and claims that Iranian lawmakers are advocating a nuclear weapon. The episode further discusses an alleged $6.3 billion Binance hack attributed by research firms to North Korea, alongside the Trump family’s reported crypto connections. Parnas frames Tuesday as a decisive moment for both congressional oversight and potential foreign-policy escalation, while urging viewers to vote. These accounts are presented through commentary and cited-but-unverified reports; caption errors and unclear wording limit confidence in several details.",
+      "topics": [
+        "Midterm election strategy",
+        "Republican campaign prospects",
+        "Housing affordability",
+        "Iran tensions",
+        "North Korea and cryptocurrency"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Trump cancelled and then reinstated campaign rallies, while JD Vance cancelled a Minnesota event, indicating campaign uncertainty.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            2,
+            3,
+            8,
+            9,
+            38,
+            39,
+            62,
+            71,
+            72
+          ]
+        },
+        {
+          "claim": "Reported polling and Republican commentary indicate possible Republican losses in several races.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            46,
+            47,
+            49,
+            76,
+            77,
+            78,
+            84,
+            85,
+            89,
+            92,
+            94,
+            95,
+            96,
+            105,
+            106,
+            107
+          ]
+        },
+        {
+          "claim": "U.S. and Israeli officials reportedly prepared options for strikes against Iran after the election.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            173,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186
+          ]
+        },
+        {
+          "claim": "A $6.3 billion Binance hack was attributed by research firms to North Korea, which allegedly uses stolen cryptocurrency to support weapons programs.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258
+          ]
+        },
+        {
+          "claim": "Multiple reported maritime incidents and casualties indicate escalating danger around the Strait of Hormuz.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            201,
+            202,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator interprets shifting rally plans and party warnings as signs of Republican electoral anxiety.",
+          "evidence_segment_indices": [
+            10,
+            11,
+            12,
+            62,
+            67,
+            68,
+            69,
+            70,
+            76,
+            78,
+            79
+          ],
+          "start_seconds": 24.08,
+          "end_seconds": 190.64
+        },
+        {
+          "point": "Vance acknowledged affordability problems facing young people and said Republicans do not pay enough attention to them.",
+          "evidence_segment_indices": [
+            112,
+            113,
+            114,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            145,
+            148,
+            149,
+            150,
+            151,
+            152,
+            160,
+            161,
+            162
+          ],
+          "start_seconds": 258.32,
+          "end_seconds": 358.88
+        },
+        {
+          "point": "The episode connects election timing with alleged military planning and diplomatic activity involving Iran.",
+          "evidence_segment_indices": [
+            169,
+            170,
+            171,
+            172,
+            173,
+            177,
+            180,
+            181,
+            183,
+            186,
+            192,
+            193,
+            194,
+            195,
+            196
+          ],
+          "start_seconds": 369.12,
+          "end_seconds": 428.16
+        },
+        {
+          "point": "The creator presents the Binance incident and North Korea’s military activity as additional security concerns.",
+          "evidence_segment_indices": [
+            250,
+            251,
+            254,
+            255,
+            257,
+            258,
+            266,
+            267,
+            268,
+            270,
+            271,
+            272
+          ],
+          "start_seconds": 543.839,
+          "end_seconds": 596.72
+        },
+        {
+          "point": "Parnas urges viewers to vote and frames Tuesday as consequential for congressional checks on future policy.",
+          "evidence_segment_indices": [
+            290,
+            291,
+            292,
+            293,
+            294,
+            296,
+            297,
+            298,
+            299
+          ],
+          "start_seconds": 629.279,
+          "end_seconds": 649.36
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "28778c93058f4582bfde64b477b5300e19b2f415beada9452e9ed7232c951f61",
+      "transcript_captured_at": "2026-10-30T15:33:10.900089Z",
+      "summary_generated_at": "2026-10-30T15:38:15.587901Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is commentary rather than primary reporting, and several claims are attributed to unnamed or external reports not provided here.",
+        "Automatic captions contain numerous apparent transcription errors, including names, locations, and terms such as “Strait of Hormuz.”",
+        "The transcript does not independently establish the polling, military, casualty, maritime, nuclear, or cryptocurrency allegations.",
+        "Some political interpretations, including claims of panic and possible 2028 positioning, are the creator’s analysis rather than directly demonstrated facts.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mike Figueredo — The Humanist Report",
       "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
@@ -4986,173 +5206,6 @@
         "Many allegations are presented through commentary, unnamed sources, or secondary reports and are not independently established here.",
         "The source is a partisan monologue whose interpretations and predictions should be distinguished from attributed reporting.",
         "The transcript alone does not establish the legal status, outcome, or accuracy of the alleged investigations.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "r_yenD-GAL4",
-      "title": "Hasan SUES SCOTT JENNINGS For $72 Million For Defamation!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=r_yenD-GAL4",
-      "published_at": "2026-10-28T20:30:25.000000Z",
-      "summary": "Kyle Kulinski discusses a reported defamation lawsuit in which Hasan Piker seeks more than $72 million from commentator Scott Jennings. Kulinski presents the filing as a response to Jennings’s portrayal of Piker’s remarks about race, lynching, and Democratic politics, while arguing that the remarks were sarcastic or taken out of context. He emphasizes that Piker’s lawyers previously represented Dominion in litigation against Fox News and treats that history as strategically significant. Kulinski also explains his understanding that public-figure defamation cases require proof of knowing or reckless falsity, then predicts that Piker will prevail through an apology, settlement, or trial judgment. The episode frames the dispute as part of a wider conflict over how left-wing figures are portrayed in mainstream media, and Kulinski says the lawsuit could deter similar claims. The transcript provides commentary and excerpts but does not independently establish the lawsuit’s filing, the underlying full context, the legal standard, or likely outcome.",
-      "topics": [
-        "Hasan Piker defamation lawsuit",
-        "Scott Jennings commentary",
-        "Media framing and political rhetoric",
-        "Public-figure defamation standards"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Hasan Piker filed a federal defamation lawsuit against Scott Jennings seeking more than $72 million in damages.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "claim": "Piker’s lawyers previously represented Dominion in litigation that resulted in a $787.5 million Fox News settlement.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            13,
-            14,
-            15,
-            16,
-            17,
-            18
-          ]
-        },
-        {
-          "claim": "The dispute concerns Jennings’s presentation of Piker’s remarks about race and lynching, which Kulinski says were sarcastic and clipped out of context.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            104,
-            108,
-            109,
-            117,
-            132,
-            133,
-            134,
-            135,
-            136,
-            214,
-            215,
-            216,
-            226,
-            227,
-            238,
-            239
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski strongly supports the reported lawsuit and characterizes Jennings’s statements as defamatory allegations rather than legitimate criticism.",
-          "evidence_segment_indices": [
-            23,
-            24,
-            25,
-            26,
-            191,
-            192,
-            203,
-            204,
-            241,
-            254,
-            255,
-            256,
-            257
-          ],
-          "start_seconds": 54.559,
-          "end_seconds": 539.2
-        },
-        {
-          "point": "The episode describes excerpts attributed to Jennings and Piker, including discussion of Piker’s political associations and comments about race-related issues.",
-          "evidence_segment_indices": [
-            104,
-            108,
-            109,
-            110,
-            117,
-            118,
-            119,
-            120,
-            121,
-            125,
-            127,
-            128,
-            143,
-            147,
-            148,
-            152,
-            153
-          ],
-          "start_seconds": 220.799,
-          "end_seconds": 319.6
-        },
-        {
-          "point": "Kulinski says public figures face a difficult burden in defamation cases and identifies malicious intent as central to his explanation.",
-          "evidence_segment_indices": [
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41
-          ],
-          "start_seconds": 68.479,
-          "end_seconds": 96.479
-        },
-        {
-          "point": "Kulinski predicts that Piker will achieve a favorable result and argues the case could discourage future attacks on left-wing figures.",
-          "evidence_segment_indices": [
-            278,
-            279,
-            280,
-            281,
-            282,
-            283,
-            286,
-            287,
-            289,
-            290,
-            291,
-            292,
-            293,
-            298,
-            299,
-            304,
-            305,
-            306
-          ],
-          "start_seconds": 582.24,
-          "end_seconds": 651.76
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "d0a0bc8348d80f67749c64cb7b3dcc741409b824a37ff914fde6d3faf62ae34f",
-      "transcript_captured_at": "2026-10-28T21:03:20.107372Z",
-      "summary_generated_at": "2026-10-28T21:08:27.123433Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains automatic-caption gaps and redactions, including names and profanity, which may obscure wording.",
-        "Only selected excerpts are presented; the full statements, surrounding context, court filings, and opposing account are not included.",
-        "Legal assertions and predictions are presented as episode commentary and require independent verification.",
-        "The transcript does not establish whether the reported lawsuit or any stated damages, settlement, or outcome is legally confirmed.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
