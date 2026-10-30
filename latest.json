@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T13:30:20.614914Z",
+  "generated_at": "2026-10-30T14:00:20.953057Z",
   "reporting_window": {
-    "start": "2026-10-23T13:30:20.614914Z",
-    "end": "2026-10-30T13:30:20.614914Z",
+    "start": "2026-10-23T14:00:20.953057Z",
+    "end": "2026-10-30T14:00:20.953057Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,16 +14,16 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-30T13:30:19.224782Z",
+      "last_successful_poll": "2026-10-30T14:00:19.567063Z",
       "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_new",
-      "discovery_status": "success_new",
-      "last_successful_poll": "2026-10-30T13:30:19.605949Z",
+      "health": "success_no_new",
+      "discovery_status": "success_no_new",
+      "last_successful_poll": "2026-10-30T14:00:19.976790Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-30T13:30:19.905640Z",
+      "last_successful_poll": "2026-10-30T14:00:20.161304Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-30T13:30:20.132300Z",
+      "last_successful_poll": "2026-10-30T14:00:20.402530Z",
       "warnings": []
     },
     {
@@ -50,7 +50,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-30T13:30:20.480495Z",
+      "last_successful_poll": "2026-10-30T14:00:20.805768Z",
       "warnings": []
     }
   ],
@@ -1803,18 +1803,6 @@
       "published_at": "2026-10-23T14:00:52.000000Z",
       "url": "https://www.youtube.com/watch?v=3zjPlUi1g6o",
       "first_seen": "2026-10-23T14:30:51.352847Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "expired"
-    },
-    {
-      "creator": "Mike Figueredo — The Humanist Report",
-      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
-      "video_id": "kkQxIRH3Hw8",
-      "title": "New Ad Calls Out Republicans’ Creepy Obsession with Trans People",
-      "published_at": "2026-10-23T13:59:54.000000Z",
-      "url": "https://www.youtube.com/watch?v=kkQxIRH3Hw8",
-      "first_seen": "2026-10-23T14:00:21.820058Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "expired"
