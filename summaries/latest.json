@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-29T23:42:00.354364Z",
+  "generated_at": "2026-10-30T00:42:00.332949Z",
   "reporting_window": {
-    "start": "2026-10-22T23:42:00.354364Z",
-    "end": "2026-10-29T23:42:00.354364Z"
+    "start": "2026-10-23T00:42:00.332949Z",
+    "end": "2026-10-30T00:42:00.332949Z"
   },
   "episodes": [
     {
@@ -251,6 +251,244 @@
         "Several claims are attributed to Parnas, interviewees, unnamed operatives, or cited reports; the source provides no underlying documents or independent corroboration.",
         "The transcript does not establish that the Army burial exercise was connected to Iran or an imminent conflict.",
         "The episode includes advocacy and promotional segments, which may shape its framing and selection of evidence.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "0DUGcNrRPQ4",
+      "title": "Tim Miller DOG WALKS Charlie Kirk's D Team (It Gets Ugly) | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=0DUGcNrRPQ4",
+      "published_at": "2026-10-29T22:00:00.000000Z",
+      "summary": "Kyle Kulinski reviews Tim Miller’s appearance on a Charlie Kirk-branded program and argues that Miller challenged its hosts more effectively than they challenged him. Kulinski portrays the discussion as centered on immigration enforcement, asylum, alleged abuses in detention, and whether criticism should focus on individual cases or broader administration policy. He says Miller defended enforcement while disputing claims that the political left supports open borders; Kulinski counters that Democrats have supported stricter border legislation. The conversation then turns to affordability, tariffs, foreign policy, and promises attributed to Donald Trump. Miller and Kulinski offer competing explanations for economic conditions and disagree over whether Trump has kept campaign commitments. A later exchange concerns diversity policies, perceived discrimination, and the labels “socialist,” “fascist,” and “imperialist.” Kulinski advocates investigations, legislative action, higher wages, expanded healthcare, debt relief, and labor protections. The episode is highly adversarial and includes insults, sarcasm, and numerous factual assertions presented in debate rather than independently established within the excerpt.",
+      "topics": [
+        "Immigration enforcement",
+        "Trump administration policy",
+        "Economic affordability",
+        "Campaign promises",
+        "Political ideology"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The discussion includes claims that dozens of people died in ICE custody and that detainees experienced severe abuses, including mistreatment of citizens and children.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            121,
+            122,
+            127,
+            128,
+            129,
+            157,
+            158
+          ]
+        },
+        {
+          "claim": "The speakers cite competing economic statistics and attribute changes in wages, prices, factory employment, and household finances to different administrations.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            258,
+            259,
+            260,
+            268,
+            269,
+            270,
+            272,
+            274,
+            275,
+            276,
+            497,
+            502,
+            503,
+            636,
+            637
+          ]
+        },
+        {
+          "claim": "The episode asserts that tariffs and a war involving Iran caused substantial increases in interest rates, fuel prices, and food prices.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            307,
+            308,
+            309,
+            310,
+            311,
+            312,
+            313,
+            314,
+            315,
+            316
+          ]
+        },
+        {
+          "claim": "The discussion makes claims about healthcare coverage losses, hospital closures, food-assistance reductions, and tax benefits under a large legislative package.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            597,
+            598,
+            599,
+            600,
+            601,
+            602,
+            603,
+            604,
+            605,
+            606
+          ]
+        },
+        {
+          "claim": "The speakers dispute whether Trump promised no new wars and whether his administration has kept its campaign commitments.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            430,
+            431,
+            432,
+            434,
+            435,
+            436,
+            437,
+            440,
+            441,
+            442,
+            443,
+            444,
+            453,
+            460,
+            461,
+            464,
+            465,
+            466,
+            470,
+            471,
+            474,
+            475,
+            476,
+            477
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames Miller’s appearance as a confrontation over the priorities and credibility of the program’s hosts.",
+          "evidence_segment_indices": [
+            17,
+            30,
+            31,
+            792,
+            793,
+            798,
+            799
+          ],
+          "start_seconds": 40.719,
+          "end_seconds": 1548.4
+        },
+        {
+          "point": "Immigration is debated through disagreements about asylum, detention, deportation, border sovereignty, and alleged enforcement abuses.",
+          "evidence_segment_indices": [
+            33,
+            34,
+            38,
+            44,
+            46,
+            68,
+            69,
+            80,
+            83,
+            92,
+            93,
+            94,
+            177,
+            178,
+            180,
+            181,
+            184,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            204
+          ],
+          "start_seconds": 74.56,
+          "end_seconds": 408.479
+        },
+        {
+          "point": "The speakers offer contrasting diagnoses of affordability and propose different remedies, including tariffs policy, ending the Iran war, wage increases, unions, and universal healthcare.",
+          "evidence_segment_indices": [
+            247,
+            248,
+            251,
+            252,
+            256,
+            258,
+            272,
+            288,
+            289,
+            292,
+            296,
+            297,
+            304,
+            305,
+            307,
+            317,
+            318,
+            319,
+            320,
+            321,
+            322,
+            340,
+            341,
+            342
+          ],
+          "start_seconds": 490.16,
+          "end_seconds": 679.36
+        },
+        {
+          "point": "The final exchanges focus on competing interpretations of discrimination, socialism, fascism, imperialism, and the political meaning of government intervention.",
+          "evidence_segment_indices": [
+            512,
+            513,
+            514,
+            524,
+            525,
+            526,
+            536,
+            537,
+            542,
+            547,
+            548,
+            549,
+            550,
+            651,
+            655,
+            662,
+            668,
+            670,
+            671,
+            672,
+            731,
+            732,
+            737,
+            741
+          ],
+          "start_seconds": 992.72,
+          "end_seconds": 1443.039
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "731a25d43f88413b0584267c70f9904c0bfd16054b0ced3da4bcffe255c68b2a",
+      "transcript_captured_at": "2026-10-30T00:33:13.711698Z",
+      "summary_generated_at": "2026-10-30T00:38:17.336088Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains substantial caption defects, profanity redactions, speaker-label ambiguity, and apparent transcription errors.",
+        "Many factual claims are made rhetorically by participants and are not corroborated within the source excerpt.",
+        "The excerpt provides commentary and disputed assertions, not a complete record of the underlying interviews, legislation, statistics, or events.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -4893,174 +5131,6 @@
         "The episode presents selected clips and the creator’s interpretations rather than complete source context.",
         "Medical, legal, electoral, financial, and geopolitical allegations remain source-only claims requiring independent verification.",
         "Some quoted remarks are difficult to attribute because speaker labels and transitions are inconsistent.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "kaRgGhqCFhQ",
-      "title": "Chaos ERUPTS as Vance Faces CRIMINAL Probe and Trump Faces HORRIFIC Allegations",
-      "url": "https://www.youtube.com/watch?v=kaRgGhqCFhQ",
-      "published_at": "2026-10-28T14:10:09.000000Z",
-      "summary": "Aaron Parnas presents a rapid overview of allegations and reported developments involving U.S. political figures. He says Brazilian authorities ordered an investigation into whether the Rockbridge Network, founded by JD Vance, provided prohibited support to Flavio Bolsonaro’s campaign; Rockbridge denies involvement, and Vance’s office reportedly declined comment. Parnas also discusses a House Judiciary Democrats’ report containing a former Miss Switzerland’s allegation that Donald Trump raped her in 1993, emphasizing that it remains an allegation. He attributes to Representative Jamie Raskin claims about multiple accusations and an alleged Justice Department cover-up. The episode further criticizes RFK Jr.’s comments about Arab scientific achievement and says Arabs have won major scientific prizes. Finally, Parnas reports that the United States has advised Gulf allies to prepare for possible military action against Iran after the midterm elections, while stressing that Americans are not currently in danger. The source is a creator-led commentary segment, and several claims are attributed to reports or political actors rather than independently established.",
-      "topics": [
-        "Brazil investigation involving Rockbridge Network",
-        "Trump sexual-assault allegation",
-        "RFK Jr. comments about Arabs",
-        "Reported U.S.-Iran military preparations"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Brazilian authorities ordered a criminal investigation into whether Rockbridge Network provided money, staff, services, or other support to Flavio Bolsonaro’s campaign.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            47,
-            48,
-            50,
-            51,
-            52,
-            53,
-            54,
-            57,
-            58,
-            62
-          ]
-        },
-        {
-          "claim": "A House Judiciary Democrats’ report included a former Miss Switzerland’s allegation that Donald Trump raped her in 1993.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119
-          ]
-        },
-        {
-          "claim": "Representative Jamie Raskin said five women had accused Trump of rape or sexual assault and alleged that the Justice Department was covering up crimes.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140
-          ]
-        },
-        {
-          "claim": "The Wall Street Journal reportedly said the United States told Gulf allies to prepare for a brief military campaign against Iran after the midterms.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Rockbridge denies involvement in the alleged Brazilian campaign support, while Vance’s office reportedly declined comment.",
-          "evidence_segment_indices": [
-            63,
-            64,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75
-          ],
-          "start_seconds": 137.599,
-          "end_seconds": 166.879
-        },
-        {
-          "point": "The episode distinguishes the Trump rape allegation from established fact by repeatedly describing it as an allegation.",
-          "evidence_segment_indices": [
-            103,
-            104,
-            105,
-            110,
-            111,
-            131,
-            132,
-            133
-          ],
-          "start_seconds": 226.159,
-          "end_seconds": 304.16
-        },
-        {
-          "point": "Parnas condemns RFK Jr.’s remarks and counters that Arabs have produced scientific achievements, including Nobel-recognized work.",
-          "evidence_segment_indices": [
-            144,
-            147,
-            148,
-            149,
-            150,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170
-          ],
-          "start_seconds": 326.72,
-          "end_seconds": 399.6
-        },
-        {
-          "point": "Parnas says the reported Iran preparations do not mean Americans face immediate danger and rejects online supply-related fear-mongering.",
-          "evidence_segment_indices": [
-            185,
-            186,
-            187,
-            188,
-            194,
-            195,
-            196,
-            197,
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205
-          ],
-          "start_seconds": 425.28,
-          "end_seconds": 469.919
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "789321ecae7adc4dd9a009b9b651937b13be2e0bd3716007755044bb11d25885",
-      "transcript_captured_at": "2026-10-28T15:33:10.324105Z",
-      "summary_generated_at": "2026-10-28T15:38:15.919412Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains apparent caption or recognition errors in names, titles, and wording, including variants of Bolsonaro, Vance, and other proper nouns.",
-        "The overview reflects a single creator’s presentation and cited attributions; it does not independently establish the reported allegations or military preparations.",
-        "Some statements are compressed, incomplete, or ambiguous in the captions, limiting precise interpretation.",
-        "The source provides no underlying documents, responses from all named parties, or corroborating reporting beyond the references mentioned by the creator.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
