@@ -1,11 +1,203 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T08:12:00.401341Z",
+  "generated_at": "2026-10-30T15:12:00.393349Z",
   "reporting_window": {
-    "start": "2026-10-23T08:12:00.401341Z",
-    "end": "2026-10-30T08:12:00.401341Z"
+    "start": "2026-10-23T15:12:00.393349Z",
+    "end": "2026-10-30T15:12:00.393349Z"
   },
   "episodes": [
+    {
+      "creator": "Mike Figueredo — The Humanist Report",
+      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
+      "video_id": "RD7Wwy1HyCk",
+      "title": "MAGA Stunt Showing How Easy it is to Get Away with Voter Fraud Goes HORRIBLY Wrong",
+      "url": "https://www.youtube.com/watch?v=RD7Wwy1HyCk",
+      "published_at": "2026-10-30T13:59:55.000000Z",
+      "summary": "The creator presents a commentary on James O’Keefe and Cameron Higby’s Minnesota voter-vouching stunt, arguing that their prosecution undercuts claims that the system makes voter fraud easy. The episode describes Minnesota’s rules, under which registered voters may vouch for others in their precinct and certain facility employees may vouch for residents, while noting that critics regard the arrangement as vulnerable to abuse. It says O’Keefe and Higby used other people’s names, including names of deceased voters, and were charged with felony offenses, though the transcript does not independently establish the underlying case details or legal outcomes. The creator emphasizes that the stunt allegedly did not produce completed fraudulent votes and contrasts it with broader claims about the rarity of voter fraud. The episode also recounts O’Keefe and Higby’s responses, including allegations of retaliation, lawfare, and threats to journalism. Its later sections broaden into criticism of their political messaging and past activities. The account is highly editorialized and contains several uncited or unclear assertions.",
+      "topics": [
+        "Minnesota voter-vouching rules",
+        "Voter-fraud allegations",
+        "O’Keefe and Higby prosecution",
+        "Political commentary"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "O’Keefe and Higby were charged with felony unlawful-voting and identity-theft counts in Minnesota.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "claim": "The pair allegedly used registered voters’ names, including names of deceased voters, in the stunt.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127
+          ]
+        },
+        {
+          "claim": "Minnesota’s vouching rules allow a same-precinct registered voter to vouch for up to eight people, while residential-facility employees may vouch for residents.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            57,
+            58,
+            59,
+            60
+          ]
+        },
+        {
+          "claim": "The creator reports that approximately 0.6% to 0.7% of voters used vouching in the last election.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            86,
+            87,
+            88,
+            89
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode frames the stunt and resulting prosecution as evidence that voter fraud is not easy to carry out without legal risk.",
+          "evidence_segment_indices": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "start_seconds": 61.44,
+          "end_seconds": 79.119
+        },
+        {
+          "point": "It explains the vouching process and the oath-based accountability described in the source.",
+          "evidence_segment_indices": [
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73
+          ],
+          "start_seconds": 119.759,
+          "end_seconds": 176.64
+        },
+        {
+          "point": "The creator says the stunt did not demonstrate completed fraud under the vouching system, while alleging that the participants nevertheless violated election-related laws.",
+          "evidence_segment_indices": [
+            92,
+            93,
+            94,
+            95,
+            99,
+            100,
+            115,
+            116,
+            117,
+            118,
+            119
+          ],
+          "start_seconds": 211.519,
+          "end_seconds": 274.32
+        },
+        {
+          "point": "O’Keefe and Higby are described as portraying the charges as retaliation or an attack on investigative journalism.",
+          "evidence_segment_indices": [
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            289,
+            290,
+            291,
+            292,
+            293,
+            294,
+            295,
+            296
+          ],
+          "start_seconds": 488.08,
+          "end_seconds": 633.6
+        },
+        {
+          "point": "The episode expands into broader criticism of the pair’s political conduct and media credibility.",
+          "evidence_segment_indices": [
+            182,
+            183,
+            184,
+            185,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            330,
+            331,
+            332,
+            333,
+            343,
+            344
+          ],
+          "start_seconds": 393.68,
+          "end_seconds": 731.04
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "664d5e82b6f4d0e65979cd7291d14353ae1867a2a04b9b15702e40191c20fe04",
+      "transcript_captured_at": "2026-10-30T15:03:10.690320Z",
+      "summary_generated_at": "2026-10-30T15:08:14.853754Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a single highly opinionated commentary source rather than a neutral case record.",
+        "Several statements are attributed to unnamed reports, officials, or outside organizations whose underlying materials are not included.",
+        "Automatic captions contain omissions, profanity placeholders, misrecognitions, and possible name errors.",
+        "The transcript does not establish final court outcomes or independently verify the allegations discussed.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
@@ -4961,220 +5153,6 @@
         "Only selected excerpts are presented; the full statements, surrounding context, court filings, and opposing account are not included.",
         "Legal assertions and predictions are presented as episode commentary and require independent verification.",
         "The transcript does not establish whether the reported lawsuit or any stated damages, settlement, or outcome is legally confirmed.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "DTFXn909Ops",
-      "title": "Netanyahu PANICS As Israeli Election SHOCKS THE WORLD!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=DTFXn909Ops",
-      "published_at": "2026-10-28T20:00:24.000000Z",
-      "summary": "Kyle Kulinski argues that early Israeli election results leave Netanyahu’s Likud as the largest party but short of the 61-seat majority needed to govern, making coalition negotiations decisive. He highlights conflicting projections, with results changing as counting continues, and says Netanyahu’s bloc later stood near 53–55 seats while opposition parties held a potential majority including Arab parties. Kulinski also discusses allegations from Likud that the election was stolen through fraud, presenting them as unverified claims. He contends that replacing Netanyahu would not necessarily change Israel’s broader policies toward Palestinians or Iran, citing statements attributed to Israeli political figures and reports of possible coalition arrangements. Finally, he warns that the United States and Israel may be preparing renewed military action against Iran, while acknowledging uncertainty about Netanyahu’s political survival. The episode is strongly opinionated and relies on reported results, attributed statements, and predictions rather than independently established evidence.",
-      "topics": [
-        "Israeli election results",
-        "Netanyahu coalition prospects",
-        "Election-fraud allegations",
-        "Israel-Iran escalation"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Early election projections showed Likud or Netanyahu’s bloc leading but below the 61 seats required for a Knesset majority.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            6,
-            7,
-            9,
-            10,
-            68,
-            69,
-            70,
-            71,
-            99,
-            100,
-            101
-          ]
-        },
-        {
-          "claim": "Likud alleged widespread electoral fraud, including bribery, intimidation, violence, double voting, and ballot manipulation.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            81,
-            82,
-            83,
-            84,
-            85,
-            86,
-            94,
-            95,
-            96,
-            97,
-            98
-          ]
-        },
-        {
-          "claim": "Trump allies and U.S. officials were discussing arrangements that could keep Netanyahu in power, including a unity government.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            102,
-            103,
-            104,
-            129,
-            130,
-            131,
-            139,
-            140,
-            141,
-            142,
-            143,
-            145,
-            146,
-            154,
-            155
-          ]
-        },
-        {
-          "claim": "The United States and Israel were preparing for renewed military operations against Iran, including possible strikes after the U.S. midterm elections.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            254,
-            255,
-            256,
-            257,
-            258,
-            259,
-            260,
-            261,
-            262,
-            263,
-            264,
-            265,
-            266,
-            267,
-            268
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Netanyahu’s party was projected to lead, but no bloc had clearly secured the governing majority.",
-          "evidence_segment_indices": [
-            9,
-            10,
-            11,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            75
-          ],
-          "start_seconds": 21.279,
-          "end_seconds": 186.8
-        },
-        {
-          "point": "Kulinski argues that anti-Netanyahu alternatives may share important positions on territorial expansion and military policy.",
-          "evidence_segment_indices": [
-            35,
-            36,
-            37,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52
-          ],
-          "start_seconds": 93.6,
-          "end_seconds": 136.16
-        },
-        {
-          "point": "The episode presents Netanyahu’s continued leadership as possible through coalition bargaining despite uncertain results.",
-          "evidence_segment_indices": [
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217
-          ],
-          "start_seconds": 295.6,
-          "end_seconds": 477.759
-        },
-        {
-          "point": "Kulinski predicts that regional escalation with Iran could continue regardless of who leads Israel.",
-          "evidence_segment_indices": [
-            152,
-            153,
-            154,
-            155,
-            156,
-            160,
-            161,
-            311,
-            312,
-            313,
-            314,
-            315,
-            316
-          ],
-          "start_seconds": 333.759,
-          "end_seconds": 666.959
-        },
-        {
-          "point": "He frames the election and regional developments through a strongly critical interpretation of Israeli and U.S. policy.",
-          "evidence_segment_indices": [
-            189,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195,
-            196,
-            197,
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206
-          ],
-          "start_seconds": 414.16,
-          "end_seconds": 456.72
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "f5652279db154ce0f9392a1d01ce3d2ae6c988a2da94f73f381305bb10daa8e1",
-      "transcript_captured_at": "2026-10-28T21:03:12.315387Z",
-      "summary_generated_at": "2026-10-28T21:08:14.979554Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains automated-caption defects, profanity redactions, name distortions, and unclear phrases.",
-        "Election figures vary across cited projections and may have changed as counting continued.",
-        "Allegations about fraud, military intentions, secret negotiations, and future conflict are presented as reported claims or predictions, not verified findings.",
-        "This overview reflects only the episode transcript and does not independently assess the cited reporting or broader context.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
