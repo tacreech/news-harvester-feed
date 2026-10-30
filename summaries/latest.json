@@ -1,11 +1,231 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T22:12:00.377949Z",
+  "generated_at": "2026-10-30T23:12:00.357555Z",
   "reporting_window": {
-    "start": "2026-10-23T22:12:00.377949Z",
-    "end": "2026-10-30T22:12:00.377949Z"
+    "start": "2026-10-23T23:12:00.357555Z",
+    "end": "2026-10-30T23:12:00.357555Z"
   },
   "episodes": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "-lXRelEPW8s",
+      "title": "The Largest Financial Cyberattack Just Happened...",
+      "url": "https://www.youtube.com/watch?v=-lXRelEPW8s",
+      "published_at": "2026-10-30T21:58:30.000000Z",
+      "summary": "The creator presents what he describes as a possibly unprecedented Binance-related cryptocurrency theft, estimating the impact at about $6.3 billion while acknowledging that the figure remains uncertain. He says Binance linked the incident to a compromised DevOps engineer’s laptop and unauthorized withdrawals from a service container, with no evidence of private-key leakage reported in the source. The episode examines blockchain activity across multiple wallets, including large Ethereum and stablecoin balances, and describes efforts by Tether, Circle, Ripple, and others to freeze assets. It also explains how funds may have been moved through mixers and how EIP-7702-style authorizations allegedly enabled a rapid batch operation. The creator discusses an attribution to North Korea based on assessments by TRM and similarities to earlier hacks, but explicitly notes that government confirmation is absent and another state actor remains possible. The material is an early, source-dependent account awaiting a formal technical postmortem and further investigation.",
+      "topics": [
+        "Binance security incident",
+        "Cryptocurrency theft tracking",
+        "Asset freezing",
+        "North Korea attribution",
+        "EIP-7702"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The incident caused approximately $6.3 billion in impact.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            13,
+            14,
+            24,
+            41,
+            42
+          ]
+        },
+        {
+          "claim": "A compromised DevOps engineer’s laptop enabled access to a service container and unauthorized withdrawals.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "claim": "About $3 billion in assets were frozen by blockchain partners.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            149,
+            150
+          ]
+        },
+        {
+          "claim": "TRM attributed the activity to North Korean actors based on intelligence and similarities to earlier hacks.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            187,
+            188,
+            189,
+            190,
+            191,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            284,
+            285,
+            286,
+            287
+          ]
+        },
+        {
+          "claim": "The operation used EIP-7702 authorizations to move funds through a sweeper contract.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            324,
+            325,
+            326,
+            327,
+            328,
+            330,
+            331,
+            332,
+            333,
+            334,
+            335,
+            336,
+            337,
+            341,
+            342,
+            343,
+            344,
+            345,
+            346
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The reported loss figure is presented as provisional, and the creator says a formal postmortem is pending.",
+          "evidence_segment_indices": [
+            24,
+            25,
+            35,
+            36,
+            37,
+            388,
+            389,
+            390,
+            391
+          ],
+          "start_seconds": 62.719,
+          "end_seconds": 916.16
+        },
+        {
+          "point": "Blockchain explorers are used to trace transfers among multiple wallets and identify potentially frozen balances.",
+          "evidence_segment_indices": [
+            52,
+            56,
+            57,
+            58,
+            70,
+            77,
+            78,
+            83,
+            84,
+            147,
+            148,
+            156,
+            161
+          ],
+          "start_seconds": 134.08,
+          "end_seconds": 402.56
+        },
+        {
+          "point": "Stablecoin issuers and other organizations reportedly froze substantial assets, though some funds may have moved beforehand.",
+          "evidence_segment_indices": [
+            43,
+            44,
+            45,
+            146,
+            147,
+            148,
+            149,
+            150,
+            163,
+            164,
+            370,
+            371,
+            372,
+            373,
+            374,
+            375,
+            376,
+            377
+          ],
+          "start_seconds": 111.759,
+          "end_seconds": 884.959
+        },
+        {
+          "point": "The creator explains that mixers can make tracing transactions more difficult, while noting that cryptocurrency transfers remain recorded.",
+          "evidence_segment_indices": [
+            121,
+            123,
+            124,
+            127,
+            128,
+            129,
+            130,
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317
+          ],
+          "start_seconds": 304.8,
+          "end_seconds": 748.88
+        },
+        {
+          "point": "North Korean involvement is treated as an unconfirmed attribution rather than an established conclusion.",
+          "evidence_segment_indices": [
+            184,
+            185,
+            186,
+            187,
+            188,
+            284,
+            285,
+            286,
+            287,
+            388,
+            389,
+            390
+          ],
+          "start_seconds": 450.4,
+          "end_seconds": 913.839
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "08fa1d655a1426167c7098ae7fc682c7ccd85b79176e6f27a8ab27c7d410f1c0",
+      "transcript_captured_at": "2026-10-30T23:03:10.472949Z",
+      "summary_generated_at": "2026-10-30T23:08:15.038444Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is an early commentary episode and repeatedly describes the loss estimate as hazy or provisional.",
+        "The alleged North Korea attribution is explicitly unconfirmed, and the creator says another state actor remains possible.",
+        "Automatic captions contain transcription defects, including garbled phrases, missing words, and unclear wallet labels.",
+        "The episode says a technical postmortem and additional information were still pending.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5095,182 +5315,6 @@
         "The transcript contains redacted profanity, transcription errors, speaker-label ambiguity, and overlapping caption segments.",
         "The source provides commentary and quoted media excerpts but does not independently substantiate the factual allegations made.",
         "Some references to current events, projects, legal matters, and policy effects are unclear from the transcript alone.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "GI6Sf0q6Qdg",
-      "title": "EARLY VOTE APOCALYPSE FOR MAGA | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=GI6Sf0q6Qdg",
-      "published_at": "2026-10-28T22:00:38.000000Z",
-      "summary": "Kyle Kulinski argues that early-voting figures indicate unusually strong Democratic positioning and a potentially broad Republican setback, while emphasizing that these are not election results. He highlights Florida, where he says the Republican early-vote advantage is narrow and Andrew Nixon is within six points in a cited poll, and Kansas, where Democrats reportedly lead early voting after trailing in comparable cycles. He also discusses Democratic advantages in Nevada and Texas, including polling and turnout figures, and cites leads for Democrats in Maine and Minnesota. Kulinski presents a Texas Senate poll showing James Talarico ahead of Ken Paxton and describes South Carolina as unexpectedly competitive. He interprets national early-voting figures and Fox News projections as consistent with Democratic control of the House and a possible Senate majority. The episode closes with a call to vote and warnings that, in Kulinski’s view, Republicans may contest or undermine unfavorable results. The transcript contains numerous inflammatory characterizations and several claims that require source verification.",
-      "topics": [
-        "Early voting trends",
-        "Senate race polling",
-        "House and Senate projections",
-        "Election integrity concerns"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The cited early-voting totals and party margins in Florida, Kansas, Nevada, Texas, and nationally are accurate and comparable across election cycles.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            7,
-            10,
-            12,
-            13,
-            52,
-            54,
-            78,
-            79,
-            105,
-            106,
-            107,
-            108,
-            355,
-            356,
-            357
-          ]
-        },
-        {
-          "claim": "The cited polls show Democratic leads in Texas, Maine, Minnesota, Michigan, South Carolina, and Florida.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            147,
-            149,
-            150,
-            198,
-            199,
-            227,
-            228,
-            238,
-            239,
-            275,
-            278,
-            279,
-            310,
-            311
-          ]
-        },
-        {
-          "claim": "Fox News projected Democratic and Republican ranges for the House and Senate as described.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            379,
-            383,
-            390,
-            391,
-            397,
-            398,
-            402,
-            403,
-            405,
-            407
-          ]
-        },
-        {
-          "claim": "A single Texas Democratic candidate reportedly matched the combined Republican candidate and committee donor count across the cited fundraising platforms.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            116,
-            118,
-            120,
-            121,
-            142,
-            143,
-            144,
-            145
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator interprets early-voting data as evidence that several traditionally Republican-leaning or competitive states may be in play.",
-          "evidence_segment_indices": [
-            27,
-            28,
-            68,
-            75,
-            76,
-            87,
-            94,
-            95,
-            303,
-            304
-          ],
-          "start_seconds": 66.8,
-          "end_seconds": 677.218
-        },
-        {
-          "point": "He cites polling leads for Democratic candidates in Texas, Maine, Minnesota, Michigan, and Florida, while describing South Carolina as tied.",
-          "evidence_segment_indices": [
-            149,
-            150,
-            198,
-            199,
-            227,
-            228,
-            238,
-            239,
-            278,
-            279,
-            310,
-            311
-          ],
-          "start_seconds": 359.654,
-          "end_seconds": 695.058
-        },
-        {
-          "point": "He says Fox News projections anticipate Democratic House control and a Senate outcome that depends on the scale of Republican or Democratic polling error.",
-          "evidence_segment_indices": [
-            383,
-            390,
-            391,
-            402,
-            403,
-            409,
-            417,
-            427,
-            433,
-            436
-          ],
-          "start_seconds": 836.899,
-          "end_seconds": 950.061
-        },
-        {
-          "point": "Kulinski urges viewers to vote and predicts a large Democratic victory, while alleging that Republicans may attempt to contest the outcome.",
-          "evidence_segment_indices": [
-            465,
-            468,
-            471,
-            475,
-            478,
-            480,
-            485,
-            506,
-            507,
-            509
-          ],
-          "start_seconds": 1001.462,
-          "end_seconds": 1082.182
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "5e73a146fc254b27c7167a4d576e19e853f12872f1ec6d5185e501ba843b6018",
-      "transcript_captured_at": "2026-10-28T23:33:20.395704Z",
-      "summary_generated_at": "2026-10-28T23:38:25.732255Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview relies only on the provided transcript; no underlying polls, turnout databases, fundraising records, or projections were supplied.",
-        "Several numbers and candidate names may be affected by caption errors, including apparent transcription mistakes and compressed percentages.",
-        "The transcript mixes reported figures with the creator’s interpretations, predictions, allegations, and strongly partisan language.",
-        "Some referenced events, candidates, and election cycles are ambiguous within the source alone.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
