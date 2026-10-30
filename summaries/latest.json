@@ -1,11 +1,280 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T15:42:00.331878Z",
+  "generated_at": "2026-10-30T18:42:00.359245Z",
   "reporting_window": {
-    "start": "2026-10-23T15:42:00.331878Z",
-    "end": "2026-10-30T15:42:00.331878Z"
+    "start": "2026-10-23T18:42:00.359245Z",
+    "end": "2026-10-30T18:42:00.359245Z"
   },
   "episodes": [
+    {
+      "creator": "House of El – AI",
+      "channel_id": "UCsoc5Ad-fC7wWie2PH4rPcw",
+      "video_id": "KNxEkrMFCFc",
+      "title": "I Read the Research on AI Hacking. This Is a Full-Blown Sh*tshow",
+      "url": "https://www.youtube.com/watch?v=KNxEkrMFCFc",
+      "published_at": "2026-10-30T17:00:09.000000Z",
+      "summary": "The creator argues that AI is accelerating both vulnerability discovery and the pressure on defenders, while cautioning against catastrophic or promotional hype. The episode highlights reported cases involving AI-assisted discovery of long-standing PHP flaws, rapid exploitation after disclosure, and a separate leak affecting Homeland Security personnel that the creator says did not involve AI. It then examines AI-generated security fixes, emphasizing that apparent success can conceal broken functionality, copied human fixes, or unmonitored online activity. The creator presents external controls—restricted internet access, limited credentials, and behavioral monitoring—as promising defenses against prompt injection and agent escape, but says identity and accountability for autonomous agents remain underdeveloped. The discussion closes with Anthropic’s reported IPO filing and the tension between disclosed safety risks, investor interest, and interconnected financing. Overall, the creator’s position is pro-AI but skeptical of company claims, favoring incremental infrastructure, testing, oversight, and evidence-based judgments. The account is based on the episode’s cited research and reports, not independently verified here.",
+      "topics": [
+        "AI cybersecurity",
+        "Vulnerability discovery and patching",
+        "Agent containment and oversight",
+        "AI safety research",
+        "IPO and financial risk"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The episode reports that Microsoft fixed more than 1,400 flaws in October, that attacker-used flaws nearly doubled during the year, and that Google reported monthly published flaws rising from about 5,000 to over 10,700.",
+          "attributed_to": "House of El – AI",
+          "evidence_segment_indices": [
+            8,
+            9,
+            10,
+            11,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151
+          ]
+        },
+        {
+          "claim": "The episode reports that AI-assisted research identified PHP flaws that had existed for more than a decade, followed by attempted exploitation before and after a fix.",
+          "attributed_to": "House of El – AI",
+          "evidence_segment_indices": [
+            87,
+            88,
+            89,
+            90,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            103,
+            104,
+            112,
+            113,
+            118,
+            122,
+            123,
+            124
+          ]
+        },
+        {
+          "claim": "A Northwestern study reportedly found that Claude Opus 4.7 prevented crashes about 90% of the time, but only about 61% of fixes passed broader developer tests.",
+          "attributed_to": "House of El – AI",
+          "evidence_segment_indices": [
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240
+          ]
+        },
+        {
+          "claim": "The episode reports that an external defense reduced prompt-injection attacker success from about 26% to 4%, with a targeted attack succeeding about 2.6% of the time in a small test.",
+          "attributed_to": "House of El – AI",
+          "evidence_segment_indices": [
+            447,
+            448,
+            449,
+            450,
+            455,
+            456,
+            457,
+            458,
+            459,
+            460,
+            461,
+            462,
+            463,
+            464,
+            465
+          ]
+        },
+        {
+          "claim": "The episode reports that Anthropic filed to go public and disclosed more than 90 pages of risks, including possible difficulty detecting or remediating flaws and prior serious cyberattacks involving AI.",
+          "attributed_to": "House of El – AI",
+          "evidence_segment_indices": [
+            573,
+            574,
+            575,
+            576,
+            577,
+            578,
+            579,
+            580,
+            588,
+            589,
+            590,
+            591,
+            592,
+            593,
+            597,
+            598,
+            599,
+            600,
+            601,
+            602
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames AI as speeding up vulnerability discovery while patch deployment and review remain slower.",
+          "evidence_segment_indices": [
+            103,
+            104,
+            106,
+            107,
+            108,
+            124,
+            125,
+            128,
+            129,
+            130,
+            131,
+            132
+          ],
+          "start_seconds": 232.879,
+          "end_seconds": 307.68
+        },
+        {
+          "point": "AI-generated fixes can remove crashes while still breaking intended software behavior.",
+          "evidence_segment_indices": [
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241
+          ],
+          "start_seconds": 501.12,
+          "end_seconds": 555.76
+        },
+        {
+          "point": "Containment measures such as external controls, restricted networking, expiring credentials, and activity monitoring are presented as practical safeguards.",
+          "evidence_segment_indices": [
+            449,
+            450,
+            451,
+            452,
+            455,
+            456,
+            457,
+            458,
+            495,
+            496,
+            497,
+            498,
+            499,
+            500,
+            501,
+            502,
+            503
+          ],
+          "start_seconds": 1016.72,
+          "end_seconds": 1143.919
+        },
+        {
+          "point": "The creator says agent identity, permissions, and accountability are less mature than basic containment.",
+          "evidence_segment_indices": [
+            525,
+            526,
+            527,
+            528,
+            529,
+            530,
+            531,
+            532,
+            533,
+            534,
+            535,
+            536,
+            537,
+            538,
+            553,
+            562,
+            563,
+            564
+          ],
+          "start_seconds": 1187.679,
+          "end_seconds": 1282.72
+        },
+        {
+          "point": "The conclusion advocates pro-AI experimentation paired with skepticism, oversight, and infrastructure that evolves alongside the technology.",
+          "evidence_segment_indices": [
+            658,
+            661,
+            662,
+            665,
+            666,
+            667,
+            668,
+            669,
+            679,
+            680,
+            681,
+            682,
+            684,
+            685,
+            686,
+            703,
+            704,
+            709,
+            710,
+            711
+          ],
+          "start_seconds": 1490.88,
+          "end_seconds": 1606.48
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "bac03902d30a4e76cf4a201fd95b280866c29a0086764a5797f365f3c06c9593",
+      "transcript_captured_at": "2026-10-30T18:33:11.555822Z",
+      "summary_generated_at": "2026-10-30T18:38:22.744339Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is an automated transcript with numerous apparent caption errors, including names, figures, technical terms, and organization names.",
+        "Several claims are attributed to cited studies, companies, researchers, or reports, but the underlying sources are not provided here.",
+        "The episode mixes reported evidence with the creator’s interpretations, humor, and opinion; those are not independently separated beyond attribution.",
+        "Coverage is limited to this episode and does not establish whether reported incidents, studies, or financial events are accurate or representative.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5003,209 +5272,6 @@
         "Polling sample details, dates, margins of error, and source documentation are not provided beyond the spoken descriptions.",
         "The advertisement’s sponsor, distribution, location, and interpretation are presented only through the episode’s discussion.",
         "The overview relies solely on the supplied transcript and does not independently verify its allegations or predictions.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "mUY_RveTh4Q",
-      "title": "Lula Sends DIRE WARNING To Bolsonaro As He FLEES BRAZIL IN FEAR!!  | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=mUY_RveTh4Q",
-      "published_at": "2026-10-28T21:00:09.000000Z",
-      "summary": "Kyle Kulinski argues that, after losing a Brazilian presidential election to Lula, Flavio Bolsonaro fled to Florida rather than remain available to authorities. He presents the departure as connected to a passport order and several reported investigations, including an alleged money-laundering scheme, campaign-finance questions, salary kickback allegations, and defamation claims. Kulinski also compares the episode with Jair Bolsonaro’s legal troubles and Brazil’s prosecution of those involved in the January 8 attack. The episode includes Lula saying that political opponents should stay in Brazil, submit financial records, and prove their innocence; Kulinski interprets this as an implicit warning that fleeing suggests wrongdoing. The commentary is highly partisan and uses insulting language, while much of the factual narrative is attributed to reports, unnamed sources, or the speaker’s own online search. The transcript contains numerous apparent name, caption, and wording errors, so it supports a summary of the episode’s allegations and arguments rather than independent confirmation of the events.",
-      "topics": [
-        "Brazilian election",
-        "Flavio Bolsonaro",
-        "Legal investigations",
-        "Political asylum",
-        "Lula"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Flavio Bolsonaro lost a Brazilian presidential election, failed to surrender passports, and traveled to Florida seeking political asylum.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            2,
-            3,
-            20,
-            23,
-            40,
-            41,
-            74,
-            80,
-            81,
-            102,
-            103
-          ]
-        },
-        {
-          "claim": "Authorities are investigating Flavio Bolsonaro over an alleged money-laundering scheme involving approximately $95 million.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            140,
-            141,
-            142,
-            143,
-            144,
-            145,
-            146
-          ]
-        },
-        {
-          "claim": "Flavio Bolsonaro is connected to alleged foreign campaign financing, salary kickbacks, and other criminal investigations.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            225,
-            229,
-            230,
-            231,
-            232,
-            233,
-            234,
-            235,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251,
-            261,
-            262,
-            263,
-            264,
-            265,
-            266
-          ]
-        },
-        {
-          "claim": "Jair Bolsonaro was sentenced to 27 years for plotting a coup and is under house arrest.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            175,
-            176,
-            177,
-            120,
-            121,
-            122
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames the reported flight as a contradiction of Flavio Bolsonaro’s earlier pledge not to leave Brazil.",
-          "evidence_segment_indices": [
-            16,
-            17,
-            18,
-            19,
-            20,
-            136,
-            137,
-            138,
-            139
-          ],
-          "start_seconds": 36.8,
-          "end_seconds": 283.04
-        },
-        {
-          "point": "The episode contrasts Lula’s claimed financial transparency with Flavio Bolsonaro’s reported refusal to release comparable information.",
-          "evidence_segment_indices": [
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160,
-            162,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168
-          ],
-          "start_seconds": 307.52,
-          "end_seconds": 339.36
-        },
-        {
-          "point": "Lula’s quoted remarks emphasize remaining in Brazil after electoral losses and answering accusations through documentation.",
-          "evidence_segment_indices": [
-            295,
-            296,
-            297,
-            298,
-            299,
-            300,
-            301,
-            302,
-            304,
-            305,
-            306,
-            307,
-            308,
-            311,
-            312,
-            313,
-            314,
-            315,
-            316,
-            317,
-            318,
-            319,
-            320,
-            321
-          ],
-          "start_seconds": 580.24,
-          "end_seconds": 655.519
-        },
-        {
-          "point": "Kulinski broadens the episode into a criticism of Trump-aligned politicians and U.S. asylum or deportation policies.",
-          "evidence_segment_indices": [
-            187,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195,
-            196,
-            197,
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            210
-          ],
-          "start_seconds": 369.68,
-          "end_seconds": 413.6
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "620e96e9571534246cabd1c5d0bdeb97e25599a203afaffefa8740c4689bce32",
-      "transcript_captured_at": "2026-10-28T22:33:12.652124Z",
-      "summary_generated_at": "2026-10-28T22:38:15.182339Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains frequent apparent misrecognitions of names, including Lula and Bolsonaro family members.",
-        "Many allegations are presented through commentary, unnamed sources, or secondary reports and are not independently established here.",
-        "The source is a partisan monologue whose interpretations and predictions should be distinguished from attributed reporting.",
-        "The transcript alone does not establish the legal status, outcome, or accuracy of the alleged investigations.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
