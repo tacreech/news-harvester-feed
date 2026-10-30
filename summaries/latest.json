@@ -1,11 +1,184 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T18:42:00.359245Z",
+  "generated_at": "2026-10-30T19:42:00.423083Z",
   "reporting_window": {
-    "start": "2026-10-23T18:42:00.359245Z",
-    "end": "2026-10-30T18:42:00.359245Z"
+    "start": "2026-10-23T19:42:00.423083Z",
+    "end": "2026-10-30T19:42:00.423083Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "W1Cs7BHp_gM",
+      "title": "🚨 Judge RIPS APART Trump and Opens MAJOR INVESTIGATION, Accountability is HERE!!",
+      "url": "https://www.youtube.com/watch?v=W1Cs7BHp_gM",
+      "published_at": "2026-10-30T17:51:21.000000Z",
+      "summary": "Aaron Parnas presents a strongly critical account of a reported federal hearing concerning plans to renovate or close the golf course at East Potomac Park. He says Judge Anna Reyes challenged Justice Department and Interior officials over descriptions of the project, including whether a closure plan existed and whether officials had made potentially misleading statements. According to Parnas, the judge announced an inquiry into Trump attorneys’ conduct, including whether a Park Service declaration omitted details or misrepresented the renovation plan, and said a special master could be appointed; Parnas further says lawyers could face professional consequences if material misrepresentations are found. The episode then shifts to an interview with April Verrett, identified as SEIU president, who expresses optimism about the election, describes reported union organizing and spending, and encourages voter participation. The source also contains a lengthy weight-loss medication advertisement. The overview relies solely on the supplied transcript, which does not provide court documents, opposing accounts, or independent confirmation of the legal and campaign claims.",
+      "topics": [
+        "Federal court hearing",
+        "East Potomac Park golf course",
+        "Attorney conduct inquiry",
+        "Election organizing",
+        "SEIU interview"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A federal judge announced an inquiry into Trump attorneys’ conduct and planned involvement by a special master.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            146,
+            148,
+            149,
+            150,
+            156,
+            157,
+            159
+          ]
+        },
+        {
+          "claim": "The hearing involved conflicting Justice Department representations about whether the golf course would close on November 15.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            128,
+            129,
+            130,
+            131,
+            132
+          ]
+        },
+        {
+          "claim": "SEIU reported investing more than $100 million and activating more than one million members in the election cycle.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            250,
+            251,
+            252,
+            260,
+            261,
+            262,
+            263,
+            264
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas characterizes the hearing as an unusually sharp confrontation between Judge Reyes and government lawyers.",
+          "evidence_segment_indices": [
+            3,
+            4,
+            5,
+            6,
+            48,
+            49,
+            56,
+            57,
+            58,
+            59
+          ],
+          "start_seconds": 6.44,
+          "end_seconds": 132.132
+        },
+        {
+          "point": "Officials gave qualified answers about whether Interior Secretary Doug Burgum was involved in the project.",
+          "evidence_segment_indices": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            90,
+            91,
+            92
+          ],
+          "start_seconds": 171.492,
+          "end_seconds": 195.332
+        },
+        {
+          "point": "The reported inquiry concerns possible omissions from a Park Service declaration and alleged misrepresentation of the renovation plan.",
+          "evidence_segment_indices": [
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155
+          ],
+          "start_seconds": 295.494,
+          "end_seconds": 310.334
+        },
+        {
+          "point": "Verrett discusses voter turnout, union mobilization, candidate support, and longer-term organizing.",
+          "evidence_segment_indices": [
+            217,
+            218,
+            219,
+            228,
+            232,
+            233,
+            250,
+            260,
+            262,
+            268,
+            269,
+            270,
+            271,
+            354,
+            362,
+            363
+          ],
+          "start_seconds": 426.855,
+          "end_seconds": 743.259
+        },
+        {
+          "point": "The episode includes a commercial segment about Hims weight-loss services before the interview.",
+          "evidence_segment_indices": [
+            176,
+            179,
+            180,
+            181,
+            182,
+            183,
+            188,
+            189,
+            190,
+            201,
+            202,
+            203,
+            204,
+            205
+          ],
+          "start_seconds": 346.454,
+          "end_seconds": 406.455
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "b6f5a6e7622f0121b2e7ef0b3d6eb3c88d4760ac0370535a6b23ed48f7076391",
+      "transcript_captured_at": "2026-10-30T19:33:12.090688Z",
+      "summary_generated_at": "2026-10-30T19:38:14.714957Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a single creator-hosted account and does not include court records, full hearing audio, or responses from the officials discussed.",
+        "Captioning contains apparent transcription errors, including names, punctuation, duplicated words, and malformed phrases.",
+        "Legal consequences are presented as possible outcomes or allegations, not established findings.",
+        "The transcript does not independently substantiate the reported campaign spending, turnout, or membership figures.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "House of El – AI",
       "channel_id": "UCsoc5Ad-fC7wWie2PH4rPcw",
@@ -5022,256 +5195,6 @@
         "Several names and words appear mistranscribed or ambiguous in the captions, including references to Mary Peltola and other political figures.",
         "The campaign source’s alleged account was reportedly retracted, leaving its reliability unresolved in the supplied material.",
         "The transcript does not provide the underlying articles, court record, FBI statements, or corroborating evidence.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "7FhCzx_fB0k",
-      "title": "ABDUL HATERS ARE F*CKED | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=7FhCzx_fB0k",
-      "published_at": "2026-10-28T21:30:23.000000Z",
-      "summary": "Kyle Kulinski argues that, according to CNN analyst Harry Enten’s cited polling discussion, Abdul Sayed’s position on Israel may be helping rather than hurting his Michigan Senate campaign. The segment describes a Fox News poll showing Sayed narrowly ahead overall but eight points ahead among voters who considered Israel especially important, while also presenting figures that 54% of Michigan voters and 61% of independents favored ending or reducing military aid to Israel. Kulinski further cites negative favorability toward AIPAC and says these findings weaken the case that support for Israel benefits Mike Rogers. He then disputes criticism of an online advertisement, asserting that it was created by a group associated with Cenk Uygur, was not a Sayed campaign ad, and was not running in Michigan. Kulinski rejects accusations that the ad was antisemitic, interpreting its references as criticism of the Israeli government and foreign aid rather than Jewish people. He concludes that attacks from Republicans and centrist Democrats are unlikely to undermine Sayed, though the supplied transcript does not independently establish the polling, advertising, or campaign claims.",
-      "topics": [
-        "Michigan Senate race",
-        "Israel policy and military aid",
-        "AIPAC favorability",
-        "Political advertising",
-        "Antisemitism allegations"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The cited Michigan polling showed Abdul Sayed ahead overall by one point and ahead by eight points among voters prioritizing Israel.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51
-          ]
-        },
-        {
-          "claim": "A majority of Michigan voters, including 61% of independents, favored ending or reducing military aid to Israel.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67
-          ]
-        },
-        {
-          "claim": "AIPAC had a negative 25-point net favorability rating among Michigan likely voters and independents.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            93,
-            94,
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102
-          ]
-        },
-        {
-          "claim": "The criticized advertisement was created by a group associated with Cenk Uygur, was not a Sayed campaign ad, and was not running in Michigan.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            209,
-            210,
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski presents Enten’s polling interpretation that Israel policy is not necessarily damaging Sayed’s campaign.",
-          "evidence_segment_indices": [
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            47,
-            48,
-            49,
-            50,
-            51
-          ],
-          "start_seconds": 38.16,
-          "end_seconds": 93.6
-        },
-        {
-          "point": "The discussion links voter views on reducing aid and AIPAC’s favorability to the electoral argument.",
-          "evidence_segment_indices": [
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77,
-            112,
-            113
-          ],
-          "start_seconds": 94.32,
-          "end_seconds": 192.64
-        },
-        {
-          "point": "Kulinski says an online ad criticized as antisemitic was misattributed to Sayed and was not running in Michigan.",
-          "evidence_segment_indices": [
-            160,
-            161,
-            162,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            209,
-            210,
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217
-          ],
-          "start_seconds": 292.96,
-          "end_seconds": 396.16
-        },
-        {
-          "point": "He interprets the advertisement as criticism of Israeli government policy and foreign spending, not Jews as a group.",
-          "evidence_segment_indices": [
-            244,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251,
-            252,
-            253,
-            254,
-            255,
-            256,
-            257,
-            258,
-            259,
-            260,
-            261,
-            264,
-            265,
-            266,
-            267,
-            268,
-            269
-          ],
-          "start_seconds": 446.24,
-          "end_seconds": 501.12
-        },
-        {
-          "point": "Kulinski predicts that repeated attacks will not prevent Sayed from winning, while attributing the broader criticism to ideological opponents.",
-          "evidence_segment_indices": [
-            282,
-            283,
-            284,
-            285,
-            286,
-            287,
-            288,
-            289,
-            290,
-            291,
-            292,
-            293,
-            294,
-            345,
-            346,
-            347,
-            348,
-            349,
-            350,
-            351,
-            352,
-            353,
-            354,
-            361
-          ],
-          "start_seconds": 523.599,
-          "end_seconds": 686.64
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "401b960f4822d6047dd43f7edcc26754c340da09fe5a9cb05f1c278bb736fc9c",
-      "transcript_captured_at": "2026-10-28T22:33:20.522645Z",
-      "summary_generated_at": "2026-10-28T22:38:27.711171Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains recurring recognition errors and inconsistent renderings of names, including Sayed and Enten.",
-        "Polling sample details, dates, margins of error, and source documentation are not provided beyond the spoken descriptions.",
-        "The advertisement’s sponsor, distribution, location, and interpretation are presented only through the episode’s discussion.",
-        "The overview relies solely on the supplied transcript and does not independently verify its allegations or predictions.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
