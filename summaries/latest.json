@@ -1,11 +1,139 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T01:12:00.422126Z",
+  "generated_at": "2026-10-31T15:12:00.372646Z",
   "reporting_window": {
-    "start": "2026-10-24T01:12:00.422126Z",
-    "end": "2026-10-31T01:12:00.422126Z"
+    "start": "2026-10-24T15:12:00.372646Z",
+    "end": "2026-10-31T15:12:00.372646Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "n3QNzh6EYgI",
+      "title": "🚨 Trump Admits he is EXHAUSTED of Being President, Congress Prepares MASSIVE Investigations",
+      "url": "https://www.youtube.com/watch?v=n3QNzh6EYgI",
+      "published_at": "2026-10-31T14:06:09.000000Z",
+      "summary": "Aaron Parnas argues that Donald Trump’s comments about exhaustion, reduced vocal capacity, and whether additional rallies matter suggest strain near an election that could shift congressional control. Parnas also presents an undercover exchange involving Republican senator Alyssa Slotkin, in which she discusses possible future Democratic investigations, prosecutions, and congressional oversight if Democrats win one or both chambers. The episode further reports that a federal judge restricted Justice Department pressure on election officials and that an appeals court rejected an effort to block California mail ballots. Parnas frames these developments as setbacks for the administration, while acknowledging that some reported claims require scrutiny. He then describes escalating tensions involving Iran, possible post-election military action, and a tanker fire near the Strait of Hormuz. The episode closes with promotion of upcoming interviews and election-night coverage. Overall, it combines political commentary, reported legal developments, allegations of governmental misconduct, and overseas security claims, but the transcript alone does not independently establish the underlying facts.",
+      "topics": [
+        "Trump campaign fatigue",
+        "Congressional investigations",
+        "Election litigation",
+        "Iran and regional tensions"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A federal judge ordered the Justice Department to stop threatening election officials and demanding voter-roll or ballot actions.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            140,
+            142,
+            144,
+            150,
+            154
+          ]
+        },
+        {
+          "claim": "The Ninth Circuit rejected an administration effort to stop California from counting about 20,000 mail ballots.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            174,
+            175,
+            177,
+            181
+          ]
+        },
+        {
+          "claim": "Iranian leadership ordered military preparations to respond to possible new United States or Israeli attacks.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            200,
+            202,
+            205,
+            208
+          ]
+        },
+        {
+          "claim": "A tanker caught fire after reportedly striking a mine, and Oman’s navy rescued crew members.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            217,
+            220,
+            224,
+            225,
+            226
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas interprets Trump’s remarks about exhaustion and rally attendance as evidence of campaign strain.",
+          "evidence_segment_indices": [
+            37,
+            39,
+            41,
+            42,
+            47,
+            64
+          ],
+          "start_seconds": 72.159,
+          "end_seconds": 132.0
+        },
+        {
+          "point": "An undercover exchange is presented as describing possible Democratic investigations and prosecutions after an electoral victory.",
+          "evidence_segment_indices": [
+            90,
+            97,
+            102,
+            104,
+            118,
+            131
+          ],
+          "start_seconds": 180.319,
+          "end_seconds": 272.96
+        },
+        {
+          "point": "The episode reports court actions limiting Justice Department pressure on election officials.",
+          "evidence_segment_indices": [
+            139,
+            142,
+            150,
+            157,
+            164
+          ],
+          "start_seconds": 285.44,
+          "end_seconds": 342.479
+        },
+        {
+          "point": "Parnas connects reported Iran-related threats and maritime incidents to heightened regional danger.",
+          "evidence_segment_indices": [
+            200,
+            209,
+            213,
+            216,
+            224,
+            227
+          ],
+          "start_seconds": 410.319,
+          "end_seconds": 472.0
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "d348ab311f5d2567189c90648a83e4c03f933b08405c9cf842039898d32af86e",
+      "transcript_captured_at": "2026-10-31T15:03:10.201621Z",
+      "summary_generated_at": "2026-10-31T15:08:13.237844Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains numerous apparent caption, transcription, and name errors, including political figures, places, and organizations.",
+        "Several claims are attributed to unnamed officials, media reports, or the creator and are not independently verified here.",
+        "The source presents strongly interpretive political framing, especially regarding Trump’s condition and the meaning of planned investigations.",
+        "The overseas section is explicitly described as including claims that were not always verifiable.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5255,206 +5383,6 @@
         "Most Switch 2 demonstrations are described from third-party footage or private builds that Mutahar says he could not independently test.",
         "Performance figures and claims about future public releases are creator statements or predictions, not independently established evidence.",
         "The overview relies only on the supplied episode transcript and does not assess the legality, authenticity, or technical accuracy of the projects discussed.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "N6IC2_Awlc4",
-      "title": "‘STAND UP FOR BOSSES’: Republican SELF DESTRUCTS In Rally Speech DISASTER! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=N6IC2_Awlc4",
-      "published_at": "2026-10-28T23:00:01.000000Z",
-      "summary": "Kyle Kulinski argues that Ashley Moody’s rally remark about “representing the bosses” exposes what he portrays as the Republican Party’s alignment with wealthy interests. He contrasts Moody with Democratic Senate opponent Angie Nixon, whose speech emphasizes wages, healthcare, retirement security, medical costs, teachers, and reducing war spending. Kulinski presents Nixon as a mainstream rather than radical candidate and praises her campaign while asserting that the Florida race is competitive. He then discusses a reported suspension of Nixon’s organizing account by Meta, alleging—without presenting evidence in this excerpt—that Trump or his allies pressured Mark Zuckerberg. Kulinski uses the episode to advocate nationalizing social media, expanding constitutional protections online, and imposing very high taxes on billionaires to fund public services. The program is strongly opinionated and includes severe allegations about politicians, business figures, and the Epstein case. The transcript alone does not establish those allegations, the race’s polling position, the account suspension’s circumstances, or the broader socioeconomic statistics cited.",
-      "topics": [
-        "Florida Senate race",
-        "Republican economic alignment",
-        "Healthcare and worker policies",
-        "Social-media moderation",
-        "Wealth inequality"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Ashley Moody is running against Angie Nixon for a U.S. Senate seat in Florida.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2
-          ]
-        },
-        {
-          "claim": "The Florida Senate race is six points and Nixon is gaining ground.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            169,
-            170,
-            173,
-            174,
-            282,
-            283,
-            384,
-            385
-          ]
-        },
-        {
-          "claim": "Meta suspended Nixon’s organizing account ahead of the midterms.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            286,
-            287,
-            288,
-            289
-          ]
-        },
-        {
-          "claim": "Trump or someone in his White House pressured Mark Zuckerberg to suspend political accounts.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            298,
-            299,
-            300,
-            301,
-            302,
-            303,
-            308,
-            309,
-            310
-          ]
-        },
-        {
-          "claim": "Nixon voted to end healthcare for more than 440,000 people and took $10 million from sick children through Florida Medicaid.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            196,
-            197,
-            198,
-            199,
-            200,
-            201,
-            202
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski interprets Moody’s “representing the bosses” line as revealing Republican priorities.",
-          "evidence_segment_indices": [
-            32,
-            33,
-            34,
-            35,
-            50,
-            51,
-            52,
-            53
-          ],
-          "start_seconds": 62.48,
-          "end_seconds": 113.28
-        },
-        {
-          "point": "Nixon’s speech frames economic security, healthcare, retirement, and children’s care as non-radical goals.",
-          "evidence_segment_indices": [
-            117,
-            118,
-            119,
-            120,
-            121,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            141,
-            142
-          ],
-          "start_seconds": 248.799,
-          "end_seconds": 318.88
-        },
-        {
-          "point": "Kulinski characterizes Nixon as a competitive candidate whose positions reflect mainstream opinion.",
-          "evidence_segment_indices": [
-            167,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            220,
-            221,
-            222,
-            223,
-            224,
-            257,
-            258,
-            259,
-            260,
-            261,
-            262,
-            263
-          ],
-          "start_seconds": 370.08,
-          "end_seconds": 555.839
-        },
-        {
-          "point": "He links the reported account suspension to a broader argument for public control of social media and higher taxation of extreme wealth.",
-          "evidence_segment_indices": [
-            286,
-            287,
-            288,
-            289,
-            309,
-            310,
-            311,
-            312,
-            334,
-            335,
-            336,
-            337,
-            343,
-            344,
-            345,
-            346,
-            347,
-            348,
-            349,
-            354,
-            355,
-            356,
-            357
-          ],
-          "start_seconds": 595.76,
-          "end_seconds": 745.2
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "3d964e233e0b3a65bd98d0bded3487e7a10bbc3edeb80f1cef754d85f5a71fcf",
-      "transcript_captured_at": "2026-10-28T23:33:36.694359Z",
-      "summary_generated_at": "2026-10-28T23:38:46.799975Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is a single opinionated commentary transcript, not independent reporting.",
-        "Automatic captions contain profanity redactions, transcription errors, and ambiguous names or phrases.",
-        "Several numerical, legal, electoral, and criminal claims are asserted without supporting documentation in the excerpt.",
-        "The transcript does not provide the date, context, or rationale for the reported Meta action.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
