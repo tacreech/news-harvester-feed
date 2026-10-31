@@ -1,11 +1,313 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T23:12:00.357555Z",
+  "generated_at": "2026-10-31T01:12:00.422126Z",
   "reporting_window": {
-    "start": "2026-10-23T23:12:00.357555Z",
-    "end": "2026-10-30T23:12:00.357555Z"
+    "start": "2026-10-24T01:12:00.422126Z",
+    "end": "2026-10-31T01:12:00.422126Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "RJuFgHIupTk",
+      "title": "Pete Hegseth PURGES Military As EVIL PLANS EMERGE!! ",
+      "url": "https://www.youtube.com/watch?v=RJuFgHIupTk",
+      "published_at": "2026-10-30T23:48:10.000000Z",
+      "summary": "Kyle Kulinski’s discussion presents a strongly critical view of U.S. politics, media coverage, and military decision-making. The speakers first discuss the value of detailed, research-oriented political videos and defend provocative titles as an attempt to convey what they describe as the severity of current events. They then discuss a book arguing that democratic movements should focus beyond elections on durable institutions, independent news, legal structures, and international cooperation. The conversation shifts to the midterms, which one speaker predicts could represent a major rejection of the Trump era, while emphasizing that longer-term organizing would still be necessary. The final section centers on the reported removal of Army Lieutenant General Brett Sylvia from a Pentagon planning role. The guest interprets the firing as part of a broader purge and as possible evidence of internal disagreement over escalation involving Iran. The transcript also contains allegations about election interference, war crimes, military readiness, and media restrictions, but provides no documentary evidence or independent corroboration for those claims.",
+      "topics": [
+        "Political media and sensationalism",
+        "Democratic institutions",
+        "Midterm election outlook",
+        "Pentagon leadership changes",
+        "Iran escalation allegations"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The speakers allege that Hegseth fired Lieutenant General Brett Sylvia from a senior Pentagon planning position and that this was part of a broader removal of senior military leaders.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            282,
+            283,
+            284,
+            335,
+            336,
+            340,
+            341,
+            342,
+            343,
+            344,
+            346,
+            347,
+            348,
+            349,
+            350
+          ]
+        },
+        {
+          "claim": "The guest alleges that Trump or his administration is interfering with or attempting to rig elections.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            425,
+            426,
+            427,
+            428,
+            429,
+            430,
+            431,
+            432,
+            433
+          ]
+        },
+        {
+          "claim": "The guest alleges that U.S. actions involving Iran have already constituted extensive war crimes and that further escalation is being considered.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            294,
+            295,
+            296,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            353,
+            354,
+            368,
+            373,
+            374,
+            375,
+            376,
+            377,
+            378
+          ]
+        },
+        {
+          "claim": "The guest alleges that U.S. military resources and regional logistics capabilities have been severely depleted or destroyed in the conflict with Iran.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            356,
+            357,
+            358,
+            359,
+            360,
+            361,
+            362,
+            363,
+            364,
+            365,
+            366,
+            367,
+            369,
+            370,
+            371,
+            372,
+            380,
+            381,
+            382,
+            383,
+            384,
+            385,
+            386,
+            387
+          ]
+        },
+        {
+          "claim": "The speakers state that Sylvia was accused in a leaked statement of failing a polygraph and leaking information to news organizations.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            411,
+            412,
+            413,
+            414,
+            415,
+            416,
+            417,
+            418,
+            419,
+            420,
+            421,
+            422,
+            423,
+            424
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The speakers defend detailed, research-based political coverage and describe provocative titles as deliberate emphasis rather than empty clickbait.",
+          "evidence_segment_indices": [
+            25,
+            26,
+            27,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            71,
+            72,
+            73,
+            74,
+            75
+          ],
+          "start_seconds": 57.12,
+          "end_seconds": 167.519
+        },
+        {
+          "point": "The book discussed argues for durable democratic systems extending beyond election campaigns.",
+          "evidence_segment_indices": [
+            111,
+            112,
+            117,
+            118,
+            119,
+            120,
+            121,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            148,
+            149,
+            150,
+            151,
+            166,
+            167,
+            168
+          ],
+          "start_seconds": 235.76,
+          "end_seconds": 379.68
+        },
+        {
+          "point": "One speaker predicts the midterms could be a critical repudiation of the Trump era, while acknowledging a longer recovery would be needed.",
+          "evidence_segment_indices": [
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            267,
+            268,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277
+          ],
+          "start_seconds": 460.96,
+          "end_seconds": 638.399
+        },
+        {
+          "point": "The discussion interprets Sylvia’s removal as potentially connected to internal Pentagon disagreement over escalation with Iran.",
+          "evidence_segment_indices": [
+            326,
+            327,
+            328,
+            329,
+            335,
+            336,
+            337,
+            338,
+            339,
+            340,
+            352,
+            353,
+            354,
+            355,
+            368,
+            369,
+            370,
+            371,
+            372,
+            373,
+            374,
+            375,
+            378,
+            395
+          ],
+          "start_seconds": 734.0,
+          "end_seconds": 917.199
+        },
+        {
+          "point": "The transcript ends with concern that Trump’s second administration has fewer institutional restraints and may create election-related risks.",
+          "evidence_segment_indices": [
+            448,
+            449,
+            450,
+            451,
+            452,
+            453,
+            456,
+            457,
+            458,
+            459,
+            460,
+            461,
+            462,
+            463,
+            464,
+            465,
+            466,
+            467,
+            468,
+            469,
+            470,
+            471,
+            472
+          ],
+          "start_seconds": 1031.52,
+          "end_seconds": 1092.76
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "4390148a7a58fa638709426a366221b3ab2fe2feb8db5b16cf71afde8d5ad58e",
+      "transcript_captured_at": "2026-10-31T01:03:12.509766Z",
+      "summary_generated_at": "2026-10-31T01:08:19.289657Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The automatic captions contain numerous apparent recognition errors, including names, places, titles, and technical terms.",
+        "The supplied excerpt ends mid-question, so the episode’s discussion of post-election scenarios is incomplete.",
+        "Many consequential statements are presented as opinions, speculation, or allegations by the speakers rather than supported findings.",
+        "The transcript alone does not establish the accuracy of reported firings, military events, election activity, or alleged crimes.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
@@ -5153,168 +5455,6 @@
         "Automatic captions contain profanity redactions, transcription errors, and ambiguous names or phrases.",
         "Several numerical, legal, electoral, and criminal claims are asserted without supporting documentation in the excerpt.",
         "The transcript does not provide the date, context, or rationale for the reported Meta action.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "DCf6voK9fvg",
-      "title": "Republicans LOSE THEIR MINDS Over Obama’s ‘Cheesecake Factory’ Line | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=DCf6voK9fvg",
-      "published_at": "2026-10-28T22:30:37.000000Z",
-      "summary": "Kyle Kulinski argues that Barack Obama deliberately provoked conservative backlash with a joke comparing Donald Trump’s White House style to Saddam Hussein opening a Cheesecake Factory. He says the reaction from Fox commentators and other Trump supporters illustrates an effort to recast criticism of lavish décor as hostility toward ordinary Americans and popular restaurants. Kulinski disputes that framing, portraying Trump’s aesthetic choices as gaudy and elitist while arguing that economic concerns, healthcare, prices, wars, and alleged favoritism toward wealthy supporters matter more than the restaurant reference. He also claims Obama’s remark successfully redirected conservative discussion toward defending Trump’s “vanity projects.” The episode relies heavily on excerpts from commentators and Kulinski’s responses, using sarcasm, insults, and additional allegations about Trump’s conduct. It presents Kulinski’s interpretation of the political exchange rather than independently establishing the factual claims discussed.",
-      "topics": [
-        "Obama’s Cheesecake Factory remark",
-        "Trump’s White House décor",
-        "Political messaging and backlash",
-        "Elitism and economic priorities"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The episode alleges that Trump raised taxes for most Americans while cutting taxes for billionaires.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            271,
-            272,
-            273
-          ]
-        },
-        {
-          "claim": "The episode alleges that Trump removed more than 15 million people from Medicaid or healthcare coverage.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            194,
-            195,
-            198,
-            199
-          ]
-        },
-        {
-          "claim": "The episode alleges that Trump engaged in wars, pardons, or other conduct benefiting wealthy or connected individuals.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            194,
-            195,
-            196,
-            241,
-            244,
-            245,
-            246,
-            247,
-            251,
-            252
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski interprets Obama’s joke as a deliberate baiting strategy designed to provoke a prolonged conservative reaction.",
-          "evidence_segment_indices": [
-            8,
-            9,
-            10,
-            20,
-            21,
-            25,
-            26,
-            277,
-            278,
-            279,
-            280,
-            281
-          ],
-          "start_seconds": 18.48,
-          "end_seconds": 587.68
-        },
-        {
-          "point": "Fox commentators frame the dispute as one about appreciating beauty and defending the Cheesecake Factory, while Kulinski says they misunderstood Obama’s comparison.",
-          "evidence_segment_indices": [
-            52,
-            53,
-            54,
-            92,
-            93,
-            94,
-            117,
-            122,
-            123,
-            134,
-            135,
-            136,
-            157,
-            158,
-            159,
-            160,
-            161
-          ],
-          "start_seconds": 115.52,
-          "end_seconds": 354.479
-        },
-        {
-          "point": "Kulinski contrasts the décor controversy with issues he considers more important, including wages, healthcare, prices, and alleged policies favoring the wealthy.",
-          "evidence_segment_indices": [
-            22,
-            23,
-            24,
-            195,
-            196,
-            198,
-            199,
-            294,
-            295,
-            296,
-            297,
-            298
-          ],
-          "start_seconds": 51.12,
-          "end_seconds": 620.8
-        },
-        {
-          "point": "The episode concludes that Trump’s reported or alleged vanity projects symbolize self-promotion and disregard for ordinary people’s struggles.",
-          "evidence_segment_indices": [
-            283,
-            284,
-            285,
-            289,
-            290,
-            291,
-            299,
-            300,
-            301,
-            302,
-            303,
-            304,
-            305,
-            306,
-            307,
-            308,
-            309,
-            310,
-            311,
-            314,
-            315,
-            316,
-            317,
-            318
-          ],
-          "start_seconds": 587.68,
-          "end_seconds": 662.88
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "7a4e2a69c672ba7f5b7f6ca99c08fab4d7f4441e098148f45ba49efb7ceef5e3",
-      "transcript_captured_at": "2026-10-28T23:33:28.912175Z",
-      "summary_generated_at": "2026-10-28T23:38:36.039098Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains redacted profanity, transcription errors, speaker-label ambiguity, and overlapping caption segments.",
-        "The source provides commentary and quoted media excerpts but does not independently substantiate the factual allegations made.",
-        "Some references to current events, projects, legal matters, and policy effects are unclear from the transcript alone.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
