@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T00:00:52.028766Z",
+  "generated_at": "2026-10-31T00:30:42.840050Z",
   "reporting_window": {
-    "start": "2026-10-24T00:00:52.028766Z",
-    "end": "2026-10-31T00:00:52.028766Z",
+    "start": "2026-10-24T00:30:42.840050Z",
+    "end": "2026-10-31T00:30:42.840050Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -12,18 +12,18 @@
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
       "identity_status": "verified",
-      "health": "feed_unavailable",
-      "discovery_status": "feed_unavailable",
-      "last_successful_poll": "2026-10-30T23:30:31.577335Z",
+      "health": "success_new",
+      "discovery_status": "success_new",
+      "last_successful_poll": "2026-10-31T00:30:32.484254Z",
       "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "feed_unavailable",
-      "discovery_status": "feed_unavailable",
-      "last_successful_poll": "2026-10-30T23:30:32.808900Z",
+      "health": "success_new",
+      "discovery_status": "success_new",
+      "last_successful_poll": "2026-10-31T00:30:33.638163Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-31T00:00:43.132547Z",
+      "last_successful_poll": "2026-10-31T00:30:36.704094Z",
       "warnings": []
     },
     {
@@ -50,11 +50,35 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-10-31T00:00:51.805841Z",
+      "last_successful_poll": "2026-10-31T00:30:42.681051Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "RJuFgHIupTk",
+      "title": "Pete Hegseth PURGES Military As EVIL PLANS EMERGE!! ",
+      "published_at": "2026-10-30T23:48:10.000000Z",
+      "url": "https://www.youtube.com/watch?v=RJuFgHIupTk",
+      "first_seen": "2026-10-31T00:30:32.484254Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "6fw1ZJmGOyE",
+      "title": "Trump informs allies that strikes could begin again day after Election Day!",
+      "published_at": "2026-10-30T23:23:10.000000Z",
+      "url": "https://www.youtube.com/watch?v=6fw1ZJmGOyE",
+      "first_seen": "2026-10-31T00:30:33.638163Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
@@ -107,7 +131,7 @@
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
       "video_id": "8bhN73ai8qk",
-      "title": "SOMETHING VERY BERY BAD IS COMING (& Everybody Knows It)",
+      "title": "SOMETHING VERY VERY BAD IS COMING (& Everybody Knows It)",
       "published_at": "2026-10-30T19:04:59.000000Z",
       "url": "https://www.youtube.com/watch?v=8bhN73ai8qk",
       "first_seen": "2026-10-30T19:30:25.967561Z",
@@ -629,7 +653,7 @@
       "first_seen": "2026-10-28T23:30:38.509764Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "captions_ready"
+      "transcript_status": "expired"
     },
     {
       "creator": "Kyle Kulinski — Secular Talk",
