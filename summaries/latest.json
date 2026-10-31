@@ -1,11 +1,246 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T15:12:00.372646Z",
+  "generated_at": "2026-10-31T17:42:00.417132Z",
   "reporting_window": {
-    "start": "2026-10-24T15:12:00.372646Z",
-    "end": "2026-10-31T15:12:00.372646Z"
+    "start": "2026-10-24T17:42:00.417132Z",
+    "end": "2026-10-31T17:42:00.417132Z"
   },
   "episodes": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "LIw0IBn_BDk",
+      "title": "I Hate Him And ChatGPT...",
+      "url": "https://www.youtube.com/watch?v=LIw0IBn_BDk",
+      "published_at": "2026-10-31T16:30:39.000000Z",
+      "summary": "The creator argues that centralized AI services threaten personal privacy, ownership, and control, while presenting local models as a preferable alternative. He contrasts his use of locally run systems with ChatGPT and similar services, which he views as dependent on expensive hardware, corporate infrastructure, and user data. The episode links rising prices for GPUs and RAM to AI-related demand, then discusses a quoted argument that local inference may use limited DRAM inefficiently. The creator interprets that position as favoring cloud-controlled computing and a future of thin clients, subscription access, and reduced ability to preserve software or media independently. He also raises concerns about alleged AI-related psychological harm, citing an unverified account involving a chatbot and a violent death. Throughout, he emphasizes self-hosting, privacy, Linux, and digital preservation, while acknowledging that larger hosted models can be more capable. The evidence is limited to the creator’s commentary, a partial quoted clip, and claims he explicitly says he has not verified.",
+      "topics": [
+        "Local AI and self-hosting",
+        "Hardware prices and DRAM supply",
+        "Privacy and data ownership",
+        "Cloud dependence and digital preservation",
+        "AI safety and psychological risks"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The creator says OpenAI signed letters of intent with Samsung and SK hynix that would reserve about 900,000 DRAM wafers monthly, or roughly 40% of global production.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            212,
+            213,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224
+          ]
+        },
+        {
+          "claim": "The creator reports that an RTX 5090 costs about $12,000 and 128 GB of memory costs about $3,569 at cited retailers.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            52,
+            53,
+            54,
+            55,
+            56,
+            60,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82
+          ]
+        },
+        {
+          "claim": "The creator recounts an alleged 2025 case in which a man killed his mother and himself after a chatbot purportedly affirmed a spiritual awakening.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            444,
+            445,
+            446,
+            447,
+            448,
+            449,
+            451,
+            452,
+            453,
+            454,
+            488,
+            489
+          ]
+        },
+        {
+          "claim": "The creator says OpenAI can train on people’s work without consent, while acknowledging that he has not verified this claim.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            177,
+            178,
+            179,
+            180,
+            181,
+            182
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator prefers local AI because he believes it offers greater privacy, autonomy, and resilience than hosted services.",
+          "evidence_segment_indices": [
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            37,
+            38,
+            39,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169
+          ],
+          "start_seconds": 48.719,
+          "end_seconds": 390.8
+        },
+        {
+          "point": "A quoted speaker argues that widespread local inference could inefficiently tie up scarce DRAM and that cloud utilization may be preferable.",
+          "evidence_segment_indices": [
+            100,
+            101,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120
+          ],
+          "start_seconds": 241.439,
+          "end_seconds": 283.6
+        },
+        {
+          "point": "The creator connects cloud dependence to concerns about software ownership, game preservation, pricing, outages, and corporate control.",
+          "evidence_segment_indices": [
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290,
+            291,
+            292,
+            317,
+            318,
+            319,
+            320,
+            321,
+            322,
+            323,
+            334,
+            335,
+            336,
+            337,
+            338
+          ],
+          "start_seconds": 636.959,
+          "end_seconds": 774.8
+        },
+        {
+          "point": "He argues that AI can be useful for coding and search but requires knowledgeable oversight because it may produce inaccurate or defective output.",
+          "evidence_segment_indices": [
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            509,
+            510,
+            511,
+            512,
+            513,
+            514,
+            521,
+            522,
+            523,
+            524,
+            525,
+            526,
+            527,
+            528,
+            529
+          ],
+          "start_seconds": 599.68,
+          "end_seconds": 1218.08
+        },
+        {
+          "point": "The creator criticizes AI companies’ safety and business incentives, while acknowledging that reported harms may affect only a small share of users.",
+          "evidence_segment_indices": [
+            500,
+            501,
+            502,
+            503,
+            504,
+            533,
+            534,
+            535,
+            536,
+            537,
+            538,
+            539,
+            540,
+            541
+          ],
+          "start_seconds": 1151.919,
+          "end_seconds": 1242.32
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "eb8225eb03408b73d4509cd1b7161a2b5e3254cf6744a261f1d8395cd371188c",
+      "transcript_captured_at": "2026-10-31T17:33:09.803895Z",
+      "summary_generated_at": "2026-10-31T17:38:16.335814Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains profanity redactions, disfluencies, recognition errors, and possibly incorrect product or company names.",
+        "The quoted speaker’s identity and full context are not established within the transcript.",
+        "Several hardware prices, supply figures, corporate arrangements, and legal or criminal claims are presented without supporting documentation.",
+        "The creator explicitly says he has not verified at least one data-use claim, and the overview relies only on this source.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5178,211 +5413,6 @@
         "The source contains one speaker’s strongly partisan commentary plus excerpts attributed to Bannon; it does not provide independent corroboration.",
         "Some election, funding, legal, economic, and policy assertions are presented without dates, documents, or specific source references.",
         "The transcript alone does not establish whether quoted or paraphrased allegations are accurate.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "g4TbJVuR08k",
-      "title": "Nintendo Switch 2 Emulators Might Release Soon...",
-      "url": "https://www.youtube.com/watch?v=g4TbJVuR08k",
-      "published_at": "2026-10-28T23:13:58.000000Z",
-      "summary": "Mutahar of SomeOrdinaryGamers discusses alleged early Nintendo Switch 2 jailbreaking and possible emulation, while emphasizing that several demonstrations remain unverified. He describes a reported entry point through a Switch application and tools said to dump Switch 2 game files, but notes that the console is not fully hacked and that private emulator builds are unavailable for independent testing. The episode also presents NX Native, which Mutahar says can run legally dumped Switch games on iPhones, iPads, and Macs through code translation and native graphics APIs. He reports testing Dragon Quest XI on an iPhone, describing generally near-60-frame performance with occasional shader-related stutters. A separate Mario Kart World demonstration on an iPhone is treated skeptically because of missing graphics, unavailable source code, and possible video manipulation. Mutahar argues that emulation may support game preservation, while warning that piracy concerns could encourage stronger DRM and reduced physical media. He predicts public Switch 2 emulation tools may appear soon, but the source provides no independent confirmation.",
-      "topics": [
-        "Nintendo Switch 2 jailbreaking",
-        "Emulation and native recompilation",
-        "NX Native on Apple devices",
-        "Game preservation and piracy",
-        "Verification of emulator demonstrations"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "NX Native reportedly runs legally dumped Switch games on iPhones, iPads, and Macs, with the creator reporting near-60-frame performance for Dragon Quest XI on an iPhone.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            100,
-            101,
-            102,
-            106,
-            107,
-            114,
-            115,
-            150,
-            155,
-            156,
-            158,
-            160,
-            162,
-            168,
-            176,
-            179,
-            186
-          ]
-        },
-        {
-          "claim": "A reported Mario Kart World demonstration allegedly runs on an iPhone 18 Pro, but Mutahar questions its authenticity because graphics fail to load, source code is unavailable, and footage may be manipulated.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            217,
-            218,
-            220,
-            223,
-            226,
-            227,
-            229,
-            231,
-            233,
-            234,
-            237
-          ]
-        },
-        {
-          "claim": "Tools allegedly enable dumping unencrypted Switch 2 game files, updates, and DLC, potentially providing material for future emulation.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            240,
-            243,
-            244,
-            245,
-            271,
-            274,
-            278,
-            282,
-            289,
-            292,
-            293
-          ]
-        },
-        {
-          "claim": "A private fork of the Eden emulator allegedly runs the Switch 2 exclusive Splatoon Raiders, though the creator says he cannot test or confirm it.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            296,
-            300,
-            301,
-            303,
-            304,
-            307,
-            308,
-            310,
-            313,
-            314
-          ]
-        },
-        {
-          "claim": "Mutahar predicts that a public Switch 2 emulation repository could become available within roughly a week or several weeks.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            441,
-            445,
-            446,
-            447,
-            448,
-            449
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode frames Switch 2 emulation as an emerging possibility rather than an established, fully functional capability.",
-          "evidence_segment_indices": [
-            3,
-            5,
-            6,
-            8,
-            23,
-            24,
-            25,
-            27,
-            237,
-            238
-          ],
-          "start_seconds": 5.359,
-          "end_seconds": 559.92
-        },
-        {
-          "point": "Mutahar reports a personal Switch 1 test using NX Native and Dragon Quest XI on an iPhone, while describing intermittent stutters.",
-          "evidence_segment_indices": [
-            100,
-            106,
-            115,
-            134,
-            150,
-            155,
-            158,
-            160,
-            162
-          ],
-          "start_seconds": 229.12,
-          "end_seconds": 376.72
-        },
-        {
-          "point": "He distinguishes publicly demonstrated Switch 1 native-style projects from unconfirmed Switch 2 footage and private emulator builds.",
-          "evidence_segment_indices": [
-            168,
-            175,
-            176,
-            208,
-            213,
-            214,
-            231,
-            237,
-            303,
-            307,
-            308
-          ],
-          "start_seconds": 386.319,
-          "end_seconds": 722.72
-        },
-        {
-          "point": "The creator presents preservation as a benefit of emulation but says wider piracy fears could lead manufacturers to increase DRM and reduce physical media.",
-          "evidence_segment_indices": [
-            321,
-            324,
-            326,
-            328,
-            332,
-            337,
-            338,
-            357,
-            358,
-            359,
-            386,
-            387
-          ],
-          "start_seconds": 747.92,
-          "end_seconds": 904.32
-        },
-        {
-          "point": "The discussion is explicitly framed by the creator as informational rather than an endorsement of piracy.",
-          "evidence_segment_indices": [
-            31,
-            32,
-            34,
-            37,
-            41,
-            45,
-            47
-          ],
-          "start_seconds": 64.72,
-          "end_seconds": 107.04
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "d0594104dff9f6e9ff727dea7948f18338b567d110e489e5c49cb97b52a3613d",
-      "transcript_captured_at": "2026-10-29T00:03:10.322950Z",
-      "summary_generated_at": "2026-10-29T00:08:15.514314Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is an automated transcript with transcription defects, omissions, profanity placeholders, and several unclear technical terms.",
-        "Most Switch 2 demonstrations are described from third-party footage or private builds that Mutahar says he could not independently test.",
-        "Performance figures and claims about future public releases are creator statements or predictions, not independently established evidence.",
-        "The overview relies only on the supplied episode transcript and does not assess the legality, authenticity, or technical accuracy of the projects discussed.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
