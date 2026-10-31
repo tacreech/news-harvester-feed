@@ -1,11 +1,213 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T17:42:00.417132Z",
+  "generated_at": "2026-10-31T19:12:00.368721Z",
   "reporting_window": {
-    "start": "2026-10-24T17:42:00.417132Z",
-    "end": "2026-10-31T17:42:00.417132Z"
+    "start": "2026-10-24T19:12:00.368721Z",
+    "end": "2026-10-31T19:12:00.368721Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "_j5zKQ5E5ls",
+      "title": "Trump TERRIFIED as Congress Prepares Mass Epstein Investigations of HIS KIDS!",
+      "url": "https://www.youtube.com/watch?v=_j5zKQ5E5ls",
+      "published_at": "2026-10-31T17:16:16.000000Z",
+      "summary": "Aaron Parnas argues that a Democratic House victory would enable subpoenas, sworn testimony, and public hearings concerning Donald Trump’s reported ties to Jeffrey Epstein. He presents a House Judiciary Democrats’ report as alleging that multiple women connected Trump to Epstein’s sexual-abuse operations, that the Justice Department and FBI concealed relevant information, and that Attorney General Todd Blanch may have mishandled an interview with a witness. Trump is described as denying the allegations and saying he was exonerated. Parnas further emphasizes Democratic plans to investigate Epstein’s finances, question administration officials, and potentially subpoena members of Trump’s family. Interviews included in the episode feature Democratic lawmakers promising aggressive use of contempt proceedings and other legal tools if witnesses resist. The episode is advocacy-oriented: its central interpretation is that the White House’s responses reflect fear, while the allegations, report contents, proposed investigations, and possible legal violations remain matters requiring independent verification. Caption defects and unclear names also limit confidence in some details.",
+      "topics": [
+        "Epstein investigation",
+        "Congressional subpoenas",
+        "Trump family",
+        "Justice Department",
+        "Election politics"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A House Judiciary Democrats’ report alleges that Trump participated in Epstein-related sexual abuse and that 11 women connected him to Epstein’s operations.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53
+          ]
+        },
+        {
+          "claim": "The report alleges that the Justice Department and FBI withheld information or files because Trump was implicated.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            41,
+            42,
+            43,
+            44,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97
+          ]
+        },
+        {
+          "claim": "The report alleges that Todd Blanch’s conduct could constitute witness tampering or obstruction.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            104,
+            105,
+            106,
+            107,
+            112,
+            113,
+            114,
+            116,
+            120,
+            121,
+            122,
+            123,
+            124
+          ]
+        },
+        {
+          "claim": "Democrats could subpoena Trump family members and make the Epstein investigation a major oversight priority if they control the House.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            156,
+            157,
+            162,
+            163,
+            164,
+            165,
+            196,
+            197,
+            198,
+            199,
+            201,
+            202
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames a possible Democratic House majority as the mechanism for expanded subpoenas, sworn testimony, and public hearings.",
+          "evidence_segment_indices": [
+            2,
+            3,
+            4,
+            19,
+            20,
+            136,
+            137,
+            138,
+            139,
+            140
+          ],
+          "start_seconds": 4.72,
+          "end_seconds": 322.0
+        },
+        {
+          "point": "Trump’s stated position is that he was exonerated and that Epstein-related criticism is politically motivated.",
+          "evidence_segment_indices": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            83,
+            84,
+            85
+          ],
+          "start_seconds": 140.72,
+          "end_seconds": 212.4
+        },
+        {
+          "point": "The episode highlights allegations involving a witness interview by Blanch and possible obstruction-related conduct.",
+          "evidence_segment_indices": [
+            104,
+            105,
+            106,
+            107,
+            112,
+            113,
+            116,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124
+          ],
+          "start_seconds": 246.4,
+          "end_seconds": 289.759
+        },
+        {
+          "point": "Democratic lawmakers describe plans to investigate finances, pursue contempt proceedings, and potentially question Trump family members.",
+          "evidence_segment_indices": [
+            158,
+            159,
+            160,
+            165,
+            174,
+            175,
+            176,
+            177,
+            180,
+            181,
+            182,
+            183,
+            187,
+            188,
+            197,
+            198,
+            201,
+            202,
+            203,
+            204
+          ],
+          "start_seconds": 352.96,
+          "end_seconds": 455.919
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "a02ded39329f16509573d0ebef53616f8571053db493bcb7fec01e3c0c8ef9d2",
+      "transcript_captured_at": "2026-10-31T19:03:12.086269Z",
+      "summary_generated_at": "2026-10-31T19:08:17.871850Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is an advocacy presentation and does not independently establish the allegations it discusses.",
+        "Several names and words appear mistranscribed, including references to Epstein, Blanch, and other public figures.",
+        "The source provides only selected spoken claims and excerpts, without the underlying report, documents, or opposing evidence.",
+        "Some quoted or paraphrased statements are difficult to attribute precisely because the captions overlap and contain defects.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
@@ -5192,227 +5394,6 @@
         "The transcript does not independently establish whether quoted posts, broadcasts, or statements occurred as described.",
         "Several claims are presented through the creator’s interpretation, sarcasm, or speculation rather than corroborated evidence.",
         "The source covers one commentator’s account of a political-media controversy and does not provide independent reactions, context, or outcome data.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "ioaqSaTZipo",
-      "title": "Steve Bannon THROWS TANTRUM As TRUMP’S PLANS COLLAPSE!! | The Kyle Kulinski",
-      "url": "https://www.youtube.com/watch?v=ioaqSaTZipo",
-      "published_at": "2026-10-28T23:30:02.000000Z",
-      "summary": "The creator argues that Steve Bannon reacted angrily to Luiz Inácio Lula da Silva’s reported electoral victory in Brazil, presenting it as a setback for an international right-wing alliance. The episode contrasts Bannon’s quoted call for the United States to sever diplomatic and trade ties with Brazil against the creator’s defense of Lula as a populist associated with poverty reduction, infrastructure, social transfers, and environmental protection. The creator also says Bannon and Donald Trump use claims of election theft to prepare supporters to reject unfavorable results, drawing a parallel between Bannon’s Brazil-related commentary and disputes over the 2020 U.S. election. Much of the discussion is polemical: the creator accuses Bannon and Trump of hypocrisy, establishment ties, corruption, and exploiting supporters, while characterizing Lula as genuinely anti-establishment and pro-worker. The transcript includes extensive allegations and political claims without supporting documentation, so the episode is best understood as commentary rather than an independently verified account.",
-      "topics": [
-        "Brazilian politics",
-        "Steve Bannon",
-        "Election narratives",
-        "Donald Trump",
-        "Political commentary"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Lula defeated Flavio Bolsonaro in Brazil’s second-round election and had been banned from Facebook.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            10,
-            11,
-            19,
-            20
-          ]
-        },
-        {
-          "claim": "Lula’s record includes expanding electricity access, direct cash transfers, reducing poverty, and building infrastructure.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            24,
-            25,
-            26,
-            27,
-            28,
-            29
-          ]
-        },
-        {
-          "claim": "Flavio Bolsonaro was investigated over funding allegedly connected to Peter Thiel, JD Vance, and other billionaires.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121
-          ]
-        },
-        {
-          "claim": "Bannon and Trump used or may use election-fraud claims to undermine confidence in future election results.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            64,
-            65,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79,
-            80,
-            151,
-            152,
-            153,
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160
-          ]
-        },
-        {
-          "claim": "Steve Bannon was pardoned by Trump and was involved in a fraud connected to the We Build the Wall fundraising effort.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            238,
-            239,
-            240,
-            241,
-            244,
-            245,
-            246,
-            247,
-            254,
-            255,
-            256,
-            257,
-            258,
-            259
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator frames Lula’s victory as a defeat for forces aligned with Trump and Bannon.",
-          "evidence_segment_indices": [
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            14,
-            15,
-            16,
-            17,
-            18,
-            20
-          ],
-          "start_seconds": 8.08,
-          "end_seconds": 49.84
-        },
-        {
-          "point": "Bannon’s quoted response calls for ending diplomatic and trade relations with Brazil and labels its government illegitimate.",
-          "evidence_segment_indices": [
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54
-          ],
-          "start_seconds": 93.28,
-          "end_seconds": 115.92
-        },
-        {
-          "point": "The creator argues that election-fraud rhetoric can preemptively delegitimize unfavorable results.",
-          "evidence_segment_indices": [
-            151,
-            152,
-            153,
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160,
-            161,
-            162,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            174
-          ],
-          "start_seconds": 302.56,
-          "end_seconds": 348.8
-        },
-        {
-          "point": "The episode attacks Bannon and Trump as insincere anti-establishment figures and contrasts them with the creator’s portrayal of Lula.",
-          "evidence_segment_indices": [
-            93,
-            94,
-            95,
-            96,
-            97,
-            122,
-            123,
-            124,
-            125,
-            126,
-            267,
-            268,
-            269,
-            270,
-            271,
-            272,
-            274,
-            275,
-            276,
-            277,
-            278,
-            279,
-            280
-          ],
-          "start_seconds": 189.76,
-          "end_seconds": 551.04
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "01d78bba13f1365870ee908e9ee19f1bcef5c05689ed8f1256a72a80b3cd7066",
-      "transcript_captured_at": "2026-10-29T02:03:12.176044Z",
-      "summary_generated_at": "2026-10-29T02:08:16.587103Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is an automatic caption record with profanity redactions and several apparent transcription errors, including names and phrases.",
-        "The source contains one speaker’s strongly partisan commentary plus excerpts attributed to Bannon; it does not provide independent corroboration.",
-        "Some election, funding, legal, economic, and policy assertions are presented without dates, documents, or specific source references.",
-        "The transcript alone does not establish whether quoted or paraphrased allegations are accurate.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
