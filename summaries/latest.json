@@ -1,11 +1,223 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-01T19:42:00.383144Z",
+  "generated_at": "2026-11-01T22:42:00.343032Z",
   "reporting_window": {
-    "start": "2026-10-25T19:42:00.383144Z",
-    "end": "2026-11-01T19:42:00.383144Z"
+    "start": "2026-10-25T22:42:00.343032Z",
+    "end": "2026-11-01T22:42:00.343032Z"
   },
   "episodes": [
+    {
+      "creator": "Mike Figueredo — The Humanist Report",
+      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
+      "video_id": "p_VM22xGD_I",
+      "title": "“Traitor!”: Haley Stevens Heckled for Endorsing MAGA Republican Over El-Sayed",
+      "url": "https://www.youtube.com/watch?v=p_VM22xGD_I",
+      "published_at": "2026-11-01T21:27:26.000000Z",
+      "summary": "The creator discusses Haley Stevens’s stated endorsement of Republican Mike Rogers over Democrat Abdul El-Sayed in Michigan’s Senate race. Stevens says El-Sayed excluded her from his campaign and describes her endorsement as a personal decision, while maintaining that she remains a proud Democrat and stands by her prior positions. The creator argues that the endorsement contradicts Stevens’s Democratic identity and could influence voters who oppose El-Sayed without wanting to identify with MAGA politics. He frames the episode as evidence of a broader realignment involving Democrats’ views on Israel, party loyalty, and progressive candidates, and predicts that similar defections may become more common before 2028. The commentary also advances numerous allegations about campaign funding, political motives, public opinion, and the candidates’ records. Because the supplied material is an excerpted, automatically captioned monologue, it primarily documents the speakers’ statements and interpretations; it does not independently establish the factual claims or electoral consequences discussed.",
+      "topics": [
+        "Haley Stevens endorsement",
+        "Michigan Senate race",
+        "Democratic Party realignment",
+        "Israel policy and party politics"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Haley Stevens endorsed Republican Mike Rogers over Democrat Abdul El-Sayed after saying El-Sayed told her she was no longer welcome in his campaign.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            21,
+            25,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "claim": "The commentary alleges that AIPAC provided Stevens with millions of dollars and links her political positions to that support.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            177,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185
+          ]
+        },
+        {
+          "claim": "The creator claims polling shows Mike Rogers receiving about 4% of Black voters in Michigan.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            142,
+            143,
+            144,
+            145,
+            146
+          ]
+        },
+        {
+          "claim": "The creator predicts that more Democrats will move toward Republicans over Israel policy and that this could contribute to a broader party realignment by 2028.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            224,
+            225,
+            226,
+            227,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Stevens presents her endorsement as a personal decision and says she remains a proud Democrat.",
+          "evidence_segment_indices": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            33,
+            34,
+            35,
+            36,
+            44,
+            45,
+            46
+          ],
+          "start_seconds": 20.64,
+          "end_seconds": 126.719
+        },
+        {
+          "point": "The creator criticizes the endorsement as inconsistent with Stevens’s claimed Democratic identity and predicts political fallout.",
+          "evidence_segment_indices": [
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168
+          ],
+          "start_seconds": 126.719,
+          "end_seconds": 393.759
+        },
+        {
+          "point": "The commentary connects the dispute to disagreements over Israel, allegations of antisemitism and racism, and Democratic primary strategy.",
+          "evidence_segment_indices": [
+            90,
+            91,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114
+          ],
+          "start_seconds": 211.04,
+          "end_seconds": 269.68
+        },
+        {
+          "point": "The creator argues that the episode may foreshadow further movement of Israel-focused Democrats toward the Republican Party.",
+          "evidence_segment_indices": [
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230
+          ],
+          "start_seconds": 469.199,
+          "end_seconds": 528.72
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "766d322d10ae959702d2c946a8380105688d8cce76c1615c2aaf0c9ba9f332e9",
+      "transcript_captured_at": "2026-11-01T22:33:09.511182Z",
+      "summary_generated_at": "2026-11-01T22:38:24.925093Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is an automatically captioned excerpt with overlapping segments, garbled words, omissions, and profanity redactions.",
+        "Several names and phrases are unclear or inconsistently transcribed, including references to El-Sayed and other political figures.",
+        "The material contains the creator’s interpretations and allegations but provides no independent documentation, polling source, or corroborating evidence.",
+        "The excerpt does not establish the endorsement’s electoral impact or the accuracy of predictions about future party realignment.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5122,129 +5334,6 @@
         "Many factual claims are presented by Kulinski as allegations, quotations, estimates, or causal interpretations rather than demonstrated findings in the source.",
         "The episode references charts, Oxfam, Futurism, a documentary, and other speakers, but the underlying materials are not provided here.",
         "The source reflects one commentator’s strongly partisan perspective and does not provide counterarguments or independent corroboration.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "Oz5cy1jG_50",
-      "title": "Jared Kushner PANICS As Global Criminal Cartel EXPOSED!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=Oz5cy1jG_50",
-      "published_at": "2026-10-29T19:00:19.000000Z",
-      "summary": "Kyle Kulinski discusses allegations attributed to a forthcoming book and a Vanity Fair excerpt concerning Jared Kushner’s finances, foreign-policy dealings, and relationships with Gulf governments. The episode says sources described a Dubai account containing hundreds of millions of dollars, allegedly funded through Azerbaijan, and transfers involving individuals portrayed as a warlord, mercenary, or hitman.【8-23】 It also presents claims that roughly $2 billion was made available to Kushner, possibly in connection with lobbying for regional priorities and normalization with Israel, while noting that the allegations remain unverified in the episode.【55-88】【114-115】 Kulinski connects these claims to other reported or alleged payments, classified-information accusations, and speculation about the killing of journalist Jamal Khashoggi, while emphasizing that some links are questions raised by others rather than established conclusions.【120-153】 He criticizes Kushner’s reported legal threats and argues that foreign money and political influence reveal systemic corruption. The closing discussion alleges that regional investments backfired amid an Iran conflict and energy crisis, but those assertions also receive no independent substantiation here.【248-290】",
-      "topics": [
-        "Jared Kushner allegations",
-        "Foreign funding and diplomacy",
-        "Gulf-state influence",
-        "Legal threats and defamation",
-        "Iran conflict and economic fallout"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A forthcoming book and Vanity Fair excerpt allege that Kushner accessed a Dubai account containing hundreds of millions of dollars, with funds linked to Azerbaijan and transfers to violent or military-linked figures.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            3,
-            8,
-            23,
-            49,
-            58
-          ]
-        },
-        {
-          "claim": "The episode presents an allegation that roughly $2 billion was placed into accounts Kushner could access in exchange for advancing regional agendas with Donald Trump.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            55,
-            62,
-            82,
-            100,
-            106
-          ]
-        },
-        {
-          "claim": "The episode repeats allegations connecting Kushner to classified-information disclosures, Saudi repression, and questions surrounding Jamal Khashoggi’s killing.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            120,
-            132,
-            145,
-            153
-          ]
-        },
-        {
-          "claim": "The episode alleges that Trump’s Iran-related actions caused severe energy and economic consequences and prompted Gulf states to withdraw from investments.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            253,
-            264,
-            277,
-            285
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The discussion is based on a book, an excerpt, named sources, and commentary; the episode does not independently establish the allegations.",
-          "evidence_segment_indices": [
-            3,
-            8,
-            24,
-            114,
-            115
-          ],
-          "start_seconds": 5.52,
-          "end_seconds": 242.72
-        },
-        {
-          "point": "Kushner’s alleged financial arrangements are framed as potentially connected to diplomacy, normalization, and foreign-policy influence.",
-          "evidence_segment_indices": [
-            74,
-            82,
-            88,
-            92
-          ],
-          "start_seconds": 153.84,
-          "end_seconds": 194.0
-        },
-        {
-          "point": "The program links the Kushner allegations to broader accusations involving Trump, Steve Witkoff, Gulf governments, and foreign payments.",
-          "evidence_segment_indices": [
-            89,
-            109,
-            136,
-            158
-          ],
-          "start_seconds": 182.4,
-          "end_seconds": 343.759
-        },
-        {
-          "point": "Kulinski argues that legal threats could draw more attention rather than resolve the underlying allegations.",
-          "evidence_segment_indices": [
-            214,
-            223,
-            228,
-            306
-          ],
-          "start_seconds": 461.599,
-          "end_seconds": 642.8
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "dcf48ea801bac4889530c2c8eba6ff65d2613c185c64f3af20d39ccc9733339e",
-      "transcript_captured_at": "2026-10-29T20:33:12.381349Z",
-      "summary_generated_at": "2026-10-29T20:38:14.278081Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is a commentary transcript, not corroborating documentation or an independent investigation.",
-        "Several claims are explicitly described as alleged, attributed to sources, or framed as questions and speculation.",
-        "Caption defects and transcription errors affect names, wording, and some financial or geopolitical references.",
-        "The episode’s assertions about later conflicts, economic effects, and investment withdrawals are not independently substantiated in the supplied material.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
