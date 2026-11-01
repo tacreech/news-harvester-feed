@@ -1,11 +1,169 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-01T18:12:00.367227Z",
+  "generated_at": "2026-11-01T19:12:00.395327Z",
   "reporting_window": {
-    "start": "2026-10-25T18:12:00.367227Z",
-    "end": "2026-11-01T18:12:00.367227Z"
+    "start": "2026-10-25T19:12:00.395327Z",
+    "end": "2026-11-01T19:12:00.395327Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "1FtldWH2icU",
+      "title": "MAJOR BREAKING: DEM SEN CHRIS MURPHY HAS A STROKE!! ",
+      "url": "https://www.youtube.com/watch?v=1FtldWH2icU",
+      "published_at": "2026-11-01T18:35:27.000000Z",
+      "summary": "Kyle Kulinski reports that Democratic Senator Chris Murphy allegedly suffered a stroke after experiencing arm numbness at his child’s hockey game and going to a hospital. He says Murphy is reportedly improving and expected to recover, but repeatedly characterizes the timing as suspicious because Murphy has criticized the Trump administration and opposed a potential war with Iran. Kulinski calls for the incident to be investigated, while stopping short of making a specific accusation. The episode also previews further commentary about Haley Stevens, whom Kulinski condemns for allegedly siding with pro-Israel and MAGA-aligned forces. He broadens the discussion into a warning that political turmoil, an alleged election plot, and possible conflict involving Iran could worsen soon. The account is limited to the creator’s commentary: it provides no named medical source, official statement, corroborating report, or evidence connecting Murphy’s health event to political activity.",
+      "topics": [
+        "Chris Murphy’s reported medical emergency",
+        "Political suspicion and allegations",
+        "Trump administration and Iran",
+        "Haley Stevens controversy",
+        "Election-related warnings"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Chris Murphy had a stroke after experiencing numbness in one arm and was treated at a hospital.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            25,
+            26,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "claim": "Murphy was reportedly improving and expected to make a full recovery.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "claim": "An alleged plan involving Iran and an alleged effort to steal an election are upcoming or active developments.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            86,
+            87,
+            88
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski presents Murphy’s reported stroke as the episode’s main breaking-news topic.",
+          "evidence_segment_indices": [
+            24,
+            25,
+            26,
+            27
+          ],
+          "start_seconds": 56.16,
+          "end_seconds": 68.0
+        },
+        {
+          "point": "He links his suspicion about the timing to Murphy’s opposition to Trump and a potential Iran war, without offering evidence of causation.",
+          "evidence_segment_indices": [
+            42,
+            43,
+            44,
+            45,
+            46,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            71,
+            72,
+            73,
+            74
+          ],
+          "start_seconds": 96.479,
+          "end_seconds": 177.44
+        },
+        {
+          "point": "The episode also condemns Haley Stevens and previews more discussion of that controversy.",
+          "evidence_segment_indices": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "start_seconds": 3.6,
+          "end_seconds": 58.079
+        },
+        {
+          "point": "Kulinski predicts worsening short-term political turmoil.",
+          "evidence_segment_indices": [
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91
+          ],
+          "start_seconds": 184.959,
+          "end_seconds": 213.36
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "0b1e3c9722101f4e197bb2a186c7e2bb53738538077a79d4d78fc477d6ee22a3",
+      "transcript_captured_at": "2026-11-01T19:03:09.189470Z",
+      "summary_generated_at": "2026-11-01T19:08:14.493933Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript provides only the creator’s account and no independent medical or official confirmation.",
+        "The claimed connection between Murphy’s health event and his political positions is speculation explicitly framed as suspicion.",
+        "Several political references, including the alleged Iran and election plots, are not explained or substantiated in the source.",
+        "Some transcript passages contain redacted profanity and speech-recognition defects.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5206,191 +5364,6 @@
         "Several statements are predictions, characterizations, or campaign claims attributed to Parnas or Mlan, not independently corroborated in the source.",
         "The excerpt provides no documents, case numbers, election records, or methodology for the legal, turnout, litigation, and campaign figures.",
         "The source includes overlapping captions and a substantial advertisement, which may limit precision and continuity.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "i1mSEF2U_H0",
-      "title": "Trump Falls into MAJOR TRAP as GOP Turnout TANKS and White House MOBILIZES the ARMY!!",
-      "url": "https://www.youtube.com/watch?v=i1mSEF2U_H0",
-      "published_at": "2026-10-29T14:04:00.000000Z",
-      "summary": "Aaron Parnas argues that, five days before the midterm elections, Donald Trump is distracted by disputes over Barack Obama’s remarks about White House renovations while Republicans face a turnout shortfall. The episode presents Obama’s criticism and Trump’s responses as evidence of a campaign focused on personal and symbolic conflicts rather than affordability. It then describes alleged administration efforts affecting the election, including litigation over California ballots, plans to deploy federal law-enforcement personnel near polling sites, and reported National Guard activity in all 50 states. Parnas also discusses reported preparations for possible strikes on Iran and the reported removal of a general involved in planning them. The episode connects these developments to a broader argument that the administration is attempting to influence election procedures when politically vulnerable. Much of this account relies on cited statements, media reports, and the creator’s interpretation; the supplied captions do not independently establish the underlying allegations or their legal and operational details.",
-      "topics": [
-        "Midterm elections",
-        "Campaign strategy",
-        "Election administration",
-        "National Guard",
-        "Iran policy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The administration sought to set aside approximately 20,000 California ballots over citizenship concerns, and a federal judge rejected the request.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            167,
-            168,
-            169,
-            170,
-            171
-          ]
-        },
-        {
-          "claim": "The Justice Department planned to send prison guards, DEA agents, and ATF agents to polling locations in response to litigation over alleged voter intimidation.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            187,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195,
-            196,
-            197,
-            198,
-            199
-          ]
-        },
-        {
-          "claim": "The National Guard was quietly mobilized in all 50 states for the midterm elections, including missions involving polling places and drop boxes.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208
-          ]
-        },
-        {
-          "claim": "The United States military was preparing significant strikes on Iran and the general responsible for planning them was removed.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            216,
-            217,
-            218,
-            219
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas says Obama’s Cheesecake Factory joke became a political issue after Trump and his administration responded publicly.",
-          "evidence_segment_indices": [
-            50,
-            51,
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            68,
-            69,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95
-          ],
-          "start_seconds": 100.24,
-          "end_seconds": 210.239
-        },
-        {
-          "point": "The episode portrays Republican early-voting participation as weaker than Democratic participation, citing a Republican official’s admission of a turnout problem.",
-          "evidence_segment_indices": [
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144,
-            145,
-            146,
-            147,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153
-          ],
-          "start_seconds": 293.759,
-          "end_seconds": 332.96
-        },
-        {
-          "point": "Parnas links Trump’s campaign messaging, election-related legal actions, federal-agent deployments, and reported military involvement into a broader warning about election interference.",
-          "evidence_segment_indices": [
-            154,
-            155,
-            156,
-            161,
-            162,
-            163,
-            164,
-            165,
-            166,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185
-          ],
-          "start_seconds": 330.8,
-          "end_seconds": 391.6
-        },
-        {
-          "point": "The episode closes by urging viewers to vote and promoting the creator’s election-night coverage.",
-          "evidence_segment_indices": [
-            237,
-            238,
-            239,
-            240,
-            241,
-            242,
-            243,
-            244,
-            245
-          ],
-          "start_seconds": 486.879,
-          "end_seconds": 507.199
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "863108667ad25256cbac55d57f6295125681e1d5d86d384c4bcc952473fa6cfc",
-      "transcript_captured_at": "2026-10-29T15:03:19.283533Z",
-      "summary_generated_at": "2026-10-29T15:08:15.056864Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The captions contain transcription errors and garbled names, including references to officials and political figures.",
-        "The source presents media reports, quoted remarks, and the creator’s interpretations, but provides no underlying documents or independent corroboration.",
-        "Claims about planned deployments, military operations, ballot challenges, and legal proceedings require verification beyond this episode.",
-        "The supplied material covers the opening and main argument but does not establish the eventual election outcome.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
