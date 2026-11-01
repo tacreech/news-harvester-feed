@@ -1,11 +1,175 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-01T19:12:00.395327Z",
+  "generated_at": "2026-11-01T19:42:00.383144Z",
   "reporting_window": {
-    "start": "2026-10-25T19:12:00.395327Z",
-    "end": "2026-11-01T19:12:00.395327Z"
+    "start": "2026-10-25T19:42:00.383144Z",
+    "end": "2026-11-01T19:42:00.383144Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "gdPQOzl0Lyo",
+      "title": "🚨 Trump’s Efforts FALL APART as Democratic Turnout SURGES and Courts REJECT Him, HE’S DONE!!",
+      "url": "https://www.youtube.com/watch?v=gdPQOzl0Lyo",
+      "published_at": "2026-11-01T18:56:42.000000Z",
+      "summary": "Aaron Parnas presents a campaign-focused overview in which he argues that Donald Trump’s efforts in Alaska have failed, Democratic turnout is strengthening in North Carolina, and investigations of the president and his family may gain support if Democrats control Congress. He describes a federal judge’s dismissal of an Alaska case involving delayed certification and summarizes the stated standing and ripeness rationale. Parnas cites an alleged 343,000-vote Democratic advantage in North Carolina early voting, while acknowledging that turnout figures do not reveal how individuals voted. The episode also includes Trump’s claims about income, poverty, jobs, manufacturing, and military strength, plus comments from an Illinois governor advocating hearings rather than immediate impeachment. Parnas discusses Haley Stevens’s endorsement of Mike Rogers in Michigan and then interviews Tennessee congressional candidate Justin Pearson. Pearson describes early-voting enthusiasm, his campaign’s prospects, opposition to a Memphis-area data center, alleged health effects, and concerns about voter intimidation. Several claims remain assertions within the discussion and are not independently established by this transcript.",
+      "topics": [
+        "Election litigation",
+        "Early-voting turnout",
+        "Congressional investigations",
+        "Tennessee congressional race",
+        "Data-center impacts"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A federal judge dismissed efforts to delay certification of an Alaska Senate race, citing standing and ripeness issues.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            30,
+            36,
+            40,
+            43,
+            57,
+            64,
+            65
+          ]
+        },
+        {
+          "claim": "Democrats held a reported 343,000-vote early-voting advantage in North Carolina, compared with a 41,000-vote Republican advantage in 2024.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            66,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78
+          ]
+        },
+        {
+          "claim": "Justin Pearson alleges that a Memphis-area hyperscale data center contributes to pollution and adverse health outcomes, including increased asthma and emergency-room visits.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            276,
+            280,
+            287,
+            302,
+            305,
+            308,
+            313,
+            314,
+            317,
+            318,
+            320,
+            327
+          ]
+        },
+        {
+          "claim": "Justin Pearson alleges that his opponent is a sexual predator.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            405,
+            411,
+            417,
+            418
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames Alaska litigation and North Carolina turnout as setbacks for Trump and Republicans, while noting turnout does not identify vote choices.",
+          "evidence_segment_indices": [
+            2,
+            8,
+            18,
+            65,
+            67,
+            80,
+            84
+          ],
+          "start_seconds": 4.48,
+          "end_seconds": 209.28
+        },
+        {
+          "point": "The episode reports growing Democratic interest in investigations and presents a governor’s preference for hearings before considering impeachment.",
+          "evidence_segment_indices": [
+            108,
+            111,
+            113,
+            118,
+            129,
+            134,
+            136
+          ],
+          "start_seconds": 261.6,
+          "end_seconds": 330.56
+        },
+        {
+          "point": "Haley Stevens’s endorsement of Mike Rogers is described as provoking criticism among Michigan Democrats, with its electoral effect unresolved.",
+          "evidence_segment_indices": [
+            155,
+            160,
+            164,
+            175,
+            177,
+            179,
+            180
+          ],
+          "start_seconds": 362.72,
+          "end_seconds": 409.36
+        },
+        {
+          "point": "Pearson portrays his Tennessee campaign as competitive despite district boundaries and emphasizes economic costs, healthcare, wages, and community concerns.",
+          "evidence_segment_indices": [
+            212,
+            224,
+            227,
+            230,
+            231,
+            236,
+            241,
+            245
+          ],
+          "start_seconds": 465.12,
+          "end_seconds": 531.36
+        },
+        {
+          "point": "The interview closes with Pearson urging participation despite fears about intimidation or ballot challenges.",
+          "evidence_segment_indices": [
+            366,
+            378,
+            385,
+            394,
+            395,
+            396,
+            400,
+            405,
+            419
+          ],
+          "start_seconds": 753.36,
+          "end_seconds": 867.839
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "278a392306a66ba75e2c694c1bc9dcec305cfa932c1f79c3ea5510f8e140d0b4",
+      "transcript_captured_at": "2026-11-01T19:33:09.724779Z",
+      "summary_generated_at": "2026-11-01T19:38:17.554985Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains captioning and transcription defects, including misspellings, duplicated words, and unclear names.",
+        "Reported vote totals, polling, legal developments, endorsements, and health effects are presented through the episode and are not independently verified here.",
+        "Some political allegations and predictions are attributed to speakers rather than established as facts.",
+        "The transcript provides only source-level coverage and limited methodological detail for polling, turnout, and health assertions.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5081,289 +5245,6 @@
         "Several claims are explicitly described as alleged, attributed to sources, or framed as questions and speculation.",
         "Caption defects and transcription errors affect names, wording, and some financial or geopolitical references.",
         "The episode’s assertions about later conflicts, economic effects, and investment withdrawals are not independently substantiated in the supplied material.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "2o4rGHaykHI",
-      "title": "Trump Officials Face PRISON as Election Efforts FAIL, They Are PANICKING!!",
-      "url": "https://www.youtube.com/watch?v=2o4rGHaykHI",
-      "published_at": "2026-10-29T18:32:53.000000Z",
-      "summary": "Aaron Parnas argues that California’s election measures and litigation could hinder efforts he attributes to Trump and federal officials to interfere with ballot counting. He highlights legislation described as making unlawful seizure of ballots, election records, or voting technology a felony before certification, including potential prison exposure for authorities who order such actions. Parnas also presents a judge’s reported rejection of a request involving 20,000 ballots and repeats claims about unsuccessful federal lawsuits over voter rolls. The episode then shifts to political messaging, using a brief rally exchange to suggest difficulty finding supportive Trump voters. Its main interview is with Courtney Mlan, a South Carolina congressional candidate, who describes her campaign as grassroots and optimistic about early turnout and crossover support. Mlan emphasizes opposition to a nearby hyperscale data center, protection of Medicaid and ACA coverage, and youth representation. The material is an opinion-oriented commentary and campaign interview; legal, electoral, turnout, financial, and polling-related assertions are presented through speakers rather than independently established.",
-      "topics": [
-        "California election law",
-        "Ballot seizure and litigation",
-        "Trump campaign politics",
-        "South Carolina congressional campaign",
-        "Data centers and healthcare"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "California legislation makes unlawful seizure of ballots, election records, or certified voting technology before certification a felony, with possible prison exposure for an authority who orders it.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            33,
-            34,
-            35,
-            36,
-            37,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52
-          ]
-        },
-        {
-          "claim": "A judge rejected a request concerning 20,000 ballots and reported that federal voter-roll litigation had produced no wins among 26 decided cases.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95
-          ]
-        },
-        {
-          "claim": "Courtney Mlan says Greenville County led South Carolina in early-voting turnout and that her campaign received crossover support related partly to a data-center dispute.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            191,
-            192,
-            193,
-            194,
-            195,
-            196,
-            197,
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            210,
-            211,
-            212,
-            213,
-            214
-          ]
-        },
-        {
-          "claim": "Mlan says her campaign made more than 25,000 volunteer phone calls in Greenville during the prior week.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            388,
-            389,
-            390,
-            391,
-            398,
-            399,
-            400,
-            401,
-            402
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames California’s election legislation as a response to possible federal or law-enforcement disruption of ballot counting.",
-          "evidence_segment_indices": [
-            4,
-            5,
-            7,
-            8,
-            9,
-            10,
-            11,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            38,
-            39,
-            40,
-            41,
-            42
-          ],
-          "start_seconds": 10.08,
-          "end_seconds": 103.2
-        },
-        {
-          "point": "The commentary portrays Trump’s legal and electoral efforts as unsuccessful, while using a rally clip to question the depth of visible support.",
-          "evidence_segment_indices": [
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109
-          ],
-          "start_seconds": 29.679,
-          "end_seconds": 240.159
-        },
-        {
-          "point": "Mlan presents her South Carolina campaign as youth-oriented, grassroots, and competitive in a traditionally conservative district.",
-          "evidence_segment_indices": [
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189,
-            190,
-            344,
-            345,
-            346,
-            347,
-            348,
-            349
-          ],
-          "start_seconds": 362.16,
-          "end_seconds": 740.32
-        },
-        {
-          "point": "Her stated priorities include pausing a nearby data-center project and opposing Medicaid restrictions while supporting ACA coverage.",
-          "evidence_segment_indices": [
-            283,
-            284,
-            285,
-            286,
-            287,
-            288,
-            289,
-            290,
-            291,
-            292,
-            293,
-            294,
-            295,
-            296,
-            297,
-            298,
-            299,
-            300,
-            301,
-            302,
-            303,
-            304,
-            305,
-            306
-          ],
-          "start_seconds": 592.56,
-          "end_seconds": 646.959
-        },
-        {
-          "point": "The episode includes a sponsored personal-finance segment before returning to the interview and closing with subscription promotion.",
-          "evidence_segment_indices": [
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144,
-            145,
-            146,
-            147,
-            148,
-            149
-          ],
-          "start_seconds": 265.28,
-          "end_seconds": 320.479
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "717c35ef7eff17e793f3c7fe4d4d9d4f443df883a9ed41162fdb66ac6c6ef0a9",
-      "transcript_captured_at": "2026-10-29T20:03:12.853636Z",
-      "summary_generated_at": "2026-10-29T20:08:28.403011Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Captions contain apparent transcription errors, including names, legal terms, and phrases such as “wreck havoc” and “coersse.”",
-        "Several statements are predictions, characterizations, or campaign claims attributed to Parnas or Mlan, not independently corroborated in the source.",
-        "The excerpt provides no documents, case numbers, election records, or methodology for the legal, turnout, litigation, and campaign figures.",
-        "The source includes overlapping captions and a substantial advertisement, which may limit precision and continuity.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
