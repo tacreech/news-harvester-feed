@@ -1,11 +1,208 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T22:42:00.398481Z",
+  "generated_at": "2026-11-01T16:12:00.393818Z",
   "reporting_window": {
-    "start": "2026-10-24T22:42:00.398481Z",
-    "end": "2026-10-31T22:42:00.398481Z"
+    "start": "2026-10-25T16:12:00.393818Z",
+    "end": "2026-11-01T16:12:00.393818Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "w2RTAjcekEM",
+      "title": "Republicans Admit IT'S OVER, Trump in SOMBER Mood as Presidency Becomes LAME DUCK!!",
+      "url": "https://www.youtube.com/watch?v=w2RTAjcekEM",
+      "published_at": "2026-11-01T15:14:22.000000Z",
+      "summary": "Aaron Parnas argues that the approaching midterm elections could leave Donald Trump politically weakened if Democrats win either chamber of Congress. He presents Republican control of the House as effectively lost, describes the Senate as competitive, and cites early-voting figures in North Carolina as favorable to Democrats while acknowledging that election-day turnout could change the result. Parnas also alleges that Trump may be considering military action involving Iran and suggests this could be connected to electoral strategy, though the excerpt does not establish that claim. The episode highlights Senator Tim Scott’s characterization of Republican votes as support for Trump’s agenda. It further contrasts an opulent Mar-a-Lago Halloween event with reported pressures involving food assistance and health-insurance costs, framing the contrast as politically significant. Parnas predicts a Democratic House victory but calls the Senate a toss-up, while urging viewers to vote and promoting planned election-night coverage.",
+      "topics": [
+        "Midterm elections",
+        "Congressional control",
+        "Trump agenda",
+        "North Carolina voting",
+        "Iran policy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Parnas reports that Republicans privately consider the House effectively lost while viewing Senate control as uncertain.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "claim": "Parnas reports a Democratic early-voting lead of 343,000 votes in North Carolina in 2026, compared with a Republican lead of 41,000 at a comparable point in 2024.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106
+          ]
+        },
+        {
+          "claim": "Parnas alleges that Trump is preparing possible strikes on Iran and may use the prospect of military action to influence voters.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43
+          ]
+        },
+        {
+          "claim": "Parnas reports that Trump declined to answer a question about returning to war with Iran and called it stupid.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode frames control of either congressional chamber as consequential for Trump’s agenda.",
+          "evidence_segment_indices": [
+            9,
+            10,
+            15,
+            16,
+            20,
+            21,
+            22
+          ],
+          "start_seconds": 24.16,
+          "end_seconds": 62.559
+        },
+        {
+          "point": "Tim Scott is quoted describing Republican candidates as vehicles for Trump’s agenda and calling the Senate a firewall.",
+          "evidence_segment_indices": [
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            60,
+            61,
+            62,
+            66,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+          ],
+          "start_seconds": 109.119,
+          "end_seconds": 179.2
+        },
+        {
+          "point": "North Carolina early-voting data is presented as favorable to Democrats, but Parnas says no race is predetermined.",
+          "evidence_segment_indices": [
+            96,
+            97,
+            98,
+            99,
+            100,
+            102,
+            103,
+            104,
+            105,
+            115,
+            116,
+            117,
+            120,
+            121,
+            122,
+            123
+          ],
+          "start_seconds": 216.0,
+          "end_seconds": 288.08
+        },
+        {
+          "point": "Parnas contrasts the Mar-a-Lago event with reported economic pressures and interprets the contrast as politically meaningful.",
+          "evidence_segment_indices": [
+            126,
+            127,
+            128,
+            129,
+            130,
+            156,
+            157,
+            158,
+            159,
+            160,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177
+          ],
+          "start_seconds": 291.199,
+          "end_seconds": 428.24
+        },
+        {
+          "point": "Parnas predicts Democrats will likely win the House but says the Senate could go either way.",
+          "evidence_segment_indices": [
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189
+          ],
+          "start_seconds": 434.0,
+          "end_seconds": 457.68
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "d92e70fcfa13df0de8dda47c6c148560a04ecc04b6d99f76f394a62225421715",
+      "transcript_captured_at": "2026-11-01T16:03:09.991899Z",
+      "summary_generated_at": "2026-11-01T16:08:14.804292Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a single commentary episode and does not independently document the election data, private Republican assessments, or Iran-related allegations.",
+        "Captioning contains apparent transcription errors and incomplete phrases, including a stray speaker fragment around segment 77.",
+        "The excerpt provides no methodological details for the early-voting totals or the reported economic figures.",
+        "The creator explicitly acknowledges uncertainty about the election outcome, particularly in the Senate.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5158,258 +5355,6 @@
         "Crowd sizes, rally circumstances, and allegations in the clips are source-reported and require independent verification.",
         "The excerpt provides selected commentary and clips rather than a complete account of the events.",
         "Some references and names are ambiguous because surrounding context is absent.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "nCLtgStISqE",
-      "title": "Trump SEETHING Behind The Scenes Over Obama’s POPULARITY, He is OBSESSED!",
-      "url": "https://www.youtube.com/watch?v=nCLtgStISqE",
-      "published_at": "2026-10-28T23:51:32.000000Z",
-      "summary": "Aaron Parnas argues that Donald Trump is preoccupied with Barack Obama’s visibility and popularity, presenting alleged private frustration alongside contrasting rally-size claims. In conversation with Jessica Tarlov, Parnas and Tarlov assess the approaching election, focusing on Trump’s campaign appearances in Republican-leaning states, the Texas race involving Ken Paxton, and Democratic hopes in several Senate contests. They characterize the races as unusually close and debate whether turnout, third-party candidates, endorsements, and polling will determine outcomes. The discussion also critiques JD Vance’s campaign performance, considers Alexandria Ocasio-Cortez’s effort to reframe attacks about socialism around services and living costs, and reviews claims about political developments in Israel and Brazil. A later segment addresses allegations that federal officials have withheld information from the family of a person fatally shot by immigration agents. The episode is primarily commentary and prediction, with embedded clips, advertising, personal remarks, and captions that contain substantial transcription errors; the overview therefore does not independently validate its factual assertions.",
-      "topics": [
-        "Trump and Obama",
-        "Election and Senate races",
-        "Campaign messaging",
-        "Israel and Brazil",
-        "Immigration accountability"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The episode reports that private sources say Trump is angry about Obama receiving more views, clicks, and rally attendance.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            14,
-            18,
-            19,
-            20,
-            21
-          ]
-        },
-        {
-          "claim": "The episode presents specific rally-attendance comparisons in Ohio and Georgia.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "claim": "The episode reports that a Brazilian investigation concerns alleged contacts between Flavio Bolsonaro’s campaign and Rockbridge Network.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            702,
-            703,
-            705,
-            709,
-            710,
-            711,
-            712,
-            713,
-            715,
-            716,
-            717,
-            718
-          ]
-        },
-        {
-          "claim": "The episode says the family of a Minneapolis nurse fatally shot by federal immigration agents alleges that the administration is withholding investigative information.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            762,
-            763,
-            764,
-            765,
-            766,
-            767,
-            768,
-            769,
-            770,
-            771,
-            772,
-            773
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas and Tarlov discuss the election as a series of close contests where turnout and candidate quality may matter more than traditional state expectations.",
-          "evidence_segment_indices": [
-            120,
-            121,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            153,
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160,
-            187,
-            188,
-            189,
-            190,
-            191
-          ],
-          "start_seconds": 257.519,
-          "end_seconds": 425.759
-        },
-        {
-          "point": "They predict that Democratic messaging focused on costs, health care, schools, and services may be more effective than repeated socialism or communism attacks.",
-          "evidence_segment_indices": [
-            468,
-            469,
-            470,
-            471,
-            472,
-            473,
-            476,
-            480,
-            482,
-            483,
-            484,
-            485,
-            496,
-            497,
-            498,
-            530,
-            531,
-            532,
-            547,
-            548,
-            563,
-            564,
-            571,
-            577
-          ],
-          "start_seconds": 1001.6,
-          "end_seconds": 1250.88
-        },
-        {
-          "point": "The discussion portrays JD Vance’s campaign as weak while speculating that limited scrutiny could affect his future Republican prospects.",
-          "evidence_segment_indices": [
-            213,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224,
-            244,
-            245,
-            246,
-            254,
-            255,
-            256,
-            257,
-            258,
-            259,
-            260,
-            271,
-            274
-          ],
-          "start_seconds": 463.84,
-          "end_seconds": 599.76
-        },
-        {
-          "point": "The Israel segment describes an inconclusive political situation and emphasizes uncertainty about coalition formation and future elections.",
-          "evidence_segment_indices": [
-            580,
-            581,
-            582,
-            583,
-            584,
-            585,
-            586,
-            587,
-            588,
-            589,
-            590,
-            602,
-            603,
-            604,
-            605,
-            606,
-            607,
-            608,
-            609,
-            610,
-            688,
-            689,
-            690,
-            691
-          ],
-          "start_seconds": 1252.0,
-          "end_seconds": 1488.08
-        },
-        {
-          "point": "The episode closes with commentary about alleged government opacity after a fatal immigration-agent shooting and criticism of officials’ public descriptions.",
-          "evidence_segment_indices": [
-            764,
-            765,
-            766,
-            767,
-            768,
-            769,
-            770,
-            771,
-            772,
-            773,
-            774,
-            779,
-            780,
-            781,
-            782,
-            783,
-            789,
-            790,
-            791,
-            792,
-            793
-          ],
-          "start_seconds": 1626.24,
-          "end_seconds": 1692.48
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "35167b04200dad20e4c9d882e17050e57c55b39d9443ce175e2797cb68c8ea2f",
-      "transcript_captured_at": "2026-10-29T09:10:10.955255Z",
-      "summary_generated_at": "2026-10-29T09:38:16.953938Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains numerous garbled names, phrases, and apparent caption substitutions, limiting reliable identification of some people and places.",
-        "Many numerical, polling, rally-attendance, election, and international claims are presented as discussion or reported information and are not independently verified here.",
-        "Predictions and interpretations are attributed to the speakers rather than treated as established outcomes.",
-        "The source includes an advertisement and personal or conversational material that are not central to the political overview.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
