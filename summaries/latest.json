@@ -1,11 +1,211 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-01T22:42:00.343032Z",
+  "generated_at": "2026-11-02T00:42:00.346395Z",
   "reporting_window": {
-    "start": "2026-10-25T22:42:00.343032Z",
-    "end": "2026-11-01T22:42:00.343032Z"
+    "start": "2026-10-26T00:42:00.346395Z",
+    "end": "2026-11-02T00:42:00.346395Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "Nazb4W5xWrI",
+      "title": "Democrats BREAK RECORDS Sending White House into SPIRAL, FIVE ALARM FIRE!!",
+      "url": "https://www.youtube.com/watch?v=Nazb4W5xWrI",
+      "published_at": "2026-11-02T00:06:35.000000Z",
+      "summary": "Aaron Parnas frames the episode as an argument that Democrats may be positioned for strong midterm results and that the Trump White House is preparing for that possibility. He discusses reported early-voting figures, including more than 51 million ballots nationwide, Democratic registration advantages in Florida, and Democratic leads in North Carolina and Nevada, while acknowledging that party registration does not reveal how individuals voted. Parnas then describes a Reuters-reported White House effort to plan executive actions on immigration, tariffs, housing, visas, and federal grants in case Congress changes hands. He also alleges that White House lawyers are preparing officials for subpoenas and considering broader executive privilege. The episode further covers a reported Alaska court loss involving an effort to block vote certification, followed by comments from Illinois Governor J.B. Pritzker about certification and political pressure. The source is primarily commentary and includes promotional material, political characterizations, and several claims that would require independent verification.",
+      "topics": [
+        "Early voting",
+        "Congressional control",
+        "Executive power",
+        "Election certification"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "More than 51 million Americans had voted early, with the cited state-level party registration comparisons in Florida, North Carolina, and Nevada.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            13,
+            14,
+            35,
+            39,
+            42,
+            43,
+            45,
+            46,
+            59,
+            62,
+            63,
+            71,
+            72
+          ]
+        },
+        {
+          "claim": "The Trump White House had been preparing for a possible Democratic congressional majority and planning actions that could be taken without Congress.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            97,
+            98,
+            99,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            123,
+            124,
+            125
+          ]
+        },
+        {
+          "claim": "White House lawyers coached political appointees on subpoenas and document requests and sought to broaden executive privilege.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            126,
+            127,
+            128,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145
+          ]
+        },
+        {
+          "claim": "An Alaska judge dismissed a lawsuit intended to prevent certification of the vote.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            159,
+            160,
+            161,
+            162,
+            163,
+            164
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas presents early-voting data as evidence of Democratic momentum, while noting that registration data does not establish candidate choice.",
+          "evidence_segment_indices": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            52,
+            53,
+            54,
+            55
+          ],
+          "start_seconds": 24.48,
+          "end_seconds": 128.0
+        },
+        {
+          "point": "The episode links possible Democratic congressional control to prospective executive actions and White House legal planning.",
+          "evidence_segment_indices": [
+            95,
+            96,
+            97,
+            98,
+            99,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112
+          ],
+          "start_seconds": 227.12,
+          "end_seconds": 265.12
+        },
+        {
+          "point": "Parnas emphasizes reported preparations for investigations, subpoenas, document requests, and executive-privilege disputes.",
+          "evidence_segment_indices": [
+            126,
+            127,
+            128,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140
+          ],
+          "start_seconds": 289.04,
+          "end_seconds": 318.56
+        },
+        {
+          "point": "A discussion of Alaska certification includes remarks by Illinois Governor J.B. Pritzker supporting certification of the winner.",
+          "evidence_segment_indices": [
+            167,
+            168,
+            169,
+            170,
+            177,
+            178,
+            185,
+            186,
+            187,
+            188,
+            195,
+            196,
+            197,
+            198
+          ],
+          "start_seconds": 380.96,
+          "end_seconds": 456.88
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "70eaced04296ecfaeec21cb08c8b89fe314f75fa2239cea2e5d07c8d09674a8d",
+      "transcript_captured_at": "2026-11-02T00:33:09.347847Z",
+      "summary_generated_at": "2026-11-02T00:38:14.711906Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a single commentary transcript and does not provide underlying documents or independently verified election records.",
+        "Several transcript segments contain apparent caption errors, including names, numbers, and fragmented phrases.",
+        "Early-vote margins and registration statistics may not predict final election outcomes; the speaker explicitly notes uncertainty about how voters cast ballots.",
+        "The Alaska litigation and certification discussion is presented with incomplete procedural detail.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mike Figueredo — The Humanist Report",
       "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
@@ -5186,154 +5386,6 @@
         "Several captions contain redactions, transcription errors, and ambiguous names or acronyms, including DSA, DFA, and references to detention facilities.",
         "The reviewed AI-video excerpts are incomplete, so its full context and intended claims cannot be determined from this transcript alone.",
         "Some historical, polling, policy, and conflict assertions are mentioned without supporting documentation in the source.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "dA1GUNDm8wg",
-      "title": "Elon Musk Is Pure Evil | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=dA1GUNDm8wg",
-      "published_at": "2026-10-29T19:30:04.000000Z",
-      "summary": "Kyle Kulinski argues that Elon Musk’s prominence undermines the idea that extreme wealth reliably reflects superior intelligence, effort, or merit. He portrays Musk’s political involvement and alleged influence over government programs as evidence of an “anti-meritocracy,” while criticizing cuts he attributes to Musk and the Trump administration across aid, research, safety, and public services. Kulinski also challenges Republican criticism of George Soros by presenting an alleged comparison of election spending involving Musk and Soros. He disputes Musk’s past technology and product promises, citing autonomy, robotaxis, Mars travel, Hyperloop, and the Tesla Roadster. The episode concludes with Kulinski advocating a no-billionaires tax, redistribution of wealth, and possible criminal accountability for Musk. The source is a strongly partisan monologue containing numerous inflammatory characterizations, allegations, causal claims, and references to unnamed or quoted reporting; it does not independently establish those claims.",
-      "topics": [
-        "Elon Musk",
-        "Billionaire wealth",
-        "Government cuts",
-        "Election spending",
-        "Tax policy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Kulinski says Musk’s political activity and government-related decisions contributed to cuts affecting public services, research, safety programs, and foreign aid.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            37,
-            41,
-            45,
-            53,
-            60,
-            62,
-            64,
-            89,
-            322,
-            334
-          ]
-        },
-        {
-          "claim": "Kulinski presents figures asserting that Musk spent $759 million on U.S. election campaigns in two years, compared with $624 million attributed to Soros over his lifetime.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            141,
-            142,
-            143,
-            150,
-            152,
-            153,
-            155,
-            156
-          ]
-        },
-        {
-          "claim": "Kulinski repeats estimates that U.S. aid cuts associated with Musk could cause large numbers of deaths, including a cited estimate involving 500,000 children.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            363,
-            365,
-            367,
-            368,
-            369,
-            370,
-            374,
-            375
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that Musk made and failed to meet multiple timelines or promises involving autonomous driving, robotaxis, Mars travel, Hyperloop, and the Tesla Roadster.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            262,
-            263,
-            266,
-            269,
-            270,
-            271,
-            272,
-            276,
-            278,
-            281
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode frames Musk as a counterexample to meritocratic explanations of extreme wealth.",
-          "evidence_segment_indices": [
-            0,
-            5,
-            16,
-            17,
-            396,
-            397
-          ],
-          "start_seconds": 0.32,
-          "end_seconds": 825.2
-        },
-        {
-          "point": "Kulinski links Musk to alleged reductions in domestic programs and international aid, emphasizing humanitarian consequences.",
-          "evidence_segment_indices": [
-            38,
-            42,
-            54,
-            62,
-            323,
-            337,
-            338
-          ],
-          "start_seconds": 85.439,
-          "end_seconds": 704.72
-        },
-        {
-          "point": "The commentary argues that scrutiny of Musk’s political spending should match scrutiny directed at Soros.",
-          "evidence_segment_indices": [
-            130,
-            138,
-            149,
-            161,
-            162
-          ],
-          "start_seconds": 276.88,
-          "end_seconds": 357.52
-        },
-        {
-          "point": "Kulinski proposes eliminating billionaires through taxation and redistributing wealth toward social benefits.",
-          "evidence_segment_indices": [
-            412,
-            416,
-            418,
-            419,
-            420,
-            421
-          ],
-          "start_seconds": 851.839,
-          "end_seconds": 880.399
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "300c79373a152cd04031453d43702f5d987242a6f690364fbbb16f03d9790bb6",
-      "transcript_captured_at": "2026-10-29T20:33:20.988718Z",
-      "summary_generated_at": "2026-10-29T20:38:25.668598Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is an edited automatic caption source with profanity redactions, transcription errors, and occasional unclear names or phrases.",
-        "Many factual claims are presented by Kulinski as allegations, quotations, estimates, or causal interpretations rather than demonstrated findings in the source.",
-        "The episode references charts, Oxfam, Futurism, a documentary, and other speakers, but the underlying materials are not provided here.",
-        "The source reflects one commentator’s strongly partisan perspective and does not provide counterarguments or independent corroboration.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
