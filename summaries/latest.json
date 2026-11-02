@@ -1,11 +1,165 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T00:42:00.346395Z",
+  "generated_at": "2026-11-02T04:12:00.367511Z",
   "reporting_window": {
-    "start": "2026-10-26T00:42:00.346395Z",
-    "end": "2026-11-02T00:42:00.346395Z"
+    "start": "2026-10-26T04:12:00.367511Z",
+    "end": "2026-11-02T04:12:00.367511Z"
   },
   "episodes": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "Z0KJm8P1DzQ",
+      "title": "It Finally Got Shut Down...",
+      "url": "https://www.youtube.com/watch?v=Z0KJm8P1DzQ",
+      "published_at": "2026-11-02T01:04:52.000000Z",
+      "summary": "The creator argues that recent safeguards in Claude-related coding tools have ended an earlier period when users could easily generate game mashups, reverse-engineering projects, and other software experiments. He describes reported refusals involving game cloning, crash analysis, malware, and reverse-engineering tools, while saying users can still connect less restricted models to MCP tools such as Ghidra or IDA Pro. He presents local hosting and alternative providers as workarounds, but warns that autonomous systems may damage devices or leave users unable to understand or repair their changes. The creator speculates that pressure from major game companies and possible litigation motivated the restrictions, while emphasizing that emulation and duplication will continue through other models and tools. He then broadens the discussion to Reddit’s licensing and access changes, arguing that AI-generated summaries reduce traffic to source websites and that companies prioritize revenue over user protections. The episode closes with his view that restrictions reflect corporate interests rather than consistent principles.",
+      "topics": [
+        "AI coding safeguards",
+        "Game reverse engineering and emulation",
+        "Local and alternative AI models",
+        "Copyright and corporate incentives",
+        "Reddit scraping and traffic"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The creator says Claude-related tools recently restricted or refused game cloning, reverse-engineering, malware analysis, and related requests.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            31,
+            50,
+            58,
+            60,
+            74,
+            129,
+            200,
+            210,
+            215
+          ]
+        },
+        {
+          "claim": "The creator attributes the safeguards partly to possible pressure or litigation from major game companies.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            367,
+            371,
+            373,
+            381,
+            388,
+            483,
+            492,
+            506
+          ]
+        },
+        {
+          "claim": "The creator says Reddit licensed content to Google for about $60 million per year and later reported that AI features did not drive traffic.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            528,
+            532,
+            537,
+            539,
+            543,
+            544
+          ]
+        },
+        {
+          "claim": "The creator says Reddit made its website require sign-in as a response to scraping and reduced referral traffic.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            557,
+            558,
+            569,
+            570,
+            576,
+            582
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode frames new AI safeguards as ending easy, automated game duplication and modification workflows.",
+          "evidence_segment_indices": [
+            28,
+            31,
+            60,
+            80,
+            102
+          ],
+          "start_seconds": 67.76,
+          "end_seconds": 227.28
+        },
+        {
+          "point": "Alternative models, local hosting, and MCP integrations are presented as continuing avenues for reverse-engineering work.",
+          "evidence_segment_indices": [
+            229,
+            234,
+            241,
+            250,
+            259,
+            275,
+            321,
+            427
+          ],
+          "start_seconds": 492.08,
+          "end_seconds": 932.8
+        },
+        {
+          "point": "The creator warns that unsupervised agentic tools can damage devices and prevent users from understanding what changed.",
+          "evidence_segment_indices": [
+            162,
+            166,
+            171,
+            176,
+            178
+          ],
+          "start_seconds": 355.039,
+          "end_seconds": 392.08
+        },
+        {
+          "point": "The creator connects AI summaries and scraping with declining direct traffic to Reddit and broader disputes over data use.",
+          "evidence_segment_indices": [
+            547,
+            550,
+            555,
+            567,
+            583,
+            592
+          ],
+          "start_seconds": 1197.919,
+          "end_seconds": 1287.6
+        },
+        {
+          "point": "The creator concludes that corporate legal and financial concerns, rather than consistent ethics, drive enforcement decisions.",
+          "evidence_segment_indices": [
+            605,
+            609,
+            619,
+            623,
+            625,
+            627
+          ],
+          "start_seconds": 1310.08,
+          "end_seconds": 1360.4
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "5c1f9365cae5fdb4d7433e438f53d0b345927b9d1dfc31200705c56442e8c402",
+      "transcript_captured_at": "2026-11-02T04:03:09.517892Z",
+      "summary_generated_at": "2026-11-02T04:08:15.209195Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains frequent caption errors and inconsistent names for products, models, repositories, and tools.",
+        "Many technical, legal, performance, pricing, and corporate claims are presented only through the creator’s commentary and are not independently established here.",
+        "The creator explicitly marks the proposed litigation rationale as personal belief or speculation.",
+        "The source is a single commentary episode and does not provide primary documents, links, or corroborating evidence.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5202,190 +5356,6 @@
         "Several quoted remarks and references are presented without links, dates, or surrounding context.",
         "The episode is an advocacy monologue, so its allegations and predictions are not independently established by the source alone.",
         "Some numerical, historical, scientific, and policy claims require verification outside the transcript.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "TMQLJjVMma4",
-      "title": "Dave Rubin Has Completely Lost His Mind | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=TMQLJjVMma4",
-      "published_at": "2026-10-29T20:00:27.000000Z",
-      "summary": "Kyle Kulinski critiques Dave Rubin’s political evolution and responds to an AI-generated video depicting a dystopian future under Democratic Socialists of America (DSA)-aligned politics. Kulinski characterizes Rubin as having moved from liberal commentary to conventional Republican and pro-Trump advocacy, while alleging that Rubin’s positions on Israel, Muslims, and Gaza reflect prejudice and support for violence. He then reviews portions of Rubin’s video, which portray protests, rationing, property seizure, ideological conformity, and social unrest under a hypothetical DSA-led America. Kulinski argues that the video caricatures left-wing politics and says several conditions it depicts are, in his view, more closely associated with the Trump administration, citing alleged immigration detention, due-process violations, border-wall property conflicts, and economic pressures. He also rejects the video’s implication that support for Palestinian rights conflicts with LGBTQ rights. The episode is primarily commentary and ridicule, relying on excerpts and Kulinski’s assertions rather than independently presented documentation.",
-      "topics": [
-        "Dave Rubin",
-        "AI-generated political video",
-        "DSA and political caricature",
-        "Trump administration criticism",
-        "Israel and Gaza"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Kulinski alleges that Dave Rubin defended the bombing of schools during a dispute with The Young Turks and later adopted increasingly conservative and pro-Trump positions.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            4,
-            7,
-            13,
-            14,
-            17,
-            20,
-            27,
-            29,
-            34
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that Trump administration policies have involved gas or diesel rationing, property seizure for border construction, immigration detention, torture, and due-process violations.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            115,
-            119,
-            129,
-            130,
-            140,
-            143,
-            150,
-            156,
-            258,
-            261,
-            263,
-            267,
-            272
-          ]
-        },
-        {
-          "claim": "Kulinski states that 90% of immigrants sent to a detention facility in El Salvador had no criminal record and were tortured or raped.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            261,
-            262,
-            263,
-            264,
-            265
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that Rubin supports or excuses Israeli violence in Gaza and portrays Rubin’s politics as Islamophobic.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            175,
-            176,
-            184,
-            185,
-            194,
-            195,
-            198,
-            223,
-            225,
-            227,
-            228
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames Rubin’s political trajectory as a shift from liberal branding to conservative Republican and pro-Trump advocacy.",
-          "evidence_segment_indices": [
-            4,
-            5,
-            6,
-            23,
-            27,
-            28,
-            29,
-            34
-          ],
-          "start_seconds": 6.56,
-          "end_seconds": 70.799
-        },
-        {
-          "point": "The episode critiques Rubin’s use of AI-generated narration and reviews a video imagining social disorder under DSA influence.",
-          "evidence_segment_indices": [
-            57,
-            63,
-            64,
-            67,
-            68,
-            82,
-            83,
-            93,
-            96,
-            103,
-            109,
-            134,
-            162,
-            205,
-            209,
-            233
-          ],
-          "start_seconds": 112.72,
-          "end_seconds": 541.44
-        },
-        {
-          "point": "Kulinski argues the video presents a distorted caricature of left-wing goals and contrasts it with his stated priorities of equality, justice, healthcare, education, wages, unions, and personal freedom.",
-          "evidence_segment_indices": [
-            211,
-            213,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220
-          ],
-          "start_seconds": 478.639,
-          "end_seconds": 508.72
-        },
-        {
-          "point": "Kulinski contends that support for LGBTQ rights and opposition to violence against Palestinians are compatible positions.",
-          "evidence_segment_indices": [
-            182,
-            183,
-            184,
-            188,
-            190,
-            200,
-            201,
-            202
-          ],
-          "start_seconds": 407.199,
-          "end_seconds": 458.08
-        },
-        {
-          "point": "The episode ends by portraying Rubin as unwilling to acknowledge the DSA’s stated aims and as defending Israel and right-wing governments.",
-          "evidence_segment_indices": [
-            290,
-            291,
-            293,
-            294,
-            295,
-            296,
-            297,
-            300,
-            301,
-            302
-          ],
-          "start_seconds": 662.399,
-          "end_seconds": 690.16
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "238cb52e61e4d395b93cd905aecab98d157fe9951451febdf6369bd947e76f40",
-      "transcript_captured_at": "2026-10-29T20:33:28.846718Z",
-      "summary_generated_at": "2026-10-29T20:38:37.310983Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The account is a single commentator’s polemical interpretation and does not independently establish the allegations discussed.",
-        "Several captions contain redactions, transcription errors, and ambiguous names or acronyms, including DSA, DFA, and references to detention facilities.",
-        "The reviewed AI-video excerpts are incomplete, so its full context and intended claims cannot be determined from this transcript alone.",
-        "Some historical, polling, policy, and conflict assertions are mentioned without supporting documentation in the source.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
