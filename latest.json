@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T04:32:47.024118Z",
+  "generated_at": "2026-11-04T05:32:47.180375Z",
   "reporting_window": {
-    "start": "2026-10-28T04:32:47.024118Z",
-    "end": "2026-11-04T04:32:47.024118Z",
+    "start": "2026-10-28T05:32:47.180375Z",
+    "end": "2026-11-04T05:32:47.180375Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -46,7 +46,9 @@
       "health": "feed_unavailable",
       "discovery_status": "feed_unavailable",
       "last_successful_poll": "2026-11-04T03:32:32.183181Z",
-      "warnings": []
+      "warnings": [
+        "poll_overdue"
+      ]
     },
     {
       "creator": "House of El – AI",
