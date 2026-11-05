@@ -1,11 +1,810 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T04:12:00.367511Z",
+  "generated_at": "2026-11-05T17:42:01.152119Z",
   "reporting_window": {
-    "start": "2026-10-26T04:12:00.367511Z",
-    "end": "2026-11-02T04:12:00.367511Z"
+    "start": "2026-10-29T17:42:01.152119Z",
+    "end": "2026-11-05T17:42:01.152119Z"
   },
   "episodes": [
+    {
+      "creator": "Mike Figueredo — The Humanist Report",
+      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
+      "video_id": "yTMMMi-E1JU",
+      "title": "BREAKING: Dems OBLITERATE Republicans with Shocking Red State Wins, Retake House AND Senate",
+      "url": "https://www.youtube.com/watch?v=yTMMMi-E1JU",
+      "published_at": "2026-11-04T08:11:44.000000Z",
+      "summary": "The creator presents the election as a sweeping Democratic victory, claiming that Democrats retook both chambers of Congress and won several traditionally Republican states. He highlights reported Democratic victories or leads in Texas, South Carolina, Iowa, Kansas, Maine, Minnesota, and elsewhere, while celebrating Abdul Oed’s reported Senate win and describing it as historic. The episode also reviews House and gubernatorial contests, including several races the creator says remain close or uncalled. The creator interprets the results as a repudiation of Donald Trump and his policies, while predicting that Republicans may eventually distance themselves from him. He argues that the Democratic majority could create opportunities for Medicare for All, campaign-finance changes, and independent redistricting, though these are presented as future possibilities rather than outcomes. The discussion is highly partisan and frequently uses inflammatory language. Because the material is an immediate election-night commentary, many results, margins, and broader conclusions are provisional and would require checking against official returns.",
+      "topics": [
+        "Election results",
+        "Congressional control",
+        "Democratic victories",
+        "Trump’s political standing",
+        "Uncalled races"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Democrats retook the House and Senate, according to the creator.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            20,
+            21,
+            22,
+            277,
+            278,
+            279
+          ]
+        },
+        {
+          "claim": "The creator reports Democratic wins or leads in multiple red states, including Texas, South Carolina, Iowa, Kansas, Maine, and Mississippi.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            16,
+            18,
+            19,
+            38,
+            39,
+            40,
+            43,
+            46,
+            47,
+            48,
+            86,
+            98,
+            100,
+            101
+          ]
+        },
+        {
+          "claim": "Abdul Oed won a Senate seat and became the first Muslim senator in American history, according to the creator.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            57,
+            58,
+            59,
+            64
+          ]
+        },
+        {
+          "claim": "Several House and gubernatorial races remained close, incomplete, or uncalled when the episode was recorded.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            41,
+            104,
+            105,
+            106,
+            107,
+            108,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            261,
+            262,
+            264,
+            265,
+            266
+          ]
+        },
+        {
+          "claim": "The creator says Trump attributed Republican losses to factors including the Iran war and gas prices.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            147,
+            148,
+            149,
+            150,
+            156,
+            157,
+            158,
+            159
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames the election as a major Democratic breakthrough and Republican defeat.",
+          "evidence_segment_indices": [
+            8,
+            9,
+            10,
+            20,
+            21,
+            277,
+            278,
+            279
+          ],
+          "start_seconds": 25.439,
+          "end_seconds": 657.6
+        },
+        {
+          "point": "The episode spotlights reported Democratic gains in states and districts normally associated with Republicans.",
+          "evidence_segment_indices": [
+            16,
+            43,
+            46,
+            47,
+            100,
+            101,
+            137,
+            138
+          ],
+          "start_seconds": 40.96,
+          "end_seconds": 329.36
+        },
+        {
+          "point": "The creator links the results to progressive policy goals, including Medicare for All and redistricting reform.",
+          "evidence_segment_indices": [
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            123,
+            124,
+            125,
+            126
+          ],
+          "start_seconds": 147.36,
+          "end_seconds": 303.36
+        },
+        {
+          "point": "The creator predicts a difficult period for Republicans and possible future breaks with Trump.",
+          "evidence_segment_indices": [
+            280,
+            281,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            303,
+            304
+          ],
+          "start_seconds": 653.519,
+          "end_seconds": 708.72
+        },
+        {
+          "point": "The creator acknowledges unresolved races and some Democratic losses despite describing the overall night as favorable.",
+          "evidence_segment_indices": [
+            104,
+            105,
+            106,
+            107,
+            108,
+            180,
+            181,
+            182,
+            183,
+            184,
+            307,
+            308,
+            309,
+            310,
+            311,
+            312,
+            313,
+            314
+          ],
+          "start_seconds": 249.12,
+          "end_seconds": 732.0
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "f02077837ce4ad046dbbda32a6c0b2d1aaf7abb67d01d96b2ce950fccc07403a",
+      "transcript_captured_at": "2026-11-05T17:33:17.117462Z",
+      "summary_generated_at": "2026-11-05T17:38:45.965347Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript reflects election-night reporting, so many results and margins may have changed after recording.",
+        "Several captions contain apparent transcription errors, garbled names, profanity substitutions, or ambiguous wording.",
+        "The source provides commentary and claimed results but no independent documentation or official vote totals.",
+        "Some predictions about future majorities, policy changes, investigations, and party strategy are speculative.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "9-aaOaIsQgY",
+      "title": "Trump SPIRALS as Democrats Secure HUGE WIN and Newsom Threatens to JAIL ICE",
+      "url": "https://www.youtube.com/watch?v=9-aaOaIsQgY",
+      "published_at": "2026-11-03T21:41:08.000000Z",
+      "summary": "Creator Aaron Parnas presents an election-day update emphasizing reported high turnout, alleged problems involving federal election monitors, a Democratic pickup in Guam, and California Governor Gavin Newsom’s warnings about possible interference at polling places. Parnas says early voting has exceeded 2022 levels in several states and highlights county-level increases, while also citing reports that Department of Justice monitors in Michigan and New Mexico asked questions or requested materials outside their permitted role. The episode identifies Alicia Ann Limataco’s reported victory over James Moylan as Democrats’ first congressional flip of the cycle, while noting a contradictory change in Guam’s governorship. In an interview, Newsom describes strong California participation, says the state deployed its own monitors and legal resources, and argues that unlawful seizure of ballots or voting machines could trigger state prosecution. He also advocates combining investigations of alleged corruption with an affirmative Democratic policy agenda. The segment ends with Newsom discussing continued public service and possible future political involvement.",
+      "topics": [
+        "Election turnout",
+        "Election monitoring",
+        "Guam delegate race",
+        "California election administration",
+        "Democratic strategy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Early voting exceeded 2022 levels across several cited states and counties.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            27,
+            28,
+            29,
+            30,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43
+          ]
+        },
+        {
+          "claim": "DOJ election monitors reportedly acted outside their legal scope or questioned election workers in Michigan and New Mexico.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75
+          ]
+        },
+        {
+          "claim": "Alicia Ann Limataco reportedly defeated James Moylan for Guam’s non-voting House delegate seat.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84
+          ]
+        },
+        {
+          "claim": "Newsom said California deployed monitors, attorneys, and other resources to address election issues.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            182,
+            183,
+            184,
+            193,
+            194,
+            195,
+            196,
+            197,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209
+          ]
+        },
+        {
+          "claim": "Newsom said California law makes seizing a ballot or voting machine a state felony subject to prosecution.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames the episode around turnout, election administration disputes, Guam, and Newsom’s interview.",
+          "evidence_segment_indices": [
+            0,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14,
+            24,
+            25
+          ],
+          "start_seconds": 0.0,
+          "end_seconds": 57.72
+        },
+        {
+          "point": "The episode reports strong early voting and turnout in multiple states and communities.",
+          "evidence_segment_indices": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "start_seconds": 57.72,
+          "end_seconds": 114.28
+        },
+        {
+          "point": "Parnas attributes allegations about DOJ monitors to state officials and reporting.",
+          "evidence_segment_indices": [
+            52,
+            55,
+            57,
+            58,
+            62,
+            66,
+            67,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75
+          ],
+          "start_seconds": 114.28,
+          "end_seconds": 170.052
+        },
+        {
+          "point": "Newsom describes California’s election preparations and warns of state enforcement against unlawful interference.",
+          "evidence_segment_indices": [
+            174,
+            175,
+            176,
+            182,
+            183,
+            193,
+            194,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            228,
+            231,
+            232
+          ],
+          "start_seconds": 365.054,
+          "end_seconds": 485.175
+        },
+        {
+          "point": "Newsom argues Democrats should pursue accountability while delivering tangible policy results.",
+          "evidence_segment_indices": [
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            271,
+            272,
+            273,
+            274,
+            277,
+            278,
+            284,
+            285,
+            286,
+            287,
+            288,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318
+          ],
+          "start_seconds": 545.617,
+          "end_seconds": 671.818
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "7d89a6a01e4fdeda4b037e5200c646e3f6687e511215e2d274fcc5838f934dc2",
+      "transcript_captured_at": "2026-11-05T17:33:11.134985Z",
+      "summary_generated_at": "2026-11-05T17:38:25.302605Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains overlapping captions, misheard names, grammatical defects, and apparent corrections.",
+        "Several numerical and legal assertions are presented as reports or interview claims rather than independently established evidence.",
+        "The supplied material covers only the episode transcript and does not include supporting documents, election records, or full contextual reporting.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "PZKNn98pi3k",
+      "title": "We Can Mod GTA 6 Into GTA 5...",
+      "url": "https://www.youtube.com/watch?v=PZKNn98pi3k",
+      "published_at": "2026-11-03T20:21:01.000000Z",
+      "summary": "The creator presents a fan-made GTA 5 mod that imitates reported and promotional GTA 6 features, describing it as an unofficial way for PC players to sample a similar experience before GTA 6 arrives. He demonstrates a redesigned HUD, 3D minimap, character switching, refueling, expanded robbery activities, wanted-system changes, vehicle storage, challenges, and customized vehicle menus. The video shows several gameplay experiments, including a gas-station robbery, an unsuccessful bank heist, and a jewelry-store robbery that yields about $10,000. The creator emphasizes that the project combines multiple mods and is incomplete: some systems malfunction, the bank sequence fails, weapons can disappear, and certain features remain based on speculation or limited public information. He also discusses his expectations for GTA 6’s open-world criminal activities and briefly comments on alleged preload details, including a 212 GB size and a November 10 start date. Those release-related statements are presented as information he has seen, not independently established here.",
+      "topics": [
+        "GTA 5 modding",
+        "GTA 6 feature imitation",
+        "Gameplay systems",
+        "Robbery mechanics",
+        "Release speculation"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The mod incorporates many GTA 6-inspired systems, including refueling, character switching, expanded robberies, vehicle storage, and redesigned interfaces.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            20,
+            27,
+            29,
+            30,
+            33,
+            34,
+            68,
+            80,
+            86,
+            91,
+            171,
+            267,
+            427,
+            470,
+            677,
+            680
+          ]
+        },
+        {
+          "claim": "The mod was made by Gecko Macabre and FBI Cat and may include a leaked Leonida map project associated with FBI Cat.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            41,
+            42,
+            43,
+            44,
+            45
+          ]
+        },
+        {
+          "claim": "GTA 6 digital preloading will begin November 10 and the preload is 212 GB.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            714,
+            716,
+            718,
+            728,
+            729,
+            730
+          ]
+        },
+        {
+          "claim": "The creator characterizes the mod as actively developing and likely to improve after GTA 6 provides more mechanics to study.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            662,
+            665,
+            667,
+            669,
+            671,
+            672,
+            673,
+            674
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator demonstrates a GTA 6-inspired HUD and gameplay additions inside GTA 5.",
+          "evidence_segment_indices": [
+            19,
+            20,
+            22,
+            27,
+            28,
+            29,
+            30,
+            39
+          ],
+          "start_seconds": 43.52,
+          "end_seconds": 95.52
+        },
+        {
+          "point": "Robbery activities include planning elements, cameras, guards, alarms, vault drilling, and police pursuits, though the bank attempt breaks down.",
+          "evidence_segment_indices": [
+            302,
+            303,
+            307,
+            308,
+            339,
+            347,
+            348,
+            356,
+            382,
+            385
+          ],
+          "start_seconds": 621.698,
+          "end_seconds": 789.139
+        },
+        {
+          "point": "A jewelry-store robbery succeeds after smashing cases, escaping surveillance, and depositing the proceeds at a safe house.",
+          "evidence_segment_indices": [
+            568,
+            569,
+            572,
+            604,
+            608,
+            609,
+            614,
+            637,
+            643,
+            647
+          ],
+          "start_seconds": 1151.783,
+          "end_seconds": 1324.065
+        },
+        {
+          "point": "The creator repeatedly notes that the project is buggy, patchwork, unofficial, and incomplete.",
+          "evidence_segment_indices": [
+            267,
+            385,
+            407,
+            414,
+            415,
+            660,
+            662,
+            663,
+            684
+          ],
+          "start_seconds": 559.137,
+          "end_seconds": 1402.106
+        },
+        {
+          "point": "The video ends by shifting from the mod to the creator’s expectations and unverified discussion of GTA 6 release logistics.",
+          "evidence_segment_indices": [
+            692,
+            696,
+            703,
+            714,
+            728,
+            730,
+            737,
+            760
+          ],
+          "start_seconds": 1414.386,
+          "end_seconds": 1554.107
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "536227842328ebca629e6a960abc2181a2421e1690c7528b5f59c8942f3b31db",
+      "transcript_captured_at": "2026-11-05T17:33:31.374276Z",
+      "summary_generated_at": "2026-11-05T17:39:28.952753Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is automatic and contains omissions, profanity redactions, false starts, laughter markers, and overlapping segments.",
+        "The source records the creator’s demonstrations and interpretations, but does not independently establish that the mod’s features accurately represent GTA 6.",
+        "The cited release date, preload timing, file size, promotional materials, and alleged leaked-map details are source-only claims requiring verification.",
+        "Some feature descriptions are speculative or explicitly uncertain, including public transit, roleplay support, and how money or character systems function.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "JHsbGEY-krA",
+      "title": "CNN’s Final Election Prediction Is MAGA’s Worst Nightmare | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=JHsbGEY-krA",
+      "published_at": "2026-11-03T20:00:10.000000Z",
+      "summary": "Kyle Kulinski’s episode, released around the election, combines a call for viewers to vote with commentary on Donald Trump’s campaign messaging and a discussion of congressional forecasts. Kulinski argues that Trump’s focus on projects such as the reflecting pool, warnings about crime, and a promise of $5,000 payments are politically ineffective or misleading, while presenting several clips of Trump and allied campaign figures. He then examines a CNN-linked forecast that gives Democrats a 92% chance of winning the House, with a projected 237 Democratic seats to 198 Republican seats. The forecast also assigns Democrats a 71% chance of taking the Senate and models a 52–48 Democratic majority, while acknowledging that several races remain close. Kulinski emphasizes that polling errors could still benefit Republicans, but interprets candidate favorability, economic concerns, and recent polling as evidence of a possible Democratic wave. He also alleges that election-related misconduct or attempts to overturn results could occur, though the episode provides no independent substantiation for that prediction.",
+      "topics": [
+        "Election forecasting",
+        "House and Senate races",
+        "Trump campaign messaging",
+        "Polling uncertainty"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The cited forecast gave Democrats a 92% chance of winning the House and projected a 237–198 Democratic-Republican seat split.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            571,
+            572,
+            576,
+            593,
+            597,
+            598
+          ]
+        },
+        {
+          "claim": "The cited forecast gave Democrats a 71% chance of winning the Senate and modeled a 52–48 Democratic majority.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            919,
+            921,
+            931,
+            961,
+            962,
+            998
+          ]
+        },
+        {
+          "claim": "The episode reports a proposed $5,000 payment to adult citizens if Republicans won.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            278,
+            279,
+            285,
+            286,
+            287
+          ]
+        },
+        {
+          "claim": "Kulinski alleges that an attempt to steal or overturn the election was likely.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            1040,
+            1042,
+            1047,
+            1048
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski urges viewers to vote and says Democratic control of both chambers would be necessary for his hoped-for outcome.",
+          "evidence_segment_indices": [
+            5,
+            6,
+            14,
+            15,
+            18,
+            20
+          ],
+          "start_seconds": 12.0,
+          "end_seconds": 54.8
+        },
+        {
+          "point": "He criticizes Trump’s emphasis on symbolic projects and campaign rhetoric about crime, renaming landmarks, and economic payments.",
+          "evidence_segment_indices": [
+            74,
+            78,
+            87,
+            135,
+            140,
+            278,
+            285,
+            290
+          ],
+          "start_seconds": 170.8,
+          "end_seconds": 625.279
+        },
+        {
+          "point": "The forecast discussion presents a strong Democratic House outlook but notes that polling and model errors remain possible.",
+          "evidence_segment_indices": [
+            576,
+            577,
+            589,
+            599,
+            600,
+            527,
+            531,
+            537
+          ],
+          "start_seconds": 1085.76,
+          "end_seconds": 1226.48
+        },
+        {
+          "point": "The Senate projection is described as more uncertain because of the electoral map and several closely contested races.",
+          "evidence_segment_indices": [
+            647,
+            648,
+            654,
+            658,
+            734,
+            735,
+            978,
+            980
+          ],
+          "start_seconds": 1302.96,
+          "end_seconds": 1939.679
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "3402fb14b89f0bad3a2de695ba79eb9de312459807058be4fc54a3a36b508b43",
+      "transcript_captured_at": "2026-11-05T17:33:25.159158Z",
+      "summary_generated_at": "2026-11-05T17:39:06.767127Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains overlapping, malformed, and misrecognized captions, including names, numbers, and partial phrases.",
+        "Forecast figures and polling statistics are presented within the episode and are not independently verified here.",
+        "The source covers the creator’s commentary and selected clips, not a complete record of the election, forecasts, or allegations discussed.",
+        "Some statements are rhetorical or speculative, especially claims about misconduct, candidate motives, and likely election outcomes.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
@@ -4517,845 +5316,6 @@
         "The transcript contains substantial caption defects, profanity redactions, speaker-label ambiguity, and apparent transcription errors.",
         "Many factual claims are made rhetorically by participants and are not corroborated within the source excerpt.",
         "The excerpt provides commentary and disputed assertions, not a complete record of the underlying interviews, legislation, statistics, or events.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "zQ6lnpnMUPg",
-      "title": "FOX NEWS IS GIGA-F*CKED | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=zQ6lnpnMUPg",
-      "published_at": "2026-10-29T21:30:42.000000Z",
-      "summary": "Kyle Kulinski argues that reported declines in Fox News viewership signal weakening enthusiasm for Republicans before the midterms. He cites preliminary Nielsen figures reportedly obtained by Status, including 1.1 million total-day viewers in October 2026 and 98,000 viewers in the 25–54 demographic, while describing the figures as unusually poor for the network. He also discusses reported declines in prime-time and “Fox & Friends” audiences, alongside claimed increases for rival networks. Kulinski interprets these trends as evidence that conservative audiences are tiring of Donald Trump and that Fox News is adjusting its programming in response, including renewed live rally coverage. He further connects the alleged audience decline to Trump’s criticism of Fox News and to broader economic and political dissatisfaction. The episode concludes with Kulinski predicting a major Democratic midterm victory and alleging that Trump and Republicans may try to undermine the result. These interpretations and predictions are presented by the creator, while the underlying ratings and political claims remain source-reported and require verification.",
-      "topics": [
-        "Fox News ratings",
-        "Republican midterm prospects",
-        "Donald Trump and conservative media",
-        "Political audience trends"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Preliminary Nielsen data reportedly showed Fox News averaging 1.1 million total-day viewers and 98,000 viewers in the 25–54 demographic during October 2026.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            9,
-            10,
-            11,
-            12,
-            13,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34
-          ]
-        },
-        {
-          "claim": "The episode reports substantial year-over-year declines in Fox News total, prime-time, and key-demographic viewership.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            90,
-            91,
-            92,
-            93,
-            95,
-            96,
-            97,
-            98,
-            104,
-            105,
-            106,
-            109,
-            110,
-            111,
-            112,
-            113
-          ]
-        },
-        {
-          "claim": "The episode reports audience gains for MS NOW and CNN during the same period.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135
-          ]
-        },
-        {
-          "claim": "An anonymous source is reported to have said that Fox News programming directives reflect the view that Trump no longer attracts ratings.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames Fox News’s alleged ratings decline as a warning sign for Republican enthusiasm before the midterms.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            18,
-            19,
-            20,
-            21,
-            22
-          ],
-          "start_seconds": 0.24,
-          "end_seconds": 59.84
-        },
-        {
-          "point": "He argues that conservative audiences may be distancing themselves from Trump and that media outlets are reducing emphasis on him.",
-          "evidence_segment_indices": [
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189,
-            190,
-            191
-          ],
-          "start_seconds": 385.919,
-          "end_seconds": 422.319
-        },
-        {
-          "point": "He links the alleged media shift to Trump’s public criticism of Fox News and its coverage choices.",
-          "evidence_segment_indices": [
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144,
-            145,
-            146,
-            147,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153,
-            154,
-            155,
-            156,
-            157,
-            158
-          ],
-          "start_seconds": 307.44,
-          "end_seconds": 350.479
-        },
-        {
-          "point": "Kulinski predicts a large Democratic victory and alleges that Trump may attempt to undermine the election outcome.",
-          "evidence_segment_indices": [
-            220,
-            221,
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            229,
-            230,
-            231,
-            232,
-            233,
-            234,
-            235,
-            236,
-            237,
-            238,
-            239,
-            240,
-            241
-          ],
-          "start_seconds": 481.759,
-          "end_seconds": 527.44
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "f0110e5011f3919ef8df3a4103c0d0f7ab0028ee44838a7a5ca5dd1caae23cfb",
-      "transcript_captured_at": "2026-10-29T23:03:13.653326Z",
-      "summary_generated_at": "2026-10-29T23:08:15.211825Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains numerous captioning defects, including misrecognized names, ratings terms, and network references.",
-        "The cited ratings are described as preliminary and obtained ahead of official release; no source document or methodology is included.",
-        "The creator’s interpretations, allegations, and election predictions are opinions in the episode, not independently established findings.",
-        "The excerpt provides only the creator’s account and does not include responses from Fox News or the named networks.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "QXb6AjrPT7M",
-      "title": "MAGA Republican Can’t Stop Sending D*ck Pics | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=QXb6AjrPT7M",
-      "published_at": "2026-10-29T21:00:16.000000Z",
-      "summary": "The creator discusses an alleged “October surprise” involving Tennessee congressional candidate Brent Taylor, presenting claims attributed to the Tennessee Holler and other sources that Taylor sent unsolicited nude photos. The segment says multiple people reportedly received or saw such images, including one anonymous person who alleged receiving one as recently as 2021. It also says Taylor acknowledged sending nude photos in the past but characterized the conduct as mistakes forgiven by his wife. The creator strongly condemns unsolicited sexual images, speculates about the motivations behind exhibitionistic behavior, and mocks Taylor’s description of the conduct as a “youthful indiscretion,” emphasizing that Taylor was reportedly 53 at the time. The commentary then broadens into an argument that Republican figures are disproportionately associated with sexual misconduct and hypocrisy, contrasting this with the creator’s characterization of liberal social attitudes. The segment concludes with an endorsement of Justin Pearson and a call for Tennessee’s 9th District voters to support him. The evidence presented is entirely source-reported and commentary-driven.",
-      "topics": [
-        "Brent Taylor allegations",
-        "Unsolicited sexual images",
-        "Tennessee 9th District race",
-        "Political hypocrisy",
-        "Justin Pearson endorsement"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Multiple sources reportedly said they received or saw nude photos from Brent Taylor, including an alleged unsolicited image sent as recently as 2021.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            76,
-            77,
-            78,
-            81,
-            82,
-            85,
-            86,
-            87,
-            88,
-            89,
-            90,
-            91,
-            92
-          ]
-        },
-        {
-          "claim": "Taylor reportedly acknowledged sending nude photos in the past and described them as mistakes forgiven by his wife.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            81,
-            82,
-            83,
-            84
-          ]
-        },
-        {
-          "claim": "The creator asserts that Republicans are more often implicated in sexual misconduct or related scandals than Democrats.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195,
-            196,
-            197,
-            198
-          ]
-        },
-        {
-          "claim": "Justin Pearson and Brent Taylor are presented as candidates in Tennessee’s 9th Congressional District contest.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            5,
-            6,
-            76,
-            79,
-            80,
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175,
-            176
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator frames the story as an election-season development and relies on allegations attributed to outside sources.",
-          "evidence_segment_indices": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            76,
-            77,
-            78
-          ],
-          "start_seconds": 1.68,
-          "end_seconds": 176.72
-        },
-        {
-          "point": "The commentary condemns sending unsolicited nude images and questions the explanation that the conduct was youthful.",
-          "evidence_segment_indices": [
-            19,
-            20,
-            21,
-            22,
-            81,
-            82,
-            83,
-            84,
-            93,
-            94,
-            95,
-            96,
-            97,
-            98,
-            100,
-            101,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121
-          ],
-          "start_seconds": 45.68,
-          "end_seconds": 276.96
-        },
-        {
-          "point": "The creator speculates that such behavior may involve intentionally violating or humiliating recipients, while acknowledging uncertainty.",
-          "evidence_segment_indices": [
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73
-          ],
-          "start_seconds": 139.28,
-          "end_seconds": 166.08
-        },
-        {
-          "point": "The creator endorses Justin Pearson and urges eligible voters to support him.",
-          "evidence_segment_indices": [
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177
-          ],
-          "start_seconds": 379.199,
-          "end_seconds": 400.319
-        },
-        {
-          "point": "The segment expands into a broader argument about perceived conservative sexual hypocrisy and liberal freedom-oriented attitudes.",
-          "evidence_segment_indices": [
-            178,
-            179,
-            180,
-            181,
-            182,
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            229,
-            230,
-            231,
-            232
-          ],
-          "start_seconds": 399.039,
-          "end_seconds": 507.039
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "d551b85e332e641b44e3fe896a9dcc5fb76858c580713db1808c78d17e0a91d4",
-      "transcript_captured_at": "2026-10-29T22:03:20.875129Z",
-      "summary_generated_at": "2026-10-29T22:08:31.061993Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview reflects a commentary transcript and does not independently verify the allegations or the cited sources.",
-        "Several names, phrases, and references may be affected by automated-caption errors or profanity redactions.",
-        "The creator’s claims about partisan patterns and motivations are opinions or speculation, not established findings in this source.",
-        "The transcript does not provide the underlying messages, images, reporting methodology, or responses beyond the account attributed to Taylor.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "xnlVQOmesNM",
-      "title": "Trump LOSES IT on Stage and has MENTAL HEALTH Episode, Republicans Want him to HIDE!!",
-      "url": "https://www.youtube.com/watch?v=xnlVQOmesNM",
-      "published_at": "2026-10-29T20:30:57.000000Z",
-      "summary": "Aaron Parnas argues that a Trump rally in South Carolina showed disorganization and declining enthusiasm shortly before Election Day. He presents Trump’s remarks about Black and Jewish voters, comments about being served meat, and an awkward attempted departure as evidence of what he characterizes as troubling behavior. Parnas also says Republican advisers are concerned, that rallies have been canceled in conservative states such as Kansas, and that Darlene Graham’s South Carolina race has become competitive, though the transcript provides no independent sourcing for those claims. The episode includes footage of protesters and a Fox News interview with a rally attendee who compares the event to a cult, followed by commentary that some attendees came to observe rather than support Trump. A separate segment discusses Republican opposition to Ken Paxton in Texas and includes Paxton rejecting corruption allegations against him and James Talarico. The video also contains a sponsored promotion for a nonpartisan voting assistant. Caption quality is uneven, and several names and statements are unclear.",
-      "topics": [
-        "Trump rally conduct",
-        "South Carolina campaign",
-        "Republican voter reactions",
-        "Ken Paxton allegations",
-        "Voting information promotion"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Rallies were canceled in Kansas because of Trump’s declining support or behavior.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            6,
-            7,
-            12,
-            13,
-            14
-          ]
-        },
-        {
-          "claim": "Darlene Graham’s South Carolina race is a tossup and Republicans are unnerved.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            18,
-            28,
-            29,
-            30
-          ]
-        },
-        {
-          "claim": "Advisers panicked over Trump’s remarks about Black and Jewish voters.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            60,
-            61,
-            62,
-            63,
-            64
-          ]
-        },
-        {
-          "claim": "A major protest occurred inside the South Carolina rally, and many attendees were Democrats observing the event.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            85,
-            86,
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            106,
-            107
-          ]
-        },
-        {
-          "claim": "The Vote Eat assistant does not sell or share user data and uses verified election databases.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            119,
-            120,
-            121,
-            128,
-            129,
-            132,
-            133,
-            134,
-            135
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas interprets Trump’s South Carolina remarks and stage behavior as signs of mental decline, but this is commentary rather than a clinical assessment.",
-          "evidence_segment_indices": [
-            31,
-            37,
-            38,
-            40,
-            41,
-            42,
-            70,
-            78,
-            79
-          ],
-          "start_seconds": 67.76,
-          "end_seconds": 176.319
-        },
-        {
-          "point": "The video presents Trump’s comments about voting constituencies, meat, and leaving the stage through quoted or replayed footage.",
-          "evidence_segment_indices": [
-            43,
-            44,
-            45,
-            46,
-            47,
-            71,
-            72,
-            73,
-            74,
-            75,
-            182,
-            183,
-            184,
-            185,
-            186
-          ],
-          "start_seconds": 93.04,
-          "end_seconds": 417.44
-        },
-        {
-          "point": "Protesters and at least one interviewed attendee appear at or discuss the rally; Parnas portrays the crowd response as less enthusiastic than expected.",
-          "evidence_segment_indices": [
-            94,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            150,
-            151,
-            152,
-            153,
-            154,
-            155,
-            158,
-            159,
-            160,
-            180,
-            181
-          ],
-          "start_seconds": 204.8,
-          "end_seconds": 397.44
-        },
-        {
-          "point": "The episode contrasts Trump-related criticism with a Texas Republican primary dispute involving Ken Paxton and James Talarico.",
-          "evidence_segment_indices": [
-            204,
-            205,
-            208,
-            209,
-            210,
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            224,
-            227,
-            228,
-            229,
-            230,
-            236,
-            237,
-            238,
-            239
-          ],
-          "start_seconds": 445.039,
-          "end_seconds": 516.24
-        },
-        {
-          "point": "A sponsored segment promotes Vote Eat as a free, nonpartisan voting assistant.",
-          "evidence_segment_indices": [
-            109,
-            110,
-            111,
-            119,
-            120,
-            121,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127
-          ],
-          "start_seconds": 256.239,
-          "end_seconds": 297.52
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "0d94a0330ad8a0f7ea4a1d1a35fb8ed25258c8e754513369e776a89785d00e83",
-      "transcript_captured_at": "2026-10-29T21:03:10.851402Z",
-      "summary_generated_at": "2026-10-29T21:08:15.545552Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The captions contain transcription defects, missing words, and unclear names, including references to candidates and locations.",
-        "The transcript identifies statements and commentary but does not independently establish polling, rally cancellations, adviser reactions, attendance composition, or data-privacy claims.",
-        "The opening framing uses mental-health language without clinical evidence or an identified professional assessment.",
-        "The source includes promotional material that is separate from the episode’s political commentary.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "H8YS4MZslN4",
-      "title": "RFK IS A RACIST C*NT | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=H8YS4MZslN4",
-      "published_at": "2026-10-29T20:30:02.000000Z",
-      "summary": "Kyle Kulinski argues that Robert F. Kennedy Jr.’s remarks about Arabs and Muslims reflect overt racial and religious prejudice, and he connects them to what he describes as a broader transformation within the Republican Party and MAGA movement. The episode presents Kennedy’s claim that Arab societies do not produce significant science or literature, then counters it with examples of Arab and Muslim Nobel laureates and other intellectual achievements. Kulinski also criticizes Kennedy’s characterization of Palestinians and accuses him of promoting a worldview that can legitimize discrimination, violence, and ethnic cleansing. The commentary broadens into attacks on Kennedy’s public-health record, including alleged vaccine misinformation, staffing decisions, and healthcare policies. Kulinski cites reactions from conservative or formerly Republican commentators who condemn Kennedy’s remarks. He concludes by urging voters to reject MAGA and predicts a major Democratic electoral victory. The source is an emotionally charged monologue containing clipped quotations, allegations, and several claims that require independent verification.",
-      "topics": [
-        "Robert F. Kennedy Jr.",
-        "Racism and Islamophobia",
-        "MAGA and Republican politics",
-        "Public-health policy",
-        "U.S. midterm elections"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Kennedy said that Arabs do not produce science, win Nobel Prizes, or produce literature, and attributed societal stagnation to the Muslim Brotherhood.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            64,
-            65,
-            66,
-            67,
-            68
-          ]
-        },
-        {
-          "claim": "Kulinski cites Arab, Muslim, and Palestinian-associated Nobel laureates as counterexamples to Kennedy’s remarks.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            110,
-            111,
-            112,
-            150,
-            155,
-            160,
-            165,
-            170,
-            178,
-            179
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that Kennedy restricted COVID-vaccine policy, appointed vaccine skeptics, dismissed more than 1,000 epidemic-intelligence employees, and contributed to Medicaid losses.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            249,
-            250,
-            252,
-            253,
-            255,
-            256,
-            257,
-            261,
-            262,
-            263
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that Israeli actions deliberately killed academics and civilians in Gaza and describes the death toll as approximately 200,000.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            99,
-            100,
-            101,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121,
-            122
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode’s central argument is that Kennedy’s remarks are racist and representative of a wider MAGA tendency toward anti-Muslim and anti-Arab rhetoric.",
-          "evidence_segment_indices": [
-            45,
-            54,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79
-          ],
-          "start_seconds": 103.759,
-          "end_seconds": 187.519
-        },
-        {
-          "point": "Kulinski responds to Kennedy by listing Nobel laureates and scientific, political, and literary achievements associated with Arab or Muslim individuals and institutions.",
-          "evidence_segment_indices": [
-            110,
-            111,
-            112,
-            150,
-            151,
-            155,
-            156,
-            160,
-            165,
-            166,
-            170,
-            171,
-            174,
-            175,
-            178,
-            179,
-            180,
-            181
-          ],
-          "start_seconds": 252.48,
-          "end_seconds": 410.56
-        },
-        {
-          "point": "The commentary includes criticism of Kennedy’s health-policy record and scientific credibility.",
-          "evidence_segment_indices": [
-            249,
-            250,
-            251,
-            252,
-            253,
-            254,
-            255,
-            256,
-            257,
-            258,
-            259,
-            261,
-            262,
-            264,
-            265,
-            266,
-            267
-          ],
-          "start_seconds": 554.399,
-          "end_seconds": 597.36
-        },
-        {
-          "point": "Kulinski ends with a call for voters to decisively reject MAGA in the midterms and predicts a large Democratic wave.",
-          "evidence_segment_indices": [
-            304,
-            305,
-            306,
-            307,
-            316,
-            317,
-            318,
-            319,
-            320,
-            321,
-            322,
-            323,
-            324,
-            325,
-            326
-          ],
-          "start_seconds": 666.959,
-          "end_seconds": 713.519
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "e41a20e11464a58d2a2b1b9b2ee8183118e65682c90e6b36a5aedf7d96f47d4b",
-      "transcript_captured_at": "2026-10-29T22:03:13.234226Z",
-      "summary_generated_at": "2026-10-29T22:08:16.739485Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains automatic-caption defects, redactions, misheard names, and incomplete phrasing.",
-        "Several quoted remarks and references are presented without links, dates, or surrounding context.",
-        "The episode is an advocacy monologue, so its allegations and predictions are not independently established by the source alone.",
-        "Some numerical, historical, scientific, and policy claims require verification outside the transcript.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
