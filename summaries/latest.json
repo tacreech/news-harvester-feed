@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T18:42:01.173888Z",
+  "generated_at": "2026-11-05T19:12:01.189089Z",
   "reporting_window": {
-    "start": "2026-10-29T18:42:01.173888Z",
-    "end": "2026-11-05T18:42:01.173888Z"
+    "start": "2026-10-29T19:12:01.189089Z",
+    "end": "2026-11-05T19:12:01.189089Z"
   },
   "episodes": [
     {
@@ -622,6 +622,392 @@
         "Several quoted policy, legal, and business claims are presented without the underlying documents or full context.",
         "The overview reflects one creator’s commentary and examples; it does not establish the accuracy or generality of those allegations.",
         "Some product names and dates may be captioned inaccurately and should be checked against primary sources.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "vBXjZU6Oh8I",
+      "title": "Vance KNIFES Trump as Infighting EXPLODES, White House PARALYZED!!!",
+      "url": "https://www.youtube.com/watch?v=vBXjZU6Oh8I",
+      "published_at": "2026-11-04T18:49:20.000000Z",
+      "summary": "Aaron Parnas presents the episode as an account of escalating Republican divisions, arguing that Vice President J.D. Vance publicly blamed the war in Iran for an election loss and pressured President Donald Trump to confront that explanation. Parnas says Trump effectively endorsed Vance’s position while focusing publicly on a White House ballroom, and he portrays possible questions about Defense Secretary Pete Hoekstra’s future as evidence of broader turmoil. The episode then features Pennsylvania Governor Josh Shapiro, who attributes Democratic gains to voter concerns about prices, tariffs, and government performance. Shapiro says Democrats won statewide, legislative, and congressional victories, and outlines a proposed agenda including a $15 minimum wage, abortion-rights legislation, infrastructure, schools, and housing. He also argues that Democrats must govern effectively while holding Trump and his administration accountable. The transcript consists largely of commentary and interview claims; election results, personnel deliberations, policy outcomes, and causal explanations are not independently established here.",
+      "topics": [
+        "Republican infighting",
+        "J.D. Vance and Donald Trump",
+        "Pennsylvania election results",
+        "Democratic policy agenda"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Vance attributed the election loss to the war in Iran, and Trump reportedly agreed with him.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            20,
+            21,
+            29,
+            34,
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "claim": "Democrats won the Pennsylvania statewide, legislative, and congressional victories described by Shapiro.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            79,
+            80,
+            81,
+            105,
+            107,
+            108,
+            114,
+            115,
+            116
+          ]
+        },
+        {
+          "claim": "Trump was considering replacing Defense Secretary Pete Hoekstra.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames Vance’s statement as a public break with Trump and links it to Republican turmoil.",
+          "evidence_segment_indices": [
+            15,
+            17,
+            18,
+            19,
+            20,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "start_seconds": 31.68,
+          "end_seconds": 77.12
+        },
+        {
+          "point": "Trump is shown discussing ballroom construction rather than election results, according to the episode’s presentation.",
+          "evidence_segment_indices": [
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            56,
+            57,
+            58
+          ],
+          "start_seconds": 86.96,
+          "end_seconds": 139.092
+        },
+        {
+          "point": "Shapiro says voters responded to concerns about prices, tariffs, and government performance.",
+          "evidence_segment_indices": [
+            84,
+            85,
+            86,
+            91,
+            92,
+            94,
+            95,
+            96,
+            100,
+            101,
+            102,
+            103
+          ],
+          "start_seconds": 184.852,
+          "end_seconds": 229.412
+        },
+        {
+          "point": "Shapiro proposes a $15 minimum wage and additional Pennsylvania measures on abortion rights, infrastructure, schools, and housing.",
+          "evidence_segment_indices": [
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            212,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223
+          ],
+          "start_seconds": 431.775,
+          "end_seconds": 493.817
+        },
+        {
+          "point": "Shapiro says Democrats must deliver results while defending vulnerable congressional seats.",
+          "evidence_segment_indices": [
+            238,
+            239,
+            240,
+            244,
+            245,
+            250,
+            252,
+            253,
+            256,
+            257,
+            258,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            316,
+            317,
+            318,
+            319,
+            320
+          ],
+          "start_seconds": 519.377,
+          "end_seconds": 707.978
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "29918e5ab5b3737dc8eba080ac5ac6157aa1327b0a38e8967dcf0c22fbdf1918",
+      "transcript_captured_at": "2026-11-05T19:03:38.672575Z",
+      "summary_generated_at": "2026-11-05T19:09:28.767398Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript provides no independent election data, official statements, or corroboration for reported personnel deliberations.",
+        "Several conclusions about why voters acted are interviewees’ interpretations rather than demonstrated causal findings.",
+        "Caption segmentation overlaps heavily and includes informal or potentially imprecise wording.",
+        "The episode’s coverage is source-only and does not establish the broader political context or policy feasibility.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "Wu9rhXOqyQU",
+      "title": "Elon Musk PANICS as a RECKONING is Coming from Congress, he is TERRIFIED!!",
+      "url": "https://www.youtube.com/watch?v=Wu9rhXOqyQU",
+      "published_at": "2026-11-04T16:46:47.000000Z",
+      "summary": "Aaron Parnas argues that Elon Musk is facing a potential congressional reckoning, linking alleged tweet deletions and past political spending to possible investigations. The episode presents Democratic oversight as likely to expand across chambers and committees, with guests discussing accountability efforts involving Musk, the Trump administration, and other powerful figures. Indivisible’s Ezra Levin describes the election as a transformative Democratic breakthrough and advocates pairing investigations with affordability proposals, including expanded social programs. A Silicon Valley congressman predicts Democratic gains, supports investigations and possible impeachment, and proposes measures involving economic inequality, healthcare, childcare, and technology policy. The interviews also address foreign aid, alleged corruption, Epstein-related accountability, and the Democratic Party’s future leadership. Much of the episode consists of political commentary, predictions, advocacy, and allegations rather than independently documented evidence. Several names, offices, vote totals, election results, and policy claims are difficult to interpret because the captions contain transcription errors and limited context.",
+      "topics": [
+        "Elon Musk and congressional oversight",
+        "Democratic election gains",
+        "Political accountability and impeachment",
+        "Affordability and economic policy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The episode alleges that Musk rapidly deleted older tweets and is facing prepared investigations into his businesses, relationships, and government work.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            2,
+            4,
+            5,
+            6,
+            7,
+            28,
+            29,
+            30,
+            47,
+            48,
+            49
+          ]
+        },
+        {
+          "claim": "The episode states that Musk spent $440 million on one election and lost the investment.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim": "Guests claim Democrats won or were positioned to win majorities in Congress and state governments after the election.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            112,
+            113,
+            114,
+            123,
+            124,
+            125,
+            126,
+            193,
+            194,
+            195
+          ]
+        },
+        {
+          "claim": "A congressman alleges that Trump administration officials engaged in unlawful conduct and supports impeachment and investigations involving Musk and other officials.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            245,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            469,
+            470,
+            487,
+            488,
+            489
+          ]
+        },
+        {
+          "claim": "A congressman claims an Epstein-related bill had 218 signatures and could enable state attorneys general to investigate or prosecute Leon Black.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            544,
+            545,
+            546,
+            547,
+            558,
+            559,
+            560,
+            563,
+            564
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The host frames Musk as the central target of anticipated congressional oversight.",
+          "evidence_segment_indices": [
+            0,
+            4,
+            14,
+            20,
+            23,
+            24,
+            47,
+            48,
+            49
+          ],
+          "start_seconds": 0.08,
+          "end_seconds": 121.36
+        },
+        {
+          "point": "Guests describe Democratic gains as creating opportunities for broader investigations, accountability, and reform.",
+          "evidence_segment_indices": [
+            52,
+            53,
+            54,
+            55,
+            61,
+            62,
+            177,
+            178,
+            193,
+            194,
+            203,
+            204
+          ],
+          "start_seconds": 122.799,
+          "end_seconds": 430.08
+        },
+        {
+          "point": "Interviewees emphasize affordability, corruption, taxation, healthcare, childcare, and jobs as Democratic priorities.",
+          "evidence_segment_indices": [
+            217,
+            218,
+            219,
+            220,
+            221,
+            238,
+            239,
+            240,
+            386,
+            387,
+            388,
+            389,
+            390
+          ],
+          "start_seconds": 450.16,
+          "end_seconds": 804.88
+        },
+        {
+          "point": "The episode includes predictions about congressional control, future Democratic leadership, and a possible 2028 presidential field.",
+          "evidence_segment_indices": [
+            330,
+            331,
+            332,
+            335,
+            336,
+            337,
+            338,
+            345,
+            346,
+            601,
+            605,
+            606,
+            607,
+            608,
+            609,
+            610
+          ],
+          "start_seconds": 673.92,
+          "end_seconds": 1250.72
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "26d159c3af189a86bb19f5fc271a2372a6b5f0fa848c8234ed8fb4c6a4e3878b",
+      "transcript_captured_at": "2026-11-05T19:03:22.603662Z",
+      "summary_generated_at": "2026-11-05T19:08:47.175778Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The captions contain numerous transcription errors, garbled names, and unclear references.",
+        "Election outcomes, vote counts, polling figures, spending totals, and legislative claims are presented without supporting documentation in the source.",
+        "Some remarks are forecasts, advocacy, or allegations by interview participants rather than established findings.",
+        "The source provides limited context for referenced elections, offices, bills, and foreign-policy events.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -1548,6 +1934,226 @@
       "verification_status": "creator_account_not_independently_verified"
     },
     {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "GgurfpZA2GI",
+      "title": "THE MOST WRONG ANYBODY HAS BEEN IN HUMAN HISTORY | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=GgurfpZA2GI",
+      "published_at": "2026-11-03T22:19:38.000000Z",
+      "summary": "Kyle Kulinski argues that prominent right-wing commentators face little accountability for predictions he considers demonstrably wrong. He revisits clips featuring JD Vance, Dave Rubin, and others discussing Iran, claiming they dismissed concerns that Donald Trump would pursue regime change while portraying the operation as limited and successful. Kulinski counters that the consequences and strategic results were more serious than those commentators acknowledged, though the episode provides assertions rather than independently established evidence. He also criticizes predictions about the Strait of Hormuz, energy prices, and Iran’s military capacity, presenting them as examples of failed forecasting. Kulinski contrasts these claims with his own acknowledged mistaken prediction about Kamala Harris, while arguing that his opponents had stronger evidence available to them from Trump’s earlier record. The episode closes with broader criticism of Trump’s foreign-policy actions and a prediction that JD Vance would struggle to win a national election. Caption defects and highly compressed excerpts limit context for several claims.",
+      "topics": [
+        "Media accountability",
+        "Iran conflict",
+        "Political predictions",
+        "Trump foreign policy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The episode asserts that Trump conducted a limited operation against Iran, did not pursue regime change, and then withdrew.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            30,
+            31,
+            32,
+            35,
+            36,
+            38,
+            39,
+            40,
+            45,
+            46,
+            47,
+            48,
+            49
+          ]
+        },
+        {
+          "claim": "Kulinski alleges that Iran’s nuclear facility was not actually destroyed and that the operation had limited strategic effect.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71
+          ]
+        },
+        {
+          "claim": "Kulinski lists multiple alleged Trump foreign-policy actions from his first term, including increased drone strikes, military operations, and support for Saudi Arabia in Yemen.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            176,
+            177,
+            178,
+            179,
+            180,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            191,
+            192,
+            193,
+            194,
+            195
+          ]
+        },
+        {
+          "claim": "Kulinski predicts that JD Vance would have difficulty winning a national presidential election.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            217,
+            218,
+            219,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames the episode as a review of failed right-wing predictions and perceived lack of public accountability.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 29.359
+        },
+        {
+          "point": "He contrasts opposing accounts of Trump’s Iran policy and argues that later events exposed their assumptions as mistaken.",
+          "evidence_segment_indices": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            76,
+            80,
+            81,
+            82,
+            83,
+            84
+          ],
+          "start_seconds": 89.28,
+          "end_seconds": 183.44
+        },
+        {
+          "point": "The episode examines predictions concerning Iran, the Strait of Hormuz, energy prices, and military strength.",
+          "evidence_segment_indices": [
+            114,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            130,
+            131,
+            136,
+            137,
+            138,
+            139,
+            142,
+            143
+          ],
+          "start_seconds": 244.879,
+          "end_seconds": 305.199
+        },
+        {
+          "point": "Kulinski acknowledges his own failed prediction about Kamala Harris but says the featured commentators had less room for error.",
+          "evidence_segment_indices": [
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162
+          ],
+          "start_seconds": 314.56,
+          "end_seconds": 344.639
+        },
+        {
+          "point": "He argues that Trump’s prior record was inconsistent with portraying him as an anti-war president.",
+          "evidence_segment_indices": [
+            169,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190
+          ],
+          "start_seconds": 353.199,
+          "end_seconds": 404.96
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "702b9e2f3613363ce49c8032d3042001e86b81b24f7e322f1fda83361d04ce7b",
+      "transcript_captured_at": "2026-11-05T19:03:29.983565Z",
+      "summary_generated_at": "2026-11-05T19:09:08.671245Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a single commentary episode and does not independently document the underlying events or claims.",
+        "Several captions contain transcription defects, profanity placeholders, name spellings, and possible word substitutions.",
+        "Some excerpts are clipped from longer remarks, limiting context for the speakers’ original meanings.",
+        "The transcript includes disputed allegations and predictions whose accuracy requires independent verification.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "video_id": "9-aaOaIsQgY",
@@ -1813,6 +2419,204 @@
         "The transcript contains overlapping captions, misheard names, grammatical defects, and apparent corrections.",
         "Several numerical and legal assertions are presented as reports or interview claims rather than independently established evidence.",
         "The supplied material covers only the episode transcript and does not include supporting documents, election records, or full contextual reporting.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "Ag5NjUlE-oE",
+      "title": "KEN PAXTON IS F*CKED | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=Ag5NjUlE-oE",
+      "published_at": "2026-11-03T21:40:32.000000Z",
+      "summary": "Kyle Kulinski argues that Republican candidates are offering little beyond attacks on minority communities, framing this as evidence of a broader ideological and organizational failure. He focuses on Ken Paxton’s campaign against James Talarico, presenting clips that he interprets as signs of weak audience engagement, awkward speaking, public heckling, and internal campaign problems. The episode includes an audience member accusing Paxton of taking bribes, Paxton highlighting a legal settlement involving Facebook, and a campaign speaker asking attendees not to leave before Paxton’s remarks. Kulinski also discusses Paxton’s claimed role in affecting Texas’s 2020 election results and portrays that claim as central to Paxton’s relationship with Donald Trump. He contrasts Paxton’s events with the larger crowds he says attend Talarico rallies, then predicts that a Paxton victory would imply either electoral misconduct or severe voter irrationality. The source is a partisan commentary monologue built around selected clips, and the transcript alone cannot establish the accuracy of its allegations, crowd comparisons, or predictions.",
+      "topics": [
+        "Ken Paxton campaign",
+        "James Talarico comparison",
+        "Republican campaign strategy",
+        "Texas election commentary"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Paxton claimed that his actions affected roughly 2 to 2.5 million mail-in ballots and helped Donald Trump win Texas in 2020.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115
+          ]
+        },
+        {
+          "claim": "Paxton’s campaign or supporters were involved in repeated leaks of private remarks, including criticism of Trump’s midterm rally.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192
+          ]
+        },
+        {
+          "claim": "A campaign speaker asked attendees not to leave because media coverage might portray Paxton as unpopular.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            221,
+            222,
+            223,
+            224,
+            225,
+            226
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski characterizes Republican messaging as scapegoating minority communities rather than offering substantive policy proposals.",
+          "evidence_segment_indices": [
+            3,
+            4,
+            5,
+            6,
+            10,
+            11,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "start_seconds": 5.24,
+          "end_seconds": 62.76
+        },
+        {
+          "point": "The episode presents clips of Paxton being heckled and of an audience member accusing him of taking bribes.",
+          "evidence_segment_indices": [
+            41,
+            42,
+            43,
+            44,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54
+          ],
+          "start_seconds": 94.44,
+          "end_seconds": 123.652
+        },
+        {
+          "point": "Kulinski mocks Paxton’s speaking style and highlights a clip in which Paxton comments on receiving only one clap.",
+          "evidence_segment_indices": [
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97
+          ],
+          "start_seconds": 128.052,
+          "end_seconds": 214.532
+        },
+        {
+          "point": "Kulinski contrasts reportedly small Paxton events with larger, more enthusiastic Talarico rallies.",
+          "evidence_segment_indices": [
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            147,
+            148,
+            149
+          ],
+          "start_seconds": 271.574,
+          "end_seconds": 319.334
+        },
+        {
+          "point": "Kulinski concludes by calling Paxton’s campaign unusually embarrassing and speculates about what a Paxton victory would imply.",
+          "evidence_segment_indices": [
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257
+          ],
+          "start_seconds": 504.177,
+          "end_seconds": 549.817
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "fb18f0cbe06d6376c66e2aab6019e0757485ac903658b8c6b877f3e74f729ee1",
+      "transcript_captured_at": "2026-11-05T19:03:13.577066Z",
+      "summary_generated_at": "2026-11-05T19:08:25.290884Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is partisan commentary and selected excerpts, not independent reporting.",
+        "Several captions contain transcription defects, fragmented speech, and unclear wording.",
+        "Claims about bribery, election effects, campaign leaks, crowd sizes, and voter behavior require independent verification.",
+        "The source provides limited context for the underlying videos, events, dates, and legal matters.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -4198,891 +5002,6 @@
         "Several names and words appear mistranscribed, including references to Epstein, Blanch, and other public figures.",
         "The source provides only selected spoken claims and excerpts, without the underlying report, documents, or opposing evidence.",
         "Some quoted or paraphrased statements are difficult to attribute precisely because the captions overlap and contain defects.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "LIw0IBn_BDk",
-      "title": "I Hate Him And ChatGPT...",
-      "url": "https://www.youtube.com/watch?v=LIw0IBn_BDk",
-      "published_at": "2026-10-31T16:30:39.000000Z",
-      "summary": "The creator argues that centralized AI services threaten personal privacy, ownership, and control, while presenting local models as a preferable alternative. He contrasts his use of locally run systems with ChatGPT and similar services, which he views as dependent on expensive hardware, corporate infrastructure, and user data. The episode links rising prices for GPUs and RAM to AI-related demand, then discusses a quoted argument that local inference may use limited DRAM inefficiently. The creator interprets that position as favoring cloud-controlled computing and a future of thin clients, subscription access, and reduced ability to preserve software or media independently. He also raises concerns about alleged AI-related psychological harm, citing an unverified account involving a chatbot and a violent death. Throughout, he emphasizes self-hosting, privacy, Linux, and digital preservation, while acknowledging that larger hosted models can be more capable. The evidence is limited to the creator’s commentary, a partial quoted clip, and claims he explicitly says he has not verified.",
-      "topics": [
-        "Local AI and self-hosting",
-        "Hardware prices and DRAM supply",
-        "Privacy and data ownership",
-        "Cloud dependence and digital preservation",
-        "AI safety and psychological risks"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The creator says OpenAI signed letters of intent with Samsung and SK hynix that would reserve about 900,000 DRAM wafers monthly, or roughly 40% of global production.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            212,
-            213,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224
-          ]
-        },
-        {
-          "claim": "The creator reports that an RTX 5090 costs about $12,000 and 128 GB of memory costs about $3,569 at cited retailers.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            52,
-            53,
-            54,
-            55,
-            56,
-            60,
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82
-          ]
-        },
-        {
-          "claim": "The creator recounts an alleged 2025 case in which a man killed his mother and himself after a chatbot purportedly affirmed a spiritual awakening.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            444,
-            445,
-            446,
-            447,
-            448,
-            449,
-            451,
-            452,
-            453,
-            454,
-            488,
-            489
-          ]
-        },
-        {
-          "claim": "The creator says OpenAI can train on people’s work without consent, while acknowledging that he has not verified this claim.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            177,
-            178,
-            179,
-            180,
-            181,
-            182
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator prefers local AI because he believes it offers greater privacy, autonomy, and resilience than hosted services.",
-          "evidence_segment_indices": [
-            21,
-            22,
-            23,
-            25,
-            26,
-            27,
-            37,
-            38,
-            39,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169
-          ],
-          "start_seconds": 48.719,
-          "end_seconds": 390.8
-        },
-        {
-          "point": "A quoted speaker argues that widespread local inference could inefficiently tie up scarce DRAM and that cloud utilization may be preferable.",
-          "evidence_segment_indices": [
-            100,
-            101,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120
-          ],
-          "start_seconds": 241.439,
-          "end_seconds": 283.6
-        },
-        {
-          "point": "The creator connects cloud dependence to concerns about software ownership, game preservation, pricing, outages, and corporate control.",
-          "evidence_segment_indices": [
-            281,
-            282,
-            283,
-            284,
-            285,
-            286,
-            287,
-            288,
-            289,
-            290,
-            291,
-            292,
-            317,
-            318,
-            319,
-            320,
-            321,
-            322,
-            323,
-            334,
-            335,
-            336,
-            337,
-            338
-          ],
-          "start_seconds": 636.959,
-          "end_seconds": 774.8
-        },
-        {
-          "point": "He argues that AI can be useful for coding and search but requires knowledgeable oversight because it may produce inaccurate or defective output.",
-          "evidence_segment_indices": [
-            263,
-            264,
-            265,
-            266,
-            267,
-            268,
-            269,
-            509,
-            510,
-            511,
-            512,
-            513,
-            514,
-            521,
-            522,
-            523,
-            524,
-            525,
-            526,
-            527,
-            528,
-            529
-          ],
-          "start_seconds": 599.68,
-          "end_seconds": 1218.08
-        },
-        {
-          "point": "The creator criticizes AI companies’ safety and business incentives, while acknowledging that reported harms may affect only a small share of users.",
-          "evidence_segment_indices": [
-            500,
-            501,
-            502,
-            503,
-            504,
-            533,
-            534,
-            535,
-            536,
-            537,
-            538,
-            539,
-            540,
-            541
-          ],
-          "start_seconds": 1151.919,
-          "end_seconds": 1242.32
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "eb8225eb03408b73d4509cd1b7161a2b5e3254cf6744a261f1d8395cd371188c",
-      "transcript_captured_at": "2026-10-31T17:33:09.803895Z",
-      "summary_generated_at": "2026-10-31T17:38:16.335814Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains profanity redactions, disfluencies, recognition errors, and possibly incorrect product or company names.",
-        "The quoted speaker’s identity and full context are not established within the transcript.",
-        "Several hardware prices, supply figures, corporate arrangements, and legal or criminal claims are presented without supporting documentation.",
-        "The creator explicitly says he has not verified at least one data-use claim, and the overview relies only on this source.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "n3QNzh6EYgI",
-      "title": "🚨 Trump Admits he is EXHAUSTED of Being President, Congress Prepares MASSIVE Investigations",
-      "url": "https://www.youtube.com/watch?v=n3QNzh6EYgI",
-      "published_at": "2026-10-31T14:06:09.000000Z",
-      "summary": "Aaron Parnas argues that Donald Trump’s comments about exhaustion, reduced vocal capacity, and whether additional rallies matter suggest strain near an election that could shift congressional control. Parnas also presents an undercover exchange involving Republican senator Alyssa Slotkin, in which she discusses possible future Democratic investigations, prosecutions, and congressional oversight if Democrats win one or both chambers. The episode further reports that a federal judge restricted Justice Department pressure on election officials and that an appeals court rejected an effort to block California mail ballots. Parnas frames these developments as setbacks for the administration, while acknowledging that some reported claims require scrutiny. He then describes escalating tensions involving Iran, possible post-election military action, and a tanker fire near the Strait of Hormuz. The episode closes with promotion of upcoming interviews and election-night coverage. Overall, it combines political commentary, reported legal developments, allegations of governmental misconduct, and overseas security claims, but the transcript alone does not independently establish the underlying facts.",
-      "topics": [
-        "Trump campaign fatigue",
-        "Congressional investigations",
-        "Election litigation",
-        "Iran and regional tensions"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A federal judge ordered the Justice Department to stop threatening election officials and demanding voter-roll or ballot actions.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            140,
-            142,
-            144,
-            150,
-            154
-          ]
-        },
-        {
-          "claim": "The Ninth Circuit rejected an administration effort to stop California from counting about 20,000 mail ballots.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            174,
-            175,
-            177,
-            181
-          ]
-        },
-        {
-          "claim": "Iranian leadership ordered military preparations to respond to possible new United States or Israeli attacks.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            200,
-            202,
-            205,
-            208
-          ]
-        },
-        {
-          "claim": "A tanker caught fire after reportedly striking a mine, and Oman’s navy rescued crew members.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            217,
-            220,
-            224,
-            225,
-            226
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas interprets Trump’s remarks about exhaustion and rally attendance as evidence of campaign strain.",
-          "evidence_segment_indices": [
-            37,
-            39,
-            41,
-            42,
-            47,
-            64
-          ],
-          "start_seconds": 72.159,
-          "end_seconds": 132.0
-        },
-        {
-          "point": "An undercover exchange is presented as describing possible Democratic investigations and prosecutions after an electoral victory.",
-          "evidence_segment_indices": [
-            90,
-            97,
-            102,
-            104,
-            118,
-            131
-          ],
-          "start_seconds": 180.319,
-          "end_seconds": 272.96
-        },
-        {
-          "point": "The episode reports court actions limiting Justice Department pressure on election officials.",
-          "evidence_segment_indices": [
-            139,
-            142,
-            150,
-            157,
-            164
-          ],
-          "start_seconds": 285.44,
-          "end_seconds": 342.479
-        },
-        {
-          "point": "Parnas connects reported Iran-related threats and maritime incidents to heightened regional danger.",
-          "evidence_segment_indices": [
-            200,
-            209,
-            213,
-            216,
-            224,
-            227
-          ],
-          "start_seconds": 410.319,
-          "end_seconds": 472.0
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "d348ab311f5d2567189c90648a83e4c03f933b08405c9cf842039898d32af86e",
-      "transcript_captured_at": "2026-10-31T15:03:10.201621Z",
-      "summary_generated_at": "2026-10-31T15:08:13.237844Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains numerous apparent caption, transcription, and name errors, including political figures, places, and organizations.",
-        "Several claims are attributed to unnamed officials, media reports, or the creator and are not independently verified here.",
-        "The source presents strongly interpretive political framing, especially regarding Trump’s condition and the meaning of planned investigations.",
-        "The overseas section is explicitly described as including claims that were not always verifiable.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "RJuFgHIupTk",
-      "title": "Pete Hegseth PURGES Military As EVIL PLANS EMERGE!! ",
-      "url": "https://www.youtube.com/watch?v=RJuFgHIupTk",
-      "published_at": "2026-10-30T23:48:10.000000Z",
-      "summary": "Kyle Kulinski’s discussion presents a strongly critical view of U.S. politics, media coverage, and military decision-making. The speakers first discuss the value of detailed, research-oriented political videos and defend provocative titles as an attempt to convey what they describe as the severity of current events. They then discuss a book arguing that democratic movements should focus beyond elections on durable institutions, independent news, legal structures, and international cooperation. The conversation shifts to the midterms, which one speaker predicts could represent a major rejection of the Trump era, while emphasizing that longer-term organizing would still be necessary. The final section centers on the reported removal of Army Lieutenant General Brett Sylvia from a Pentagon planning role. The guest interprets the firing as part of a broader purge and as possible evidence of internal disagreement over escalation involving Iran. The transcript also contains allegations about election interference, war crimes, military readiness, and media restrictions, but provides no documentary evidence or independent corroboration for those claims.",
-      "topics": [
-        "Political media and sensationalism",
-        "Democratic institutions",
-        "Midterm election outlook",
-        "Pentagon leadership changes",
-        "Iran escalation allegations"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The speakers allege that Hegseth fired Lieutenant General Brett Sylvia from a senior Pentagon planning position and that this was part of a broader removal of senior military leaders.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            282,
-            283,
-            284,
-            335,
-            336,
-            340,
-            341,
-            342,
-            343,
-            344,
-            346,
-            347,
-            348,
-            349,
-            350
-          ]
-        },
-        {
-          "claim": "The guest alleges that Trump or his administration is interfering with or attempting to rig elections.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            425,
-            426,
-            427,
-            428,
-            429,
-            430,
-            431,
-            432,
-            433
-          ]
-        },
-        {
-          "claim": "The guest alleges that U.S. actions involving Iran have already constituted extensive war crimes and that further escalation is being considered.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            294,
-            295,
-            296,
-            300,
-            301,
-            302,
-            303,
-            304,
-            305,
-            306,
-            307,
-            308,
-            309,
-            353,
-            354,
-            368,
-            373,
-            374,
-            375,
-            376,
-            377,
-            378
-          ]
-        },
-        {
-          "claim": "The guest alleges that U.S. military resources and regional logistics capabilities have been severely depleted or destroyed in the conflict with Iran.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            356,
-            357,
-            358,
-            359,
-            360,
-            361,
-            362,
-            363,
-            364,
-            365,
-            366,
-            367,
-            369,
-            370,
-            371,
-            372,
-            380,
-            381,
-            382,
-            383,
-            384,
-            385,
-            386,
-            387
-          ]
-        },
-        {
-          "claim": "The speakers state that Sylvia was accused in a leaked statement of failing a polygraph and leaking information to news organizations.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            411,
-            412,
-            413,
-            414,
-            415,
-            416,
-            417,
-            418,
-            419,
-            420,
-            421,
-            422,
-            423,
-            424
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The speakers defend detailed, research-based political coverage and describe provocative titles as deliberate emphasis rather than empty clickbait.",
-          "evidence_segment_indices": [
-            25,
-            26,
-            27,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            71,
-            72,
-            73,
-            74,
-            75
-          ],
-          "start_seconds": 57.12,
-          "end_seconds": 167.519
-        },
-        {
-          "point": "The book discussed argues for durable democratic systems extending beyond election campaigns.",
-          "evidence_segment_indices": [
-            111,
-            112,
-            117,
-            118,
-            119,
-            120,
-            121,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            148,
-            149,
-            150,
-            151,
-            166,
-            167,
-            168
-          ],
-          "start_seconds": 235.76,
-          "end_seconds": 379.68
-        },
-        {
-          "point": "One speaker predicts the midterms could be a critical repudiation of the Trump era, while acknowledging a longer recovery would be needed.",
-          "evidence_segment_indices": [
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            210,
-            211,
-            212,
-            213,
-            214,
-            267,
-            268,
-            269,
-            270,
-            271,
-            272,
-            273,
-            274,
-            275,
-            276,
-            277
-          ],
-          "start_seconds": 460.96,
-          "end_seconds": 638.399
-        },
-        {
-          "point": "The discussion interprets Sylvia’s removal as potentially connected to internal Pentagon disagreement over escalation with Iran.",
-          "evidence_segment_indices": [
-            326,
-            327,
-            328,
-            329,
-            335,
-            336,
-            337,
-            338,
-            339,
-            340,
-            352,
-            353,
-            354,
-            355,
-            368,
-            369,
-            370,
-            371,
-            372,
-            373,
-            374,
-            375,
-            378,
-            395
-          ],
-          "start_seconds": 734.0,
-          "end_seconds": 917.199
-        },
-        {
-          "point": "The transcript ends with concern that Trump’s second administration has fewer institutional restraints and may create election-related risks.",
-          "evidence_segment_indices": [
-            448,
-            449,
-            450,
-            451,
-            452,
-            453,
-            456,
-            457,
-            458,
-            459,
-            460,
-            461,
-            462,
-            463,
-            464,
-            465,
-            466,
-            467,
-            468,
-            469,
-            470,
-            471,
-            472
-          ],
-          "start_seconds": 1031.52,
-          "end_seconds": 1092.76
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "4390148a7a58fa638709426a366221b3ab2fe2feb8db5b16cf71afde8d5ad58e",
-      "transcript_captured_at": "2026-10-31T01:03:12.509766Z",
-      "summary_generated_at": "2026-10-31T01:08:19.289657Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The automatic captions contain numerous apparent recognition errors, including names, places, titles, and technical terms.",
-        "The supplied excerpt ends mid-question, so the episode’s discussion of post-election scenarios is incomplete.",
-        "Many consequential statements are presented as opinions, speculation, or allegations by the speakers rather than supported findings.",
-        "The transcript alone does not establish the accuracy of reported firings, military events, election activity, or alleged crimes.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "-lXRelEPW8s",
-      "title": "The Largest Financial Cyberattack Just Happened...",
-      "url": "https://www.youtube.com/watch?v=-lXRelEPW8s",
-      "published_at": "2026-10-30T21:58:30.000000Z",
-      "summary": "The creator presents what he describes as a possibly unprecedented Binance-related cryptocurrency theft, estimating the impact at about $6.3 billion while acknowledging that the figure remains uncertain. He says Binance linked the incident to a compromised DevOps engineer’s laptop and unauthorized withdrawals from a service container, with no evidence of private-key leakage reported in the source. The episode examines blockchain activity across multiple wallets, including large Ethereum and stablecoin balances, and describes efforts by Tether, Circle, Ripple, and others to freeze assets. It also explains how funds may have been moved through mixers and how EIP-7702-style authorizations allegedly enabled a rapid batch operation. The creator discusses an attribution to North Korea based on assessments by TRM and similarities to earlier hacks, but explicitly notes that government confirmation is absent and another state actor remains possible. The material is an early, source-dependent account awaiting a formal technical postmortem and further investigation.",
-      "topics": [
-        "Binance security incident",
-        "Cryptocurrency theft tracking",
-        "Asset freezing",
-        "North Korea attribution",
-        "EIP-7702"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The incident caused approximately $6.3 billion in impact.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            13,
-            14,
-            24,
-            41,
-            42
-          ]
-        },
-        {
-          "claim": "A compromised DevOps engineer’s laptop enabled access to a service container and unauthorized withdrawals.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            26,
-            27,
-            28,
-            29,
-            30,
-            31
-          ]
-        },
-        {
-          "claim": "About $3 billion in assets were frozen by blockchain partners.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            41,
-            42,
-            43,
-            44,
-            45,
-            149,
-            150
-          ]
-        },
-        {
-          "claim": "TRM attributed the activity to North Korean actors based on intelligence and similarities to earlier hacks.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            187,
-            188,
-            189,
-            190,
-            191,
-            252,
-            253,
-            254,
-            255,
-            256,
-            257,
-            258,
-            284,
-            285,
-            286,
-            287
-          ]
-        },
-        {
-          "claim": "The operation used EIP-7702 authorizations to move funds through a sweeper contract.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            324,
-            325,
-            326,
-            327,
-            328,
-            330,
-            331,
-            332,
-            333,
-            334,
-            335,
-            336,
-            337,
-            341,
-            342,
-            343,
-            344,
-            345,
-            346
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The reported loss figure is presented as provisional, and the creator says a formal postmortem is pending.",
-          "evidence_segment_indices": [
-            24,
-            25,
-            35,
-            36,
-            37,
-            388,
-            389,
-            390,
-            391
-          ],
-          "start_seconds": 62.719,
-          "end_seconds": 916.16
-        },
-        {
-          "point": "Blockchain explorers are used to trace transfers among multiple wallets and identify potentially frozen balances.",
-          "evidence_segment_indices": [
-            52,
-            56,
-            57,
-            58,
-            70,
-            77,
-            78,
-            83,
-            84,
-            147,
-            148,
-            156,
-            161
-          ],
-          "start_seconds": 134.08,
-          "end_seconds": 402.56
-        },
-        {
-          "point": "Stablecoin issuers and other organizations reportedly froze substantial assets, though some funds may have moved beforehand.",
-          "evidence_segment_indices": [
-            43,
-            44,
-            45,
-            146,
-            147,
-            148,
-            149,
-            150,
-            163,
-            164,
-            370,
-            371,
-            372,
-            373,
-            374,
-            375,
-            376,
-            377
-          ],
-          "start_seconds": 111.759,
-          "end_seconds": 884.959
-        },
-        {
-          "point": "The creator explains that mixers can make tracing transactions more difficult, while noting that cryptocurrency transfers remain recorded.",
-          "evidence_segment_indices": [
-            121,
-            123,
-            124,
-            127,
-            128,
-            129,
-            130,
-            311,
-            312,
-            313,
-            314,
-            315,
-            316,
-            317
-          ],
-          "start_seconds": 304.8,
-          "end_seconds": 748.88
-        },
-        {
-          "point": "North Korean involvement is treated as an unconfirmed attribution rather than an established conclusion.",
-          "evidence_segment_indices": [
-            184,
-            185,
-            186,
-            187,
-            188,
-            284,
-            285,
-            286,
-            287,
-            388,
-            389,
-            390
-          ],
-          "start_seconds": 450.4,
-          "end_seconds": 913.839
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "08fa1d655a1426167c7098ae7fc682c7ccd85b79176e6f27a8ab27c7d410f1c0",
-      "transcript_captured_at": "2026-10-30T23:03:10.472949Z",
-      "summary_generated_at": "2026-10-30T23:08:15.038444Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is an early commentary episode and repeatedly describes the loss estimate as hazy or provisional.",
-        "The alleged North Korea attribution is explicitly unconfirmed, and the creator says another state actor remains possible.",
-        "Automatic captions contain transcription defects, including garbled phrases, missing words, and unclear wallet labels.",
-        "The episode says a technical postmortem and additional information were still pending.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
