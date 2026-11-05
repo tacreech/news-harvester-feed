@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T19:12:01.189089Z",
+  "generated_at": "2026-11-05T19:42:01.178641Z",
   "reporting_window": {
-    "start": "2026-10-29T19:12:01.189089Z",
-    "end": "2026-11-05T19:12:01.189089Z"
+    "start": "2026-10-29T19:42:01.178641Z",
+    "end": "2026-11-05T19:42:01.178641Z"
   },
   "episodes": [
     {
@@ -210,6 +210,209 @@
         "The overview is based solely on the supplied transcript and does not independently confirm election results, advertising figures, candidate identities, or ballot status.",
         "Caption errors and profanity placeholders affect some wording, including names, laws, and policy descriptions.",
         "Several claims are presented as predictions, interpretations, or allegations by the creator or quoted speakers rather than established facts.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "Pz3o3BeNSjU",
+      "title": "BREAKING: Impeachment of Pete Hegseth is Coming, Accountability is HERE!!!",
+      "url": "https://www.youtube.com/watch?v=Pz3o3BeNSjU",
+      "published_at": "2026-11-05T02:40:06.000000Z",
+      "summary": "Aaron Parnas presents a commentary episode arguing that impeachment proceedings against Defense Secretary Pete Hegseth are imminent, while the transcript repeatedly renders the name as “Hoekstra” or “Hexeth.” He says Thomas Massie has initiated a process to force a House vote and claims Republicans privately believe enough votes exist, while also predicting possible proceedings against other Trump administration officials. The episode then turns to an interview with Maryland Governor Wes Moore, who attributes recent electoral results to public frustration with corruption, wars, tariffs, and perceived failures by the administration. Moore supports congressional scrutiny of the defense secretary, calls for fairer Maryland district maps, and urges Democrats to address affordability, health care, immigration, education, and child poverty. He expresses skepticism about President Trump’s stated willingness to cooperate with Democrats, while hoping bipartisan work remains possible. The material is commentary and interview speech; it provides no documentary evidence for the procedural, electoral, or policy claims it discusses.",
+      "topics": [
+        "Defense secretary impeachment",
+        "Congressional accountability",
+        "Wes Moore interview",
+        "Maryland redistricting",
+        "Democratic policy priorities"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The episode claims Thomas Massie initiated a process to force a House impeachment vote and that sufficient Republican votes exist.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            30,
+            31,
+            32,
+            53,
+            54,
+            55,
+            56,
+            57
+          ]
+        },
+        {
+          "claim": "The episode claims impeachment articles were filed against additional Trump administration officials, including RFK Jr. and Linda McMahon.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            58,
+            59,
+            60,
+            61,
+            62,
+            63
+          ]
+        },
+        {
+          "claim": "Moore says Maryland voters approved a measure authorizing action related to congressional redistricting and that he will work with the General Assembly on fair maps.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            112,
+            113,
+            114,
+            116,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            134,
+            135,
+            136,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169
+          ]
+        },
+        {
+          "claim": "The interview states that Democrats will control both chambers of Congress after the referenced election.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            251,
+            252,
+            253,
+            254
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas predicts imminent impeachment activity involving the defense secretary and frames it as accountability.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            4,
+            5,
+            10,
+            11,
+            12
+          ],
+          "start_seconds": 0.0,
+          "end_seconds": 28.12
+        },
+        {
+          "point": "Massie’s quoted resolution alleges misconduct and seeks impeachment, trial, removal, and disqualification.",
+          "evidence_segment_indices": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44
+          ],
+          "start_seconds": 64.08,
+          "end_seconds": 96.941
+        },
+        {
+          "point": "Moore links public dissatisfaction to corruption, wars, tariffs, and economic pressure.",
+          "evidence_segment_indices": [
+            83,
+            84,
+            87,
+            88,
+            89,
+            90,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97
+          ],
+          "start_seconds": 163.612,
+          "end_seconds": 196.412
+        },
+        {
+          "point": "Moore advocates action on wars, tariffs, health care, immigration, education, housing, and poverty.",
+          "evidence_segment_indices": [
+            256,
+            257,
+            261,
+            262,
+            263,
+            264,
+            265,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            277,
+            278,
+            279,
+            281,
+            282,
+            286,
+            287,
+            288,
+            289,
+            358,
+            361
+          ],
+          "start_seconds": 504.217,
+          "end_seconds": 714.178
+        },
+        {
+          "point": "Moore says Democrats should prioritize tangible results over messaging.",
+          "evidence_segment_indices": [
+            343,
+            344,
+            347,
+            349,
+            354,
+            355,
+            356,
+            374,
+            375,
+            389,
+            390,
+            391,
+            392
+          ],
+          "start_seconds": 677.738,
+          "end_seconds": 774.939
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "aa7c1e3ff5378355523edae8563846fe3bba7c07c1be2e5f2ebad2f0d926a813",
+      "transcript_captured_at": "2026-11-05T19:33:39.366636Z",
+      "summary_generated_at": "2026-11-05T19:39:34.971412Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript inconsistently identifies the defense secretary as Pete Hegseth, Pete Hoekstra, and “Hexeth,” creating a material identity ambiguity.",
+        "Several captions contain apparent transcription defects, clipped phrases, and overlapping segments.",
+        "The episode presents allegations, predictions, interview statements, and quoted assertions without supporting documents or independent verification.",
+        "The transcript alone does not establish whether the described votes, filings, election outcomes, or policy developments occurred.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -622,6 +825,236 @@
         "Several quoted policy, legal, and business claims are presented without the underlying documents or full context.",
         "The overview reflects one creator’s commentary and examples; it does not establish the accuracy or generality of those allegations.",
         "Some product names and dates may be captioned inaccurately and should be checked against primary sources.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "In5VyMc8Tvw",
+      "title": "🚨‘WE’RE F*CKED’ Trump FREAKS OUT as Congress Launches LARGEST Investigation Effort in HISTORY!!",
+      "url": "https://www.youtube.com/watch?v=In5VyMc8Tvw",
+      "published_at": "2026-11-04T21:45:11.000000Z",
+      "summary": "Aaron Parnas presents the episode as an account of Democrats’ claimed post-election gains and their proposed oversight agenda, while emphasizing that several races and broader political consequences remain unresolved. He interviews incoming House Oversight Chair Robert Garcia, who says Democrats intend to investigate alleged financial conflicts involving the Trump family, corporate conduct, the handling of Epstein-related records, and alleged abuses involving ICE and DHS. Garcia also advocates public hearings and possible testimony from figures including Elon Musk, while making sweeping corruption allegations that the episode does not independently substantiate. Parnas then interviews Senator Kirsten Gillibrand about unsettled Senate contests in Mississippi and Alaska, where she expresses optimism about Democratic candidates and stresses counting remaining ballots. Gillibrand also describes Democratic priorities for January, including lowering costs, changing Iran policy, addressing tariffs and health care, and using congressional funding powers. The episode combines political commentary, interview claims, election predictions, international reactions, and a sponsor segment; its captions contain apparent transcription errors and provide no independent documentation for many assertions.",
+      "topics": [
+        "Congressional oversight",
+        "Election results and Senate races",
+        "Trump administration allegations",
+        "Democratic policy priorities",
+        "Political reactions"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Democrats will control every House and Senate committee beginning in January and will have subpoena, hearing, and deposition powers as described.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+          ]
+        },
+        {
+          "claim": "Democratic investigations will examine Trump-family finances, corporate conduct, Epstein-related records, and alleged ICE and DHS abuses.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            315,
+            316,
+            317,
+            318,
+            319,
+            320,
+            321
+          ]
+        },
+        {
+          "claim": "The episode reports that oil fell below $100 per barrel and declined about 8% in one day.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            119,
+            120,
+            121,
+            122
+          ]
+        },
+        {
+          "claim": "Mississippi and Alaska Senate races remained unsettled, with Democratic candidates described as potentially winning.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            415,
+            416,
+            417,
+            418,
+            419,
+            420,
+            421,
+            422,
+            428,
+            429,
+            430,
+            431,
+            432,
+            433,
+            434,
+            435,
+            436,
+            437,
+            438,
+            439,
+            460,
+            461,
+            462,
+            463
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Robert Garcia frames “lawyer up” as a warning that he expects congressional accountability efforts.",
+          "evidence_segment_indices": [
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            172,
+            173
+          ],
+          "start_seconds": 297.854,
+          "end_seconds": 335.734
+        },
+        {
+          "point": "Garcia identifies four oversight areas: the Trump family, Epstein-related matters, corporate corruption, and ICE/DHS conduct.",
+          "evidence_segment_indices": [
+            315,
+            316,
+            317,
+            318,
+            319,
+            320,
+            321
+          ],
+          "start_seconds": 594.737,
+          "end_seconds": 611.658
+        },
+        {
+          "point": "Gillibrand says Democrats plan to focus on costs, health care, tariffs, Iran policy, and congressional spending authority.",
+          "evidence_segment_indices": [
+            510,
+            511,
+            518,
+            519,
+            520,
+            521,
+            522,
+            523,
+            524,
+            527,
+            528,
+            529,
+            571,
+            572,
+            592,
+            600,
+            602,
+            603,
+            604,
+            605
+          ],
+          "start_seconds": 1000.342,
+          "end_seconds": 1193.223
+        },
+        {
+          "point": "The episode portrays international and Republican responses as evidence of a major political shift, but these interpretations are presented by the speakers.",
+          "evidence_segment_indices": [
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137
+          ],
+          "start_seconds": 151.012,
+          "end_seconds": 267.854
+        },
+        {
+          "point": "The interviews include predictions about unresolved Mississippi and Alaska results and future Democratic electoral targets.",
+          "evidence_segment_indices": [
+            418,
+            419,
+            420,
+            421,
+            422,
+            428,
+            433,
+            435,
+            436,
+            437,
+            438,
+            439,
+            460,
+            461,
+            462,
+            617,
+            618,
+            619,
+            623,
+            624,
+            625
+          ],
+          "start_seconds": 801.939,
+          "end_seconds": 1235.465
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "002333d0f2f877e08a5d964a1cae219c3f6369f886e7a452a93168800a6b508f",
+      "transcript_captured_at": "2026-11-05T19:33:23.147682Z",
+      "summary_generated_at": "2026-11-05T19:38:47.957198Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Captions contain apparent transcription defects, including garbled phrases and duplicated or incomplete wording.",
+        "The source is a single commentary episode and does not include supporting documents, independent election returns, market data, or responses from accused parties.",
+        "Many allegations and predictions are attributed to interviewees or the creator and should not be treated as established facts.",
+        "Several political descriptions use ambiguous or potentially inconsistent terminology, limiting precision without external verification.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -1928,6 +2361,353 @@
         "Several campaign and political claims are presented as advocacy or allegations rather than documented findings.",
         "Some captions contain transcription errors, repeated words, incomplete phrases, and ambiguous numbers.",
         "The excerpt does not provide vote totals, official sources, or corroborating reporting.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "0yChdELVaRs",
+      "title": "Hannity PANICS As His Own Fans TURN ON TRUMP!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=0yChdELVaRs",
+      "published_at": "2026-11-03T23:30:16.000000Z",
+      "summary": "Kyle Kulinski argues that callers to Sean Hannity’s radio program, including longtime Trump supporters, expressed frustration with Republicans, economic conditions, war policy, and the broader political system. He presents their reluctance to vote as evidence of declining enthusiasm rather than movement toward Democrats, while urging Democratic voters to participate. The episode contrasts Hannity’s promotion of positive economic indicators, closed borders, tax cuts, and low crime with callers’ concerns about fuel prices, affordability, political dysfunction, and alleged policy failures. Kulinski also advances a broader ideological argument that Republican policies benefit wealthy people while worsening conditions for working families, and that left-wing policies would produce better material outcomes. Near the conclusion, he predicts that Republicans would claim election fraud if they outperform expectations and characterizes the anticipated contest as a major test of turnout. The discussion is commentary built around selected callers and hosts’ claims; it does not independently establish the economic, electoral, policy, or corruption assertions mentioned.",
+      "topics": [
+        "Republican voter disillusionment",
+        "Economic conditions and affordability",
+        "Election turnout and predictions",
+        "Partisan policy debate"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The episode cites claims about GDP growth, inflation, household gains, poverty, median income, crime, border enforcement, tax cuts, and gas prices.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            114,
+            165,
+            193,
+            199,
+            202,
+            248,
+            249,
+            250,
+            305,
+            320,
+            322,
+            323
+          ]
+        },
+        {
+          "claim": "The episode asserts that Republican policies would close more than 700 hospitals and remove millions of people from Medicaid.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            89,
+            90,
+            91,
+            92,
+            93,
+            483,
+            484
+          ]
+        },
+        {
+          "claim": "The episode claims that early-voting numbers were unusually high and that Democrats were turning out in overwhelming numbers.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            423,
+            424,
+            425,
+            426,
+            427,
+            428,
+            429
+          ]
+        },
+        {
+          "claim": "Kulinski predicts that a stronger-than-expected Republican result would be attributed to fraud or electoral manipulation.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            433,
+            434,
+            435,
+            436,
+            437,
+            438
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski highlights Hannity callers who say they are frustrated, unconvinced, or considering not voting.",
+          "evidence_segment_indices": [
+            49,
+            50,
+            52,
+            53,
+            54,
+            55,
+            287,
+            288,
+            290,
+            291,
+            385,
+            386,
+            387,
+            398,
+            399,
+            403,
+            404
+          ],
+          "start_seconds": 107.6,
+          "end_seconds": 795.659
+        },
+        {
+          "point": "Hannity emphasizes favorable economic and public-safety indicators, while callers focus on fuel costs and lived financial pressure.",
+          "evidence_segment_indices": [
+            114,
+            118,
+            119,
+            120,
+            193,
+            198,
+            199,
+            200,
+            202,
+            203,
+            248,
+            249,
+            250,
+            256,
+            257,
+            258,
+            314,
+            315
+          ],
+          "start_seconds": 226.252,
+          "end_seconds": 612.698
+        },
+        {
+          "point": "Kulinski argues that staying home by disaffected Republicans could benefit Democrats even without those voters changing parties.",
+          "evidence_segment_indices": [
+            20,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            372,
+            373,
+            374,
+            375,
+            417,
+            418,
+            419
+          ],
+          "start_seconds": 43.0,
+          "end_seconds": 824.419
+        },
+        {
+          "point": "The episode ends with Kulinski urging voting and presenting the election as a test of turnout and competing political agendas.",
+          "evidence_segment_indices": [
+            430,
+            431,
+            447,
+            448,
+            450,
+            451,
+            452,
+            453,
+            456,
+            457,
+            463,
+            464,
+            465
+          ],
+          "start_seconds": 848.979,
+          "end_seconds": 925.541
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "49d51df1f67444197bc956b48390f9fd5c264e88ad833c14f2c59604b5dff49d",
+      "transcript_captured_at": "2026-11-05T19:33:30.822308Z",
+      "summary_generated_at": "2026-11-05T19:39:11.626468Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is automatically captioned and contains interruptions, profanity redactions, overlaps, and apparent recognition errors.",
+        "Several quoted economic, electoral, policy, and corruption claims are presented by callers or hosts without supporting source material in the episode transcript.",
+        "The discussion samples selected radio callers and should not be treated as representative evidence of all Republican voters or broader turnout patterns.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "ucx1tHL_XgU",
+      "title": "Joe Rogan STRUGGLES To Defend Trump’s Corruption | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=ucx1tHL_XgU",
+      "published_at": "2026-11-03T22:55:01.000000Z",
+      "summary": "The creator critiques Joe Rogan’s handling of allegations concerning Donald Trump’s finances, cryptocurrency ventures, and possible conflicts of interest. The episode presents excerpts in which guests discuss Trump’s reported increase in wealth, memecoin activity, access to donors, and business dealings while president; Rogan is portrayed as responding that such conduct is legal or widespread. The creator argues that these responses redirect attention toward Democrats and amount to false equivalence, while emphasizing that legality and ethical acceptability are separate questions. The commentary also lists numerous allegations involving Trump’s family, foreign-linked business interests, pardons, contracts, and access arrangements, but the transcript does not provide documentation or independent corroboration for them. The segment closes by asserting that Rogan’s political alignment and proximity to Trump have reduced his credibility and popularity. Overall, this is an adversarial political commentary built around selected conversation excerpts, with strong accusations and predictions that require verification beyond the supplied transcript.",
+      "topics": [
+        "Joe Rogan’s political commentary",
+        "Trump finances and cryptocurrency",
+        "Conflicts of interest",
+        "Political accountability"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The creator says Trump’s net worth rose by an estimated $2.7 billion to $4.1 billion after the 2024 election and places his total wealth near $6.4 billion.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            99,
+            100,
+            101,
+            102,
+            106,
+            107
+          ]
+        },
+        {
+          "claim": "The creator alleges that Trump and associates used cryptocurrency, paid access, pardons, contracts, and foreign-linked business arrangements for personal or political benefit.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            308,
+            309,
+            310,
+            318,
+            319,
+            320,
+            321,
+            323,
+            324,
+            325,
+            327,
+            328,
+            329,
+            330,
+            341,
+            342,
+            343,
+            345,
+            346,
+            347,
+            348,
+            349,
+            350,
+            363
+          ]
+        },
+        {
+          "claim": "The creator asserts that Joe Rogan’s popularity fell 11 points over two years because of his responses to Trump-related controversies.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            277,
+            278,
+            279,
+            280,
+            281,
+            282
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames Rogan as retreating to both-sides comparisons when guests criticize Trump.",
+          "evidence_segment_indices": [
+            77,
+            78,
+            79,
+            91,
+            92,
+            93,
+            182,
+            183,
+            184
+          ],
+          "start_seconds": 172.16,
+          "end_seconds": 398.16
+        },
+        {
+          "point": "The featured discussion focuses on whether Trump’s wealth growth and memecoin activity are legal or ethically problematic.",
+          "evidence_segment_indices": [
+            43,
+            46,
+            47,
+            53,
+            54,
+            55,
+            99,
+            100,
+            101,
+            102,
+            210,
+            218,
+            219,
+            262,
+            264,
+            265
+          ],
+          "start_seconds": 104.96,
+          "end_seconds": 540.48
+        },
+        {
+          "point": "The commentary distinguishes legal status from broader concerns about conflicts of interest and accountability.",
+          "evidence_segment_indices": [
+            304,
+            305,
+            306,
+            416,
+            417,
+            418,
+            419,
+            420,
+            421,
+            422
+          ],
+          "start_seconds": 614.32,
+          "end_seconds": 855.04
+        },
+        {
+          "point": "The creator concludes that Rogan’s closeness to Trump compromises his objectivity and credibility.",
+          "evidence_segment_indices": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            158,
+            159,
+            160,
+            448,
+            449,
+            450,
+            460,
+            461,
+            462,
+            463
+          ],
+          "start_seconds": 64.479,
+          "end_seconds": 944.639
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "3a8ee37274258d72bbf52f0449be8973150033818a14e799885934eb55ef52d9",
+      "transcript_captured_at": "2026-11-05T19:33:14.365006Z",
+      "summary_generated_at": "2026-11-05T19:38:25.977525Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is partisan commentary and includes highly charged allegations without supporting documents.",
+        "Several claims are presented through clipped or overlapping dialogue, making speaker attribution occasionally ambiguous.",
+        "Caption errors and transcription defects affect names, figures, and legal terminology.",
+        "The overview relies only on the supplied transcript and does not independently establish any allegation.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -4174,834 +4954,6 @@
         "The claimed connection between Murphy’s health event and his political positions is speculation explicitly framed as suspicion.",
         "Several political references, including the alleged Iran and election plots, are not explained or substantiated in the source.",
         "Some transcript passages contain redacted profanity and speech-recognition defects.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "zbOKCcT-rqA",
-      "title": "MAJOR BREAKING: HALEY STEVENS RATF*CKS ABDUL AT LAST SECOND",
-      "url": "https://www.youtube.com/watch?v=zbOKCcT-rqA",
-      "published_at": "2026-11-01T16:55:08.000000Z",
-      "summary": "Kyle Kulinski argues that Haley Stevens undermined Abdul El Sayed by appearing with Republican Mike Rogers at a Detroit Black church, reportedly explaining that Rogers supports investment in Black small businesses. He connects the appearance to criticism from Stevens’s husband and to Stevens’s earlier CNN comments about an advertisement he describes as antisemitic, while asserting that El Sayed did not run the advertisement. Kulinski characterizes Stevens’s conduct as a deliberate betrayal and alleges that she has long been a “MAGA” and pro-Israel operation. He also claims that pro-Israel lobbying influenced her and portrays El Sayed as an anti-Zionist candidate whose potential victory would be politically significant. The episode urges Michigan Democrats to vote for El Sayed, predicts that the controversy could affect the race, and describes attacks against him as Islamophobic. These conclusions rely on Kulinski’s account and interpretations; the transcript does not independently establish the event, funding figures, advertisements’ provenance or content, alleged coordination, or the broader electoral claims.",
-      "topics": [
-        "Haley Stevens and Mike Rogers",
-        "Abdul El Sayed campaign",
-        "Israel and Zionism",
-        "Michigan Democratic politics"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Haley Stevens campaigned with Republican Mike Rogers at a Detroit Black church and attributed her presence to his support for Black small businesses.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "claim": "Stevens’s husband criticized Abdul El Sayed, and Stevens later commented on an advertisement that Kulinski says El Sayed did not run.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38
-          ]
-        },
-        {
-          "claim": "Stevens received approximately $35 billion from AIPAC or the pro-Israel lobby.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            52,
-            53,
-            54,
-            55,
-            56
-          ]
-        },
-        {
-          "claim": "Stevens’s actions were planned as a MAGA or pro-Israel operation intended to undermine El Sayed.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            99,
-            100,
-            101,
-            154,
-            155
-          ]
-        },
-        {
-          "claim": "Republican attacks on El Sayed primarily involve Islamophobia and bigotry rather than policy issues.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            161,
-            162,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski presents Stevens’s appearance with Rogers as a last-minute betrayal of El Sayed.",
-          "evidence_segment_indices": [
-            2,
-            3,
-            44,
-            45,
-            46,
-            64,
-            65,
-            66,
-            67
-          ],
-          "start_seconds": 4.319,
-          "end_seconds": 151.76
-        },
-        {
-          "point": "He disputes the characterization of a referenced advertisement as antisemitic and says it criticized Israel’s government and U.S. military funding.",
-          "evidence_segment_indices": [
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43
-          ],
-          "start_seconds": 74.56,
-          "end_seconds": 94.32
-        },
-        {
-          "point": "He urges Michigan Democrats, liberals, and leftists to vote for El Sayed.",
-          "evidence_segment_indices": [
-            69,
-            70,
-            76,
-            77,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            115
-          ],
-          "start_seconds": 151.76,
-          "end_seconds": 248.879
-        },
-        {
-          "point": "He argues that El Sayed’s anti-Zionist positioning makes the race nationally significant.",
-          "evidence_segment_indices": [
-            119,
-            120,
-            121,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133
-          ],
-          "start_seconds": 253.76,
-          "end_seconds": 286.32
-        },
-        {
-          "point": "Kulinski acknowledges uncertainty about whether Stevens’s move will affect the race but expects it to mobilize Democrats.",
-          "evidence_segment_indices": [
-            71,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77
-          ],
-          "start_seconds": 155.599,
-          "end_seconds": 170.08
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "3347e94e05efb1ece8801025b03a591eb8f498ad66d656b89e02a8dd350a2f1a",
-      "transcript_captured_at": "2026-11-01T18:03:09.204772Z",
-      "summary_generated_at": "2026-11-01T18:08:15.287281Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is a single commentator’s account and does not include independent reporting or source documents.",
-        "Several names, terms, and slurs are imperfectly captured or redacted in the captions.",
-        "The alleged funding amount, advertising details, campaign appearance, and coordination claims require independent verification.",
-        "Kulinski’s labels such as “MAGA op,” “Israeli op,” and “Zionist op” are opinions or allegations, not established findings.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "w2RTAjcekEM",
-      "title": "Republicans Admit IT'S OVER, Trump in SOMBER Mood as Presidency Becomes LAME DUCK!!",
-      "url": "https://www.youtube.com/watch?v=w2RTAjcekEM",
-      "published_at": "2026-11-01T15:14:22.000000Z",
-      "summary": "Aaron Parnas argues that the approaching midterm elections could leave Donald Trump politically weakened if Democrats win either chamber of Congress. He presents Republican control of the House as effectively lost, describes the Senate as competitive, and cites early-voting figures in North Carolina as favorable to Democrats while acknowledging that election-day turnout could change the result. Parnas also alleges that Trump may be considering military action involving Iran and suggests this could be connected to electoral strategy, though the excerpt does not establish that claim. The episode highlights Senator Tim Scott’s characterization of Republican votes as support for Trump’s agenda. It further contrasts an opulent Mar-a-Lago Halloween event with reported pressures involving food assistance and health-insurance costs, framing the contrast as politically significant. Parnas predicts a Democratic House victory but calls the Senate a toss-up, while urging viewers to vote and promoting planned election-night coverage.",
-      "topics": [
-        "Midterm elections",
-        "Congressional control",
-        "Trump agenda",
-        "North Carolina voting",
-        "Iran policy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Parnas reports that Republicans privately consider the House effectively lost while viewing Senate control as uncertain.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            23,
-            24,
-            25
-          ]
-        },
-        {
-          "claim": "Parnas reports a Democratic early-voting lead of 343,000 votes in North Carolina in 2026, compared with a Republican lead of 41,000 at a comparable point in 2024.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106
-          ]
-        },
-        {
-          "claim": "Parnas alleges that Trump is preparing possible strikes on Iran and may use the prospect of military action to influence voters.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43
-          ]
-        },
-        {
-          "claim": "Parnas reports that Trump declined to answer a question about returning to war with Iran and called it stupid.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            141,
-            142,
-            143,
-            144,
-            145,
-            146,
-            147,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode frames control of either congressional chamber as consequential for Trump’s agenda.",
-          "evidence_segment_indices": [
-            9,
-            10,
-            15,
-            16,
-            20,
-            21,
-            22
-          ],
-          "start_seconds": 24.16,
-          "end_seconds": 62.559
-        },
-        {
-          "point": "Tim Scott is quoted describing Republican candidates as vehicles for Trump’s agenda and calling the Senate a firewall.",
-          "evidence_segment_indices": [
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            60,
-            61,
-            62,
-            66,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76
-          ],
-          "start_seconds": 109.119,
-          "end_seconds": 179.2
-        },
-        {
-          "point": "North Carolina early-voting data is presented as favorable to Democrats, but Parnas says no race is predetermined.",
-          "evidence_segment_indices": [
-            96,
-            97,
-            98,
-            99,
-            100,
-            102,
-            103,
-            104,
-            105,
-            115,
-            116,
-            117,
-            120,
-            121,
-            122,
-            123
-          ],
-          "start_seconds": 216.0,
-          "end_seconds": 288.08
-        },
-        {
-          "point": "Parnas contrasts the Mar-a-Lago event with reported economic pressures and interprets the contrast as politically meaningful.",
-          "evidence_segment_indices": [
-            126,
-            127,
-            128,
-            129,
-            130,
-            156,
-            157,
-            158,
-            159,
-            160,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177
-          ],
-          "start_seconds": 291.199,
-          "end_seconds": 428.24
-        },
-        {
-          "point": "Parnas predicts Democrats will likely win the House but says the Senate could go either way.",
-          "evidence_segment_indices": [
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189
-          ],
-          "start_seconds": 434.0,
-          "end_seconds": 457.68
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "d92e70fcfa13df0de8dda47c6c148560a04ecc04b6d99f76f394a62225421715",
-      "transcript_captured_at": "2026-11-01T16:03:09.991899Z",
-      "summary_generated_at": "2026-11-01T16:08:14.804292Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is a single commentary episode and does not independently document the election data, private Republican assessments, or Iran-related allegations.",
-        "Captioning contains apparent transcription errors and incomplete phrases, including a stray speaker fragment around segment 77.",
-        "The excerpt provides no methodological details for the early-voting totals or the reported economic figures.",
-        "The creator explicitly acknowledges uncertainty about the election outcome, particularly in the Senate.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "-gQubMp4CCE",
-      "title": "Trump ERUPTS as Court EVISCERATES his Epstein Lawsuit, the TRUTH is EXPOSED!!",
-      "url": "https://www.youtube.com/watch?v=-gQubMp4CCE",
-      "published_at": "2026-10-31T21:37:54.000000Z",
-      "summary": "Aaron Parnas presents the episode as an argument that Donald Trump is facing setbacks in litigation and election politics. Parnas says a federal judge dismissed Trump’s lawsuit against The Wall Street Journal and Rupert Murdoch with prejudice, and characterizes the ruling as rejecting the defamation claim; the transcript also says legal-fee arguments may follow (0-10, 64-82). He says Trump’s BBC case could be dismissed if specified discovery and deposition requirements are not met, while describing an Alaska election lawsuit as opposed by Republican state officials (84-99). The episode then frames Republican campaigns in Texas, South Carolina, Kansas, and Florida as struggling, citing campaign incidents and polling claims without presenting supporting documentation (100-131). In an extended interview, Pennsylvania Governor Josh Shapiro discusses his campaign, proposed state policies, election security, and opposition to Trump, while declining to focus on a possible 2028 run (147-225, 236-361, 362-396). The material is commentary and interview content, not independently verified reporting.",
-      "topics": [
-        "Trump litigation",
-        "Epstein birthday letter lawsuit",
-        "2026 election campaigns",
-        "Pennsylvania politics",
-        "Election security"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A federal judge dismissed Trump’s lawsuit against The Wall Street Journal and Rupert Murdoch with prejudice and found the defamation claim lacked merit.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            60,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            77
-          ]
-        },
-        {
-          "claim": "Trump’s BBC lawsuit could be dismissed unless he provides discovery documents and sits for a deposition on the stated schedule.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            84,
-            85,
-            86,
-            87,
-            88,
-            89,
-            90
-          ]
-        },
-        {
-          "claim": "Republican candidates or incumbents in several states were facing unusually difficult political conditions before the election.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            117,
-            118,
-            119,
-            120,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas links the Epstein-letter lawsuit to a disputed publication and Trump’s allegation that the letter was fake.",
-          "evidence_segment_indices": [
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            50,
-            51,
-            55,
-            56
-          ],
-          "start_seconds": 77.68,
-          "end_seconds": 117.68
-        },
-        {
-          "point": "The episode includes an interview with Josh Shapiro about Pennsylvania’s campaign and voter concerns.",
-          "evidence_segment_indices": [
-            142,
-            143,
-            144,
-            145,
-            147,
-            148,
-            149,
-            150,
-            156,
-            157,
-            158,
-            159,
-            160,
-            161,
-            162,
-            163
-          ],
-          "start_seconds": 292.479,
-          "end_seconds": 336.4
-        },
-        {
-          "point": "Shapiro outlines priorities including higher wages, abortion-rights protections, housing, infrastructure, and transit if Democrats control the state legislature.",
-          "evidence_segment_indices": [
-            256,
-            257,
-            260,
-            261,
-            262,
-            263,
-            268,
-            269,
-            270,
-            272,
-            273,
-            274,
-            275,
-            280,
-            281,
-            282,
-            287,
-            288,
-            289,
-            292
-          ],
-          "start_seconds": 522.56,
-          "end_seconds": 604.08
-        },
-        {
-          "point": "Shapiro says Pennsylvania elections will be secure while predicting possible efforts by Trump to interfere; these are his statements and expectations.",
-          "evidence_segment_indices": [
-            326,
-            327,
-            328,
-            329,
-            330,
-            331,
-            332,
-            333,
-            334,
-            335,
-            336,
-            337,
-            339,
-            340,
-            341,
-            342,
-            343,
-            348,
-            349,
-            350,
-            351,
-            352,
-            353,
-            356
-          ],
-          "start_seconds": 673.36,
-          "end_seconds": 742.079
-        },
-        {
-          "point": "Shapiro says he is focused on the midterms rather than a potential 2028 campaign.",
-          "evidence_segment_indices": [
-            362,
-            364,
-            367,
-            368,
-            372,
-            373,
-            374,
-            375,
-            376,
-            391,
-            392,
-            394,
-            395,
-            396
-          ],
-          "start_seconds": 749.839,
-          "end_seconds": 823.68
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "3a5ad69da9af29c385c479152b480fd178950844d1c09786ad002fcac5e2a1de",
-      "transcript_captured_at": "2026-10-31T22:33:10.001720Z",
-      "summary_generated_at": "2026-10-31T22:38:16.068963Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview relies only on the supplied transcript and does not verify legal rulings, polling, campaign events, or policy claims.",
-        "Several captions contain apparent transcription errors, including names, dates, and political terminology.",
-        "The transcript sometimes presents predictions, allegations, or quotations without enough surrounding context to assess them.",
-        "The episode’s framing is partisan commentary, while the Shapiro material is an interview containing participants’ own claims and plans.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "_j5zKQ5E5ls",
-      "title": "Trump TERRIFIED as Congress Prepares Mass Epstein Investigations of HIS KIDS!",
-      "url": "https://www.youtube.com/watch?v=_j5zKQ5E5ls",
-      "published_at": "2026-10-31T17:16:16.000000Z",
-      "summary": "Aaron Parnas argues that a Democratic House victory would enable subpoenas, sworn testimony, and public hearings concerning Donald Trump’s reported ties to Jeffrey Epstein. He presents a House Judiciary Democrats’ report as alleging that multiple women connected Trump to Epstein’s sexual-abuse operations, that the Justice Department and FBI concealed relevant information, and that Attorney General Todd Blanch may have mishandled an interview with a witness. Trump is described as denying the allegations and saying he was exonerated. Parnas further emphasizes Democratic plans to investigate Epstein’s finances, question administration officials, and potentially subpoena members of Trump’s family. Interviews included in the episode feature Democratic lawmakers promising aggressive use of contempt proceedings and other legal tools if witnesses resist. The episode is advocacy-oriented: its central interpretation is that the White House’s responses reflect fear, while the allegations, report contents, proposed investigations, and possible legal violations remain matters requiring independent verification. Caption defects and unclear names also limit confidence in some details.",
-      "topics": [
-        "Epstein investigation",
-        "Congressional subpoenas",
-        "Trump family",
-        "Justice Department",
-        "Election politics"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A House Judiciary Democrats’ report alleges that Trump participated in Epstein-related sexual abuse and that 11 women connected him to Epstein’s operations.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53
-          ]
-        },
-        {
-          "claim": "The report alleges that the Justice Department and FBI withheld information or files because Trump was implicated.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            41,
-            42,
-            43,
-            44,
-            92,
-            93,
-            94,
-            95,
-            96,
-            97
-          ]
-        },
-        {
-          "claim": "The report alleges that Todd Blanch’s conduct could constitute witness tampering or obstruction.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            104,
-            105,
-            106,
-            107,
-            112,
-            113,
-            114,
-            116,
-            120,
-            121,
-            122,
-            123,
-            124
-          ]
-        },
-        {
-          "claim": "Democrats could subpoena Trump family members and make the Epstein investigation a major oversight priority if they control the House.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            146,
-            147,
-            148,
-            149,
-            150,
-            151,
-            156,
-            157,
-            162,
-            163,
-            164,
-            165,
-            196,
-            197,
-            198,
-            199,
-            201,
-            202
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames a possible Democratic House majority as the mechanism for expanded subpoenas, sworn testimony, and public hearings.",
-          "evidence_segment_indices": [
-            2,
-            3,
-            4,
-            19,
-            20,
-            136,
-            137,
-            138,
-            139,
-            140
-          ],
-          "start_seconds": 4.72,
-          "end_seconds": 322.0
-        },
-        {
-          "point": "Trump’s stated position is that he was exonerated and that Epstein-related criticism is politically motivated.",
-          "evidence_segment_indices": [
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            83,
-            84,
-            85
-          ],
-          "start_seconds": 140.72,
-          "end_seconds": 212.4
-        },
-        {
-          "point": "The episode highlights allegations involving a witness interview by Blanch and possible obstruction-related conduct.",
-          "evidence_segment_indices": [
-            104,
-            105,
-            106,
-            107,
-            112,
-            113,
-            116,
-            118,
-            119,
-            120,
-            121,
-            122,
-            123,
-            124
-          ],
-          "start_seconds": 246.4,
-          "end_seconds": 289.759
-        },
-        {
-          "point": "Democratic lawmakers describe plans to investigate finances, pursue contempt proceedings, and potentially question Trump family members.",
-          "evidence_segment_indices": [
-            158,
-            159,
-            160,
-            165,
-            174,
-            175,
-            176,
-            177,
-            180,
-            181,
-            182,
-            183,
-            187,
-            188,
-            197,
-            198,
-            201,
-            202,
-            203,
-            204
-          ],
-          "start_seconds": 352.96,
-          "end_seconds": 455.919
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "a02ded39329f16509573d0ebef53616f8571053db493bcb7fec01e3c0c8ef9d2",
-      "transcript_captured_at": "2026-10-31T19:03:12.086269Z",
-      "summary_generated_at": "2026-10-31T19:08:17.871850Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is an advocacy presentation and does not independently establish the allegations it discusses.",
-        "Several names and words appear mistranscribed, including references to Epstein, Blanch, and other public figures.",
-        "The source provides only selected spoken claims and excerpts, without the underlying report, documents, or opposing evidence.",
-        "Some quoted or paraphrased statements are difficult to attribute precisely because the captions overlap and contain defects.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
