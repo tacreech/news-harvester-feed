@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T20:42:01.141899Z",
+  "generated_at": "2026-11-05T21:12:01.207263Z",
   "reporting_window": {
-    "start": "2026-10-29T20:42:01.141899Z",
-    "end": "2026-11-05T20:42:01.141899Z"
+    "start": "2026-10-29T21:12:01.207263Z",
+    "end": "2026-11-05T21:12:01.207263Z"
   },
   "episodes": [
     {
@@ -807,6 +807,155 @@
         "Several captions contain apparent transcription defects, clipped phrases, and overlapping segments.",
         "The episode presents allegations, predictions, interview statements, and quoted assertions without supporting documents or independent verification.",
         "The transcript alone does not establish whether the described votes, filings, election outcomes, or policy developments occurred.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "QYOV1XRRrLU",
+      "title": "Asmongold CRIES ON STREAM At The Final Death Of MAGA | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=QYOV1XRRrLU",
+      "published_at": "2026-11-05T00:15:36.000000Z",
+      "summary": "Kyle Kulinski critiques a clip of streamer Asmongold reacting emotionally to an apparent electoral setback, portraying the reaction as a collapse among Trump-aligned commentators. Kulinski argues that Asmongold is revising his criticism of Trump only after losses became apparent, while previously failing to challenge Trump’s policies and commercial ventures. The discussion then broadens into competing interpretations of right-wing and left-wing politics: Kulinski characterizes the former as harmful and exclusionary, while presenting the latter as focused on healthcare, education, wages, democracy, and reduced corporate influence. He also ridicules culture-war fears about Democrats changing entertainment, religion, or social norms, saying Asmongold treats jokes as literal policy. The episode closes with Kulinski urging conservatives to acknowledge defeat and reform rather than claim fraud or repeat the same strategy. The source is a commentary segment built around an excerpted stream reaction; its political and factual assertions are presented by the speakers rather than independently established.",
+      "topics": [
+        "Asmongold’s election reaction",
+        "Trump-aligned commentary",
+        "Right-wing and left-wing ideology",
+        "Conservative election response",
+        "Culture-war politics"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Asmongold cried on stream while reacting to election results and described himself as frustrated and rage-quitting.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            24,
+            25,
+            26,
+            37,
+            38,
+            151,
+            153
+          ]
+        },
+        {
+          "claim": "Kulinski alleges that Asmongold previously supported or failed to criticize Trump-related policies and ventures before the losses.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            43,
+            44,
+            45,
+            46,
+            47,
+            77,
+            80,
+            81,
+            82,
+            83
+          ]
+        },
+        {
+          "claim": "Kulinski says Democrats won control of the House, Senate, and presidency, and that the loss was substantial.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            168,
+            169,
+            170,
+            223,
+            224,
+            235,
+            241,
+            242
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode centers on Kulinski’s reaction to Asmongold’s emotional response and political frustration.",
+          "evidence_segment_indices": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            151,
+            152,
+            153
+          ],
+          "start_seconds": 49.36,
+          "end_seconds": 294.96
+        },
+        {
+          "point": "Kulinski contrasts his account of left-wing priorities with Asmongold’s culture-war expectations about Democrats.",
+          "evidence_segment_indices": [
+            292,
+            294,
+            296,
+            297,
+            298,
+            300,
+            302,
+            304,
+            305,
+            306,
+            310,
+            311,
+            312
+          ],
+          "start_seconds": 556.959,
+          "end_seconds": 600.16
+        },
+        {
+          "point": "Kulinski argues conservatives should accept defeat, identify mistakes, and change strategy.",
+          "evidence_segment_indices": [
+            223,
+            224,
+            237,
+            238,
+            239,
+            243,
+            244,
+            245,
+            246,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268
+          ],
+          "start_seconds": 430.08,
+          "end_seconds": 524.64
+        },
+        {
+          "point": "The commentary portrays the featured reaction as part of a broader conservative post-election backlash.",
+          "evidence_segment_indices": [
+            354,
+            355,
+            356,
+            357,
+            358
+          ],
+          "start_seconds": 679.12,
+          "end_seconds": 692.48
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "70624036af2a36bc414d2d79bfafff376a8b84353ddc7a8b81e3c7221e1ce89d",
+      "transcript_captured_at": "2026-11-05T21:03:13.589714Z",
+      "summary_generated_at": "2026-11-05T21:08:24.867016Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Automatic captions contain profanity masking, malformed words, overlapping dialogue, and apparent transcription errors.",
+        "The segment does not independently establish the election results, political control, or allegations about government actions and policy outcomes.",
+        "Some statements are sarcastic, hyperbolic, or explicitly framed as jokes, making literal interpretation uncertain.",
+        "The overview reflects this excerpt and does not establish the full context of the original stream or episode.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -5214,207 +5363,6 @@
         "Several captions contain transcription defects, fragmented speech, and unclear wording.",
         "Claims about bribery, election effects, campaign leaks, crowd sizes, and voter behavior require independent verification.",
         "The source provides limited context for the underlying videos, events, dates, and legal matters.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "py0HQyw2XUE",
-      "title": "BREAKING: TRUMP ACCUSED OF R*PING 8-YEAR-OLD | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=py0HQyw2XUE",
-      "published_at": "2026-11-03T21:00:05.000000Z",
-      "summary": "Kyle Kulinski argues that recent Epstein-related reporting intensifies scrutiny of Donald Trump, while emphasizing that the episode’s most serious material consists of unverified allegations. He discusses reporting that a federal judge dismissed Trump’s defamation lawsuit against The Wall Street Journal over a purported birthday letter to Jeffrey Epstein, and he interprets the letter as evidence of an intimate relationship. Kulinski then presents a video in which Larissa Portnoff alleges childhood sexual abuse, later sexual exploitation, intimidation, threats, and interference connected to Trump and his associates. The episode also revisits earlier allegations involving Trump, Epstein, and other women, and claims that authorities or media have insufficiently investigated or reported them. Kulinski advances broader conclusions about trafficking, blackmail, intelligence agencies, and political corruption, but the supplied transcript does not independently establish those claims. He closes by urging viewers to vote, pursue accountability, and support impeachment or criminal punishment.",
-      "topics": [
-        "Trump and Epstein reporting",
-        "Defamation lawsuit",
-        "Sexual-abuse allegations",
-        "Political accountability"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A federal judge dismissed Trump’s defamation lawsuit against The Wall Street Journal concerning a purported birthday letter to Jeffrey Epstein.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            4,
-            5,
-            6,
-            7,
-            8,
-            14,
-            15,
-            16,
-            17,
-            52,
-            53,
-            54,
-            55
-          ]
-        },
-        {
-          "claim": "Larissa Portnoff alleges that Trump sexually abused or exploited her beginning in childhood and later engaged in intimidation, threats, and other misconduct.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            121,
-            122,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140,
-            143,
-            144,
-            145,
-            146,
-            147,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153,
-            154,
-            155,
-            156
-          ]
-        },
-        {
-          "claim": "The episode asserts that other women and minors have made additional allegations against Trump, including allegations involving Katie Johnson.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            251,
-            252,
-            253,
-            254,
-            257,
-            258,
-            259,
-            265,
-            266,
-            377,
-            378,
-            379,
-            381,
-            382,
-            383,
-            384,
-            385,
-            386
-          ]
-        },
-        {
-          "claim": "Kulinski claims that Trump obstructed or suppressed investigations related to Epstein and may have participated in a trafficking network.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            388,
-            389,
-            390,
-            391,
-            392,
-            393,
-            394,
-            395,
-            396,
-            397,
-            398,
-            399,
-            400,
-            401,
-            402,
-            403,
-            404,
-            405,
-            406,
-            407,
-            408
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode centers on Epstein-related scrutiny of Trump and a disputed birthday letter.",
-          "evidence_segment_indices": [
-            4,
-            8,
-            21,
-            22,
-            52,
-            54,
-            55
-          ],
-          "start_seconds": 5.84,
-          "end_seconds": 108.0
-        },
-        {
-          "point": "Kulinski explicitly frames Portnoff’s account as allegations rather than established facts.",
-          "evidence_segment_indices": [
-            119,
-            120,
-            121,
-            122,
-            123
-          ],
-          "start_seconds": 227.212,
-          "end_seconds": 239.852
-        },
-        {
-          "point": "Portnoff’s recorded statement alleges abuse, exploitation, intimidation, and threats over several decades.",
-          "evidence_segment_indices": [
-            133,
-            134,
-            137,
-            143,
-            149,
-            153,
-            156,
-            181,
-            182,
-            207,
-            216,
-            223,
-            228
-          ],
-          "start_seconds": 255.694,
-          "end_seconds": 441.295
-        },
-        {
-          "point": "Kulinski links the allegations to broader claims of media neglect, corruption, and political accountability.",
-          "evidence_segment_indices": [
-            276,
-            277,
-            285,
-            286,
-            330,
-            331,
-            364,
-            365,
-            418,
-            419,
-            430,
-            431,
-            432
-          ],
-          "start_seconds": 529.377,
-          "end_seconds": 846.259
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "342404d4ecd1eaa70d42599ee5e6944e0458bbfca71cef24ec0dd9a59b6f964d",
-      "transcript_captured_at": "2026-11-05T18:33:28.090195Z",
-      "summary_generated_at": "2026-11-05T18:39:10.676705Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview relies solely on an automatically transcribed episode and does not verify the cited reporting, court ruling, letter, video, or allegations.",
-        "Some transcript passages contain profanity, redactions, interruptions, and recognition errors that may affect precise wording.",
-        "The episode includes extensive commentary and speculation beyond the directly described source material.",
-        "The transcript does not provide enough context to assess the identities, evidence, legal status, or outcomes associated with the allegations.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
