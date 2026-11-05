@@ -1,11 +1,423 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T17:42:01.152119Z",
+  "generated_at": "2026-11-05T18:12:01.161755Z",
   "reporting_window": {
-    "start": "2026-10-29T17:42:01.152119Z",
-    "end": "2026-11-05T17:42:01.152119Z"
+    "start": "2026-10-29T18:12:01.161755Z",
+    "end": "2026-11-05T18:12:01.161755Z"
   },
   "episodes": [
+    {
+      "creator": "Mike Figueredo — The Humanist Report",
+      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
+      "video_id": "sipGHoG36LI",
+      "title": "LOL: Melodramatic Conservatives Mourn “Death” of America Following Republican Bloodbath",
+      "url": "https://www.youtube.com/watch?v=sipGHoG36LI",
+      "published_at": "2026-11-04T23:37:06.000000Z",
+      "summary": "Mike Figueredo argues that a perceived Democratic electoral breakthrough has triggered an emotional collapse among conservatives and exposed deep Republican dissatisfaction with Donald Trump. He presents clips and reported reactions describing America as “over,” warning of socialism, and blaming Trump for the party’s losses. Figueredo says the results could redraw the electoral map, put traditionally Republican states in play, and intensify Republican infighting ahead of 2028. He also highlights alleged criticism from figures including Alex Jones, Ron DeSantis, and JD Vance, while citing media reports and unnamed sources about Republican events and Trump’s reaction. The episode then shifts into celebratory mockery: Figueredo says liberals are enjoying the backlash and assembles satirical posts and exaggerated “woke” predictions. The commentary is openly partisan, profane, and frequently hyperbolic. Its account relies heavily on quoted social-media posts, clips, and secondary reporting; the transcript alone does not establish the election results, reported reactions, or broader political implications.",
+      "topics": [
+        "Conservative reactions to election results",
+        "Republican accountability and Trump",
+        "Potential electoral realignment",
+        "Partisan satire and backlash"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Democrats won a broad set of races, including control of the House and Senate, and states such as Texas, Iowa, Kansas, South Carolina, and Mississippi became electorally competitive.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            56,
+            57,
+            73,
+            74,
+            165,
+            166,
+            167
+          ]
+        },
+        {
+          "claim": "Media reports and political figures attributed the Republican defeat substantially to Donald Trump and described significant internal party anger or distancing.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            94,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            145,
+            146,
+            147,
+            149,
+            150,
+            152
+          ]
+        },
+        {
+          "claim": "Reports cited by Figueredo said Republicans were crying at events and that Trump was nearly silent or “borderline catatonic” while watching results.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            120,
+            121,
+            122,
+            123,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Figueredo frames conservative reactions as unusually despairing and cites statements portraying the country’s future in catastrophic terms.",
+          "evidence_segment_indices": [
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64
+          ],
+          "start_seconds": 72.479,
+          "end_seconds": 133.44
+        },
+        {
+          "point": "He argues that Trump’s role has produced a crisis of direction and a potential leadership vacuum within the Republican Party.",
+          "evidence_segment_indices": [
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189
+          ],
+          "start_seconds": 279.68,
+          "end_seconds": 389.28
+        },
+        {
+          "point": "The latter portion uses satire and celebratory online reactions to mock conservative fears about a return of “woke” politics.",
+          "evidence_segment_indices": [
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            246,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265,
+            310,
+            311,
+            312,
+            313,
+            314
+          ],
+          "start_seconds": 454.4,
+          "end_seconds": 650.8
+        },
+        {
+          "point": "Figueredo closes by prioritizing celebration and ridicule over immediate organizing, while predicting stronger feelings in 2028.",
+          "evidence_segment_indices": [
+            346,
+            347,
+            348,
+            353,
+            354,
+            355,
+            356,
+            357,
+            358,
+            359,
+            360,
+            361,
+            362,
+            363
+          ],
+          "start_seconds": 713.2,
+          "end_seconds": 756.639
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "44ba458339fc7d32fdd585e86e694869fd47144cc59439bf86a0505e01b127f7",
+      "transcript_captured_at": "2026-11-05T18:03:20.450663Z",
+      "summary_generated_at": "2026-11-05T18:08:47.177499Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains overlapping segments, transcription defects, censored profanity, and several unclear names or phrases.",
+        "Many statements are quotations, allegations, predictions, or satire presented by the creator rather than independently established facts.",
+        "The source provides no complete election data, links, or underlying reports, limiting verification of its political and media claims.",
+        "Some later examples are intentionally exaggerated and should not be read as literal forecasts.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "YH_NwdtJepw",
+      "title": "Please Never Use Google Search Again...",
+      "url": "https://www.youtube.com/watch?v=YH_NwdtJepw",
+      "published_at": "2026-11-04T23:03:58.000000Z",
+      "summary": "The creator argues that Google is tying AI features to search in ways that could pressure schools and students to use Gemini. He focuses on claims that schools can disable AI services only at the cost of losing Google Search, while Google’s stated position is that services are off by default for K–12 accounts and can be managed individually. He criticizes AI overviews and guided-learning tools as potential substitutes for source evaluation, teachers, and independent work, while acknowledging that assistive uses can be legitimate. The episode broadens into concerns about Google’s default distribution agreements, alleged effects on publishers, sponsored-search risks, and the concentration of online access within large technology companies. The creator recommends developing research skills, comparing sources, and considering alternatives such as self-hosted metasearch tools. Because the transcript mainly presents the creator’s commentary and excerpts from purported announcements or legal materials, the underlying policy details, legal claims, and examples require independent verification.",
+      "topics": [
+        "Google Search and Gemini",
+        "AI in schools",
+        "Research and critical thinking",
+        "Search advertising and competition",
+        "Technology centralization"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The creator says schools that disable Google’s AI services lose access to Google Search, while Google’s quoted response says schools can control services individually.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            9,
+            10,
+            11,
+            12,
+            261,
+            267,
+            273
+          ]
+        },
+        {
+          "claim": "The creator attributes to a legal opinion the conclusion that Google maintained a monopoly in general search and advertising under Section 2 of the Sherman Act.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            323,
+            324,
+            325,
+            326,
+            327,
+            388,
+            389,
+            390,
+            391,
+            392
+          ]
+        },
+        {
+          "claim": "The creator says Chegg alleged that Google used search-market power to obtain publisher content for Gemini and that the case was dismissed.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            365,
+            366,
+            367,
+            368,
+            369,
+            370,
+            371,
+            372,
+            373,
+            374,
+            375,
+            376,
+            377,
+            378,
+            379,
+            380,
+            381,
+            382,
+            383,
+            384,
+            385
+          ]
+        },
+        {
+          "claim": "The creator describes a malicious sponsored result appearing for a Homebrew search and links it to a supply-chain attack account.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            400,
+            401,
+            402,
+            403,
+            404,
+            405,
+            406,
+            412,
+            413,
+            414,
+            418,
+            419,
+            420
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode’s central criticism is that integrating AI overviews with search may make ordinary searching inseparable from AI features.",
+          "evidence_segment_indices": [
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130
+          ],
+          "start_seconds": 252.799,
+          "end_seconds": 279.44
+        },
+        {
+          "point": "The creator worries that guided AI learning and generated schoolwork could weaken independent learning and source-evaluation skills.",
+          "evidence_segment_indices": [
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            97,
+            98,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249
+          ],
+          "start_seconds": 132.56,
+          "end_seconds": 533.6
+        },
+        {
+          "point": "He presents Google’s default placement across browsers and devices as a major reason for its reach, while noting that users can select alternatives.",
+          "evidence_segment_indices": [
+            331,
+            332,
+            333,
+            334,
+            335,
+            336,
+            337,
+            338,
+            339,
+            340,
+            341,
+            342,
+            343,
+            344,
+            347,
+            348,
+            349,
+            350,
+            351,
+            352,
+            353,
+            354,
+            355
+          ],
+          "start_seconds": 700.56,
+          "end_seconds": 756.8
+        },
+        {
+          "point": "He recommends comparing sources and considers SearXNG or self-hosted tools as ways to reduce dependence on Google.",
+          "evidence_segment_indices": [
+            231,
+            232,
+            233,
+            444,
+            445,
+            446,
+            447,
+            448,
+            449,
+            450,
+            451,
+            452,
+            458,
+            459,
+            460,
+            461,
+            462,
+            463,
+            464,
+            465
+          ],
+          "start_seconds": 490.8,
+          "end_seconds": 993.759
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "2e7cd98d1326fd8afce98f9136a2c1bf5ff93f31930f0028add157bc1fd07a39",
+      "transcript_captured_at": "2026-11-05T18:03:34.936235Z",
+      "summary_generated_at": "2026-11-05T18:09:31.838433Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is an automatic caption record with repetitions, profanity, laughter markers, and apparent recognition errors.",
+        "Several quoted policy, legal, and business claims are presented without the underlying documents or full context.",
+        "The overview reflects one creator’s commentary and examples; it does not establish the accuracy or generality of those allegations.",
+        "Some product names and dates may be captioned inaccurately and should be checked against primary sources.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mike Figueredo — The Humanist Report",
       "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
@@ -216,6 +628,202 @@
         "Several captions contain apparent transcription errors, garbled names, profanity substitutions, or ambiguous wording.",
         "The source provides commentary and claimed results but no independent documentation or official vote totals.",
         "Some predictions about future majorities, policy changes, investigations, and party strategy are speculative.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "C0E8_xZfQrQ",
+      "title": "BREAKING: Democrats FLIP Major Seat as Election Night SURGE Begins, MAJOR WIN!!!!",
+      "url": "https://www.youtube.com/watch?v=C0E8_xZfQrQ",
+      "published_at": "2026-11-04T01:30:04.000000Z",
+      "summary": "The creator reports that Roy Cooper defeated Republican Michael Whatley in North Carolina’s Senate race, describing the result as a major Democratic pickup and a possible first step toward Senate control. He attributes the outcome partly to Cooper’s campaign message about rising household costs, health care, utility bills, housing affordability, and corporate influence. The episode includes excerpts from Cooper’s closing advertisement, which proposes making data centers pay their own power costs, challenging grocery mergers, and limiting prescription expenses. The creator also discusses Donald Trump’s criticism of Cooper’s record and argues that it failed to prevent Cooper’s victory. He presents the result as evidence that Cooper’s popularity and campaign may have changed the state’s electoral outlook, while predicting broader Democratic gains. The transcript alone does not establish the election result, the candidates’ records, or the factual accuracy of claims made in the campaign advertisement and political commentary.",
+      "topics": [
+        "North Carolina Senate election",
+        "Roy Cooper campaign",
+        "Democratic electoral gains",
+        "Campaign messaging"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Roy Cooper defeated Michael Whatley and won North Carolina’s Senate seat.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            16,
+            17
+          ]
+        },
+        {
+          "claim": "Cooper’s campaign attributed higher costs, utility profits, and policy choices to Republican officials and corporate interests.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            46,
+            47,
+            48,
+            49,
+            51,
+            52,
+            53,
+            65,
+            68,
+            69,
+            70,
+            71,
+            72,
+            75
+          ]
+        },
+        {
+          "claim": "The creator says Trump alleged that Cooper released prisoners, including people convicted of murder, and linked releases to later killings.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            147,
+            148,
+            149,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator characterizes the result as a Democratic flip in North Carolina and a potential step toward Senate control.",
+          "evidence_segment_indices": [
+            6,
+            7,
+            12,
+            13
+          ],
+          "start_seconds": 18.88,
+          "end_seconds": 41.92
+        },
+        {
+          "point": "Cooper’s closing message focused on affordability, health care, utilities, housing, and corporate accountability.",
+          "evidence_segment_indices": [
+            35,
+            40,
+            46,
+            51,
+            54,
+            59,
+            68,
+            69,
+            70,
+            71,
+            72,
+            75,
+            86,
+            87,
+            112,
+            115,
+            119,
+            120,
+            121
+          ],
+          "start_seconds": 89.64,
+          "end_seconds": 271.214
+        },
+        {
+          "point": "Cooper proposed policies involving data-center power costs, grocery competition, and prescription prices.",
+          "evidence_segment_indices": [
+            110,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122
+          ],
+          "start_seconds": 243.454,
+          "end_seconds": 273.334
+        },
+        {
+          "point": "The creator argues Cooper’s popularity overcame Republican attacks and could signal wider Democratic gains.",
+          "evidence_segment_indices": [
+            178,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            202,
+            203,
+            204,
+            205,
+            206
+          ],
+          "start_seconds": 400.295,
+          "end_seconds": 467.895
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "0e9ab8a7a7db9dccacb0ae510badfb6839e45b3f2f413974d46b4ff882d26f9e",
+      "transcript_captured_at": "2026-11-05T18:03:14.248012Z",
+      "summary_generated_at": "2026-11-05T18:08:24.907516Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a single creator’s election-night account and does not independently verify the reported result.",
+        "Several campaign and political claims are presented as advocacy or allegations rather than documented findings.",
+        "Some captions contain transcription errors, repeated words, incomplete phrases, and ambiguous numbers.",
+        "The excerpt does not provide vote totals, official sources, or corroborating reporting.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -487,6 +1095,161 @@
         "The transcript contains overlapping captions, misheard names, grammatical defects, and apparent corrections.",
         "Several numerical and legal assertions are presented as reports or interview claims rather than independently established evidence.",
         "The supplied material covers only the episode transcript and does not include supporting documents, election records, or full contextual reporting.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "JDPQlmhVnIM",
+      "title": "Trump PANICS As Young Men ABANDON HIM IN DROVES!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=JDPQlmhVnIM",
+      "published_at": "2026-11-03T20:30:28.000000Z",
+      "summary": "Kyle Kulinski argues that young men who supported Trump in 2024 are becoming disillusioned, citing a New York Times report and interviews with young Michigan voters. The episode presents several reported reasons for this shift: dissatisfaction with the economy and living costs, opposition to U.S. involvement in conflicts involving Iran and Israel, and disappointment that Trump did not fulfill campaign promises. Interviewees describe feeling betrayed, embarrassed by Trump’s public representation, or politically unaffiliated; one says he favors progressive Senate candidate Abdul El-Sayed after previously voting for Trump. Kulinski also discusses polling he says shows young men increasingly preferring Democratic candidates and argues that some former Republicans may either cross over or abstain. He attributes the broader change to disappointment with Trump-aligned media personalities and predicts consequences for the midterms. The segment is commentary built around selected interviews and cited polling references, so it does not independently establish the scale or causes of any demographic realignment.",
+      "topics": [
+        "Young male voters",
+        "Trump support",
+        "Michigan politics",
+        "Economic concerns",
+        "Foreign policy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Polling shows a majority of young men now prefer Democratic candidates over Republicans.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            251,
+            252,
+            253
+          ]
+        },
+        {
+          "claim": "Nearly 90% of young people disapprove of Trump's handling of the cost of living.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            279,
+            280,
+            281
+          ]
+        },
+        {
+          "claim": "A poll reportedly found Joe Rogan's favorability had fallen 11 points.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            404,
+            405,
+            406,
+            407
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames young men as a key 2024 Trump constituency that he says is now moving away from Trump.",
+          "evidence_segment_indices": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "start_seconds": 11.32,
+          "end_seconds": 23.04
+        },
+        {
+          "point": "Interviewees cite broken promises, higher costs, war, and dissatisfaction with Trump's public image.",
+          "evidence_segment_indices": [
+            165,
+            166,
+            168,
+            169,
+            170,
+            198,
+            199,
+            200,
+            201,
+            337,
+            338,
+            339,
+            340
+          ],
+          "start_seconds": 270.894,
+          "end_seconds": 556.577
+        },
+        {
+          "point": "One former Trump voter says he supports Abdul El-Sayed because of his economic and anti-intervention views.",
+          "evidence_segment_indices": [
+            210,
+            211,
+            212,
+            213,
+            242,
+            245,
+            246,
+            247,
+            248
+          ],
+          "start_seconds": 330.494,
+          "end_seconds": 398.375
+        },
+        {
+          "point": "The episode argues that some disaffected Republicans may support Democrats while others may abstain.",
+          "evidence_segment_indices": [
+            295,
+            296,
+            297,
+            298,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            310,
+            319,
+            320,
+            321,
+            322,
+            323,
+            324
+          ],
+          "start_seconds": 471.295,
+          "end_seconds": 526.417
+        },
+        {
+          "point": "Kulinski concludes by advocating a Democratic New Deal-style governing agenda.",
+          "evidence_segment_indices": [
+            435,
+            436,
+            437,
+            438,
+            439,
+            440,
+            441,
+            442,
+            443,
+            444,
+            445,
+            446
+          ],
+          "start_seconds": 725.338,
+          "end_seconds": 750.779
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "2899d5792a22135a7f174ffeda2a8244525beb85bf35ff31a61e9061d7cfdb84",
+      "transcript_captured_at": "2026-11-05T18:03:28.504618Z",
+      "summary_generated_at": "2026-11-05T18:09:07.801781Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Automatic captions contain profanity, overlapping speech, music markers, and transcription defects.",
+        "The episode references polling and other media reports without providing full methodology or source details in the transcript.",
+        "The interviews are selected examples and cannot by themselves establish the size or representativeness of a national trend.",
+        "Some statements are Kulinski's opinions, predictions, or allegations rather than independently verified findings.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -4353,969 +5116,6 @@
         "Automatic captions contain numerous apparent transcription errors, including names, locations, and terms such as “Strait of Hormuz.”",
         "The transcript does not independently establish the polling, military, casualty, maritime, nuclear, or cryptocurrency allegations.",
         "Some political interpretations, including claims of panic and possible 2028 positioning, are the creator’s analysis rather than directly demonstrated facts.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mike Figueredo — The Humanist Report",
-      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
-      "video_id": "RD7Wwy1HyCk",
-      "title": "MAGA Stunt Showing How Easy it is to Get Away with Voter Fraud Goes HORRIBLY Wrong",
-      "url": "https://www.youtube.com/watch?v=RD7Wwy1HyCk",
-      "published_at": "2026-10-30T13:59:55.000000Z",
-      "summary": "The creator presents a commentary on James O’Keefe and Cameron Higby’s Minnesota voter-vouching stunt, arguing that their prosecution undercuts claims that the system makes voter fraud easy. The episode describes Minnesota’s rules, under which registered voters may vouch for others in their precinct and certain facility employees may vouch for residents, while noting that critics regard the arrangement as vulnerable to abuse. It says O’Keefe and Higby used other people’s names, including names of deceased voters, and were charged with felony offenses, though the transcript does not independently establish the underlying case details or legal outcomes. The creator emphasizes that the stunt allegedly did not produce completed fraudulent votes and contrasts it with broader claims about the rarity of voter fraud. The episode also recounts O’Keefe and Higby’s responses, including allegations of retaliation, lawfare, and threats to journalism. Its later sections broaden into criticism of their political messaging and past activities. The account is highly editorialized and contains several uncited or unclear assertions.",
-      "topics": [
-        "Minnesota voter-vouching rules",
-        "Voter-fraud allegations",
-        "O’Keefe and Higby prosecution",
-        "Political commentary"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "O’Keefe and Higby were charged with felony unlawful-voting and identity-theft counts in Minnesota.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            17,
-            18,
-            19,
-            20
-          ]
-        },
-        {
-          "claim": "The pair allegedly used registered voters’ names, including names of deceased voters, in the stunt.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            120,
-            121,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127
-          ]
-        },
-        {
-          "claim": "Minnesota’s vouching rules allow a same-precinct registered voter to vouch for up to eight people, while residential-facility employees may vouch for residents.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            57,
-            58,
-            59,
-            60
-          ]
-        },
-        {
-          "claim": "The creator reports that approximately 0.6% to 0.7% of voters used vouching in the last election.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            86,
-            87,
-            88,
-            89
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode frames the stunt and resulting prosecution as evidence that voter fraud is not easy to carry out without legal risk.",
-          "evidence_segment_indices": [
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28
-          ],
-          "start_seconds": 61.44,
-          "end_seconds": 79.119
-        },
-        {
-          "point": "It explains the vouching process and the oath-based accountability described in the source.",
-          "evidence_segment_indices": [
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73
-          ],
-          "start_seconds": 119.759,
-          "end_seconds": 176.64
-        },
-        {
-          "point": "The creator says the stunt did not demonstrate completed fraud under the vouching system, while alleging that the participants nevertheless violated election-related laws.",
-          "evidence_segment_indices": [
-            92,
-            93,
-            94,
-            95,
-            99,
-            100,
-            115,
-            116,
-            117,
-            118,
-            119
-          ],
-          "start_seconds": 211.519,
-          "end_seconds": 274.32
-        },
-        {
-          "point": "O’Keefe and Higby are described as portraying the charges as retaliation or an attack on investigative journalism.",
-          "evidence_segment_indices": [
-            229,
-            230,
-            231,
-            232,
-            233,
-            234,
-            235,
-            236,
-            237,
-            238,
-            289,
-            290,
-            291,
-            292,
-            293,
-            294,
-            295,
-            296
-          ],
-          "start_seconds": 488.08,
-          "end_seconds": 633.6
-        },
-        {
-          "point": "The episode expands into broader criticism of the pair’s political conduct and media credibility.",
-          "evidence_segment_indices": [
-            182,
-            183,
-            184,
-            185,
-            196,
-            197,
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            330,
-            331,
-            332,
-            333,
-            343,
-            344
-          ],
-          "start_seconds": 393.68,
-          "end_seconds": 731.04
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "664d5e82b6f4d0e65979cd7291d14353ae1867a2a04b9b15702e40191c20fe04",
-      "transcript_captured_at": "2026-10-30T15:03:10.690320Z",
-      "summary_generated_at": "2026-10-30T15:08:14.853754Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is a single highly opinionated commentary source rather than a neutral case record.",
-        "Several statements are attributed to unnamed reports, officials, or outside organizations whose underlying materials are not included.",
-        "Automatic captions contain omissions, profanity placeholders, misrecognitions, and possible name errors.",
-        "The transcript does not establish final court outcomes or independently verify the allegations discussed.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "QJPnq1xrhkA",
-      "title": "It's Actually All Starting To Crash Now...",
-      "url": "https://www.youtube.com/watch?v=QJPnq1xrhkA",
-      "published_at": "2026-10-29T23:51:57.000000Z",
-      "summary": "The creator argues that a possible correction in AI-related markets would not eliminate artificial intelligence, but could expose financial and social weaknesses in the sector. He connects recent market declines to concerns about high operating costs, circular financing, limited monetization, and dependence on expensive hardware. He also criticizes AI-generated search summaries for potentially reducing traffic to source websites while presenting synthesized information that users may not verify. The episode frames this as a broader threat to the human-driven internet, including reduced visibility for creators, proliferation of low-quality generated material, and declining reliance on personal research skills. The creator distinguishes between centralized frontier systems and locally run models, which he views as more accessible and controllable. He predicts that AI will persist after any market contraction, while arguing that its most harmful applications should be curtailed or made more publicly accessible. The discussion is presented as commentary and prediction, supported only by the supplied transcript.",
-      "topics": [
-        "AI market risks",
-        "Search and web traffic",
-        "AI infrastructure costs",
-        "Internet content quality",
-        "AI regulation"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The creator says AI-related markets have experienced a significant decline and may be entering a correction.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            27,
-            28,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39
-          ]
-        },
-        {
-          "claim": "The creator attributes roughly $500 billion in losses to Google partly to search-related developments and lower AI-mode monetization.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144,
-            145,
-            146,
-            147,
-            148,
-            149
-          ]
-        },
-        {
-          "claim": "The creator cites claims that China’s AI buildout is 15–20% of U.S. spending and may double, while discussing model distillation and hardware restrictions.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            249,
-            250,
-            251,
-            252,
-            253,
-            254,
-            255,
-            256,
-            257,
-            258,
-            259,
-            260,
-            261,
-            272,
-            273,
-            274,
-            275,
-            276,
-            277,
-            278,
-            279,
-            280,
-            281,
-            282
-          ]
-        },
-        {
-          "claim": "The creator reports that DeepSeek quadrupled its API prices during the year discussed.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            411,
-            412,
-            413,
-            414,
-            415,
-            416,
-            417,
-            418,
-            419,
-            420,
-            421,
-            422,
-            423,
-            424,
-            425,
-            426,
-            427,
-            428,
-            429
-          ]
-        },
-        {
-          "claim": "The creator presents a circular-financing model in which investors or hyperscalers fund AI labs that return money through cloud-computing payments.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            483,
-            484,
-            485,
-            486,
-            487,
-            488,
-            489,
-            490,
-            491,
-            497,
-            498,
-            499,
-            500,
-            501,
-            502,
-            503,
-            504,
-            505,
-            506,
-            507,
-            508,
-            509,
-            510
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator says AI can survive a financial bubble deflation even if major companies face correction.",
-          "evidence_segment_indices": [
-            552,
-            553,
-            554,
-            555,
-            556,
-            557,
-            558,
-            559,
-            560,
-            561,
-            562,
-            563,
-            564
-          ],
-          "start_seconds": 1197.52,
-          "end_seconds": 1226.799
-        },
-        {
-          "point": "He argues that AI search summaries may divert traffic from websites and creators whose material is synthesized.",
-          "evidence_segment_indices": [
-            161,
-            162,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            171,
-            197,
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209
-          ],
-          "start_seconds": 355.28,
-          "end_seconds": 451.919
-        },
-        {
-          "point": "He emphasizes that serving large models remains costly because of data centers, GPUs, replacement needs, and growing usage.",
-          "evidence_segment_indices": [
-            361,
-            362,
-            363,
-            364,
-            365,
-            366,
-            367,
-            368,
-            369,
-            370,
-            371,
-            372,
-            373,
-            374,
-            375,
-            376,
-            377,
-            378,
-            379,
-            380,
-            381,
-            382,
-            383,
-            384
-          ],
-          "start_seconds": 784.8,
-          "end_seconds": 838.959
-        },
-        {
-          "point": "He views locally run models as a more controllable alternative to centralized services, despite their lower capability.",
-          "evidence_segment_indices": [
-            394,
-            395,
-            396,
-            397,
-            398,
-            399,
-            400,
-            401,
-            402,
-            403,
-            404,
-            405,
-            406,
-            407,
-            408,
-            409,
-            410
-          ],
-          "start_seconds": 857.279,
-          "end_seconds": 897.68
-        },
-        {
-          "point": "He criticizes generated online material and warns that AI-generated sources may reinforce inaccurate information.",
-          "evidence_segment_indices": [
-            647,
-            648,
-            649,
-            650,
-            651,
-            652,
-            653,
-            654,
-            655,
-            656,
-            657,
-            658,
-            659,
-            660,
-            661,
-            662
-          ],
-          "start_seconds": 1393.039,
-          "end_seconds": 1428.0
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "3656d4eb57db2805ce5373bbe17620daadba62dbff5ba24b623e9444636e555e",
-      "transcript_captured_at": "2026-10-30T08:03:09.823634Z",
-      "summary_generated_at": "2026-10-30T08:08:17.122489Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview relies solely on an automatically transcribed source and does not independently verify its financial, technical, or political claims.",
-        "Several names, figures, and terms appear mistranscribed or ambiguous, including company names and references to specific models.",
-        "The creator’s statements about market effects, sustainability, traffic loss, and future outcomes are opinions or predictions rather than established findings in this source.",
-        "The transcript provides limited methodological detail for the cited market data, company figures, and alleged policy developments.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "3XX0mgytFfA",
-      "title": "Trump FORCED to Cancel Rallies as Fox News Hits Record Low Viewership, Writing is ON THE WALL",
-      "url": "https://www.youtube.com/watch?v=3XX0mgytFfA",
-      "published_at": "2026-10-29T23:15:07.000000Z",
-      "summary": "Aaron Parnas presents an ominous pre-election account, arguing that Republican confidence is weakening as Donald Trump cancels a Kansas rally, Fox News viewership declines, and some Republican operatives reportedly struggle to envision a large Senate majority. The episode cites claimed Nielsen figures about Fox’s October audience and repeats a poll showing Republican Senator Roger Marshall trailing Adam Hamilton, while describing Trump’s hostile response to a Reuters reporter. It then discusses Senator Chris Murphy’s criticism of an alleged administration plan for renewed military operations against Iran, emphasizing that his warnings are his assessment rather than established outcomes. Parnas also connects an Army exercise involving temporary mass graves with broader concerns about possible conflict, while acknowledging the drill was not necessarily tied to Iran. An extended interview with an Arizona congresswoman covers election-observer efforts, early voting, competitive House races, healthcare concerns, and allegations about conditions in ICE detention centers. The episode includes advocacy, political predictions, promotional material, and caption errors, so its claims require independent verification.",
-      "topics": [
-        "Election outlook",
-        "Media audiences",
-        "Iran policy",
-        "Military preparedness",
-        "Immigration detention"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Fox News viewership fell 27% overall and 28% in prime time during October, with a 32% decline among adults aged 25–54.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            38,
-            39,
-            40,
-            41
-          ]
-        },
-        {
-          "claim": "Donald Trump canceled his only scheduled weekend rally before the election in Kansas, where Roger Marshall was reportedly trailing Adam Hamilton 49% to 45%.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            96
-          ]
-        },
-        {
-          "claim": "Senator Chris Murphy said a proposed plan for renewed military operations against Iran could cause prolonged and devastating escalation.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121,
-            122,
-            125,
-            127,
-            128,
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142
-          ]
-        },
-        {
-          "claim": "The U.S. Army rehearsed temporary mass burials capable of accommodating up to 2,400 fallen soldiers in 24 hours.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            143,
-            144,
-            145,
-            146,
-            147,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153,
-            154,
-            155,
-            156,
-            157,
-            158,
-            159
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames the episode around declining Republican confidence and declining Fox News audiences before the election.",
-          "evidence_segment_indices": [
-            5,
-            6,
-            7,
-            8,
-            9,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47
-          ],
-          "start_seconds": 11.2,
-          "end_seconds": 104.799
-        },
-        {
-          "point": "Trump defended shifting campaign plans and criticized the reporter who asked about Kansas.",
-          "evidence_segment_indices": [
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            83
-          ],
-          "start_seconds": 117.6,
-          "end_seconds": 176.48
-        },
-        {
-          "point": "The interviewee describes election-monitoring and early-voting efforts in Arizona while discussing competitive congressional races.",
-          "evidence_segment_indices": [
-            229,
-            231,
-            236,
-            237,
-            238,
-            239,
-            240,
-            241,
-            242,
-            243,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251,
-            257,
-            258,
-            259,
-            260,
-            277,
-            278
-          ],
-          "start_seconds": 477.44,
-          "end_seconds": 585.36
-        },
-        {
-          "point": "The interviewee alleges severe conditions in ICE detention facilities and advocates congressional subpoenas and investigations.",
-          "evidence_segment_indices": [
-            342,
-            343,
-            344,
-            345,
-            346,
-            347,
-            352,
-            353,
-            354,
-            355,
-            356,
-            357,
-            358,
-            359,
-            362,
-            363,
-            376,
-            377,
-            380,
-            381,
-            384,
-            385,
-            402,
-            419
-          ],
-          "start_seconds": 721.279,
-          "end_seconds": 894.079
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "81875cefb508cc639fcdd1792c3cd060283d5a54a187cdb9dd4b10625e961b3d",
-      "transcript_captured_at": "2026-10-29T23:33:13.181035Z",
-      "summary_generated_at": "2026-10-29T23:38:15.486299Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains extensive caption defects, misspellings, dropped words, and garbled names that may affect interpretation.",
-        "Several claims are attributed to Parnas, interviewees, unnamed operatives, or cited reports; the source provides no underlying documents or independent corroboration.",
-        "The transcript does not establish that the Army burial exercise was connected to Iran or an imminent conflict.",
-        "The episode includes advocacy and promotional segments, which may shape its framing and selection of evidence.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "0DUGcNrRPQ4",
-      "title": "Tim Miller DOG WALKS Charlie Kirk's D Team (It Gets Ugly) | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=0DUGcNrRPQ4",
-      "published_at": "2026-10-29T22:00:00.000000Z",
-      "summary": "Kyle Kulinski reviews Tim Miller’s appearance on a Charlie Kirk-branded program and argues that Miller challenged its hosts more effectively than they challenged him. Kulinski portrays the discussion as centered on immigration enforcement, asylum, alleged abuses in detention, and whether criticism should focus on individual cases or broader administration policy. He says Miller defended enforcement while disputing claims that the political left supports open borders; Kulinski counters that Democrats have supported stricter border legislation. The conversation then turns to affordability, tariffs, foreign policy, and promises attributed to Donald Trump. Miller and Kulinski offer competing explanations for economic conditions and disagree over whether Trump has kept campaign commitments. A later exchange concerns diversity policies, perceived discrimination, and the labels “socialist,” “fascist,” and “imperialist.” Kulinski advocates investigations, legislative action, higher wages, expanded healthcare, debt relief, and labor protections. The episode is highly adversarial and includes insults, sarcasm, and numerous factual assertions presented in debate rather than independently established within the excerpt.",
-      "topics": [
-        "Immigration enforcement",
-        "Trump administration policy",
-        "Economic affordability",
-        "Campaign promises",
-        "Political ideology"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The discussion includes claims that dozens of people died in ICE custody and that detainees experienced severe abuses, including mistreatment of citizens and children.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            121,
-            122,
-            127,
-            128,
-            129,
-            157,
-            158
-          ]
-        },
-        {
-          "claim": "The speakers cite competing economic statistics and attribute changes in wages, prices, factory employment, and household finances to different administrations.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            258,
-            259,
-            260,
-            268,
-            269,
-            270,
-            272,
-            274,
-            275,
-            276,
-            497,
-            502,
-            503,
-            636,
-            637
-          ]
-        },
-        {
-          "claim": "The episode asserts that tariffs and a war involving Iran caused substantial increases in interest rates, fuel prices, and food prices.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            307,
-            308,
-            309,
-            310,
-            311,
-            312,
-            313,
-            314,
-            315,
-            316
-          ]
-        },
-        {
-          "claim": "The discussion makes claims about healthcare coverage losses, hospital closures, food-assistance reductions, and tax benefits under a large legislative package.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            597,
-            598,
-            599,
-            600,
-            601,
-            602,
-            603,
-            604,
-            605,
-            606
-          ]
-        },
-        {
-          "claim": "The speakers dispute whether Trump promised no new wars and whether his administration has kept its campaign commitments.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            430,
-            431,
-            432,
-            434,
-            435,
-            436,
-            437,
-            440,
-            441,
-            442,
-            443,
-            444,
-            453,
-            460,
-            461,
-            464,
-            465,
-            466,
-            470,
-            471,
-            474,
-            475,
-            476,
-            477
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames Miller’s appearance as a confrontation over the priorities and credibility of the program’s hosts.",
-          "evidence_segment_indices": [
-            17,
-            30,
-            31,
-            792,
-            793,
-            798,
-            799
-          ],
-          "start_seconds": 40.719,
-          "end_seconds": 1548.4
-        },
-        {
-          "point": "Immigration is debated through disagreements about asylum, detention, deportation, border sovereignty, and alleged enforcement abuses.",
-          "evidence_segment_indices": [
-            33,
-            34,
-            38,
-            44,
-            46,
-            68,
-            69,
-            80,
-            83,
-            92,
-            93,
-            94,
-            177,
-            178,
-            180,
-            181,
-            184,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195,
-            204
-          ],
-          "start_seconds": 74.56,
-          "end_seconds": 408.479
-        },
-        {
-          "point": "The speakers offer contrasting diagnoses of affordability and propose different remedies, including tariffs policy, ending the Iran war, wage increases, unions, and universal healthcare.",
-          "evidence_segment_indices": [
-            247,
-            248,
-            251,
-            252,
-            256,
-            258,
-            272,
-            288,
-            289,
-            292,
-            296,
-            297,
-            304,
-            305,
-            307,
-            317,
-            318,
-            319,
-            320,
-            321,
-            322,
-            340,
-            341,
-            342
-          ],
-          "start_seconds": 490.16,
-          "end_seconds": 679.36
-        },
-        {
-          "point": "The final exchanges focus on competing interpretations of discrimination, socialism, fascism, imperialism, and the political meaning of government intervention.",
-          "evidence_segment_indices": [
-            512,
-            513,
-            514,
-            524,
-            525,
-            526,
-            536,
-            537,
-            542,
-            547,
-            548,
-            549,
-            550,
-            651,
-            655,
-            662,
-            668,
-            670,
-            671,
-            672,
-            731,
-            732,
-            737,
-            741
-          ],
-          "start_seconds": 992.72,
-          "end_seconds": 1443.039
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "731a25d43f88413b0584267c70f9904c0bfd16054b0ced3da4bcffe255c68b2a",
-      "transcript_captured_at": "2026-10-30T00:33:13.711698Z",
-      "summary_generated_at": "2026-10-30T00:38:17.336088Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains substantial caption defects, profanity redactions, speaker-label ambiguity, and apparent transcription errors.",
-        "Many factual claims are made rhetorically by participants and are not corroborated within the source excerpt.",
-        "The excerpt provides commentary and disputed assertions, not a complete record of the underlying interviews, legislation, statistics, or events.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
