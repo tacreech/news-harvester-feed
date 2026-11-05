@@ -1,11 +1,614 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T21:12:01.207263Z",
+  "generated_at": "2026-11-05T21:42:01.204656Z",
   "reporting_window": {
-    "start": "2026-10-29T21:12:01.207263Z",
-    "end": "2026-11-05T21:12:01.207263Z"
+    "start": "2026-10-29T21:42:01.204656Z",
+    "end": "2026-11-05T21:42:01.204656Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "6xfkb7LUeBY",
+      "title": "Alex Jones Has PSYCHOTIC BREAK ON AIR Over Blue Wave | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=6xfkb7LUeBY",
+      "published_at": "2026-11-05T21:00:17.000000Z",
+      "summary": "Kyle Kulinski critiques Alex Jones’s reaction to election results, framing Jones’s claim that Donald Trump is secretly a Democrat as an example of political disillusionment and partisan bias. Kulinski argues that Jones is struggling to reconcile Trump’s conduct with his own previous support, while Jones reportedly says he believes Trump acted deliberately and describes him as a “Democrat sleeper cell.” The episode then broadens into a criticism of Republican priorities, including taxation, social programs, immigration, war, and relationships with wealthy technology figures. Kulinski also revisits Jones’s earlier defense of Trump amid discussion of Jeffrey Epstein and disputes several claims about Trump’s conduct and public policy. He predicts that right-wing media organizations may increasingly avoid emphasizing Trump as his popularity declines, while arguing that the Republican Party faces an identity crisis and lacks a coherent post-Trump direction. The material is commentary built around excerpted remarks, and many factual assertions are presented without supporting documentation in the transcript.",
+      "topics": [
+        "Alex Jones and Donald Trump",
+        "Partisan media commentary",
+        "Republican Party identity",
+        "Epstein-related allegations"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The episode repeats allegations and assertions concerning Donald Trump’s relationship with Jeffrey Epstein, references to investigative files, and allegations by multiple people.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            103,
+            109,
+            113,
+            116,
+            120,
+            123
+          ]
+        },
+        {
+          "claim": "Kulinski asserts that Trump enacted or supported the Republican policies he lists, including tax cuts, Medicaid reductions, deregulation, minority scapegoating, and wars.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            43,
+            46,
+            50,
+            54,
+            60,
+            63
+          ]
+        },
+        {
+          "claim": "Kulinski predicts that Trump’s declining popularity will lead right-wing media outlets to mention him less frequently.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            230,
+            234,
+            236,
+            241
+          ]
+        },
+        {
+          "claim": "Kulinski says polling or public opinion indicates that Americans oppose the cited war and increasingly see Democrats as the solution.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            220,
+            224,
+            271,
+            273
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski presents Jones’s “Democrat sleeper cell” theory about Trump as an extreme response to political disappointment.",
+          "evidence_segment_indices": [
+            20,
+            23,
+            74,
+            80,
+            92
+          ],
+          "start_seconds": 41.04,
+          "end_seconds": 181.04
+        },
+        {
+          "point": "The commentary contrasts Jones’s stated anti-establishment identity with his support for Republicans, billionaires, and technology figures.",
+          "evidence_segment_indices": [
+            190,
+            198,
+            205,
+            212
+          ],
+          "start_seconds": 358.56,
+          "end_seconds": 404.639
+        },
+        {
+          "point": "Kulinski argues that the Republican Party is entering an identity crisis before Trump has left the political stage.",
+          "evidence_segment_indices": [
+            242,
+            250,
+            252,
+            266
+          ],
+          "start_seconds": 452.96,
+          "end_seconds": 504.08
+        },
+        {
+          "point": "The episode relies on partisan commentary and excerpted statements rather than independently documented evidence.",
+          "evidence_segment_indices": [
+            2,
+            24,
+            34,
+            79,
+            214
+          ],
+          "start_seconds": 4.0,
+          "end_seconds": 408.0
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "b0f1c1ce20924acbbc5fbae1f6c7966c7d27435473df9970915246bf0cb361e1",
+      "transcript_captured_at": "2026-11-05T21:33:26.772502Z",
+      "summary_generated_at": "2026-11-05T21:39:09.799748Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains profanity redactions, transcription errors, and several unclear phrases.",
+        "Speaker attribution is occasionally ambiguous because excerpts and commentary alternate rapidly.",
+        "Claims about elections, polling, policy outcomes, investigations, and alleged conduct are source-only assertions here.",
+        "The transcript does not provide linked documents or independent corroboration for its factual allegations.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "ib-qe6r38V0",
+      "title": "Nick Fuentes Says MAGA Is COMPLETELY DEAD & Never Coming Back | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=ib-qe6r38V0",
+      "published_at": "2026-11-05T20:30:15.000000Z",
+      "summary": "Kyle Kulinski argues that Nick Fuentes’s reported call for far-right voters to support Democrats reflects a collapse of MAGA’s coalition, while emphasizing that Fuentes considers Donald Trump insufficiently extreme. Kulinski presents Fuentes’s broader prediction that Trump’s record will damage JD Vance’s future prospects and leave Republicans facing an internal succession struggle. The episode then contests a possible Republican attempt to reframe the Iran war as an anti-war failure, asserting that Democrats would be more credible on that issue. Kulinski also attributes Republican losses to corruption, domestic policy, and public backlash, while describing a projected Democratic advantage in 2028. These claims are presented through commentary, excerpts, and hypothetical electoral maps rather than independently documented evidence in the supplied material. The episode concludes with Kulinski’s recommendations for Democrats: pass popular single-issue legislation, force Republicans to take visible positions, and investigate alleged misconduct. Overall, the segment is an argumentative political analysis whose predictions and factual assertions require separate verification.",
+      "topics": [
+        "MAGA and far-right politics",
+        "JD Vance and 2028 predictions",
+        "Iran war and foreign policy",
+        "Republican electoral prospects",
+        "Democratic strategy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Nick Fuentes urged his audience to vote a straight Democratic ticket.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim": "Recent elections produced the statewide results and electoral map described by Kulinski, including a projected 365 or 401 electoral votes for Democrats in 2028.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            299,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            310,
+            311,
+            312,
+            321,
+            322,
+            323,
+            324,
+            325,
+            326,
+            327,
+            328,
+            329,
+            330
+          ]
+        },
+        {
+          "claim": "The episode’s allegations concerning military actions, civilian deaths, kidnapping, bombing, oil and gold seizures, corruption, and detention practices are accurate.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            135,
+            136,
+            137,
+            142,
+            143,
+            144,
+            145,
+            146
+          ]
+        },
+        {
+          "claim": "Democrats repeatedly voted in the House to end the Iran war through war-powers measures, as described.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames Fuentes’s reported position as evidence of severe disillusionment within the far right.",
+          "evidence_segment_indices": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ],
+          "start_seconds": 63.84,
+          "end_seconds": 82.4
+        },
+        {
+          "point": "Fuentes is presented as predicting that Trump will politically damage JD Vance and constrain his 2028 prospects.",
+          "evidence_segment_indices": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59
+          ],
+          "start_seconds": 86.799,
+          "end_seconds": 138.64
+        },
+        {
+          "point": "Kulinski rejects a Republican anti-war repositioning, arguing that Democrats would have greater credibility on Iran.",
+          "evidence_segment_indices": [
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123
+          ],
+          "start_seconds": 157.92,
+          "end_seconds": 269.68
+        },
+        {
+          "point": "The proposed Democratic response emphasizes popular legislation, investigations, and public accountability.",
+          "evidence_segment_indices": [
+            401,
+            402,
+            403,
+            404,
+            405,
+            406,
+            407,
+            408,
+            409,
+            410,
+            411,
+            412,
+            417,
+            418,
+            419,
+            420,
+            421,
+            422,
+            423,
+            424,
+            425,
+            426,
+            427,
+            428
+          ],
+          "start_seconds": 860.0,
+          "end_seconds": 919.279
+        },
+        {
+          "point": "The 2028 outlook is presented as a conditional prediction dependent on continued Republican conflict, war, corruption, and chaos.",
+          "evidence_segment_indices": [
+            339,
+            340,
+            341,
+            342,
+            343,
+            344,
+            345,
+            346,
+            347,
+            348,
+            349,
+            350,
+            351,
+            352,
+            353,
+            354,
+            355,
+            356,
+            357,
+            358,
+            359,
+            360
+          ],
+          "start_seconds": 719.44,
+          "end_seconds": 770.399
+        },
+        {
+          "point": "The source includes profanity, insults, transcription defects, and unclear references that limit precise interpretation.",
+          "evidence_segment_indices": [
+            9,
+            10,
+            11,
+            55,
+            56,
+            81,
+            102,
+            128,
+            134,
+            142,
+            160,
+            176,
+            227,
+            261,
+            281,
+            290,
+            313,
+            387,
+            456,
+            469
+          ],
+          "start_seconds": 22.48,
+          "end_seconds": 1019.36
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "b8b796d381257490565b88451b869696bf5225ef9bcc5355decc691197d67d8d",
+      "transcript_captured_at": "2026-11-05T21:33:19.906593Z",
+      "summary_generated_at": "2026-11-05T21:38:51.785943Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The material is a partisan monologue and embedded commentary, not a neutral report.",
+        "Many claims about elections, wars, casualties, polling, and officeholders are asserted without supporting documentation in the source.",
+        "Caption defects include profanity redactions, malformed words, name uncertainty, and occasional unclear speaker changes.",
+        "The 2028 electoral projections are hypothetical and conditional rather than established outcomes.",
+        "The supplied excerpt provides source-only coverage and does not include corroborating records or full context.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "3ht0J27-Wtk",
+      "title": "Fox News Has Existential Crisis Over Death Of MAGA | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=3ht0J27-Wtk",
+      "published_at": "2026-11-05T20:05:11.000000Z",
+      "summary": "Kyle Kulinski argues that Fox News is undergoing an “existential crisis” after what he describes as a major Democratic electoral victory and a collapse of the MAGA project. He reviews Fox commentators’ explanations for Republican losses, emphasizing their references to affordability, inflation, corruption, immigration, artificial intelligence, and the Iran war. Kulinski interprets remarks by Sean Hannity and others as partial admissions that war policy and economic pressures harmed Republicans, while criticizing claims that voters merely failed to recognize successful policies. He also contends that Democratic candidates prevailed by emphasizing issues such as Medicare for All, anti-corruption measures, and opposition to overseas wars. The episode includes previews of commentary about Alex Jones, Iran, Republican infighting, Joe Rogan, and CNN, but the supplied material focuses primarily on Fox News and the election. The account is strongly editorial, sarcastic, and reliant on quoted or paraphrased broadcast clips rather than independently presented documentation.",
+      "topics": [
+        "Fox News election analysis",
+        "MAGA and Republican politics",
+        "Economic and foreign-policy issues",
+        "Democratic campaign messaging"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The episode says Democrats achieved a broad electoral victory, including a Democratic candidate who had suspended a campaign winning an Iowa state-house race.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            503,
+            506,
+            507,
+            508,
+            509,
+            510,
+            511,
+            512,
+            513
+          ]
+        },
+        {
+          "claim": "The episode reports that exit-poll respondents ranked corruption, cost of living, the Iran war, immigration, and AI or data centers as significant voting issues, with specific percentages presented by Kulinski.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            182,
+            186,
+            187,
+            188
+          ]
+        },
+        {
+          "claim": "The episode attributes to Fox commentators the view that the Iran war and affordability concerns contributed to Republican losses.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            151,
+            155,
+            164,
+            165,
+            166,
+            304,
+            307,
+            308,
+            309,
+            313,
+            314,
+            315
+          ]
+        },
+        {
+          "claim": "The episode alleges that Republican policies reduced health-care access, increased inequality, and caused other harms, including through legislation and immigration enforcement.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            408,
+            409,
+            410,
+            411,
+            412,
+            534,
+            535,
+            536,
+            537,
+            542,
+            543,
+            544,
+            545,
+            546,
+            547
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames Fox News coverage as defensive post-election analysis and highlights internal disagreement over the economy, war, and campaign messaging.",
+          "evidence_segment_indices": [
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            71,
+            72,
+            73,
+            164,
+            165,
+            166,
+            221,
+            222,
+            223
+          ],
+          "start_seconds": 133.12,
+          "end_seconds": 485.44
+        },
+        {
+          "point": "He criticizes the argument that continued consumer spending proves economic strength, saying households may be spending out of necessity while debt rises.",
+          "evidence_segment_indices": [
+            81,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            206,
+            207,
+            208,
+            209,
+            210
+          ],
+          "start_seconds": 179.2,
+          "end_seconds": 460.8
+        },
+        {
+          "point": "He argues that Democratic candidates’ policy-focused messages helped distinguish them from Republican attacks and claims about Trump’s legacy.",
+          "evidence_segment_indices": [
+            273,
+            274,
+            275,
+            277,
+            278,
+            279,
+            280,
+            281,
+            282,
+            283,
+            287,
+            288,
+            289,
+            290
+          ],
+          "start_seconds": 576.56,
+          "end_seconds": 610.399
+        },
+        {
+          "point": "Kulinski presents the result as a strong rejection of Republican control and as evidence that voters responded to both Republican governance and substantive Democratic proposals.",
+          "evidence_segment_indices": [
+            523,
+            524,
+            525,
+            526,
+            527,
+            528,
+            529,
+            530,
+            531,
+            548,
+            549,
+            550,
+            551,
+            552,
+            555,
+            558,
+            559,
+            560,
+            565,
+            568,
+            569,
+            571,
+            573,
+            574
+          ],
+          "start_seconds": 1107.76,
+          "end_seconds": 1217.039
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "9510d6b4a78a3f77c9076bf4aaf526fd76491ed92752e7adaa76eb27b41d5212",
+      "transcript_captured_at": "2026-11-05T21:33:14.686417Z",
+      "summary_generated_at": "2026-11-05T21:38:27.660274Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a partisan commentary monologue, so its interpretations and characterizations are not neutral findings.",
+        "Many allegations about wars, corruption, health care, election results, and government actions are asserted or paraphrased without supporting documentation in the supplied segments.",
+        "Automatic captions contain profanity redactions, apparent transcription errors, and ambiguous names or terms.",
+        "The supplied material is an excerpt focused mainly on Fox News; several topics announced in the opening are not substantively covered here.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4674,695 +5277,6 @@
         "Several claims are presented through clipped or overlapping dialogue, making speaker attribution occasionally ambiguous.",
         "Caption errors and transcription defects affect names, figures, and legal terminology.",
         "The overview relies only on the supplied transcript and does not independently establish any allegation.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "GgurfpZA2GI",
-      "title": "THE MOST WRONG ANYBODY HAS BEEN IN HUMAN HISTORY | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=GgurfpZA2GI",
-      "published_at": "2026-11-03T22:19:38.000000Z",
-      "summary": "Kyle Kulinski argues that prominent right-wing commentators face little accountability for predictions he considers demonstrably wrong. He revisits clips featuring JD Vance, Dave Rubin, and others discussing Iran, claiming they dismissed concerns that Donald Trump would pursue regime change while portraying the operation as limited and successful. Kulinski counters that the consequences and strategic results were more serious than those commentators acknowledged, though the episode provides assertions rather than independently established evidence. He also criticizes predictions about the Strait of Hormuz, energy prices, and Iran’s military capacity, presenting them as examples of failed forecasting. Kulinski contrasts these claims with his own acknowledged mistaken prediction about Kamala Harris, while arguing that his opponents had stronger evidence available to them from Trump’s earlier record. The episode closes with broader criticism of Trump’s foreign-policy actions and a prediction that JD Vance would struggle to win a national election. Caption defects and highly compressed excerpts limit context for several claims.",
-      "topics": [
-        "Media accountability",
-        "Iran conflict",
-        "Political predictions",
-        "Trump foreign policy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The episode asserts that Trump conducted a limited operation against Iran, did not pursue regime change, and then withdrew.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            30,
-            31,
-            32,
-            35,
-            36,
-            38,
-            39,
-            40,
-            45,
-            46,
-            47,
-            48,
-            49
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that Iran’s nuclear facility was not actually destroyed and that the operation had limited strategic effect.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71
-          ]
-        },
-        {
-          "claim": "Kulinski lists multiple alleged Trump foreign-policy actions from his first term, including increased drone strikes, military operations, and support for Saudi Arabia in Yemen.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            176,
-            177,
-            178,
-            179,
-            180,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            191,
-            192,
-            193,
-            194,
-            195
-          ]
-        },
-        {
-          "claim": "Kulinski predicts that JD Vance would have difficulty winning a national presidential election.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            217,
-            218,
-            219,
-            224,
-            225,
-            226,
-            227,
-            228,
-            229,
-            230,
-            231
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames the episode as a review of failed right-wing predictions and perceived lack of public accountability.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ],
-          "start_seconds": 0.16,
-          "end_seconds": 29.359
-        },
-        {
-          "point": "He contrasts opposing accounts of Trump’s Iran policy and argues that later events exposed their assumptions as mistaken.",
-          "evidence_segment_indices": [
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            76,
-            80,
-            81,
-            82,
-            83,
-            84
-          ],
-          "start_seconds": 89.28,
-          "end_seconds": 183.44
-        },
-        {
-          "point": "The episode examines predictions concerning Iran, the Strait of Hormuz, energy prices, and military strength.",
-          "evidence_segment_indices": [
-            114,
-            119,
-            120,
-            121,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            130,
-            131,
-            136,
-            137,
-            138,
-            139,
-            142,
-            143
-          ],
-          "start_seconds": 244.879,
-          "end_seconds": 305.199
-        },
-        {
-          "point": "Kulinski acknowledges his own failed prediction about Kamala Harris but says the featured commentators had less room for error.",
-          "evidence_segment_indices": [
-            149,
-            150,
-            151,
-            152,
-            153,
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160,
-            161,
-            162
-          ],
-          "start_seconds": 314.56,
-          "end_seconds": 344.639
-        },
-        {
-          "point": "He argues that Trump’s prior record was inconsistent with portraying him as an anti-war president.",
-          "evidence_segment_indices": [
-            169,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189,
-            190
-          ],
-          "start_seconds": 353.199,
-          "end_seconds": 404.96
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "702b9e2f3613363ce49c8032d3042001e86b81b24f7e322f1fda83361d04ce7b",
-      "transcript_captured_at": "2026-11-05T19:03:29.983565Z",
-      "summary_generated_at": "2026-11-05T19:09:08.671245Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is a single commentary episode and does not independently document the underlying events or claims.",
-        "Several captions contain transcription defects, profanity placeholders, name spellings, and possible word substitutions.",
-        "Some excerpts are clipped from longer remarks, limiting context for the speakers’ original meanings.",
-        "The transcript includes disputed allegations and predictions whose accuracy requires independent verification.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "9-aaOaIsQgY",
-      "title": "Trump SPIRALS as Democrats Secure HUGE WIN and Newsom Threatens to JAIL ICE",
-      "url": "https://www.youtube.com/watch?v=9-aaOaIsQgY",
-      "published_at": "2026-11-03T21:41:08.000000Z",
-      "summary": "Creator Aaron Parnas presents an election-day update emphasizing reported high turnout, alleged problems involving federal election monitors, a Democratic pickup in Guam, and California Governor Gavin Newsom’s warnings about possible interference at polling places. Parnas says early voting has exceeded 2022 levels in several states and highlights county-level increases, while also citing reports that Department of Justice monitors in Michigan and New Mexico asked questions or requested materials outside their permitted role. The episode identifies Alicia Ann Limataco’s reported victory over James Moylan as Democrats’ first congressional flip of the cycle, while noting a contradictory change in Guam’s governorship. In an interview, Newsom describes strong California participation, says the state deployed its own monitors and legal resources, and argues that unlawful seizure of ballots or voting machines could trigger state prosecution. He also advocates combining investigations of alleged corruption with an affirmative Democratic policy agenda. The segment ends with Newsom discussing continued public service and possible future political involvement.",
-      "topics": [
-        "Election turnout",
-        "Election monitoring",
-        "Guam delegate race",
-        "California election administration",
-        "Democratic strategy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Early voting exceeded 2022 levels across several cited states and counties.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            27,
-            28,
-            29,
-            30,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43
-          ]
-        },
-        {
-          "claim": "DOJ election monitors reportedly acted outside their legal scope or questioned election workers in Michigan and New Mexico.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75
-          ]
-        },
-        {
-          "claim": "Alicia Ann Limataco reportedly defeated James Moylan for Guam’s non-voting House delegate seat.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84
-          ]
-        },
-        {
-          "claim": "Newsom said California deployed monitors, attorneys, and other resources to address election issues.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            182,
-            183,
-            184,
-            193,
-            194,
-            195,
-            196,
-            197,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209
-          ]
-        },
-        {
-          "claim": "Newsom said California law makes seizing a ballot or voting machine a state felony subject to prosecution.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            224,
-            225,
-            226,
-            227,
-            228,
-            229,
-            230,
-            231,
-            232,
-            233,
-            234
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames the episode around turnout, election administration disputes, Guam, and Newsom’s interview.",
-          "evidence_segment_indices": [
-            0,
-            8,
-            9,
-            10,
-            12,
-            13,
-            14,
-            24,
-            25
-          ],
-          "start_seconds": 0.0,
-          "end_seconds": 57.72
-        },
-        {
-          "point": "The episode reports strong early voting and turnout in multiple states and communities.",
-          "evidence_segment_indices": [
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50
-          ],
-          "start_seconds": 57.72,
-          "end_seconds": 114.28
-        },
-        {
-          "point": "Parnas attributes allegations about DOJ monitors to state officials and reporting.",
-          "evidence_segment_indices": [
-            52,
-            55,
-            57,
-            58,
-            62,
-            66,
-            67,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75
-          ],
-          "start_seconds": 114.28,
-          "end_seconds": 170.052
-        },
-        {
-          "point": "Newsom describes California’s election preparations and warns of state enforcement against unlawful interference.",
-          "evidence_segment_indices": [
-            174,
-            175,
-            176,
-            182,
-            183,
-            193,
-            194,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            217,
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224,
-            228,
-            231,
-            232
-          ],
-          "start_seconds": 365.054,
-          "end_seconds": 485.175
-        },
-        {
-          "point": "Newsom argues Democrats should pursue accountability while delivering tangible policy results.",
-          "evidence_segment_indices": [
-            262,
-            263,
-            264,
-            265,
-            266,
-            267,
-            268,
-            271,
-            272,
-            273,
-            274,
-            277,
-            278,
-            284,
-            285,
-            286,
-            287,
-            288,
-            313,
-            314,
-            315,
-            316,
-            317,
-            318
-          ],
-          "start_seconds": 545.617,
-          "end_seconds": 671.818
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "7d89a6a01e4fdeda4b037e5200c646e3f6687e511215e2d274fcc5838f934dc2",
-      "transcript_captured_at": "2026-11-05T17:33:11.134985Z",
-      "summary_generated_at": "2026-11-05T17:38:25.302605Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains overlapping captions, misheard names, grammatical defects, and apparent corrections.",
-        "Several numerical and legal assertions are presented as reports or interview claims rather than independently established evidence.",
-        "The supplied material covers only the episode transcript and does not include supporting documents, election records, or full contextual reporting.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "Ag5NjUlE-oE",
-      "title": "KEN PAXTON IS F*CKED | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=Ag5NjUlE-oE",
-      "published_at": "2026-11-03T21:40:32.000000Z",
-      "summary": "Kyle Kulinski argues that Republican candidates are offering little beyond attacks on minority communities, framing this as evidence of a broader ideological and organizational failure. He focuses on Ken Paxton’s campaign against James Talarico, presenting clips that he interprets as signs of weak audience engagement, awkward speaking, public heckling, and internal campaign problems. The episode includes an audience member accusing Paxton of taking bribes, Paxton highlighting a legal settlement involving Facebook, and a campaign speaker asking attendees not to leave before Paxton’s remarks. Kulinski also discusses Paxton’s claimed role in affecting Texas’s 2020 election results and portrays that claim as central to Paxton’s relationship with Donald Trump. He contrasts Paxton’s events with the larger crowds he says attend Talarico rallies, then predicts that a Paxton victory would imply either electoral misconduct or severe voter irrationality. The source is a partisan commentary monologue built around selected clips, and the transcript alone cannot establish the accuracy of its allegations, crowd comparisons, or predictions.",
-      "topics": [
-        "Ken Paxton campaign",
-        "James Talarico comparison",
-        "Republican campaign strategy",
-        "Texas election commentary"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Paxton claimed that his actions affected roughly 2 to 2.5 million mail-in ballots and helped Donald Trump win Texas in 2020.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            115
-          ]
-        },
-        {
-          "claim": "Paxton’s campaign or supporters were involved in repeated leaks of private remarks, including criticism of Trump’s midterm rally.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189,
-            190,
-            191,
-            192
-          ]
-        },
-        {
-          "claim": "A campaign speaker asked attendees not to leave because media coverage might portray Paxton as unpopular.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            221,
-            222,
-            223,
-            224,
-            225,
-            226
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski characterizes Republican messaging as scapegoating minority communities rather than offering substantive policy proposals.",
-          "evidence_segment_indices": [
-            3,
-            4,
-            5,
-            6,
-            10,
-            11,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25
-          ],
-          "start_seconds": 5.24,
-          "end_seconds": 62.76
-        },
-        {
-          "point": "The episode presents clips of Paxton being heckled and of an audience member accusing him of taking bribes.",
-          "evidence_segment_indices": [
-            41,
-            42,
-            43,
-            44,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54
-          ],
-          "start_seconds": 94.44,
-          "end_seconds": 123.652
-        },
-        {
-          "point": "Kulinski mocks Paxton’s speaking style and highlights a clip in which Paxton comments on receiving only one clap.",
-          "evidence_segment_indices": [
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            91,
-            92,
-            93,
-            94,
-            95,
-            96,
-            97
-          ],
-          "start_seconds": 128.052,
-          "end_seconds": 214.532
-        },
-        {
-          "point": "Kulinski contrasts reportedly small Paxton events with larger, more enthusiastic Talarico rallies.",
-          "evidence_segment_indices": [
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140,
-            147,
-            148,
-            149
-          ],
-          "start_seconds": 271.574,
-          "end_seconds": 319.334
-        },
-        {
-          "point": "Kulinski concludes by calling Paxton’s campaign unusually embarrassing and speculates about what a Paxton victory would imply.",
-          "evidence_segment_indices": [
-            239,
-            240,
-            241,
-            242,
-            243,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251,
-            252,
-            253,
-            254,
-            255,
-            256,
-            257
-          ],
-          "start_seconds": 504.177,
-          "end_seconds": 549.817
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "fb18f0cbe06d6376c66e2aab6019e0757485ac903658b8c6b877f3e74f729ee1",
-      "transcript_captured_at": "2026-11-05T19:03:13.577066Z",
-      "summary_generated_at": "2026-11-05T19:08:25.290884Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is partisan commentary and selected excerpts, not independent reporting.",
-        "Several captions contain transcription defects, fragmented speech, and unclear wording.",
-        "Claims about bribery, election effects, campaign leaks, crowd sizes, and voter behavior require independent verification.",
-        "The source provides limited context for the underlying videos, events, dates, and legal matters.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
