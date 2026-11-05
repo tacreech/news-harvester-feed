@@ -1,11 +1,405 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T19:42:01.178641Z",
+  "generated_at": "2026-11-05T20:12:01.204098Z",
   "reporting_window": {
-    "start": "2026-10-29T19:42:01.178641Z",
-    "end": "2026-11-05T19:42:01.178641Z"
+    "start": "2026-10-29T20:12:01.204098Z",
+    "end": "2026-11-05T20:12:01.204098Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "OBeX80c_lHE",
+      "title": "‘A BLOODBATH’ — Top Trump Officials RESIGN in FEAR, They are JUMPING SHIP!!",
+      "url": "https://www.youtube.com/watch?v=OBeX80c_lHE",
+      "published_at": "2026-11-05T18:50:25.000000Z",
+      "summary": "The creator argues that the resignation of Harmy Dylan, described as a senior Justice Department civil-rights official, signals the beginning of broader departures and political conflict inside the department. He presents allegations from former DOJ officials that Dylan redirected the division away from desegregation, pursued “anti-white” racism cases, pressured institutions and election workers, and presided over the departure of more than three-quarters of its lawyers. The creator also questions whether her departure will materially change the division’s direction, predicting continued alignment with the president’s agenda. The episode then features political excerpts in which Juliana Stratton says she will not support Trump nominees, while Abdul Sayed describes conditional cooperation with the administration and criticizes its leaders. Finally, an Illinois governor advocates raising the federal minimum wage, paid leave, and broader health-care access. The transcript is commentary-driven and includes several allegations, predictions, excerpts, and apparent caption errors; it does not independently document the claims.",
+      "topics": [
+        "Justice Department resignation",
+        "Civil-rights policy",
+        "Senate nominations",
+        "Democratic strategy",
+        "Minimum wage and paid leave"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Harmy Dylan resigned as Assistant Attorney General and chief of the Justice Department’s Civil Rights Division.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            2,
+            4,
+            6,
+            30,
+            32,
+            33
+          ]
+        },
+        {
+          "claim": "During Dylan’s tenure, the division halted school-desegregation efforts, prioritized anti-white-racism cases, and more than three-quarters of its lawyers left.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            19,
+            21,
+            22,
+            23,
+            44,
+            48,
+            51,
+            52,
+            53
+          ]
+        },
+        {
+          "claim": "Former DOJ officials characterized Dylan’s leadership as destructive and alleged that the division pursued weak cases against universities, officials, and election workers.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            42,
+            44,
+            45,
+            46,
+            47,
+            55,
+            56,
+            57
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames the resignation as the first of many expected DOJ departures.",
+          "evidence_segment_indices": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "start_seconds": 19.6,
+          "end_seconds": 33.6
+        },
+        {
+          "point": "The creator says Dylan’s departure may not change the Civil Rights Division’s policy direction.",
+          "evidence_segment_indices": [
+            61,
+            66,
+            67,
+            68,
+            71,
+            74,
+            75,
+            76,
+            77,
+            78
+          ],
+          "start_seconds": 130.399,
+          "end_seconds": 172.56
+        },
+        {
+          "point": "Juliana Stratton states that she will not vote for Trump nominees and describes the administration as authoritarian and corrupt.",
+          "evidence_segment_indices": [
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            102,
+            103,
+            115,
+            116,
+            117
+          ],
+          "start_seconds": 210.56,
+          "end_seconds": 262.24
+        },
+        {
+          "point": "Abdul Sayed expresses conditional willingness to work with administration officials while criticizing their conduct and rhetoric.",
+          "evidence_segment_indices": [
+            143,
+            145,
+            147,
+            148,
+            149,
+            150,
+            156,
+            157,
+            164,
+            165,
+            166,
+            167
+          ],
+          "start_seconds": 308.32,
+          "end_seconds": 352.0
+        },
+        {
+          "point": "An Illinois governor advocates raising the federal minimum wage and expanding paid leave and health-care access.",
+          "evidence_segment_indices": [
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            225,
+            227,
+            228,
+            231,
+            232,
+            233,
+            238,
+            243,
+            245,
+            246
+          ],
+          "start_seconds": 440.72,
+          "end_seconds": 515.76
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "2ce5835018c942123c5f860c0c204bd4ec86bc992f53654dbbe82e7b100f150f",
+      "transcript_captured_at": "2026-11-05T20:03:34.223983Z",
+      "summary_generated_at": "2026-11-05T20:09:43.322666Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains inconsistent names and apparent caption defects, including variants of Harmy or Harmony Dylan and Abdul Sayed or Abdul Aliad.",
+        "The material is a creator’s commentary plus quoted excerpts; it provides no independent documentation for the allegations or predictions.",
+        "Several excerpts are fragmentary, overlapping, or difficult to parse, limiting confidence in exact wording and speaker identification.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "wwJtL4MQ-5E",
+      "title": "🚨 Republicans ERUPT in CHAOS and Prepare for IMPEACHMENT as Vance BREAKS from Trump!!!!",
+      "url": "https://www.youtube.com/watch?v=wwJtL4MQ-5E",
+      "published_at": "2026-11-05T15:04:57.000000Z",
+      "summary": "Aaron Parnas presents a rapid political update centered on his claim that Republican divisions are widening after midterm losses. He says lawmakers may join Democrats in seeking Defense Secretary Pete Hegseth’s impeachment and describes a resolution introduced by Thomas Massie. Parnas also portrays Vice President JD Vance as diverging from Donald Trump on Iran and foreign policy, based on reporting he attributes to Fox News. The episode reviews several unresolved elections, including Mississippi, Alaska, Kansas, and Colorado, while predicting Democratic gains and emphasizing that vote counts, certification, mail ballots, and ranked-choice procedures remain unsettled. It further discusses Republican criticism of the party’s direction and a Wall Street Journal report, as characterized by Parnas, about Melania Trump objecting to deportations affecting people she knows. The closing item reports Russell Brand’s conviction in London. The transcript contains apparent name-recognition errors and presents many claims, predictions, and attributed reports without underlying documents.",
+      "topics": [
+        "Republican divisions and impeachment",
+        "JD Vance and Trump foreign policy",
+        "Unresolved election results",
+        "Immigration policy and Melania Trump",
+        "Russell Brand conviction"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Republicans may join Democrats in voting to impeach Defense Secretary Pete Hegseth, potentially as soon as the following week.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            37,
+            38,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83
+          ]
+        },
+        {
+          "claim": "JD Vance publicly diverged from Donald Trump on Iran and broader foreign policy after a White House messaging meeting.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ]
+        },
+        {
+          "claim": "Democrat Scott Colom was leading in Mississippi and could become the first Black senator elected there since 1875.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137
+          ]
+        },
+        {
+          "claim": "A Wall Street Journal report said Melania Trump complained about deportations and that Donald Trump told aides Stephen Miller had gone too far.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212
+          ]
+        },
+        {
+          "claim": "Russell Brand was convicted of rape in a London courtroom and faced significant prison time.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            213,
+            214,
+            215
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode frames Republican unrest as connected to impeachment efforts and possible defections from party leadership.",
+          "evidence_segment_indices": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            78,
+            79,
+            80,
+            81,
+            86,
+            87,
+            88
+          ],
+          "start_seconds": 67.36,
+          "end_seconds": 192.64
+        },
+        {
+          "point": "Several election outcomes remain unresolved, with counting, certification, mail ballots, recount issues, or ranked-choice procedures affecting timelines.",
+          "evidence_segment_indices": [
+            108,
+            109,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162
+          ],
+          "start_seconds": 238.64,
+          "end_seconds": 365.6
+        },
+        {
+          "point": "Parnas highlights possible Democratic wins in Mississippi, Kansas, and Colorado while noting that some results remain subject to additional counting.",
+          "evidence_segment_indices": [
+            110,
+            114,
+            117,
+            118,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            172,
+            174,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            185,
+            186
+          ],
+          "start_seconds": 242.64,
+          "end_seconds": 417.12
+        },
+        {
+          "point": "The closing discussion links immigration-policy debate to an attributed report about Melania Trump and mentions Brand’s legal case.",
+          "evidence_segment_indices": [
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            211,
+            212,
+            213,
+            214,
+            215
+          ],
+          "start_seconds": 434.88,
+          "end_seconds": 475.12
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "a905ed668e44032d2fbaba413f5fd3ed54847b1688306b81133d6fc467e06025",
+      "transcript_captured_at": "2026-11-05T20:03:18.470638Z",
+      "summary_generated_at": "2026-11-05T20:08:56.851558Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The captions contain apparent transcription and name-recognition errors, including variants of Hegseth, Colom, and other names.",
+        "The material is a creator’s commentary and summary; cited Fox News and Wall Street Journal reporting is not provided for independent review.",
+        "Many election figures and projected outcomes are described as current or expected, but the transcript does not include official election records.",
+        "Several statements are predictions or allegations rather than established findings, including claims about party defections, deportation policy, and impeachment prospects.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mike Figueredo — The Humanist Report",
       "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
@@ -1055,6 +1449,261 @@
         "The source is a single commentary episode and does not include supporting documents, independent election returns, market data, or responses from accused parties.",
         "Many allegations and predictions are attributed to interviewees or the creator and should not be treated as established facts.",
         "Several political descriptions use ambiguous or potentially inconsistent terminology, limiting precision without external verification.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "ciOzNsSBk1g",
+      "title": "HOLY F*CK: DEEP BLUE MEGA-TSUNAMI ANNIHILATES MAGA | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=ciOzNsSBk1g",
+      "published_at": "2026-11-04T21:20:11.000000Z",
+      "summary": "Kyle Kulinski argues that a sweeping Democratic electoral victory represents an historic repudiation of Trump and MAGA, describing major gains in congressional, statewide, and traditionally Republican districts. He highlights projected Democratic control of the House and Senate, unusually large shifts among young men and other demographic groups, and wins by progressive or first-time candidates. Kulinski presents these results as evidence that left-wing candidates can succeed in competitive and conservative areas, while criticizing polling, national-party strategy, and media narratives. He also discusses reported voting problems, including incorrect polling information, ballot shortages, long lines, and equipment failures, but says these issues did not prevent a decisive Democratic showing. The episode ends with a call for Democrats to use their power aggressively: investigate alleged misconduct, constrain the Trump administration, advance labor and social-welfare legislation, and make presidential vetoes politically consequential. The transcript is highly partisan and includes numerous predictions, allegations, and potentially garbled names or figures.",
+      "topics": [
+        "2026 election results",
+        "Democratic gains",
+        "MAGA backlash",
+        "Progressive candidates",
+        "Voting access"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Democrats were projected to win about 255 House seats and potentially hold the largest congressional majority in 18 years.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            173,
+            174,
+            175,
+            176,
+            177
+          ]
+        },
+        {
+          "claim": "Nationwide results showed an approximately 16-point shift toward Democrats, including substantial movement among young men and Hispanic voters.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            178,
+            179,
+            180,
+            181,
+            191,
+            194,
+            206,
+            207,
+            208,
+            859,
+            860,
+            896,
+            899,
+            900
+          ]
+        },
+        {
+          "claim": "Multiple traditionally Republican or strongly pro-Trump districts were won by Democratic candidates, including districts in North Carolina, Florida, Kentucky, and Alabama.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            657,
+            658,
+            668,
+            669,
+            675,
+            676,
+            677,
+            730,
+            737,
+            759,
+            760,
+            824,
+            825,
+            826,
+            827,
+            828
+          ]
+        },
+        {
+          "claim": "Voting-related problems included misleading polling-location texts, a ballot shortage, long lines, and voting-machine issues.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            1111,
+            1112,
+            1113,
+            1114,
+            1115,
+            1116,
+            1130,
+            1131,
+            1132,
+            1133,
+            1137,
+            1138,
+            1139,
+            1140,
+            1146,
+            1150,
+            1151,
+            1184,
+            1185,
+            1186,
+            1194,
+            1195
+          ]
+        },
+        {
+          "claim": "Kulinski alleges that DOJ election monitors acted outside their legal authority in New Mexico and Michigan and may have suppressed turnout.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            1045,
+            1046,
+            1047,
+            1048,
+            1049,
+            1050,
+            1051,
+            1101,
+            1102,
+            1103,
+            1104,
+            1105,
+            1106,
+            1107,
+            1108,
+            1109
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames the election as a historic Democratic wave and the collapse of MAGA.",
+          "evidence_segment_indices": [
+            62,
+            63,
+            64,
+            68,
+            69,
+            166,
+            167,
+            168,
+            169,
+            170,
+            731,
+            732
+          ],
+          "start_seconds": 215.28,
+          "end_seconds": 1694.08
+        },
+        {
+          "point": "He emphasizes unexpected Democratic wins in conservative or pro-Trump territory as evidence that progressive candidates can compete broadly.",
+          "evidence_segment_indices": [
+            627,
+            628,
+            632,
+            633,
+            642,
+            643,
+            644,
+            645,
+            759,
+            760,
+            761,
+            798,
+            799,
+            800,
+            801,
+            816,
+            817,
+            818
+          ],
+          "start_seconds": 1469.2,
+          "end_seconds": 1863.44
+        },
+        {
+          "point": "The episode celebrates several candidate breakthroughs and representation milestones, including the first openly gay man elected to the Senate and the first Black woman elected governor of a state.",
+          "evidence_segment_indices": [
+            265,
+            266,
+            267,
+            268,
+            269,
+            694,
+            695,
+            696,
+            697,
+            1031,
+            1032,
+            1033,
+            1034,
+            1035
+          ],
+          "start_seconds": 680.48,
+          "end_seconds": 2315.68
+        },
+        {
+          "point": "Kulinski urges Democrats to investigate alleged wrongdoing, oppose further wars, and pursue labor, healthcare, affordability, and tax policies.",
+          "evidence_segment_indices": [
+            933,
+            934,
+            935,
+            936,
+            937,
+            938,
+            942,
+            943,
+            944,
+            945,
+            946,
+            947,
+            948,
+            1214,
+            1215,
+            1216,
+            1219,
+            1220,
+            1235,
+            1236,
+            1237,
+            1246,
+            1247,
+            1248
+          ],
+          "start_seconds": 2106.48,
+          "end_seconds": 2721.92
+        },
+        {
+          "point": "He acknowledges that the election was not a final political victory and says Democrats must deliver on their agenda.",
+          "evidence_segment_indices": [
+            1208,
+            1209,
+            1211,
+            1212,
+            1213,
+            1214,
+            1251,
+            1252,
+            1253,
+            1258,
+            1259,
+            1261,
+            1262
+          ],
+          "start_seconds": 2646.079,
+          "end_seconds": 2747.599
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "42f2cabd47162738b64c6d8230c7efb5132d11ad56c3e060e716bc34662f7c71",
+      "transcript_captured_at": "2026-11-05T20:03:26.307849Z",
+      "summary_generated_at": "2026-11-05T20:09:22.310205Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains extensive automatic-caption defects, profanity redactions, overlapping segments, and unclear or misspelled names.",
+        "Many numerical results, projections, candidate identities, and historical comparisons are presented only through Kulinski's commentary and are not independently established here.",
+        "Some statements are predictions or interpretations rather than confirmed outcomes, especially where the transcript uses terms such as projected, expected, or likely.",
+        "The episode's rhetoric is strongly partisan, and allegations about officials, candidates, media actors, election conduct, and public figures require independent verification.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -2361,6 +3010,250 @@
         "Several campaign and political claims are presented as advocacy or allegations rather than documented findings.",
         "Some captions contain transcription errors, repeated words, incomplete phrases, and ambiguous numbers.",
         "The excerpt does not provide vote totals, official sources, or corroborating reporting.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "mSAHzYScoSU",
+      "title": "Alex Jones Has Completely Lost His Mind | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=mSAHzYScoSU",
+      "published_at": "2026-11-04T00:00:12.000000Z",
+      "summary": "Kyle Kulinski critiques Alex Jones’s enthusiastic portrayal of Elon Musk as an anti-establishment political leader who is challenging powerful global interests. Kulinski argues that this framing conflicts with Musk’s wealth, political spending, and alleged role in reducing public programs and regulatory capacity. He presents several allegations about cuts affecting aid, research, veterans, public workers, food safety, and social services, while also disputing Jones’s claims about election threats, cyberattacks, and Musk’s supposed opposition from Bill Gates. Kulinski further questions whether Jones’s praise is motivated by financial pressure or an attempt to attract Musk’s support, explicitly presenting this as a theory rather than an established fact. The episode closes with Kulinski advocating heavy taxation of billionaires and redistribution toward healthcare, education, debt relief, and infrastructure. The material is a partisan commentary segment built around quoted or paraphrased claims; it does not provide independent documentation for the many factual allegations it repeats.",
+      "topics": [
+        "Alex Jones and Elon Musk",
+        "Political influence and billionaires",
+        "Government cuts and public services",
+        "Election and conspiracy claims"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Kulinski alleges that Musk’s actions caused major cuts to aid, research, public employment, veterans’ services, and regulatory programs.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            218,
+            219,
+            220,
+            228,
+            229,
+            230,
+            235,
+            238,
+            243
+          ]
+        },
+        {
+          "claim": "Kulinski alleges that Musk spent roughly half a billion dollars on elections.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            66,
+            67,
+            68,
+            199,
+            200,
+            201,
+            204,
+            205,
+            316,
+            317,
+            318
+          ]
+        },
+        {
+          "claim": "Kulinski alleges that Musk made numerous undelivered or failed technology and transportation promises, including autonomous vehicles, the Roadster, Hyperloop, and Mars plans.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            329,
+            330,
+            331,
+            332,
+            333,
+            334,
+            335,
+            336,
+            337,
+            342,
+            343,
+            344,
+            349,
+            350,
+            351,
+            352,
+            353,
+            354,
+            355,
+            356,
+            357,
+            358,
+            359
+          ]
+        },
+        {
+          "claim": "Kulinski theorizes that Alex Jones may be seeking or receiving financial support from Musk, citing Jones’s financial difficulties and praise of Musk.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            299,
+            300,
+            301,
+            302,
+            303,
+            304,
+            307,
+            310,
+            312,
+            313,
+            314,
+            315,
+            319,
+            320,
+            321,
+            322,
+            323
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode’s opening characterization of Jones is Kulinski’s opinion, not an independently established assessment.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            6,
+            7
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 20.64
+        },
+        {
+          "point": "Jones is quoted or paraphrased as presenting Musk as the new Republican leader and a defender against globalist forces.",
+          "evidence_segment_indices": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            37,
+            38,
+            42,
+            43
+          ],
+          "start_seconds": 17.92,
+          "end_seconds": 82.24
+        },
+        {
+          "point": "Kulinski challenges that portrayal by focusing on Musk’s wealth, political influence, and alleged effects on public programs.",
+          "evidence_segment_indices": [
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            73,
+            74
+          ],
+          "start_seconds": 80.08,
+          "end_seconds": 142.56
+        },
+        {
+          "point": "Kulinski advocates taxing billionaires and redistributing wealth to fund public benefits and infrastructure.",
+          "evidence_segment_indices": [
+            265,
+            266,
+            267,
+            268,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            277,
+            278,
+            401,
+            402,
+            403,
+            404,
+            408,
+            409,
+            410,
+            411,
+            412,
+            413,
+            414
+          ],
+          "start_seconds": 495.44,
+          "end_seconds": 781.2
+        },
+        {
+          "point": "The segment ends with election-related encouragement and a prediction that any Democratic victory could be short-lived.",
+          "evidence_segment_indices": [
+            428,
+            429,
+            430,
+            431,
+            432,
+            433,
+            434,
+            435,
+            436,
+            437,
+            438,
+            439,
+            440,
+            441
+          ],
+          "start_seconds": 805.839,
+          "end_seconds": 838.32
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "4754cbc21f2f4f3b3fa92da5214abf1e9014d853da9b9efa4b4945f5780870b4",
+      "transcript_captured_at": "2026-11-05T20:03:13.695785Z",
+      "summary_generated_at": "2026-11-05T20:08:31.807166Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains profanity redactions, apparent transcription errors, overlapping segments, and some garbled phrases.",
+        "Many allegations are presented by Kulinski or attributed to Jones without supporting documents in the source.",
+        "The source is a single commentary episode and does not establish the truth of disputed political, financial, election, or criminal claims.",
+        "Some references are ambiguous, including unnamed events, organizations, dates, and the identity of people mentioned in quoted material.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -4220,740 +5113,6 @@
         "Many technical, legal, performance, pricing, and corporate claims are presented only through the creator’s commentary and are not independently established here.",
         "The creator explicitly marks the proposed litigation rationale as personal belief or speculation.",
         "The source is a single commentary episode and does not provide primary documents, links, or corroborating evidence.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "Nazb4W5xWrI",
-      "title": "Democrats BREAK RECORDS Sending White House into SPIRAL, FIVE ALARM FIRE!!",
-      "url": "https://www.youtube.com/watch?v=Nazb4W5xWrI",
-      "published_at": "2026-11-02T00:06:35.000000Z",
-      "summary": "Aaron Parnas frames the episode as an argument that Democrats may be positioned for strong midterm results and that the Trump White House is preparing for that possibility. He discusses reported early-voting figures, including more than 51 million ballots nationwide, Democratic registration advantages in Florida, and Democratic leads in North Carolina and Nevada, while acknowledging that party registration does not reveal how individuals voted. Parnas then describes a Reuters-reported White House effort to plan executive actions on immigration, tariffs, housing, visas, and federal grants in case Congress changes hands. He also alleges that White House lawyers are preparing officials for subpoenas and considering broader executive privilege. The episode further covers a reported Alaska court loss involving an effort to block vote certification, followed by comments from Illinois Governor J.B. Pritzker about certification and political pressure. The source is primarily commentary and includes promotional material, political characterizations, and several claims that would require independent verification.",
-      "topics": [
-        "Early voting",
-        "Congressional control",
-        "Executive power",
-        "Election certification"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "More than 51 million Americans had voted early, with the cited state-level party registration comparisons in Florida, North Carolina, and Nevada.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            13,
-            14,
-            35,
-            39,
-            42,
-            43,
-            45,
-            46,
-            59,
-            62,
-            63,
-            71,
-            72
-          ]
-        },
-        {
-          "claim": "The Trump White House had been preparing for a possible Democratic congressional majority and planning actions that could be taken without Congress.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            97,
-            98,
-            99,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121,
-            123,
-            124,
-            125
-          ]
-        },
-        {
-          "claim": "White House lawyers coached political appointees on subpoenas and document requests and sought to broaden executive privilege.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            126,
-            127,
-            128,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144,
-            145
-          ]
-        },
-        {
-          "claim": "An Alaska judge dismissed a lawsuit intended to prevent certification of the vote.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            159,
-            160,
-            161,
-            162,
-            163,
-            164
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas presents early-voting data as evidence of Democratic momentum, while noting that registration data does not establish candidate choice.",
-          "evidence_segment_indices": [
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            52,
-            53,
-            54,
-            55
-          ],
-          "start_seconds": 24.48,
-          "end_seconds": 128.0
-        },
-        {
-          "point": "The episode links possible Democratic congressional control to prospective executive actions and White House legal planning.",
-          "evidence_segment_indices": [
-            95,
-            96,
-            97,
-            98,
-            99,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112
-          ],
-          "start_seconds": 227.12,
-          "end_seconds": 265.12
-        },
-        {
-          "point": "Parnas emphasizes reported preparations for investigations, subpoenas, document requests, and executive-privilege disputes.",
-          "evidence_segment_indices": [
-            126,
-            127,
-            128,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140
-          ],
-          "start_seconds": 289.04,
-          "end_seconds": 318.56
-        },
-        {
-          "point": "A discussion of Alaska certification includes remarks by Illinois Governor J.B. Pritzker supporting certification of the winner.",
-          "evidence_segment_indices": [
-            167,
-            168,
-            169,
-            170,
-            177,
-            178,
-            185,
-            186,
-            187,
-            188,
-            195,
-            196,
-            197,
-            198
-          ],
-          "start_seconds": 380.96,
-          "end_seconds": 456.88
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "70eaced04296ecfaeec21cb08c8b89fe314f75fa2239cea2e5d07c8d09674a8d",
-      "transcript_captured_at": "2026-11-02T00:33:09.347847Z",
-      "summary_generated_at": "2026-11-02T00:38:14.711906Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is a single commentary transcript and does not provide underlying documents or independently verified election records.",
-        "Several transcript segments contain apparent caption errors, including names, numbers, and fragmented phrases.",
-        "Early-vote margins and registration statistics may not predict final election outcomes; the speaker explicitly notes uncertainty about how voters cast ballots.",
-        "The Alaska litigation and certification discussion is presented with incomplete procedural detail.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mike Figueredo — The Humanist Report",
-      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
-      "video_id": "p_VM22xGD_I",
-      "title": "“Traitor!”: Haley Stevens Heckled for Endorsing MAGA Republican Over El-Sayed",
-      "url": "https://www.youtube.com/watch?v=p_VM22xGD_I",
-      "published_at": "2026-11-01T21:27:26.000000Z",
-      "summary": "The creator discusses Haley Stevens’s stated endorsement of Republican Mike Rogers over Democrat Abdul El-Sayed in Michigan’s Senate race. Stevens says El-Sayed excluded her from his campaign and describes her endorsement as a personal decision, while maintaining that she remains a proud Democrat and stands by her prior positions. The creator argues that the endorsement contradicts Stevens’s Democratic identity and could influence voters who oppose El-Sayed without wanting to identify with MAGA politics. He frames the episode as evidence of a broader realignment involving Democrats’ views on Israel, party loyalty, and progressive candidates, and predicts that similar defections may become more common before 2028. The commentary also advances numerous allegations about campaign funding, political motives, public opinion, and the candidates’ records. Because the supplied material is an excerpted, automatically captioned monologue, it primarily documents the speakers’ statements and interpretations; it does not independently establish the factual claims or electoral consequences discussed.",
-      "topics": [
-        "Haley Stevens endorsement",
-        "Michigan Senate race",
-        "Democratic Party realignment",
-        "Israel policy and party politics"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Haley Stevens endorsed Republican Mike Rogers over Democrat Abdul El-Sayed after saying El-Sayed told her she was no longer welcome in his campaign.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            21,
-            25,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35
-          ]
-        },
-        {
-          "claim": "The commentary alleges that AIPAC provided Stevens with millions of dollars and links her political positions to that support.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            177,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185
-          ]
-        },
-        {
-          "claim": "The creator claims polling shows Mike Rogers receiving about 4% of Black voters in Michigan.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            142,
-            143,
-            144,
-            145,
-            146
-          ]
-        },
-        {
-          "claim": "The creator predicts that more Democrats will move toward Republicans over Israel policy and that this could contribute to a broader party realignment by 2028.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            213,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            224,
-            225,
-            226,
-            227,
-            230,
-            231,
-            232,
-            233,
-            234,
-            235,
-            236,
-            237,
-            238,
-            239,
-            240
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Stevens presents her endorsement as a personal decision and says she remains a proud Democrat.",
-          "evidence_segment_indices": [
-            8,
-            9,
-            10,
-            11,
-            12,
-            33,
-            34,
-            35,
-            36,
-            44,
-            45,
-            46
-          ],
-          "start_seconds": 20.64,
-          "end_seconds": 126.719
-        },
-        {
-          "point": "The creator criticizes the endorsement as inconsistent with Stevens’s claimed Democratic identity and predicts political fallout.",
-          "evidence_segment_indices": [
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168
-          ],
-          "start_seconds": 126.719,
-          "end_seconds": 393.759
-        },
-        {
-          "point": "The commentary connects the dispute to disagreements over Israel, allegations of antisemitism and racism, and Democratic primary strategy.",
-          "evidence_segment_indices": [
-            90,
-            91,
-            93,
-            94,
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114
-          ],
-          "start_seconds": 211.04,
-          "end_seconds": 269.68
-        },
-        {
-          "point": "The creator argues that the episode may foreshadow further movement of Israel-focused Democrats toward the Republican Party.",
-          "evidence_segment_indices": [
-            207,
-            208,
-            209,
-            210,
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            229,
-            230
-          ],
-          "start_seconds": 469.199,
-          "end_seconds": 528.72
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "766d322d10ae959702d2c946a8380105688d8cce76c1615c2aaf0c9ba9f332e9",
-      "transcript_captured_at": "2026-11-01T22:33:09.511182Z",
-      "summary_generated_at": "2026-11-01T22:38:24.925093Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is an automatically captioned excerpt with overlapping segments, garbled words, omissions, and profanity redactions.",
-        "Several names and phrases are unclear or inconsistently transcribed, including references to El-Sayed and other political figures.",
-        "The material contains the creator’s interpretations and allegations but provides no independent documentation, polling source, or corroborating evidence.",
-        "The excerpt does not establish the endorsement’s electoral impact or the accuracy of predictions about future party realignment.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "gdPQOzl0Lyo",
-      "title": "🚨 Trump’s Efforts FALL APART as Democratic Turnout SURGES and Courts REJECT Him, HE’S DONE!!",
-      "url": "https://www.youtube.com/watch?v=gdPQOzl0Lyo",
-      "published_at": "2026-11-01T18:56:42.000000Z",
-      "summary": "Aaron Parnas presents a campaign-focused overview in which he argues that Donald Trump’s efforts in Alaska have failed, Democratic turnout is strengthening in North Carolina, and investigations of the president and his family may gain support if Democrats control Congress. He describes a federal judge’s dismissal of an Alaska case involving delayed certification and summarizes the stated standing and ripeness rationale. Parnas cites an alleged 343,000-vote Democratic advantage in North Carolina early voting, while acknowledging that turnout figures do not reveal how individuals voted. The episode also includes Trump’s claims about income, poverty, jobs, manufacturing, and military strength, plus comments from an Illinois governor advocating hearings rather than immediate impeachment. Parnas discusses Haley Stevens’s endorsement of Mike Rogers in Michigan and then interviews Tennessee congressional candidate Justin Pearson. Pearson describes early-voting enthusiasm, his campaign’s prospects, opposition to a Memphis-area data center, alleged health effects, and concerns about voter intimidation. Several claims remain assertions within the discussion and are not independently established by this transcript.",
-      "topics": [
-        "Election litigation",
-        "Early-voting turnout",
-        "Congressional investigations",
-        "Tennessee congressional race",
-        "Data-center impacts"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A federal judge dismissed efforts to delay certification of an Alaska Senate race, citing standing and ripeness issues.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            30,
-            36,
-            40,
-            43,
-            57,
-            64,
-            65
-          ]
-        },
-        {
-          "claim": "Democrats held a reported 343,000-vote early-voting advantage in North Carolina, compared with a 41,000-vote Republican advantage in 2024.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            66,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77,
-            78
-          ]
-        },
-        {
-          "claim": "Justin Pearson alleges that a Memphis-area hyperscale data center contributes to pollution and adverse health outcomes, including increased asthma and emergency-room visits.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            276,
-            280,
-            287,
-            302,
-            305,
-            308,
-            313,
-            314,
-            317,
-            318,
-            320,
-            327
-          ]
-        },
-        {
-          "claim": "Justin Pearson alleges that his opponent is a sexual predator.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            405,
-            411,
-            417,
-            418
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames Alaska litigation and North Carolina turnout as setbacks for Trump and Republicans, while noting turnout does not identify vote choices.",
-          "evidence_segment_indices": [
-            2,
-            8,
-            18,
-            65,
-            67,
-            80,
-            84
-          ],
-          "start_seconds": 4.48,
-          "end_seconds": 209.28
-        },
-        {
-          "point": "The episode reports growing Democratic interest in investigations and presents a governor’s preference for hearings before considering impeachment.",
-          "evidence_segment_indices": [
-            108,
-            111,
-            113,
-            118,
-            129,
-            134,
-            136
-          ],
-          "start_seconds": 261.6,
-          "end_seconds": 330.56
-        },
-        {
-          "point": "Haley Stevens’s endorsement of Mike Rogers is described as provoking criticism among Michigan Democrats, with its electoral effect unresolved.",
-          "evidence_segment_indices": [
-            155,
-            160,
-            164,
-            175,
-            177,
-            179,
-            180
-          ],
-          "start_seconds": 362.72,
-          "end_seconds": 409.36
-        },
-        {
-          "point": "Pearson portrays his Tennessee campaign as competitive despite district boundaries and emphasizes economic costs, healthcare, wages, and community concerns.",
-          "evidence_segment_indices": [
-            212,
-            224,
-            227,
-            230,
-            231,
-            236,
-            241,
-            245
-          ],
-          "start_seconds": 465.12,
-          "end_seconds": 531.36
-        },
-        {
-          "point": "The interview closes with Pearson urging participation despite fears about intimidation or ballot challenges.",
-          "evidence_segment_indices": [
-            366,
-            378,
-            385,
-            394,
-            395,
-            396,
-            400,
-            405,
-            419
-          ],
-          "start_seconds": 753.36,
-          "end_seconds": 867.839
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "278a392306a66ba75e2c694c1bc9dcec305cfa932c1f79c3ea5510f8e140d0b4",
-      "transcript_captured_at": "2026-11-01T19:33:09.724779Z",
-      "summary_generated_at": "2026-11-01T19:38:17.554985Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains captioning and transcription defects, including misspellings, duplicated words, and unclear names.",
-        "Reported vote totals, polling, legal developments, endorsements, and health effects are presented through the episode and are not independently verified here.",
-        "Some political allegations and predictions are attributed to speakers rather than established as facts.",
-        "The transcript provides only source-level coverage and limited methodological detail for polling, turnout, and health assertions.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "1FtldWH2icU",
-      "title": "MAJOR BREAKING: DEM SEN CHRIS MURPHY HAS A STROKE!! ",
-      "url": "https://www.youtube.com/watch?v=1FtldWH2icU",
-      "published_at": "2026-11-01T18:35:27.000000Z",
-      "summary": "Kyle Kulinski reports that Democratic Senator Chris Murphy allegedly suffered a stroke after experiencing arm numbness at his child’s hockey game and going to a hospital. He says Murphy is reportedly improving and expected to recover, but repeatedly characterizes the timing as suspicious because Murphy has criticized the Trump administration and opposed a potential war with Iran. Kulinski calls for the incident to be investigated, while stopping short of making a specific accusation. The episode also previews further commentary about Haley Stevens, whom Kulinski condemns for allegedly siding with pro-Israel and MAGA-aligned forces. He broadens the discussion into a warning that political turmoil, an alleged election plot, and possible conflict involving Iran could worsen soon. The account is limited to the creator’s commentary: it provides no named medical source, official statement, corroborating report, or evidence connecting Murphy’s health event to political activity.",
-      "topics": [
-        "Chris Murphy’s reported medical emergency",
-        "Political suspicion and allegations",
-        "Trump administration and Iran",
-        "Haley Stevens controversy",
-        "Election-related warnings"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Chris Murphy had a stroke after experiencing numbness in one arm and was treated at a hospital.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            25,
-            26,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35
-          ]
-        },
-        {
-          "claim": "Murphy was reportedly improving and expected to make a full recovery.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            36,
-            37,
-            38
-          ]
-        },
-        {
-          "claim": "An alleged plan involving Iran and an alleged effort to steal an election are upcoming or active developments.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            86,
-            87,
-            88
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski presents Murphy’s reported stroke as the episode’s main breaking-news topic.",
-          "evidence_segment_indices": [
-            24,
-            25,
-            26,
-            27
-          ],
-          "start_seconds": 56.16,
-          "end_seconds": 68.0
-        },
-        {
-          "point": "He links his suspicion about the timing to Murphy’s opposition to Trump and a potential Iran war, without offering evidence of causation.",
-          "evidence_segment_indices": [
-            42,
-            43,
-            44,
-            45,
-            46,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            71,
-            72,
-            73,
-            74
-          ],
-          "start_seconds": 96.479,
-          "end_seconds": 177.44
-        },
-        {
-          "point": "The episode also condemns Haley Stevens and previews more discussion of that controversy.",
-          "evidence_segment_indices": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23
-          ],
-          "start_seconds": 3.6,
-          "end_seconds": 58.079
-        },
-        {
-          "point": "Kulinski predicts worsening short-term political turmoil.",
-          "evidence_segment_indices": [
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            88,
-            89,
-            90,
-            91
-          ],
-          "start_seconds": 184.959,
-          "end_seconds": 213.36
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "0b1e3c9722101f4e197bb2a186c7e2bb53738538077a79d4d78fc477d6ee22a3",
-      "transcript_captured_at": "2026-11-01T19:03:09.189470Z",
-      "summary_generated_at": "2026-11-01T19:08:14.493933Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript provides only the creator’s account and no independent medical or official confirmation.",
-        "The claimed connection between Murphy’s health event and his political positions is speculation explicitly framed as suspicion.",
-        "Several political references, including the alleged Iran and election plots, are not explained or substantiated in the source.",
-        "Some transcript passages contain redacted profanity and speech-recognition defects.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
