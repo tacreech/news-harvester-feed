@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T18:00:15.358997Z",
+  "generated_at": "2026-11-05T18:30:50.012886Z",
   "reporting_window": {
-    "start": "2026-10-29T18:00:15.358997Z",
-    "end": "2026-11-05T18:00:15.358997Z",
+    "start": "2026-10-29T18:30:50.012886Z",
+    "end": "2026-11-05T18:30:50.012886Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,7 +14,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-05T18:00:13.723251Z",
+      "last_successful_poll": "2026-11-05T18:30:48.639198Z",
       "warnings": []
     },
     {
@@ -23,7 +23,7 @@
       "identity_status": "verified",
       "health": "success_new",
       "discovery_status": "success_new",
-      "last_successful_poll": "2026-11-05T18:00:14.019775Z",
+      "last_successful_poll": "2026-11-05T18:30:49.055409Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-05T18:00:14.226729Z",
+      "last_successful_poll": "2026-11-05T18:30:49.227359Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-05T18:00:14.809975Z",
+      "last_successful_poll": "2026-11-05T18:30:49.445797Z",
       "warnings": []
     },
     {
@@ -50,11 +50,23 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-05T18:00:15.204035Z",
+      "last_successful_poll": "2026-11-05T18:30:49.885297Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "mctA0uiWqgk",
+      "title": "Donald Trump’s preferred golf tour has gone bankrupt. The hits keep coming.",
+      "published_at": "2026-11-05T18:18:06.000000Z",
+      "url": "https://www.youtube.com/watch?v=mctA0uiWqgk",
+      "first_seen": "2026-11-05T18:30:49.055409Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -221,7 +233,7 @@
       "first_seen": "2026-11-05T00:01:35.611538Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "discovered"
+      "transcript_status": "captions_ready"
     },
     {
       "creator": "Kyle Kulinski — Secular Talk",
@@ -257,7 +269,7 @@
       "first_seen": "2026-11-04T23:31:04.584970Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "discovered"
+      "transcript_status": "captions_ready"
     },
     {
       "creator": "Kyle Kulinski — Secular Talk",
@@ -617,7 +629,7 @@
       "first_seen": "2026-11-04T08:00:12.394589Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "discovered"
+      "transcript_status": "captions_ready"
     },
     {
       "creator": "Aaron Parnas",
@@ -773,7 +785,7 @@
       "first_seen": "2026-11-03T21:00:39.706547Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "discovered"
+      "transcript_status": "captions_ready"
     },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
@@ -2070,30 +2082,6 @@
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "expired"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "iwQLO-Mlsv0",
-      "title": "THE JOBS APOCALYPSE IS HERE",
-      "published_at": "2026-10-29T18:30:08.000000Z",
-      "url": "https://www.youtube.com/watch?v=iwQLO-Mlsv0",
-      "first_seen": "2026-10-29T18:00:56.683909Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "expired"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "i7JZ4PMtDEk",
-      "title": "California is fighting back—Trump’s efforts are failing.",
-      "published_at": "2026-10-29T18:10:08.000000Z",
-      "url": "https://www.youtube.com/watch?v=i7JZ4PMtDEk",
-      "first_seen": "2026-10-29T18:30:56.954160Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "not_queued"
     }
   ]
 }
