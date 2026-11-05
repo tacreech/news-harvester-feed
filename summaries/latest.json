@@ -1,11 +1,229 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T21:42:01.204656Z",
+  "generated_at": "2026-11-05T23:12:01.194011Z",
   "reporting_window": {
-    "start": "2026-10-29T21:42:01.204656Z",
-    "end": "2026-11-05T21:42:01.204656Z"
+    "start": "2026-10-29T23:12:01.194011Z",
+    "end": "2026-11-05T23:12:01.194011Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "9_mwGGyfSQE",
+      "title": "BREAKING: IRAN SAYS US ATTACK ‘IMMINENT’ | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=9_mwGGyfSQE",
+      "published_at": "2026-11-05T21:30:25.000000Z",
+      "summary": "Kyle Kulinski argues that reported U.S. military preparations around Israel indicate a possible imminent attack on Iran. He cites a reported airlift of air-defense systems, cargo flights, refueling activity, and Israeli shelter preparations, while also describing reports that Iran is moving missile equipment. Kulinski presents these developments as evidence that a larger conflict may be approaching, but the source provides no independent confirmation of the underlying reports. He also discusses an alleged threat against Donald Trump and Iranian warnings about possible attacks on infrastructure and U.S. or allied interests. Kulinski rejects an Israeli intelligence claim that Iran is considering chemical weapons, attributing it to what he views as Israeli strategic motives. He argues that Iran would regard retaliation as defensive, criticizes Trump’s options, and proposes concessions and regional de-escalation as the only viable alternative. The episode closes with predictions of worsening war, economic disruption, and political consequences, all expressed as Kulinski’s analysis rather than established outcomes.",
+      "topics": [
+        "U.S.-Iran tensions",
+        "Military preparations",
+        "Israeli civil defense",
+        "Intelligence claims",
+        "War and politics"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Reported U.S. airlifts and deployments are preparing for an imminent attack on Iran.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43
+          ]
+        },
+        {
+          "claim": "Iran has reportedly moved military equipment and missile launch vehicles while Israeli authorities opened shelters and prepared hospitals.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143
+          ]
+        },
+        {
+          "claim": "Israeli intelligence reportedly told U.S. and regional officials that Iran was considering chemical weapons.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116
+          ]
+        },
+        {
+          "claim": "A public display in Tehran reportedly threatened to kill Donald Trump.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            84,
+            85,
+            86,
+            87
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames military movements and civil-defense measures as signs of escalating regional danger.",
+          "evidence_segment_indices": [
+            24,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            68,
+            69,
+            70,
+            71,
+            72
+          ],
+          "start_seconds": 51.92,
+          "end_seconds": 156.56
+        },
+        {
+          "point": "He disputes the chemical-weapons allegation and questions the motives of Israeli intelligence sources.",
+          "evidence_segment_indices": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128
+          ],
+          "start_seconds": 238.0,
+          "end_seconds": 277.6
+        },
+        {
+          "point": "He argues that de-escalation would require major U.S. concessions, including ending regional military involvement and lifting sanctions.",
+          "evidence_segment_indices": [
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182
+          ],
+          "start_seconds": 339.44,
+          "end_seconds": 385.6
+        },
+        {
+          "point": "He predicts continued escalation would worsen security, prices, casualties, and domestic political backlash.",
+          "evidence_segment_indices": [
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            224,
+            225,
+            226
+          ],
+          "start_seconds": 412.88,
+          "end_seconds": 465.039
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "3c4264a8d72277ce14124c6b61e7d5bb9e60dc3513a692b18175100000586939",
+      "transcript_captured_at": "2026-11-05T23:03:44.317711Z",
+      "summary_generated_at": "2026-11-05T23:08:26.709902Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The episode relies heavily on reports attributed to unnamed sources, flight tracking, and cited media coverage that are not independently corroborated in the transcript.",
+        "Automatic captions contain omissions, profanity placeholders, repetitions, and possible place-name or phrase errors.",
+        "The source presents predictions and political interpretations alongside reported events, so their evidentiary status is not uniform.",
+        "No supporting documents, links, or primary-source records are included beyond the creator’s spoken discussion.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5110,173 +5328,6 @@
         "The transcript is automatically captioned and contains interruptions, profanity redactions, overlaps, and apparent recognition errors.",
         "Several quoted economic, electoral, policy, and corruption claims are presented by callers or hosts without supporting source material in the episode transcript.",
         "The discussion samples selected radio callers and should not be treated as representative evidence of all Republican voters or broader turnout patterns.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "ucx1tHL_XgU",
-      "title": "Joe Rogan STRUGGLES To Defend Trump’s Corruption | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=ucx1tHL_XgU",
-      "published_at": "2026-11-03T22:55:01.000000Z",
-      "summary": "The creator critiques Joe Rogan’s handling of allegations concerning Donald Trump’s finances, cryptocurrency ventures, and possible conflicts of interest. The episode presents excerpts in which guests discuss Trump’s reported increase in wealth, memecoin activity, access to donors, and business dealings while president; Rogan is portrayed as responding that such conduct is legal or widespread. The creator argues that these responses redirect attention toward Democrats and amount to false equivalence, while emphasizing that legality and ethical acceptability are separate questions. The commentary also lists numerous allegations involving Trump’s family, foreign-linked business interests, pardons, contracts, and access arrangements, but the transcript does not provide documentation or independent corroboration for them. The segment closes by asserting that Rogan’s political alignment and proximity to Trump have reduced his credibility and popularity. Overall, this is an adversarial political commentary built around selected conversation excerpts, with strong accusations and predictions that require verification beyond the supplied transcript.",
-      "topics": [
-        "Joe Rogan’s political commentary",
-        "Trump finances and cryptocurrency",
-        "Conflicts of interest",
-        "Political accountability"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The creator says Trump’s net worth rose by an estimated $2.7 billion to $4.1 billion after the 2024 election and places his total wealth near $6.4 billion.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            99,
-            100,
-            101,
-            102,
-            106,
-            107
-          ]
-        },
-        {
-          "claim": "The creator alleges that Trump and associates used cryptocurrency, paid access, pardons, contracts, and foreign-linked business arrangements for personal or political benefit.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            308,
-            309,
-            310,
-            318,
-            319,
-            320,
-            321,
-            323,
-            324,
-            325,
-            327,
-            328,
-            329,
-            330,
-            341,
-            342,
-            343,
-            345,
-            346,
-            347,
-            348,
-            349,
-            350,
-            363
-          ]
-        },
-        {
-          "claim": "The creator asserts that Joe Rogan’s popularity fell 11 points over two years because of his responses to Trump-related controversies.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            277,
-            278,
-            279,
-            280,
-            281,
-            282
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator frames Rogan as retreating to both-sides comparisons when guests criticize Trump.",
-          "evidence_segment_indices": [
-            77,
-            78,
-            79,
-            91,
-            92,
-            93,
-            182,
-            183,
-            184
-          ],
-          "start_seconds": 172.16,
-          "end_seconds": 398.16
-        },
-        {
-          "point": "The featured discussion focuses on whether Trump’s wealth growth and memecoin activity are legal or ethically problematic.",
-          "evidence_segment_indices": [
-            43,
-            46,
-            47,
-            53,
-            54,
-            55,
-            99,
-            100,
-            101,
-            102,
-            210,
-            218,
-            219,
-            262,
-            264,
-            265
-          ],
-          "start_seconds": 104.96,
-          "end_seconds": 540.48
-        },
-        {
-          "point": "The commentary distinguishes legal status from broader concerns about conflicts of interest and accountability.",
-          "evidence_segment_indices": [
-            304,
-            305,
-            306,
-            416,
-            417,
-            418,
-            419,
-            420,
-            421,
-            422
-          ],
-          "start_seconds": 614.32,
-          "end_seconds": 855.04
-        },
-        {
-          "point": "The creator concludes that Rogan’s closeness to Trump compromises his objectivity and credibility.",
-          "evidence_segment_indices": [
-            27,
-            28,
-            29,
-            30,
-            31,
-            158,
-            159,
-            160,
-            448,
-            449,
-            450,
-            460,
-            461,
-            462,
-            463
-          ],
-          "start_seconds": 64.479,
-          "end_seconds": 944.639
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "3a8ee37274258d72bbf52f0449be8973150033818a14e799885934eb55ef52d9",
-      "transcript_captured_at": "2026-11-05T19:33:14.365006Z",
-      "summary_generated_at": "2026-11-05T19:38:25.977525Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is partisan commentary and includes highly charged allegations without supporting documents.",
-        "Several claims are presented through clipped or overlapping dialogue, making speaker attribution occasionally ambiguous.",
-        "Caption errors and transcription defects affect names, figures, and legal terminology.",
-        "The overview relies only on the supplied transcript and does not independently establish any allegation.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
