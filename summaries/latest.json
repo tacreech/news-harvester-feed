@@ -1,11 +1,163 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T22:42:01.212574Z",
+  "generated_at": "2026-11-06T23:12:01.205556Z",
   "reporting_window": {
-    "start": "2026-10-30T22:42:01.212574Z",
-    "end": "2026-11-06T22:42:01.212574Z"
+    "start": "2026-10-30T23:12:01.205556Z",
+    "end": "2026-11-06T23:12:01.205556Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "BJt_chfD5qs",
+      "title": "‘HE’S ALL ALONE’ — Trump ERUPTS and Doubles Down as Voters and Staff FLEE",
+      "url": "https://www.youtube.com/watch?v=BJt_chfD5qs",
+      "published_at": "2026-11-06T21:55:54.000000Z",
+      "summary": "Creator Aaron Parnas argues that Donald Trump responded to reported midterm setbacks by empowering hardline loyalist Stephen Miller as White House chief of staff rather than changing course. The episode says Susie Wiles resigned, several Justice Department officials departed, and officials close to the administration are increasingly divided. Parnas connects Miller’s appointment to immigration enforcement, conflict with Congress, and anticipated confrontations with the press and courts, while presenting past remarks attributed to Miller as evidence of his ideological toughness. The episode also discusses reported political and legal pressure involving Elon Musk and Defense Secretary Pete Hegseth, and cites forecasts that several traditionally Republican states could become more competitive in 2028. It closes by portraying Democrats’ reported state-level gains as evidence of a broader electoral warning to Trump. These points are presented through the creator’s commentary and cited or purportedly cited reporting; the transcript alone does not independently establish the underlying events, quotations, polling, or political outcomes.",
+      "topics": [
+        "Trump administration staffing",
+        "Stephen Miller appointment",
+        "Justice Department departures",
+        "Midterm and 2028 electoral outlook"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Stephen Miller was appointed White House chief of staff after Susie Wiles’s departure.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            14,
+            15,
+            47,
+            96,
+            109,
+            110
+          ]
+        },
+        {
+          "claim": "Three senior Justice Department officials resigned within two days.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            155,
+            157,
+            158,
+            160,
+            161,
+            162,
+            163
+          ]
+        },
+        {
+          "claim": "A House impeachment vote involving Pete Hegseth was expected as soon as the following week.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            184,
+            188,
+            189,
+            190,
+            193,
+            194
+          ]
+        },
+        {
+          "claim": "The episode reports that Democrats gained multiple state-level governing trifectas and flipped the Texas House.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames Trump’s staffing choices as a decision to intensify confrontation after reported electoral setbacks.",
+          "evidence_segment_indices": [
+            0,
+            5,
+            12,
+            28,
+            29,
+            30,
+            227,
+            228,
+            229
+          ],
+          "start_seconds": 0.08,
+          "end_seconds": 465.12
+        },
+        {
+          "point": "The episode links Miller’s promotion to immigration policy and a more combative approach toward Congress.",
+          "evidence_segment_indices": [
+            40,
+            41,
+            42,
+            43,
+            45,
+            46,
+            47,
+            85,
+            86,
+            87,
+            88
+          ],
+          "start_seconds": 76.56,
+          "end_seconds": 179.2
+        },
+        {
+          "point": "Reported departures and possible exits are presented as signs of internal strain within the administration.",
+          "evidence_segment_indices": [
+            6,
+            7,
+            8,
+            9,
+            155,
+            157,
+            183,
+            198,
+            199,
+            200
+          ],
+          "start_seconds": 10.88,
+          "end_seconds": 409.28
+        },
+        {
+          "point": "The creator says Republicans face a more difficult electoral map heading toward 2028.",
+          "evidence_segment_indices": [
+            204,
+            205,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215
+          ],
+          "start_seconds": 412.639,
+          "end_seconds": 438.8
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "116975d99ba8ab0927cc6a1f13e5cba06a0fa2be0e97f96aea990d6185ccd741",
+      "transcript_captured_at": "2026-11-06T23:03:13.642172Z",
+      "summary_generated_at": "2026-11-06T23:08:24.855357Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview reflects one creator’s presentation and the supplied transcript, not independently verified reporting.",
+        "Several names, words, and quotations appear garbled or ambiguous in the automatic captions.",
+        "The transcript attributes polling, resignations, legal actions, and election results to outside reporting without providing the underlying sources.",
+        "Some claims are predictions or interpretations, including anticipated political conflict and the 2028 outlook.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5158,236 +5310,6 @@
         "Several captions contain transcription errors, overlapping speech, laughter markers, profanity, and unclear names or phrases.",
         "Election totals, polling figures, media ratings, foreign-policy assertions, and personnel reports require independent verification.",
         "Some quoted statements are presented without the surrounding source material needed to establish their context.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "In5VyMc8Tvw",
-      "title": "🚨‘WE’RE F*CKED’ Trump FREAKS OUT as Congress Launches LARGEST Investigation Effort in HISTORY!!",
-      "url": "https://www.youtube.com/watch?v=In5VyMc8Tvw",
-      "published_at": "2026-11-04T21:45:11.000000Z",
-      "summary": "Aaron Parnas presents the episode as an account of Democrats’ claimed post-election gains and their proposed oversight agenda, while emphasizing that several races and broader political consequences remain unresolved. He interviews incoming House Oversight Chair Robert Garcia, who says Democrats intend to investigate alleged financial conflicts involving the Trump family, corporate conduct, the handling of Epstein-related records, and alleged abuses involving ICE and DHS. Garcia also advocates public hearings and possible testimony from figures including Elon Musk, while making sweeping corruption allegations that the episode does not independently substantiate. Parnas then interviews Senator Kirsten Gillibrand about unsettled Senate contests in Mississippi and Alaska, where she expresses optimism about Democratic candidates and stresses counting remaining ballots. Gillibrand also describes Democratic priorities for January, including lowering costs, changing Iran policy, addressing tariffs and health care, and using congressional funding powers. The episode combines political commentary, interview claims, election predictions, international reactions, and a sponsor segment; its captions contain apparent transcription errors and provide no independent documentation for many assertions.",
-      "topics": [
-        "Congressional oversight",
-        "Election results and Senate races",
-        "Trump administration allegations",
-        "Democratic policy priorities",
-        "Political reactions"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Democrats will control every House and Senate committee beginning in January and will have subpoena, hearing, and deposition powers as described.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39
-          ]
-        },
-        {
-          "claim": "Democratic investigations will examine Trump-family finances, corporate conduct, Epstein-related records, and alleged ICE and DHS abuses.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            315,
-            316,
-            317,
-            318,
-            319,
-            320,
-            321
-          ]
-        },
-        {
-          "claim": "The episode reports that oil fell below $100 per barrel and declined about 8% in one day.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            119,
-            120,
-            121,
-            122
-          ]
-        },
-        {
-          "claim": "Mississippi and Alaska Senate races remained unsettled, with Democratic candidates described as potentially winning.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            415,
-            416,
-            417,
-            418,
-            419,
-            420,
-            421,
-            422,
-            428,
-            429,
-            430,
-            431,
-            432,
-            433,
-            434,
-            435,
-            436,
-            437,
-            438,
-            439,
-            460,
-            461,
-            462,
-            463
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Robert Garcia frames “lawyer up” as a warning that he expects congressional accountability efforts.",
-          "evidence_segment_indices": [
-            157,
-            158,
-            159,
-            160,
-            161,
-            162,
-            172,
-            173
-          ],
-          "start_seconds": 297.854,
-          "end_seconds": 335.734
-        },
-        {
-          "point": "Garcia identifies four oversight areas: the Trump family, Epstein-related matters, corporate corruption, and ICE/DHS conduct.",
-          "evidence_segment_indices": [
-            315,
-            316,
-            317,
-            318,
-            319,
-            320,
-            321
-          ],
-          "start_seconds": 594.737,
-          "end_seconds": 611.658
-        },
-        {
-          "point": "Gillibrand says Democrats plan to focus on costs, health care, tariffs, Iran policy, and congressional spending authority.",
-          "evidence_segment_indices": [
-            510,
-            511,
-            518,
-            519,
-            520,
-            521,
-            522,
-            523,
-            524,
-            527,
-            528,
-            529,
-            571,
-            572,
-            592,
-            600,
-            602,
-            603,
-            604,
-            605
-          ],
-          "start_seconds": 1000.342,
-          "end_seconds": 1193.223
-        },
-        {
-          "point": "The episode portrays international and Republican responses as evidence of a major political shift, but these interpretations are presented by the speakers.",
-          "evidence_segment_indices": [
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137
-          ],
-          "start_seconds": 151.012,
-          "end_seconds": 267.854
-        },
-        {
-          "point": "The interviews include predictions about unresolved Mississippi and Alaska results and future Democratic electoral targets.",
-          "evidence_segment_indices": [
-            418,
-            419,
-            420,
-            421,
-            422,
-            428,
-            433,
-            435,
-            436,
-            437,
-            438,
-            439,
-            460,
-            461,
-            462,
-            617,
-            618,
-            619,
-            623,
-            624,
-            625
-          ],
-          "start_seconds": 801.939,
-          "end_seconds": 1235.465
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "002333d0f2f877e08a5d964a1cae219c3f6369f886e7a452a93168800a6b508f",
-      "transcript_captured_at": "2026-11-05T19:33:23.147682Z",
-      "summary_generated_at": "2026-11-05T19:38:47.957198Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Captions contain apparent transcription defects, including garbled phrases and duplicated or incomplete wording.",
-        "The source is a single commentary episode and does not include supporting documents, independent election returns, market data, or responses from accused parties.",
-        "Many allegations and predictions are attributed to interviewees or the creator and should not be treated as established facts.",
-        "Several political descriptions use ambiguous or potentially inconsistent terminology, limiting precision without external verification.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
