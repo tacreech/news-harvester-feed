@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T01:42:01.169590Z",
+  "generated_at": "2026-11-06T04:12:00.465267Z",
   "reporting_window": {
-    "start": "2026-10-30T01:42:01.169590Z",
-    "end": "2026-11-06T01:42:01.169590Z"
+    "start": "2026-10-30T04:12:00.465267Z",
+    "end": "2026-11-06T04:12:00.465267Z"
   },
   "episodes": [
     {
@@ -280,6 +280,439 @@
       "verification_status": "creator_account_not_independently_verified"
     },
     {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "1m0Hl8g_NHQ",
+      "title": "CNN Already Trying To RATF*CK Dems | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=1m0Hl8g_NHQ",
+      "published_at": "2026-11-05T23:00:45.000000Z",
+      "summary": "The creator argues that CNN is trying to divide Democrats after what he describes as a major electoral victory. He criticizes an interview question asking James Talerico whether he will oppose Democrats, interpreting it as an effort to portray Talerico as more moderate than Abdul and create friction within the party. The creator contrasts that framing with Talerico’s stated willingness to work across party lines while prioritizing Texas voters, citing his claimed record of bipartisan legislation. He maintains that Talerico and Abdul can cooperate on investigations, economic issues, and progressive policies, and rejects the assumption that candidates in conservative states must govern as right-wing Democrats. The episode also advances the creator’s predictions that several newly elected Democrats will vote consistently with their party and that left-wing or social-democratic politics can strengthen their electoral prospects. These arguments rely primarily on commentary and excerpts from one interview; the episode does not independently substantiate its electoral, legislative, or voting-record claims.",
+      "topics": [
+        "CNN interview framing",
+        "Democratic unity",
+        "Progressive politics",
+        "Bipartisanship",
+        "Electoral strategy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The referenced Democrats won by unusually large margins in a broad electoral wave, including Talerico’s claimed double-digit Texas victory.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            2,
+            5,
+            6,
+            7,
+            8,
+            13
+          ]
+        },
+        {
+          "claim": "Talerico passed 60 bipartisan bills in the Texas legislature involving teacher pay, housing, childcare, taxes, and prescription drugs.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            120,
+            124,
+            130,
+            131,
+            132,
+            133,
+            134
+          ]
+        },
+        {
+          "claim": "Talerico and Abdul are likely to vote together 98–99% of the time and several newly elected Democrats will vote similarly to Bernie Sanders.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            226,
+            227,
+            228
+          ]
+        },
+        {
+          "claim": "CNN gives Republicans more latitude than Democrats and is attempting to divide Democrats through this interview.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            114,
+            229,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator interprets CNN’s question about party opposition as an attempt to create divisions among Democrats.",
+          "evidence_segment_indices": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85
+          ],
+          "start_seconds": 65.6,
+          "end_seconds": 194.879
+        },
+        {
+          "point": "The episode contrasts Talerico’s stated bipartisan approach with the creator’s characterization of his and Abdul’s policy positions.",
+          "evidence_segment_indices": [
+            120,
+            121,
+            122,
+            128,
+            129,
+            130,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144
+          ],
+          "start_seconds": 262.479,
+          "end_seconds": 312.0
+        },
+        {
+          "point": "The creator argues that candidates in conservative states do not necessarily need to adopt right-wing positions to win or retain office.",
+          "evidence_segment_indices": [
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194
+          ],
+          "start_seconds": 342.479,
+          "end_seconds": 410.96
+        },
+        {
+          "point": "The creator predicts that progressive policy agendas could produce durable electoral support and stronger Democratic representation.",
+          "evidence_segment_indices": [
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224
+          ],
+          "start_seconds": 444.72,
+          "end_seconds": 478.4
+        },
+        {
+          "point": "The episode closes with criticism of CNN and a call for Democrats to pursue the agenda the creator says voters endorsed.",
+          "evidence_segment_indices": [
+            229,
+            230,
+            231,
+            232,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254
+          ],
+          "start_seconds": 485.52,
+          "end_seconds": 537.12
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "1055ca5f1c802ae52dc2899677dcdf91b9b3a929a1a9a92e6b7350f9a5c1a224",
+      "transcript_captured_at": "2026-11-06T04:04:03.140607Z",
+      "summary_generated_at": "2026-11-06T04:09:14.109181Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Captioning contains apparent name and word errors, including inconsistent spellings and phrases that may be transcription mistakes.",
+        "The source presents the creator’s interpretations and predictions alongside an interview excerpt; it does not independently verify them.",
+        "Electoral results, legislative records, voting patterns, and allegations about public figures are asserted or characterized within the episode rather than documented with supporting evidence.",
+        "The excerpted interview is incomplete, so the broader context of the interviewer’s questions and the candidates’ positions may be missing.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "Igr_Gz24t_c",
+      "title": "Joe Rogan PANICS As His Trump Support BACKFIRES BIG TIME | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=Igr_Gz24t_c",
+      "published_at": "2026-11-05T22:30:06.000000Z",
+      "summary": "The creator argues that Joe Rogan’s support for Trump has damaged his credibility and may leave him trying to distance himself from the movement before the midterms. The episode centers on a discussion in which Rogan emphasizes face-to-face conversation, disagreement, and the difficulty of evaluating people fairly, while the creator rejects those appeals when they appear to excuse political conduct he considers unacceptable. The creator also disputes Rogan’s self-description as independent, pointing to his major Spotify contracts, advertising, and relationships with prominent billionaires and MAGA-aligned figures. A recurring criticism is that Rogan treats opposition as jealousy, hatred, or personal brokenness rather than engaging with policy-based objections. The episode ultimately argues that popularity does not exempt influential commentators from accountability and predicts that some public figures will later minimize their support for MAGA. The material is an adversarial commentary segment with extensive allegations and emotionally charged language, not an independent account establishing the claims it discusses.",
+      "topics": [
+        "Joe Rogan and Trump support",
+        "Political accountability",
+        "Media independence and influence",
+        "Polarization and public discourse"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Joe Rogan said or implied that his endorsement may have helped elect Trump and later attended the inauguration.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141
+          ]
+        },
+        {
+          "claim": "Rogan has received two $250 million Spotify contracts and reads gambling advertisements.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209
+          ]
+        },
+        {
+          "claim": "The creator alleges that Trump’s actions included illegal wars, mass killings, and other abuses.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            410,
+            411,
+            412,
+            413,
+            414,
+            415,
+            419,
+            420,
+            421,
+            422,
+            423,
+            424
+          ]
+        },
+        {
+          "claim": "The creator predicts that MAGA-aligned figures will attempt to downplay their prior support before the midterms.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            538,
+            539,
+            540,
+            541,
+            542,
+            543
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames Rogan’s support for Trump as a central reason for current criticism of him.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            154,
+            155,
+            156,
+            157
+          ],
+          "start_seconds": 0.0,
+          "end_seconds": 312.16
+        },
+        {
+          "point": "A featured conversation contrasts Rogan’s preference for dialogue with the creator’s argument that some conduct warrants firm moral boundaries.",
+          "evidence_segment_indices": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            27,
+            28,
+            29,
+            30,
+            33,
+            34,
+            35,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83
+          ],
+          "start_seconds": 33.68,
+          "end_seconds": 175.519
+        },
+        {
+          "point": "The episode challenges Rogan’s claim to independence by emphasizing corporate contracts, advertising, and access to powerful guests.",
+          "evidence_segment_indices": [
+            199,
+            200,
+            201,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            217,
+            218,
+            219,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244
+          ],
+          "start_seconds": 384.56,
+          "end_seconds": 469.36
+        },
+        {
+          "point": "The creator says criticism of Rogan is principled and policy-focused rather than driven only by his popularity.",
+          "evidence_segment_indices": [
+            268,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290,
+            291,
+            292,
+            297,
+            298,
+            299
+          ],
+          "start_seconds": 505.52,
+          "end_seconds": 570.08
+        },
+        {
+          "point": "The episode concludes that Rogan’s cultural influence should decline and that accountability may intensify around the midterms.",
+          "evidence_segment_indices": [
+            519,
+            520,
+            521,
+            522,
+            523,
+            524,
+            525,
+            526,
+            527,
+            528,
+            529,
+            530,
+            531,
+            538,
+            539,
+            540,
+            541,
+            542,
+            543
+          ],
+          "start_seconds": 975.92,
+          "end_seconds": 1031.36
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "97a9f3dee84d7e4ac2c4e750973d3f3ba0fab1eda5aaf9abd723d4ebb75883bf",
+      "transcript_captured_at": "2026-11-06T04:03:54.874472Z",
+      "summary_generated_at": "2026-11-06T04:08:50.067176Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is commentary and includes allegations that are not independently substantiated within the transcript.",
+        "Caption defects and redacted profanity make some wording and references ambiguous.",
+        "Speaker attribution is occasionally unclear because the transcript interleaves Rogan’s quoted conversation with the creator’s commentary.",
+        "The overview reflects only this transcript and does not establish the broader political or factual context of its claims.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "video_id": "CeuuGgUKqLU",
@@ -498,6 +931,224 @@
         "The episode mixes the creator’s narration with interview excerpts; attribution and context are not always explicit.",
         "Predictions about resignations, impeachment, elections, and future investigations are presented as expectations rather than established outcomes.",
         "The transcript provides source-only coverage and does not independently verify allegations, cited reporting, or legal claims.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "SuC4_8oAQuw",
+      "title": "THE REPUBLICAN CIVIL WAR HAS OFFICIALLY BEGUN | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=SuC4_8oAQuw",
+      "published_at": "2026-11-05T22:00:07.000000Z",
+      "summary": "Kyle Kulinski argues that the Republican Party is entering an increasingly open internal conflict as candidates and commentators seek distance from Donald Trump after disappointing electoral results. He portrays Republicans as caught between retaining Trump’s base and appealing to voters beyond it, while suggesting figures such as Ron DeSantis, Chris Christie, and others are repositioning themselves on issues including congressional stock trading, releasing Epstein-related files, foreign policy, and economic concerns. The episode also discusses Republican criticism of Vivek Ramaswamy and JD Vance, possible succession dynamics, and disagreements over whether poor results stem from turnout, policy, war, gasoline prices, or broader public rejection. Kulinski contrasts this prospective Republican struggle with a possible Democratic factional conflict, which he predicts would emerge later and resolve more quickly. The discussion relies heavily on commentary, quoted media clips, political interpretation, and predictions; several electoral, polling, policy, and causal assertions are presented without supporting documentation in the supplied transcript.",
+      "topics": [
+        "Republican Party divisions",
+        "Trump’s influence and succession",
+        "DeSantis and Christie criticism",
+        "Election explanations",
+        "Democratic factional conflict"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The episode states that Trump has a 29% approval rating and that this reflects the Republican Party’s hardcore base.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            84,
+            85,
+            86
+          ]
+        },
+        {
+          "claim": "The episode claims Democratic candidates nearly won Florida contests despite limited funding and party support.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265,
+            266
+          ]
+        },
+        {
+          "claim": "The episode claims the cited congressional results represented an unusually large Democratic wave, exceeding prior comparisons.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            375,
+            376,
+            377,
+            378,
+            379,
+            380,
+            381,
+            382,
+            383,
+            384,
+            385
+          ]
+        },
+        {
+          "claim": "The episode presents an ongoing Middle East conflict as contributing to higher prices and voter dissatisfaction.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            400,
+            401,
+            402,
+            403,
+            404,
+            405,
+            406,
+            407,
+            408,
+            409,
+            410,
+            411,
+            412,
+            413,
+            423,
+            424,
+            425,
+            426,
+            427,
+            428,
+            429
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski predicts a Republican struggle between loyalty to Trump and efforts to broaden electoral appeal.",
+          "evidence_segment_indices": [
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95
+          ],
+          "start_seconds": 151.52,
+          "end_seconds": 194.56
+        },
+        {
+          "point": "The discussion highlights public repositioning by DeSantis and criticism from Christie as examples of Republican infighting.",
+          "evidence_segment_indices": [
+            168,
+            169,
+            170,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            194,
+            195,
+            196,
+            197,
+            198,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248
+          ],
+          "start_seconds": 340.88,
+          "end_seconds": 529.839
+        },
+        {
+          "point": "The episode argues that Republicans are adopting positions associated by Kulinski with left-leaning appeals, including limits on congressional stock trading.",
+          "evidence_segment_indices": [
+            272,
+            273,
+            277,
+            278,
+            279,
+            280,
+            281,
+            282,
+            283,
+            286,
+            287,
+            288,
+            289,
+            290,
+            291,
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            303
+          ],
+          "start_seconds": 575.36,
+          "end_seconds": 631.92
+        },
+        {
+          "point": "Kulinski says Republican figures disagree over whether losses resulted from turnout, policy decisions, economic effects, or unpopular rhetoric.",
+          "evidence_segment_indices": [
+            397,
+            398,
+            399,
+            400,
+            401,
+            402,
+            403,
+            404,
+            405,
+            406,
+            407,
+            408,
+            409,
+            410,
+            411,
+            412,
+            413,
+            463,
+            464,
+            465,
+            466,
+            467,
+            468,
+            469
+          ],
+          "start_seconds": 813.12,
+          "end_seconds": 956.16
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "d4d69ac634bde53f8a5285bb166c22e4390d55fd0519901251bcfad1aabc85c4",
+      "transcript_captured_at": "2026-11-06T04:03:48.566057Z",
+      "summary_generated_at": "2026-11-06T04:08:27.721722Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is an automatic captioning output with profanity masking, names, and several phrases rendered ambiguously.",
+        "The supplied material contains commentary and excerpts but no independently documented polling, election, economic, or policy sources.",
+        "Some references and time periods are unclear in the captions, including election comparisons and named political figures.",
+        "Predictions about future Republican and Democratic conflicts are the speakers’ interpretations, not established outcomes.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -4801,606 +5452,6 @@
         "Several election outcomes are unresolved, conditional, or described through predictions rather than finalized results.",
         "The source provides political commentary and interview assertions but no independent documentation for the allegations or figures presented.",
         "The transcript alone does not establish whether proposed hearings, subpoenas, impeachments, or legislation occurred.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mike Figueredo — The Humanist Report",
-      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
-      "video_id": "yTMMMi-E1JU",
-      "title": "BREAKING: Dems OBLITERATE Republicans with Shocking Red State Wins, Retake House AND Senate",
-      "url": "https://www.youtube.com/watch?v=yTMMMi-E1JU",
-      "published_at": "2026-11-04T08:11:44.000000Z",
-      "summary": "The creator presents the election as a sweeping Democratic victory, claiming that Democrats retook both chambers of Congress and won several traditionally Republican states. He highlights reported Democratic victories or leads in Texas, South Carolina, Iowa, Kansas, Maine, Minnesota, and elsewhere, while celebrating Abdul Oed’s reported Senate win and describing it as historic. The episode also reviews House and gubernatorial contests, including several races the creator says remain close or uncalled. The creator interprets the results as a repudiation of Donald Trump and his policies, while predicting that Republicans may eventually distance themselves from him. He argues that the Democratic majority could create opportunities for Medicare for All, campaign-finance changes, and independent redistricting, though these are presented as future possibilities rather than outcomes. The discussion is highly partisan and frequently uses inflammatory language. Because the material is an immediate election-night commentary, many results, margins, and broader conclusions are provisional and would require checking against official returns.",
-      "topics": [
-        "Election results",
-        "Congressional control",
-        "Democratic victories",
-        "Trump’s political standing",
-        "Uncalled races"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Democrats retook the House and Senate, according to the creator.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            20,
-            21,
-            22,
-            277,
-            278,
-            279
-          ]
-        },
-        {
-          "claim": "The creator reports Democratic wins or leads in multiple red states, including Texas, South Carolina, Iowa, Kansas, Maine, and Mississippi.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            16,
-            18,
-            19,
-            38,
-            39,
-            40,
-            43,
-            46,
-            47,
-            48,
-            86,
-            98,
-            100,
-            101
-          ]
-        },
-        {
-          "claim": "Abdul Oed won a Senate seat and became the first Muslim senator in American history, according to the creator.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            57,
-            58,
-            59,
-            64
-          ]
-        },
-        {
-          "claim": "Several House and gubernatorial races remained close, incomplete, or uncalled when the episode was recorded.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            41,
-            104,
-            105,
-            106,
-            107,
-            108,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            261,
-            262,
-            264,
-            265,
-            266
-          ]
-        },
-        {
-          "claim": "The creator says Trump attributed Republican losses to factors including the Iran war and gas prices.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            147,
-            148,
-            149,
-            150,
-            156,
-            157,
-            158,
-            159
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator frames the election as a major Democratic breakthrough and Republican defeat.",
-          "evidence_segment_indices": [
-            8,
-            9,
-            10,
-            20,
-            21,
-            277,
-            278,
-            279
-          ],
-          "start_seconds": 25.439,
-          "end_seconds": 657.6
-        },
-        {
-          "point": "The episode spotlights reported Democratic gains in states and districts normally associated with Republicans.",
-          "evidence_segment_indices": [
-            16,
-            43,
-            46,
-            47,
-            100,
-            101,
-            137,
-            138
-          ],
-          "start_seconds": 40.96,
-          "end_seconds": 329.36
-        },
-        {
-          "point": "The creator links the results to progressive policy goals, including Medicare for All and redistricting reform.",
-          "evidence_segment_indices": [
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            123,
-            124,
-            125,
-            126
-          ],
-          "start_seconds": 147.36,
-          "end_seconds": 303.36
-        },
-        {
-          "point": "The creator predicts a difficult period for Republicans and possible future breaks with Trump.",
-          "evidence_segment_indices": [
-            280,
-            281,
-            295,
-            296,
-            297,
-            298,
-            299,
-            300,
-            301,
-            302,
-            303,
-            304
-          ],
-          "start_seconds": 653.519,
-          "end_seconds": 708.72
-        },
-        {
-          "point": "The creator acknowledges unresolved races and some Democratic losses despite describing the overall night as favorable.",
-          "evidence_segment_indices": [
-            104,
-            105,
-            106,
-            107,
-            108,
-            180,
-            181,
-            182,
-            183,
-            184,
-            307,
-            308,
-            309,
-            310,
-            311,
-            312,
-            313,
-            314
-          ],
-          "start_seconds": 249.12,
-          "end_seconds": 732.0
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "f02077837ce4ad046dbbda32a6c0b2d1aaf7abb67d01d96b2ce950fccc07403a",
-      "transcript_captured_at": "2026-11-05T17:33:17.117462Z",
-      "summary_generated_at": "2026-11-05T17:38:45.965347Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript reflects election-night reporting, so many results and margins may have changed after recording.",
-        "Several captions contain apparent transcription errors, garbled names, profanity substitutions, or ambiguous wording.",
-        "The source provides commentary and claimed results but no independent documentation or official vote totals.",
-        "Some predictions about future majorities, policy changes, investigations, and party strategy are speculative.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "MJ0Wx4TZWxc",
-      "title": "🚨BREAKING: BLUE TSUNAMI WIPES OUT TRUMP, IT’S OVER FOR HIM!!!",
-      "url": "https://www.youtube.com/watch?v=MJ0Wx4TZWxc",
-      "published_at": "2026-11-04T04:30:58.000000Z",
-      "summary": "Aaron Parnas presents what he describes as a sweeping Democratic victory in the House and Senate, while acknowledging that some results remain uncounted. He says Donald Trump has indicated he will accept the election results and work with Democratic leaders, but questions whether Democrats will cooperate. Parnas characterizes the outcome as a repudiation of the Trump administration and highlights proposed priorities including investigations, stock-trading restrictions, lower grocery costs, Medicaid coverage, and restoration of Affordable Care Act tax credits. He also discusses reported or projected contests in states including Iowa, Maine, Texas, Kansas, Ohio, and North Carolina, and predicts the results could influence future elections. The episode combines election-night updates, commentary from political figures, and calls for continued audience support. Because the transcript is a creator’s live recap and explicitly notes that counting was incomplete, its seat totals, race outcomes, quotations, and political interpretations require independent verification.",
-      "topics": [
-        "Election results",
-        "Congressional control",
-        "Trump-Democratic cooperation",
-        "Accountability proposals",
-        "2028 political outlook"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Democrats won or were projected to win both chambers of Congress, including the stated House seat estimates and Senate gains.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            5,
-            6,
-            7,
-            38,
-            39,
-            40,
-            43,
-            45,
-            46,
-            70,
-            71,
-            72
-          ]
-        },
-        {
-          "claim": "Josh Turek defeated Ashley Hinson in Iowa and Democrats flipped the referenced congressional contests.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            49,
-            50,
-            51,
-            56,
-            58,
-            59,
-            88,
-            90,
-            91
-          ]
-        },
-        {
-          "claim": "Trump said he would accept the election results and work with Democratic leaders.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            29,
-            30,
-            31,
-            32,
-            33,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107
-          ]
-        },
-        {
-          "claim": "Named Democratic figures advocated investigations or accountability involving Trump and his family.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            64,
-            66,
-            67,
-            68,
-            69,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames the election as an unusually large Democratic breakthrough, using “blue tsunami” language and comparing it with post-Watergate politics.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            13,
-            14,
-            15,
-            159,
-            160,
-            161
-          ],
-          "start_seconds": 0.0,
-          "end_seconds": 374.415
-        },
-        {
-          "point": "The recap says vote counting was incomplete, with Alaska, Maine, California, and other races still unresolved or awaiting final margins.",
-          "evidence_segment_indices": [
-            167,
-            168,
-            169,
-            170,
-            171,
-            172,
-            174,
-            175,
-            177,
-            178,
-            179,
-            180
-          ],
-          "start_seconds": 382.055,
-          "end_seconds": 413.255
-        },
-        {
-          "point": "Parnas describes two Democratic goals: accountability and passing legislation on healthcare, costs, taxes, and stock trading.",
-          "evidence_segment_indices": [
-            118,
-            119,
-            120,
-            121,
-            122,
-            126,
-            134,
-            141,
-            142,
-            146,
-            149,
-            150,
-            151,
-            152,
-            153,
-            154
-          ],
-          "start_seconds": 274.574,
-          "end_seconds": 357.814
-        },
-        {
-          "point": "The episode looks ahead to possible Democratic leadership and the 2028 election cycle.",
-          "evidence_segment_indices": [
-            162,
-            163,
-            164,
-            165,
-            195,
-            196,
-            197,
-            198,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208
-          ],
-          "start_seconds": 371.935,
-          "end_seconds": 471.575
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "98eca29ad5fe55e652357b7a23bc8705ee7d8c03c2b0e7d46e67ae206a102659",
-      "transcript_captured_at": "2026-11-05T18:33:14.156715Z",
-      "summary_generated_at": "2026-11-05T18:38:24.756717Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is a creator’s live election-night account, not an independently verified results record.",
-        "Several results are explicitly described as estimates, predictions, or still subject to counting.",
-        "Overlapping captions and corrections may make some state or seat references ambiguous.",
-        "Reported quotations and conversations with political figures are presented without corroborating source material.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "C0E8_xZfQrQ",
-      "title": "BREAKING: Democrats FLIP Major Seat as Election Night SURGE Begins, MAJOR WIN!!!!",
-      "url": "https://www.youtube.com/watch?v=C0E8_xZfQrQ",
-      "published_at": "2026-11-04T01:30:04.000000Z",
-      "summary": "The creator reports that Roy Cooper defeated Republican Michael Whatley in North Carolina’s Senate race, describing the result as a major Democratic pickup and a possible first step toward Senate control. He attributes the outcome partly to Cooper’s campaign message about rising household costs, health care, utility bills, housing affordability, and corporate influence. The episode includes excerpts from Cooper’s closing advertisement, which proposes making data centers pay their own power costs, challenging grocery mergers, and limiting prescription expenses. The creator also discusses Donald Trump’s criticism of Cooper’s record and argues that it failed to prevent Cooper’s victory. He presents the result as evidence that Cooper’s popularity and campaign may have changed the state’s electoral outlook, while predicting broader Democratic gains. The transcript alone does not establish the election result, the candidates’ records, or the factual accuracy of claims made in the campaign advertisement and political commentary.",
-      "topics": [
-        "North Carolina Senate election",
-        "Roy Cooper campaign",
-        "Democratic electoral gains",
-        "Campaign messaging"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Roy Cooper defeated Michael Whatley and won North Carolina’s Senate seat.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            16,
-            17
-          ]
-        },
-        {
-          "claim": "Cooper’s campaign attributed higher costs, utility profits, and policy choices to Republican officials and corporate interests.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            46,
-            47,
-            48,
-            49,
-            51,
-            52,
-            53,
-            65,
-            68,
-            69,
-            70,
-            71,
-            72,
-            75
-          ]
-        },
-        {
-          "claim": "The creator says Trump alleged that Cooper released prisoners, including people convicted of murder, and linked releases to later killings.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            147,
-            148,
-            149,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160,
-            161,
-            162,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator characterizes the result as a Democratic flip in North Carolina and a potential step toward Senate control.",
-          "evidence_segment_indices": [
-            6,
-            7,
-            12,
-            13
-          ],
-          "start_seconds": 18.88,
-          "end_seconds": 41.92
-        },
-        {
-          "point": "Cooper’s closing message focused on affordability, health care, utilities, housing, and corporate accountability.",
-          "evidence_segment_indices": [
-            35,
-            40,
-            46,
-            51,
-            54,
-            59,
-            68,
-            69,
-            70,
-            71,
-            72,
-            75,
-            86,
-            87,
-            112,
-            115,
-            119,
-            120,
-            121
-          ],
-          "start_seconds": 89.64,
-          "end_seconds": 271.214
-        },
-        {
-          "point": "Cooper proposed policies involving data-center power costs, grocery competition, and prescription prices.",
-          "evidence_segment_indices": [
-            110,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121,
-            122
-          ],
-          "start_seconds": 243.454,
-          "end_seconds": 273.334
-        },
-        {
-          "point": "The creator argues Cooper’s popularity overcame Republican attacks and could signal wider Democratic gains.",
-          "evidence_segment_indices": [
-            178,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189,
-            191,
-            192,
-            193,
-            194,
-            195,
-            196,
-            202,
-            203,
-            204,
-            205,
-            206
-          ],
-          "start_seconds": 400.295,
-          "end_seconds": 467.895
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "0e9ab8a7a7db9dccacb0ae510badfb6839e45b3f2f413974d46b4ff882d26f9e",
-      "transcript_captured_at": "2026-11-05T18:03:14.248012Z",
-      "summary_generated_at": "2026-11-05T18:08:24.907516Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is a single creator’s election-night account and does not independently verify the reported result.",
-        "Several campaign and political claims are presented as advocacy or allegations rather than documented findings.",
-        "Some captions contain transcription errors, repeated words, incomplete phrases, and ambiguous numbers.",
-        "The excerpt does not provide vote totals, official sources, or corroborating reporting.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
