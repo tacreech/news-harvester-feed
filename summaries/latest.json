@@ -1,11 +1,185 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T20:42:01.147917Z",
+  "generated_at": "2026-11-06T22:42:01.212574Z",
   "reporting_window": {
-    "start": "2026-10-30T20:42:01.147917Z",
-    "end": "2026-11-06T20:42:01.147917Z"
+    "start": "2026-10-30T22:42:01.212574Z",
+    "end": "2026-11-06T22:42:01.212574Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "12biQutGLIA",
+      "title": "IT'S ABOUT TO GET A LOT WORSE",
+      "url": "https://www.youtube.com/watch?v=12biQutGLIA",
+      "published_at": "2026-11-06T21:46:48.000000Z",
+      "summary": "The creator argues that Donald Trump’s reported replacement of Susie Wiles with Stephen Miller, alongside Pete Hegseth remaining influential, signals a more aggressive direction after what the creator describes as a historic Democratic midterm wave. He portrays Wiles as a limited moderating influence and Miller as an advocate of harsher immigration and dissent policies. The episode cites reports that liberal, left-wing, and human-rights groups could face attempts to classify them as terrorist-linked organizations, but presents this as unverified reporting. The creator predicts intensified immigration enforcement, political persecution, and suppression of dissent. He also expresses concern that tensions with Iran could escalate, mentioning possible use of a large bomb, ground invasion, or nuclear weapon as speculative possibilities rather than established plans. The episode closes by predicting severe political consequences for Republican senators and describing Trump’s movement in highly charged historical terms. Overall, it is an alarmed commentary built around reported personnel changes, unverified claims, and worst-case forecasts.",
+      "topics": [
+        "Trump administration personnel",
+        "Immigration and dissent",
+        "Iran escalation risks",
+        "U.S. partisan politics"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Stephen Miller was made chief of staff and Susie Wiles was removed or displaced.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            2,
+            5,
+            13,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "claim": "Reports indicated possible executive action targeting liberal, left-wing, or human-rights groups through terrorist-related classifications.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46
+          ]
+        },
+        {
+          "claim": "A major escalation involving Iran, including a large bomb, ground invasion, or nuclear weapon, was possible or under consideration.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            76,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89
+          ]
+        },
+        {
+          "claim": "The referenced midterm elections produced a historic Democratic wave.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            8,
+            9,
+            10,
+            111,
+            112,
+            114,
+            115
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator interprets personnel changes as evidence that Trump is rejecting moderation and empowering harsher advisers.",
+          "evidence_segment_indices": [
+            13,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ],
+          "start_seconds": 34.32,
+          "end_seconds": 85.36
+        },
+        {
+          "point": "The episode predicts intensified immigration enforcement and suppression of dissent.",
+          "evidence_segment_indices": [
+            34,
+            35,
+            36,
+            37,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55
+          ],
+          "start_seconds": 83.28,
+          "end_seconds": 139.2
+        },
+        {
+          "point": "The Iran discussion is explicitly framed through the creator’s fears and speculative worst-case scenarios.",
+          "evidence_segment_indices": [
+            76,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            95,
+            96,
+            97,
+            98
+          ],
+          "start_seconds": 180.879,
+          "end_seconds": 236.159
+        },
+        {
+          "point": "The creator predicts electoral damage for Republicans in 2028 and broader harm to the country.",
+          "evidence_segment_indices": [
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120
+          ],
+          "start_seconds": 252.0,
+          "end_seconds": 287.04
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "cd15aecca0721222b1df0b6c30778d2fe0d2f0b1a292fc4d19469382000723e6",
+      "transcript_captured_at": "2026-11-06T22:33:13.579232Z",
+      "summary_generated_at": "2026-11-06T22:38:27.727788Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a single commentary episode and does not independently establish the reported personnel changes or policy plans.",
+        "Several captions contain transcription defects, including names, profanity omissions, and politically charged terms.",
+        "Predictions about Iran and nuclear weapons are speculative and should not be treated as evidence of actual plans.",
+        "The episode provides no supporting documents, dates, or corroborating sources for its cited reports.",
+        "The summary preserves the creator’s allegations and rhetoric without endorsing them.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5214,261 +5388,6 @@
         "The source is a single commentary episode and does not include supporting documents, independent election returns, market data, or responses from accused parties.",
         "Many allegations and predictions are attributed to interviewees or the creator and should not be treated as established facts.",
         "Several political descriptions use ambiguous or potentially inconsistent terminology, limiting precision without external verification.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "ciOzNsSBk1g",
-      "title": "HOLY F*CK: DEEP BLUE MEGA-TSUNAMI ANNIHILATES MAGA | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=ciOzNsSBk1g",
-      "published_at": "2026-11-04T21:20:11.000000Z",
-      "summary": "Kyle Kulinski argues that a sweeping Democratic electoral victory represents an historic repudiation of Trump and MAGA, describing major gains in congressional, statewide, and traditionally Republican districts. He highlights projected Democratic control of the House and Senate, unusually large shifts among young men and other demographic groups, and wins by progressive or first-time candidates. Kulinski presents these results as evidence that left-wing candidates can succeed in competitive and conservative areas, while criticizing polling, national-party strategy, and media narratives. He also discusses reported voting problems, including incorrect polling information, ballot shortages, long lines, and equipment failures, but says these issues did not prevent a decisive Democratic showing. The episode ends with a call for Democrats to use their power aggressively: investigate alleged misconduct, constrain the Trump administration, advance labor and social-welfare legislation, and make presidential vetoes politically consequential. The transcript is highly partisan and includes numerous predictions, allegations, and potentially garbled names or figures.",
-      "topics": [
-        "2026 election results",
-        "Democratic gains",
-        "MAGA backlash",
-        "Progressive candidates",
-        "Voting access"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Democrats were projected to win about 255 House seats and potentially hold the largest congressional majority in 18 years.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            173,
-            174,
-            175,
-            176,
-            177
-          ]
-        },
-        {
-          "claim": "Nationwide results showed an approximately 16-point shift toward Democrats, including substantial movement among young men and Hispanic voters.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            178,
-            179,
-            180,
-            181,
-            191,
-            194,
-            206,
-            207,
-            208,
-            859,
-            860,
-            896,
-            899,
-            900
-          ]
-        },
-        {
-          "claim": "Multiple traditionally Republican or strongly pro-Trump districts were won by Democratic candidates, including districts in North Carolina, Florida, Kentucky, and Alabama.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            657,
-            658,
-            668,
-            669,
-            675,
-            676,
-            677,
-            730,
-            737,
-            759,
-            760,
-            824,
-            825,
-            826,
-            827,
-            828
-          ]
-        },
-        {
-          "claim": "Voting-related problems included misleading polling-location texts, a ballot shortage, long lines, and voting-machine issues.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            1111,
-            1112,
-            1113,
-            1114,
-            1115,
-            1116,
-            1130,
-            1131,
-            1132,
-            1133,
-            1137,
-            1138,
-            1139,
-            1140,
-            1146,
-            1150,
-            1151,
-            1184,
-            1185,
-            1186,
-            1194,
-            1195
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that DOJ election monitors acted outside their legal authority in New Mexico and Michigan and may have suppressed turnout.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            1045,
-            1046,
-            1047,
-            1048,
-            1049,
-            1050,
-            1051,
-            1101,
-            1102,
-            1103,
-            1104,
-            1105,
-            1106,
-            1107,
-            1108,
-            1109
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames the election as a historic Democratic wave and the collapse of MAGA.",
-          "evidence_segment_indices": [
-            62,
-            63,
-            64,
-            68,
-            69,
-            166,
-            167,
-            168,
-            169,
-            170,
-            731,
-            732
-          ],
-          "start_seconds": 215.28,
-          "end_seconds": 1694.08
-        },
-        {
-          "point": "He emphasizes unexpected Democratic wins in conservative or pro-Trump territory as evidence that progressive candidates can compete broadly.",
-          "evidence_segment_indices": [
-            627,
-            628,
-            632,
-            633,
-            642,
-            643,
-            644,
-            645,
-            759,
-            760,
-            761,
-            798,
-            799,
-            800,
-            801,
-            816,
-            817,
-            818
-          ],
-          "start_seconds": 1469.2,
-          "end_seconds": 1863.44
-        },
-        {
-          "point": "The episode celebrates several candidate breakthroughs and representation milestones, including the first openly gay man elected to the Senate and the first Black woman elected governor of a state.",
-          "evidence_segment_indices": [
-            265,
-            266,
-            267,
-            268,
-            269,
-            694,
-            695,
-            696,
-            697,
-            1031,
-            1032,
-            1033,
-            1034,
-            1035
-          ],
-          "start_seconds": 680.48,
-          "end_seconds": 2315.68
-        },
-        {
-          "point": "Kulinski urges Democrats to investigate alleged wrongdoing, oppose further wars, and pursue labor, healthcare, affordability, and tax policies.",
-          "evidence_segment_indices": [
-            933,
-            934,
-            935,
-            936,
-            937,
-            938,
-            942,
-            943,
-            944,
-            945,
-            946,
-            947,
-            948,
-            1214,
-            1215,
-            1216,
-            1219,
-            1220,
-            1235,
-            1236,
-            1237,
-            1246,
-            1247,
-            1248
-          ],
-          "start_seconds": 2106.48,
-          "end_seconds": 2721.92
-        },
-        {
-          "point": "He acknowledges that the election was not a final political victory and says Democrats must deliver on their agenda.",
-          "evidence_segment_indices": [
-            1208,
-            1209,
-            1211,
-            1212,
-            1213,
-            1214,
-            1251,
-            1252,
-            1253,
-            1258,
-            1259,
-            1261,
-            1262
-          ],
-          "start_seconds": 2646.079,
-          "end_seconds": 2747.599
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "42f2cabd47162738b64c6d8230c7efb5132d11ad56c3e060e716bc34662f7c71",
-      "transcript_captured_at": "2026-11-05T20:03:26.307849Z",
-      "summary_generated_at": "2026-11-05T20:09:22.310205Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains extensive automatic-caption defects, profanity redactions, overlapping segments, and unclear or misspelled names.",
-        "Many numerical results, projections, candidate identities, and historical comparisons are presented only through Kulinski's commentary and are not independently established here.",
-        "Some statements are predictions or interpretations rather than confirmed outcomes, especially where the transcript uses terms such as projected, expected, or likely.",
-        "The episode's rhetoric is strongly partisan, and allegations about officials, candidates, media actors, election conduct, and public figures require independent verification.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
