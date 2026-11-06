@@ -1,11 +1,241 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T16:42:01.191203Z",
+  "generated_at": "2026-11-06T20:42:01.147917Z",
   "reporting_window": {
-    "start": "2026-10-30T16:42:01.191203Z",
-    "end": "2026-11-06T16:42:01.191203Z"
+    "start": "2026-10-30T20:42:01.147917Z",
+    "end": "2026-11-06T20:42:01.147917Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "uZm8hFPrnSQ",
+      "title": "🚨Trump FIRES Chief of Staff as Musk Faces TURMOIL, White House in CHAOS!!!!",
+      "url": "https://www.youtube.com/watch?v=uZm8hFPrnSQ",
+      "published_at": "2026-11-06T19:16:01.000000Z",
+      "summary": "Aaron Parnas presents a commentary episode about an announced White House personnel change, saying Susie Wilds will leave the chief-of-staff position and Steven Miller will assume it while Wilds moves to the Trump political operation. The episode frames Miller’s promotion as a consequential shift toward more aggressive immigration and executive policies, but these characterizations are presented by Parnas and interview guests rather than independently established in the source. It also discusses scrutiny facing Elon Musk, including claims that lawmakers may investigate him and criticism of his activities in Texas. An incoming Texas governor is quoted emphasizing that any relationship with Musk should operate on state terms and that public beaches should remain accessible. Later, White House correspondent Luke Rael attributes the change to post-election panic and predicts a more centralized, confrontational administration under Miller. The episode also includes political commentary about election results, factional conflict, and the Republican Party’s future. The transcript contains overlapping captions, unclear names, and several unverified assertions.",
+      "topics": [
+        "White House staffing change",
+        "Steven Miller’s expanded role",
+        "Elon Musk and political scrutiny",
+        "Texas government and public beaches",
+        "Post-election Republican politics"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Donald Trump announced that Steven Miller would become White House chief of staff and that Susie Wilds would move to the Trump political operation.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            10,
+            11,
+            12,
+            13,
+            34,
+            35,
+            37,
+            38,
+            39,
+            40,
+            41
+          ]
+        },
+        {
+          "claim": "The episode says lawmakers are planning investigations involving Elon Musk and other Trump-aligned figures.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            20,
+            21,
+            22,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            102,
+            103,
+            104
+          ]
+        },
+        {
+          "claim": "The episode reports that the incoming Texas governor opposed selling beaches to Elon Musk and said cooperation should occur on Texas’s terms.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85
+          ]
+        },
+        {
+          "claim": "The episode states that the administration and Republican Party suffered an historically severe midterm defeat.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            245,
+            246,
+            247,
+            250,
+            251
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The central development is a reported transition from Susie Wilds to Steven Miller as chief of staff.",
+          "evidence_segment_indices": [
+            10,
+            11,
+            12,
+            13,
+            31,
+            34,
+            37,
+            38,
+            39,
+            40
+          ],
+          "start_seconds": 21.119,
+          "end_seconds": 82.64
+        },
+        {
+          "point": "Parnas and interviewees interpret Miller’s promotion as favoring a more top-down and confrontational governing style.",
+          "evidence_segment_indices": [
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            199,
+            200,
+            201,
+            202,
+            212,
+            213,
+            214,
+            215,
+            224,
+            225,
+            226,
+            227,
+            228
+          ],
+          "start_seconds": 395.199,
+          "end_seconds": 492.0
+        },
+        {
+          "point": "The episode links Musk to prospective investigations, congressional criticism, and political resistance in Texas and Virginia.",
+          "evidence_segment_indices": [
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            66,
+            67,
+            68,
+            69,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103
+          ],
+          "start_seconds": 119.759,
+          "end_seconds": 235.04
+        },
+        {
+          "point": "A Texas political figure argues for bipartisan cooperation and says public schools and community priorities should guide the transition team.",
+          "evidence_segment_indices": [
+            109,
+            110,
+            111,
+            112,
+            113,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140
+          ],
+          "start_seconds": 243.84,
+          "end_seconds": 317.199
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "6a9bed10cc2aa0e545c942efb706bf8fb6670c45d9dc2efc1e107d416a6417ce",
+      "transcript_captured_at": "2026-11-06T20:33:12.992596Z",
+      "summary_generated_at": "2026-11-06T20:38:28.444520Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a single commentary video and does not independently document the reported announcements, investigations, election results, or legal claims.",
+        "Captions contain apparent transcription errors and unclear names, including references to Wilds, Miller, and Texas officials.",
+        "Several statements are predictions, allegations, or political opinions attributed to the host and interview guests rather than verified findings.",
+        "Overlapping segments and repeated wording make some quotations and speaker transitions ambiguous.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5239,198 +5469,6 @@
         "Many numerical results, projections, candidate identities, and historical comparisons are presented only through Kulinski's commentary and are not independently established here.",
         "Some statements are predictions or interpretations rather than confirmed outcomes, especially where the transcript uses terms such as projected, expected, or likely.",
         "The episode's rhetoric is strongly partisan, and allegations about officials, candidates, media actors, election conduct, and public figures require independent verification.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "vBXjZU6Oh8I",
-      "title": "Vance KNIFES Trump as Infighting EXPLODES, White House PARALYZED!!!",
-      "url": "https://www.youtube.com/watch?v=vBXjZU6Oh8I",
-      "published_at": "2026-11-04T18:49:20.000000Z",
-      "summary": "Aaron Parnas presents the episode as an account of escalating Republican divisions, arguing that Vice President J.D. Vance publicly blamed the war in Iran for an election loss and pressured President Donald Trump to confront that explanation. Parnas says Trump effectively endorsed Vance’s position while focusing publicly on a White House ballroom, and he portrays possible questions about Defense Secretary Pete Hoekstra’s future as evidence of broader turmoil. The episode then features Pennsylvania Governor Josh Shapiro, who attributes Democratic gains to voter concerns about prices, tariffs, and government performance. Shapiro says Democrats won statewide, legislative, and congressional victories, and outlines a proposed agenda including a $15 minimum wage, abortion-rights legislation, infrastructure, schools, and housing. He also argues that Democrats must govern effectively while holding Trump and his administration accountable. The transcript consists largely of commentary and interview claims; election results, personnel deliberations, policy outcomes, and causal explanations are not independently established here.",
-      "topics": [
-        "Republican infighting",
-        "J.D. Vance and Donald Trump",
-        "Pennsylvania election results",
-        "Democratic policy agenda"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Vance attributed the election loss to the war in Iran, and Trump reportedly agreed with him.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            20,
-            21,
-            29,
-            34,
-            35,
-            36,
-            37
-          ]
-        },
-        {
-          "claim": "Democrats won the Pennsylvania statewide, legislative, and congressional victories described by Shapiro.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            79,
-            80,
-            81,
-            105,
-            107,
-            108,
-            114,
-            115,
-            116
-          ]
-        },
-        {
-          "claim": "Trump was considering replacing Defense Secretary Pete Hoekstra.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames Vance’s statement as a public break with Trump and links it to Republican turmoil.",
-          "evidence_segment_indices": [
-            15,
-            17,
-            18,
-            19,
-            20,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32
-          ],
-          "start_seconds": 31.68,
-          "end_seconds": 77.12
-        },
-        {
-          "point": "Trump is shown discussing ballroom construction rather than election results, according to the episode’s presentation.",
-          "evidence_segment_indices": [
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            56,
-            57,
-            58
-          ],
-          "start_seconds": 86.96,
-          "end_seconds": 139.092
-        },
-        {
-          "point": "Shapiro says voters responded to concerns about prices, tariffs, and government performance.",
-          "evidence_segment_indices": [
-            84,
-            85,
-            86,
-            91,
-            92,
-            94,
-            95,
-            96,
-            100,
-            101,
-            102,
-            103
-          ],
-          "start_seconds": 184.852,
-          "end_seconds": 229.412
-        },
-        {
-          "point": "Shapiro proposes a $15 minimum wage and additional Pennsylvania measures on abortion rights, infrastructure, schools, and housing.",
-          "evidence_segment_indices": [
-            197,
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            212,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            222,
-            223
-          ],
-          "start_seconds": 431.775,
-          "end_seconds": 493.817
-        },
-        {
-          "point": "Shapiro says Democrats must deliver results while defending vulnerable congressional seats.",
-          "evidence_segment_indices": [
-            238,
-            239,
-            240,
-            244,
-            245,
-            250,
-            252,
-            253,
-            256,
-            257,
-            258,
-            262,
-            263,
-            264,
-            265,
-            266,
-            267,
-            268,
-            269,
-            316,
-            317,
-            318,
-            319,
-            320
-          ],
-          "start_seconds": 519.377,
-          "end_seconds": 707.978
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "29918e5ab5b3737dc8eba080ac5ac6157aa1327b0a38e8967dcf0c22fbdf1918",
-      "transcript_captured_at": "2026-11-05T19:03:38.672575Z",
-      "summary_generated_at": "2026-11-05T19:09:28.767398Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript provides no independent election data, official statements, or corroboration for reported personnel deliberations.",
-        "Several conclusions about why voters acted are interviewees’ interpretations rather than demonstrated causal findings.",
-        "Caption segmentation overlaps heavily and includes informal or potentially imprecise wording.",
-        "The episode’s coverage is source-only and does not establish the broader political context or policy feasibility.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
