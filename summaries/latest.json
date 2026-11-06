@@ -1,11 +1,227 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T16:12:01.202314Z",
+  "generated_at": "2026-11-06T16:42:01.191203Z",
   "reporting_window": {
-    "start": "2026-10-30T16:12:01.202314Z",
-    "end": "2026-11-06T16:12:01.202314Z"
+    "start": "2026-10-30T16:42:01.191203Z",
+    "end": "2026-11-06T16:42:01.191203Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "E5Anf-cBwzI",
+      "title": "'JUMPING SHIP' — Bloodbath EXPLODES as Trump White House Faces a TERRIFYING Reality!!",
+      "url": "https://www.youtube.com/watch?v=E5Anf-cBwzI",
+      "published_at": "2026-11-06T15:26:43.000000Z",
+      "summary": "Aaron Parnas presents the episode as a rapid account of political, legal, and business turbulence surrounding Donald Trump and his allies, while emphasizing that these developments amount to a broader breakdown in Washington. He says two senior Justice Department officials have recently departed, including the U.S. attorney for the Southern District of Florida, and frames the changes as evidence of escalating internal conflict. Parnas also discusses claims that Defense Secretary Pete Hegseth faces congressional and Republican pressure, including possible impeachment efforts, while noting that Trump is reviewing options involving Iran. The episode then turns to Elon Musk, linking reported political losses, market declines, and Tesla’s planned Cybertruck production ending to a backlash against his political involvement. Finally, Parnas covers a court order blocking a proposed 250-foot arch and features a Vietnam veteran’s argument that the project would dishonor veterans’ memory. The account is commentary-driven, and several names, figures, events, and legal or political claims require independent verification.",
+      "topics": [
+        "Trump administration",
+        "Justice Department departures",
+        "Pete Hegseth pressure",
+        "Elon Musk and Tesla",
+        "Vietnam veterans memorial dispute"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Two senior Justice Department officials departed within two days, including the Southern District of Florida U.S. attorney, and the departures reflect escalating internal conflict.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            27,
+            29,
+            32,
+            44,
+            52,
+            53,
+            56,
+            58
+          ]
+        },
+        {
+          "claim": "Republicans and Democrats are aligning behind impeachment articles targeting Pete Hegseth, while Trump allies reportedly view his position as untenable.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            62,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            75,
+            76,
+            77,
+            78,
+            79
+          ]
+        },
+        {
+          "claim": "Elon Musk lost more than $100 billion in wealth over two days, while Tesla and SpaceX shares declined after the election.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            103,
+            104,
+            105,
+            113,
+            114,
+            115,
+            116,
+            117
+          ]
+        },
+        {
+          "claim": "A judge blocked a proposed 250-foot arch shortly after a commission approved it.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode opens by portraying Trump’s Washington environment as rapidly destabilizing, combining personnel departures, political pressure, and legal setbacks.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            10,
+            11,
+            12
+          ],
+          "start_seconds": 0.24,
+          "end_seconds": 31.279
+        },
+        {
+          "point": "Parnas focuses on Justice Department changes involving the Southern District of Florida and the civil rights division, but the supplied captions provide limited detail and contain apparent transcription errors.",
+          "evidence_segment_indices": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53
+          ],
+          "start_seconds": 57.039,
+          "end_seconds": 112.159
+        },
+        {
+          "point": "The discussion presents Hegseth as vulnerable to congressional and Republican criticism and connects the controversy to possible future Iran strikes.",
+          "evidence_segment_indices": [
+            61,
+            62,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            75,
+            76,
+            77,
+            78,
+            79,
+            100,
+            101,
+            102
+          ],
+          "start_seconds": 126.799,
+          "end_seconds": 217.12
+        },
+        {
+          "point": "Musk’s political spending, electoral outcomes, reported financial losses, and Cybertruck production plans are presented as signs of a broader backlash.",
+          "evidence_segment_indices": [
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121
+          ],
+          "start_seconds": 214.08,
+          "end_seconds": 258.239
+        },
+        {
+          "point": "The closing segment uses a Vietnam veteran’s testimony to explain opposition to the proposed arch as a matter of remembrance and honor.",
+          "evidence_segment_indices": [
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207
+          ],
+          "start_seconds": 289.199,
+          "end_seconds": 509.08
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "c9966dfa1e6e6f60c88cc5c6ad4e2704cc58d28e0b2a557161db68137db38876",
+      "transcript_captured_at": "2026-11-06T16:33:11.796554Z",
+      "summary_generated_at": "2026-11-06T16:38:28.759951Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The captions contain numerous apparent recognition errors affecting names, titles, places, organizations, and quotations.",
+        "The source is a single commentary episode and does not independently establish the reported political, financial, electoral, or legal claims.",
+        "Some statements are predictions, interpretations, or attributed allegations rather than confirmed outcomes.",
+        "The supplied excerpt ends during the presenter’s closing remarks and may omit additional context.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mike Figueredo — The Humanist Report",
       "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
@@ -5215,200 +5431,6 @@
         "Several conclusions about why voters acted are interviewees’ interpretations rather than demonstrated causal findings.",
         "Caption segmentation overlaps heavily and includes informal or potentially imprecise wording.",
         "The episode’s coverage is source-only and does not establish the broader political context or policy feasibility.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "Wu9rhXOqyQU",
-      "title": "Elon Musk PANICS as a RECKONING is Coming from Congress, he is TERRIFIED!!",
-      "url": "https://www.youtube.com/watch?v=Wu9rhXOqyQU",
-      "published_at": "2026-11-04T16:46:47.000000Z",
-      "summary": "Aaron Parnas argues that Elon Musk is facing a potential congressional reckoning, linking alleged tweet deletions and past political spending to possible investigations. The episode presents Democratic oversight as likely to expand across chambers and committees, with guests discussing accountability efforts involving Musk, the Trump administration, and other powerful figures. Indivisible’s Ezra Levin describes the election as a transformative Democratic breakthrough and advocates pairing investigations with affordability proposals, including expanded social programs. A Silicon Valley congressman predicts Democratic gains, supports investigations and possible impeachment, and proposes measures involving economic inequality, healthcare, childcare, and technology policy. The interviews also address foreign aid, alleged corruption, Epstein-related accountability, and the Democratic Party’s future leadership. Much of the episode consists of political commentary, predictions, advocacy, and allegations rather than independently documented evidence. Several names, offices, vote totals, election results, and policy claims are difficult to interpret because the captions contain transcription errors and limited context.",
-      "topics": [
-        "Elon Musk and congressional oversight",
-        "Democratic election gains",
-        "Political accountability and impeachment",
-        "Affordability and economic policy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The episode alleges that Musk rapidly deleted older tweets and is facing prepared investigations into his businesses, relationships, and government work.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            2,
-            4,
-            5,
-            6,
-            7,
-            28,
-            29,
-            30,
-            47,
-            48,
-            49
-          ]
-        },
-        {
-          "claim": "The episode states that Musk spent $440 million on one election and lost the investment.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "claim": "Guests claim Democrats won or were positioned to win majorities in Congress and state governments after the election.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            112,
-            113,
-            114,
-            123,
-            124,
-            125,
-            126,
-            193,
-            194,
-            195
-          ]
-        },
-        {
-          "claim": "A congressman alleges that Trump administration officials engaged in unlawful conduct and supports impeachment and investigations involving Musk and other officials.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            245,
-            250,
-            251,
-            252,
-            253,
-            254,
-            255,
-            256,
-            257,
-            258,
-            469,
-            470,
-            487,
-            488,
-            489
-          ]
-        },
-        {
-          "claim": "A congressman claims an Epstein-related bill had 218 signatures and could enable state attorneys general to investigate or prosecute Leon Black.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            544,
-            545,
-            546,
-            547,
-            558,
-            559,
-            560,
-            563,
-            564
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The host frames Musk as the central target of anticipated congressional oversight.",
-          "evidence_segment_indices": [
-            0,
-            4,
-            14,
-            20,
-            23,
-            24,
-            47,
-            48,
-            49
-          ],
-          "start_seconds": 0.08,
-          "end_seconds": 121.36
-        },
-        {
-          "point": "Guests describe Democratic gains as creating opportunities for broader investigations, accountability, and reform.",
-          "evidence_segment_indices": [
-            52,
-            53,
-            54,
-            55,
-            61,
-            62,
-            177,
-            178,
-            193,
-            194,
-            203,
-            204
-          ],
-          "start_seconds": 122.799,
-          "end_seconds": 430.08
-        },
-        {
-          "point": "Interviewees emphasize affordability, corruption, taxation, healthcare, childcare, and jobs as Democratic priorities.",
-          "evidence_segment_indices": [
-            217,
-            218,
-            219,
-            220,
-            221,
-            238,
-            239,
-            240,
-            386,
-            387,
-            388,
-            389,
-            390
-          ],
-          "start_seconds": 450.16,
-          "end_seconds": 804.88
-        },
-        {
-          "point": "The episode includes predictions about congressional control, future Democratic leadership, and a possible 2028 presidential field.",
-          "evidence_segment_indices": [
-            330,
-            331,
-            332,
-            335,
-            336,
-            337,
-            338,
-            345,
-            346,
-            601,
-            605,
-            606,
-            607,
-            608,
-            609,
-            610
-          ],
-          "start_seconds": 673.92,
-          "end_seconds": 1250.72
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "26d159c3af189a86bb19f5fc271a2372a6b5f0fa848c8234ed8fb4c6a4e3878b",
-      "transcript_captured_at": "2026-11-05T19:03:22.603662Z",
-      "summary_generated_at": "2026-11-05T19:08:47.175778Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The captions contain numerous transcription errors, garbled names, and unclear references.",
-        "Election outcomes, vote counts, polling figures, spending totals, and legislative claims are presented without supporting documentation in the source.",
-        "Some remarks are forecasts, advocacy, or allegations by interview participants rather than established findings.",
-        "The source provides limited context for referenced elections, offices, bills, and foreign-policy events.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
