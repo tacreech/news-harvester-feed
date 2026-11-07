@@ -1,11 +1,191 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T23:12:01.205556Z",
+  "generated_at": "2026-11-07T01:12:01.192080Z",
   "reporting_window": {
-    "start": "2026-10-30T23:12:01.205556Z",
-    "end": "2026-11-06T23:12:01.205556Z"
+    "start": "2026-10-31T01:12:01.192080Z",
+    "end": "2026-11-07T01:12:01.192080Z"
   },
   "episodes": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "EeNqB8cDI8E",
+      "title": "Please Don't Look This Up...",
+      "url": "https://www.youtube.com/watch?v=EeNqB8cDI8E",
+      "published_at": "2026-11-07T00:43:01.000000Z",
+      "summary": "The creator discusses a reported Linux-related authentication vulnerability involving certain SSH configurations, Alpine Linux components, Docker containers, and unusually long passwords. He explains that, under specific conditions, inputs exceeding a 256-byte limit could produce a special value that might be treated like a disabled-password marker, potentially allowing authentication. He emphasizes that the exposure appears limited to particular versions, configurations, and internet-facing systems, and says updated systems and unaffected SSH implementations reduce the risk. The episode also recounts the vulnerability’s historical development, including legacy password-handling behavior, later fixes, and subsequent patches. The creator characterizes the issue as technically serious but unlikely to affect most viewers, while warning that neglected containers or embedded devices could remain vulnerable. He closes by broadening the discussion to human error and risky software extensions as common security threats. The transcript contains garbled terminology and profanity substitutions, so technical names and some historical details are uncertain.",
+      "topics": [
+        "Linux authentication vulnerability",
+        "SSH and container security",
+        "Alpine Linux and password hashing",
+        "Patch exposure and risk",
+        "Cybersecurity hygiene"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Under specific conditions, passwords longer than 256 bytes could cause an authentication comparison to use a special marker and permit access.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            44,
+            61,
+            66,
+            68,
+            295,
+            297,
+            328,
+            332,
+            335,
+            342
+          ]
+        },
+        {
+          "claim": "The issue primarily affected particular outdated or specially configured Linux, Docker, SSH, or embedded-device environments rather than most users.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            191,
+            192,
+            193,
+            205,
+            206,
+            208,
+            210,
+            221,
+            222,
+            224,
+            398,
+            401,
+            408,
+            410,
+            413,
+            414
+          ]
+        },
+        {
+          "claim": "The vulnerability was patched, with the creator describing fixes to relevant hashing and authentication behavior.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            273,
+            274,
+            279,
+            281,
+            288,
+            298,
+            299,
+            307,
+            308,
+            311,
+            312,
+            350,
+            351,
+            371,
+            383
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode explains a reported authentication flaw involving long password inputs and special password markers.",
+          "evidence_segment_indices": [
+            134,
+            135,
+            207,
+            208,
+            288,
+            295,
+            296,
+            297,
+            331,
+            332,
+            335,
+            342
+          ],
+          "start_seconds": 294.88,
+          "end_seconds": 784.959
+        },
+        {
+          "point": "The creator says exploitation required several conditions, including affected versions, SSH exposure, and particular container or device configurations.",
+          "evidence_segment_indices": [
+            190,
+            191,
+            192,
+            193,
+            221,
+            222,
+            224,
+            227,
+            228,
+            357,
+            358,
+            408,
+            410,
+            415
+          ],
+          "start_seconds": 421.199,
+          "end_seconds": 950.079
+        },
+        {
+          "point": "He presents the practical risk to ordinary viewers as limited, while noting that forgotten or internet-facing systems could remain exposed.",
+          "evidence_segment_indices": [
+            76,
+            77,
+            78,
+            79,
+            80,
+            224,
+            225,
+            226,
+            227,
+            363,
+            364,
+            365,
+            416,
+            417,
+            418
+          ],
+          "start_seconds": 169.2,
+          "end_seconds": 957.12
+        },
+        {
+          "point": "The closing discussion emphasizes cautious installation of browser and programming extensions and the role of human behavior in security incidents.",
+          "evidence_segment_indices": [
+            489,
+            494,
+            495,
+            500,
+            501,
+            502,
+            503,
+            524,
+            525,
+            530,
+            531,
+            532,
+            534,
+            535,
+            538,
+            539
+          ],
+          "start_seconds": 1108.08,
+          "end_seconds": 1217.84
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "cd7ebee7bce0cdbc3ba5e3e7a9d0bca4cf3da07833d1c78186c371ddbaf071e7",
+      "transcript_captured_at": "2026-11-07T01:03:10.973403Z",
+      "summary_generated_at": "2026-11-07T01:08:26.643155Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Automatic captions contain garbled technical terms, including names of libraries, algorithms, and projects.",
+        "The transcript is creator commentary and does not independently establish the vulnerability’s technical details, affected versions, or exploitation history.",
+        "Some historical dates, software names, and causal explanations are difficult to distinguish because of transcription defects and overlapping phrasing.",
+        "The source provides no independent documentation, advisories, or testing results.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5091,225 +5271,6 @@
         "The source is an opinion segment that mixes quoted speech with Kulinski’s commentary and profanity.",
         "Several captions contain redactions, overlaps, and transcription defects, which may obscure wording or speaker attribution.",
         "The transcript provides source-only coverage and does not independently verify the election, spending, allegations, or historical comparisons.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "x7s_peKduiA",
-      "title": "DEFEATED Trump COPES & SEETHES Over HISTORIC REBUKE | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=x7s_peKduiA",
-      "published_at": "2026-11-04T22:15:28.000000Z",
-      "summary": "Kyle Kulinski argues that Donald Trump and his movement are struggling after what Kulinski describes as a major Democratic victory in the midterm elections. The episode centers on Trump’s public explanations for the result, including his statements that he was not on the ballot, that candidates failed to represent him, and that Fox News contributed to Republican losses. Kulinski interprets these remarks as efforts to shift blame and preserve Trump’s political standing. He contrasts Trump’s claims that he will work with Democrats with posts suggesting he will veto their legislation, presenting this as a contradiction. The discussion also examines Trump’s comments about rallies, polling, Republican candidates, and foreign-policy accomplishments. Kulinski further cites reports that Trump was angry and considering personnel changes, though those reports are presented through commentary rather than independently established evidence. The episode closes with Kulinski portraying the election as a broader repudiation of MAGA and encouraging viewers to see the result as an opening for Democrats.",
-      "topics": [
-        "U.S. midterm elections",
-        "Donald Trump’s election response",
-        "Republican campaign strategy",
-        "Fox News and conservative media",
-        "MAGA movement"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Democrats won the House and were projected to win the Senate in the elections discussed.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            67,
-            68,
-            69,
-            70,
-            71,
-            72
-          ]
-        },
-        {
-          "claim": "Trump advisers privately said the results were too large to challenge broadly.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        },
-        {
-          "claim": "Trump’s approval or support figures and the reported decline in the MAGA-identifying population were accurately characterized.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            222,
-            228,
-            229,
-            230
-          ]
-        },
-        {
-          "claim": "Fox News ratings declined by 27 percent and other right-wing media outlets also experienced declines.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            195,
-            196,
-            197,
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            244,
-            245,
-            246,
-            249,
-            250,
-            251,
-            252
-          ]
-        },
-        {
-          "claim": "Reports said Trump was angry, secluded, and considering removing Susie Wiles and Marco Rubio.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            755,
-            756,
-            757,
-            758,
-            759,
-            760,
-            761,
-            762,
-            763,
-            764,
-            765,
-            766,
-            767,
-            768,
-            769
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski attributes Trump’s “not on the ballot” explanation to an effort to distance him from Republican losses.",
-          "evidence_segment_indices": [
-            73,
-            74,
-            75,
-            76,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            96,
-            97
-          ],
-          "start_seconds": 150.932,
-          "end_seconds": 203.092
-        },
-        {
-          "point": "The episode highlights an apparent tension between Trump saying he would work with Democrats and signaling that he would veto their proposals.",
-          "evidence_segment_indices": [
-            269,
-            270,
-            271,
-            272,
-            273,
-            274,
-            275,
-            276,
-            277,
-            278,
-            279,
-            280,
-            281,
-            282,
-            283,
-            284
-          ],
-          "start_seconds": 517.057,
-          "end_seconds": 544.617
-        },
-        {
-          "point": "Kulinski argues that Trump blamed candidates, Fox News, polling, and insufficient loyalty rather than reassessing his own political approach.",
-          "evidence_segment_indices": [
-            115,
-            116,
-            117,
-            118,
-            119,
-            129,
-            130,
-            131,
-            132,
-            194,
-            195,
-            196,
-            510,
-            511,
-            512,
-            513,
-            534,
-            535,
-            536,
-            537
-          ],
-          "start_seconds": 232.212,
-          "end_seconds": 967.421
-        },
-        {
-          "point": "Kulinski presents the election as a broad rejection of MAGA and a strategic opportunity for Democrats.",
-          "evidence_segment_indices": [
-            7,
-            8,
-            9,
-            10,
-            112,
-            113,
-            114,
-            719,
-            720,
-            721,
-            722,
-            723,
-            724,
-            725,
-            726,
-            727,
-            810,
-            811,
-            812,
-            813
-          ],
-          "start_seconds": 13.52,
-          "end_seconds": 1472.788
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "befa17e4d8ed7a5eb0b9d71763edd9ba16a306289cd863fb099548d17c2389b7",
-      "transcript_captured_at": "2026-11-05T20:33:13.446369Z",
-      "summary_generated_at": "2026-11-05T20:38:27.240748Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview reflects one commentator’s framing and excerpts from a caption transcript, not independently verified reporting.",
-        "Several captions contain transcription errors, overlapping speech, laughter markers, profanity, and unclear names or phrases.",
-        "Election totals, polling figures, media ratings, foreign-policy assertions, and personnel reports require independent verification.",
-        "Some quoted statements are presented without the surrounding source material needed to establish their context.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
