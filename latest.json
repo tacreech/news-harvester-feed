@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T19:00:15.298066Z",
+  "generated_at": "2026-11-07T19:30:51.530863Z",
   "reporting_window": {
-    "start": "2026-10-31T19:00:15.298066Z",
-    "end": "2026-11-07T19:00:15.298066Z",
+    "start": "2026-10-31T19:30:51.530863Z",
+    "end": "2026-11-07T19:30:51.530863Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,16 +14,16 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-07T19:00:13.518410Z",
+      "last_successful_poll": "2026-11-07T19:30:49.724182Z",
       "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_new",
-      "discovery_status": "success_new",
-      "last_successful_poll": "2026-11-07T19:00:14.096995Z",
+      "health": "success_no_new",
+      "discovery_status": "success_no_new",
+      "last_successful_poll": "2026-11-07T19:30:49.948329Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-07T19:00:14.306214Z",
+      "last_successful_poll": "2026-11-07T19:30:50.529784Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-07T19:00:14.558176Z",
+      "last_successful_poll": "2026-11-07T19:30:50.789463Z",
       "warnings": []
     },
     {
@@ -50,7 +50,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-07T19:00:15.092072Z",
+      "last_successful_poll": "2026-11-07T19:30:51.407547Z",
       "warnings": []
     }
   ],
@@ -305,7 +305,7 @@
       "first_seen": "2026-11-06T16:30:53.833092Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "discovered"
+      "transcript_status": "captions_ready"
     },
     {
       "creator": "Aaron Parnas",
@@ -941,7 +941,7 @@
       "first_seen": "2026-11-04T19:00:13.792993Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "captions_ready"
+      "transcript_status": "expired"
     },
     {
       "creator": "Aaron Parnas",
@@ -989,7 +989,7 @@
       "first_seen": "2026-11-04T17:00:11.075478Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "captions_ready"
+      "transcript_status": "expired"
     },
     {
       "creator": "Aaron Parnas",
@@ -1085,7 +1085,7 @@
       "first_seen": "2026-11-03T23:00:43.159591Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "discovered"
+      "transcript_status": "permanent_failure"
     },
     {
       "creator": "Aaron Parnas",
@@ -1301,7 +1301,7 @@
       "first_seen": "2026-11-03T23:00:42.085986Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "captions_ready"
+      "transcript_status": "expired"
     },
     {
       "creator": "Aaron Parnas",
@@ -1325,7 +1325,7 @@
       "first_seen": "2026-11-03T22:00:33.143356Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "captions_ready"
+      "transcript_status": "expired"
     },
     {
       "creator": "Kyle Kulinski — Secular Talk",
@@ -1565,7 +1565,7 @@
       "first_seen": "2026-11-03T02:00:16.323506Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "discovered"
+      "transcript_status": "captions_ready"
     },
     {
       "creator": "Aaron Parnas",
@@ -1589,7 +1589,7 @@
       "first_seen": "2026-11-03T02:00:16.323506Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "discovered"
+      "transcript_status": "captions_ready"
     },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
