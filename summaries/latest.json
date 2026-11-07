@@ -1,11 +1,197 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T01:42:01.188817Z",
+  "generated_at": "2026-11-07T04:42:01.213980Z",
   "reporting_window": {
-    "start": "2026-10-31T01:42:01.188817Z",
-    "end": "2026-11-07T01:42:01.188817Z"
+    "start": "2026-10-31T04:42:01.213980Z",
+    "end": "2026-11-07T04:42:01.213980Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "CFSMbo6XQ28",
+      "title": "RUSSELL BRAND GUILTY OF R*PE",
+      "url": "https://www.youtube.com/watch?v=CFSMbo6XQ28",
+      "published_at": "2026-11-07T01:05:01.000000Z",
+      "summary": "Kyle Kulinski and journalist Abby Martin discuss, in strongly critical terms, Russell Brand’s reported guilty verdict, his religious and political repositioning, and allegations described in a Channel 4 documentary. They characterize Brand’s media trajectory as opportunistic, while recalling an interview in which he struggled to identify a biblical passage. The conversation then turns to Martin’s documentary, which she says spent six years examining the scale of US-led military pollution and argues that military emissions are often excluded or voluntarily reported in climate accounting. Martin presents a broader interpretation of US military power as supporting resource extraction and imperial structures. The speakers also compare Donald Trump’s conduct and foreign policy with the George W. Bush era, arguing that current actions are more explicit and less constrained by institutional norms. They speculate that wars, tariffs, and foreign policy influenced public sentiment and elections. The transcript is opinionated, contains apparent caption errors, and presents allegations and interpretations without independent corroboration.",
+      "topics": [
+        "Russell Brand case and media career",
+        "Military pollution and climate accounting",
+        "US foreign policy and empire",
+        "Trump compared with George W. Bush"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The discussion states that Russell Brand was found guilty and that two additional people approached police during the trial.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            12,
+            13,
+            29,
+            30
+          ]
+        },
+        {
+          "claim": "The speakers refer to documentary evidence that allegedly includes messages in which Brand apologizes for rape.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            147,
+            150,
+            151,
+            152,
+            153
+          ]
+        },
+        {
+          "claim": "Martin says military emissions are not counted in annual climate conferences and that reporting under the Paris framework is voluntary.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            223,
+            227,
+            234,
+            244,
+            245,
+            248,
+            249,
+            250
+          ]
+        },
+        {
+          "claim": "The speakers assert that military pollution has caused poisoned water and serious health effects at military sites, including Camp Lejeune.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            260,
+            261,
+            330,
+            331,
+            332,
+            333,
+            334,
+            335,
+            336,
+            337,
+            338,
+            339
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski and Martin criticize Brand’s ideological and religious pivot as a route into alternative-media circles.",
+          "evidence_segment_indices": [
+            18,
+            21,
+            34,
+            38,
+            43,
+            46,
+            51,
+            52,
+            55,
+            62,
+            63,
+            66,
+            67,
+            68
+          ],
+          "start_seconds": 29.279,
+          "end_seconds": 135.76
+        },
+        {
+          "point": "Martin describes her documentary as a six-year effort that expanded from military emissions accounting into a broader examination of military pollution and resource extraction.",
+          "evidence_segment_indices": [
+            222,
+            223,
+            225,
+            226,
+            227,
+            228,
+            231,
+            232,
+            233,
+            252,
+            253,
+            254,
+            255,
+            256
+          ],
+          "start_seconds": 469.199,
+          "end_seconds": 544.24
+        },
+        {
+          "point": "The speakers argue that US military power helps preserve systems benefiting fossil-fuel extraction and other dominant institutions.",
+          "evidence_segment_indices": [
+            265,
+            266,
+            268,
+            293,
+            294,
+            295,
+            296,
+            297,
+            298,
+            299,
+            302,
+            303,
+            393,
+            394,
+            395,
+            396,
+            397,
+            398,
+            399,
+            400
+          ],
+          "start_seconds": 558.399,
+          "end_seconds": 848.24
+        },
+        {
+          "point": "They characterize Trump’s foreign policy as more openly imperial than Bush’s and connect war, tariffs, and economic pressures to public reaction.",
+          "evidence_segment_indices": [
+            359,
+            360,
+            361,
+            362,
+            363,
+            364,
+            374,
+            375,
+            376,
+            417,
+            422,
+            426,
+            441,
+            445,
+            570,
+            571,
+            573,
+            574,
+            575,
+            638,
+            639,
+            645,
+            646
+          ],
+          "start_seconds": 751.36,
+          "end_seconds": 1336.96
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "4f2740fab7c974daf702b0cb28b128c8cf3a86b81367c87ba72621f127633518",
+      "transcript_captured_at": "2026-11-07T04:33:14.302625Z",
+      "summary_generated_at": "2026-11-07T04:38:25.489348Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is caption-derived and contains omissions, profanity placeholders, misheard names, and fragmented passages.",
+        "The source is a single opinion-driven conversation; allegations, historical claims, polling references, and legal assertions require independent verification.",
+        "The excerpt ends mid-discussion, so it does not provide a complete episode overview.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
@@ -5124,216 +5310,6 @@
         "Some captions contain profanity redactions, transcription errors, and ambiguous names or phrases.",
         "The transcript blends quoted material attributed to Vance with Kulinski’s commentary; boundaries are occasionally unclear.",
         "The source is strongly partisan and rhetorical, so allegations and predictions should not be treated as established facts.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "YH_NwdtJepw",
-      "title": "Please Never Use Google Search Again...",
-      "url": "https://www.youtube.com/watch?v=YH_NwdtJepw",
-      "published_at": "2026-11-04T23:03:58.000000Z",
-      "summary": "The creator argues that Google is tying AI features to search in ways that could pressure schools and students to use Gemini. He focuses on claims that schools can disable AI services only at the cost of losing Google Search, while Google’s stated position is that services are off by default for K–12 accounts and can be managed individually. He criticizes AI overviews and guided-learning tools as potential substitutes for source evaluation, teachers, and independent work, while acknowledging that assistive uses can be legitimate. The episode broadens into concerns about Google’s default distribution agreements, alleged effects on publishers, sponsored-search risks, and the concentration of online access within large technology companies. The creator recommends developing research skills, comparing sources, and considering alternatives such as self-hosted metasearch tools. Because the transcript mainly presents the creator’s commentary and excerpts from purported announcements or legal materials, the underlying policy details, legal claims, and examples require independent verification.",
-      "topics": [
-        "Google Search and Gemini",
-        "AI in schools",
-        "Research and critical thinking",
-        "Search advertising and competition",
-        "Technology centralization"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The creator says schools that disable Google’s AI services lose access to Google Search, while Google’s quoted response says schools can control services individually.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            9,
-            10,
-            11,
-            12,
-            261,
-            267,
-            273
-          ]
-        },
-        {
-          "claim": "The creator attributes to a legal opinion the conclusion that Google maintained a monopoly in general search and advertising under Section 2 of the Sherman Act.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            323,
-            324,
-            325,
-            326,
-            327,
-            388,
-            389,
-            390,
-            391,
-            392
-          ]
-        },
-        {
-          "claim": "The creator says Chegg alleged that Google used search-market power to obtain publisher content for Gemini and that the case was dismissed.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            365,
-            366,
-            367,
-            368,
-            369,
-            370,
-            371,
-            372,
-            373,
-            374,
-            375,
-            376,
-            377,
-            378,
-            379,
-            380,
-            381,
-            382,
-            383,
-            384,
-            385
-          ]
-        },
-        {
-          "claim": "The creator describes a malicious sponsored result appearing for a Homebrew search and links it to a supply-chain attack account.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            400,
-            401,
-            402,
-            403,
-            404,
-            405,
-            406,
-            412,
-            413,
-            414,
-            418,
-            419,
-            420
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode’s central criticism is that integrating AI overviews with search may make ordinary searching inseparable from AI features.",
-          "evidence_segment_indices": [
-            120,
-            121,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130
-          ],
-          "start_seconds": 252.799,
-          "end_seconds": 279.44
-        },
-        {
-          "point": "The creator worries that guided AI learning and generated schoolwork could weaken independent learning and source-evaluation skills.",
-          "evidence_segment_indices": [
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            97,
-            98,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249
-          ],
-          "start_seconds": 132.56,
-          "end_seconds": 533.6
-        },
-        {
-          "point": "He presents Google’s default placement across browsers and devices as a major reason for its reach, while noting that users can select alternatives.",
-          "evidence_segment_indices": [
-            331,
-            332,
-            333,
-            334,
-            335,
-            336,
-            337,
-            338,
-            339,
-            340,
-            341,
-            342,
-            343,
-            344,
-            347,
-            348,
-            349,
-            350,
-            351,
-            352,
-            353,
-            354,
-            355
-          ],
-          "start_seconds": 700.56,
-          "end_seconds": 756.8
-        },
-        {
-          "point": "He recommends comparing sources and considers SearXNG or self-hosted tools as ways to reduce dependence on Google.",
-          "evidence_segment_indices": [
-            231,
-            232,
-            233,
-            444,
-            445,
-            446,
-            447,
-            448,
-            449,
-            450,
-            451,
-            452,
-            458,
-            459,
-            460,
-            461,
-            462,
-            463,
-            464,
-            465
-          ],
-          "start_seconds": 490.8,
-          "end_seconds": 993.759
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "2e7cd98d1326fd8afce98f9136a2c1bf5ff93f31930f0028add157bc1fd07a39",
-      "transcript_captured_at": "2026-11-05T18:03:34.936235Z",
-      "summary_generated_at": "2026-11-05T18:09:31.838433Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is an automatic caption record with repetitions, profanity, laughter markers, and apparent recognition errors.",
-        "Several quoted policy, legal, and business claims are presented without the underlying documents or full context.",
-        "The overview reflects one creator’s commentary and examples; it does not establish the accuracy or generality of those allegations.",
-        "Some product names and dates may be captioned inaccurately and should be checked against primary sources.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
