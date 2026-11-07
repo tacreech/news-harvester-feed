@@ -1,11 +1,192 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T19:12:01.214745Z",
+  "generated_at": "2026-11-07T22:42:01.187666Z",
   "reporting_window": {
-    "start": "2026-10-31T19:12:01.214745Z",
-    "end": "2026-11-07T19:12:01.214745Z"
+    "start": "2026-10-31T22:42:01.187666Z",
+    "end": "2026-11-07T22:42:01.187666Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "KitOjaaKdwQ",
+      "title": "Trump ERUPTS and Orders MASS ARRESTS as Republicans REVOLT, it is URGENT!!!",
+      "url": "https://www.youtube.com/watch?v=KitOjaaKdwQ",
+      "published_at": "2026-11-07T21:24:39.000000Z",
+      "summary": "Aaron Parnas argues that Donald Trump has escalated rhetoric against Democratic lawmakers, journalists, and others involved in oversight, portraying Trump’s Justice Department post as a call to investigate alleged “extortion.” Parnas says the lawmakers described in the episode are pursuing oversight, subpoenas, and investigations rather than impeachment, while Trump’s accusations misrepresent their stated actions. He also reports Republican dissatisfaction with Steven Miller’s promotion, citing claims that Miller’s immigration policies harmed Republicans politically and angered constituents. The episode includes an allegation from a former Trump official concerning a glyphosate-related executive order and claims that officials were prevented from challenging it. Parnas further discusses a judge’s appointment of a former federal prosecutor to examine whether Trump’s lawyers misled the court. The episode closes with an unverified political development in Israel involving Netanyahu’s possible loss of power. The material is a commentary segment based largely on attributed statements, reported accounts, and the creator’s interpretations.",
+      "topics": [
+        "Trump and Justice Department rhetoric",
+        "Congressional oversight and subpoenas",
+        "Republican criticism of Steven Miller",
+        "Glyphosate executive-order allegation",
+        "Israeli coalition politics"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Trump ordered the Justice Department to investigate alleged threats or extortion involving Democratic lawmakers and others.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            40,
+            45,
+            50,
+            51,
+            54,
+            55
+          ]
+        },
+        {
+          "claim": "Republican lawmakers criticized Steven Miller’s promotion and blamed his immigration policies for political damage.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            120,
+            123,
+            126,
+            128,
+            132,
+            137,
+            140,
+            145,
+            148,
+            149
+          ]
+        },
+        {
+          "claim": "A former Trump official alleged that officials advanced a glyphosate-related executive order as a national-security measure despite internal objections.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            153,
+            157,
+            161,
+            164,
+            169,
+            172,
+            176,
+            180,
+            187,
+            190
+          ]
+        },
+        {
+          "claim": "A federal judge appointed a former federal prosecutor to examine whether Trump or his lawyers lied to the court.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            199,
+            201,
+            203,
+            204,
+            206,
+            215,
+            218
+          ]
+        },
+        {
+          "claim": "Israel’s president offered the opposition leader an opportunity to form a government, potentially threatening Netanyahu’s position.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            222,
+            224,
+            225,
+            226,
+            227
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas characterizes Trump’s statements as targeting people involved in oversight and accountability.",
+          "evidence_segment_indices": [
+            26,
+            27,
+            28,
+            57,
+            58,
+            65,
+            66,
+            67,
+            74,
+            92,
+            95,
+            96,
+            97
+          ],
+          "start_seconds": 48.559,
+          "end_seconds": 186.72
+        },
+        {
+          "point": "The episode contrasts Trump’s “extortion” accusation with lawmakers’ stated focus on oversight, subpoenas, and investigations.",
+          "evidence_segment_indices": [
+            57,
+            59,
+            60,
+            61,
+            64,
+            65,
+            66,
+            67,
+            72,
+            73,
+            74
+          ],
+          "start_seconds": 107.28,
+          "end_seconds": 143.36
+        },
+        {
+          "point": "Reported Republican objections center on Steven Miller’s promotion and the perceived consequences of his immigration approach.",
+          "evidence_segment_indices": [
+            120,
+            121,
+            123,
+            124,
+            126,
+            128,
+            132,
+            135,
+            138,
+            140,
+            142,
+            148,
+            149
+          ],
+          "start_seconds": 241.36,
+          "end_seconds": 307.759
+        },
+        {
+          "point": "The episode presents allegations about a glyphosate order and possible misleading statements to a court as unresolved developments.",
+          "evidence_segment_indices": [
+            157,
+            161,
+            164,
+            172,
+            176,
+            180,
+            192,
+            199,
+            201,
+            203,
+            204,
+            219
+          ],
+          "start_seconds": 319.199,
+          "end_seconds": 466.0
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "852a5a01115530ac89abac3b1495b6641794cebcf2e3b8d410235d16df41fe8e",
+      "transcript_captured_at": "2026-11-07T22:33:17.172699Z",
+      "summary_generated_at": "2026-11-07T22:38:24.897627Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies only on the supplied transcript and does not independently verify its reported events or attributions.",
+        "Several captions contain apparent transcription, spelling, and name errors, including references to officials, lawmakers, and locations.",
+        "Some conclusions are the creator’s interpretations or predictions rather than documented outcomes.",
+        "The source provides limited context for the underlying court proceedings, executive order, and Israeli political developments.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4912,241 +5093,6 @@
         "The segment does not independently establish the election results, political control, or allegations about government actions and policy outcomes.",
         "Some statements are sarcastic, hyperbolic, or explicitly framed as jokes, making literal interpretation uncertain.",
         "The overview reflects this excerpt and does not establish the full context of the original stream or episode.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "ekq2HHgTgO0",
-      "title": "KYLE BATHES IN MAGA TEARS | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=ekq2HHgTgO0",
-      "published_at": "2026-11-04T23:45:34.000000Z",
-      "summary": "Kyle Kulinski frames the episode as a celebratory critique of what he portrays as MAGA disappointment after election results. He highlights early Republican enthusiasm over Guam and mocks claims that the result signaled broader Republican momentum, including a purported NBC exit poll that he says was fabricated. Much of the discussion reviews confident predictions that Ken Paxton would defeat James Talarico in Texas by a wide margin; Kulinski says Talarico instead won by double digits. He similarly contrasts Republican forecasts of a sweeping Senate victory with outcomes he describes as favoring Democrats in several states. The episode then turns to commentary about the Iran war, with Kulinski arguing that its alleged effects on energy and grocery prices make it politically important despite pundits minimizing the issue. In the closing section, he ridicules alarmist reactions from Laura Loomer and others, rejects claims that Democrats will broadly imprison Republicans, and urges Democrats to investigate alleged misconduct while advancing popular policy bills. The transcript is strongly partisan and relies heavily on quoted social-media reactions and the host’s interpretations.",
-      "topics": [
-        "Election predictions and results",
-        "MAGA reactions",
-        "Texas Senate race",
-        "Iran war and costs",
-        "Democratic strategy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "James Talarico won the Texas Senate race by double digits, while multiple commentators had predicted a decisive Ken Paxton victory.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            72,
-            73,
-            77,
-            80,
-            82,
-            83,
-            84,
-            119,
-            120,
-            121,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            133,
-            134,
-            138,
-            139,
-            140
-          ]
-        },
-        {
-          "claim": "Benny Johnson posted an NBC election-day exit poll showing Republicans at 54% and Democrats at 42%, which was later described as nonexistent and deleted.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55
-          ]
-        },
-        {
-          "claim": "The Iran war caused the Strait of Hormuz to close and directly drove higher oil, gas, and grocery prices.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            282,
-            283,
-            284,
-            285,
-            286,
-            287,
-            288,
-            289,
-            290,
-            291,
-            292,
-            293,
-            294
-          ]
-        },
-        {
-          "claim": "Democrats won Senate contests in Kansas and South Carolina, while Republicans won Nebraska, contrary to Clay Travis’s predictions.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            144,
-            145,
-            146,
-            150,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            174
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski opens by presenting the episode as a response to what he characterizes as MAGA tears and premature election celebrations.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            17,
-            18,
-            23,
-            24,
-            26,
-            27,
-            28,
-            29,
-            30
-          ],
-          "start_seconds": 0.0,
-          "end_seconds": 59.96
-        },
-        {
-          "point": "He uses quoted predictions about Texas to argue that conservative commentators were highly overconfident about Paxton’s prospects.",
-          "evidence_segment_indices": [
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            90
-          ],
-          "start_seconds": 128.972,
-          "end_seconds": 197.172
-        },
-        {
-          "point": "The episode presents conflicting interpretations of polling, turnout, and the scale of a purported Democratic wave.",
-          "evidence_segment_indices": [
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            48,
-            49,
-            50,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187
-          ],
-          "start_seconds": 70.92,
-          "end_seconds": 392.295
-        },
-        {
-          "point": "Kulinski says Democrats should investigate alleged wrongdoing and promote bills involving wages, health care, taxation, and medical debt.",
-          "evidence_segment_indices": [
-            447,
-            448,
-            449,
-            450,
-            451,
-            452,
-            453,
-            454,
-            455,
-            456,
-            457,
-            458,
-            459,
-            460,
-            461,
-            462,
-            463,
-            464,
-            465,
-            466,
-            467,
-            468,
-            469,
-            470
-          ],
-          "start_seconds": 883.741,
-          "end_seconds": 933.701
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "80d06d3ae72187010235cbee92bfc8d251ee9c7f2803a4ea2d5b3c42adecbe6c",
-      "transcript_captured_at": "2026-11-05T20:33:37.894709Z",
-      "summary_generated_at": "2026-11-05T20:39:41.838680Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is an automatic caption record with overlapping segments, profanity redactions, occasional transcription errors, and uncertain names.",
-        "Election outcomes, polling figures, policy effects, and other factual assertions are presented only as claims within the episode and require independent verification.",
-        "The source covers one commentator’s partisan interpretation and selected quotations, not a comprehensive account of the election or reactions.",
-        "Some statements are rhetorical, sarcastic, or predictive rather than clearly testable factual claims.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
