@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T01:12:01.192080Z",
+  "generated_at": "2026-11-07T01:42:01.188817Z",
   "reporting_window": {
-    "start": "2026-10-31T01:12:01.192080Z",
-    "end": "2026-11-07T01:12:01.192080Z"
+    "start": "2026-10-31T01:42:01.188817Z",
+    "end": "2026-11-07T01:42:01.188817Z"
   },
   "episodes": [
     {
@@ -181,6 +181,248 @@
         "The transcript is creator commentary and does not independently establish the vulnerability’s technical details, affected versions, or exploitation history.",
         "Some historical dates, software names, and causal explanations are difficult to distinguish because of transcription defects and overlapping phrasing.",
         "The source provides no independent documentation, advisories, or testing results.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "S7cEdKFvrqc",
+      "title": "‘BEGINNING OF THE END’ — Trump Admits BLEAK Future as he SCRAMBLES to Grasp Power",
+      "url": "https://www.youtube.com/watch?v=S7cEdKFvrqc",
+      "published_at": "2026-11-07T00:00:33.000000Z",
+      "summary": "Aaron Parnas presents a strongly partisan post-election discussion with Jessica Tarlov, arguing that Democrats achieved a sweeping midterm victory and that Donald Trump appears politically weakened. The hosts say Arizona Democrats secured unified control, formerly safe Republican states became competitive, and Republican turnout and campaign expectations fell short, while emphasizing that Democrats must now govern effectively. They discuss possible Democratic priorities, including affordability, healthcare, childcare, a higher minimum wage, investigations, ethics reforms, and regulation of data centers. The conversation also focuses on the Iran conflict, with the hosts warning that renewed hostilities may be possible and debating the political and human costs of government shutdown tactics. They speculate about Republican prospects for 2028, naming JD Vance, Marco Rubio, and Ron DeSantis, and predict continued internal party disputes. The episode closes with discussion of Texas, abortion enforcement, death-penalty commutations, candidate ideology, and notable individual election results. The transcript is commentary-heavy and contains unclear names, jokes, and assertions that are not independently established here.",
+      "topics": [
+        "Midterm election analysis",
+        "Trump and Republican politics",
+        "Democratic policy agenda",
+        "Iran conflict",
+        "2028 presidential speculation"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Arizona Democrats secured a complete governing trifecta.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            11,
+            12
+          ]
+        },
+        {
+          "claim": "The Nasdaq fell by more than 5% before a slight rebound, and October added 165,000 jobs.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            411,
+            412,
+            413,
+            414,
+            415,
+            416,
+            417,
+            424,
+            425,
+            426
+          ]
+        },
+        {
+          "claim": "A federal judge blocked Trump's proposed 250-foot arch project.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            330,
+            331,
+            332,
+            333,
+            334
+          ]
+        },
+        {
+          "claim": "Iranian authorities distributed iodine tablets near nuclear facilities and U.S. commanders prepared for renewed fighting.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            355,
+            356,
+            357,
+            358,
+            359,
+            360,
+            361,
+            362,
+            363,
+            343,
+            344
+          ]
+        },
+        {
+          "claim": "Texas Democrats planned to change enforcement of the state's abortion restrictions and education policies.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            773,
+            774,
+            775,
+            776,
+            777,
+            778,
+            779,
+            780,
+            781,
+            782
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The hosts frame the election as a major Democratic wave and argue that many Republicans anticipated losses but underestimated their scale.",
+          "evidence_segment_indices": [
+            30,
+            31,
+            32,
+            102,
+            103,
+            104,
+            105,
+            106,
+            135,
+            136,
+            137,
+            138,
+            139
+          ],
+          "start_seconds": 65.119,
+          "end_seconds": 295.52
+        },
+        {
+          "point": "They argue that Democratic candidates benefited from opposition to Republicans and that moderates may have outperformed progressives in some races.",
+          "evidence_segment_indices": [
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            876,
+            877,
+            878,
+            879,
+            892,
+            893
+          ],
+          "start_seconds": 365.68,
+          "end_seconds": 1835.52
+        },
+        {
+          "point": "The discussion proposes a broad Democratic governing agenda centered on affordability, healthcare, childcare, wages, ethics, investigations, and data-center regulation.",
+          "evidence_segment_indices": [
+            639,
+            640,
+            641,
+            642,
+            643,
+            644,
+            645,
+            646,
+            647,
+            648,
+            649,
+            650,
+            651,
+            657,
+            658,
+            659,
+            680,
+            681,
+            682,
+            687,
+            688,
+            689,
+            690,
+            691
+          ],
+          "start_seconds": 1305.36,
+          "end_seconds": 1415.28
+        },
+        {
+          "point": "The hosts treat Iran as a major political issue and debate whether Democrats should use funding or shutdown leverage while avoiding harm to service members.",
+          "evidence_segment_indices": [
+            335,
+            336,
+            337,
+            338,
+            339,
+            340,
+            341,
+            342,
+            343,
+            344,
+            366,
+            367,
+            368,
+            369,
+            370,
+            371,
+            372,
+            373,
+            374,
+            375,
+            376,
+            377,
+            378,
+            379
+          ],
+          "start_seconds": 681.04,
+          "end_seconds": 772.56
+        },
+        {
+          "point": "The episode speculates about a post-Trump Republican field and repeatedly identifies 2028 as an emerging focus.",
+          "evidence_segment_indices": [
+            546,
+            547,
+            548,
+            549,
+            550,
+            551,
+            556,
+            557,
+            558,
+            559,
+            560,
+            561,
+            576,
+            577,
+            578,
+            579,
+            596,
+            597,
+            598,
+            599
+          ],
+          "start_seconds": 1107.76,
+          "end_seconds": 1229.679
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "0a33d8e8a876a7a392016ddeb06660ad431ce8ef77f567d43049822d04e325ff",
+      "transcript_captured_at": "2026-11-07T01:33:12.785674Z",
+      "summary_generated_at": "2026-11-07T01:38:31.703628Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is automatic captioning with garbled names, missing words, and overlapping or malformed phrasing.",
+        "The episode mixes reported events with the hosts' opinions, predictions, humor, and allegations; attribution should not be treated as verification.",
+        "Several election, polling, market, military, legal, and policy claims are presented without supporting documentation in the source.",
+        "The source provides only the episode transcript and does not establish the broader factual context or timing of its claims.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -5092,185 +5334,6 @@
         "Several quoted policy, legal, and business claims are presented without the underlying documents or full context.",
         "The overview reflects one creator’s commentary and examples; it does not establish the accuracy or generality of those allegations.",
         "Some product names and dates may be captioned inaccurately and should be checked against primary sources.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "bBB37ViiYJU",
-      "title": "Abdul Goes GUNS BLAZING ON MAGA In FIERY VICTORY SPEECH!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=bBB37ViiYJU",
-      "published_at": "2026-11-04T22:45:38.000000Z",
-      "summary": "Kyle Kulinski of Secular Talk praises what he describes as Abdul El-Sayed’s fiery victory speech after a Michigan election win. Kulinski says El-Sayed sharply criticized Mike Rogers, including Rogers’s alleged attacks portraying El-Sayed as linked to terrorism or the Muslim Brotherhood, and highlights jokes aimed at Rogers and J.D. Vance. The speech, as presented in the transcript, emphasizes defeating wealthy political interests, supporting Palestinian rights and self-determination, and directing public funds toward schools, health care, and infrastructure. El-Sayed also thanks political action groups for opposing him and claims that AIPAC spent $42 million against his campaign. Kulinski interprets the speech as evidence of a broader millennial, anti-establishment political style and predicts El-Sayed will be a strong senator. He further frames the result as a rejection of bigotry and conventional power structures. The episode is strongly celebratory and adversarial; the transcript alone does not establish the election result, campaign spending, opponents’ conduct, or the accuracy of the speech’s broader political claims.",
-      "topics": [
-        "Abdul El-Sayed victory speech",
-        "Michigan politics",
-        "Political campaigning and identity",
-        "Campaign finance",
-        "Progressive policy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Abdul El-Sayed secured a Michigan election victory and is expected to serve as a senator.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            73,
-            74,
-            75,
-            105,
-            106,
-            263,
-            264
-          ]
-        },
-        {
-          "claim": "Mike Rogers accused El-Sayed of terrorism, jihadism, or Muslim Brotherhood ties during the campaign.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            16,
-            17,
-            18,
-            19,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47
-          ]
-        },
-        {
-          "claim": "AIPAC spent $42 million against El-Sayed.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114
-          ]
-        },
-        {
-          "claim": "The 2024 Republican victory margin was 1.5 percentage points.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski celebrates El-Sayed’s confrontational remarks toward Rogers and Vance.",
-          "evidence_segment_indices": [
-            31,
-            33,
-            34,
-            38,
-            39,
-            71,
-            72,
-            73,
-            74,
-            75,
-            103,
-            104,
-            105,
-            106
-          ],
-          "start_seconds": 68.12,
-          "end_seconds": 231.012
-        },
-        {
-          "point": "The speech presents equal rights, Palestinian self-determination, and domestic public investment as core priorities.",
-          "evidence_segment_indices": [
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            145,
-            146,
-            147,
-            148,
-            149
-          ],
-          "start_seconds": 291.294,
-          "end_seconds": 327.694
-        },
-        {
-          "point": "El-Sayed frames the campaign as a contest between ordinary voters and moneyed interests.",
-          "evidence_segment_indices": [
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            200,
-            201,
-            202
-          ],
-          "start_seconds": 234.692,
-          "end_seconds": 434.815
-        },
-        {
-          "point": "Kulinski interprets the result as a sign of rising millennial and anti-establishment politics.",
-          "evidence_segment_indices": [
-            150,
-            151,
-            152,
-            153,
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160,
-            161,
-            162,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168
-          ],
-          "start_seconds": 328.974,
-          "end_seconds": 366.855
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "af097d7a761a2c71805c7c7e49c38bcdc0f344ba5d98dea5dc7d42256a06c554",
-      "transcript_captured_at": "2026-11-05T20:33:21.976917Z",
-      "summary_generated_at": "2026-11-05T20:38:47.908843Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is an opinion segment that mixes quoted speech with Kulinski’s commentary and profanity.",
-        "Several captions contain redactions, overlaps, and transcription defects, which may obscure wording or speaker attribution.",
-        "The transcript provides source-only coverage and does not independently verify the election, spending, allegations, or historical comparisons.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
