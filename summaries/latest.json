@@ -1,11 +1,179 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T04:42:01.213980Z",
+  "generated_at": "2026-11-07T16:12:01.210876Z",
   "reporting_window": {
-    "start": "2026-10-31T04:42:01.213980Z",
-    "end": "2026-11-07T04:42:01.213980Z"
+    "start": "2026-10-31T16:12:01.210876Z",
+    "end": "2026-11-07T16:12:01.210876Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "b9gIe5AdvmA",
+      "title": "🚨 Trump ERUPTS in SCREAMING MATCH, he Plans MASS FIRINGS as he LOSES MILLIONS!!",
+      "url": "https://www.youtube.com/watch?v=b9gIe5AdvmA",
+      "published_at": "2026-11-07T15:09:49.000000Z",
+      "summary": "Aaron Parnas presents a commentary episode arguing that Trump’s post-midterm response is intensifying rather than moderating. He attributes reporting to The Atlantic and other outlets describing Steven Miller as a force favoring aggressive tactics, including alleged support for arresting journalists who refuse to reveal sources. Parnas also recounts reports that Trump angrily confronted chief of staff Susie Wiles, after which she reportedly left the role, while Miller assumed greater influence. The episode links this internal conflict to losses in Trump Media stock, citing reported declines in the company’s value, investor losses, and possible congressional scrutiny. It also discusses a congressional oversight interview concerning the Epstein investigation. In its final section, Parnas describes Trump’s account of limited U.S. strikes in Iran and a reported $20 million reward for information about Iran’s nuclear program, contrasting those developments with earlier claims that the program had been destroyed. The episode is advocacy-oriented and relies heavily on attributed reporting, quoted remarks, and commentary rather than independently established evidence.",
+      "topics": [
+        "Trump administration personnel",
+        "Press freedom and leak investigations",
+        "Trump Media stock losses",
+        "Congressional oversight",
+        "U.S. strikes and Iran’s nuclear program"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Trump lost control of the House and Senate in the midterm elections, prompting pressure from his party to change course.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "claim": "Steven Miller supported arresting journalists to force them to disclose sources and was installed as White House chief of staff.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            7,
+            8,
+            9,
+            40,
+            81,
+            85,
+            87,
+            88
+          ]
+        },
+        {
+          "claim": "Trump angrily confronted Susie Wiles, who then left her position earlier than requested.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            53,
+            58,
+            60,
+            62,
+            63,
+            64
+          ]
+        },
+        {
+          "claim": "Trump Media stock fell nearly 25%, with outside investors reportedly losing more than $2.2 billion.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            134,
+            135,
+            136,
+            137,
+            140,
+            141
+          ]
+        },
+        {
+          "claim": "The United States conducted limited strikes in Iran and offered a $20 million reward for information about Iran’s nuclear program.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            197,
+            198,
+            199,
+            205,
+            206,
+            210,
+            213,
+            214
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames Miller’s appointment as evidence that Trump is doubling down on an aggressive governing approach.",
+          "evidence_segment_indices": [
+            5,
+            6,
+            40,
+            41,
+            43,
+            44,
+            132,
+            133
+          ],
+          "start_seconds": 8.639,
+          "end_seconds": 292.16
+        },
+        {
+          "point": "The episode contrasts Trump’s public praise of Wiles with reports of a private dispute and her departure.",
+          "evidence_segment_indices": [
+            54,
+            55,
+            56,
+            57,
+            58,
+            60,
+            61,
+            64
+          ],
+          "start_seconds": 112.479,
+          "end_seconds": 138.16
+        },
+        {
+          "point": "Reported Trump Media losses are used to illustrate financial consequences for shareholders and political exposure for Trump.",
+          "evidence_segment_indices": [
+            134,
+            138,
+            140,
+            147,
+            148,
+            150,
+            151
+          ],
+          "start_seconds": 288.96,
+          "end_seconds": 332.639
+        },
+        {
+          "point": "A congressional interview describes coordination among Democrats on oversight and accountability work, including Epstein-related matters.",
+          "evidence_segment_indices": [
+            162,
+            175,
+            179,
+            190,
+            191,
+            192,
+            193
+          ],
+          "start_seconds": 349.12,
+          "end_seconds": 417.199
+        },
+        {
+          "point": "The Iran segment highlights a discrepancy between claims that the nuclear program was destroyed and the later request for intelligence about it.",
+          "evidence_segment_indices": [
+            215,
+            216,
+            217,
+            218,
+            219,
+            220
+          ],
+          "start_seconds": 456.319,
+          "end_seconds": 472.96
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "eb71a1daf59848b81070c70308895bb6a1e3ba91a9fea19c1256a8da77f44aa1",
+      "transcript_captured_at": "2026-11-07T16:03:14.166666Z",
+      "summary_generated_at": "2026-11-07T16:08:25.995932Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains overlapping captions, garbled names, and incomplete or duplicated phrases.",
+        "Most personnel and policy assertions are presented as attributed reporting or commentary rather than independently demonstrated evidence.",
+        "The source provides no documents, links, or corroborating detail for the cited reporting, financial figures, military actions, or reward announcement.",
+        "Some quoted statements are difficult to assign confidently because speaker labels and caption boundaries are inconsistent.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5019,297 +5187,6 @@
         "Many statements are quotations, allegations, predictions, or satire presented by the creator rather than independently established facts.",
         "The source provides no complete election data, links, or underlying reports, limiting verification of its political and media claims.",
         "Some later examples are intentionally exaggerated and should not be read as literal forecasts.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "uzyxdh91N3M",
-      "title": "JD Vance IN SHAMBLES Over TOTAL COLLAPSE Of MAGA | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=uzyxdh91N3M",
-      "published_at": "2026-11-04T23:15:07.000000Z",
-      "summary": "Kyle Kulinski argues that JD Vance’s post-election explanation understates the scale and causes of the Republican defeat. Kulinski presents Vance’s account that turnout was generally adequate, but that some 2024 Trump-Vance voters shifted to Democrats because of the war, inflation, “America first” concerns, and Israel policy. Kulinski disputes the framing, saying Democrats also overperformed in Florida and that broader dissatisfaction involved corruption, prices, immigration enforcement, tariffs, and other administration actions. He cites alleged polling and exit-poll results to argue that corruption and cost of living ranked among voters’ leading concerns. The episode portrays Vance as unwilling to accept responsibility, particularly for remaining aligned with the administration while criticizing its policies. Kulinski concludes that the MAGA movement lacks a viable response to voters’ economic and foreign-policy preferences and predicts continued political failure. The discussion is highly polemical, includes severe allegations and insults, and relies on claims and figures presented within the commentary rather than independently established evidence.",
-      "topics": [
-        "JD Vance’s election analysis",
-        "Republican voter defection",
-        "Polling and exit polls",
-        "War, inflation, and immigration",
-        "MAGA political strategy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The referenced midterm election produced a major Republican defeat, including the stated Florida margins and Democratic overperformance.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            2,
-            3,
-            37,
-            38,
-            39,
-            40,
-            43,
-            44,
-            45,
-            46,
-            50,
-            51,
-            54,
-            55
-          ]
-        },
-        {
-          "claim": "Polling indicated that many 2024 Trump-Vance voters planned to vote for Democrats and identified ending the war, lowering living costs, an America-first approach, and changing Israel policy as leading reasons to return.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            32,
-            33,
-            34,
-            35,
-            62,
-            63,
-            94,
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104
-          ]
-        },
-        {
-          "claim": "The cited national exit poll ranked government corruption, cost of living, the Iran war, and immigration as highly important issues, with the percentages stated by Kulinski.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195,
-            196,
-            197,
-            198,
-            199
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that administration actions included corruption, tariffs that raised prices, violence or abuses connected to immigration enforcement, and unlawful foreign interventions.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            205,
-            206,
-            207,
-            208,
-            209,
-            210,
-            211,
-            212,
-            213,
-            221,
-            222,
-            224,
-            225,
-            226,
-            227,
-            228,
-            229,
-            230,
-            231,
-            233,
-            234,
-            235,
-            236,
-            237
-          ]
-        },
-        {
-          "claim": "The episode claims that some far-right figures voted for Democrats because of dissatisfaction with Vance.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            325,
-            326,
-            327,
-            328,
-            329,
-            330,
-            331
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Vance’s quoted explanation emphasizes adequate turnout but voter switching from the Republican ticket to Democrats.",
-          "evidence_segment_indices": [
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63
-          ],
-          "start_seconds": 29.119,
-          "end_seconds": 118.88
-        },
-        {
-          "point": "Kulinski challenges Vance’s Florida example and argues that Democratic strength there was significant despite the state’s Republican lean.",
-          "evidence_segment_indices": [
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56
-          ],
-          "start_seconds": 68.08,
-          "end_seconds": 108.399
-        },
-        {
-          "point": "The commentary highlights war, inflation, corruption, immigration enforcement, and tariffs as central grievances.",
-          "evidence_segment_indices": [
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195
-          ],
-          "start_seconds": 156.879,
-          "end_seconds": 358.08
-        },
-        {
-          "point": "Kulinski argues that Vance cannot distance himself from policies while remaining part of the administration.",
-          "evidence_segment_indices": [
-            283,
-            284,
-            285,
-            286,
-            287,
-            288,
-            289,
-            290,
-            291,
-            292,
-            293,
-            294,
-            295,
-            296,
-            297,
-            298,
-            299,
-            300,
-            301,
-            302,
-            303,
-            309,
-            310,
-            311
-          ],
-          "start_seconds": 526.32,
-          "end_seconds": 578.959
-        },
-        {
-          "point": "The episode ends with Kulinski predicting that Vance and the MAGA movement are politically weakened.",
-          "evidence_segment_indices": [
-            243,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249,
-            267,
-            268,
-            269,
-            270,
-            271,
-            272,
-            273,
-            274,
-            318,
-            319,
-            320,
-            321,
-            322,
-            323,
-            324,
-            339,
-            340
-          ],
-          "start_seconds": 455.599,
-          "end_seconds": 634.8
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "86f66f1a7f3cb33594b3ac1a9c38e4e99a6c99608a1de2e51072b2e58a20724f",
-      "transcript_captured_at": "2026-11-05T20:33:29.728694Z",
-      "summary_generated_at": "2026-11-05T20:39:15.422784Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview is based solely on the supplied transcript and does not verify its election, polling, exit-poll, or policy claims.",
-        "Some captions contain profanity redactions, transcription errors, and ambiguous names or phrases.",
-        "The transcript blends quoted material attributed to Vance with Kulinski’s commentary; boundaries are occasionally unclear.",
-        "The source is strongly partisan and rhetorical, so allegations and predictions should not be treated as established facts.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
