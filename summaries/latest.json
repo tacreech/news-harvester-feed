@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T16:12:01.210876Z",
+  "generated_at": "2026-11-07T19:12:01.214745Z",
   "reporting_window": {
-    "start": "2026-10-31T16:12:01.210876Z",
-    "end": "2026-11-07T16:12:01.210876Z"
+    "start": "2026-10-31T19:12:01.214745Z",
+    "end": "2026-11-07T19:12:01.214745Z"
   },
   "episodes": [
     {
@@ -1333,6 +1333,168 @@
         "Captions contain apparent transcription errors and unclear names, including references to Wilds, Miller, and Texas officials.",
         "Several statements are predictions, allegations, or political opinions attributed to the host and interview guests rather than verified findings.",
         "Overlapping segments and repeated wording make some quotations and speaker transitions ambiguous.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "heHKqF3zXXg",
+      "title": "LIVE | Raging Perspectives with Aaron Parnas and Jessica Tarlov",
+      "url": "https://www.youtube.com/watch?v=heHKqF3zXXg",
+      "published_at": "2026-11-06T18:38:08.000000Z",
+      "summary": "Aaron Parnas and Jessica Tarlov present an enthusiastic, partisan discussion of what they describe as a sweeping Democratic midterm victory and its implications. They argue that Democratic candidates benefited from voter frustration over costs, war, corruption, and Republican culture-war politics, while emphasizing that party labels mattered more than ideological positioning in many races. The conversation highlights prospective Democratic investment in the South, Texas, and other traditionally Republican regions, alongside debate over how Democrats should govern once they hold power. They advocate investigations, economic measures, healthcare and childcare proposals, ethics rules, and caution around government shutdown tactics during the conflict involving Iran. The hosts also discuss data-center moratoriums, Elon Musk, possible 2028 Republican contenders, Gavin Newsom’s death-penalty commutations, and Texas abortion and education policy. Much of the episode consists of interpretation, speculation, humor, and predictions rather than documented analysis; several election, polling, market, military, and policy claims are presented without supporting source material.",
+      "topics": [
+        "Midterm election interpretation",
+        "Democratic governing agenda",
+        "Iran and war powers",
+        "Data centers and economic policy",
+        "2028 political speculation"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The hosts state that Democrats won the House and Senate and describe major gains across traditionally Republican states and regions.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            10,
+            18,
+            91,
+            92,
+            143,
+            147,
+            148
+          ]
+        },
+        {
+          "claim": "The discussion reports that Iran was preparing for possible renewed bombing and that U.S. forces were preparing for resumed hostilities.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            336,
+            337,
+            338,
+            339,
+            343,
+            344,
+            361,
+            364,
+            366,
+            367
+          ]
+        },
+        {
+          "claim": "The episode reports a more-than-5% Nasdaq drop, a subsequent rebound, and 165,000 jobs added in October.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            423,
+            424,
+            427,
+            435,
+            436
+          ]
+        },
+        {
+          "claim": "The hosts report that Gavin Newsom commuted the sentences of 548 California death-row inmates.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            823,
+            824,
+            825
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The hosts interpret the election as a repudiation of Republicans and a broad opening for Democrats.",
+          "evidence_segment_indices": [
+            82,
+            91,
+            92,
+            120,
+            147,
+            148
+          ],
+          "start_seconds": 238.892,
+          "end_seconds": 366.495
+        },
+        {
+          "point": "They argue Democrats should invest in Southern states and compete beyond conventional blue areas.",
+          "evidence_segment_indices": [
+            199,
+            204,
+            205,
+            206,
+            220,
+            221,
+            222,
+            229,
+            230,
+            231
+          ],
+          "start_seconds": 466.995,
+          "end_seconds": 521.297
+        },
+        {
+          "point": "They debate balancing pressure on the administration over Iran with the practical effects of a government shutdown.",
+          "evidence_segment_indices": [
+            351,
+            352,
+            373,
+            387,
+            390,
+            391,
+            394,
+            395
+          ],
+          "start_seconds": 737.899,
+          "end_seconds": 823.399
+        },
+        {
+          "point": "They propose an ambitious Democratic agenda involving affordability, healthcare, childcare, ethics, investigations, and labor policy.",
+          "evidence_segment_indices": [
+            639,
+            640,
+            648,
+            654,
+            679,
+            686,
+            687,
+            689,
+            696,
+            698
+          ],
+          "start_seconds": 1302.905,
+          "end_seconds": 1418.906
+        },
+        {
+          "point": "The hosts speculate about the 2028 field and possible Republican repositioning after the election.",
+          "evidence_segment_indices": [
+            535,
+            537,
+            544,
+            548,
+            566,
+            568,
+            588,
+            591
+          ],
+          "start_seconds": 1095.402,
+          "end_seconds": 1217.403
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "d47dcdf59fe5b567865af718cd76b60d80c56eeec9cf47377421b63d5bd317da",
+      "transcript_captured_at": "2026-11-07T19:03:38.737436Z",
+      "summary_generated_at": "2026-11-07T19:08:48.290923Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains overlapping captions, omissions, hesitations, and apparent recognition errors.",
+        "Many names, offices, vote outcomes, numerical figures, and policy descriptions are difficult to identify confidently from captions alone.",
+        "The episode is primarily commentary and opinion; it does not provide independent documentation for most factual assertions.",
+        "Some statements are predictions or rhetorical claims rather than established outcomes.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -4985,208 +5147,6 @@
         "Election outcomes, polling figures, policy effects, and other factual assertions are presented only as claims within the episode and require independent verification.",
         "The source covers one commentator’s partisan interpretation and selected quotations, not a comprehensive account of the election or reactions.",
         "Some statements are rhetorical, sarcastic, or predictive rather than clearly testable factual claims.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mike Figueredo — The Humanist Report",
-      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
-      "video_id": "sipGHoG36LI",
-      "title": "LOL: Melodramatic Conservatives Mourn “Death” of America Following Republican Bloodbath",
-      "url": "https://www.youtube.com/watch?v=sipGHoG36LI",
-      "published_at": "2026-11-04T23:37:06.000000Z",
-      "summary": "Mike Figueredo argues that a perceived Democratic electoral breakthrough has triggered an emotional collapse among conservatives and exposed deep Republican dissatisfaction with Donald Trump. He presents clips and reported reactions describing America as “over,” warning of socialism, and blaming Trump for the party’s losses. Figueredo says the results could redraw the electoral map, put traditionally Republican states in play, and intensify Republican infighting ahead of 2028. He also highlights alleged criticism from figures including Alex Jones, Ron DeSantis, and JD Vance, while citing media reports and unnamed sources about Republican events and Trump’s reaction. The episode then shifts into celebratory mockery: Figueredo says liberals are enjoying the backlash and assembles satirical posts and exaggerated “woke” predictions. The commentary is openly partisan, profane, and frequently hyperbolic. Its account relies heavily on quoted social-media posts, clips, and secondary reporting; the transcript alone does not establish the election results, reported reactions, or broader political implications.",
-      "topics": [
-        "Conservative reactions to election results",
-        "Republican accountability and Trump",
-        "Potential electoral realignment",
-        "Partisan satire and backlash"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Democrats won a broad set of races, including control of the House and Senate, and states such as Texas, Iowa, Kansas, South Carolina, and Mississippi became electorally competitive.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            56,
-            57,
-            73,
-            74,
-            165,
-            166,
-            167
-          ]
-        },
-        {
-          "claim": "Media reports and political figures attributed the Republican defeat substantially to Donald Trump and described significant internal party anger or distancing.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            94,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            145,
-            146,
-            147,
-            149,
-            150,
-            152
-          ]
-        },
-        {
-          "claim": "Reports cited by Figueredo said Republicans were crying at events and that Trump was nearly silent or “borderline catatonic” while watching results.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            120,
-            121,
-            122,
-            123,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Figueredo frames conservative reactions as unusually despairing and cites statements portraying the country’s future in catastrophic terms.",
-          "evidence_segment_indices": [
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64
-          ],
-          "start_seconds": 72.479,
-          "end_seconds": 133.44
-        },
-        {
-          "point": "He argues that Trump’s role has produced a crisis of direction and a potential leadership vacuum within the Republican Party.",
-          "evidence_segment_indices": [
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189
-          ],
-          "start_seconds": 279.68,
-          "end_seconds": 389.28
-        },
-        {
-          "point": "The latter portion uses satire and celebratory online reactions to mock conservative fears about a return of “woke” politics.",
-          "evidence_segment_indices": [
-            220,
-            221,
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            229,
-            230,
-            231,
-            246,
-            260,
-            261,
-            262,
-            263,
-            264,
-            265,
-            310,
-            311,
-            312,
-            313,
-            314
-          ],
-          "start_seconds": 454.4,
-          "end_seconds": 650.8
-        },
-        {
-          "point": "Figueredo closes by prioritizing celebration and ridicule over immediate organizing, while predicting stronger feelings in 2028.",
-          "evidence_segment_indices": [
-            346,
-            347,
-            348,
-            353,
-            354,
-            355,
-            356,
-            357,
-            358,
-            359,
-            360,
-            361,
-            362,
-            363
-          ],
-          "start_seconds": 713.2,
-          "end_seconds": 756.639
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "44ba458339fc7d32fdd585e86e694869fd47144cc59439bf86a0505e01b127f7",
-      "transcript_captured_at": "2026-11-05T18:03:20.450663Z",
-      "summary_generated_at": "2026-11-05T18:08:47.177499Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains overlapping segments, transcription defects, censored profanity, and several unclear names or phrases.",
-        "Many statements are quotations, allegations, predictions, or satire presented by the creator rather than independently established facts.",
-        "The source provides no complete election data, links, or underlying reports, limiting verification of its political and media claims.",
-        "Some later examples are intentionally exaggerated and should not be read as literal forecasts.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
