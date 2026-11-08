@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T15:00:20.085809Z",
+  "generated_at": "2026-11-08T15:30:16.810809Z",
   "reporting_window": {
-    "start": "2026-11-01T15:00:20.085809Z",
-    "end": "2026-11-08T15:00:20.085809Z",
+    "start": "2026-11-01T15:30:16.810809Z",
+    "end": "2026-11-08T15:30:16.810809Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,16 +14,16 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-08T15:00:18.773034Z",
+      "last_successful_poll": "2026-11-08T15:30:13.591802Z",
       "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-08T15:00:19.126346Z",
+      "health": "success_new",
+      "discovery_status": "success_new",
+      "last_successful_poll": "2026-11-08T15:30:13.773693Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-08T15:00:19.310442Z",
+      "last_successful_poll": "2026-11-08T15:30:14.109733Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-08T15:00:19.539903Z",
+      "last_successful_poll": "2026-11-08T15:30:15.414821Z",
       "warnings": []
     },
     {
@@ -50,11 +50,35 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-08T15:00:19.901298Z",
+      "last_successful_poll": "2026-11-08T15:30:16.665391Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "4p11KojZvuk",
+      "title": "'TRUMP IS CORRUPT' — Republicans BREAK as White House FLAILS After Major Losses",
+      "published_at": "2026-11-08T15:08:16.000000Z",
+      "url": "https://www.youtube.com/watch?v=4p11KojZvuk",
+      "first_seen": "2026-11-08T15:30:13.773693Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "tG1JQ_LeU5M",
+      "title": "All of these bills will now fail.",
+      "published_at": "2026-11-08T15:05:39.000000Z",
+      "url": "https://www.youtube.com/watch?v=tG1JQ_LeU5M",
+      "first_seen": "2026-11-08T15:30:13.773693Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -2106,18 +2130,6 @@
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "not_queued"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "w2RTAjcekEM",
-      "title": "Republicans Admit IT'S OVER, Trump in SOMBER Mood as Presidency Becomes LAME DUCK!!",
-      "published_at": "2026-11-01T15:14:22.000000Z",
-      "url": "https://www.youtube.com/watch?v=w2RTAjcekEM",
-      "first_seen": "2026-11-01T15:30:17.162632Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "expired"
     }
   ]
 }
