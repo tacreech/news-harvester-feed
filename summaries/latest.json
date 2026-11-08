@@ -1,11 +1,305 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T22:42:01.187666Z",
+  "generated_at": "2026-11-08T03:42:01.204673Z",
   "reporting_window": {
-    "start": "2026-10-31T22:42:01.187666Z",
-    "end": "2026-11-07T22:42:01.187666Z"
+    "start": "2026-11-01T03:42:01.204673Z",
+    "end": "2026-11-08T03:42:01.204673Z"
   },
   "episodes": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "zyv5AE1O04Y",
+      "title": "More Epstein Files Could Be On The Way...",
+      "url": "https://www.youtube.com/watch?v=zyv5AE1O04Y",
+      "published_at": "2026-11-08T01:07:38.000000Z",
+      "summary": "Mutahar argues that a proposed second Epstein Files Transparency Act could force broader disclosure and create consequences for officials who withhold records, while expressing skepticism that the government will comply. He describes the first act’s permitted redactions, criticizes what he characterizes as inconsistent handling of victim information and other names, and highlights provisions he says would let victims and officials challenge withheld records. The episode also discusses claims involving congressional investigations, financial institutions, alleged associates, and a reported whistleblower death, while acknowledging that some interpretations are conspiratorial and lack hard evidence. Mutahar presents financial records as the most promising route for tracing relationships and identifying possible facilitators. He concludes that releasing documents should be paired with serious investigations into alleged co-conspirators, emphasizing that appearing in records does not alone establish wrongdoing. The transcript is commentary rather than independently verified reporting, and several legal, numerical, and personal allegations require confirmation.",
+      "topics": [
+        "Epstein files transparency",
+        "Government redactions",
+        "Congressional oversight",
+        "Financial investigations"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The proposed second transparency act has specific provisions allowing victims, lawmakers, and state officials to challenge or sue over withheld Epstein-related records.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278,
+            279,
+            280,
+            281,
+            282
+          ]
+        },
+        {
+          "claim": "The DOJ has refused to release as many as three million files.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193
+          ]
+        },
+        {
+          "claim": "The proposed act was reported to have 216 signatures, with two more needed, and was described as near passage.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            309,
+            310,
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317
+          ]
+        },
+        {
+          "claim": "A financial committee report allegedly found evidence that major bankers enabled Epstein’s access to funds used in trafficking.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            609,
+            610,
+            611,
+            612,
+            613,
+            614,
+            615,
+            616,
+            617,
+            618,
+            619,
+            620,
+            621,
+            622,
+            623,
+            624,
+            625
+          ]
+        },
+        {
+          "claim": "A British banker reportedly died by suicide after raising concerns about alleged Epstein-related ties and whistleblower retaliation.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            529,
+            530,
+            531,
+            532,
+            533,
+            534,
+            535,
+            536,
+            537,
+            538,
+            539,
+            540,
+            541,
+            542,
+            543,
+            544,
+            545,
+            546,
+            547,
+            548,
+            549,
+            550,
+            551,
+            552
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Mutahar says stalled disclosure efforts have prompted a second transparency measure intended to expand access and enforcement.",
+          "evidence_segment_indices": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "start_seconds": 40.96,
+          "end_seconds": 95.68
+        },
+        {
+          "point": "He distinguishes legitimate privacy and investigative redactions from what he views as excessive or inconsistent censorship.",
+          "evidence_segment_indices": [
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            82
+          ],
+          "start_seconds": 116.56,
+          "end_seconds": 183.44
+        },
+        {
+          "point": "He argues that victims should receive records concerning themselves and that agencies should face penalties for knowingly concealing or falsifying files.",
+          "evidence_segment_indices": [
+            260,
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277
+          ],
+          "start_seconds": 565.839,
+          "end_seconds": 604.48
+        },
+        {
+          "point": "He favors following financial paper trails to identify relationships and possible facilitators after Epstein’s death.",
+          "evidence_segment_indices": [
+            626,
+            627,
+            628,
+            629,
+            630,
+            631,
+            632,
+            633,
+            634,
+            635,
+            636,
+            637,
+            638,
+            639,
+            640,
+            641,
+            642,
+            643,
+            644,
+            645,
+            646,
+            647,
+            648,
+            649
+          ],
+          "start_seconds": 1335.28,
+          "end_seconds": 1388.64
+        },
+        {
+          "point": "He says document releases should lead to investigations, while cautioning that conspiracy claims lack hard evidence.",
+          "evidence_segment_indices": [
+            518,
+            519,
+            520,
+            521,
+            522,
+            523,
+            524,
+            525,
+            526,
+            527,
+            528,
+            551,
+            552,
+            553,
+            554,
+            555,
+            556,
+            557,
+            558,
+            559,
+            560
+          ],
+          "start_seconds": 1108.88,
+          "end_seconds": 1204.48
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "2b0c38f3dca52837d203fcfae5fab1b0163b9c3ef70a8dbc28221db5f334a8c9",
+      "transcript_captured_at": "2026-11-08T03:33:14.873856Z",
+      "summary_generated_at": "2026-11-08T03:38:30.341591Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Automatic captions contain numerous transcription errors, obscured profanity, and unclear names.",
+        "The source presents the creator’s commentary and references to documents or reports; those materials are not independently available in the transcript.",
+        "Several allegations and predictions are explicitly framed as claims, possibilities, or conspiratorial interpretations rather than established facts.",
+        "The transcript does not establish the legal status, text, vote count, or outcome of the proposed legislation.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4944,155 +5238,6 @@
         "Several captions contain apparent transcription defects, clipped phrases, and overlapping segments.",
         "The episode presents allegations, predictions, interview statements, and quoted assertions without supporting documents or independent verification.",
         "The transcript alone does not establish whether the described votes, filings, election outcomes, or policy developments occurred.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "QYOV1XRRrLU",
-      "title": "Asmongold CRIES ON STREAM At The Final Death Of MAGA | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=QYOV1XRRrLU",
-      "published_at": "2026-11-05T00:15:36.000000Z",
-      "summary": "Kyle Kulinski critiques a clip of streamer Asmongold reacting emotionally to an apparent electoral setback, portraying the reaction as a collapse among Trump-aligned commentators. Kulinski argues that Asmongold is revising his criticism of Trump only after losses became apparent, while previously failing to challenge Trump’s policies and commercial ventures. The discussion then broadens into competing interpretations of right-wing and left-wing politics: Kulinski characterizes the former as harmful and exclusionary, while presenting the latter as focused on healthcare, education, wages, democracy, and reduced corporate influence. He also ridicules culture-war fears about Democrats changing entertainment, religion, or social norms, saying Asmongold treats jokes as literal policy. The episode closes with Kulinski urging conservatives to acknowledge defeat and reform rather than claim fraud or repeat the same strategy. The source is a commentary segment built around an excerpted stream reaction; its political and factual assertions are presented by the speakers rather than independently established.",
-      "topics": [
-        "Asmongold’s election reaction",
-        "Trump-aligned commentary",
-        "Right-wing and left-wing ideology",
-        "Conservative election response",
-        "Culture-war politics"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Asmongold cried on stream while reacting to election results and described himself as frustrated and rage-quitting.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            24,
-            25,
-            26,
-            37,
-            38,
-            151,
-            153
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that Asmongold previously supported or failed to criticize Trump-related policies and ventures before the losses.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            43,
-            44,
-            45,
-            46,
-            47,
-            77,
-            80,
-            81,
-            82,
-            83
-          ]
-        },
-        {
-          "claim": "Kulinski says Democrats won control of the House, Senate, and presidency, and that the loss was substantial.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            168,
-            169,
-            170,
-            223,
-            224,
-            235,
-            241,
-            242
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode centers on Kulinski’s reaction to Asmongold’s emotional response and political frustration.",
-          "evidence_segment_indices": [
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            151,
-            152,
-            153
-          ],
-          "start_seconds": 49.36,
-          "end_seconds": 294.96
-        },
-        {
-          "point": "Kulinski contrasts his account of left-wing priorities with Asmongold’s culture-war expectations about Democrats.",
-          "evidence_segment_indices": [
-            292,
-            294,
-            296,
-            297,
-            298,
-            300,
-            302,
-            304,
-            305,
-            306,
-            310,
-            311,
-            312
-          ],
-          "start_seconds": 556.959,
-          "end_seconds": 600.16
-        },
-        {
-          "point": "Kulinski argues conservatives should accept defeat, identify mistakes, and change strategy.",
-          "evidence_segment_indices": [
-            223,
-            224,
-            237,
-            238,
-            239,
-            243,
-            244,
-            245,
-            246,
-            263,
-            264,
-            265,
-            266,
-            267,
-            268
-          ],
-          "start_seconds": 430.08,
-          "end_seconds": 524.64
-        },
-        {
-          "point": "The commentary portrays the featured reaction as part of a broader conservative post-election backlash.",
-          "evidence_segment_indices": [
-            354,
-            355,
-            356,
-            357,
-            358
-          ],
-          "start_seconds": 679.12,
-          "end_seconds": 692.48
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "70624036af2a36bc414d2d79bfafff376a8b84353ddc7a8b81e3c7221e1ce89d",
-      "transcript_captured_at": "2026-11-05T21:03:13.589714Z",
-      "summary_generated_at": "2026-11-05T21:08:24.867016Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Automatic captions contain profanity masking, malformed words, overlapping dialogue, and apparent transcription errors.",
-        "The segment does not independently establish the election results, political control, or allegations about government actions and policy outcomes.",
-        "Some statements are sarcastic, hyperbolic, or explicitly framed as jokes, making literal interpretation uncertain.",
-        "The overview reflects this excerpt and does not establish the full context of the original stream or episode.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
