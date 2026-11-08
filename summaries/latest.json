@@ -1,11 +1,185 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T16:42:01.171911Z",
+  "generated_at": "2026-11-08T18:12:01.170527Z",
   "reporting_window": {
-    "start": "2026-11-01T16:42:01.171911Z",
-    "end": "2026-11-08T16:42:01.171911Z"
+    "start": "2026-11-01T18:12:01.170527Z",
+    "end": "2026-11-08T18:12:01.170527Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "clNwirErT04",
+      "title": "🚨 'JAIL TIME' — Congress Pledges PROSECUTION of Trump Officials as White House SCRAMBLES",
+      "url": "https://www.youtube.com/watch?v=clNwirErT04",
+      "published_at": "2026-11-08T17:15:25.000000Z",
+      "summary": "Aaron Parnas presents Democratic lawmakers’ stated plans to investigate current and former Trump administration figures, compel testimony, and potentially pursue contempt proceedings. The episode highlights remarks attributed to Yassmin Ansari and Robert Garcia that subpoenas could extend broadly, including to family members and former officials. Parnas also discusses Ansari’s prediction that officials who defy Congress could face consequences under a future Democratic president, while emphasizing that these are political statements and proposed actions rather than completed prosecutions. A separate segment reports that a lawmaker identified in the captions as Hakeem Jeffries supports impeaching Defense Secretary Pete Hegseth, citing alleged abuses of power and national-security consequences. The episode further covers Attorney General Pam Bondi’s dismissal of allegations against former chief of staff Susie Wiles, as described in an interview. Overall, the presentation links accountability efforts to affordability concerns, but the supplied transcript does not independently establish the allegations, the lawmakers’ authority to act, or whether any investigations, impeachments, or prosecutions have formally begun.",
+      "topics": [
+        "Congressional investigations",
+        "Contempt of Congress",
+        "Trump administration accountability",
+        "Pete Hegseth impeachment proposal",
+        "Susie Wiles allegations"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The cited lawmakers intend to issue subpoenas and investigate current and former Trump administration figures, potentially including family members.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            31,
+            38,
+            57,
+            81,
+            83,
+            87
+          ]
+        },
+        {
+          "claim": "Yassmin Ansari said officials who defy subpoenas could eventually face criminal contempt and imprisonment under a future Democratic administration.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            120,
+            125,
+            126,
+            127,
+            133,
+            140
+          ]
+        },
+        {
+          "claim": "A lawmaker identified in the captions as Hakeem Jeffries said he would support impeaching Pete Hegseth.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            143,
+            147,
+            152,
+            155,
+            160
+          ]
+        },
+        {
+          "claim": "A former official accused Susie Wiles of blocking health policies because of lobbying and prioritizing political fundraising, allegations rejected by Attorney General Pam Bondi.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            179,
+            184,
+            187,
+            191,
+            192,
+            196,
+            216
+          ]
+        },
+        {
+          "claim": "Donald Trump’s relatives received specified financial benefits or held roles connected to companies receiving Pentagon contracts, as alleged in the interview excerpt.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            45,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode centers on lawmakers’ stated plans for subpoenas, testimony, investigations, and accountability proceedings.",
+          "evidence_segment_indices": [
+            8,
+            9,
+            13,
+            14,
+            15,
+            31,
+            38
+          ],
+          "start_seconds": 14.88,
+          "end_seconds": 81.439
+        },
+        {
+          "point": "Garcia’s remarks, as presented, extend possible scrutiny to family members and former officials.",
+          "evidence_segment_indices": [
+            40,
+            41,
+            42,
+            43,
+            44,
+            57,
+            81,
+            83,
+            87
+          ],
+          "start_seconds": 81.439,
+          "end_seconds": 177.92
+        },
+        {
+          "point": "Ansari predicts that defiance could lead to criminal contempt and later imprisonment, but this remains a forecast.",
+          "evidence_segment_indices": [
+            120,
+            121,
+            123,
+            125,
+            126,
+            128,
+            133,
+            140
+          ],
+          "start_seconds": 245.68,
+          "end_seconds": 300.72
+        },
+        {
+          "point": "The episode reports support for a proposed Hegseth impeachment resolution and attributes stated reasons to the supporter.",
+          "evidence_segment_indices": [
+            152,
+            155,
+            160,
+            161,
+            162,
+            163,
+            164,
+            167
+          ],
+          "start_seconds": 318.24,
+          "end_seconds": 361.44
+        },
+        {
+          "point": "Bondi is portrayed as rejecting a podcast-based allegation involving Susie Wiles and declining to pursue it.",
+          "evidence_segment_indices": [
+            179,
+            185,
+            190,
+            191,
+            192,
+            200,
+            216,
+            223
+          ],
+          "start_seconds": 379.36,
+          "end_seconds": 467.84
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "b504bd43e2fa91f7cef837f09293093332ccb1abcbc6227eb178f894826070f3",
+      "transcript_captured_at": "2026-11-08T18:03:17.550196Z",
+      "summary_generated_at": "2026-11-08T18:08:26.204842Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Automatic captions contain apparent name, word, and transcription errors, including references to several lawmakers and officials.",
+        "The transcript presents allegations, political statements, and predictions without corroborating documents or independent confirmation.",
+        "It is unclear from the supplied material whether any cited subpoenas, investigations, impeachment resolutions, or prosecutions were formally initiated.",
+        "Some excerpts are repetitive or speaker labels are incomplete, so attribution is occasionally dependent on surrounding context.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5016,215 +5190,6 @@
         "The material is a creator’s commentary and summary; cited Fox News and Wall Street Journal reporting is not provided for independent review.",
         "Many election figures and projected outcomes are described as current or expected, but the transcript does not include official election records.",
         "Several statements are predictions or allegations rather than established findings, including claims about party defections, deportation policy, and impeachment prospects.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mike Figueredo — The Humanist Report",
-      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
-      "video_id": "JPg6FMM3aLU",
-      "title": "The GOP’s Anti-Trans Fear Mongering Came Back to Bite Them on Tuesday’s Election",
-      "url": "https://www.youtube.com/watch?v=JPg6FMM3aLU",
-      "published_at": "2026-11-05T14:59:56.000000Z",
-      "summary": "The creator argues that anti-trans campaigning was less influential in the election than economic and public-service concerns, presenting Allison Montgomery’s reported Alabama state-house victory as an example. He says Montgomery emphasized education funding, healthcare, worker rights, Medicaid expansion, opposition to data centers, and allegations of opponent corruption while responding to attacks about her gender identity. The episode also highlights the reported election of several trans and non-binary candidates in different states and interprets those results as evidence that grassroots, policy-focused campaigns can overcome culture-war messaging. At the same time, the creator notes that multiple ballot initiatives concerning transgender participation in sports and gender-affirming healthcare were reportedly advancing, arguing that electoral gains coexist with continuing legal and political threats. He further relays Republican criticisms that anti-trans advertising was not motivating swing voters, while predicting that Republicans may shift toward other targets. The discussion closes with optimism about future organizing, though these conclusions rely on the episode’s reporting and commentary.",
-      "topics": [
-        "Election analysis",
-        "Transgender candidates",
-        "Culture-war messaging",
-        "Ballot initiatives",
-        "Grassroots politics"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Allison Montgomery won a state-house seat in Alabama after campaigning on the issues described.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            17,
-            18,
-            19,
-            20,
-            21,
-            26,
-            27,
-            28,
-            29,
-            30
-          ]
-        },
-        {
-          "claim": "Ten trans and non-binary people were elected or reelected across the country in the referenced election.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195,
-            196,
-            197
-          ]
-        },
-        {
-          "claim": "The episode reports that several state ballot initiatives concerning transgender sports participation or healthcare were leading or passing, including a Missouri initiative that allegedly failed by 10 points.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217,
-            227,
-            228,
-            229,
-            230,
-            231,
-            232,
-            233,
-            234,
-            243,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249
-          ]
-        },
-        {
-          "claim": "A former Texas House speaker reportedly said large anti-trans advertising expenditures had not moved the Senate race.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            153,
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator frames Montgomery’s campaign as policy-centered and populist.",
-          "evidence_segment_indices": [
-            26,
-            27,
-            28,
-            29,
-            30,
-            64,
-            65,
-            66,
-            70,
-            71,
-            72,
-            73
-          ],
-          "start_seconds": 72.24,
-          "end_seconds": 172.72
-        },
-        {
-          "point": "The episode argues that affordability, healthcare, food assistance, and data centers mattered more to voters than anti-trans messaging.",
-          "evidence_segment_indices": [
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120
-          ],
-          "start_seconds": 198.72,
-          "end_seconds": 277.68
-        },
-        {
-          "point": "Reported gains by trans and non-binary candidates are presented as evidence of expanding political participation.",
-          "evidence_segment_indices": [
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189,
-            190,
-            191,
-            192,
-            195,
-            196,
-            197
-          ],
-          "start_seconds": 381.759,
-          "end_seconds": 430.96
-        },
-        {
-          "point": "The creator distinguishes electoral optimism from ongoing discrimination and policy risks.",
-          "evidence_segment_indices": [
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            221,
-            222,
-            223,
-            224,
-            225,
-            300,
-            301,
-            304,
-            305,
-            306
-          ],
-          "start_seconds": 428.96,
-          "end_seconds": 669.04
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "08ff8a26be8218fa157dd41e8ba2dc55169773385b566882a8b7d0cb66599d51",
-      "transcript_captured_at": "2026-11-05T18:33:19.810523Z",
-      "summary_generated_at": "2026-11-05T18:38:47.323909Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview is based solely on the supplied transcript and does not independently confirm election results, advertising figures, candidate identities, or ballot status.",
-        "Caption errors and profanity placeholders affect some wording, including names, laws, and policy descriptions.",
-        "Several claims are presented as predictions, interpretations, or allegations by the creator or quoted speakers rather than established facts.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
