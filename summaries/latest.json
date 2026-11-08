@@ -1,11 +1,201 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T03:42:01.204673Z",
+  "generated_at": "2026-11-08T16:42:01.171911Z",
   "reporting_window": {
-    "start": "2026-11-01T03:42:01.204673Z",
-    "end": "2026-11-08T03:42:01.204673Z"
+    "start": "2026-11-01T16:42:01.171911Z",
+    "end": "2026-11-08T16:42:01.171911Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "4p11KojZvuk",
+      "title": "'TRUMP IS CORRUPT' — Republicans BREAK as White House FLAILS After Major Losses",
+      "url": "https://www.youtube.com/watch?v=4p11KojZvuk",
+      "published_at": "2026-11-08T15:08:16.000000Z",
+      "summary": "Aaron Parnas presents allegations and commentary about political strain inside the Trump administration, centering on Senator Ron Johnson’s reported call to examine what he describes as corruption in government and within the administration. The episode characterizes Johnson’s remarks as evidence that some Republicans may be becoming more willing to criticize President Trump, while also portraying Trump as isolated and politically weakened. It discusses disputes over congressional investigations, including accusations that officials are threatening political opponents and the defense of administration members. In the featured exchange, the attorney general argues that the Department of Justice routinely represents executive-branch officials before Congress and could defend them in such proceedings. Parnas also connects the political developments to Trump’s reaction to an election and to a reported one-day stock-market loss, while predicting uncertainty about Republicans’ future alignment and any market rebound. The material consists of commentary and quoted remarks; it does not independently establish the corruption, investigation, impeachment, market-loss, or political-dynamics claims.",
+      "topics": [
+        "Trump administration",
+        "Republican dissent",
+        "Government corruption allegations",
+        "Congressional oversight",
+        "Stock-market reaction"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Senator Ron Johnson said corruption was widespread in government and within the Trump administration and called for examining it.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            2,
+            3,
+            8,
+            39,
+            40,
+            41,
+            42,
+            45,
+            63,
+            65
+          ]
+        },
+        {
+          "claim": "The Department of Justice routinely represents executive-branch officials before Congress and may defend administration members in congressional proceedings.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            162,
+            169,
+            170,
+            171,
+            172,
+            173,
+            182,
+            185,
+            197,
+            201,
+            203,
+            210,
+            211,
+            214,
+            215
+          ]
+        },
+        {
+          "claim": "Pete Hegseth was expected to face impeachment proceedings and receive Department of Justice representation.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            147,
+            148,
+            149,
+            150,
+            151,
+            218,
+            219,
+            220
+          ]
+        },
+        {
+          "claim": "The stock market experienced a one-day loss of approximately $3 trillion following the election results.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            222,
+            223,
+            224,
+            225,
+            226,
+            227
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode attributes claims of rampant corruption to Ron Johnson and to the creator’s interpretation of Johnson’s comments.",
+          "evidence_segment_indices": [
+            0,
+            2,
+            8,
+            39,
+            40,
+            41,
+            63,
+            65
+          ],
+          "start_seconds": 0.08,
+          "end_seconds": 153.2
+        },
+        {
+          "point": "Parnas argues that Republicans are increasingly willing to rebuke Trump and portrays the president as politically weakened.",
+          "evidence_segment_indices": [
+            10,
+            18,
+            19,
+            20,
+            28,
+            29,
+            30,
+            34,
+            35
+          ],
+          "start_seconds": 20.64,
+          "end_seconds": 80.799
+        },
+        {
+          "point": "A featured exchange contrasts congressional oversight with alleged politically motivated investigations and threats.",
+          "evidence_segment_indices": [
+            80,
+            86,
+            95,
+            100,
+            101,
+            102,
+            107,
+            108,
+            109,
+            112,
+            119,
+            125,
+            133,
+            136
+          ],
+          "start_seconds": 179.44,
+          "end_seconds": 285.759
+        },
+        {
+          "point": "The attorney general says DOJ representation of executive officials before Congress is routine and constitutionally grounded.",
+          "evidence_segment_indices": [
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            182,
+            184,
+            185,
+            193,
+            197,
+            201,
+            203,
+            214,
+            215
+          ],
+          "start_seconds": 348.0,
+          "end_seconds": 444.08
+        },
+        {
+          "point": "The closing discussion links Trump’s election reaction to a reported market decline and uncertainty about what follows.",
+          "evidence_segment_indices": [
+            220,
+            222,
+            223,
+            224,
+            226,
+            227,
+            229,
+            230,
+            231,
+            232
+          ],
+          "start_seconds": 448.479,
+          "end_seconds": 478.0
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "14fb66248a1a27ef8724143eec217477cccb525e86c94a19262393db81db996a",
+      "transcript_captured_at": "2026-11-08T16:33:17.186341Z",
+      "summary_generated_at": "2026-11-08T16:38:25.498579Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a single commentary episode with embedded quoted exchanges, not an independently verified record.",
+        "Several names and phrases appear mistranscribed, including references resembling Hegseth, Kash Patel, and other officials.",
+        "The source provides no supporting documents or independent confirmation for corruption, impeachment, investigation, or market-loss assertions.",
+        "Some statements are predictions or interpretations by the creator rather than reported outcomes.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
@@ -5035,209 +5225,6 @@
         "The overview is based solely on the supplied transcript and does not independently confirm election results, advertising figures, candidate identities, or ballot status.",
         "Caption errors and profanity placeholders affect some wording, including names, laws, and policy descriptions.",
         "Several claims are presented as predictions, interpretations, or allegations by the creator or quoted speakers rather than established facts.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "Pz3o3BeNSjU",
-      "title": "BREAKING: Impeachment of Pete Hegseth is Coming, Accountability is HERE!!!",
-      "url": "https://www.youtube.com/watch?v=Pz3o3BeNSjU",
-      "published_at": "2026-11-05T02:40:06.000000Z",
-      "summary": "Aaron Parnas presents a commentary episode arguing that impeachment proceedings against Defense Secretary Pete Hegseth are imminent, while the transcript repeatedly renders the name as “Hoekstra” or “Hexeth.” He says Thomas Massie has initiated a process to force a House vote and claims Republicans privately believe enough votes exist, while also predicting possible proceedings against other Trump administration officials. The episode then turns to an interview with Maryland Governor Wes Moore, who attributes recent electoral results to public frustration with corruption, wars, tariffs, and perceived failures by the administration. Moore supports congressional scrutiny of the defense secretary, calls for fairer Maryland district maps, and urges Democrats to address affordability, health care, immigration, education, and child poverty. He expresses skepticism about President Trump’s stated willingness to cooperate with Democrats, while hoping bipartisan work remains possible. The material is commentary and interview speech; it provides no documentary evidence for the procedural, electoral, or policy claims it discusses.",
-      "topics": [
-        "Defense secretary impeachment",
-        "Congressional accountability",
-        "Wes Moore interview",
-        "Maryland redistricting",
-        "Democratic policy priorities"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The episode claims Thomas Massie initiated a process to force a House impeachment vote and that sufficient Republican votes exist.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            30,
-            31,
-            32,
-            53,
-            54,
-            55,
-            56,
-            57
-          ]
-        },
-        {
-          "claim": "The episode claims impeachment articles were filed against additional Trump administration officials, including RFK Jr. and Linda McMahon.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            58,
-            59,
-            60,
-            61,
-            62,
-            63
-          ]
-        },
-        {
-          "claim": "Moore says Maryland voters approved a measure authorizing action related to congressional redistricting and that he will work with the General Assembly on fair maps.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            112,
-            113,
-            114,
-            116,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            134,
-            135,
-            136,
-            162,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169
-          ]
-        },
-        {
-          "claim": "The interview states that Democrats will control both chambers of Congress after the referenced election.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            251,
-            252,
-            253,
-            254
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas predicts imminent impeachment activity involving the defense secretary and frames it as accountability.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            4,
-            5,
-            10,
-            11,
-            12
-          ],
-          "start_seconds": 0.0,
-          "end_seconds": 28.12
-        },
-        {
-          "point": "Massie’s quoted resolution alleges misconduct and seeks impeachment, trial, removal, and disqualification.",
-          "evidence_segment_indices": [
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44
-          ],
-          "start_seconds": 64.08,
-          "end_seconds": 96.941
-        },
-        {
-          "point": "Moore links public dissatisfaction to corruption, wars, tariffs, and economic pressure.",
-          "evidence_segment_indices": [
-            83,
-            84,
-            87,
-            88,
-            89,
-            90,
-            92,
-            93,
-            94,
-            95,
-            96,
-            97
-          ],
-          "start_seconds": 163.612,
-          "end_seconds": 196.412
-        },
-        {
-          "point": "Moore advocates action on wars, tariffs, health care, immigration, education, housing, and poverty.",
-          "evidence_segment_indices": [
-            256,
-            257,
-            261,
-            262,
-            263,
-            264,
-            265,
-            270,
-            271,
-            272,
-            273,
-            274,
-            275,
-            277,
-            278,
-            279,
-            281,
-            282,
-            286,
-            287,
-            288,
-            289,
-            358,
-            361
-          ],
-          "start_seconds": 504.217,
-          "end_seconds": 714.178
-        },
-        {
-          "point": "Moore says Democrats should prioritize tangible results over messaging.",
-          "evidence_segment_indices": [
-            343,
-            344,
-            347,
-            349,
-            354,
-            355,
-            356,
-            374,
-            375,
-            389,
-            390,
-            391,
-            392
-          ],
-          "start_seconds": 677.738,
-          "end_seconds": 774.939
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "aa7c1e3ff5378355523edae8563846fe3bba7c07c1be2e5f2ebad2f0d926a813",
-      "transcript_captured_at": "2026-11-05T19:33:39.366636Z",
-      "summary_generated_at": "2026-11-05T19:39:34.971412Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript inconsistently identifies the defense secretary as Pete Hegseth, Pete Hoekstra, and “Hexeth,” creating a material identity ambiguity.",
-        "Several captions contain apparent transcription defects, clipped phrases, and overlapping segments.",
-        "The episode presents allegations, predictions, interview statements, and quoted assertions without supporting documents or independent verification.",
-        "The transcript alone does not establish whether the described votes, filings, election outcomes, or policy developments occurred.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
