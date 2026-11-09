@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T20:42:01.172019Z",
+  "generated_at": "2026-11-09T21:42:01.172812Z",
   "reporting_window": {
-    "start": "2026-11-02T20:42:01.172019Z",
-    "end": "2026-11-09T20:42:01.172019Z"
+    "start": "2026-11-02T21:42:01.172812Z",
+    "end": "2026-11-09T21:42:01.172812Z"
   },
   "episodes": [
     {
@@ -262,6 +262,198 @@
         "Many consequential statements are the creator’s characterizations, predictions, or allegations rather than independently established findings.",
         "Several reports and quoted clips are referenced without full source details or corroborating context.",
         "Coverage is limited to this episode’s selected commentary and excerpts, not the underlying documents, rulings, or events.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "V5R9ouF7X_w",
+      "title": "🚨 Hegseth TERRIFIED as JUDGEMENT DAY Arrives, Republicans BREAK and he is DONE!!",
+      "url": "https://www.youtube.com/watch?v=V5R9ouF7X_w",
+      "published_at": "2026-11-09T19:50:20.000000Z",
+      "summary": "The creator presents the episode as an account of an alleged impeachment effort against Defense Secretary Pete Hegseth, centered on eight articles reportedly introduced by Representative Thomas Massie. The excerpt includes purported House-floor language accusing Hegseth of violating the War Powers Resolution by directing U.S. hostilities against Iran without a declaration of war, specific congressional authorization, or an applicable emergency. These allegations are presented through the quoted resolution and are not independently established by the transcript. The episode also includes favorable comments from Marco Rubio and the president, who defend Hegseth’s performance and describe the Iran operation as successful. The creator predicts that enough Republican votes will eventually support impeachment and frames the development as a break with the administration. Much of the segment consists of advocacy, commentary, and calls to subscribe or share. The transcript contains inconsistent spellings of names and compressed or unclear wording, so the specific legal and political claims require verification outside this source.",
+      "topics": [
+        "Hegseth impeachment allegations",
+        "War Powers Resolution",
+        "Iran hostilities",
+        "Republican political response"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Eight articles of impeachment against Defense Secretary Pete Hegseth were introduced by Representative Thomas Massie.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            2,
+            15,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "claim": "The impeachment resolution alleges that Hegseth directed U.S. hostilities against Iran on February 28, 2026, without congressional authorization or an applicable emergency.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            103,
+            104,
+            105,
+            106,
+            108,
+            109,
+            110,
+            111,
+            115,
+            116,
+            119,
+            120,
+            122,
+            129,
+            134,
+            135,
+            136
+          ]
+        },
+        {
+          "claim": "Marco Rubio and the president publicly defended Hegseth and the Iran operation.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            186,
+            188,
+            197,
+            198,
+            199,
+            200,
+            204,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            218,
+            219
+          ]
+        },
+        {
+          "claim": "There will ultimately be enough Republican votes to impeach Hegseth.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            220,
+            221,
+            222
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode focuses on a purported eight-article impeachment resolution against Hegseth.",
+          "evidence_segment_indices": [
+            2,
+            15,
+            21,
+            22,
+            23,
+            28,
+            33,
+            35,
+            36
+          ],
+          "start_seconds": 5.12,
+          "end_seconds": 93.439
+        },
+        {
+          "point": "The quoted resolution frames its first article around alleged violations of the War Powers Resolution and congressional war powers.",
+          "evidence_segment_indices": [
+            45,
+            46,
+            63,
+            65,
+            67,
+            68,
+            81,
+            82,
+            83,
+            89,
+            90
+          ],
+          "start_seconds": 111.04,
+          "end_seconds": 237.68
+        },
+        {
+          "point": "The resolution’s allegations include unauthorized U.S. military action against Iran and continued hostilities.",
+          "evidence_segment_indices": [
+            103,
+            104,
+            105,
+            106,
+            108,
+            110,
+            112,
+            114,
+            129,
+            134,
+            135,
+            140,
+            141,
+            142,
+            143
+          ],
+          "start_seconds": 268.639,
+          "end_seconds": 383.039
+        },
+        {
+          "point": "Rubio and the president offer supportive assessments of Hegseth and the Iran operation.",
+          "evidence_segment_indices": [
+            197,
+            198,
+            199,
+            200,
+            201,
+            204,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214
+          ],
+          "start_seconds": 513.36,
+          "end_seconds": 548.32
+        },
+        {
+          "point": "The creator predicts Republican support for impeachment and urges viewers to amplify the episode.",
+          "evidence_segment_indices": [
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            230,
+            231
+          ],
+          "start_seconds": 557.2,
+          "end_seconds": 582.356
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "41e41e0b6b4415e3fe09a4f545d2302160ff611f5273b34ce08afdc0455e1462",
+      "transcript_captured_at": "2026-11-09T21:33:16.288483Z",
+      "summary_generated_at": "2026-11-09T21:38:25.611884Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Names are inconsistently transcribed, including multiple spellings of Hegseth.",
+        "Several captions contain apparent omissions, repetitions, or malformed words that obscure exact meaning.",
+        "The source provides allegations and selected political remarks but no independent documentation or outcome of the impeachment process.",
+        "The transcript’s references to dates, legal provisions, and Iran-related events require external verification.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -4950,224 +5142,6 @@
         "The supplied material contains commentary and excerpts but no independently documented polling, election, economic, or policy sources.",
         "Some references and time periods are unclear in the captions, including election comparisons and named political figures.",
         "Predictions about future Republican and Democratic conflicts are the speakers’ interpretations, not established outcomes.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "9_mwGGyfSQE",
-      "title": "BREAKING: IRAN SAYS US ATTACK ‘IMMINENT’ | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=9_mwGGyfSQE",
-      "published_at": "2026-11-05T21:30:25.000000Z",
-      "summary": "Kyle Kulinski argues that reported U.S. military preparations around Israel indicate a possible imminent attack on Iran. He cites a reported airlift of air-defense systems, cargo flights, refueling activity, and Israeli shelter preparations, while also describing reports that Iran is moving missile equipment. Kulinski presents these developments as evidence that a larger conflict may be approaching, but the source provides no independent confirmation of the underlying reports. He also discusses an alleged threat against Donald Trump and Iranian warnings about possible attacks on infrastructure and U.S. or allied interests. Kulinski rejects an Israeli intelligence claim that Iran is considering chemical weapons, attributing it to what he views as Israeli strategic motives. He argues that Iran would regard retaliation as defensive, criticizes Trump’s options, and proposes concessions and regional de-escalation as the only viable alternative. The episode closes with predictions of worsening war, economic disruption, and political consequences, all expressed as Kulinski’s analysis rather than established outcomes.",
-      "topics": [
-        "U.S.-Iran tensions",
-        "Military preparations",
-        "Israeli civil defense",
-        "Intelligence claims",
-        "War and politics"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Reported U.S. airlifts and deployments are preparing for an imminent attack on Iran.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43
-          ]
-        },
-        {
-          "claim": "Iran has reportedly moved military equipment and missile launch vehicles while Israeli authorities opened shelters and prepared hospitals.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143
-          ]
-        },
-        {
-          "claim": "Israeli intelligence reportedly told U.S. and regional officials that Iran was considering chemical weapons.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            111,
-            112,
-            113,
-            114,
-            115,
-            116
-          ]
-        },
-        {
-          "claim": "A public display in Tehran reportedly threatened to kill Donald Trump.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            84,
-            85,
-            86,
-            87
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames military movements and civil-defense measures as signs of escalating regional danger.",
-          "evidence_segment_indices": [
-            24,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            68,
-            69,
-            70,
-            71,
-            72
-          ],
-          "start_seconds": 51.92,
-          "end_seconds": 156.56
-        },
-        {
-          "point": "He disputes the chemical-weapons allegation and questions the motives of Israeli intelligence sources.",
-          "evidence_segment_indices": [
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128
-          ],
-          "start_seconds": 238.0,
-          "end_seconds": 277.6
-        },
-        {
-          "point": "He argues that de-escalation would require major U.S. concessions, including ending regional military involvement and lifting sanctions.",
-          "evidence_segment_indices": [
-            161,
-            162,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182
-          ],
-          "start_seconds": 339.44,
-          "end_seconds": 385.6
-        },
-        {
-          "point": "He predicts continued escalation would worsen security, prices, casualties, and domestic political backlash.",
-          "evidence_segment_indices": [
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            210,
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            224,
-            225,
-            226
-          ],
-          "start_seconds": 412.88,
-          "end_seconds": 465.039
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "3c4264a8d72277ce14124c6b61e7d5bb9e60dc3513a692b18175100000586939",
-      "transcript_captured_at": "2026-11-05T23:03:44.317711Z",
-      "summary_generated_at": "2026-11-05T23:08:26.709902Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The episode relies heavily on reports attributed to unnamed sources, flight tracking, and cited media coverage that are not independently corroborated in the transcript.",
-        "Automatic captions contain omissions, profanity placeholders, repetitions, and possible place-name or phrase errors.",
-        "The source presents predictions and political interpretations alongside reported events, so their evidentiary status is not uniform.",
-        "No supporting documents, links, or primary-source records are included beyond the creator’s spoken discussion.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
