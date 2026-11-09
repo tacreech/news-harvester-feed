@@ -1,11 +1,165 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T16:12:01.171181Z",
+  "generated_at": "2026-11-09T19:42:01.200907Z",
   "reporting_window": {
-    "start": "2026-11-02T16:12:01.171181Z",
-    "end": "2026-11-09T16:12:01.171181Z"
+    "start": "2026-11-02T19:42:01.200907Z",
+    "end": "2026-11-09T19:42:01.200907Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "B9RBi5YgRTw",
+      "title": "‘TROUBLE IN PARADISE’ - Trump BREAKS From JD Vance As Republican Party IMPLODES",
+      "url": "https://www.youtube.com/watch?v=B9RBi5YgRTw",
+      "published_at": "2026-11-09T17:50:06.000000Z",
+      "summary": "Aaron Parnas argues that tensions are emerging between Donald Trump and Vice President J.D. Vance as potential Republican succession politics intensify. He presents Trump’s remarks about Vance’s Iran criticism as simultaneously supportive and undermining, while interpreting them as evidence that Trump may be considering alternatives such as Marco Rubio. Parnas also says Vance is pursuing an independent political course and attributes Republican losses to the Iran war based on a reported Vance statement. The episode further portrays Senator Ted Cruz as a possible 2028 contender and highlights contrasting comments in which Cruz first endorsed an aggressive approach toward Iran and later discussed ending the prolonged conflict. Finally, Parnas says Trump challenged the 2026 election results and that Republican figures are urging him to stop, framing this as evidence of weakening influence within the party. These conclusions rely on the creator’s commentary and selected excerpts; the transcript does not independently establish the political claims, election allegations, or private relationships described.",
+      "topics": [
+        "Trump-Vance tensions",
+        "Republican succession politics",
+        "Iran war debate",
+        "2026 election allegations"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Trump publicly undermined Vance and may prefer Marco Rubio or another alternative as a future Republican successor.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            9,
+            10,
+            16,
+            17,
+            64,
+            70,
+            77,
+            80,
+            81
+          ]
+        },
+        {
+          "claim": "Vance said Trump’s war with Iran contributed to Republican losses.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44
+          ]
+        },
+        {
+          "claim": "Trump alleged that the 2026 midterm election and voting machines were rigged.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "claim": "Ted Cruz’s position on the Iran war shifted from urging decisive action to supporting a conclusion to the conflict.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            188,
+            189,
+            192,
+            203,
+            210,
+            211,
+            220,
+            223,
+            227,
+            232,
+            233,
+            234
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas describes Vance as seeking to chart an independent political course.",
+          "evidence_segment_indices": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "start_seconds": 78.799,
+          "end_seconds": 94.079
+        },
+        {
+          "point": "Trump said Vance was right about Iran except for one omitted statement and defended repeating the decision.",
+          "evidence_segment_indices": [
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "start_seconds": 109.92,
+          "end_seconds": 135.28
+        },
+        {
+          "point": "The episode presents Cruz as one of several figures potentially positioning for 2028.",
+          "evidence_segment_indices": [
+            133,
+            134,
+            135,
+            136,
+            137,
+            178,
+            179
+          ],
+          "start_seconds": 270.639,
+          "end_seconds": 370.8
+        },
+        {
+          "point": "Parnas characterizes Republican criticism of Trump’s election claims as evidence of declining party support.",
+          "evidence_segment_indices": [
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247
+          ],
+          "start_seconds": 508.479,
+          "end_seconds": 527.12
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "24299b72bd08afede24bada9231f15a2d8e5d2f75a5503827c3aac92701d8859",
+      "transcript_captured_at": "2026-11-09T19:33:15.976925Z",
+      "summary_generated_at": "2026-11-09T19:38:23.703198Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a creator-produced commentary episode, not an independent evidentiary record.",
+        "Several political claims are paraphrased or interpreted by Parnas rather than documented with full source context.",
+        "Caption defects and overlapping segments create minor ambiguity in speaker attribution and wording.",
+        "The transcript alone cannot establish private conversations, election results, or the accuracy of allegations about political motives.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4878,280 +5032,6 @@
         "Speaker attribution is occasionally ambiguous because excerpts and commentary alternate rapidly.",
         "Claims about elections, polling, policy outcomes, investigations, and alleged conduct are source-only assertions here.",
         "The transcript does not provide linked documents or independent corroboration for its factual allegations.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "ib-qe6r38V0",
-      "title": "Nick Fuentes Says MAGA Is COMPLETELY DEAD & Never Coming Back | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=ib-qe6r38V0",
-      "published_at": "2026-11-05T20:30:15.000000Z",
-      "summary": "Kyle Kulinski argues that Nick Fuentes’s reported call for far-right voters to support Democrats reflects a collapse of MAGA’s coalition, while emphasizing that Fuentes considers Donald Trump insufficiently extreme. Kulinski presents Fuentes’s broader prediction that Trump’s record will damage JD Vance’s future prospects and leave Republicans facing an internal succession struggle. The episode then contests a possible Republican attempt to reframe the Iran war as an anti-war failure, asserting that Democrats would be more credible on that issue. Kulinski also attributes Republican losses to corruption, domestic policy, and public backlash, while describing a projected Democratic advantage in 2028. These claims are presented through commentary, excerpts, and hypothetical electoral maps rather than independently documented evidence in the supplied material. The episode concludes with Kulinski’s recommendations for Democrats: pass popular single-issue legislation, force Republicans to take visible positions, and investigate alleged misconduct. Overall, the segment is an argumentative political analysis whose predictions and factual assertions require separate verification.",
-      "topics": [
-        "MAGA and far-right politics",
-        "JD Vance and 2028 predictions",
-        "Iran war and foreign policy",
-        "Republican electoral prospects",
-        "Democratic strategy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Nick Fuentes urged his audience to vote a straight Democratic ticket.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3
-          ]
-        },
-        {
-          "claim": "Recent elections produced the statewide results and electoral map described by Kulinski, including a projected 365 or 401 electoral votes for Democrats in 2028.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            299,
-            300,
-            301,
-            302,
-            303,
-            304,
-            305,
-            306,
-            307,
-            308,
-            309,
-            310,
-            311,
-            312,
-            321,
-            322,
-            323,
-            324,
-            325,
-            326,
-            327,
-            328,
-            329,
-            330
-          ]
-        },
-        {
-          "claim": "The episode’s allegations concerning military actions, civilian deaths, kidnapping, bombing, oil and gold seizures, corruption, and detention practices are accurate.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            135,
-            136,
-            137,
-            142,
-            143,
-            144,
-            145,
-            146
-          ]
-        },
-        {
-          "claim": "Democrats repeatedly voted in the House to end the Iran war through war-powers measures, as described.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames Fuentes’s reported position as evidence of severe disillusionment within the far right.",
-          "evidence_segment_indices": [
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33
-          ],
-          "start_seconds": 63.84,
-          "end_seconds": 82.4
-        },
-        {
-          "point": "Fuentes is presented as predicting that Trump will politically damage JD Vance and constrain his 2028 prospects.",
-          "evidence_segment_indices": [
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59
-          ],
-          "start_seconds": 86.799,
-          "end_seconds": 138.64
-        },
-        {
-          "point": "Kulinski rejects a Republican anti-war repositioning, arguing that Democrats would have greater credibility on Iran.",
-          "evidence_segment_indices": [
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79,
-            80,
-            118,
-            119,
-            120,
-            121,
-            122,
-            123
-          ],
-          "start_seconds": 157.92,
-          "end_seconds": 269.68
-        },
-        {
-          "point": "The proposed Democratic response emphasizes popular legislation, investigations, and public accountability.",
-          "evidence_segment_indices": [
-            401,
-            402,
-            403,
-            404,
-            405,
-            406,
-            407,
-            408,
-            409,
-            410,
-            411,
-            412,
-            417,
-            418,
-            419,
-            420,
-            421,
-            422,
-            423,
-            424,
-            425,
-            426,
-            427,
-            428
-          ],
-          "start_seconds": 860.0,
-          "end_seconds": 919.279
-        },
-        {
-          "point": "The 2028 outlook is presented as a conditional prediction dependent on continued Republican conflict, war, corruption, and chaos.",
-          "evidence_segment_indices": [
-            339,
-            340,
-            341,
-            342,
-            343,
-            344,
-            345,
-            346,
-            347,
-            348,
-            349,
-            350,
-            351,
-            352,
-            353,
-            354,
-            355,
-            356,
-            357,
-            358,
-            359,
-            360
-          ],
-          "start_seconds": 719.44,
-          "end_seconds": 770.399
-        },
-        {
-          "point": "The source includes profanity, insults, transcription defects, and unclear references that limit precise interpretation.",
-          "evidence_segment_indices": [
-            9,
-            10,
-            11,
-            55,
-            56,
-            81,
-            102,
-            128,
-            134,
-            142,
-            160,
-            176,
-            227,
-            261,
-            281,
-            290,
-            313,
-            387,
-            456,
-            469
-          ],
-          "start_seconds": 22.48,
-          "end_seconds": 1019.36
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "b8b796d381257490565b88451b869696bf5225ef9bcc5355decc691197d67d8d",
-      "transcript_captured_at": "2026-11-05T21:33:19.906593Z",
-      "summary_generated_at": "2026-11-05T21:38:51.785943Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The material is a partisan monologue and embedded commentary, not a neutral report.",
-        "Many claims about elections, wars, casualties, polling, and officeholders are asserted without supporting documentation in the source.",
-        "Caption defects include profanity redactions, malformed words, name uncertainty, and occasional unclear speaker changes.",
-        "The 2028 electoral projections are hypothetical and conditional rather than established outcomes.",
-        "The supplied excerpt provides source-only coverage and does not include corroborating records or full context.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
