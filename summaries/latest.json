@@ -1,11 +1,369 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T18:12:01.170527Z",
+  "generated_at": "2026-11-09T01:42:01.144525Z",
   "reporting_window": {
-    "start": "2026-11-01T18:12:01.170527Z",
-    "end": "2026-11-08T18:12:01.170527Z"
+    "start": "2026-11-02T01:42:01.144525Z",
+    "end": "2026-11-09T01:42:01.144525Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "QT5zny2K7hw",
+      "title": "🚨 'PROSECUTE THEM' — Trump DOJ Launches MAJOR ATTACK as Trump ERUPTS in the White House",
+      "url": "https://www.youtube.com/watch?v=QT5zny2K7hw",
+      "published_at": "2026-11-08T23:53:55.000000Z",
+      "summary": "Aaron Parnas presents the episode as a warning that the Trump administration faces escalating conflict with a Democratic-controlled Congress and internal Republican tensions. He highlights an interview in which Attorney General Todd Blanch declined to rule out investigations or prosecutions related to lawmakers’ rhetoric, while distinguishing protected criticism from allegedly threatening conduct. Parnas then links the dispute to competing claims about congressional oversight, possible impeachment, and the Justice Department’s support for administration officials facing investigations. He also discusses Republican Senator Ron Johnson’s reported concerns about lobbying and access surrounding tobacco, vaping, and kratom policy, alongside allegations that presidential staff may filter information reaching Trump. Finally, the episode says advisers are privately questioning whether Vice President JD Vance should pursue a presidential campaign, and it portrays Mitch McConnell as offering no substantive response to Republican midterm losses. The account is commentary built largely from quoted interviews and reported assertions; it does not independently establish the allegations, polling, or political forecasts it presents.",
+      "topics": [
+        "Congressional oversight and prosecutions",
+        "Trump administration legal conflict",
+        "Lobbying and presidential access",
+        "Republican succession politics"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Attorney General Todd Blanch declined to rule out potential prosecutions connected to lawmakers’ statements and described circumstances that could constitute crimes.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            19,
+            20,
+            21,
+            79,
+            80,
+            81,
+            82,
+            83,
+            93,
+            94,
+            95
+          ]
+        },
+        {
+          "claim": "A federal grand jury previously declined to indict Senator Alyssa Slack and five other Democrats over a video concerning unlawful orders.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            102,
+            103,
+            104,
+            105,
+            106,
+            107
+          ]
+        },
+        {
+          "claim": "An AP voter poll found that about seven in ten respondents believed Congress was not doing enough to check the presidency.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136
+          ]
+        },
+        {
+          "claim": "Several advisers are privately urging JD Vance to consider seeking an Ohio Senate or gubernatorial position instead of running for president.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode frames congressional oversight, impeachment talk, and possible prosecutions as a separation-of-powers conflict.",
+          "evidence_segment_indices": [
+            55,
+            56,
+            57,
+            58,
+            59,
+            63,
+            64,
+            68,
+            69,
+            70,
+            71,
+            75,
+            76,
+            114,
+            115,
+            116,
+            117
+          ],
+          "start_seconds": 112.799,
+          "end_seconds": 237.28
+        },
+        {
+          "point": "Blanch says criticism is protected but suggests threatening conduct may warrant investigation or prosecution.",
+          "evidence_segment_indices": [
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            92,
+            93,
+            94,
+            95,
+            96
+          ],
+          "start_seconds": 163.519,
+          "end_seconds": 193.2
+        },
+        {
+          "point": "The discussion attributes corruption concerns to Republican Senator Ron Johnson while examining alleged lobbying influence over policy.",
+          "evidence_segment_indices": [
+            143,
+            144,
+            145,
+            148,
+            149,
+            150,
+            151,
+            152,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160
+          ],
+          "start_seconds": 286.32,
+          "end_seconds": 327.36
+        },
+        {
+          "point": "The closing segment focuses on uncertainty around Vance’s future and McConnell’s limited response to Republican losses.",
+          "evidence_segment_indices": [
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            219,
+            220,
+            221,
+            223,
+            224,
+            225,
+            227
+          ],
+          "start_seconds": 404.16,
+          "end_seconds": 470.639
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "1bfe313ee910b380a5fbebf1a63cc06c1e2065ce489a75423a10fc16a894a10d",
+      "transcript_captured_at": "2026-11-09T01:33:22.839558Z",
+      "summary_generated_at": "2026-11-09T01:38:47.121173Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a single commentary episode, not independent reporting or corroboration.",
+        "Several captions contain transcription errors, omissions, and unclear names or phrases.",
+        "Allegations about corruption, lobbying, threats, polling, and private political advice require independent verification.",
+        "The episode’s predictions and framing reflect the creator’s interpretation and the quoted speakers’ statements.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "Ndd5FfIgjbI",
+      "title": "This Is Getting Very Risky...",
+      "url": "https://www.youtube.com/watch?v=Ndd5FfIgjbI",
+      "published_at": "2026-11-08T22:50:22.000000Z",
+      "summary": "Mutahar argues that rapid PC emulation of a newly released Nintendo-exclusive Ocarina of Time remake creates tension between game preservation and piracy. He describes reports that the game was dumped shortly after release, then discusses projects such as Hookshot that can recompile extracted game files into an unofficial PC version. According to his account, the result currently performs poorly compared with the Switch version, despite the technical achievement involved. He distinguishes between legally purchasing and dumping one’s own copy and downloading unauthorized copies, while arguing that much of the current activity likely falls into the latter category. The episode’s broader concern is that highly visible piracy could encourage companies to strengthen console security, reduce physical releases, or rely more heavily on online and cloud-based access. Mutahar nevertheless supports emulation as a long-term preservation tool, citing the risk that hardware, compatibility, and official availability may eventually disappear. He closes by recommending older fan projects as a better current PC option.",
+      "topics": [
+        "Game emulation and recompilation",
+        "Nintendo software piracy",
+        "Digital preservation",
+        "Console security and DRM"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The remake was dumped and distributed online within days of release, and its files enabled PC emulation or recompilation.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            58,
+            87,
+            89,
+            109,
+            120,
+            123,
+            125,
+            395,
+            396
+          ]
+        },
+        {
+          "claim": "Hookshot can recompile extracted Switch game files into an unofficial PC version, while current performance and visual fidelity are substantially worse than the native release.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            132,
+            134,
+            145,
+            154,
+            158,
+            159,
+            172,
+            176,
+            185,
+            196,
+            198,
+            203,
+            206
+          ]
+        },
+        {
+          "claim": "The creator’s historical and legal characterization of emulation, copyright, copy protection, and the Bleem litigation should be independently checked.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            46,
+            49,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56
+          ]
+        },
+        {
+          "claim": "The creator predicts that prominent piracy could lead companies toward tighter security, fewer physical releases, or cloud-based access and persistent online requirements.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            409,
+            412,
+            418,
+            421,
+            433,
+            436,
+            448,
+            503,
+            507,
+            517,
+            522
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames the newly released remake’s rapid emulation as a warning for the future of game distribution.",
+          "evidence_segment_indices": [
+            0,
+            3,
+            8,
+            9,
+            57,
+            241
+          ],
+          "start_seconds": 0.24,
+          "end_seconds": 576.56
+        },
+        {
+          "point": "He describes a distinction between personal dumping of a purchased copy and downloading shared unauthorized dumps.",
+          "evidence_segment_indices": [
+            268,
+            269,
+            270,
+            315,
+            317,
+            318,
+            319,
+            320
+          ],
+          "start_seconds": 634.079,
+          "end_seconds": 758.32
+        },
+        {
+          "point": "He supports preservation-oriented emulation despite acknowledging that current activity is substantially tied to piracy.",
+          "evidence_segment_indices": [
+            324,
+            327,
+            331,
+            332,
+            367,
+            376,
+            378
+          ],
+          "start_seconds": 761.2,
+          "end_seconds": 891.279
+        },
+        {
+          "point": "He says current PC implementations are technically impressive but unstable, slow, and visually incomplete.",
+          "evidence_segment_indices": [
+            172,
+            176,
+            185,
+            195,
+            196,
+            223,
+            229,
+            231,
+            234
+          ],
+          "start_seconds": 408.479,
+          "end_seconds": 559.839
+        },
+        {
+          "point": "He recommends an older Ocarina of Time PC project as a more polished option for users seeking enhanced PC play.",
+          "evidence_segment_indices": [
+            526,
+            530,
+            538,
+            544,
+            545,
+            548
+          ],
+          "start_seconds": 1231.52,
+          "end_seconds": 1288.48
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "04e0a50f15d09f2a8a4791bf1b2b08ed65c92761a9a2a24f4b9b4971d0f10046",
+      "transcript_captured_at": "2026-11-09T01:33:14.805185Z",
+      "summary_generated_at": "2026-11-09T01:38:27.054485Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is an automatic caption record with profanity redactions, misrecognitions, and overlapping segments.",
+        "Project names, technical terms, performance figures, release timing, and legal-history statements are presented only as the creator describes them.",
+        "The source provides commentary and claimed demonstrations but no independent documentation, corroboration, or direct evidence of distribution scale.",
+        "Predictions about future industry policy and the effects of piracy are speculative opinions rather than established outcomes.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4796,400 +5154,6 @@
         "Many allegations about wars, corruption, health care, election results, and government actions are asserted or paraphrased without supporting documentation in the supplied segments.",
         "Automatic captions contain profanity redactions, apparent transcription errors, and ambiguous names or terms.",
         "The supplied material is an excerpt focused mainly on Fox News; several topics announced in the opening are not substantively covered here.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "OBeX80c_lHE",
-      "title": "‘A BLOODBATH’ — Top Trump Officials RESIGN in FEAR, They are JUMPING SHIP!!",
-      "url": "https://www.youtube.com/watch?v=OBeX80c_lHE",
-      "published_at": "2026-11-05T18:50:25.000000Z",
-      "summary": "The creator argues that the resignation of Harmy Dylan, described as a senior Justice Department civil-rights official, signals the beginning of broader departures and political conflict inside the department. He presents allegations from former DOJ officials that Dylan redirected the division away from desegregation, pursued “anti-white” racism cases, pressured institutions and election workers, and presided over the departure of more than three-quarters of its lawyers. The creator also questions whether her departure will materially change the division’s direction, predicting continued alignment with the president’s agenda. The episode then features political excerpts in which Juliana Stratton says she will not support Trump nominees, while Abdul Sayed describes conditional cooperation with the administration and criticizes its leaders. Finally, an Illinois governor advocates raising the federal minimum wage, paid leave, and broader health-care access. The transcript is commentary-driven and includes several allegations, predictions, excerpts, and apparent caption errors; it does not independently document the claims.",
-      "topics": [
-        "Justice Department resignation",
-        "Civil-rights policy",
-        "Senate nominations",
-        "Democratic strategy",
-        "Minimum wage and paid leave"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Harmy Dylan resigned as Assistant Attorney General and chief of the Justice Department’s Civil Rights Division.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            2,
-            4,
-            6,
-            30,
-            32,
-            33
-          ]
-        },
-        {
-          "claim": "During Dylan’s tenure, the division halted school-desegregation efforts, prioritized anti-white-racism cases, and more than three-quarters of its lawyers left.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            19,
-            21,
-            22,
-            23,
-            44,
-            48,
-            51,
-            52,
-            53
-          ]
-        },
-        {
-          "claim": "Former DOJ officials characterized Dylan’s leadership as destructive and alleged that the division pursued weak cases against universities, officials, and election workers.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            42,
-            44,
-            45,
-            46,
-            47,
-            55,
-            56,
-            57
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator frames the resignation as the first of many expected DOJ departures.",
-          "evidence_segment_indices": [
-            10,
-            11,
-            12,
-            13,
-            14
-          ],
-          "start_seconds": 19.6,
-          "end_seconds": 33.6
-        },
-        {
-          "point": "The creator says Dylan’s departure may not change the Civil Rights Division’s policy direction.",
-          "evidence_segment_indices": [
-            61,
-            66,
-            67,
-            68,
-            71,
-            74,
-            75,
-            76,
-            77,
-            78
-          ],
-          "start_seconds": 130.399,
-          "end_seconds": 172.56
-        },
-        {
-          "point": "Juliana Stratton states that she will not vote for Trump nominees and describes the administration as authoritarian and corrupt.",
-          "evidence_segment_indices": [
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            102,
-            103,
-            115,
-            116,
-            117
-          ],
-          "start_seconds": 210.56,
-          "end_seconds": 262.24
-        },
-        {
-          "point": "Abdul Sayed expresses conditional willingness to work with administration officials while criticizing their conduct and rhetoric.",
-          "evidence_segment_indices": [
-            143,
-            145,
-            147,
-            148,
-            149,
-            150,
-            156,
-            157,
-            164,
-            165,
-            166,
-            167
-          ],
-          "start_seconds": 308.32,
-          "end_seconds": 352.0
-        },
-        {
-          "point": "An Illinois governor advocates raising the federal minimum wage and expanding paid leave and health-care access.",
-          "evidence_segment_indices": [
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            225,
-            227,
-            228,
-            231,
-            232,
-            233,
-            238,
-            243,
-            245,
-            246
-          ],
-          "start_seconds": 440.72,
-          "end_seconds": 515.76
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "2ce5835018c942123c5f860c0c204bd4ec86bc992f53654dbbe82e7b100f150f",
-      "transcript_captured_at": "2026-11-05T20:03:34.223983Z",
-      "summary_generated_at": "2026-11-05T20:09:43.322666Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains inconsistent names and apparent caption defects, including variants of Harmy or Harmony Dylan and Abdul Sayed or Abdul Aliad.",
-        "The material is a creator’s commentary plus quoted excerpts; it provides no independent documentation for the allegations or predictions.",
-        "Several excerpts are fragmentary, overlapping, or difficult to parse, limiting confidence in exact wording and speaker identification.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "wwJtL4MQ-5E",
-      "title": "🚨 Republicans ERUPT in CHAOS and Prepare for IMPEACHMENT as Vance BREAKS from Trump!!!!",
-      "url": "https://www.youtube.com/watch?v=wwJtL4MQ-5E",
-      "published_at": "2026-11-05T15:04:57.000000Z",
-      "summary": "Aaron Parnas presents a rapid political update centered on his claim that Republican divisions are widening after midterm losses. He says lawmakers may join Democrats in seeking Defense Secretary Pete Hegseth’s impeachment and describes a resolution introduced by Thomas Massie. Parnas also portrays Vice President JD Vance as diverging from Donald Trump on Iran and foreign policy, based on reporting he attributes to Fox News. The episode reviews several unresolved elections, including Mississippi, Alaska, Kansas, and Colorado, while predicting Democratic gains and emphasizing that vote counts, certification, mail ballots, and ranked-choice procedures remain unsettled. It further discusses Republican criticism of the party’s direction and a Wall Street Journal report, as characterized by Parnas, about Melania Trump objecting to deportations affecting people she knows. The closing item reports Russell Brand’s conviction in London. The transcript contains apparent name-recognition errors and presents many claims, predictions, and attributed reports without underlying documents.",
-      "topics": [
-        "Republican divisions and impeachment",
-        "JD Vance and Trump foreign policy",
-        "Unresolved election results",
-        "Immigration policy and Melania Trump",
-        "Russell Brand conviction"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Republicans may join Democrats in voting to impeach Defense Secretary Pete Hegseth, potentially as soon as the following week.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            37,
-            38,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83
-          ]
-        },
-        {
-          "claim": "JD Vance publicly diverged from Donald Trump on Iran and broader foreign policy after a White House messaging meeting.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50
-          ]
-        },
-        {
-          "claim": "Democrat Scott Colom was leading in Mississippi and could become the first Black senator elected there since 1875.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137
-          ]
-        },
-        {
-          "claim": "A Wall Street Journal report said Melania Trump complained about deportations and that Donald Trump told aides Stephen Miller had gone too far.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            210,
-            211,
-            212
-          ]
-        },
-        {
-          "claim": "Russell Brand was convicted of rape in a London courtroom and faced significant prison time.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            213,
-            214,
-            215
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode frames Republican unrest as connected to impeachment efforts and possible defections from party leadership.",
-          "evidence_segment_indices": [
-            34,
-            35,
-            36,
-            37,
-            38,
-            78,
-            79,
-            80,
-            81,
-            86,
-            87,
-            88
-          ],
-          "start_seconds": 67.36,
-          "end_seconds": 192.64
-        },
-        {
-          "point": "Several election outcomes remain unresolved, with counting, certification, mail ballots, recount issues, or ranked-choice procedures affecting timelines.",
-          "evidence_segment_indices": [
-            108,
-            109,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            144,
-            145,
-            146,
-            147,
-            148,
-            149,
-            157,
-            158,
-            159,
-            160,
-            161,
-            162
-          ],
-          "start_seconds": 238.64,
-          "end_seconds": 365.6
-        },
-        {
-          "point": "Parnas highlights possible Democratic wins in Mississippi, Kansas, and Colorado while noting that some results remain subject to additional counting.",
-          "evidence_segment_indices": [
-            110,
-            114,
-            117,
-            118,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            172,
-            174,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            185,
-            186
-          ],
-          "start_seconds": 242.64,
-          "end_seconds": 417.12
-        },
-        {
-          "point": "The closing discussion links immigration-policy debate to an attributed report about Melania Trump and mentions Brand’s legal case.",
-          "evidence_segment_indices": [
-            197,
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207,
-            211,
-            212,
-            213,
-            214,
-            215
-          ],
-          "start_seconds": 434.88,
-          "end_seconds": 475.12
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "a905ed668e44032d2fbaba413f5fd3ed54847b1688306b81133d6fc467e06025",
-      "transcript_captured_at": "2026-11-05T20:03:18.470638Z",
-      "summary_generated_at": "2026-11-05T20:08:56.851558Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The captions contain apparent transcription and name-recognition errors, including variants of Hegseth, Colom, and other names.",
-        "The material is a creator’s commentary and summary; cited Fox News and Wall Street Journal reporting is not provided for independent review.",
-        "Many election figures and projected outcomes are described as current or expected, but the transcript does not include official election records.",
-        "Several statements are predictions or allegations rather than established findings, including claims about party defections, deportation policy, and impeachment prospects.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
