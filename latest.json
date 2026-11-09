@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T19:00:52.745778Z",
+  "generated_at": "2026-11-09T19:30:15.210931Z",
   "reporting_window": {
-    "start": "2026-11-02T19:00:52.745778Z",
-    "end": "2026-11-09T19:00:52.745778Z",
+    "start": "2026-11-02T19:30:15.210931Z",
+    "end": "2026-11-09T19:30:15.210931Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,16 +14,16 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-09T19:00:51.153231Z",
+      "last_successful_poll": "2026-11-09T19:30:13.479805Z",
       "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_new",
-      "discovery_status": "success_new",
-      "last_successful_poll": "2026-11-09T19:00:51.513016Z",
+      "health": "success_no_new",
+      "discovery_status": "success_no_new",
+      "last_successful_poll": "2026-11-09T19:30:13.684647Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-09T19:00:51.954169Z",
+      "last_successful_poll": "2026-11-09T19:30:14.154971Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-09T19:00:52.373263Z",
+      "last_successful_poll": "2026-11-09T19:30:14.606734Z",
       "warnings": []
     },
     {
@@ -50,7 +50,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-09T19:00:52.578691Z",
+      "last_successful_poll": "2026-11-09T19:30:15.010781Z",
       "warnings": []
     }
   ],
@@ -641,7 +641,7 @@
       "first_seen": "2026-11-06T16:30:53.833092Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "captions_ready"
+      "transcript_status": "expired"
     },
     {
       "creator": "Aaron Parnas",
@@ -1901,7 +1901,7 @@
       "first_seen": "2026-11-03T02:00:16.323506Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "captions_ready"
+      "transcript_status": "expired"
     },
     {
       "creator": "Aaron Parnas",
@@ -1925,7 +1925,7 @@
       "first_seen": "2026-11-03T02:00:16.323506Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "captions_ready"
+      "transcript_status": "expired"
     },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
@@ -2070,18 +2070,6 @@
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "not_queued"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "wVYzhpugte4",
-      "title": "Republicans BLAME Trump for LOSSES and TURN ON the White House, the KNIVES are OUT!!!",
-      "published_at": "2026-11-02T19:21:45.000000Z",
-      "url": "https://www.youtube.com/watch?v=wVYzhpugte4",
-      "first_seen": "2026-11-02T21:30:33.925150Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "expired"
     }
   ]
 }
