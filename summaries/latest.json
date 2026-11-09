@@ -1,11 +1,213 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T01:42:01.144525Z",
+  "generated_at": "2026-11-09T16:12:01.171181Z",
   "reporting_window": {
-    "start": "2026-11-02T01:42:01.144525Z",
-    "end": "2026-11-09T01:42:01.144525Z"
+    "start": "2026-11-02T16:12:01.171181Z",
+    "end": "2026-11-09T16:12:01.171181Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "-LhuByoMte0",
+      "title": "🚨 Impeachment is HERE—Republicans TURN on White House as Trump SCRAMBLES!!",
+      "url": "https://www.youtube.com/watch?v=-LhuByoMte0",
+      "published_at": "2026-11-09T15:11:26.000000Z",
+      "summary": "Aaron Parnas presents a report centered on Thomas Massie’s claimed filing of eight articles of impeachment against Defense Secretary Pete Hegath. The episode says the resolution alleges unauthorized wars, civilian deaths, attacks on boats, retaliation against Senator Mark Kelly, and operations in Venezuela and Yemen. Parnas emphasizes that these are allegations in a resolution, not court findings. He says Democrats are expected to support impeachment while some Republicans, including French Hill, remain open to considering it; the episode predicts a House vote and possible Senate trial. It also discusses President Trump’s continued defense of Hegath and tensions over immigration enforcement, including a claim that Trump called his deportation crackdown “too tough” while ICE activity continued. The episode closes with possible leadership challenges involving Chuck Schumer and John Thune. Much of the account relies on captioned narration, quoted statements, and attributed media reports, so the underlying claims and names require independent confirmation.",
+      "topics": [
+        "Impeachment proceedings",
+        "Military and foreign policy",
+        "Immigration enforcement",
+        "Congressional leadership"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Thomas Massie filed eight articles of impeachment against Defense Secretary Pete Hegath, alleging unauthorized military operations and other misconduct.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            27,
+            28,
+            30,
+            31,
+            32,
+            33,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            46,
+            48,
+            62,
+            69,
+            73,
+            75
+          ]
+        },
+        {
+          "claim": "The proposed impeachment vote could pass with Republican support and lead to a Senate trial.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            95,
+            97,
+            98,
+            99,
+            100,
+            101,
+            116,
+            117,
+            118,
+            164,
+            172,
+            173,
+            174,
+            176
+          ]
+        },
+        {
+          "claim": "The impeachment resolution attributes specific civilian deaths to U.S. strikes in Iran, Yemen, and against alleged drug boats.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            50,
+            53,
+            54,
+            55,
+            58,
+            59,
+            60,
+            61,
+            63,
+            64,
+            65,
+            66,
+            67,
+            75,
+            76
+          ]
+        },
+        {
+          "claim": "ICE continued aggressive enforcement after Trump described the deportation crackdown as too tough, including the reported detention of an eight-year-old boy.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198
+          ]
+        },
+        {
+          "claim": "Chris Van Hollen may challenge Chuck Schumer for Senate leadership, while John Thune may face a Republican leadership challenge.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            204,
+            205,
+            206,
+            207,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode’s main subject is a reported impeachment resolution against Pete Hegath.",
+          "evidence_segment_indices": [
+            27,
+            28,
+            30,
+            31,
+            32,
+            33
+          ],
+          "start_seconds": 59.359,
+          "end_seconds": 81.119
+        },
+        {
+          "point": "The resolution’s allegations concern war powers, civilian protection, strikes, and retaliation against a senator.",
+          "evidence_segment_indices": [
+            36,
+            37,
+            46,
+            50,
+            58,
+            62,
+            69,
+            70,
+            75
+          ],
+          "start_seconds": 83.68,
+          "end_seconds": 178.879
+        },
+        {
+          "point": "Republican reaction is described as unsettled, with some lawmakers seeking debate before deciding.",
+          "evidence_segment_indices": [
+            95,
+            97,
+            100,
+            116,
+            117,
+            118,
+            149,
+            150,
+            164
+          ],
+          "start_seconds": 215.519,
+          "end_seconds": 360.8
+        },
+        {
+          "point": "The episode links White House tensions to immigration enforcement and congressional leadership contests.",
+          "evidence_segment_indices": [
+            180,
+            186,
+            187,
+            188,
+            200,
+            204,
+            210,
+            216
+          ],
+          "start_seconds": 393.36,
+          "end_seconds": 474.16
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "49ca98f3183b25eb4bfc3b7fa090a43af8bdcfa154d2fe423704c11af0b59c88",
+      "transcript_captured_at": "2026-11-09T16:03:16.713989Z",
+      "summary_generated_at": "2026-11-09T16:08:26.597421Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Automatic captions contain inconsistent spellings for several names, including the defense secretary and lawmakers.",
+        "The source presents allegations, predictions, and media-attributed claims without documentary evidence in the supplied segments.",
+        "Reported vote timing, vote counts, leadership challenges, enforcement incidents, and casualty figures require independent verification.",
+        "The supplied material is an episode excerpt and does not establish the final status of any proceeding.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4950,210 +5152,6 @@
         "Caption defects include profanity redactions, malformed words, name uncertainty, and occasional unclear speaker changes.",
         "The 2028 electoral projections are hypothetical and conditional rather than established outcomes.",
         "The supplied excerpt provides source-only coverage and does not include corroborating records or full context.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "3ht0J27-Wtk",
-      "title": "Fox News Has Existential Crisis Over Death Of MAGA | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=3ht0J27-Wtk",
-      "published_at": "2026-11-05T20:05:11.000000Z",
-      "summary": "Kyle Kulinski argues that Fox News is undergoing an “existential crisis” after what he describes as a major Democratic electoral victory and a collapse of the MAGA project. He reviews Fox commentators’ explanations for Republican losses, emphasizing their references to affordability, inflation, corruption, immigration, artificial intelligence, and the Iran war. Kulinski interprets remarks by Sean Hannity and others as partial admissions that war policy and economic pressures harmed Republicans, while criticizing claims that voters merely failed to recognize successful policies. He also contends that Democratic candidates prevailed by emphasizing issues such as Medicare for All, anti-corruption measures, and opposition to overseas wars. The episode includes previews of commentary about Alex Jones, Iran, Republican infighting, Joe Rogan, and CNN, but the supplied material focuses primarily on Fox News and the election. The account is strongly editorial, sarcastic, and reliant on quoted or paraphrased broadcast clips rather than independently presented documentation.",
-      "topics": [
-        "Fox News election analysis",
-        "MAGA and Republican politics",
-        "Economic and foreign-policy issues",
-        "Democratic campaign messaging"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The episode says Democrats achieved a broad electoral victory, including a Democratic candidate who had suspended a campaign winning an Iowa state-house race.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            503,
-            506,
-            507,
-            508,
-            509,
-            510,
-            511,
-            512,
-            513
-          ]
-        },
-        {
-          "claim": "The episode reports that exit-poll respondents ranked corruption, cost of living, the Iran war, immigration, and AI or data centers as significant voting issues, with specific percentages presented by Kulinski.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            182,
-            186,
-            187,
-            188
-          ]
-        },
-        {
-          "claim": "The episode attributes to Fox commentators the view that the Iran war and affordability concerns contributed to Republican losses.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            151,
-            155,
-            164,
-            165,
-            166,
-            304,
-            307,
-            308,
-            309,
-            313,
-            314,
-            315
-          ]
-        },
-        {
-          "claim": "The episode alleges that Republican policies reduced health-care access, increased inequality, and caused other harms, including through legislation and immigration enforcement.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            408,
-            409,
-            410,
-            411,
-            412,
-            534,
-            535,
-            536,
-            537,
-            542,
-            543,
-            544,
-            545,
-            546,
-            547
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames Fox News coverage as defensive post-election analysis and highlights internal disagreement over the economy, war, and campaign messaging.",
-          "evidence_segment_indices": [
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            71,
-            72,
-            73,
-            164,
-            165,
-            166,
-            221,
-            222,
-            223
-          ],
-          "start_seconds": 133.12,
-          "end_seconds": 485.44
-        },
-        {
-          "point": "He criticizes the argument that continued consumer spending proves economic strength, saying households may be spending out of necessity while debt rises.",
-          "evidence_segment_indices": [
-            81,
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            206,
-            207,
-            208,
-            209,
-            210
-          ],
-          "start_seconds": 179.2,
-          "end_seconds": 460.8
-        },
-        {
-          "point": "He argues that Democratic candidates’ policy-focused messages helped distinguish them from Republican attacks and claims about Trump’s legacy.",
-          "evidence_segment_indices": [
-            273,
-            274,
-            275,
-            277,
-            278,
-            279,
-            280,
-            281,
-            282,
-            283,
-            287,
-            288,
-            289,
-            290
-          ],
-          "start_seconds": 576.56,
-          "end_seconds": 610.399
-        },
-        {
-          "point": "Kulinski presents the result as a strong rejection of Republican control and as evidence that voters responded to both Republican governance and substantive Democratic proposals.",
-          "evidence_segment_indices": [
-            523,
-            524,
-            525,
-            526,
-            527,
-            528,
-            529,
-            530,
-            531,
-            548,
-            549,
-            550,
-            551,
-            552,
-            555,
-            558,
-            559,
-            560,
-            565,
-            568,
-            569,
-            571,
-            573,
-            574
-          ],
-          "start_seconds": 1107.76,
-          "end_seconds": 1217.039
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "9510d6b4a78a3f77c9076bf4aaf526fd76491ed92752e7adaa76eb27b41d5212",
-      "transcript_captured_at": "2026-11-05T21:33:14.686417Z",
-      "summary_generated_at": "2026-11-05T21:38:27.660274Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is a partisan commentary monologue, so its interpretations and characterizations are not neutral findings.",
-        "Many allegations about wars, corruption, health care, election results, and government actions are asserted or paraphrased without supporting documentation in the supplied segments.",
-        "Automatic captions contain profanity redactions, apparent transcription errors, and ambiguous names or terms.",
-        "The supplied material is an excerpt focused mainly on Fox News; several topics announced in the opening are not substantively covered here.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
