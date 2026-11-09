@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T21:00:14.800570Z",
+  "generated_at": "2026-11-09T21:30:55.630534Z",
   "reporting_window": {
-    "start": "2026-11-02T21:00:14.800570Z",
-    "end": "2026-11-09T21:00:14.800570Z",
+    "start": "2026-11-02T21:30:55.630534Z",
+    "end": "2026-11-09T21:30:55.630534Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -12,9 +12,9 @@
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-09T21:00:13.435474Z",
+      "health": "success_new",
+      "discovery_status": "success_new",
+      "last_successful_poll": "2026-11-09T21:30:53.472781Z",
       "warnings": []
     },
     {
@@ -23,7 +23,7 @@
       "identity_status": "verified",
       "health": "success_new",
       "discovery_status": "success_new",
-      "last_successful_poll": "2026-11-09T21:00:13.878886Z",
+      "last_successful_poll": "2026-11-09T21:30:54.314410Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-09T21:00:14.093846Z",
+      "last_successful_poll": "2026-11-09T21:30:54.943409Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-09T21:00:14.351327Z",
+      "last_successful_poll": "2026-11-09T21:30:55.223356Z",
       "warnings": []
     },
     {
@@ -50,11 +50,35 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-09T21:00:14.630372Z",
+      "last_successful_poll": "2026-11-09T21:30:55.463316Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "f_tHEp3BpYo",
+      "title": "This is real.",
+      "published_at": "2026-11-09T21:26:27.000000Z",
+      "url": "https://www.youtube.com/watch?v=f_tHEp3BpYo",
+      "first_seen": "2026-11-09T21:30:54.314410Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "Mb2PawCBnRY",
+      "title": "Trump CLAIMS ELECTION FRAUD As WORST NIGHTMARE COMES TRUE!! | The Kyle Kulinski Show",
+      "published_at": "2026-11-09T20:45:13.000000Z",
+      "url": "https://www.youtube.com/watch?v=Mb2PawCBnRY",
+      "first_seen": "2026-11-09T21:30:53.472781Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -2079,30 +2103,6 @@
       "published_at": "2026-11-02T21:45:32.000000Z",
       "url": "https://www.youtube.com/watch?v=Hc78DR9j8mA",
       "first_seen": "2026-11-02T22:00:11.651819Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "expired"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "vqbaNt6EpiM",
-      "title": "You need to see this. Pic from Reuters.",
-      "published_at": "2026-11-02T21:22:51.000000Z",
-      "url": "https://www.youtube.com/watch?v=vqbaNt6EpiM",
-      "first_seen": "2026-11-02T21:30:33.925150Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "not_queued"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "ZOWMoPQ5GBs",
-      "title": "ALL HELL BREAKS LOOSE As Haley Stevens R*TFUCKS Abdul & TORCHES HER CAREER! | The Kyle Kulinski Show",
-      "published_at": "2026-11-02T21:05:10.000000Z",
-      "url": "https://www.youtube.com/watch?v=ZOWMoPQ5GBs",
-      "first_seen": "2026-11-02T21:30:32.801998Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "expired"
