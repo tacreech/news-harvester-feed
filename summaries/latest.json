@@ -1,11 +1,272 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T19:42:01.200907Z",
+  "generated_at": "2026-11-09T20:42:01.172019Z",
   "reporting_window": {
-    "start": "2026-11-02T19:42:01.200907Z",
-    "end": "2026-11-09T19:42:01.200907Z"
+    "start": "2026-11-02T20:42:01.172019Z",
+    "end": "2026-11-09T20:42:01.172019Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "HnVUAnO1pkw",
+      "title": "STEPHEN MILLER IS F*CKED | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=HnVUAnO1pkw",
+      "published_at": "2026-11-09T20:00:06.000000Z",
+      "summary": "The creator presents an intensely critical commentary on Stephen Miller’s promotion to White House chief of staff, arguing that it signals a harder line on immigration and expanded executive power. He cites Miller’s reported support for restricting asylum, reconsidering habeas corpus protections, and pursuing policies affecting birthright citizenship, while interpreting these positions as evidence of authoritarian and punitive intentions. The episode also discusses alleged mistreatment in immigration detention, possible investigations of nonprofit organizations and media critics, and claims that Miller seeks to suppress dissent. The creator contrasts President Trump’s reported suggestion that immigration policies may have gone too far with Miller’s continued advocacy for more aggressive measures, speculating that loyalty explains the appointment. He further predicts that the administration’s direction could damage Republicans electorally in 2028. The account relies heavily on commentary, selected clips, attributed reports, and unverified allegations; several legal, institutional, and factual claims require independent confirmation.",
+      "topics": [
+        "Stephen Miller’s promotion",
+        "Immigration and executive power",
+        "Detention and civil liberties",
+        "Suppression of dissent",
+        "2028 electoral predictions"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Stephen Miller was promoted to White House chief of staff and is expected to pursue a hardline immigration agenda while resisting compromise.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            48,
+            49,
+            50,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93
+          ]
+        },
+        {
+          "claim": "The administration considered suspending habeas corpus and using legal theories to restrict judicial review of immigration matters.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            229,
+            230,
+            231,
+            232,
+            233,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            258,
+            259,
+            260,
+            261,
+            262
+          ]
+        },
+        {
+          "claim": "A contractor alleged that Miller wanted immigration detention facilities to be intentionally cruel, and the episode links him to reported detention abuses.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228
+          ]
+        },
+        {
+          "claim": "The Justice Department was reportedly examining Midas Touch Network’s finances, donors, and sources.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            580,
+            581,
+            582,
+            583,
+            584,
+            585,
+            586,
+            587,
+            588
+          ]
+        },
+        {
+          "claim": "The administration was considering designating some nonprofits as having terrorist ties, potentially affecting their tax-exempt status.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            516,
+            517,
+            518,
+            519,
+            520,
+            521,
+            522,
+            523,
+            524,
+            525,
+            526,
+            527,
+            528,
+            529
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames Miller’s appointment as a major shift toward more aggressive immigration policy and executive authority.",
+          "evidence_segment_indices": [
+            48,
+            49,
+            50,
+            63,
+            64,
+            65,
+            66,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93
+          ],
+          "start_seconds": 97.92,
+          "end_seconds": 210.72
+        },
+        {
+          "point": "Clips presented in the episode include Miller discussing torture, asylum restrictions, habeas corpus, and birthright citizenship.",
+          "evidence_segment_indices": [
+            124,
+            125,
+            126,
+            129,
+            130,
+            131,
+            139,
+            140,
+            141,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            239,
+            240,
+            241,
+            242,
+            243,
+            368,
+            369,
+            370,
+            371
+          ],
+          "start_seconds": 280.639,
+          "end_seconds": 775.04
+        },
+        {
+          "point": "The creator alleges that the administration is targeting dissenters, nonprofit groups, journalists, and media organizations.",
+          "evidence_segment_indices": [
+            326,
+            327,
+            328,
+            329,
+            330,
+            331,
+            516,
+            517,
+            518,
+            519,
+            520,
+            521,
+            530,
+            531,
+            532,
+            533,
+            534,
+            535,
+            536,
+            537,
+            580,
+            581,
+            582,
+            583
+          ],
+          "start_seconds": 682.16,
+          "end_seconds": 1188.08
+        },
+        {
+          "point": "The episode speculates that Trump values Miller’s loyalty and predicts serious electoral consequences for Republicans by 2028.",
+          "evidence_segment_indices": [
+            478,
+            479,
+            480,
+            481,
+            482,
+            483,
+            487,
+            488,
+            489,
+            490,
+            491,
+            492,
+            493,
+            494,
+            495,
+            496,
+            625,
+            626,
+            627,
+            628,
+            629,
+            630,
+            631,
+            632
+          ],
+          "start_seconds": 964.16,
+          "end_seconds": 1286.159
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "d44294bc8bb6e5262c6db975fb02383e60e2074bb60e6e5d3b5e86f2584ef24b",
+      "transcript_captured_at": "2026-11-09T20:33:14.342293Z",
+      "summary_generated_at": "2026-11-09T20:38:28.371280Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains profanity, transcription errors, malformed names, and unclear phrases that may affect interpretation.",
+        "Many consequential statements are the creator’s characterizations, predictions, or allegations rather than independently established findings.",
+        "Several reports and quoted clips are referenced without full source details or corroborating context.",
+        "Coverage is limited to this episode’s selected commentary and excerpts, not the underlying documents, rulings, or events.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4907,131 +5168,6 @@
         "Automatic captions contain omissions, profanity placeholders, repetitions, and possible place-name or phrase errors.",
         "The source presents predictions and political interpretations alongside reported events, so their evidentiary status is not uniform.",
         "No supporting documents, links, or primary-source records are included beyond the creator’s spoken discussion.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "6xfkb7LUeBY",
-      "title": "Alex Jones Has PSYCHOTIC BREAK ON AIR Over Blue Wave | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=6xfkb7LUeBY",
-      "published_at": "2026-11-05T21:00:17.000000Z",
-      "summary": "Kyle Kulinski critiques Alex Jones’s reaction to election results, framing Jones’s claim that Donald Trump is secretly a Democrat as an example of political disillusionment and partisan bias. Kulinski argues that Jones is struggling to reconcile Trump’s conduct with his own previous support, while Jones reportedly says he believes Trump acted deliberately and describes him as a “Democrat sleeper cell.” The episode then broadens into a criticism of Republican priorities, including taxation, social programs, immigration, war, and relationships with wealthy technology figures. Kulinski also revisits Jones’s earlier defense of Trump amid discussion of Jeffrey Epstein and disputes several claims about Trump’s conduct and public policy. He predicts that right-wing media organizations may increasingly avoid emphasizing Trump as his popularity declines, while arguing that the Republican Party faces an identity crisis and lacks a coherent post-Trump direction. The material is commentary built around excerpted remarks, and many factual assertions are presented without supporting documentation in the transcript.",
-      "topics": [
-        "Alex Jones and Donald Trump",
-        "Partisan media commentary",
-        "Republican Party identity",
-        "Epstein-related allegations"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The episode repeats allegations and assertions concerning Donald Trump’s relationship with Jeffrey Epstein, references to investigative files, and allegations by multiple people.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            103,
-            109,
-            113,
-            116,
-            120,
-            123
-          ]
-        },
-        {
-          "claim": "Kulinski asserts that Trump enacted or supported the Republican policies he lists, including tax cuts, Medicaid reductions, deregulation, minority scapegoating, and wars.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            43,
-            46,
-            50,
-            54,
-            60,
-            63
-          ]
-        },
-        {
-          "claim": "Kulinski predicts that Trump’s declining popularity will lead right-wing media outlets to mention him less frequently.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            230,
-            234,
-            236,
-            241
-          ]
-        },
-        {
-          "claim": "Kulinski says polling or public opinion indicates that Americans oppose the cited war and increasingly see Democrats as the solution.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            220,
-            224,
-            271,
-            273
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski presents Jones’s “Democrat sleeper cell” theory about Trump as an extreme response to political disappointment.",
-          "evidence_segment_indices": [
-            20,
-            23,
-            74,
-            80,
-            92
-          ],
-          "start_seconds": 41.04,
-          "end_seconds": 181.04
-        },
-        {
-          "point": "The commentary contrasts Jones’s stated anti-establishment identity with his support for Republicans, billionaires, and technology figures.",
-          "evidence_segment_indices": [
-            190,
-            198,
-            205,
-            212
-          ],
-          "start_seconds": 358.56,
-          "end_seconds": 404.639
-        },
-        {
-          "point": "Kulinski argues that the Republican Party is entering an identity crisis before Trump has left the political stage.",
-          "evidence_segment_indices": [
-            242,
-            250,
-            252,
-            266
-          ],
-          "start_seconds": 452.96,
-          "end_seconds": 504.08
-        },
-        {
-          "point": "The episode relies on partisan commentary and excerpted statements rather than independently documented evidence.",
-          "evidence_segment_indices": [
-            2,
-            24,
-            34,
-            79,
-            214
-          ],
-          "start_seconds": 4.0,
-          "end_seconds": 408.0
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "b0f1c1ce20924acbbc5fbae1f6c7966c7d27435473df9970915246bf0cb361e1",
-      "transcript_captured_at": "2026-11-05T21:33:26.772502Z",
-      "summary_generated_at": "2026-11-05T21:39:09.799748Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains profanity redactions, transcription errors, and several unclear phrases.",
-        "Speaker attribution is occasionally ambiguous because excerpts and commentary alternate rapidly.",
-        "Claims about elections, polling, policy outcomes, investigations, and alleged conduct are source-only assertions here.",
-        "The transcript does not provide linked documents or independent corroboration for its factual allegations.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
