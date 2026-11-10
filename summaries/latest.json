@@ -1,11 +1,202 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-10T21:12:01.184614Z",
+  "generated_at": "2026-11-10T22:12:01.144447Z",
   "reporting_window": {
-    "start": "2026-11-03T21:12:01.184614Z",
-    "end": "2026-11-10T21:12:01.184614Z"
+    "start": "2026-11-03T22:12:01.144447Z",
+    "end": "2026-11-10T22:12:01.144447Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "kkL7RMcKTIU",
+      "title": "PETE HEGSETH IS F*CKED",
+      "url": "https://www.youtube.com/watch?v=kkL7RMcKTIU",
+      "published_at": "2026-11-10T21:40:06.000000Z",
+      "summary": "Kyle Kulinski argues that Thomas Massie’s reported articles of impeachment against Defense Secretary Pete Hegseth center on alleged civilian-harm failures, including a strike on an Iranian elementary school. The episode presents Massie’s case that Hegseth weakened safeguards, oversight, and legal protections before the attack, while emphasizing that the source itself describes conflicting casualty estimates and attributed reports. Kulinski also discusses Massie’s criticism of the administration’s Venezuela operation, portraying it as an allegedly unlawful effort involving the abduction of a foreign leader and seizure of resources. He praises Massie for challenging the administration but criticizes Democrats for allowing a Republican to lead the impeachment effort and for, in his view, insufficiently highlighting alleged misconduct. The discussion further considers the likely political path: passage in the House is presented as plausible, while conviction in the Senate is described as difficult. Kulinski concludes by calling for accountability and urging Democrats to foreground these allegations.",
+      "topics": [
+        "Pete Hegseth impeachment",
+        "Civilian protection in war",
+        "Thomas Massie",
+        "Venezuela operation",
+        "Democratic strategy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Massie introduced eight articles of impeachment against Pete Hegseth.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            44,
+            51,
+            52,
+            217,
+            365,
+            366
+          ]
+        },
+        {
+          "claim": "An Iranian elementary-school strike killed and wounded more than 200 civilians, mostly children.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            82,
+            88,
+            90,
+            93,
+            94,
+            100,
+            194,
+            195
+          ]
+        },
+        {
+          "claim": "Hegseth dismantled civilian-harm safeguards and oversight mechanisms before the strike.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            146,
+            147,
+            148,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            187,
+            188,
+            189
+          ]
+        },
+        {
+          "claim": "The Venezuela operation involved abducting a foreign leader and taking oil or other resources.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            280,
+            284,
+            285,
+            286,
+            303,
+            305,
+            309,
+            310,
+            311,
+            321,
+            322,
+            323,
+            324,
+            325
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames Massie’s impeachment effort as a response to alleged violations of military law and civilian-protection duties.",
+          "evidence_segment_indices": [
+            56,
+            57,
+            61,
+            129,
+            130,
+            131,
+            132,
+            142,
+            143,
+            144,
+            151,
+            152,
+            158,
+            159
+          ],
+          "start_seconds": 116.56,
+          "end_seconds": 336.16
+        },
+        {
+          "point": "The episode highlights reported casualty estimates from the school strike while noting figures ranging from at least 156 to more than 170 deaths.",
+          "evidence_segment_indices": [
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            100
+          ],
+          "start_seconds": 183.92,
+          "end_seconds": 214.159
+        },
+        {
+          "point": "Kulinski praises Massie’s opposition to the administration’s Venezuela policy and criticizes Democrats for not taking the lead.",
+          "evidence_segment_indices": [
+            208,
+            209,
+            210,
+            217,
+            218,
+            229,
+            230,
+            231,
+            232,
+            233,
+            314,
+            315,
+            316
+          ],
+          "start_seconds": 422.24,
+          "end_seconds": 632.399
+        },
+        {
+          "point": "The discussion says House impeachment requires a simple majority, while Senate conviction requires a two-thirds vote.",
+          "evidence_segment_indices": [
+            514,
+            515,
+            516,
+            517,
+            521,
+            522,
+            523,
+            524,
+            525
+          ],
+          "start_seconds": 1022.0,
+          "end_seconds": 1048.64
+        },
+        {
+          "point": "Kulinski urges Democrats to make alleged misconduct and civilian casualties central to their political messaging.",
+          "evidence_segment_indices": [
+            544,
+            545,
+            546,
+            547,
+            550,
+            553,
+            556,
+            557,
+            558,
+            559,
+            560
+          ],
+          "start_seconds": 1080.559,
+          "end_seconds": 1110.32
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "7c71c243d55d346e72c4147bf2b76970ab8c90f93328f365dbd69b3b57d14d26",
+      "transcript_captured_at": "2026-11-10T22:03:14.590931Z",
+      "summary_generated_at": "2026-11-10T22:08:25.171719Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies solely on the supplied transcript and does not independently establish that the described events occurred.",
+        "Automatic captions contain repeated name misspellings, profanity redactions, transcription errors, and overlapping segments.",
+        "The source presents casualty figures as reported estimates and gives conflicting totals.",
+        "Several legal, operational, and political assertions are opinions or allegations attributed to Massie or Kulinski.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4849,186 +5040,6 @@
         "The transcript is caption-derived and contains omissions, profanity placeholders, misheard names, and fragmented passages.",
         "The source is a single opinion-driven conversation; allegations, historical claims, polling references, and legal assertions require independent verification.",
         "The excerpt ends mid-discussion, so it does not provide a complete episode overview.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "EeNqB8cDI8E",
-      "title": "Please Don't Look This Up...",
-      "url": "https://www.youtube.com/watch?v=EeNqB8cDI8E",
-      "published_at": "2026-11-07T00:43:01.000000Z",
-      "summary": "The creator discusses a reported Linux-related authentication vulnerability involving certain SSH configurations, Alpine Linux components, Docker containers, and unusually long passwords. He explains that, under specific conditions, inputs exceeding a 256-byte limit could produce a special value that might be treated like a disabled-password marker, potentially allowing authentication. He emphasizes that the exposure appears limited to particular versions, configurations, and internet-facing systems, and says updated systems and unaffected SSH implementations reduce the risk. The episode also recounts the vulnerability’s historical development, including legacy password-handling behavior, later fixes, and subsequent patches. The creator characterizes the issue as technically serious but unlikely to affect most viewers, while warning that neglected containers or embedded devices could remain vulnerable. He closes by broadening the discussion to human error and risky software extensions as common security threats. The transcript contains garbled terminology and profanity substitutions, so technical names and some historical details are uncertain.",
-      "topics": [
-        "Linux authentication vulnerability",
-        "SSH and container security",
-        "Alpine Linux and password hashing",
-        "Patch exposure and risk",
-        "Cybersecurity hygiene"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Under specific conditions, passwords longer than 256 bytes could cause an authentication comparison to use a special marker and permit access.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            44,
-            61,
-            66,
-            68,
-            295,
-            297,
-            328,
-            332,
-            335,
-            342
-          ]
-        },
-        {
-          "claim": "The issue primarily affected particular outdated or specially configured Linux, Docker, SSH, or embedded-device environments rather than most users.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            191,
-            192,
-            193,
-            205,
-            206,
-            208,
-            210,
-            221,
-            222,
-            224,
-            398,
-            401,
-            408,
-            410,
-            413,
-            414
-          ]
-        },
-        {
-          "claim": "The vulnerability was patched, with the creator describing fixes to relevant hashing and authentication behavior.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            273,
-            274,
-            279,
-            281,
-            288,
-            298,
-            299,
-            307,
-            308,
-            311,
-            312,
-            350,
-            351,
-            371,
-            383
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode explains a reported authentication flaw involving long password inputs and special password markers.",
-          "evidence_segment_indices": [
-            134,
-            135,
-            207,
-            208,
-            288,
-            295,
-            296,
-            297,
-            331,
-            332,
-            335,
-            342
-          ],
-          "start_seconds": 294.88,
-          "end_seconds": 784.959
-        },
-        {
-          "point": "The creator says exploitation required several conditions, including affected versions, SSH exposure, and particular container or device configurations.",
-          "evidence_segment_indices": [
-            190,
-            191,
-            192,
-            193,
-            221,
-            222,
-            224,
-            227,
-            228,
-            357,
-            358,
-            408,
-            410,
-            415
-          ],
-          "start_seconds": 421.199,
-          "end_seconds": 950.079
-        },
-        {
-          "point": "He presents the practical risk to ordinary viewers as limited, while noting that forgotten or internet-facing systems could remain exposed.",
-          "evidence_segment_indices": [
-            76,
-            77,
-            78,
-            79,
-            80,
-            224,
-            225,
-            226,
-            227,
-            363,
-            364,
-            365,
-            416,
-            417,
-            418
-          ],
-          "start_seconds": 169.2,
-          "end_seconds": 957.12
-        },
-        {
-          "point": "The closing discussion emphasizes cautious installation of browser and programming extensions and the role of human behavior in security incidents.",
-          "evidence_segment_indices": [
-            489,
-            494,
-            495,
-            500,
-            501,
-            502,
-            503,
-            524,
-            525,
-            530,
-            531,
-            532,
-            534,
-            535,
-            538,
-            539
-          ],
-          "start_seconds": 1108.08,
-          "end_seconds": 1217.84
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "cd7ebee7bce0cdbc3ba5e3e7a9d0bca4cf3da07833d1c78186c371ddbaf071e7",
-      "transcript_captured_at": "2026-11-07T01:03:10.973403Z",
-      "summary_generated_at": "2026-11-07T01:08:26.643155Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Automatic captions contain garbled technical terms, including names of libraries, algorithms, and projects.",
-        "The transcript is creator commentary and does not independently establish the vulnerability’s technical details, affected versions, or exploitation history.",
-        "Some historical dates, software names, and causal explanations are difficult to distinguish because of transcription defects and overlapping phrasing.",
-        "The source provides no independent documentation, advisories, or testing results.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
