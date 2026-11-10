@@ -1,11 +1,435 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-10T00:12:01.144320Z",
+  "generated_at": "2026-11-10T02:12:00.223551Z",
   "reporting_window": {
-    "start": "2026-11-03T00:12:01.144320Z",
-    "end": "2026-11-10T00:12:01.144320Z"
+    "start": "2026-11-03T02:12:00.223551Z",
+    "end": "2026-11-10T02:12:00.223551Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "9wLpzHHXiu4",
+      "title": "Zohran COOKS Fox News Host Without Breaking A Sweat | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=9wLpzHHXiu4",
+      "published_at": "2026-11-10T00:00:03.000000Z",
+      "summary": "The creator argues that Zohran Mamdani’s Fox News interview effectively challenged attempts to portray Democratic Socialists of America policies as broadly unpopular. The interview covered Mamdani’s support for more humane immigration enforcement, his rejection of abolishing borders, the Supreme Court, or jails, and his view that internal disagreement is compatible with DSA membership. Mamdani framed affordability and working-class dignity as central political concerns, while defending an approach focused on delivering concrete results and working with officials across ideological divides. He cited progress on childcare, housing, labor enforcement, and negotiations involving the federal government. The creator interprets these remarks as evidence that economic-populist policies can appeal beyond the left and criticizes the interviewer for emphasizing unmet promises. The episode also presents the creator’s predictions that Mamdani’s popularity and endorsements could become influential in future Democratic politics. Because the source is a partisan commentary segment with imperfect automated captions, its descriptions of polling, policy outcomes, and public reaction require independent verification.",
+      "topics": [
+        "Mamdani Fox News interview",
+        "Democratic Socialists of America",
+        "Affordability and working-class politics",
+        "New York City governance"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Mamdani has a high approval rating and is among the most popular elected politicians in the country.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            47,
+            48,
+            49,
+            304,
+            305,
+            306
+          ]
+        },
+        {
+          "claim": "Mamdani’s administration delivered or advanced childcare, housing, labor-enforcement, rent, pothole, and public-safety initiatives described in the episode.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            327,
+            328,
+            335,
+            336,
+            337,
+            344,
+            345,
+            346,
+            347,
+            357,
+            358,
+            359,
+            360,
+            361,
+            436,
+            437,
+            438,
+            439,
+            440
+          ]
+        },
+        {
+          "claim": "Mamdani’s conversations with the president helped free a New Yorker from ICE detention, secure a visa, and advance housing development.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            388,
+            389,
+            400,
+            401,
+            402,
+            403,
+            404,
+            405,
+            406,
+            407,
+            408,
+            409
+          ]
+        },
+        {
+          "claim": "Election results demonstrated broad support for affordability-focused candidates across multiple jurisdictions.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            86,
+            87,
+            88,
+            89,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator praises Mamdani’s response to questions about DSA positions and highlights his rejection of several platform proposals.",
+          "evidence_segment_indices": [
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150
+          ],
+          "start_seconds": 88.24,
+          "end_seconds": 246.08
+        },
+        {
+          "point": "Mamdani presents working-class dignity, democratic participation, and affordability as organizing principles.",
+          "evidence_segment_indices": [
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278
+          ],
+          "start_seconds": 347.199,
+          "end_seconds": 451.759
+        },
+        {
+          "point": "Mamdani says governing requires pursuing promises while cooperating with people who hold power, including the president.",
+          "evidence_segment_indices": [
+            321,
+            322,
+            323,
+            325,
+            326,
+            327,
+            388,
+            389,
+            390,
+            391,
+            392,
+            393,
+            394,
+            395,
+            396,
+            397,
+            398,
+            399,
+            410,
+            411,
+            412,
+            413
+          ],
+          "start_seconds": 517.839,
+          "end_seconds": 662.24
+        },
+        {
+          "point": "The creator predicts Mamdani could become an important endorser in future Democratic presidential politics.",
+          "evidence_segment_indices": [
+            441,
+            442,
+            443,
+            444,
+            445,
+            446,
+            447,
+            448,
+            449,
+            450,
+            451,
+            452,
+            453,
+            457,
+            458
+          ],
+          "start_seconds": 707.44,
+          "end_seconds": 746.639
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "040cacf84898a862a3fdff4ce3133de6ffaf4291d3cd462a7db409d27c661202",
+      "transcript_captured_at": "2026-11-10T02:03:21.755188Z",
+      "summary_generated_at": "2026-11-10T02:08:48.617714Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Automated captions contain names, organizations, and policy terms that may be mistranscribed.",
+        "The episode mixes an embedded interview with the creator’s partisan commentary, so attribution should be kept distinct.",
+        "Claims about approval ratings, election interpretation, policy delivery, crime, and public reaction are source-only and not independently established here.",
+        "Some references to dates, offices, and future elections are ambiguous or appear caption-defective.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "lIJCnuB5l3s",
+      "title": "Schumer & Jeffries RATF*CK Dems ALREADY!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=lIJCnuB5l3s",
+      "published_at": "2026-11-09T23:35:31.000000Z",
+      "summary": "Kyle Kulinski argues that Democratic leaders Chuck Schumer and Hakeem Jeffries are preparing to prioritize centrism, donor relationships, and bipartisan cooperation over the policies he believes Democratic voters supported. He cites reported opposition to Jeffries, Schumer’s alleged ties to private-equity lobbying, and Jeffries’s stated agenda of oversight, reversing benefit cuts, lowering prices, and extending health-care subsidies. Kulinski criticizes the agenda as largely restorative rather than transformative, emphasizing its omissions on Israel, immigration enforcement, universal health care, and campaign finance. He also contends that a large House majority could reduce progressives’ leverage and predicts that insufficiently ambitious governance could enable a future Republican or MAGA resurgence. The episode disputes media narratives crediting moderates for Democratic gains, defends progressive candidates, and attacks arguments against Medicare for All, citing polling and a study presented as evidence of public support and potential benefits. The transcript is an opinionated commentary combining quoted reporting, political predictions, and unverified allegations.",
+      "topics": [
+        "Democratic leadership",
+        "Progressive policy",
+        "Campaign finance",
+        "Israel and foreign policy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Kulinski cites reporting that Schumer’s former aides lobby for private-equity firms including Blackstone and Apollo.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ]
+        },
+        {
+          "claim": "The episode states that Jeffries received substantial pro-Israel and corporate-linked campaign support, including $1.7 million from an Israel-related lobby and money connected to Palantir.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            243,
+            244
+          ]
+        },
+        {
+          "claim": "Kulinski cites polling suggesting majority support for Medicare for All and a study estimating that universal coverage could save about 114,000 lives annually.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            652,
+            653,
+            654,
+            655,
+            656,
+            657,
+            658,
+            659,
+            660,
+            747,
+            748,
+            749,
+            750,
+            751
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski presents Schumer and Jeffries as likely Democratic leaders despite reported activist opposition.",
+          "evidence_segment_indices": [
+            18,
+            19,
+            20,
+            21,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            60,
+            61,
+            62,
+            63
+          ],
+          "start_seconds": 41.04,
+          "end_seconds": 132.64
+        },
+        {
+          "point": "He says Jeffries’s proposed agenda includes oversight, reversing Medicaid and SNAP cuts, lowering prices, and extending ACA credits.",
+          "evidence_segment_indices": [
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193
+          ],
+          "start_seconds": 391.36,
+          "end_seconds": 410.08
+        },
+        {
+          "point": "He argues the agenda omits major progressive priorities, especially universal health care and changes to Israel policy.",
+          "evidence_segment_indices": [
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218
+          ],
+          "start_seconds": 430.479,
+          "end_seconds": 456.96
+        },
+        {
+          "point": "He warns that moderate Democratic leadership could squander electoral gains and enable a future right-wing resurgence.",
+          "evidence_segment_indices": [
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184
+          ],
+          "start_seconds": 349.28,
+          "end_seconds": 393.52
+        },
+        {
+          "point": "The episode rejects narratives that the election chiefly validated moderate Democrats and defends progressive candidates and policies.",
+          "evidence_segment_indices": [
+            444,
+            445,
+            446,
+            447,
+            448,
+            449,
+            450,
+            451,
+            452,
+            453,
+            454,
+            455,
+            456,
+            457,
+            458,
+            459,
+            460,
+            461,
+            921,
+            922,
+            923,
+            924,
+            925,
+            926
+          ],
+          "start_seconds": 916.88,
+          "end_seconds": 1896.799
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "666d8c2655a9ce6be21ce41b76a38ee01c9794f53662da1a74412aaa3f393e46",
+      "transcript_captured_at": "2026-11-10T02:03:14.921941Z",
+      "summary_generated_at": "2026-11-10T02:08:25.870747Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains substantial automatic-caption defects, including distorted names, organizations, and phrases.",
+        "Many factual assertions are presented through Kulinski’s commentary or quoted secondary reports and are not independently established by this source.",
+        "The episode’s election context, polling, donor figures, and references to current events are source-only claims requiring external verification.",
+        "Some quoted speakers and excerpts are difficult to distinguish because speaker labels and transitions are inconsistent.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4747,439 +5171,6 @@
         "Several political, market, ballot-count, cybersecurity, and company-related assertions are presented without supporting documentation in the source.",
         "The source provides commentary and predictions from one creator; it does not establish the underlying claims independently.",
         "Some references to elections, companies, locations, and market figures are ambiguous or insufficiently specified in the transcript.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "1m0Hl8g_NHQ",
-      "title": "CNN Already Trying To RATF*CK Dems | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=1m0Hl8g_NHQ",
-      "published_at": "2026-11-05T23:00:45.000000Z",
-      "summary": "The creator argues that CNN is trying to divide Democrats after what he describes as a major electoral victory. He criticizes an interview question asking James Talerico whether he will oppose Democrats, interpreting it as an effort to portray Talerico as more moderate than Abdul and create friction within the party. The creator contrasts that framing with Talerico’s stated willingness to work across party lines while prioritizing Texas voters, citing his claimed record of bipartisan legislation. He maintains that Talerico and Abdul can cooperate on investigations, economic issues, and progressive policies, and rejects the assumption that candidates in conservative states must govern as right-wing Democrats. The episode also advances the creator’s predictions that several newly elected Democrats will vote consistently with their party and that left-wing or social-democratic politics can strengthen their electoral prospects. These arguments rely primarily on commentary and excerpts from one interview; the episode does not independently substantiate its electoral, legislative, or voting-record claims.",
-      "topics": [
-        "CNN interview framing",
-        "Democratic unity",
-        "Progressive politics",
-        "Bipartisanship",
-        "Electoral strategy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The referenced Democrats won by unusually large margins in a broad electoral wave, including Talerico’s claimed double-digit Texas victory.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            2,
-            5,
-            6,
-            7,
-            8,
-            13
-          ]
-        },
-        {
-          "claim": "Talerico passed 60 bipartisan bills in the Texas legislature involving teacher pay, housing, childcare, taxes, and prescription drugs.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            120,
-            124,
-            130,
-            131,
-            132,
-            133,
-            134
-          ]
-        },
-        {
-          "claim": "Talerico and Abdul are likely to vote together 98–99% of the time and several newly elected Democrats will vote similarly to Bernie Sanders.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            205,
-            206,
-            207,
-            208,
-            209,
-            210,
-            211,
-            226,
-            227,
-            228
-          ]
-        },
-        {
-          "claim": "CNN gives Republicans more latitude than Democrats and is attempting to divide Democrats through this interview.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            114,
-            229,
-            234,
-            235,
-            236,
-            237,
-            238,
-            239
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator interprets CNN’s question about party opposition as an attempt to create divisions among Democrats.",
-          "evidence_segment_indices": [
-            28,
-            29,
-            30,
-            31,
-            32,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85
-          ],
-          "start_seconds": 65.6,
-          "end_seconds": 194.879
-        },
-        {
-          "point": "The episode contrasts Talerico’s stated bipartisan approach with the creator’s characterization of his and Abdul’s policy positions.",
-          "evidence_segment_indices": [
-            120,
-            121,
-            122,
-            128,
-            129,
-            130,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144
-          ],
-          "start_seconds": 262.479,
-          "end_seconds": 312.0
-        },
-        {
-          "point": "The creator argues that candidates in conservative states do not necessarily need to adopt right-wing positions to win or retain office.",
-          "evidence_segment_indices": [
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            187,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            194
-          ],
-          "start_seconds": 342.479,
-          "end_seconds": 410.96
-        },
-        {
-          "point": "The creator predicts that progressive policy agendas could produce durable electoral support and stronger Democratic representation.",
-          "evidence_segment_indices": [
-            212,
-            213,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224
-          ],
-          "start_seconds": 444.72,
-          "end_seconds": 478.4
-        },
-        {
-          "point": "The episode closes with criticism of CNN and a call for Democrats to pursue the agenda the creator says voters endorsed.",
-          "evidence_segment_indices": [
-            229,
-            230,
-            231,
-            232,
-            243,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251,
-            252,
-            253,
-            254
-          ],
-          "start_seconds": 485.52,
-          "end_seconds": 537.12
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "1055ca5f1c802ae52dc2899677dcdf91b9b3a929a1a9a92e6b7350f9a5c1a224",
-      "transcript_captured_at": "2026-11-06T04:04:03.140607Z",
-      "summary_generated_at": "2026-11-06T04:09:14.109181Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Captioning contains apparent name and word errors, including inconsistent spellings and phrases that may be transcription mistakes.",
-        "The source presents the creator’s interpretations and predictions alongside an interview excerpt; it does not independently verify them.",
-        "Electoral results, legislative records, voting patterns, and allegations about public figures are asserted or characterized within the episode rather than documented with supporting evidence.",
-        "The excerpted interview is incomplete, so the broader context of the interviewer’s questions and the candidates’ positions may be missing.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "Igr_Gz24t_c",
-      "title": "Joe Rogan PANICS As His Trump Support BACKFIRES BIG TIME | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=Igr_Gz24t_c",
-      "published_at": "2026-11-05T22:30:06.000000Z",
-      "summary": "The creator argues that Joe Rogan’s support for Trump has damaged his credibility and may leave him trying to distance himself from the movement before the midterms. The episode centers on a discussion in which Rogan emphasizes face-to-face conversation, disagreement, and the difficulty of evaluating people fairly, while the creator rejects those appeals when they appear to excuse political conduct he considers unacceptable. The creator also disputes Rogan’s self-description as independent, pointing to his major Spotify contracts, advertising, and relationships with prominent billionaires and MAGA-aligned figures. A recurring criticism is that Rogan treats opposition as jealousy, hatred, or personal brokenness rather than engaging with policy-based objections. The episode ultimately argues that popularity does not exempt influential commentators from accountability and predicts that some public figures will later minimize their support for MAGA. The material is an adversarial commentary segment with extensive allegations and emotionally charged language, not an independent account establishing the claims it discusses.",
-      "topics": [
-        "Joe Rogan and Trump support",
-        "Political accountability",
-        "Media independence and influence",
-        "Polarization and public discourse"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Joe Rogan said or implied that his endorsement may have helped elect Trump and later attended the inauguration.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140,
-            141
-          ]
-        },
-        {
-          "claim": "Rogan has received two $250 million Spotify contracts and reads gambling advertisements.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209
-          ]
-        },
-        {
-          "claim": "The creator alleges that Trump’s actions included illegal wars, mass killings, and other abuses.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            410,
-            411,
-            412,
-            413,
-            414,
-            415,
-            419,
-            420,
-            421,
-            422,
-            423,
-            424
-          ]
-        },
-        {
-          "claim": "The creator predicts that MAGA-aligned figures will attempt to downplay their prior support before the midterms.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            538,
-            539,
-            540,
-            541,
-            542,
-            543
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator frames Rogan’s support for Trump as a central reason for current criticism of him.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            154,
-            155,
-            156,
-            157
-          ],
-          "start_seconds": 0.0,
-          "end_seconds": 312.16
-        },
-        {
-          "point": "A featured conversation contrasts Rogan’s preference for dialogue with the creator’s argument that some conduct warrants firm moral boundaries.",
-          "evidence_segment_indices": [
-            16,
-            17,
-            18,
-            19,
-            20,
-            27,
-            28,
-            29,
-            30,
-            33,
-            34,
-            35,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83
-          ],
-          "start_seconds": 33.68,
-          "end_seconds": 175.519
-        },
-        {
-          "point": "The episode challenges Rogan’s claim to independence by emphasizing corporate contracts, advertising, and access to powerful guests.",
-          "evidence_segment_indices": [
-            199,
-            200,
-            201,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            217,
-            218,
-            219,
-            239,
-            240,
-            241,
-            242,
-            243,
-            244
-          ],
-          "start_seconds": 384.56,
-          "end_seconds": 469.36
-        },
-        {
-          "point": "The creator says criticism of Rogan is principled and policy-focused rather than driven only by his popularity.",
-          "evidence_segment_indices": [
-            268,
-            269,
-            270,
-            271,
-            272,
-            273,
-            274,
-            275,
-            276,
-            277,
-            282,
-            283,
-            284,
-            285,
-            286,
-            287,
-            288,
-            289,
-            290,
-            291,
-            292,
-            297,
-            298,
-            299
-          ],
-          "start_seconds": 505.52,
-          "end_seconds": 570.08
-        },
-        {
-          "point": "The episode concludes that Rogan’s cultural influence should decline and that accountability may intensify around the midterms.",
-          "evidence_segment_indices": [
-            519,
-            520,
-            521,
-            522,
-            523,
-            524,
-            525,
-            526,
-            527,
-            528,
-            529,
-            530,
-            531,
-            538,
-            539,
-            540,
-            541,
-            542,
-            543
-          ],
-          "start_seconds": 975.92,
-          "end_seconds": 1031.36
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "97a9f3dee84d7e4ac2c4e750973d3f3ba0fab1eda5aaf9abd723d4ebb75883bf",
-      "transcript_captured_at": "2026-11-06T04:03:54.874472Z",
-      "summary_generated_at": "2026-11-06T04:08:50.067176Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is commentary and includes allegations that are not independently substantiated within the transcript.",
-        "Caption defects and redacted profanity make some wording and references ambiguous.",
-        "Speaker attribution is occasionally unclear because the transcript interleaves Rogan’s quoted conversation with the creator’s commentary.",
-        "The overview reflects only this transcript and does not establish the broader political or factual context of its claims.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
