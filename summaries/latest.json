@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-10T04:42:01.151232Z",
+  "generated_at": "2026-11-10T05:12:01.349092Z",
   "reporting_window": {
-    "start": "2026-11-03T04:42:01.151232Z",
-    "end": "2026-11-10T04:42:01.151232Z"
+    "start": "2026-11-03T05:12:01.349092Z",
+    "end": "2026-11-10T05:12:01.349092Z"
   },
   "episodes": [
     {
@@ -220,6 +220,218 @@
         "Several technical details, payment figures, package observations, firmware references, and emulator claims are presented as reports or estimates and are not independently established by this source.",
         "The source reflects the creator’s interpretation and advocacy, particularly regarding Sony, piracy, and consumer practices; those opinions should not be treated as neutral findings.",
         "The transcript alone does not establish whether GTA 6 files were successfully extracted, decrypted, distributed, or made playable on PC.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "nwsSy-wyejU",
+      "title": "'WE ARE PARALYZED' — Trump is GONE as White House Faces Republican WRATH, it is BAD!!",
+      "url": "https://www.youtube.com/watch?v=nwsSy-wyejU",
+      "published_at": "2026-11-10T00:12:43.000000Z",
+      "summary": "Aaron Parnas presents the episode as a post-election account of Republican turmoil, arguing that the White House and congressional leadership are struggling to respond to Democratic gains. He highlights Speaker Mike Johnson’s reported remark that voters made the “wrong choice,” while describing an impeachment effort against Defense Secretary Pete Hegseth over eight allegations, including unauthorized war-making and extrajudicial killings. Parnas also says some Republicans may support removing Hegseth, though the segment attributes that possibility to reported comments and predictions rather than verified outcomes. The episode forecasts further Democratic gains through possible congressional redistricting in several states. A lengthy interview with journalist Rachel Janfaza interprets young voters as economically frustrated and politically fluid, citing reported shifts toward Democrats and emphasizing that available exit polling does not explain nonvoters. Janfaza argues Democrats need concrete results, local achievements, and newer leaders rather than relying mainly on opposition to Trump. The transcript contains numerous apparent caption and name errors, limiting confidence in precise details.",
+      "topics": [
+        "Post-election Republican divisions",
+        "Hegseth impeachment effort",
+        "Congressional redistricting",
+        "Young voter behavior",
+        "Democratic strategy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Democrats are projected to hold more than 250 House seats after the election.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            53,
+            54
+          ]
+        },
+        {
+          "claim": "The House impeachment resolution against Defense Secretary Pete Hegseth contains eight articles and alleges unlawful war-making and extrajudicial killings.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            57,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67
+          ]
+        },
+        {
+          "claim": "Maryland, Mississippi, New York, and Wisconsin are considering congressional map redraws before 2028.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            123,
+            124,
+            125,
+            126,
+            127,
+            128
+          ]
+        },
+        {
+          "claim": "Exit-poll reporting indicates a 40-point shift among young men toward Democrats compared with 2024.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode frames Republican leadership as divided after reported Democratic gains.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 33.6
+        },
+        {
+          "point": "Johnson’s quoted remarks and the Hegseth impeachment proceedings are presented as signs of internal conflict.",
+          "evidence_segment_indices": [
+            26,
+            28,
+            29,
+            30,
+            38,
+            42,
+            43,
+            57,
+            59,
+            60,
+            61,
+            62,
+            63
+          ],
+          "start_seconds": 51.84,
+          "end_seconds": 126.719
+        },
+        {
+          "point": "The discussion links possible future Democratic gains to redistricting efforts and changing House margins.",
+          "evidence_segment_indices": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            131,
+            134,
+            135
+          ],
+          "start_seconds": 31.199,
+          "end_seconds": 282.24
+        },
+        {
+          "point": "Janfaza says young voters are motivated by costs, conflict, and demands for tangible results, while acknowledging incomplete turnout data.",
+          "evidence_segment_indices": [
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            200,
+            201,
+            202,
+            211,
+            212,
+            213,
+            243,
+            244,
+            247,
+            248,
+            264,
+            265,
+            266,
+            267,
+            268
+          ],
+          "start_seconds": 375.12,
+          "end_seconds": 576.32
+        },
+        {
+          "point": "The interview argues Democrats should develop forward-looking messages and newer messengers for younger voters.",
+          "evidence_segment_indices": [
+            290,
+            291,
+            292,
+            293,
+            297,
+            298,
+            311,
+            312,
+            313,
+            363,
+            364,
+            383,
+            384,
+            385,
+            386,
+            387,
+            400,
+            401,
+            402,
+            410,
+            411,
+            412,
+            413
+          ],
+          "start_seconds": 626.88,
+          "end_seconds": 898.56
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "93ef113001ef46aa20b2667f555ddd364e9179a6105b7df81e4ce0a8277eddc0",
+      "transcript_captured_at": "2026-11-10T05:03:48.077356Z",
+      "summary_generated_at": "2026-11-10T05:08:26.865012Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is source-only and does not provide independent documentation for election totals, impeachment allegations, or redistricting plans.",
+        "Several names and terms appear mistranscribed, including references to Hegseth and other public figures.",
+        "Predictions about future seat gains, impeachment outcomes, and voter behavior are presented as commentary or reported expectations.",
+        "The interview notes that exit polling covers voters who participated and cannot establish why others did not vote.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -4840,283 +5052,6 @@
         "The source is a single commentary episode and does not independently establish the reported political, financial, electoral, or legal claims.",
         "Some statements are predictions, interpretations, or attributed allegations rather than confirmed outcomes.",
         "The supplied excerpt ends during the presenter’s closing remarks and may omit additional context.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mike Figueredo — The Humanist Report",
-      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
-      "video_id": "XGZa19hDRVM",
-      "title": "The Newly Emboldened Left is Already Making BIG Moves",
-      "url": "https://www.youtube.com/watch?v=XGZa19hDRVM",
-      "published_at": "2026-11-06T14:59:58.000000Z",
-      "summary": "Mike Figueredo argues that a recent election has expanded the political space for the American left and made ambitious reforms newly conceivable. He presents Medicare for All as the central example, citing its claimed popularity and urging Democrats to pursue it even if the president vetoes it. He also discusses abolishing the Electoral College through the National Popular Vote Compact, while acknowledging constitutional, congressional, and procedural obstacles. Figueredo frames progressive electoral victories as evidence that Bernie Sanders’s economic-populist message has influenced Democratic candidates across ideological and geographic lines. He calls for policies delivering tangible improvements, including healthcare expansion, affordable housing, diplomacy, and limits on executive war-making and tariffs. The episode ends with a call for grassroots pressure against proposed Democratic leaders whom Figueredo accuses of protecting prior abuses and opposing the left’s agenda. Throughout, he mixes reported claims, predictions, personal judgments, and hypothetical scenarios; the transcript alone does not establish the election results, polling, legal claims, or organizing figures he cites.",
-      "topics": [
-        "Medicare for All",
-        "Progressive electoral strategy",
-        "Electoral College reform",
-        "Democratic Party leadership"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The source cites polling showing more than 60% support for Medicare for All and separate AP polling showing 80% of registered voters favor substantial change or complete upheaval.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            4,
-            5,
-            6,
-            479,
-            480,
-            481,
-            482,
-            483,
-            484,
-            485
-          ]
-        },
-        {
-          "claim": "The National Popular Vote Compact reportedly has 222 electoral votes and needs 48 more, with Democratic control in several states potentially enabling passage.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            119,
-            120,
-            121,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128
-          ]
-        },
-        {
-          "claim": "The source claims recent progressive victories demonstrate that Sanders-style economic populism has spread across Democratic campaigns.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            200,
-            201,
-            202,
-            209,
-            210,
-            211,
-            212,
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            232,
-            233,
-            234,
-            235,
-            236,
-            237,
-            238,
-            239
-          ]
-        },
-        {
-          "claim": "A Change.org petition opposing two proposed Democratic leaders is said to have 700,000 signatures and celebrity support.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            657,
-            658,
-            659,
-            660,
-            661,
-            662,
-            663,
-            664,
-            665,
-            666,
-            667
-          ]
-        },
-        {
-          "claim": "The source claims Medicare for All could save 114,000 lives and one trillion dollars annually.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            28,
-            29,
-            30,
-            31
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Figueredo portrays Medicare for All as both popular and politically actionable, while acknowledging that passage under the current president is unlikely.",
-          "evidence_segment_indices": [
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40
-          ],
-          "start_seconds": 47.52,
-          "end_seconds": 100.0
-        },
-        {
-          "point": "He argues that election results create a possible path toward Electoral College abolition, but notes constitutional and filibuster-related obstacles.",
-          "evidence_segment_indices": [
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121,
-            128,
-            129,
-            153,
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160
-          ],
-          "start_seconds": 240.56,
-          "end_seconds": 376.0
-        },
-        {
-          "point": "The episode links progressive victories to Sanders’s influence on economic-populist messaging and Democratic campaign priorities.",
-          "evidence_segment_indices": [
-            191,
-            192,
-            193,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            210,
-            211,
-            212,
-            213,
-            214,
-            219,
-            220,
-            221,
-            222,
-            226,
-            227
-          ],
-          "start_seconds": 434.479,
-          "end_seconds": 515.44
-        },
-        {
-          "point": "Figueredo advocates tangible governing results and grassroots pressure on Democratic leaders rather than moderation or passivity.",
-          "evidence_segment_indices": [
-            351,
-            352,
-            353,
-            354,
-            355,
-            356,
-            357,
-            358,
-            359,
-            360,
-            361,
-            362,
-            363,
-            364,
-            365,
-            366,
-            403,
-            404,
-            405,
-            406,
-            407,
-            408,
-            708,
-            709
-          ],
-          "start_seconds": 767.519,
-          "end_seconds": 1572.48
-        },
-        {
-          "point": "He closes by urging opposition to proposed party leaders and continued organizing, while admitting the effort may not succeed.",
-          "evidence_segment_indices": [
-            645,
-            646,
-            647,
-            648,
-            653,
-            654,
-            655,
-            656,
-            657,
-            658,
-            659,
-            660,
-            687,
-            688,
-            689,
-            690,
-            691,
-            692,
-            693,
-            694,
-            695,
-            723,
-            724,
-            725
-          ],
-          "start_seconds": 1439.36,
-          "end_seconds": 1603.76
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "af311d1d71931615b850fd1888257f4ece7c2a88409bca46f2e542e3799b9d66",
-      "transcript_captured_at": "2026-11-06T16:03:11.618668Z",
-      "summary_generated_at": "2026-11-06T16:08:33.712120Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains substantial automated-caption errors, including distorted names, titles, places, and terminology.",
-        "Several election references are unexplained in the source, so their timing, scope, and results cannot be independently determined here.",
-        "The episode frequently blends direct quotations, reported commentary, predictions, allegations, and the creator’s own rhetoric without consistently distinguishing them.",
-        "Claims attributed to polls, media reports, petitions, legal provisions, and political figures are source-only assertions in this overview.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
