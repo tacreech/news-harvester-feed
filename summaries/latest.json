@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-10T05:12:01.349092Z",
+  "generated_at": "2026-11-10T09:12:01.195165Z",
   "reporting_window": {
-    "start": "2026-11-03T05:12:01.349092Z",
-    "end": "2026-11-10T05:12:01.349092Z"
+    "start": "2026-11-03T09:12:01.195165Z",
+    "end": "2026-11-10T09:12:01.195165Z"
   },
   "episodes": [
     {
@@ -220,6 +220,217 @@
         "Several technical details, payment figures, package observations, firmware references, and emulator claims are presented as reports or estimates and are not independently established by this source.",
         "The source reflects the creator’s interpretation and advocacy, particularly regarding Sony, piracy, and consumer practices; those opinions should not be treated as neutral findings.",
         "The transcript alone does not establish whether GTA 6 files were successfully extracted, decrypted, distributed, or made playable on PC.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Mike Figueredo — The Humanist Report",
+      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
+      "video_id": "dyUIDTJAkOo",
+      "title": "Movement to Replace Schumer and Jeffries Gains Serious Momentum",
+      "url": "https://www.youtube.com/watch?v=dyUIDTJAkOo",
+      "published_at": "2026-11-10T01:36:00.000000Z",
+      "summary": "The creator argues that efforts to replace House and Senate Democratic leaders Hakeem Jeffries and Chuck Schumer have gained momentum, while cautioning that both challenges remain uncertain. He cites a petition exceeding one million signatures, reported constituent calls, and newly elected DSA-affiliated lawmakers who have not committed to Jeffries. The episode describes possible concessions, committee assignments, and the need to assemble enough votes to block him. For Schumer, the creator points to senators and other Democrats calling for new leadership and discusses an emerging effort to draft Chris Van Hollen as an alternative. He presents Van Hollen as a potentially acceptable consensus candidate but acknowledges that Schumer retains enough support and that removing him would be difficult. The creator also attributes criticism of both leaders to alleged corporate or foreign influence and opposition to their positions on Israel. The episode concludes with a call for viewers to contact lawmakers and support leadership changes.",
+      "topics": [
+        "Leadership challenges",
+        "Democratic Party politics",
+        "Congressional factions",
+        "Progressive organizing",
+        "Senate succession"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A petition calling for someone other than Jeffries as speaker surpassed one million signatures and gained mainstream coverage.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            6,
+            8,
+            10,
+            11
+          ]
+        },
+        {
+          "claim": "House Democrats were receiving hundreds of constituent calls daily urging opposition to Jeffries, according to Axios reporting cited by the creator.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim": "A movement to draft Chris Van Hollen as Senate majority leader was gaining momentum, according to Politico and anonymous sources cited by the creator.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            185,
+            186,
+            187,
+            188
+          ]
+        },
+        {
+          "claim": "A cited poll found that 60% of Democrats and independents preferred a Democratic leader not funded by AIPAC.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            286,
+            287,
+            288,
+            289,
+            290,
+            291,
+            292,
+            293,
+            294
+          ]
+        },
+        {
+          "claim": "The creator alleges that Jeffries and Schumer receive substantial support from corporate, foreign-government, or lobbying interests.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator characterizes the effort against Jeffries as serious but still a long shot.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "start_seconds": 4.64,
+          "end_seconds": 17.039
+        },
+        {
+          "point": "Several newly elected DSA-affiliated lawmakers are described as uncommitted or opposed to supporting Jeffries absent policy concessions.",
+          "evidence_segment_indices": [
+            17,
+            18,
+            19,
+            20,
+            21,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+          ],
+          "start_seconds": 36.8,
+          "end_seconds": 83.6
+        },
+        {
+          "point": "The creator says Schumer technically has sufficient support but could face danger if six more senators change position.",
+          "evidence_segment_indices": [
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155
+          ],
+          "start_seconds": 298.08,
+          "end_seconds": 313.68
+        },
+        {
+          "point": "The episode presents Van Hollen as an emerging alternative who has not sought the position but has not ruled it out.",
+          "evidence_segment_indices": [
+            167,
+            168,
+            169,
+            170,
+            177,
+            178,
+            179,
+            180,
+            185,
+            186,
+            187,
+            188
+          ],
+          "start_seconds": 334.479,
+          "end_seconds": 382.319
+        },
+        {
+          "point": "The creator urges viewers to contact their representatives and senators to support leadership changes.",
+          "evidence_segment_indices": [
+            202,
+            203,
+            204,
+            207,
+            208,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            472,
+            473,
+            480,
+            481,
+            482,
+            483
+          ],
+          "start_seconds": 407.199,
+          "end_seconds": 1004.16
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "f05ed19b50ce01294a25b12a675230356d1ff98bfc46152d9fc41ee587c6634c",
+      "transcript_captured_at": "2026-11-10T09:03:14.699906Z",
+      "summary_generated_at": "2026-11-10T09:08:25.527029Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview reflects the episode’s claims and cited reports; it does not independently verify petitions, polls, vote counts, or political maneuvering.",
+        "Automatic captions contain substantial transcription errors in names, organizations, and terminology, creating ambiguity around some references.",
+        "The source presents the creator’s interpretations and advocacy alongside attributed reporting; allegations about corruption, influence, and political motives remain source claims.",
+        "The episode does not establish final leadership votes or whether any proposed challenge succeeds.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -4836,222 +5047,6 @@
         "Many names, offices, vote outcomes, numerical figures, and policy descriptions are difficult to identify confidently from captions alone.",
         "The episode is primarily commentary and opinion; it does not provide independent documentation for most factual assertions.",
         "Some statements are predictions or rhetorical claims rather than established outcomes.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "E5Anf-cBwzI",
-      "title": "'JUMPING SHIP' — Bloodbath EXPLODES as Trump White House Faces a TERRIFYING Reality!!",
-      "url": "https://www.youtube.com/watch?v=E5Anf-cBwzI",
-      "published_at": "2026-11-06T15:26:43.000000Z",
-      "summary": "Aaron Parnas presents the episode as a rapid account of political, legal, and business turbulence surrounding Donald Trump and his allies, while emphasizing that these developments amount to a broader breakdown in Washington. He says two senior Justice Department officials have recently departed, including the U.S. attorney for the Southern District of Florida, and frames the changes as evidence of escalating internal conflict. Parnas also discusses claims that Defense Secretary Pete Hegseth faces congressional and Republican pressure, including possible impeachment efforts, while noting that Trump is reviewing options involving Iran. The episode then turns to Elon Musk, linking reported political losses, market declines, and Tesla’s planned Cybertruck production ending to a backlash against his political involvement. Finally, Parnas covers a court order blocking a proposed 250-foot arch and features a Vietnam veteran’s argument that the project would dishonor veterans’ memory. The account is commentary-driven, and several names, figures, events, and legal or political claims require independent verification.",
-      "topics": [
-        "Trump administration",
-        "Justice Department departures",
-        "Pete Hegseth pressure",
-        "Elon Musk and Tesla",
-        "Vietnam veterans memorial dispute"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Two senior Justice Department officials departed within two days, including the Southern District of Florida U.S. attorney, and the departures reflect escalating internal conflict.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            27,
-            29,
-            32,
-            44,
-            52,
-            53,
-            56,
-            58
-          ]
-        },
-        {
-          "claim": "Republicans and Democrats are aligning behind impeachment articles targeting Pete Hegseth, while Trump allies reportedly view his position as untenable.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            62,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            75,
-            76,
-            77,
-            78,
-            79
-          ]
-        },
-        {
-          "claim": "Elon Musk lost more than $100 billion in wealth over two days, while Tesla and SpaceX shares declined after the election.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            103,
-            104,
-            105,
-            113,
-            114,
-            115,
-            116,
-            117
-          ]
-        },
-        {
-          "claim": "A judge blocked a proposed 250-foot arch shortly after a commission approved it.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode opens by portraying Trump’s Washington environment as rapidly destabilizing, combining personnel departures, political pressure, and legal setbacks.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            10,
-            11,
-            12
-          ],
-          "start_seconds": 0.24,
-          "end_seconds": 31.279
-        },
-        {
-          "point": "Parnas focuses on Justice Department changes involving the Southern District of Florida and the civil rights division, but the supplied captions provide limited detail and contain apparent transcription errors.",
-          "evidence_segment_indices": [
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53
-          ],
-          "start_seconds": 57.039,
-          "end_seconds": 112.159
-        },
-        {
-          "point": "The discussion presents Hegseth as vulnerable to congressional and Republican criticism and connects the controversy to possible future Iran strikes.",
-          "evidence_segment_indices": [
-            61,
-            62,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            75,
-            76,
-            77,
-            78,
-            79,
-            100,
-            101,
-            102
-          ],
-          "start_seconds": 126.799,
-          "end_seconds": 217.12
-        },
-        {
-          "point": "Musk’s political spending, electoral outcomes, reported financial losses, and Cybertruck production plans are presented as signs of a broader backlash.",
-          "evidence_segment_indices": [
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121
-          ],
-          "start_seconds": 214.08,
-          "end_seconds": 258.239
-        },
-        {
-          "point": "The closing segment uses a Vietnam veteran’s testimony to explain opposition to the proposed arch as a matter of remembrance and honor.",
-          "evidence_segment_indices": [
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144,
-            194,
-            195,
-            196,
-            197,
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207
-          ],
-          "start_seconds": 289.199,
-          "end_seconds": 509.08
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "c9966dfa1e6e6f60c88cc5c6ad4e2704cc58d28e0b2a557161db68137db38876",
-      "transcript_captured_at": "2026-11-06T16:33:11.796554Z",
-      "summary_generated_at": "2026-11-06T16:38:28.759951Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The captions contain numerous apparent recognition errors affecting names, titles, places, organizations, and quotations.",
-        "The source is a single commentary episode and does not independently establish the reported political, financial, electoral, or legal claims.",
-        "Some statements are predictions, interpretations, or attributed allegations rather than confirmed outcomes.",
-        "The supplied excerpt ends during the presenter’s closing remarks and may omit additional context.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
