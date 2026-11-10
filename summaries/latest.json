@@ -1,11 +1,170 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-10T09:42:01.179517Z",
+  "generated_at": "2026-11-10T16:12:01.174662Z",
   "reporting_window": {
-    "start": "2026-11-03T09:42:01.179517Z",
-    "end": "2026-11-10T09:42:01.179517Z"
+    "start": "2026-11-03T16:12:01.174662Z",
+    "end": "2026-11-10T16:12:01.174662Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "bJmB_8IyT-E",
+      "title": "'JUST FOLLOWING ORDERS' — Hegseth TURNS on Trump as IMPEACHMENT Arrives, CHAOS Erupts!!",
+      "url": "https://www.youtube.com/watch?v=bJmB_8IyT-E",
+      "published_at": "2026-11-10T15:03:44.000000Z",
+      "summary": "Aaron Parnas reports that Pete Hegseth defended military operations cited in eight proposed impeachment articles as lawful actions ordered by President Donald Trump and then carried out by Hegseth. Parnas says Hegseth criticized the impeachment effort as political and alleged that reporters were threatened with removal if they did not follow unclear standards of professionalism. The episode describes a House process beginning with procedural votes, followed potentially by debate and separate votes on the articles; Parnas presents Senator Ted Cruz as predicting that Hegseth will resign, be fired, or be impeached because the votes may exist. The report also relays allegations from whistleblowers that Interior Department documents related to Trump-associated Washington projects were being destroyed before congressional oversight changes. Parnas connects those allegations to federal records-preservation requirements and says lawmakers are seeking records and possible testimony. The material is a commentary report based on its presenter’s account, predictions, quotations, and allegations; the captions contain repeated transcription errors in names and some unclear wording.",
+      "topics": [
+        "Hegseth impeachment proceedings",
+        "Military operations and presidential orders",
+        "Pentagon press access",
+        "Federal document preservation"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The House began proceedings or voting related to impeaching Hegseth, with a final vote potentially following later procedural steps.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            0,
+            1,
+            122,
+            128,
+            130,
+            134,
+            138,
+            141
+          ]
+        },
+        {
+          "claim": "Reporters were threatened with physical removal from the Pentagon briefing unless they met stated conduct requirements.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            96,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            106,
+            108,
+            110,
+            111
+          ]
+        },
+        {
+          "claim": "Whistleblowers alleged that Interior Department documents concerning Trump-associated Washington construction projects were being destroyed.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            167,
+            168,
+            169,
+            170,
+            171,
+            174,
+            175,
+            176,
+            177
+          ]
+        },
+        {
+          "claim": "Senator Ted Cruz predicted that Hegseth would resign, be fired, or likely be impeached because sufficient House votes existed.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            143,
+            144,
+            145,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Hegseth’s stated defense attributed the cited operations to presidential orders and his implementation of them.",
+          "evidence_segment_indices": [
+            30,
+            32,
+            35,
+            36,
+            37,
+            42,
+            43,
+            44,
+            50,
+            51
+          ],
+          "start_seconds": 60.559,
+          "end_seconds": 116.0
+        },
+        {
+          "point": "Parnas portrays the impeachment effort as politically contested, quoting Hegseth’s criticism of Representative Thomas Massie.",
+          "evidence_segment_indices": [
+            81,
+            82,
+            84,
+            85,
+            86,
+            87,
+            88
+          ],
+          "start_seconds": 179.04,
+          "end_seconds": 198.08
+        },
+        {
+          "point": "The described House process could involve a procedural vote followed by debate and separate roll calls on eight articles.",
+          "evidence_segment_indices": [
+            128,
+            130,
+            134,
+            138,
+            139,
+            140,
+            141,
+            142
+          ],
+          "start_seconds": 268.72,
+          "end_seconds": 301.759
+        },
+        {
+          "point": "The report says lawmakers sought preservation and recovery of records while alleging possible document destruction.",
+          "evidence_segment_indices": [
+            172,
+            173,
+            174,
+            175,
+            176,
+            183,
+            184,
+            188,
+            189
+          ],
+          "start_seconds": 362.4,
+          "end_seconds": 410.4
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "2e1d4461a1cfc57e50d0dee982e688fc5447377b8e679db9e099cbb7caf9c71c",
+      "transcript_captured_at": "2026-11-10T16:03:13.793868Z",
+      "summary_generated_at": "2026-11-10T16:08:23.388831Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a presenter’s commentary and does not independently establish the reported events.",
+        "Captions contain inconsistent misspellings of Hegseth and other names, plus duplicated or garbled phrases.",
+        "The report gives predictions about future votes and outcomes rather than confirmed results.",
+        "The source provides limited context for the underlying impeachment articles, document allegations, and cited legal requirements.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
@@ -4923,158 +5082,6 @@
         "The episode mixes reported events with the hosts' opinions, predictions, humor, and allegations; attribution should not be treated as verification.",
         "Several election, polling, market, military, legal, and policy claims are presented without supporting documentation in the source.",
         "The source provides only the episode transcript and does not establish the broader factual context or timing of its claims.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "BJt_chfD5qs",
-      "title": "‘HE’S ALL ALONE’ — Trump ERUPTS and Doubles Down as Voters and Staff FLEE",
-      "url": "https://www.youtube.com/watch?v=BJt_chfD5qs",
-      "published_at": "2026-11-06T21:55:54.000000Z",
-      "summary": "Creator Aaron Parnas argues that Donald Trump responded to reported midterm setbacks by empowering hardline loyalist Stephen Miller as White House chief of staff rather than changing course. The episode says Susie Wiles resigned, several Justice Department officials departed, and officials close to the administration are increasingly divided. Parnas connects Miller’s appointment to immigration enforcement, conflict with Congress, and anticipated confrontations with the press and courts, while presenting past remarks attributed to Miller as evidence of his ideological toughness. The episode also discusses reported political and legal pressure involving Elon Musk and Defense Secretary Pete Hegseth, and cites forecasts that several traditionally Republican states could become more competitive in 2028. It closes by portraying Democrats’ reported state-level gains as evidence of a broader electoral warning to Trump. These points are presented through the creator’s commentary and cited or purportedly cited reporting; the transcript alone does not independently establish the underlying events, quotations, polling, or political outcomes.",
-      "topics": [
-        "Trump administration staffing",
-        "Stephen Miller appointment",
-        "Justice Department departures",
-        "Midterm and 2028 electoral outlook"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Stephen Miller was appointed White House chief of staff after Susie Wiles’s departure.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            14,
-            15,
-            47,
-            96,
-            109,
-            110
-          ]
-        },
-        {
-          "claim": "Three senior Justice Department officials resigned within two days.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            155,
-            157,
-            158,
-            160,
-            161,
-            162,
-            163
-          ]
-        },
-        {
-          "claim": "A House impeachment vote involving Pete Hegseth was expected as soon as the following week.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            184,
-            188,
-            189,
-            190,
-            193,
-            194
-          ]
-        },
-        {
-          "claim": "The episode reports that Democrats gained multiple state-level governing trifectas and flipped the Texas House.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            222
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames Trump’s staffing choices as a decision to intensify confrontation after reported electoral setbacks.",
-          "evidence_segment_indices": [
-            0,
-            5,
-            12,
-            28,
-            29,
-            30,
-            227,
-            228,
-            229
-          ],
-          "start_seconds": 0.08,
-          "end_seconds": 465.12
-        },
-        {
-          "point": "The episode links Miller’s promotion to immigration policy and a more combative approach toward Congress.",
-          "evidence_segment_indices": [
-            40,
-            41,
-            42,
-            43,
-            45,
-            46,
-            47,
-            85,
-            86,
-            87,
-            88
-          ],
-          "start_seconds": 76.56,
-          "end_seconds": 179.2
-        },
-        {
-          "point": "Reported departures and possible exits are presented as signs of internal strain within the administration.",
-          "evidence_segment_indices": [
-            6,
-            7,
-            8,
-            9,
-            155,
-            157,
-            183,
-            198,
-            199,
-            200
-          ],
-          "start_seconds": 10.88,
-          "end_seconds": 409.28
-        },
-        {
-          "point": "The creator says Republicans face a more difficult electoral map heading toward 2028.",
-          "evidence_segment_indices": [
-            204,
-            205,
-            209,
-            210,
-            211,
-            212,
-            213,
-            214,
-            215
-          ],
-          "start_seconds": 412.639,
-          "end_seconds": 438.8
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "116975d99ba8ab0927cc6a1f13e5cba06a0fa2be0e97f96aea990d6185ccd741",
-      "transcript_captured_at": "2026-11-06T23:03:13.642172Z",
-      "summary_generated_at": "2026-11-06T23:08:24.855357Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview reflects one creator’s presentation and the supplied transcript, not independently verified reporting.",
-        "Several names, words, and quotations appear garbled or ambiguous in the automatic captions.",
-        "The transcript attributes polling, resignations, legal actions, and election results to outside reporting without providing the underlying sources.",
-        "Some claims are predictions or interpretations, including anticipated political conflict and the 2028 outlook.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
