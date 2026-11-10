@@ -1,11 +1,200 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-10T16:12:01.174662Z",
+  "generated_at": "2026-11-10T21:12:01.184614Z",
   "reporting_window": {
-    "start": "2026-11-03T16:12:01.174662Z",
-    "end": "2026-11-10T16:12:01.174662Z"
+    "start": "2026-11-03T21:12:01.184614Z",
+    "end": "2026-11-10T21:12:01.184614Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "UomRwgKWmyM",
+      "title": "🚨 Blue Tsunami EXPLODES Sending White House in a PANIC, Majority SURGES!!",
+      "url": "https://www.youtube.com/watch?v=UomRwgKWmyM",
+      "published_at": "2026-11-10T19:32:16.000000Z",
+      "summary": "Aaron Parnas presents what he describes as a growing Democratic “blue tsunami,” claiming Democrats have secured at least 258 House seats and could finish above 260, potentially approaching 265. He argues this would leave Republicans vulnerable to defections on issues such as tariffs and could position Democrats for a veto-proof majority in 2028. The episode includes Democratic criticism of Republican leadership, including claims that Speaker Mike Johnson blamed voters and that Republicans are prioritizing judicial confirmations during the lame-duck session. Parnas also highlights calls from Democratic lawmakers for accountability involving Defense Secretary Pete Hegseth, alleged wars, and administration conduct. Another featured interview outlines priorities including lowering costs, reversing health-care cuts, restricting congressional stock trading, regulating artificial intelligence, and investigating officials. The episode concludes with a lengthy Senate exchange over nominees’ descriptions of the 2020 election and January 6. The transcript is commentary-heavy, includes advertisements, and does not independently document the electoral or policy claims presented.",
+      "topics": [
+        "House election results",
+        "Democratic strategy",
+        "Republican leadership",
+        "Congressional oversight",
+        "Judicial nominations"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Democrats had secured at least 258 House seats and were likely to exceed 260.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "claim": "The projected Democratic total would represent the largest House majority in nearly a century.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "claim": "Gas and diesel prices had risen by more than 50% and 70%, respectively, since the beginning of the cited war.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            273,
+            280,
+            281,
+            282,
+            283,
+            284,
+            285
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames the reported Democratic gains as an expanding majority and says they could increase leverage over presidential vetoes.",
+          "evidence_segment_indices": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "start_seconds": 60.719,
+          "end_seconds": 113.2
+        },
+        {
+          "point": "A featured Democratic speech attributes Republican losses to alleged incompetence, culture-war politics, and failure to respond to voters.",
+          "evidence_segment_indices": [
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88
+          ],
+          "start_seconds": 151.2,
+          "end_seconds": 233.44
+        },
+        {
+          "point": "Featured lawmakers propose cost reduction, anti-corruption measures, AI safeguards, and investigations as priorities.",
+          "evidence_segment_indices": [
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            248,
+            249,
+            250,
+            258,
+            261
+          ],
+          "start_seconds": 500.72,
+          "end_seconds": 604.399
+        },
+        {
+          "point": "The closing Senate exchange centers on whether judicial nominees would plainly characterize the 2020 election and January 6.",
+          "evidence_segment_indices": [
+            303,
+            306,
+            314,
+            315,
+            316,
+            323,
+            324,
+            326,
+            327,
+            363,
+            376,
+            377,
+            378,
+            388,
+            389,
+            393,
+            398,
+            400,
+            402,
+            411,
+            416,
+            420,
+            434,
+            435
+          ],
+          "start_seconds": 692.88,
+          "end_seconds": 1045.039
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "d54c93c7409cc1e4c75f8404c86210c45137586ef944f549fe973003ba116b69",
+      "transcript_captured_at": "2026-11-10T21:03:14.785893Z",
+      "summary_generated_at": "2026-11-10T21:08:24.816375Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is source-only commentary and does not provide independent election records or corroborating documentation.",
+        "Several names, terms, and phrases appear mistranscribed, including references to officials and locations.",
+        "Predictions about future seat totals, veto overrides, and the 2028 majority are explicitly speculative.",
+        "The episode includes a substantial advertisement segment that is not part of the political analysis.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4840,248 +5029,6 @@
         "The transcript is creator commentary and does not independently establish the vulnerability’s technical details, affected versions, or exploitation history.",
         "Some historical dates, software names, and causal explanations are difficult to distinguish because of transcription defects and overlapping phrasing.",
         "The source provides no independent documentation, advisories, or testing results.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "S7cEdKFvrqc",
-      "title": "‘BEGINNING OF THE END’ — Trump Admits BLEAK Future as he SCRAMBLES to Grasp Power",
-      "url": "https://www.youtube.com/watch?v=S7cEdKFvrqc",
-      "published_at": "2026-11-07T00:00:33.000000Z",
-      "summary": "Aaron Parnas presents a strongly partisan post-election discussion with Jessica Tarlov, arguing that Democrats achieved a sweeping midterm victory and that Donald Trump appears politically weakened. The hosts say Arizona Democrats secured unified control, formerly safe Republican states became competitive, and Republican turnout and campaign expectations fell short, while emphasizing that Democrats must now govern effectively. They discuss possible Democratic priorities, including affordability, healthcare, childcare, a higher minimum wage, investigations, ethics reforms, and regulation of data centers. The conversation also focuses on the Iran conflict, with the hosts warning that renewed hostilities may be possible and debating the political and human costs of government shutdown tactics. They speculate about Republican prospects for 2028, naming JD Vance, Marco Rubio, and Ron DeSantis, and predict continued internal party disputes. The episode closes with discussion of Texas, abortion enforcement, death-penalty commutations, candidate ideology, and notable individual election results. The transcript is commentary-heavy and contains unclear names, jokes, and assertions that are not independently established here.",
-      "topics": [
-        "Midterm election analysis",
-        "Trump and Republican politics",
-        "Democratic policy agenda",
-        "Iran conflict",
-        "2028 presidential speculation"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Arizona Democrats secured a complete governing trifecta.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            11,
-            12
-          ]
-        },
-        {
-          "claim": "The Nasdaq fell by more than 5% before a slight rebound, and October added 165,000 jobs.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            411,
-            412,
-            413,
-            414,
-            415,
-            416,
-            417,
-            424,
-            425,
-            426
-          ]
-        },
-        {
-          "claim": "A federal judge blocked Trump's proposed 250-foot arch project.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            330,
-            331,
-            332,
-            333,
-            334
-          ]
-        },
-        {
-          "claim": "Iranian authorities distributed iodine tablets near nuclear facilities and U.S. commanders prepared for renewed fighting.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            355,
-            356,
-            357,
-            358,
-            359,
-            360,
-            361,
-            362,
-            363,
-            343,
-            344
-          ]
-        },
-        {
-          "claim": "Texas Democrats planned to change enforcement of the state's abortion restrictions and education policies.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            773,
-            774,
-            775,
-            776,
-            777,
-            778,
-            779,
-            780,
-            781,
-            782
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The hosts frame the election as a major Democratic wave and argue that many Republicans anticipated losses but underestimated their scale.",
-          "evidence_segment_indices": [
-            30,
-            31,
-            32,
-            102,
-            103,
-            104,
-            105,
-            106,
-            135,
-            136,
-            137,
-            138,
-            139
-          ],
-          "start_seconds": 65.119,
-          "end_seconds": 295.52
-        },
-        {
-          "point": "They argue that Democratic candidates benefited from opposition to Republicans and that moderates may have outperformed progressives in some races.",
-          "evidence_segment_indices": [
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180,
-            186,
-            187,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            876,
-            877,
-            878,
-            879,
-            892,
-            893
-          ],
-          "start_seconds": 365.68,
-          "end_seconds": 1835.52
-        },
-        {
-          "point": "The discussion proposes a broad Democratic governing agenda centered on affordability, healthcare, childcare, wages, ethics, investigations, and data-center regulation.",
-          "evidence_segment_indices": [
-            639,
-            640,
-            641,
-            642,
-            643,
-            644,
-            645,
-            646,
-            647,
-            648,
-            649,
-            650,
-            651,
-            657,
-            658,
-            659,
-            680,
-            681,
-            682,
-            687,
-            688,
-            689,
-            690,
-            691
-          ],
-          "start_seconds": 1305.36,
-          "end_seconds": 1415.28
-        },
-        {
-          "point": "The hosts treat Iran as a major political issue and debate whether Democrats should use funding or shutdown leverage while avoiding harm to service members.",
-          "evidence_segment_indices": [
-            335,
-            336,
-            337,
-            338,
-            339,
-            340,
-            341,
-            342,
-            343,
-            344,
-            366,
-            367,
-            368,
-            369,
-            370,
-            371,
-            372,
-            373,
-            374,
-            375,
-            376,
-            377,
-            378,
-            379
-          ],
-          "start_seconds": 681.04,
-          "end_seconds": 772.56
-        },
-        {
-          "point": "The episode speculates about a post-Trump Republican field and repeatedly identifies 2028 as an emerging focus.",
-          "evidence_segment_indices": [
-            546,
-            547,
-            548,
-            549,
-            550,
-            551,
-            556,
-            557,
-            558,
-            559,
-            560,
-            561,
-            576,
-            577,
-            578,
-            579,
-            596,
-            597,
-            598,
-            599
-          ],
-          "start_seconds": 1107.76,
-          "end_seconds": 1229.679
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "0a33d8e8a876a7a392016ddeb06660ad431ce8ef77f567d43049822d04e325ff",
-      "transcript_captured_at": "2026-11-07T01:33:12.785674Z",
-      "summary_generated_at": "2026-11-07T01:38:31.703628Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is automatic captioning with garbled names, missing words, and overlapping or malformed phrasing.",
-        "The episode mixes reported events with the hosts' opinions, predictions, humor, and allegations; attribution should not be treated as verification.",
-        "Several election, polling, market, military, legal, and policy claims are presented without supporting documentation in the source.",
-        "The source provides only the episode transcript and does not establish the broader factual context or timing of its claims.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
