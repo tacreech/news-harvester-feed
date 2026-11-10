@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-10T09:12:01.195165Z",
+  "generated_at": "2026-11-10T09:42:01.179517Z",
   "reporting_window": {
-    "start": "2026-11-03T09:12:01.195165Z",
-    "end": "2026-11-10T09:12:01.195165Z"
+    "start": "2026-11-03T09:42:01.179517Z",
+    "end": "2026-11-10T09:42:01.179517Z"
   },
   "episodes": [
     {
@@ -431,6 +431,600 @@
         "Automatic captions contain substantial transcription errors in names, organizations, and terminology, creating ambiguity around some references.",
         "The source presents the creator’s interpretations and advocacy alongside attributed reporting; allegations about corruption, influence, and political motives remain source claims.",
         "The episode does not establish final leadership votes or whether any proposed challenge succeeds.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "5wV9oyllRds",
+      "title": "Trump Jr. TURNS ON HIS OWN DAD!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=5wV9oyllRds",
+      "published_at": "2026-11-10T01:30:22.000000Z",
+      "summary": "Kyle Kulinski argues that Donald Trump Jr. attributed Republican losses partly to the Iran war’s economic consequences, while Kulinski says that explanation understates corruption, immigration enforcement, domestic disorder, and other grievances. Trump Jr. is presented as saying the Trump coalition includes disaffected Democrats and nontraditional voters, and that the war contributed to higher fuel and grocery costs after disrupting energy supplies. Kulinski counters that exit polling identified corruption as the leading issue and predicts Democrats would still have won decisively without the war. He also alleges that Trump Jr. benefited from a $650 million government grant connected to Vulcan Earth, using that claim to argue that Trump Jr. is implicated in the corruption he criticizes. The episode frames Trump Jr.’s comments as an unusual break with his father and suggests that Republican figures face pressure both to defend Trump and to distance themselves from him. The source is commentary and includes profanity, insults, speculation, and several uncited factual assertions.",
+      "topics": [
+        "Trump Jr.’s criticism of the Iran war",
+        "Republican electoral losses",
+        "Corruption allegations",
+        "Exit polling and voter priorities",
+        "Trump-era political accountability"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Donald Trump Jr. said the Iran war contributed to voter movement by increasing fuel and grocery prices.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            26,
+            27,
+            28,
+            29,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            55,
+            56,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63
+          ]
+        },
+        {
+          "claim": "The episode states that exit polling ranked corruption as the public’s top issue and placed foreign policy at 4%.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            42,
+            43,
+            44,
+            82,
+            83,
+            84,
+            85,
+            86
+          ]
+        },
+        {
+          "claim": "Kulinski alleges that Trump Jr. received a $650 million government grant for a company in which he invested, identified as Vulcan Earth.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98
+          ]
+        },
+        {
+          "claim": "Kulinski predicts Democrats would have won the House and 52 or 53 Senate seats even without the Iran war.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121
+          ]
+        },
+        {
+          "claim": "The episode says Trump’s administration monitored approximately 3,000 conservative groups’ statements.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Trump Jr. characterizes the coalition as including former Democrats, first-time voters, and people who felt left behind.",
+          "evidence_segment_indices": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "start_seconds": 15.92,
+          "end_seconds": 42.559
+        },
+        {
+          "point": "Trump Jr. acknowledges that the Iran war may have shifted voter sentiment despite defending broader administration accomplishments.",
+          "evidence_segment_indices": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "start_seconds": 41.28,
+          "end_seconds": 116.32
+        },
+        {
+          "point": "Kulinski argues that corruption and broader administration controversies mattered more than a single foreign-policy explanation.",
+          "evidence_segment_indices": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            134,
+            135,
+            136
+          ],
+          "start_seconds": 144.959,
+          "end_seconds": 251.84
+        },
+        {
+          "point": "Kulinski presents Trump Jr.’s remarks as an unusual distancing from his father and as evidence of internal Republican tension.",
+          "evidence_segment_indices": [
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            176,
+            177,
+            178,
+            179
+          ],
+          "start_seconds": 250.72,
+          "end_seconds": 335.039
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "3b759ae3df735e33605cf1790e43c85da49c3837a018e411a79153f85dfea0fb",
+      "transcript_captured_at": "2026-11-10T09:10:32.640339Z",
+      "summary_generated_at": "2026-11-10T09:39:06.546545Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a partisan commentary segment, not an independently verified account.",
+        "Several factual claims, polling figures, and allegations are presented without citations or supporting documentation.",
+        "Automatic captions contain redactions, profanity substitutions, transcription errors, and ambiguous names.",
+        "Some predictions and references to future or hypothetical events are speculative within the episode.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "IX-Tu4oxKk8",
+      "title": "ALL HELL BREAKS LOOSE AS Trump Insider TELLS ALL & RESIGNATIONS HIT | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=IX-Tu4oxKk8",
+      "published_at": "2026-11-10T01:00:23.000000Z",
+      "summary": "Kyle Kulinski argues that an internal conflict is emerging within the Trump administration after a reported Republican midterm setback. The episode examines former administration figure Calli Means’s allegations that vaping policy received unusually high priority at HHS, allegedly because of industry influence and electoral strategy. Kulinski accepts parts of Means’s account but criticizes him for portraying Donald Trump and RFK Jr. as well-intentioned officials undermined by subordinates. The discussion also addresses an alleged glyphosate executive order framed as a national-security measure, with Means describing resistance inside the administration and Kulinski questioning RFK Jr.’s subsequent conduct. Means further claims that lobbyists and advisers served vaping, processed-food, pharmaceutical, and pesticide interests while citing the need for campaign money. The episode concludes by linking reported DOJ departures to a broader institutional crisis and predicts escalating blame, investigations, and resignations. These are presented through commentary and excerpts, without independently verified documents or responses from the people accused.",
+      "topics": [
+        "Trump administration infighting",
+        "Vaping policy and lobbying",
+        "Glyphosate policy",
+        "RFK Jr. and HHS",
+        "DOJ resignations"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Calli Means alleges that flavored-vape approval was a top HHS and White House priority, influenced by vaping-industry money and midterm strategy.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            21,
+            25,
+            31,
+            41,
+            48,
+            49,
+            50,
+            67,
+            68,
+            69
+          ]
+        },
+        {
+          "claim": "Means describes a glyphosate executive order framed as a national-security measure and says officials were told it was final despite objections.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            140,
+            141,
+            142,
+            143,
+            147,
+            148,
+            154,
+            160,
+            164,
+            167,
+            168,
+            170,
+            177
+          ]
+        },
+        {
+          "claim": "Means alleges that advisers connected to the administration catered to multiple industries and used campaign fundraising as justification for policy choices.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            291,
+            292,
+            293,
+            294,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            309,
+            310,
+            311,
+            316,
+            317,
+            318
+          ]
+        },
+        {
+          "claim": "The episode asserts that multiple DOJ resignations followed the midterm defeat and connects them to alleged criminal conduct by administration officials.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            399,
+            400,
+            401,
+            402,
+            403,
+            404,
+            405,
+            406,
+            407,
+            408,
+            422,
+            428,
+            432,
+            435
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames Means’s interview as a whistleblower account but disputes its favorable treatment of Trump and RFK Jr.",
+          "evidence_segment_indices": [
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114
+          ],
+          "start_seconds": 168.8,
+          "end_seconds": 229.44
+        },
+        {
+          "point": "The episode focuses on alleged industry influence over vaping, pesticide, processed-food, and pharmaceutical policy.",
+          "evidence_segment_indices": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            37,
+            38,
+            39,
+            40,
+            41,
+            292,
+            293,
+            294,
+            295,
+            296,
+            297
+          ],
+          "start_seconds": 57.199,
+          "end_seconds": 565.76
+        },
+        {
+          "point": "Means says a close-knit group of advisers acted against voters’ preferences while Trump was not fully aware; Kulinski rejects that characterization.",
+          "evidence_segment_indices": [
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            260,
+            261,
+            262,
+            271,
+            272,
+            273,
+            291,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318,
+            326,
+            327,
+            328
+          ],
+          "start_seconds": 448.24,
+          "end_seconds": 621.2
+        },
+        {
+          "point": "Kulinski predicts worsening internal blame, investigations, and departures within the administration.",
+          "evidence_segment_indices": [
+            387,
+            388,
+            389,
+            390,
+            391,
+            392,
+            393,
+            394,
+            395,
+            396,
+            397,
+            398,
+            429,
+            430,
+            431,
+            432,
+            433,
+            434,
+            435,
+            436,
+            437,
+            438
+          ],
+          "start_seconds": 713.839,
+          "end_seconds": 814.56
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "00c173dac0c12044df66506b8bee43cffbcb833e7e87b3d9d83b04f73314dd6d",
+      "transcript_captured_at": "2026-11-10T09:10:25.073753Z",
+      "summary_generated_at": "2026-11-10T09:38:45.900881Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a commentary program combining host assertions with excerpts from interviews; it does not provide underlying documents or independent corroboration.",
+        "Several captions contain apparent transcription errors, name uncertainty, and fragmented or overlapping speech.",
+        "Claims about cancer, corruption, criminal conduct, lobbying, executive orders, and DOJ actions require independent verification.",
+        "The episode’s account is source-only and does not include responses from the individuals or organizations accused.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "FiIYLLs3NkI",
+      "title": "‘All In’ Podcast Bros PANIC Over Blue Wave | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=FiIYLLs3NkI",
+      "published_at": "2026-11-10T00:30:34.000000Z",
+      "summary": "Kyle Kulinski argues that commentators associated with the All-In podcast are reacting anxiously to what he characterizes as a Democratic “blue wave” and a repudiation of MAGA. He presents excerpts in which speakers say Republicans lost influential podcast personalities, depend heavily on alternative media, and failed to address voters’ economic concerns. One excerpt attributes recent electoral shifts primarily to dissatisfaction with economic conditions and argues that asset owners have benefited while wage earners have struggled. Kulinski also criticizes what he portrays as wealthy figures’ post-election movement toward progressive-sounding positions, interpreting it as opportunistic. The episode concludes with criticism of a proposal that Donald Trump pardon himself, his family, and administration members, which Kulinski says would undermine accountability. The material consists of partisan commentary and clipped dialogue; the transcript alone does not establish the election results, the cited policy impacts, alleged crimes, or the speakers’ identities and motivations.",
+      "topics": [
+        "All-In podcast and MAGA",
+        "Media influence and partisan coalitions",
+        "Economic grievances and elections",
+        "Presidential pardons and accountability"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The cited election produced a major Democratic “blue wave” and broad repudiation of MAGA and its allies.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            2,
+            29,
+            30,
+            66,
+            144,
+            146,
+            181
+          ]
+        },
+        {
+          "claim": "A major bill would remove 18 million people from Medicaid.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            109,
+            110,
+            111
+          ]
+        },
+        {
+          "claim": "The Trump administration’s Iran war, economic policies, and alleged corruption produced the political backlash described.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            104,
+            105,
+            106,
+            107,
+            108,
+            113,
+            115
+          ]
+        },
+        {
+          "claim": "Individuals connected to the administration engaged in crimes, insider trading, crypto scams, war crimes, or profiteering.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            11,
+            20,
+            22,
+            23,
+            24,
+            25,
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            269,
+            270
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames the All-In discussion as evidence that Republican media allies and podcast personalities have become politically unreliable.",
+          "evidence_segment_indices": [
+            27,
+            28,
+            33,
+            35,
+            40,
+            41,
+            75,
+            91
+          ],
+          "start_seconds": 52.96,
+          "end_seconds": 171.84
+        },
+        {
+          "point": "The quoted speakers attribute electoral shifts to economic distress and argue that wealthy asset owners have fared better than wage earners.",
+          "evidence_segment_indices": [
+            119,
+            124,
+            128,
+            141,
+            151,
+            157,
+            169,
+            171,
+            173,
+            181,
+            183
+          ],
+          "start_seconds": 220.319,
+          "end_seconds": 355.44
+        },
+        {
+          "point": "Kulinski interprets wealthy figures’ progressive-sounding rhetoric as a possible effort to adapt to changing political power.",
+          "evidence_segment_indices": [
+            185,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            207,
+            214,
+            224,
+            225
+          ],
+          "start_seconds": 355.44,
+          "end_seconds": 430.479
+        },
+        {
+          "point": "He condemns a proposal for broad pardons as abandoning rule of law and accountability.",
+          "evidence_segment_indices": [
+            235,
+            242,
+            246,
+            247,
+            252,
+            253,
+            272,
+            274,
+            275,
+            276
+          ],
+          "start_seconds": 445.12,
+          "end_seconds": 523.68
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "c854fef50bc8a28a883f84ff2b35871ace64b3a4de9c908a04b76efa34f5a894",
+      "transcript_captured_at": "2026-11-10T09:10:17.784856Z",
+      "summary_generated_at": "2026-11-10T09:38:24.022164Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is partisan commentary and does not independently verify its political, economic, legal, or electoral assertions.",
+        "Several captions contain transcription defects, including unclear names and phrases.",
+        "The excerpted discussion provides limited context for the election, policies, alleged conduct, and identities referenced.",
+        "Some claims are rhetorical characterizations rather than precise, testable descriptions.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -4481,572 +5075,6 @@
         "Several names, words, and quotations appear garbled or ambiguous in the automatic captions.",
         "The transcript attributes polling, resignations, legal actions, and election results to outside reporting without providing the underlying sources.",
         "Some claims are predictions or interpretations, including anticipated political conflict and the 2028 outlook.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "12biQutGLIA",
-      "title": "IT'S ABOUT TO GET A LOT WORSE",
-      "url": "https://www.youtube.com/watch?v=12biQutGLIA",
-      "published_at": "2026-11-06T21:46:48.000000Z",
-      "summary": "The creator argues that Donald Trump’s reported replacement of Susie Wiles with Stephen Miller, alongside Pete Hegseth remaining influential, signals a more aggressive direction after what the creator describes as a historic Democratic midterm wave. He portrays Wiles as a limited moderating influence and Miller as an advocate of harsher immigration and dissent policies. The episode cites reports that liberal, left-wing, and human-rights groups could face attempts to classify them as terrorist-linked organizations, but presents this as unverified reporting. The creator predicts intensified immigration enforcement, political persecution, and suppression of dissent. He also expresses concern that tensions with Iran could escalate, mentioning possible use of a large bomb, ground invasion, or nuclear weapon as speculative possibilities rather than established plans. The episode closes by predicting severe political consequences for Republican senators and describing Trump’s movement in highly charged historical terms. Overall, it is an alarmed commentary built around reported personnel changes, unverified claims, and worst-case forecasts.",
-      "topics": [
-        "Trump administration personnel",
-        "Immigration and dissent",
-        "Iran escalation risks",
-        "U.S. partisan politics"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Stephen Miller was made chief of staff and Susie Wiles was removed or displaced.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            2,
-            5,
-            13,
-            29,
-            30,
-            31,
-            32
-          ]
-        },
-        {
-          "claim": "Reports indicated possible executive action targeting liberal, left-wing, or human-rights groups through terrorist-related classifications.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46
-          ]
-        },
-        {
-          "claim": "A major escalation involving Iran, including a large bomb, ground invasion, or nuclear weapon, was possible or under consideration.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            76,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            88,
-            89
-          ]
-        },
-        {
-          "claim": "The referenced midterm elections produced a historic Democratic wave.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            8,
-            9,
-            10,
-            111,
-            112,
-            114,
-            115
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator interprets personnel changes as evidence that Trump is rejecting moderation and empowering harsher advisers.",
-          "evidence_segment_indices": [
-            13,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33
-          ],
-          "start_seconds": 34.32,
-          "end_seconds": 85.36
-        },
-        {
-          "point": "The episode predicts intensified immigration enforcement and suppression of dissent.",
-          "evidence_segment_indices": [
-            34,
-            35,
-            36,
-            37,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55
-          ],
-          "start_seconds": 83.28,
-          "end_seconds": 139.2
-        },
-        {
-          "point": "The Iran discussion is explicitly framed through the creator’s fears and speculative worst-case scenarios.",
-          "evidence_segment_indices": [
-            76,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            95,
-            96,
-            97,
-            98
-          ],
-          "start_seconds": 180.879,
-          "end_seconds": 236.159
-        },
-        {
-          "point": "The creator predicts electoral damage for Republicans in 2028 and broader harm to the country.",
-          "evidence_segment_indices": [
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120
-          ],
-          "start_seconds": 252.0,
-          "end_seconds": 287.04
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "cd15aecca0721222b1df0b6c30778d2fe0d2f0b1a292fc4d19469382000723e6",
-      "transcript_captured_at": "2026-11-06T22:33:13.579232Z",
-      "summary_generated_at": "2026-11-06T22:38:27.727788Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is a single commentary episode and does not independently establish the reported personnel changes or policy plans.",
-        "Several captions contain transcription defects, including names, profanity omissions, and politically charged terms.",
-        "Predictions about Iran and nuclear weapons are speculative and should not be treated as evidence of actual plans.",
-        "The episode provides no supporting documents, dates, or corroborating sources for its cited reports.",
-        "The summary preserves the creator’s allegations and rhetoric without endorsing them.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "uZm8hFPrnSQ",
-      "title": "🚨Trump FIRES Chief of Staff as Musk Faces TURMOIL, White House in CHAOS!!!!",
-      "url": "https://www.youtube.com/watch?v=uZm8hFPrnSQ",
-      "published_at": "2026-11-06T19:16:01.000000Z",
-      "summary": "Aaron Parnas presents a commentary episode about an announced White House personnel change, saying Susie Wilds will leave the chief-of-staff position and Steven Miller will assume it while Wilds moves to the Trump political operation. The episode frames Miller’s promotion as a consequential shift toward more aggressive immigration and executive policies, but these characterizations are presented by Parnas and interview guests rather than independently established in the source. It also discusses scrutiny facing Elon Musk, including claims that lawmakers may investigate him and criticism of his activities in Texas. An incoming Texas governor is quoted emphasizing that any relationship with Musk should operate on state terms and that public beaches should remain accessible. Later, White House correspondent Luke Rael attributes the change to post-election panic and predicts a more centralized, confrontational administration under Miller. The episode also includes political commentary about election results, factional conflict, and the Republican Party’s future. The transcript contains overlapping captions, unclear names, and several unverified assertions.",
-      "topics": [
-        "White House staffing change",
-        "Steven Miller’s expanded role",
-        "Elon Musk and political scrutiny",
-        "Texas government and public beaches",
-        "Post-election Republican politics"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Donald Trump announced that Steven Miller would become White House chief of staff and that Susie Wilds would move to the Trump political operation.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            10,
-            11,
-            12,
-            13,
-            34,
-            35,
-            37,
-            38,
-            39,
-            40,
-            41
-          ]
-        },
-        {
-          "claim": "The episode says lawmakers are planning investigations involving Elon Musk and other Trump-aligned figures.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            20,
-            21,
-            22,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            102,
-            103,
-            104
-          ]
-        },
-        {
-          "claim": "The episode reports that the incoming Texas governor opposed selling beaches to Elon Musk and said cooperation should occur on Texas’s terms.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85
-          ]
-        },
-        {
-          "claim": "The episode states that the administration and Republican Party suffered an historically severe midterm defeat.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            161,
-            162,
-            163,
-            164,
-            165,
-            166,
-            232,
-            233,
-            234,
-            235,
-            236,
-            237,
-            238,
-            239,
-            240,
-            245,
-            246,
-            247,
-            250,
-            251
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The central development is a reported transition from Susie Wilds to Steven Miller as chief of staff.",
-          "evidence_segment_indices": [
-            10,
-            11,
-            12,
-            13,
-            31,
-            34,
-            37,
-            38,
-            39,
-            40
-          ],
-          "start_seconds": 21.119,
-          "end_seconds": 82.64
-        },
-        {
-          "point": "Parnas and interviewees interpret Miller’s promotion as favoring a more top-down and confrontational governing style.",
-          "evidence_segment_indices": [
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            199,
-            200,
-            201,
-            202,
-            212,
-            213,
-            214,
-            215,
-            224,
-            225,
-            226,
-            227,
-            228
-          ],
-          "start_seconds": 395.199,
-          "end_seconds": 492.0
-        },
-        {
-          "point": "The episode links Musk to prospective investigations, congressional criticism, and political resistance in Texas and Virginia.",
-          "evidence_segment_indices": [
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            66,
-            67,
-            68,
-            69,
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103
-          ],
-          "start_seconds": 119.759,
-          "end_seconds": 235.04
-        },
-        {
-          "point": "A Texas political figure argues for bipartisan cooperation and says public schools and community priorities should guide the transition team.",
-          "evidence_segment_indices": [
-            109,
-            110,
-            111,
-            112,
-            113,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140
-          ],
-          "start_seconds": 243.84,
-          "end_seconds": 317.199
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "6a9bed10cc2aa0e545c942efb706bf8fb6670c45d9dc2efc1e107d416a6417ce",
-      "transcript_captured_at": "2026-11-06T20:33:12.992596Z",
-      "summary_generated_at": "2026-11-06T20:38:28.444520Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is a single commentary video and does not independently document the reported announcements, investigations, election results, or legal claims.",
-        "Captions contain apparent transcription errors and unclear names, including references to Wilds, Miller, and Texas officials.",
-        "Several statements are predictions, allegations, or political opinions attributed to the host and interview guests rather than verified findings.",
-        "Overlapping segments and repeated wording make some quotations and speaker transitions ambiguous.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "heHKqF3zXXg",
-      "title": "LIVE | Raging Perspectives with Aaron Parnas and Jessica Tarlov",
-      "url": "https://www.youtube.com/watch?v=heHKqF3zXXg",
-      "published_at": "2026-11-06T18:38:08.000000Z",
-      "summary": "Aaron Parnas and Jessica Tarlov present an enthusiastic, partisan discussion of what they describe as a sweeping Democratic midterm victory and its implications. They argue that Democratic candidates benefited from voter frustration over costs, war, corruption, and Republican culture-war politics, while emphasizing that party labels mattered more than ideological positioning in many races. The conversation highlights prospective Democratic investment in the South, Texas, and other traditionally Republican regions, alongside debate over how Democrats should govern once they hold power. They advocate investigations, economic measures, healthcare and childcare proposals, ethics rules, and caution around government shutdown tactics during the conflict involving Iran. The hosts also discuss data-center moratoriums, Elon Musk, possible 2028 Republican contenders, Gavin Newsom’s death-penalty commutations, and Texas abortion and education policy. Much of the episode consists of interpretation, speculation, humor, and predictions rather than documented analysis; several election, polling, market, military, and policy claims are presented without supporting source material.",
-      "topics": [
-        "Midterm election interpretation",
-        "Democratic governing agenda",
-        "Iran and war powers",
-        "Data centers and economic policy",
-        "2028 political speculation"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The hosts state that Democrats won the House and Senate and describe major gains across traditionally Republican states and regions.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            10,
-            18,
-            91,
-            92,
-            143,
-            147,
-            148
-          ]
-        },
-        {
-          "claim": "The discussion reports that Iran was preparing for possible renewed bombing and that U.S. forces were preparing for resumed hostilities.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            336,
-            337,
-            338,
-            339,
-            343,
-            344,
-            361,
-            364,
-            366,
-            367
-          ]
-        },
-        {
-          "claim": "The episode reports a more-than-5% Nasdaq drop, a subsequent rebound, and 165,000 jobs added in October.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            423,
-            424,
-            427,
-            435,
-            436
-          ]
-        },
-        {
-          "claim": "The hosts report that Gavin Newsom commuted the sentences of 548 California death-row inmates.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            823,
-            824,
-            825
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The hosts interpret the election as a repudiation of Republicans and a broad opening for Democrats.",
-          "evidence_segment_indices": [
-            82,
-            91,
-            92,
-            120,
-            147,
-            148
-          ],
-          "start_seconds": 238.892,
-          "end_seconds": 366.495
-        },
-        {
-          "point": "They argue Democrats should invest in Southern states and compete beyond conventional blue areas.",
-          "evidence_segment_indices": [
-            199,
-            204,
-            205,
-            206,
-            220,
-            221,
-            222,
-            229,
-            230,
-            231
-          ],
-          "start_seconds": 466.995,
-          "end_seconds": 521.297
-        },
-        {
-          "point": "They debate balancing pressure on the administration over Iran with the practical effects of a government shutdown.",
-          "evidence_segment_indices": [
-            351,
-            352,
-            373,
-            387,
-            390,
-            391,
-            394,
-            395
-          ],
-          "start_seconds": 737.899,
-          "end_seconds": 823.399
-        },
-        {
-          "point": "They propose an ambitious Democratic agenda involving affordability, healthcare, childcare, ethics, investigations, and labor policy.",
-          "evidence_segment_indices": [
-            639,
-            640,
-            648,
-            654,
-            679,
-            686,
-            687,
-            689,
-            696,
-            698
-          ],
-          "start_seconds": 1302.905,
-          "end_seconds": 1418.906
-        },
-        {
-          "point": "The hosts speculate about the 2028 field and possible Republican repositioning after the election.",
-          "evidence_segment_indices": [
-            535,
-            537,
-            544,
-            548,
-            566,
-            568,
-            588,
-            591
-          ],
-          "start_seconds": 1095.402,
-          "end_seconds": 1217.403
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "d47dcdf59fe5b567865af718cd76b60d80c56eeec9cf47377421b63d5bd317da",
-      "transcript_captured_at": "2026-11-07T19:03:38.737436Z",
-      "summary_generated_at": "2026-11-07T19:08:48.290923Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains overlapping captions, omissions, hesitations, and apparent recognition errors.",
-        "Many names, offices, vote outcomes, numerical figures, and policy descriptions are difficult to identify confidently from captions alone.",
-        "The episode is primarily commentary and opinion; it does not provide independent documentation for most factual assertions.",
-        "Some statements are predictions or rhetorical claims rather than established outcomes.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
