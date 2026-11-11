@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T00:42:01.152382Z",
+  "generated_at": "2026-11-11T01:12:01.218233Z",
   "reporting_window": {
-    "start": "2026-11-04T00:42:01.152382Z",
-    "end": "2026-11-11T00:42:01.152382Z"
+    "start": "2026-11-04T01:12:01.218233Z",
+    "end": "2026-11-11T01:12:01.218233Z"
   },
   "episodes": [
     {
@@ -252,6 +252,178 @@
         "The source presents reports, research, screenshots, and interpretations without providing independently inspectable documents in the transcript.",
         "Relationships among Nvidia, the named companies, alleged export diversions, and intelligence activity are described as possible or alleged rather than established.",
         "The episode’s stock-market and transaction figures are source-reported claims requiring independent verification.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "H5_Z59DNh6g",
+      "title": "🚨 Democrats FAIL to Impeach Hegseth as Trump Staff RUNS for the Exits!!",
+      "url": "https://www.youtube.com/watch?v=H5_Z59DNh6g",
+      "published_at": "2026-11-10T23:27:31.000000Z",
+      "summary": "Creator Aaron Parnas reports that House Republicans tabled an impeachment resolution targeting Defense Secretary Pete Hegseth after 11 Democrats were absent, while suggesting the effort could return in January. He presents Republican senators’ comments as evidence that Hegseth’s position remains uncertain, including Tom Tillis’s stated willingness to convict and remove him in a trial. Parnas also discusses projected Democratic gains in the incoming House and internal contests over party leadership, alongside Republican leadership elections and Tom Emmer’s warning to Democrats. The episode further claims, citing Bloomberg as presented by Parnas, that some Trump administration aides are seeking new career paths. It closes with coverage of Republican representative Anthony Constantino’s comments that Sean Combs’s possible pardon should be considered. The account is commentary based on the supplied transcript; several names, vote figures, offices, and quoted remarks appear garbled or incomplete, and the source does not independently document the reported developments.",
+      "topics": [
+        "Hegseth impeachment effort",
+        "Congressional leadership contests",
+        "Projected House majority",
+        "Trump administration staffing",
+        "Pardon discussion"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The House tabled the Hegseth impeachment resolution after 11 Democrats were absent, with a reported vote of 2011 to 204.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            1,
+            2,
+            4,
+            8,
+            9,
+            12,
+            13
+          ]
+        },
+        {
+          "claim": "Democrats are projected to hold 258 to more than 260 House seats in the incoming Congress.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            22,
+            23,
+            24,
+            25,
+            114,
+            115,
+            116,
+            117
+          ]
+        },
+        {
+          "claim": "Republican senators, including Tom Tillis, have indicated support for removing Hegseth or holding an impeachment trial.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            17,
+            18,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71
+          ]
+        },
+        {
+          "claim": "Bloomberg reportedly said Trump administration aides are trying to leave for new career paths.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas says the impeachment articles were sent back to committees rather than advancing this week.",
+          "evidence_segment_indices": [
+            4,
+            9,
+            10,
+            11,
+            38,
+            39,
+            40
+          ],
+          "start_seconds": 9.599,
+          "end_seconds": 104.4
+        },
+        {
+          "point": "The episode portrays Senate Majority Leader John Thune’s response as deferring to the president’s confidence in Hegseth.",
+          "evidence_segment_indices": [
+            43,
+            44,
+            45,
+            46,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            56,
+            57,
+            58
+          ],
+          "start_seconds": 106.72,
+          "end_seconds": 140.16
+        },
+        {
+          "point": "Republicans elected John Thune as Senate leader, Jim Jordan as House minority leader, and Tom Emmer as whip, according to the episode.",
+          "evidence_segment_indices": [
+            76,
+            79,
+            80,
+            84,
+            85,
+            86,
+            97,
+            98
+          ],
+          "start_seconds": 178.959,
+          "end_seconds": 239.84
+        },
+        {
+          "point": "The episode describes Democratic debate over future leadership, including Bernie Sanders’s opposition to Chuck Schumer’s reelection as leader.",
+          "evidence_segment_indices": [
+            143,
+            144,
+            145,
+            148,
+            149,
+            150,
+            151,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166
+          ],
+          "start_seconds": 345.919,
+          "end_seconds": 406.56
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "41c010c8603ecb655577695a705c63771d6410e3eec8ca83130010d89e272312",
+      "transcript_captured_at": "2026-11-11T01:03:14.270137Z",
+      "summary_generated_at": "2026-11-11T01:08:26.790248Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript repeatedly renders names and titles ambiguously, including Hegseth, Thune, Hakeem Jeffries, and other figures.",
+        "The reported House vote is transcribed as “2011 to 204,” which is unclear and requires verification.",
+        "Projected seat totals, leadership outcomes, and Bloomberg attribution are presented only through the creator’s account.",
+        "The closing discussion contains caption defects and unclear references concerning the proposed pardon.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -4839,196 +5011,6 @@
         "The transcript presents allegations, political statements, and predictions without corroborating documents or independent confirmation.",
         "It is unclear from the supplied material whether any cited subpoenas, investigations, impeachment resolutions, or prosecutions were formally initiated.",
         "Some excerpts are repetitive or speaker labels are incomplete, so attribution is occasionally dependent on surrounding context.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "4p11KojZvuk",
-      "title": "'TRUMP IS CORRUPT' — Republicans BREAK as White House FLAILS After Major Losses",
-      "url": "https://www.youtube.com/watch?v=4p11KojZvuk",
-      "published_at": "2026-11-08T15:08:16.000000Z",
-      "summary": "Aaron Parnas presents allegations and commentary about political strain inside the Trump administration, centering on Senator Ron Johnson’s reported call to examine what he describes as corruption in government and within the administration. The episode characterizes Johnson’s remarks as evidence that some Republicans may be becoming more willing to criticize President Trump, while also portraying Trump as isolated and politically weakened. It discusses disputes over congressional investigations, including accusations that officials are threatening political opponents and the defense of administration members. In the featured exchange, the attorney general argues that the Department of Justice routinely represents executive-branch officials before Congress and could defend them in such proceedings. Parnas also connects the political developments to Trump’s reaction to an election and to a reported one-day stock-market loss, while predicting uncertainty about Republicans’ future alignment and any market rebound. The material consists of commentary and quoted remarks; it does not independently establish the corruption, investigation, impeachment, market-loss, or political-dynamics claims.",
-      "topics": [
-        "Trump administration",
-        "Republican dissent",
-        "Government corruption allegations",
-        "Congressional oversight",
-        "Stock-market reaction"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Senator Ron Johnson said corruption was widespread in government and within the Trump administration and called for examining it.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            2,
-            3,
-            8,
-            39,
-            40,
-            41,
-            42,
-            45,
-            63,
-            65
-          ]
-        },
-        {
-          "claim": "The Department of Justice routinely represents executive-branch officials before Congress and may defend administration members in congressional proceedings.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            162,
-            169,
-            170,
-            171,
-            172,
-            173,
-            182,
-            185,
-            197,
-            201,
-            203,
-            210,
-            211,
-            214,
-            215
-          ]
-        },
-        {
-          "claim": "Pete Hegseth was expected to face impeachment proceedings and receive Department of Justice representation.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            147,
-            148,
-            149,
-            150,
-            151,
-            218,
-            219,
-            220
-          ]
-        },
-        {
-          "claim": "The stock market experienced a one-day loss of approximately $3 trillion following the election results.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            222,
-            223,
-            224,
-            225,
-            226,
-            227
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode attributes claims of rampant corruption to Ron Johnson and to the creator’s interpretation of Johnson’s comments.",
-          "evidence_segment_indices": [
-            0,
-            2,
-            8,
-            39,
-            40,
-            41,
-            63,
-            65
-          ],
-          "start_seconds": 0.08,
-          "end_seconds": 153.2
-        },
-        {
-          "point": "Parnas argues that Republicans are increasingly willing to rebuke Trump and portrays the president as politically weakened.",
-          "evidence_segment_indices": [
-            10,
-            18,
-            19,
-            20,
-            28,
-            29,
-            30,
-            34,
-            35
-          ],
-          "start_seconds": 20.64,
-          "end_seconds": 80.799
-        },
-        {
-          "point": "A featured exchange contrasts congressional oversight with alleged politically motivated investigations and threats.",
-          "evidence_segment_indices": [
-            80,
-            86,
-            95,
-            100,
-            101,
-            102,
-            107,
-            108,
-            109,
-            112,
-            119,
-            125,
-            133,
-            136
-          ],
-          "start_seconds": 179.44,
-          "end_seconds": 285.759
-        },
-        {
-          "point": "The attorney general says DOJ representation of executive officials before Congress is routine and constitutionally grounded.",
-          "evidence_segment_indices": [
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            182,
-            184,
-            185,
-            193,
-            197,
-            201,
-            203,
-            214,
-            215
-          ],
-          "start_seconds": 348.0,
-          "end_seconds": 444.08
-        },
-        {
-          "point": "The closing discussion links Trump’s election reaction to a reported market decline and uncertainty about what follows.",
-          "evidence_segment_indices": [
-            220,
-            222,
-            223,
-            224,
-            226,
-            227,
-            229,
-            230,
-            231,
-            232
-          ],
-          "start_seconds": 448.479,
-          "end_seconds": 478.0
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "14fb66248a1a27ef8724143eec217477cccb525e86c94a19262393db81db996a",
-      "transcript_captured_at": "2026-11-08T16:33:17.186341Z",
-      "summary_generated_at": "2026-11-08T16:38:25.498579Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is a single commentary episode with embedded quoted exchanges, not an independently verified record.",
-        "Several names and phrases appear mistranscribed, including references resembling Hegseth, Kash Patel, and other officials.",
-        "The source provides no supporting documents or independent confirmation for corruption, impeachment, investigation, or market-loss assertions.",
-        "Some statements are predictions or interpretations by the creator rather than reported outcomes.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
