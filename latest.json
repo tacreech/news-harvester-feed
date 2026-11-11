@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T23:00:54.070221Z",
+  "generated_at": "2026-11-11T23:30:54.379329Z",
   "reporting_window": {
-    "start": "2026-11-04T23:00:54.070221Z",
-    "end": "2026-11-11T23:00:54.070221Z",
+    "start": "2026-11-04T23:30:54.379329Z",
+    "end": "2026-11-11T23:30:54.379329Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,7 +14,7 @@
       "identity_status": "verified",
       "health": "success_new",
       "discovery_status": "success_new",
-      "last_successful_poll": "2026-11-11T23:00:52.012763Z",
+      "last_successful_poll": "2026-11-11T23:30:52.877081Z",
       "warnings": []
     },
     {
@@ -23,7 +23,7 @@
       "identity_status": "verified",
       "health": "success_new",
       "discovery_status": "success_new",
-      "last_successful_poll": "2026-11-11T23:00:52.739868Z",
+      "last_successful_poll": "2026-11-11T23:30:53.097802Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-11T23:00:52.936536Z",
+      "last_successful_poll": "2026-11-11T23:30:53.389375Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-11T23:00:53.199160Z",
+      "last_successful_poll": "2026-11-11T23:30:53.797548Z",
       "warnings": []
     },
     {
@@ -50,11 +50,35 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-11T23:00:53.902240Z",
+      "last_successful_poll": "2026-11-11T23:30:54.223387Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "D7mbag__JzM",
+      "title": "Insane news concerning NVIDIA.",
+      "published_at": "2026-11-11T23:09:47.000000Z",
+      "url": "https://www.youtube.com/watch?v=D7mbag__JzM",
+      "first_seen": "2026-11-11T23:30:53.097802Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "Mvxm0DPaMiY",
+      "title": "Trump PANICS As Top Dem Drops FINAL WARNING!! | The Kyle Kulinski Show",
+      "published_at": "2026-11-11T23:00:19.000000Z",
+      "url": "https://www.youtube.com/watch?v=Mvxm0DPaMiY",
+      "first_seen": "2026-11-11T23:30:52.877081Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -89,7 +113,7 @@
       "first_seen": "2026-11-11T22:30:52.101425Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "not_queued"
+      "transcript_status": "discovered"
     },
     {
       "creator": "Aaron Parnas",
@@ -125,7 +149,7 @@
       "first_seen": "2026-11-11T22:00:51.536937Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "not_queued"
+      "transcript_status": "captions_ready"
     },
     {
       "creator": "Kyle Kulinski — Secular Talk",
@@ -161,7 +185,7 @@
       "first_seen": "2026-11-11T21:00:50.350604Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "retryable_failure"
+      "transcript_status": "permanent_failure"
     },
     {
       "creator": "Aaron Parnas",
@@ -233,7 +257,7 @@
       "first_seen": "2026-11-11T21:00:50.350604Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "retryable_failure"
+      "transcript_status": "permanent_failure"
     },
     {
       "creator": "Aaron Parnas",
@@ -245,7 +269,7 @@
       "first_seen": "2026-11-11T21:00:50.350604Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "retryable_failure"
+      "transcript_status": "permanent_failure"
     },
     {
       "creator": "Aaron Parnas",
@@ -1899,42 +1923,6 @@
       "published_at": "2026-11-04T23:37:06.000000Z",
       "url": "https://www.youtube.com/watch?v=sipGHoG36LI",
       "first_seen": "2026-11-05T00:01:35.611538Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "expired"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "uzyxdh91N3M",
-      "title": "JD Vance IN SHAMBLES Over TOTAL COLLAPSE Of MAGA | The Kyle Kulinski Show",
-      "published_at": "2026-11-04T23:15:07.000000Z",
-      "url": "https://www.youtube.com/watch?v=uzyxdh91N3M",
-      "first_seen": "2026-11-04T23:30:32.685620Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "expired"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "FVAhfDnr6Dc",
-      "title": "You need to see this.",
-      "published_at": "2026-11-04T23:06:35.000000Z",
-      "url": "https://www.youtube.com/watch?v=FVAhfDnr6Dc",
-      "first_seen": "2026-11-05T01:30:26.126523Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "not_queued"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "YH_NwdtJepw",
-      "title": "Please Never Use Google Search Again...",
-      "published_at": "2026-11-04T23:03:58.000000Z",
-      "url": "https://www.youtube.com/watch?v=YH_NwdtJepw",
-      "first_seen": "2026-11-04T23:31:04.584970Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "expired"
