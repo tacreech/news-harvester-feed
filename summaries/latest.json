@@ -1,11 +1,578 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-10T22:12:01.144447Z",
+  "generated_at": "2026-11-11T00:12:01.173614Z",
   "reporting_window": {
-    "start": "2026-11-03T22:12:01.144447Z",
-    "end": "2026-11-10T22:12:01.144447Z"
+    "start": "2026-11-04T00:12:01.173614Z",
+    "end": "2026-11-11T00:12:01.173614Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "wqqscaUssZk",
+      "title": "AI Billionaires PANIC Over Democratic Wins | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=wqqscaUssZk",
+      "published_at": "2026-11-10T23:05:10.000000Z",
+      "summary": "Kyle Kulinski argues that recent election results signal bipartisan voter resistance to rapid AI expansion, especially new data centers. He says voters approved roughly 41 initiatives opposing data centers, though the episode provides no locations or supporting documentation. Kulinski presents AI executives’ voluntary concessions—such as school funding, environmental measures, labor protections, and job training—as an effort to prevent binding regulation. He advocates a moratorium on new data centers and treating advanced AI development like nuclear-weapons proliferation, warning that automation could eliminate jobs and concentrate wealth. The episode then turns to Democratic strategy: Kulinski criticizes corporate-aligned leaders for accepting industry money and contrasts their caution with his preferred approach of passing ambitious bills, even if vetoed. He specifically disputes Nera Tanden’s call to avoid broad wish lists and urges Democrats to use their perceived electoral mandate for aggressive action. The source is primarily commentary and includes allegations and predictions that are not independently substantiated in the transcript.",
+      "topics": [
+        "AI regulation",
+        "Data centers",
+        "Democratic strategy",
+        "Election interpretation"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Kulinski says approximately 41 ballot initiatives on banning data centers all passed against them.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim": "AI industry leaders are preparing a $10 trillion infrastructure buildout and offering concessions to avert stricter rules.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41
+          ]
+        },
+        {
+          "claim": "Democratic leaders receive money from AI companies, Wall Street, big tech, and the military-industrial complex.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108
+          ]
+        },
+        {
+          "claim": "Kulinski predicts AI could cause widespread job losses and extreme wealth concentration.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames resistance to data centers as bipartisan and linked to concerns about jobs and community impacts.",
+          "evidence_segment_indices": [
+            9,
+            10,
+            11,
+            14,
+            15,
+            16,
+            17,
+            18,
+            20,
+            21
+          ],
+          "start_seconds": 21.84,
+          "end_seconds": 55.92
+        },
+        {
+          "point": "He supports a moratorium on new data centers and much stricter controls on AI development.",
+          "evidence_segment_indices": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75
+          ],
+          "start_seconds": 133.52,
+          "end_seconds": 168.56
+        },
+        {
+          "point": "He argues Democrats should convert electoral momentum into explicit legislation rather than minor voluntary reforms.",
+          "evidence_segment_indices": [
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59
+          ],
+          "start_seconds": 94.799,
+          "end_seconds": 135.52
+        },
+        {
+          "point": "The episode criticizes Nera Tanden’s advice to avoid pursuing longstanding policy proposals.",
+          "evidence_segment_indices": [
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179
+          ],
+          "start_seconds": 321.759,
+          "end_seconds": 378.08
+        },
+        {
+          "point": "Kulinski predicts Democrats may squander their opportunity and face a later Republican comeback.",
+          "evidence_segment_indices": [
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148
+          ],
+          "start_seconds": 260.639,
+          "end_seconds": 312.16
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "ef9c4eecb3d07a7c92c1779deeb292eef0ba5a61424e89bb963253b66abcd4d4",
+      "transcript_captured_at": "2026-11-11T00:03:23.635092Z",
+      "summary_generated_at": "2026-11-11T00:09:06.392710Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a single commentator’s account and does not independently verify election results, ballot counts, infrastructure estimates, campaign financing, or policy effects.",
+        "Several names and phrases appear mistranscribed, including references to political figures and the quoted discussion.",
+        "The source uses strongly evaluative language and presents predictions and allegations without cited documentation.",
+        "Some profanity and redacted words obscure exact wording in places.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "hNY-YDZVMCs",
+      "title": "Fox & Friends PISSED OFF That Hot Democrats Won | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=hNY-YDZVMCs",
+      "published_at": "2026-11-10T22:40:07.000000Z",
+      "summary": "The creator argues that Fox News and related commentators are reacting defensively to Democratic electoral gains by emphasizing the attractiveness, fashion, and personal branding of newly prominent politicians rather than their policies. He contrasts coverage of several lawmakers’ appearance—including discussion of cowboy boots, magazine attention, and a possible former-model background—with the political issues he believes deserve scrutiny. The episode also critiques discussion of WNBA player Sophie Cunningham’s message about personal responsibility, agency, family, faith, fitness, and community involvement, presenting it as an alternative to relying primarily on elections. The creator disputes that framing, arguing that elections and government materially affect people’s lives and accusing conservative media of avoiding accountability for policy outcomes. He further makes unverified personal allegations about a politician’s testosterone use and about political figures’ conduct, while using highly hostile language throughout. The excerpt is primarily commentary and reaction to clips; it provides little independent evidence for its broader claims about election results, media motives, violence, government actions, or individual behavior.",
+      "topics": [
+        "Media reaction to elections",
+        "Politician image and celebrity",
+        "Policy versus personal responsibility",
+        "Conservative media criticism"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The episode asserts that Democratic candidates won a significant recent electoral wave.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            2,
+            4,
+            15
+          ]
+        },
+        {
+          "claim": "The creator alleges that a politician uses testosterone replacement therapy based on perceived changes in appearance.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            43,
+            45,
+            51,
+            53,
+            57
+          ]
+        },
+        {
+          "claim": "The episode states that voters under 30 favored the Democratic candidate by 72% to 25% in House races.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            296,
+            298,
+            300
+          ]
+        },
+        {
+          "claim": "The creator alleges that right-wing violence is the leading form of terrorism affecting the country.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            149,
+            150,
+            151,
+            152,
+            153
+          ]
+        },
+        {
+          "claim": "The creator alleges that current government actions include protecting an international child-trafficking ring, operating a paramilitary force, and launching illegal wars.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            331,
+            333,
+            335,
+            338,
+            339
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames Fox News coverage as a distraction from policy accountability after Democratic gains.",
+          "evidence_segment_indices": [
+            193,
+            199,
+            201,
+            205,
+            206
+          ],
+          "start_seconds": 349.12,
+          "end_seconds": 380.8
+        },
+        {
+          "point": "Commentary focuses on media attention to lawmakers’ looks, clothing, and perceived appeal.",
+          "evidence_segment_indices": [
+            26,
+            27,
+            28,
+            61,
+            65,
+            68,
+            77,
+            78
+          ],
+          "start_seconds": 53.039,
+          "end_seconds": 159.2
+        },
+        {
+          "point": "A featured conservative message emphasizes personal agency, responsibility, and community action.",
+          "evidence_segment_indices": [
+            211,
+            214,
+            219,
+            228,
+            230,
+            258,
+            261,
+            270,
+            273
+          ],
+          "start_seconds": 386.72,
+          "end_seconds": 507.199
+        },
+        {
+          "point": "The creator argues that elections and government policy directly shape people’s lives.",
+          "evidence_segment_indices": [
+            220,
+            223,
+            224,
+            225,
+            296,
+            301
+          ],
+          "start_seconds": 401.199,
+          "end_seconds": 565.44
+        },
+        {
+          "point": "The discussion relies heavily on insults, speculation, and reactions to broadcast clips.",
+          "evidence_segment_indices": [
+            40,
+            43,
+            53,
+            107,
+            108,
+            235,
+            236,
+            312,
+            322
+          ],
+          "start_seconds": 86.159,
+          "end_seconds": 603.279
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "05457414072980fa31ca52259520a859f47937a0f2848bb66a94ce5ba87b30d2",
+      "transcript_captured_at": "2026-11-11T00:03:18.573195Z",
+      "summary_generated_at": "2026-11-11T00:08:45.582878Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains overlapping segments, caption errors, profanity redactions, and uncertain names.",
+        "The source does not independently substantiate the allegations, statistics, or descriptions of political conduct presented in the commentary.",
+        "Some quoted broadcast remarks and the creator’s responses are interleaved, making speaker attribution imperfect in places.",
+        "Coverage is limited to this excerpt and does not establish the broader election, media, or policy context.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "mHrPzwwAMT8",
+      "title": "‘UNF*CK IT!!’: Woman’s Message To Dems Goes MEGA-VIRAL | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=mHrPzwwAMT8",
+      "published_at": "2026-11-10T22:15:39.000000Z",
+      "summary": "Kyle Kulinski presents commentary on a video featuring Van Lean’s psychological interpretation of Trump’s relationship with MAGA supporters. The featured speaker argues, through a relationship metaphor, that Trump’s political campaigns were motivated by publicity, ego, and legal self-preservation rather than concern for supporters, and urges them to reconsider their allegiance. Kulinski endorses this framing, characterizing MAGA as a cult centered on Trump’s alleged narcissism and predicting internal division as the movement weakens. He then highlights an emphatic message directed at Democrats: pursue investigations and accountability, act aggressively rather than defer to procedural caution, and deliver tangible benefits such as healthcare, education, higher wages, an end to wars, and higher taxes on the wealthy. Kulinski criticizes Democratic leaders as overly dependent on wealthy donors and warns that failing to act could allow Republicans to regain influence. The episode’s rhetoric is strongly partisan, and its claims about political events, polling, policy effects, criminality, and future electoral developments are presented as commentary rather than independently established evidence.",
+      "topics": [
+        "Trump and MAGA",
+        "Political psychology",
+        "Democratic strategy",
+        "Accountability and policy",
+        "Partisan commentary"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The source asserts that Trump’s 2016, 2020, and 2024 campaigns were respectively motivated by publicity, ego, and avoiding jail.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            55,
+            56,
+            57
+          ]
+        },
+        {
+          "claim": "The source claims that gas and grocery prices were rising, wages were stagnant, and people viewed the economy as worse than during the Great Recession.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            136,
+            137,
+            138,
+            139
+          ]
+        },
+        {
+          "claim": "The source claims that Texas, Kansas, South Carolina, and Mississippi had become electorally Democratic and that MAGA support had fallen to roughly 29–30% of the country.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            203,
+            204,
+            205
+          ]
+        },
+        {
+          "claim": "The source claims that Chuck Schumer and Hakeem Jeffries had approval ratings of 13% and 18%, respectively, and that donor fundraising explains their leadership positions.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            267,
+            268,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278
+          ]
+        },
+        {
+          "claim": "The source predicts that Democrats may squander an opportunity and that Republicans could regain relevance in four to twelve years.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            285,
+            286,
+            287,
+            288,
+            289,
+            290
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Van Lean uses the end of a relationship as a metaphor for MAGA supporters recognizing that Trump may never have prioritized them.",
+          "evidence_segment_indices": [
+            18,
+            19,
+            33,
+            34,
+            51,
+            52,
+            53,
+            54
+          ],
+          "start_seconds": 36.88,
+          "end_seconds": 125.6
+        },
+        {
+          "point": "Kulinski endorses the featured psychological framing and describes MAGA as a cult organized around Trump.",
+          "evidence_segment_indices": [
+            91,
+            92,
+            93,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114
+          ],
+          "start_seconds": 212.799,
+          "end_seconds": 269.84
+        },
+        {
+          "point": "The episode argues that Democrats should pursue accountability and take decisive action instead of emphasizing procedural limits.",
+          "evidence_segment_indices": [
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            263,
+            264,
+            265,
+            266,
+            316,
+            317,
+            318,
+            323,
+            324
+          ],
+          "start_seconds": 472.319,
+          "end_seconds": 696.88
+        },
+        {
+          "point": "Kulinski advocates a material policy agenda including healthcare, education, higher wages, ending wars, and taxing the rich.",
+          "evidence_segment_indices": [
+            293,
+            294,
+            297,
+            298,
+            299,
+            300
+          ],
+          "start_seconds": 633.68,
+          "end_seconds": 651.6
+        },
+        {
+          "point": "The episode closes by urging Democrats to learn from past failures and avoid declining to investigate alleged wrongdoing.",
+          "evidence_segment_indices": [
+            308,
+            309,
+            310,
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318,
+            319,
+            320,
+            321,
+            322,
+            323,
+            324,
+            325
+          ],
+          "start_seconds": 664.56,
+          "end_seconds": 698.64
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "f03d340359b2101f4a5ba472c77317e32a81f82c70b174c05e0d882d724763c8",
+      "transcript_captured_at": "2026-11-11T00:03:13.374236Z",
+      "summary_generated_at": "2026-11-11T00:08:26.503536Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is automatic and contains profanity placeholders, malformed words, and occasional caption errors.",
+        "Several names, institutions, events, and policy references are difficult to identify confidently from the transcript alone.",
+        "The source provides partisan commentary and assertions without supporting documentation or opposing perspectives.",
+        "Predictions about electoral outcomes and movement collapse remain speculative within the episode.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4505,541 +5072,6 @@
         "The source presents the creator’s commentary and references to documents or reports; those materials are not independently available in the transcript.",
         "Several allegations and predictions are explicitly framed as claims, possibilities, or conspiratorial interpretations rather than established facts.",
         "The transcript does not establish the legal status, text, vote count, or outcome of the proposed legislation.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "KitOjaaKdwQ",
-      "title": "Trump ERUPTS and Orders MASS ARRESTS as Republicans REVOLT, it is URGENT!!!",
-      "url": "https://www.youtube.com/watch?v=KitOjaaKdwQ",
-      "published_at": "2026-11-07T21:24:39.000000Z",
-      "summary": "Aaron Parnas argues that Donald Trump has escalated rhetoric against Democratic lawmakers, journalists, and others involved in oversight, portraying Trump’s Justice Department post as a call to investigate alleged “extortion.” Parnas says the lawmakers described in the episode are pursuing oversight, subpoenas, and investigations rather than impeachment, while Trump’s accusations misrepresent their stated actions. He also reports Republican dissatisfaction with Steven Miller’s promotion, citing claims that Miller’s immigration policies harmed Republicans politically and angered constituents. The episode includes an allegation from a former Trump official concerning a glyphosate-related executive order and claims that officials were prevented from challenging it. Parnas further discusses a judge’s appointment of a former federal prosecutor to examine whether Trump’s lawyers misled the court. The episode closes with an unverified political development in Israel involving Netanyahu’s possible loss of power. The material is a commentary segment based largely on attributed statements, reported accounts, and the creator’s interpretations.",
-      "topics": [
-        "Trump and Justice Department rhetoric",
-        "Congressional oversight and subpoenas",
-        "Republican criticism of Steven Miller",
-        "Glyphosate executive-order allegation",
-        "Israeli coalition politics"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Trump ordered the Justice Department to investigate alleged threats or extortion involving Democratic lawmakers and others.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            40,
-            45,
-            50,
-            51,
-            54,
-            55
-          ]
-        },
-        {
-          "claim": "Republican lawmakers criticized Steven Miller’s promotion and blamed his immigration policies for political damage.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            120,
-            123,
-            126,
-            128,
-            132,
-            137,
-            140,
-            145,
-            148,
-            149
-          ]
-        },
-        {
-          "claim": "A former Trump official alleged that officials advanced a glyphosate-related executive order as a national-security measure despite internal objections.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            153,
-            157,
-            161,
-            164,
-            169,
-            172,
-            176,
-            180,
-            187,
-            190
-          ]
-        },
-        {
-          "claim": "A federal judge appointed a former federal prosecutor to examine whether Trump or his lawyers lied to the court.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            199,
-            201,
-            203,
-            204,
-            206,
-            215,
-            218
-          ]
-        },
-        {
-          "claim": "Israel’s president offered the opposition leader an opportunity to form a government, potentially threatening Netanyahu’s position.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            222,
-            224,
-            225,
-            226,
-            227
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas characterizes Trump’s statements as targeting people involved in oversight and accountability.",
-          "evidence_segment_indices": [
-            26,
-            27,
-            28,
-            57,
-            58,
-            65,
-            66,
-            67,
-            74,
-            92,
-            95,
-            96,
-            97
-          ],
-          "start_seconds": 48.559,
-          "end_seconds": 186.72
-        },
-        {
-          "point": "The episode contrasts Trump’s “extortion” accusation with lawmakers’ stated focus on oversight, subpoenas, and investigations.",
-          "evidence_segment_indices": [
-            57,
-            59,
-            60,
-            61,
-            64,
-            65,
-            66,
-            67,
-            72,
-            73,
-            74
-          ],
-          "start_seconds": 107.28,
-          "end_seconds": 143.36
-        },
-        {
-          "point": "Reported Republican objections center on Steven Miller’s promotion and the perceived consequences of his immigration approach.",
-          "evidence_segment_indices": [
-            120,
-            121,
-            123,
-            124,
-            126,
-            128,
-            132,
-            135,
-            138,
-            140,
-            142,
-            148,
-            149
-          ],
-          "start_seconds": 241.36,
-          "end_seconds": 307.759
-        },
-        {
-          "point": "The episode presents allegations about a glyphosate order and possible misleading statements to a court as unresolved developments.",
-          "evidence_segment_indices": [
-            157,
-            161,
-            164,
-            172,
-            176,
-            180,
-            192,
-            199,
-            201,
-            203,
-            204,
-            219
-          ],
-          "start_seconds": 319.199,
-          "end_seconds": 466.0
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "852a5a01115530ac89abac3b1495b6641794cebcf2e3b8d410235d16df41fe8e",
-      "transcript_captured_at": "2026-11-07T22:33:17.172699Z",
-      "summary_generated_at": "2026-11-07T22:38:24.897627Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview relies only on the supplied transcript and does not independently verify its reported events or attributions.",
-        "Several captions contain apparent transcription, spelling, and name errors, including references to officials, lawmakers, and locations.",
-        "Some conclusions are the creator’s interpretations or predictions rather than documented outcomes.",
-        "The source provides limited context for the underlying court proceedings, executive order, and Israeli political developments.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "b9gIe5AdvmA",
-      "title": "🚨 Trump ERUPTS in SCREAMING MATCH, he Plans MASS FIRINGS as he LOSES MILLIONS!!",
-      "url": "https://www.youtube.com/watch?v=b9gIe5AdvmA",
-      "published_at": "2026-11-07T15:09:49.000000Z",
-      "summary": "Aaron Parnas presents a commentary episode arguing that Trump’s post-midterm response is intensifying rather than moderating. He attributes reporting to The Atlantic and other outlets describing Steven Miller as a force favoring aggressive tactics, including alleged support for arresting journalists who refuse to reveal sources. Parnas also recounts reports that Trump angrily confronted chief of staff Susie Wiles, after which she reportedly left the role, while Miller assumed greater influence. The episode links this internal conflict to losses in Trump Media stock, citing reported declines in the company’s value, investor losses, and possible congressional scrutiny. It also discusses a congressional oversight interview concerning the Epstein investigation. In its final section, Parnas describes Trump’s account of limited U.S. strikes in Iran and a reported $20 million reward for information about Iran’s nuclear program, contrasting those developments with earlier claims that the program had been destroyed. The episode is advocacy-oriented and relies heavily on attributed reporting, quoted remarks, and commentary rather than independently established evidence.",
-      "topics": [
-        "Trump administration personnel",
-        "Press freedom and leak investigations",
-        "Trump Media stock losses",
-        "Congressional oversight",
-        "U.S. strikes and Iran’s nuclear program"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Trump lost control of the House and Senate in the midterm elections, prompting pressure from his party to change course.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2
-          ]
-        },
-        {
-          "claim": "Steven Miller supported arresting journalists to force them to disclose sources and was installed as White House chief of staff.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            7,
-            8,
-            9,
-            40,
-            81,
-            85,
-            87,
-            88
-          ]
-        },
-        {
-          "claim": "Trump angrily confronted Susie Wiles, who then left her position earlier than requested.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            53,
-            58,
-            60,
-            62,
-            63,
-            64
-          ]
-        },
-        {
-          "claim": "Trump Media stock fell nearly 25%, with outside investors reportedly losing more than $2.2 billion.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            134,
-            135,
-            136,
-            137,
-            140,
-            141
-          ]
-        },
-        {
-          "claim": "The United States conducted limited strikes in Iran and offered a $20 million reward for information about Iran’s nuclear program.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            197,
-            198,
-            199,
-            205,
-            206,
-            210,
-            213,
-            214
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator frames Miller’s appointment as evidence that Trump is doubling down on an aggressive governing approach.",
-          "evidence_segment_indices": [
-            5,
-            6,
-            40,
-            41,
-            43,
-            44,
-            132,
-            133
-          ],
-          "start_seconds": 8.639,
-          "end_seconds": 292.16
-        },
-        {
-          "point": "The episode contrasts Trump’s public praise of Wiles with reports of a private dispute and her departure.",
-          "evidence_segment_indices": [
-            54,
-            55,
-            56,
-            57,
-            58,
-            60,
-            61,
-            64
-          ],
-          "start_seconds": 112.479,
-          "end_seconds": 138.16
-        },
-        {
-          "point": "Reported Trump Media losses are used to illustrate financial consequences for shareholders and political exposure for Trump.",
-          "evidence_segment_indices": [
-            134,
-            138,
-            140,
-            147,
-            148,
-            150,
-            151
-          ],
-          "start_seconds": 288.96,
-          "end_seconds": 332.639
-        },
-        {
-          "point": "A congressional interview describes coordination among Democrats on oversight and accountability work, including Epstein-related matters.",
-          "evidence_segment_indices": [
-            162,
-            175,
-            179,
-            190,
-            191,
-            192,
-            193
-          ],
-          "start_seconds": 349.12,
-          "end_seconds": 417.199
-        },
-        {
-          "point": "The Iran segment highlights a discrepancy between claims that the nuclear program was destroyed and the later request for intelligence about it.",
-          "evidence_segment_indices": [
-            215,
-            216,
-            217,
-            218,
-            219,
-            220
-          ],
-          "start_seconds": 456.319,
-          "end_seconds": 472.96
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "eb71a1daf59848b81070c70308895bb6a1e3ba91a9fea19c1256a8da77f44aa1",
-      "transcript_captured_at": "2026-11-07T16:03:14.166666Z",
-      "summary_generated_at": "2026-11-07T16:08:25.995932Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains overlapping captions, garbled names, and incomplete or duplicated phrases.",
-        "Most personnel and policy assertions are presented as attributed reporting or commentary rather than independently demonstrated evidence.",
-        "The source provides no documents, links, or corroborating detail for the cited reporting, financial figures, military actions, or reward announcement.",
-        "Some quoted statements are difficult to assign confidently because speaker labels and caption boundaries are inconsistent.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "CFSMbo6XQ28",
-      "title": "RUSSELL BRAND GUILTY OF R*PE",
-      "url": "https://www.youtube.com/watch?v=CFSMbo6XQ28",
-      "published_at": "2026-11-07T01:05:01.000000Z",
-      "summary": "Kyle Kulinski and journalist Abby Martin discuss, in strongly critical terms, Russell Brand’s reported guilty verdict, his religious and political repositioning, and allegations described in a Channel 4 documentary. They characterize Brand’s media trajectory as opportunistic, while recalling an interview in which he struggled to identify a biblical passage. The conversation then turns to Martin’s documentary, which she says spent six years examining the scale of US-led military pollution and argues that military emissions are often excluded or voluntarily reported in climate accounting. Martin presents a broader interpretation of US military power as supporting resource extraction and imperial structures. The speakers also compare Donald Trump’s conduct and foreign policy with the George W. Bush era, arguing that current actions are more explicit and less constrained by institutional norms. They speculate that wars, tariffs, and foreign policy influenced public sentiment and elections. The transcript is opinionated, contains apparent caption errors, and presents allegations and interpretations without independent corroboration.",
-      "topics": [
-        "Russell Brand case and media career",
-        "Military pollution and climate accounting",
-        "US foreign policy and empire",
-        "Trump compared with George W. Bush"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The discussion states that Russell Brand was found guilty and that two additional people approached police during the trial.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            12,
-            13,
-            29,
-            30
-          ]
-        },
-        {
-          "claim": "The speakers refer to documentary evidence that allegedly includes messages in which Brand apologizes for rape.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            147,
-            150,
-            151,
-            152,
-            153
-          ]
-        },
-        {
-          "claim": "Martin says military emissions are not counted in annual climate conferences and that reporting under the Paris framework is voluntary.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            223,
-            227,
-            234,
-            244,
-            245,
-            248,
-            249,
-            250
-          ]
-        },
-        {
-          "claim": "The speakers assert that military pollution has caused poisoned water and serious health effects at military sites, including Camp Lejeune.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            260,
-            261,
-            330,
-            331,
-            332,
-            333,
-            334,
-            335,
-            336,
-            337,
-            338,
-            339
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski and Martin criticize Brand’s ideological and religious pivot as a route into alternative-media circles.",
-          "evidence_segment_indices": [
-            18,
-            21,
-            34,
-            38,
-            43,
-            46,
-            51,
-            52,
-            55,
-            62,
-            63,
-            66,
-            67,
-            68
-          ],
-          "start_seconds": 29.279,
-          "end_seconds": 135.76
-        },
-        {
-          "point": "Martin describes her documentary as a six-year effort that expanded from military emissions accounting into a broader examination of military pollution and resource extraction.",
-          "evidence_segment_indices": [
-            222,
-            223,
-            225,
-            226,
-            227,
-            228,
-            231,
-            232,
-            233,
-            252,
-            253,
-            254,
-            255,
-            256
-          ],
-          "start_seconds": 469.199,
-          "end_seconds": 544.24
-        },
-        {
-          "point": "The speakers argue that US military power helps preserve systems benefiting fossil-fuel extraction and other dominant institutions.",
-          "evidence_segment_indices": [
-            265,
-            266,
-            268,
-            293,
-            294,
-            295,
-            296,
-            297,
-            298,
-            299,
-            302,
-            303,
-            393,
-            394,
-            395,
-            396,
-            397,
-            398,
-            399,
-            400
-          ],
-          "start_seconds": 558.399,
-          "end_seconds": 848.24
-        },
-        {
-          "point": "They characterize Trump’s foreign policy as more openly imperial than Bush’s and connect war, tariffs, and economic pressures to public reaction.",
-          "evidence_segment_indices": [
-            359,
-            360,
-            361,
-            362,
-            363,
-            364,
-            374,
-            375,
-            376,
-            417,
-            422,
-            426,
-            441,
-            445,
-            570,
-            571,
-            573,
-            574,
-            575,
-            638,
-            639,
-            645,
-            646
-          ],
-          "start_seconds": 751.36,
-          "end_seconds": 1336.96
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "4f2740fab7c974daf702b0cb28b128c8cf3a86b81367c87ba72621f127633518",
-      "transcript_captured_at": "2026-11-07T04:33:14.302625Z",
-      "summary_generated_at": "2026-11-07T04:38:25.489348Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is caption-derived and contains omissions, profanity placeholders, misheard names, and fragmented passages.",
-        "The source is a single opinion-driven conversation; allegations, historical claims, polling references, and legal assertions require independent verification.",
-        "The excerpt ends mid-discussion, so it does not provide a complete episode overview.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
