@@ -1,11 +1,286 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T03:42:01.146101Z",
+  "generated_at": "2026-11-11T16:12:01.188925Z",
   "reporting_window": {
-    "start": "2026-11-04T03:42:01.146101Z",
-    "end": "2026-11-11T03:42:01.146101Z"
+    "start": "2026-11-04T16:12:01.188925Z",
+    "end": "2026-11-11T16:12:01.188925Z"
   },
   "episodes": [
+    {
+      "creator": "Mike Figueredo — The Humanist Report",
+      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
+      "video_id": "cGQ0PdtNKho",
+      "title": "El-Sayed Co-Signs Bernie’s Plan to Gaslight Trump into Signing Medicare For All",
+      "url": "https://www.youtube.com/watch?v=cGQ0PdtNKho",
+      "published_at": "2026-11-11T14:59:48.000000Z",
+      "summary": "Mike Figueredo of The Humanist Report discusses Bernie Sanders’s suggestion that Democrats advance Medicare for All even if Donald Trump vetoes it, framing the proposal as both messaging and a possible route to bipartisan political credit. Figueredo considers a Trump signature highly unlikely but outlines conditions he believes could make it conceivable, including congressional passage, changing Republican relationships, personal rapport, and incentives tied to Trump’s legacy. The episode then presents Medicare for All as a broader political and policy goal, highlighting Sanders’s incremental coverage proposals and Abdul El-Sayed’s stated healthcare priorities. Figueredo argues that a single-payer system could reduce administrative complexity and costs, while clips from critics raise concerns about taxation, implementation, industry employment, and government involvement. He concludes that building public support and countering opposition arguments are prerequisites for future passage, regardless of whether the proposed Trump strategy succeeds.",
+      "topics": [
+        "Medicare for All",
+        "Healthcare policy",
+        "U.S. congressional politics",
+        "Political strategy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A CNBC report and Michael Wolff’s sources said Trump previously asked why Medicare could not cover everyone, before aides discouraged support for a government-run insurance program.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61
+          ]
+        },
+        {
+          "claim": "The episode cites a YouGov poll reporting Medicare for All support of 88% among Democrats, 65% among independents, 55% among Republicans, and 61% among MAGA Republicans.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            313,
+            314,
+            315,
+            316,
+            317,
+            318,
+            319,
+            320,
+            321,
+            322
+          ]
+        },
+        {
+          "claim": "The episode cites estimates that Medicare for All could cost $40–$75 trillion over ten years, while contrasting that with a Yale study’s claimed $1 trillion in annual net savings.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            353,
+            354,
+            355,
+            356,
+            357,
+            358,
+            359,
+            360,
+            361,
+            366,
+            367,
+            368,
+            369,
+            373,
+            374,
+            375,
+            376,
+            377,
+            378,
+            379
+          ]
+        },
+        {
+          "claim": "Figueredo states that Medicare for All could save 114,000 lives annually and $1 trillion, attributing the broader policy rationale partly to Matt Bruenig.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            543,
+            544,
+            545,
+            546,
+            547,
+            548,
+            549,
+            550,
+            551,
+            552,
+            553,
+            554,
+            555,
+            556,
+            557,
+            558,
+            559,
+            560,
+            561,
+            562,
+            563,
+            564,
+            565,
+            566
+          ]
+        },
+        {
+          "claim": "The episode presents a proposed incremental plan to lower Medicare eligibility to age 55, cover children through age 19, and add dental, vision, and hearing coverage.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Figueredo characterizes Trump signing Medicare for All as unrealistic, estimating only a small possibility under multiple improbable conditions.",
+          "evidence_segment_indices": [
+            39,
+            40,
+            41,
+            44,
+            45,
+            48,
+            49,
+            50,
+            51,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195
+          ],
+          "start_seconds": 68.8,
+          "end_seconds": 371.595
+        },
+        {
+          "point": "The episode argues that passing Medicare for All would require groundwork, public education, and possibly incremental healthcare expansions before a future opportunity.",
+          "evidence_segment_indices": [
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            232,
+            233,
+            234,
+            235,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247
+          ],
+          "start_seconds": 368.095,
+          "end_seconds": 472.095
+        },
+        {
+          "point": "El-Sayed says healthcare is a priority and expresses support for Medicare for All while emphasizing immediate protection of existing coverage.",
+          "evidence_segment_indices": [
+            261,
+            262,
+            263,
+            264,
+            265,
+            293,
+            294,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            303
+          ],
+          "start_seconds": 497.397,
+          "end_seconds": 565.897
+        },
+        {
+          "point": "Opponents in the presented clips cite cost, taxes, care quality, government involvement, and disruption to insurance employment; Figueredo disputes these objections.",
+          "evidence_segment_indices": [
+            353,
+            354,
+            355,
+            356,
+            357,
+            358,
+            359,
+            360,
+            361,
+            362,
+            363,
+            625,
+            626,
+            627,
+            628,
+            629,
+            630,
+            631,
+            632,
+            633,
+            634,
+            635,
+            636,
+            637
+          ],
+          "start_seconds": 662.598,
+          "end_seconds": 1206.903
+        },
+        {
+          "point": "Figueredo describes single-payer coverage as reducing insurer negotiations, administrative layers, and patient billing disputes.",
+          "evidence_segment_indices": [
+            431,
+            432,
+            433,
+            434,
+            435,
+            436,
+            437,
+            438,
+            439,
+            440,
+            441,
+            442,
+            443,
+            444,
+            543,
+            544,
+            545,
+            546,
+            547,
+            548
+          ],
+          "start_seconds": 820.099,
+          "end_seconds": 1035.802
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "70e4550e225d898a528e6af844d6ba8693a1f76323ddf207c96d43cf07cb9ffc",
+      "transcript_captured_at": "2026-11-11T16:03:15.182315Z",
+      "summary_generated_at": "2026-11-11T16:08:29.647967Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies only on the supplied transcript and does not independently verify cited reports, polls, studies, or numerical estimates.",
+        "Several transcript segments contain overlapping captions, incomplete phrases, profanity placeholders, and possible transcription errors.",
+        "The transcript does not provide full context for the referenced interviews, polls, studies, or social-media reports.",
+        "Some future political predictions and causal claims are explicitly speculative within the episode.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5094,198 +5369,6 @@
         "Many consequential statements are the creator’s characterizations, predictions, or allegations rather than independently established findings.",
         "Several reports and quoted clips are referenced without full source details or corroborating context.",
         "Coverage is limited to this episode’s selected commentary and excerpts, not the underlying documents, rulings, or events.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "V5R9ouF7X_w",
-      "title": "🚨 Hegseth TERRIFIED as JUDGEMENT DAY Arrives, Republicans BREAK and he is DONE!!",
-      "url": "https://www.youtube.com/watch?v=V5R9ouF7X_w",
-      "published_at": "2026-11-09T19:50:20.000000Z",
-      "summary": "The creator presents the episode as an account of an alleged impeachment effort against Defense Secretary Pete Hegseth, centered on eight articles reportedly introduced by Representative Thomas Massie. The excerpt includes purported House-floor language accusing Hegseth of violating the War Powers Resolution by directing U.S. hostilities against Iran without a declaration of war, specific congressional authorization, or an applicable emergency. These allegations are presented through the quoted resolution and are not independently established by the transcript. The episode also includes favorable comments from Marco Rubio and the president, who defend Hegseth’s performance and describe the Iran operation as successful. The creator predicts that enough Republican votes will eventually support impeachment and frames the development as a break with the administration. Much of the segment consists of advocacy, commentary, and calls to subscribe or share. The transcript contains inconsistent spellings of names and compressed or unclear wording, so the specific legal and political claims require verification outside this source.",
-      "topics": [
-        "Hegseth impeachment allegations",
-        "War Powers Resolution",
-        "Iran hostilities",
-        "Republican political response"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Eight articles of impeachment against Defense Secretary Pete Hegseth were introduced by Representative Thomas Massie.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            2,
-            15,
-            21,
-            22,
-            23
-          ]
-        },
-        {
-          "claim": "The impeachment resolution alleges that Hegseth directed U.S. hostilities against Iran on February 28, 2026, without congressional authorization or an applicable emergency.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            103,
-            104,
-            105,
-            106,
-            108,
-            109,
-            110,
-            111,
-            115,
-            116,
-            119,
-            120,
-            122,
-            129,
-            134,
-            135,
-            136
-          ]
-        },
-        {
-          "claim": "Marco Rubio and the president publicly defended Hegseth and the Iran operation.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            186,
-            188,
-            197,
-            198,
-            199,
-            200,
-            204,
-            209,
-            210,
-            211,
-            212,
-            213,
-            214,
-            218,
-            219
-          ]
-        },
-        {
-          "claim": "There will ultimately be enough Republican votes to impeach Hegseth.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            220,
-            221,
-            222
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode focuses on a purported eight-article impeachment resolution against Hegseth.",
-          "evidence_segment_indices": [
-            2,
-            15,
-            21,
-            22,
-            23,
-            28,
-            33,
-            35,
-            36
-          ],
-          "start_seconds": 5.12,
-          "end_seconds": 93.439
-        },
-        {
-          "point": "The quoted resolution frames its first article around alleged violations of the War Powers Resolution and congressional war powers.",
-          "evidence_segment_indices": [
-            45,
-            46,
-            63,
-            65,
-            67,
-            68,
-            81,
-            82,
-            83,
-            89,
-            90
-          ],
-          "start_seconds": 111.04,
-          "end_seconds": 237.68
-        },
-        {
-          "point": "The resolution’s allegations include unauthorized U.S. military action against Iran and continued hostilities.",
-          "evidence_segment_indices": [
-            103,
-            104,
-            105,
-            106,
-            108,
-            110,
-            112,
-            114,
-            129,
-            134,
-            135,
-            140,
-            141,
-            142,
-            143
-          ],
-          "start_seconds": 268.639,
-          "end_seconds": 383.039
-        },
-        {
-          "point": "Rubio and the president offer supportive assessments of Hegseth and the Iran operation.",
-          "evidence_segment_indices": [
-            197,
-            198,
-            199,
-            200,
-            201,
-            204,
-            209,
-            210,
-            211,
-            212,
-            213,
-            214
-          ],
-          "start_seconds": 513.36,
-          "end_seconds": 548.32
-        },
-        {
-          "point": "The creator predicts Republican support for impeachment and urges viewers to amplify the episode.",
-          "evidence_segment_indices": [
-            220,
-            221,
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            230,
-            231
-          ],
-          "start_seconds": 557.2,
-          "end_seconds": 582.356
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "41e41e0b6b4415e3fe09a4f545d2302160ff611f5273b34ce08afdc0455e1462",
-      "transcript_captured_at": "2026-11-09T21:33:16.288483Z",
-      "summary_generated_at": "2026-11-09T21:38:25.611884Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Names are inconsistently transcribed, including multiple spellings of Hegseth.",
-        "Several captions contain apparent omissions, repetitions, or malformed words that obscure exact meaning.",
-        "The source provides allegations and selected political remarks but no independent documentation or outcome of the impeachment process.",
-        "The transcript’s references to dates, legal provisions, and Iran-related events require external verification.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
