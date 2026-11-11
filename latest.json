@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T04:32:18.208933Z",
+  "generated_at": "2026-11-11T05:02:35.392178Z",
   "reporting_window": {
-    "start": "2026-11-04T04:32:18.208933Z",
-    "end": "2026-11-11T04:32:18.208933Z",
+    "start": "2026-11-04T05:02:35.392178Z",
+    "end": "2026-11-11T05:02:35.392178Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -12,17 +12,17 @@
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
       "identity_status": "verified",
-      "health": "feed_unavailable",
-      "discovery_status": "feed_unavailable",
-      "last_successful_poll": "2026-11-11T04:00:13.525161Z",
+      "health": "success_no_new",
+      "discovery_status": "success_no_new",
+      "last_successful_poll": "2026-11-11T05:00:30.996254Z",
       "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
+      "health": "feed_unavailable",
+      "discovery_status": "feed_unavailable",
       "last_successful_poll": "2026-11-11T04:30:45.274204Z",
       "warnings": []
     },
@@ -1925,18 +1925,6 @@
       "published_at": "2026-11-04T07:24:06.000000Z",
       "url": "https://www.youtube.com/watch?v=iPySBfGKMEM",
       "first_seen": "2026-11-03T21:00:41.518220Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "permanent_failure"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "WxnXRu66FPk",
-      "title": "Election Night in America 2026 | Live Coverage",
-      "published_at": "2026-11-04T04:37:21.000000Z",
-      "url": "https://www.youtube.com/watch?v=WxnXRu66FPk",
-      "first_seen": "2026-11-03T23:00:43.159591Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "permanent_failure"
