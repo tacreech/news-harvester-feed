@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T12:30:14.939470Z",
+  "generated_at": "2026-11-11T13:00:41.587805Z",
   "reporting_window": {
-    "start": "2026-11-04T12:30:14.939470Z",
-    "end": "2026-11-11T12:30:14.939470Z",
+    "start": "2026-11-04T13:00:41.587805Z",
+    "end": "2026-11-11T13:00:41.587805Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,7 +14,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-11T12:30:13.483132Z",
+      "last_successful_poll": "2026-11-11T13:00:40.414315Z",
       "warnings": []
     },
     {
@@ -23,7 +23,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-11T12:30:13.723860Z",
+      "last_successful_poll": "2026-11-11T13:00:40.630805Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-11T12:30:13.976474Z",
+      "last_successful_poll": "2026-11-11T13:00:40.853077Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-11T12:30:14.260388Z",
+      "last_successful_poll": "2026-11-11T13:00:41.084128Z",
       "warnings": []
     },
     {
@@ -50,7 +50,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-11T12:30:14.757876Z",
+      "last_successful_poll": "2026-11-11T13:00:41.435935Z",
       "warnings": []
     }
   ],
@@ -1875,18 +1875,6 @@
       "published_at": "2026-11-04T13:52:43.000000Z",
       "url": "https://www.youtube.com/watch?v=1laOh4G3TG8",
       "first_seen": "2026-11-04T14:00:54.704723Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "not_queued"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "RrfZJE6bUrw",
-      "title": "Democrats have effectively blocked Republicans from appointing conservatives to the Supreme Court",
-      "published_at": "2026-11-04T12:56:42.000000Z",
-      "url": "https://www.youtube.com/watch?v=RrfZJE6bUrw",
-      "first_seen": "2026-11-04T13:30:13.752883Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "not_queued"
