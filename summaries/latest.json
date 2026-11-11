@@ -1,11 +1,212 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T21:12:01.183431Z",
+  "generated_at": "2026-11-11T23:12:01.160789Z",
   "reporting_window": {
-    "start": "2026-11-04T21:12:01.183431Z",
-    "end": "2026-11-11T21:12:01.183431Z"
+    "start": "2026-11-04T23:12:01.160789Z",
+    "end": "2026-11-11T23:12:01.160789Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "MRuMMaC7ONo",
+      "title": "🚨 Military TURNS on Hegseth as he DISRESPECTS Troops, this is INSANE!! It’s OVER!!",
+      "url": "https://www.youtube.com/watch?v=MRuMMaC7ONo",
+      "published_at": "2026-11-11T21:34:01.000000Z",
+      "summary": "Creator Aaron Parnas presents a strongly critical political discussion centered on Defense Secretary Pete Hegseth, whom the episode alleges behaved disrespectfully at the Tomb of the Unknown Soldier and faced an unsuccessful House impeachment effort. The program then examines competing explanations for the vote, including member absences, party attendance, and leadership responsibility. Parnas and Jessica Tarlov also debate Democratic priorities, arguing that healthcare proposals should be paired with accountability and oversight. They discuss White House warnings concerning congressional investigations, the Republican selection of Jim Jordan for a leadership role, and predictions about his electoral prospects. The episode additionally covers technology companies preparing for possible Democratic scrutiny, allegations involving Nvidia CEO Jensen Huang, Joe Biden’s memoir and health, and viewer questions about judicial appointments and statehood. The discussion is opinionated and mixes reported claims, commentary, predictions, advertising, and conversational speculation; the supplied captions alone do not establish the underlying facts.",
+      "topics": [
+        "Defense Secretary controversy",
+        "House impeachment vote",
+        "Congressional leadership",
+        "Oversight and technology",
+        "Democratic policy agenda"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The episode alleges that Pete Hegseth was formally reprimanded after laughing or chatting near the Tomb of the Unknown Soldier and being told to maintain silence and respect.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            2,
+            3,
+            10,
+            11,
+            12,
+            13,
+            25,
+            26
+          ]
+        },
+        {
+          "claim": "The episode reports that the House voted 211 to 204 to refer impeachment articles concerning Hegseth to committee.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            113,
+            114,
+            115,
+            116,
+            117,
+            118
+          ]
+        },
+        {
+          "claim": "The episode reports that Jim Jordan defeated Steve Scalise 106 to 73 in a Republican leadership contest.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            465,
+            466,
+            467,
+            468,
+            469
+          ]
+        },
+        {
+          "claim": "The episode relays an allegation that intelligence linked Nvidia CEO Jensen Huang to a woman believed to be a Chinese spy and says this conflicted with Donald Trump’s later account.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            687,
+            688,
+            689,
+            690,
+            691,
+            692,
+            693,
+            694,
+            695,
+            696
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The hosts frame the Tomb of the Unknown Soldier incident as disrespectful, while the transcript includes a recorded instruction to maintain silence and respect.",
+          "evidence_segment_indices": [
+            10,
+            11,
+            12,
+            13,
+            25,
+            26,
+            30,
+            31
+          ],
+          "start_seconds": 27.76,
+          "end_seconds": 129.119
+        },
+        {
+          "point": "Discussion of the impeachment effort focuses on the 211–204 vote, absent lawmakers, and disagreement over whether attendance changed the outcome.",
+          "evidence_segment_indices": [
+            81,
+            85,
+            86,
+            97,
+            98,
+            100,
+            113,
+            115,
+            125,
+            126,
+            128,
+            130,
+            138,
+            140,
+            198,
+            199
+          ],
+          "start_seconds": 228.799,
+          "end_seconds": 474.0
+        },
+        {
+          "point": "The hosts argue that Democratic leadership must address concerns about attendance, accountability, healthcare, and the party’s future agenda.",
+          "evidence_segment_indices": [
+            250,
+            251,
+            252,
+            302,
+            303,
+            304,
+            305,
+            310,
+            311,
+            327,
+            331,
+            338,
+            339,
+            366,
+            367,
+            371,
+            372
+          ],
+          "start_seconds": 583.68,
+          "end_seconds": 853.92
+        },
+        {
+          "point": "The episode discusses White House warnings about congressional subpoenas and interprets them as political pressure, with the hosts offering their own predictions about legal and electoral consequences.",
+          "evidence_segment_indices": [
+            401,
+            402,
+            403,
+            404,
+            405,
+            406,
+            407,
+            408,
+            421,
+            427,
+            428,
+            432,
+            440,
+            441,
+            450
+          ],
+          "start_seconds": 905.92,
+          "end_seconds": 1014.56
+        },
+        {
+          "point": "Additional segments cover technology firms’ political positioning, Biden’s memoir and cancer treatment, and speculative future Supreme Court appointments and statehood.",
+          "evidence_segment_indices": [
+            630,
+            631,
+            632,
+            633,
+            635,
+            636,
+            641,
+            642,
+            755,
+            762,
+            764,
+            768,
+            795,
+            796,
+            797,
+            798,
+            853,
+            858,
+            860,
+            891,
+            892
+          ],
+          "start_seconds": 1383.44,
+          "end_seconds": 1901.919
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "a13b1169e75b636c1dafb446e20600f2a615a31135e4f656b6465cc5a517564c",
+      "transcript_captured_at": "2026-11-11T23:03:19.479206Z",
+      "summary_generated_at": "2026-11-11T23:08:26.096111Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Captions contain frequent misrecognitions and inconsistent names, including variants of Hegseth, Huang, and other public figures.",
+        "Several statements are presented as host opinions, predictions, allegations, or conversational interpretations rather than documented findings.",
+        "The source is a transcript excerpt and does not independently provide the cited vote records, letters, reporting, investigations, or legal outcomes.",
+        "Some segments are overlapping, fragmented, or missing surrounding context, limiting precise speaker attribution.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5031,258 +5232,6 @@
         "Many factual assertions are presented through Kulinski’s commentary or quoted secondary reports and are not independently established by this source.",
         "The episode’s election context, polling, donor figures, and references to current events are source-only claims requiring external verification.",
         "Some quoted speakers and excerpts are difficult to distinguish because speaker labels and transitions are inconsistent.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "eQWbjhP9ehQ",
-      "title": "Dave Chappelle & Jennifer Welch CANCELED Over Charlie Kirk Jokes | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=eQWbjhP9ehQ",
-      "published_at": "2026-11-09T22:45:26.000000Z",
-      "summary": "Kyle Kulinski argues that the “I’ve Had It” podcast and Dave Chappelle faced backlash after jokes or commentary involving Charlie Kirk, framing the episode as an example of partisan “cancel culture.” He presents excerpts from the podcast, including a semi-apology followed by a more defiant response that urges listeners to rely less on sponsors. Kulinski also discusses Chappelle’s joke about Kirk and compares it with a similar George Floyd joke attributed to Tony Hinchcliffe, interpreting the parallel as a deliberate test of conservatives’ free-speech consistency. The episode broadens into criticism of alleged double standards involving jokes about public figures, Palestinians, and other political subjects. Kulinski concludes that the political and cultural environment has shifted toward the left, while speculating that Chappelle deliberately provoked the backlash to reposition himself. The overview reflects one commentator’s presentation and includes heavily edited, sometimes fragmentary captions; the underlying events, quotations, comparisons, and broader political claims are not independently established here.",
-      "topics": [
-        "Backlash over Charlie Kirk jokes",
-        "Podcast sponsorship and cancellation campaigns",
-        "Free-speech double standards",
-        "Dave Chappelle’s political positioning"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The “I’ve Had It” podcast faced advertiser pressure and issued public responses after backlash over Charlie Kirk-related remarks.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            72,
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            83,
-            84,
-            85,
-            86,
-            87,
-            88,
-            89,
-            90,
-            91,
-            92
-          ]
-        },
-        {
-          "claim": "Dave Chappelle made the quoted Charlie Kirk joke during a show, and the clip triggered substantial online backlash.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            287,
-            288,
-            289,
-            290,
-            291,
-            292,
-            293,
-            294,
-            295,
-            296,
-            297,
-            298,
-            299,
-            300,
-            301,
-            302,
-            303,
-            304,
-            307,
-            308,
-            309,
-            310,
-            311,
-            312
-          ]
-        },
-        {
-          "claim": "Tony Hinchcliffe used a materially similar joke about George Floyd.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            330,
-            331,
-            332,
-            333,
-            334,
-            335,
-            336,
-            337,
-            338,
-            339
-          ]
-        },
-        {
-          "claim": "Kulinski’s cited political and institutional claims about Charlie Kirk legislation, anti-BDS laws, and alleged government actions are accurate.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            270,
-            271,
-            272,
-            273,
-            274,
-            275,
-            276,
-            277,
-            278,
-            279,
-            280,
-            493,
-            494,
-            495,
-            496,
-            497,
-            498,
-            499,
-            500,
-            501,
-            502,
-            503,
-            504,
-            505
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski describes backlash against the “I’ve Had It” podcast and Dave Chappelle as politically motivated cancellation campaigns.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            287,
-            288,
-            289,
-            312,
-            313,
-            314,
-            315,
-            316
-          ],
-          "start_seconds": 0.16,
-          "end_seconds": 636.8
-        },
-        {
-          "point": "The podcast excerpts include jokes about Charlie Kirk and a later statement rejecting the campaign and encouraging direct audience support.",
-          "evidence_segment_indices": [
-            53,
-            54,
-            55,
-            72,
-            73,
-            74,
-            83,
-            84,
-            124,
-            125,
-            126,
-            127,
-            128,
-            207,
-            208,
-            209,
-            210,
-            211,
-            212,
-            213,
-            214,
-            215
-          ],
-          "start_seconds": 106.24,
-          "end_seconds": 432.08
-        },
-        {
-          "point": "Kulinski interprets Chappelle’s joke as a deliberate reproduction of a George Floyd joke to expose inconsistent free-speech standards.",
-          "evidence_segment_indices": [
-            296,
-            297,
-            298,
-            299,
-            300,
-            301,
-            307,
-            308,
-            309,
-            310,
-            311,
-            338,
-            339,
-            340,
-            341,
-            342,
-            343,
-            344,
-            345,
-            346,
-            347,
-            348,
-            349,
-            350
-          ],
-          "start_seconds": 583.36,
-          "end_seconds": 709.6
-        },
-        {
-          "point": "The episode ends with Kulinski arguing that cultural attitudes have shifted and speculating that Chappelle planned the provocation to appeal to liberals again.",
-          "evidence_segment_indices": [
-            526,
-            527,
-            528,
-            529,
-            530,
-            531,
-            532,
-            550,
-            551,
-            552,
-            553,
-            554,
-            555,
-            556,
-            557,
-            558,
-            559,
-            560,
-            561,
-            562,
-            563,
-            564,
-            565,
-            566
-          ],
-          "start_seconds": 1057.039,
-          "end_seconds": 1138.48
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "8af474975b25884f2d8030d109900444a097c3c1ef74ccba5fe26453e81d0f45",
-      "transcript_captured_at": "2026-11-10T00:03:23.035901Z",
-      "summary_generated_at": "2026-11-10T00:08:50.168680Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Captions are fragmented and contain transcription gaps, profanity redactions, overlapping speech, and unclear names.",
-        "The source presents excerpts and commentary from one episode; it does not independently establish the reported backlash, sponsorship effects, or quoted social-media posts.",
-        "Several political allegations and event descriptions are asserted by speakers without supporting documentation in the supplied segments.",
-        "The source’s references to dates, elections, deaths, and current events may require contextual verification outside this transcript.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
