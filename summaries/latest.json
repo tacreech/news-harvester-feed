@@ -1,11 +1,670 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T02:12:01.177610Z",
+  "generated_at": "2026-11-11T03:42:01.146101Z",
   "reporting_window": {
-    "start": "2026-11-04T02:12:01.177610Z",
-    "end": "2026-11-11T02:12:01.177610Z"
+    "start": "2026-11-04T03:42:01.146101Z",
+    "end": "2026-11-11T03:42:01.146101Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "1RZpV8LxMVI",
+      "title": "DeSantis BETRAYS TRUMP As MAGA Civil War ERUPTS!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=1RZpV8LxMVI",
+      "published_at": "2026-11-11T01:30:37.000000Z",
+      "summary": "Kyle Kulinski argues that a Republican/MAGA civil conflict is intensifying as Donald Trump’s influence allegedly declines and Ron DeSantis positions himself for a possible 2028 presidential run. He portrays DeSantis as distancing himself from earlier Trump-aligned politics by criticizing crony capitalism, corporate subsidies, high gas prices, congressional stock trading, and Republican campaign messaging. DeSantis argues that younger voters’ favorable views of socialism partly reflect their exposure to corporate favoritism rather than genuinely competitive markets. Kulinski disputes DeSantis’s distinction between capitalism and crony corporatism, contending that concentrated private power and government influence are recurring features of capitalism. The discussion also addresses Republicans’ electoral difficulties, possible 2028 hesitation by JD Vance and Marco Rubio, data-center controversies, and disagreements over recent election results and ballot measures. Kulinski concludes that Republican candidates ultimately serve wealthy interests, weaken social programs, and rely on scapegoating, while predicting a major liberal or left-wing victory in 2028.",
+      "topics": [
+        "Republican factional conflict",
+        "Ron DeSantis and 2028",
+        "Crony capitalism and corporate power",
+        "Congressional ethics",
+        "Electoral predictions"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Four senior DOJ officials resigned, allegedly because of potential criminal liability related to politically motivated actions.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim": "Reporting indicates Ron DeSantis wants to run for president in 2028, while JD Vance and Marco Rubio may be reconsidering possible campaigns.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            48,
+            49,
+            50,
+            54,
+            55,
+            56,
+            57,
+            58
+          ]
+        },
+        {
+          "claim": "Republicans in Washington proposed a ten-year restriction on state and local regulation of artificial intelligence.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            117,
+            118,
+            119,
+            120,
+            121,
+            122
+          ]
+        },
+        {
+          "claim": "Forty-one data-center moratoriums or crackdowns passed.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            275,
+            276,
+            277
+          ]
+        },
+        {
+          "claim": "DeSantis’s statements about gas prices, congressional stock trading, and releasing Epstein-related files reflect positions presented here as campaign strategy or policy proposals.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            197,
+            198,
+            199,
+            200
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski presents Trump’s influence as weakening and describes a broader Republican succession struggle.",
+          "evidence_segment_indices": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            45,
+            46,
+            47,
+            48
+          ],
+          "start_seconds": 36.96,
+          "end_seconds": 106.72
+        },
+        {
+          "point": "DeSantis argues that corporate favoritism makes younger voters more receptive to socialism.",
+          "evidence_segment_indices": [
+            79,
+            80,
+            81,
+            83,
+            84,
+            85,
+            87,
+            88,
+            89,
+            90,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104
+          ],
+          "start_seconds": 162.8,
+          "end_seconds": 212.0
+        },
+        {
+          "point": "The episode contrasts DeSantis’s anti-monopoly framing with Kulinski’s view that such concentration is characteristic of capitalism.",
+          "evidence_segment_indices": [
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162
+          ],
+          "start_seconds": 266.08,
+          "end_seconds": 315.6
+        },
+        {
+          "point": "The speakers debate whether recent election outcomes and ballot measures indicate a broader Republican collapse.",
+          "evidence_segment_indices": [
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            278,
+            279,
+            280
+          ],
+          "start_seconds": 467.599,
+          "end_seconds": 518.24
+        },
+        {
+          "point": "Kulinski predicts an historic liberal or left-wing victory in 2028.",
+          "evidence_segment_indices": [
+            332,
+            333,
+            334,
+            335,
+            336,
+            337,
+            338
+          ],
+          "start_seconds": 626.079,
+          "end_seconds": 644.88
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "0bac8ff296f08299a89af42b53bf272c859d0130cef87e7489963cd70621190f",
+      "transcript_captured_at": "2026-11-11T03:33:33.623094Z",
+      "summary_generated_at": "2026-11-11T03:39:10.689766Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies only on the supplied transcript and does not independently establish its political, legal, electoral, or economic claims.",
+        "Some captions contain profanity redactions, transcription errors, overlapping speech, and garbled phrases.",
+        "The transcript does not provide the underlying sources for references to reporting, election results, DOJ resignations, data-center measures, or congressional votes.",
+        "Several conclusions are predictions or editorial judgments by the speakers rather than settled facts.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "ww7rBmt4fpM",
+      "title": "TRUMP GOES FULL NICK FUENTES!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=ww7rBmt4fpM",
+      "published_at": "2026-11-11T01:00:11.000000Z",
+      "summary": "Kyle Kulinski argues that Donald Trump’s reported promotion of Steven Miller to chief of staff signals a harder authoritarian and anti-immigration direction. He attributes to Miller an emphasis on deportations, immigration enforcement, and pursuing political opponents, while presenting Nick Fuentes’s criticism of Miller’s alleged support for war in Iran as selective and ideologically motivated. Kulinski predicts that Trump will intensify both foreign conflict and domestic repression, but says Miller’s appointment chiefly indicates more aggressive action against dissenters and immigrants. He also argues that some right-wing commentators are distancing themselves from Trump only because his policies have become unpopular, rather than because they reject the underlying ideology. The episode contrasts that outlook with Kulinski’s preferred left-wing program, including expanded healthcare, labor protections, social spending, environmental policy, and greater democracy. Near the end, he makes additional allegations about Miller’s child’s name and Fuentes’s past comments on Venezuela, using them to argue that ideological similarities are being obscured by antisemitism. The transcript alone does not establish these claims.",
+      "topics": [
+        "Trump personnel changes",
+        "Immigration enforcement",
+        "Political repression",
+        "Right-wing ideology",
+        "Foreign policy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The episode alleges that Steven Miller was promoted to chief of staff and has been a major advocate of deportations, immigration enforcement, and political investigations.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            20,
+            21
+          ]
+        },
+        {
+          "claim": "Nick Fuentes is quoted as alleging that Miller was among the strongest supporters of the war in Iran and that Miller pushed the administration toward it.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57
+          ]
+        },
+        {
+          "claim": "Kulinski alleges that Miller’s child’s first and middle names together total 14 letters and constitute a reference associated with white-nationalist symbolism.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224
+          ]
+        },
+        {
+          "claim": "Kulinski alleges that Fuentes previously advocated intervention in Venezuela, including abducting Nicolás Maduro and taking Venezuelan resources.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski interprets Miller’s reported appointment as evidence that Trump may pursue more aggressive immigration and dissent-related policies.",
+          "evidence_segment_indices": [
+            3,
+            4,
+            20,
+            21,
+            22,
+            23,
+            68,
+            69,
+            70,
+            71,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86
+          ],
+          "start_seconds": 7.12,
+          "end_seconds": 196.319
+        },
+        {
+          "point": "The episode presents Fuentes’s criticism of Miller’s Iran-war position and Kulinski’s response that Fuentes is selectively objecting to Trump’s agenda.",
+          "evidence_segment_indices": [
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78
+          ],
+          "start_seconds": 74.08,
+          "end_seconds": 179.68
+        },
+        {
+          "point": "Kulinski argues that some former Trump supporters are distancing themselves from the administration because its consequences are unpopular, not because they reject right-wing politics.",
+          "evidence_segment_indices": [
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            179,
+            180,
+            181,
+            182
+          ],
+          "start_seconds": 237.76,
+          "end_seconds": 387.52
+        },
+        {
+          "point": "Kulinski contrasts the discussed right-wing agenda with his preferred policies of social provision, labor protections, environmental action, and expanded democracy.",
+          "evidence_segment_indices": [
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168
+          ],
+          "start_seconds": 318.88,
+          "end_seconds": 358.0
+        },
+        {
+          "point": "The episode concludes that economic and political problems require a left-wing approach that increases democracy and freedom.",
+          "evidence_segment_indices": [
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257
+          ],
+          "start_seconds": 508.72,
+          "end_seconds": 537.76
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "437e12684e1c5eab23c42708477543756a9cac85140db2bd2c3ed4d946be3358",
+      "transcript_captured_at": "2026-11-11T03:33:25.041416Z",
+      "summary_generated_at": "2026-11-11T03:38:48.107573Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a single commentary episode and does not independently verify its political, personnel, military, or biographical allegations.",
+        "Automatic captions contain omissions, profanity placeholders, misheard words, and apparent transcription errors.",
+        "Several claims depend on unnamed prior videos, reports, or events that are not included in the source.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "N87GfB13L-g",
+      "title": "The Worst Political Pundit In Human History | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=N87GfB13L-g",
+      "published_at": "2026-11-11T00:30:40.000000Z",
+      "summary": "Kyle Kulinski argues that Dave Rubin’s political commentary relies on overconfident predictions and repetitive election narratives. The episode presents Rubin predicting Middle East and Russia-Ukraine peace agreements, Republican gains before the midterms, and favorable public reactions to a major bill. Kulinski disputes those expectations, attributing likely Republican losses to war-related costs, inflation, corruption, and unpopular policies rather than to online figures or media controversies. He also challenges Rubin’s claims about polling, redistricting, and the political significance of commentators including Tucker Carlson and Nick Fuentes. A later segment focuses on Rubin’s predictions about Iran, including claims about regime change, energy prices, the Strait of Hormuz, and a possible successor government. Kulinski says some associated media appear misleading or AI-generated and criticizes the idea that attacks on civilian infrastructure can avoid harming civilians. The episode is primarily commentary and debate, not an independent review: its factual assertions, election outcomes, policy effects, polling descriptions, and media-authenticity claims require separate verification.",
+      "topics": [
+        "Political pundit predictions",
+        "Midterm elections",
+        "U.S. policy and social programs",
+        "Iran war commentary",
+        "Media authenticity"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The major bill added $4 trillion to the deficit and debt, reduced taxes for billionaires, and changed taxes for lower- and middle-income people.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            38,
+            39,
+            40,
+            41,
+            42
+          ]
+        },
+        {
+          "claim": "The bill reduced Medicaid funding by $800 billion, removed 17 million people from coverage, and increased out-of-pocket costs.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            43,
+            44,
+            45,
+            46
+          ]
+        },
+        {
+          "claim": "The bill removed 5 million people from food assistance.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            52,
+            53,
+            54,
+            55,
+            56
+          ]
+        },
+        {
+          "claim": "Polling generally showed Democrats winning, including among right-wing pollsters, while Democrats were substantially underestimated.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93
+          ]
+        },
+        {
+          "claim": "The cited audio praising Benjamin Netanyahu in Iran was deepfake or otherwise fabricated.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            383,
+            384,
+            385,
+            386,
+            389,
+            390,
+            391,
+            392,
+            393
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames Rubin as a pundit whose confident forecasts repeatedly conflict with later developments.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            5,
+            6,
+            7,
+            142,
+            143,
+            144
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 256.239
+        },
+        {
+          "point": "Rubin predicts peace agreements, Republican midterm gains, and positive political effects from the administration’s policies.",
+          "evidence_segment_indices": [
+            9,
+            12,
+            15,
+            19,
+            24,
+            25,
+            26,
+            29,
+            30,
+            31,
+            32,
+            33
+          ],
+          "start_seconds": 14.88,
+          "end_seconds": 58.719
+        },
+        {
+          "point": "Kulinski attributes Republican weakness to war, prices, corruption, and policy consequences rather than primarily to online ideological disputes.",
+          "evidence_segment_indices": [
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227
+          ],
+          "start_seconds": 383.039,
+          "end_seconds": 403.68
+        },
+        {
+          "point": "The discussion contrasts Rubin’s characterization of Trump as moderate with Kulinski’s opposing assessment.",
+          "evidence_segment_indices": [
+            277,
+            278,
+            279,
+            280,
+            281,
+            282,
+            283,
+            284,
+            293,
+            294,
+            300,
+            301
+          ],
+          "start_seconds": 480.96,
+          "end_seconds": 531.92
+        },
+        {
+          "point": "Kulinski criticizes repeated thumbnails and titles as evidence of low-effort political content.",
+          "evidence_segment_indices": [
+            126,
+            127,
+            134,
+            135,
+            142,
+            143,
+            145,
+            146,
+            168,
+            169,
+            170,
+            178,
+            179,
+            180
+          ],
+          "start_seconds": 218.72,
+          "end_seconds": 321.28
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "3a9444f3759115027e24f7b12fe1a662cc193d2e5c98c86e7bab3bf30cf6e204",
+      "transcript_captured_at": "2026-11-11T03:33:16.439106Z",
+      "summary_generated_at": "2026-11-11T03:38:25.229391Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains profanity redactions, transcription errors, misheard names, and incomplete phrases.",
+        "Several references depend on unstated dates, election results, bills, polls, or media clips that are not supplied in the source.",
+        "The episode mixes quoted commentary with Kulinski’s reactions, so speaker attribution is occasionally approximate.",
+        "This overview reflects only the provided transcript and does not verify its allegations or predictions.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4627,549 +5286,6 @@
         "Several captions contain apparent omissions, repetitions, or malformed words that obscure exact meaning.",
         "The source provides allegations and selected political remarks but no independent documentation or outcome of the impeachment process.",
         "The transcript’s references to dates, legal provisions, and Iran-related events require external verification.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "B9RBi5YgRTw",
-      "title": "‘TROUBLE IN PARADISE’ - Trump BREAKS From JD Vance As Republican Party IMPLODES",
-      "url": "https://www.youtube.com/watch?v=B9RBi5YgRTw",
-      "published_at": "2026-11-09T17:50:06.000000Z",
-      "summary": "Aaron Parnas argues that tensions are emerging between Donald Trump and Vice President J.D. Vance as potential Republican succession politics intensify. He presents Trump’s remarks about Vance’s Iran criticism as simultaneously supportive and undermining, while interpreting them as evidence that Trump may be considering alternatives such as Marco Rubio. Parnas also says Vance is pursuing an independent political course and attributes Republican losses to the Iran war based on a reported Vance statement. The episode further portrays Senator Ted Cruz as a possible 2028 contender and highlights contrasting comments in which Cruz first endorsed an aggressive approach toward Iran and later discussed ending the prolonged conflict. Finally, Parnas says Trump challenged the 2026 election results and that Republican figures are urging him to stop, framing this as evidence of weakening influence within the party. These conclusions rely on the creator’s commentary and selected excerpts; the transcript does not independently establish the political claims, election allegations, or private relationships described.",
-      "topics": [
-        "Trump-Vance tensions",
-        "Republican succession politics",
-        "Iran war debate",
-        "2026 election allegations"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Trump publicly undermined Vance and may prefer Marco Rubio or another alternative as a future Republican successor.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            9,
-            10,
-            16,
-            17,
-            64,
-            70,
-            77,
-            80,
-            81
-          ]
-        },
-        {
-          "claim": "Vance said Trump’s war with Iran contributed to Republican losses.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44
-          ]
-        },
-        {
-          "claim": "Trump alleged that the 2026 midterm election and voting machines were rigged.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            20,
-            21,
-            22,
-            23,
-            24
-          ]
-        },
-        {
-          "claim": "Ted Cruz’s position on the Iran war shifted from urging decisive action to supporting a conclusion to the conflict.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            188,
-            189,
-            192,
-            203,
-            210,
-            211,
-            220,
-            223,
-            227,
-            232,
-            233,
-            234
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas describes Vance as seeking to chart an independent political course.",
-          "evidence_segment_indices": [
-            35,
-            36,
-            37,
-            38,
-            39,
-            40
-          ],
-          "start_seconds": 78.799,
-          "end_seconds": 94.079
-        },
-        {
-          "point": "Trump said Vance was right about Iran except for one omitted statement and defended repeating the decision.",
-          "evidence_segment_indices": [
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60
-          ],
-          "start_seconds": 109.92,
-          "end_seconds": 135.28
-        },
-        {
-          "point": "The episode presents Cruz as one of several figures potentially positioning for 2028.",
-          "evidence_segment_indices": [
-            133,
-            134,
-            135,
-            136,
-            137,
-            178,
-            179
-          ],
-          "start_seconds": 270.639,
-          "end_seconds": 370.8
-        },
-        {
-          "point": "Parnas characterizes Republican criticism of Trump’s election claims as evidence of declining party support.",
-          "evidence_segment_indices": [
-            240,
-            241,
-            242,
-            243,
-            244,
-            245,
-            246,
-            247
-          ],
-          "start_seconds": 508.479,
-          "end_seconds": 527.12
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "24299b72bd08afede24bada9231f15a2d8e5d2f75a5503827c3aac92701d8859",
-      "transcript_captured_at": "2026-11-09T19:33:15.976925Z",
-      "summary_generated_at": "2026-11-09T19:38:23.703198Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is a creator-produced commentary episode, not an independent evidentiary record.",
-        "Several political claims are paraphrased or interpreted by Parnas rather than documented with full source context.",
-        "Caption defects and overlapping segments create minor ambiguity in speaker attribution and wording.",
-        "The transcript alone cannot establish private conversations, election results, or the accuracy of allegations about political motives.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "-LhuByoMte0",
-      "title": "🚨 Impeachment is HERE—Republicans TURN on White House as Trump SCRAMBLES!!",
-      "url": "https://www.youtube.com/watch?v=-LhuByoMte0",
-      "published_at": "2026-11-09T15:11:26.000000Z",
-      "summary": "Aaron Parnas presents a report centered on Thomas Massie’s claimed filing of eight articles of impeachment against Defense Secretary Pete Hegath. The episode says the resolution alleges unauthorized wars, civilian deaths, attacks on boats, retaliation against Senator Mark Kelly, and operations in Venezuela and Yemen. Parnas emphasizes that these are allegations in a resolution, not court findings. He says Democrats are expected to support impeachment while some Republicans, including French Hill, remain open to considering it; the episode predicts a House vote and possible Senate trial. It also discusses President Trump’s continued defense of Hegath and tensions over immigration enforcement, including a claim that Trump called his deportation crackdown “too tough” while ICE activity continued. The episode closes with possible leadership challenges involving Chuck Schumer and John Thune. Much of the account relies on captioned narration, quoted statements, and attributed media reports, so the underlying claims and names require independent confirmation.",
-      "topics": [
-        "Impeachment proceedings",
-        "Military and foreign policy",
-        "Immigration enforcement",
-        "Congressional leadership"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Thomas Massie filed eight articles of impeachment against Defense Secretary Pete Hegath, alleging unauthorized military operations and other misconduct.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            27,
-            28,
-            30,
-            31,
-            32,
-            33,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            46,
-            48,
-            62,
-            69,
-            73,
-            75
-          ]
-        },
-        {
-          "claim": "The proposed impeachment vote could pass with Republican support and lead to a Senate trial.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            95,
-            97,
-            98,
-            99,
-            100,
-            101,
-            116,
-            117,
-            118,
-            164,
-            172,
-            173,
-            174,
-            176
-          ]
-        },
-        {
-          "claim": "The impeachment resolution attributes specific civilian deaths to U.S. strikes in Iran, Yemen, and against alleged drug boats.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            50,
-            53,
-            54,
-            55,
-            58,
-            59,
-            60,
-            61,
-            63,
-            64,
-            65,
-            66,
-            67,
-            75,
-            76
-          ]
-        },
-        {
-          "claim": "ICE continued aggressive enforcement after Trump described the deportation crackdown as too tough, including the reported detention of an eight-year-old boy.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            186,
-            187,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195,
-            196,
-            197,
-            198
-          ]
-        },
-        {
-          "claim": "Chris Van Hollen may challenge Chuck Schumer for Senate leadership, while John Thune may face a Republican leadership challenge.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            204,
-            205,
-            206,
-            207,
-            210,
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode’s main subject is a reported impeachment resolution against Pete Hegath.",
-          "evidence_segment_indices": [
-            27,
-            28,
-            30,
-            31,
-            32,
-            33
-          ],
-          "start_seconds": 59.359,
-          "end_seconds": 81.119
-        },
-        {
-          "point": "The resolution’s allegations concern war powers, civilian protection, strikes, and retaliation against a senator.",
-          "evidence_segment_indices": [
-            36,
-            37,
-            46,
-            50,
-            58,
-            62,
-            69,
-            70,
-            75
-          ],
-          "start_seconds": 83.68,
-          "end_seconds": 178.879
-        },
-        {
-          "point": "Republican reaction is described as unsettled, with some lawmakers seeking debate before deciding.",
-          "evidence_segment_indices": [
-            95,
-            97,
-            100,
-            116,
-            117,
-            118,
-            149,
-            150,
-            164
-          ],
-          "start_seconds": 215.519,
-          "end_seconds": 360.8
-        },
-        {
-          "point": "The episode links White House tensions to immigration enforcement and congressional leadership contests.",
-          "evidence_segment_indices": [
-            180,
-            186,
-            187,
-            188,
-            200,
-            204,
-            210,
-            216
-          ],
-          "start_seconds": 393.36,
-          "end_seconds": 474.16
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "49ca98f3183b25eb4bfc3b7fa090a43af8bdcfa154d2fe423704c11af0b59c88",
-      "transcript_captured_at": "2026-11-09T16:03:16.713989Z",
-      "summary_generated_at": "2026-11-09T16:08:26.597421Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Automatic captions contain inconsistent spellings for several names, including the defense secretary and lawmakers.",
-        "The source presents allegations, predictions, and media-attributed claims without documentary evidence in the supplied segments.",
-        "Reported vote timing, vote counts, leadership challenges, enforcement incidents, and casualty figures require independent verification.",
-        "The supplied material is an episode excerpt and does not establish the final status of any proceeding.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "QT5zny2K7hw",
-      "title": "🚨 'PROSECUTE THEM' — Trump DOJ Launches MAJOR ATTACK as Trump ERUPTS in the White House",
-      "url": "https://www.youtube.com/watch?v=QT5zny2K7hw",
-      "published_at": "2026-11-08T23:53:55.000000Z",
-      "summary": "Aaron Parnas presents the episode as a warning that the Trump administration faces escalating conflict with a Democratic-controlled Congress and internal Republican tensions. He highlights an interview in which Attorney General Todd Blanch declined to rule out investigations or prosecutions related to lawmakers’ rhetoric, while distinguishing protected criticism from allegedly threatening conduct. Parnas then links the dispute to competing claims about congressional oversight, possible impeachment, and the Justice Department’s support for administration officials facing investigations. He also discusses Republican Senator Ron Johnson’s reported concerns about lobbying and access surrounding tobacco, vaping, and kratom policy, alongside allegations that presidential staff may filter information reaching Trump. Finally, the episode says advisers are privately questioning whether Vice President JD Vance should pursue a presidential campaign, and it portrays Mitch McConnell as offering no substantive response to Republican midterm losses. The account is commentary built largely from quoted interviews and reported assertions; it does not independently establish the allegations, polling, or political forecasts it presents.",
-      "topics": [
-        "Congressional oversight and prosecutions",
-        "Trump administration legal conflict",
-        "Lobbying and presidential access",
-        "Republican succession politics"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Attorney General Todd Blanch declined to rule out potential prosecutions connected to lawmakers’ statements and described circumstances that could constitute crimes.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            19,
-            20,
-            21,
-            79,
-            80,
-            81,
-            82,
-            83,
-            93,
-            94,
-            95
-          ]
-        },
-        {
-          "claim": "A federal grand jury previously declined to indict Senator Alyssa Slack and five other Democrats over a video concerning unlawful orders.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            102,
-            103,
-            104,
-            105,
-            106,
-            107
-          ]
-        },
-        {
-          "claim": "An AP voter poll found that about seven in ten respondents believed Congress was not doing enough to check the presidency.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136
-          ]
-        },
-        {
-          "claim": "Several advisers are privately urging JD Vance to consider seeking an Ohio Senate or gubernatorial position instead of running for president.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            210,
-            211
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode frames congressional oversight, impeachment talk, and possible prosecutions as a separation-of-powers conflict.",
-          "evidence_segment_indices": [
-            55,
-            56,
-            57,
-            58,
-            59,
-            63,
-            64,
-            68,
-            69,
-            70,
-            71,
-            75,
-            76,
-            114,
-            115,
-            116,
-            117
-          ],
-          "start_seconds": 112.799,
-          "end_seconds": 237.28
-        },
-        {
-          "point": "Blanch says criticism is protected but suggests threatening conduct may warrant investigation or prosecution.",
-          "evidence_segment_indices": [
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            88,
-            89,
-            92,
-            93,
-            94,
-            95,
-            96
-          ],
-          "start_seconds": 163.519,
-          "end_seconds": 193.2
-        },
-        {
-          "point": "The discussion attributes corruption concerns to Republican Senator Ron Johnson while examining alleged lobbying influence over policy.",
-          "evidence_segment_indices": [
-            143,
-            144,
-            145,
-            148,
-            149,
-            150,
-            151,
-            152,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160
-          ],
-          "start_seconds": 286.32,
-          "end_seconds": 327.36
-        },
-        {
-          "point": "The closing segment focuses on uncertainty around Vance’s future and McConnell’s limited response to Republican losses.",
-          "evidence_segment_indices": [
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217,
-            219,
-            220,
-            221,
-            223,
-            224,
-            225,
-            227
-          ],
-          "start_seconds": 404.16,
-          "end_seconds": 470.639
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "1bfe313ee910b380a5fbebf1a63cc06c1e2065ce489a75423a10fc16a894a10d",
-      "transcript_captured_at": "2026-11-09T01:33:22.839558Z",
-      "summary_generated_at": "2026-11-09T01:38:47.121173Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is a single commentary episode, not independent reporting or corroboration.",
-        "Several captions contain transcription errors, omissions, and unclear names or phrases.",
-        "Allegations about corruption, lobbying, threats, polling, and private political advice require independent verification.",
-        "The episode’s predictions and framing reflect the creator’s interpretation and the quoted speakers’ statements.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
