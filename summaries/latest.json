@@ -1,11 +1,708 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T23:12:01.160789Z",
+  "generated_at": "2026-11-11T23:42:01.137226Z",
   "reporting_window": {
-    "start": "2026-11-04T23:12:01.160789Z",
-    "end": "2026-11-11T23:12:01.160789Z"
+    "start": "2026-11-04T23:42:01.137226Z",
+    "end": "2026-11-11T23:42:01.137226Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "g-yiMVvPOn4",
+      "title": "CHUCK SCHUMER IS F*CKED | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=g-yiMVvPOn4",
+      "published_at": "2026-11-11T22:30:30.000000Z",
+      "summary": "Kyle Kulinski argues that Chuck Schumer faces substantial opposition to becoming Senate Democratic majority leader, while suggesting Hakeem Jeffries is more likely to lead House Democrats. He cites a reported YouGov poll in which 57% preferred someone other than Schumer and 10% supported Schumer. Kulinski also discusses statements attributed to Van Hollen, Bernie Sanders, Alyssa Slotkin, Mark Warner, Richard Blumenthal, and others that he presents as evidence of dissatisfaction with Schumer’s leadership. He highlights calls for a leadership contest, a demand for a concrete caucus plan, and reported opposition from a machinists’ union. Kulinski predicts Schumer will probably not lead Senate Democrats and favors Van Hollen as an alternative, while acknowledging that these developments remain political possibilities rather than settled outcomes. The episode then broadens into Kulinski’s prescription for Democrats: emphasize populist economic policies, opposition to corruption and concentrated wealth, and a more confrontational stance toward Republicans. The transcript records commentary and attributed claims, but does not independently establish the poll’s methodology, the cited statements, or the political predictions.",
+      "topics": [
+        "Senate Democratic leadership",
+        "Chuck Schumer",
+        "Van Hollen",
+        "Democratic strategy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Kulinski says a YouGov poll found 57% preferred someone other than Schumer and 10% preferred Schumer as Senate majority leader.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "claim": "Kulinski reports that Bernie Sanders, Alyssa Slotkin, Richard Blumenthal, and others declined to endorse Schumer or called for leadership changes.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            78,
+            79,
+            80,
+            81,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            163,
+            164
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames Schumer as vulnerable because opposition is presented as crossing ideological lines within the Democratic caucus.",
+          "evidence_segment_indices": [
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172
+          ],
+          "start_seconds": 237.599,
+          "end_seconds": 324.639
+        },
+        {
+          "point": "He presents Van Hollen as a possible alternative and describes Van Hollen as increasingly open to a leadership bid.",
+          "evidence_segment_indices": [
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63
+          ],
+          "start_seconds": 89.68,
+          "end_seconds": 127.6
+        },
+        {
+          "point": "Kulinski predicts Schumer will likely not lead Senate Democrats, while Jeffries will likely lead House Democrats.",
+          "evidence_segment_indices": [
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200
+          ],
+          "start_seconds": 362.96,
+          "end_seconds": 377.68
+        },
+        {
+          "point": "The episode advocates a more populist Democratic platform, including economic demands and opposition to wars and concentrated wealth.",
+          "evidence_segment_indices": [
+            225,
+            226,
+            227,
+            228,
+            229,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256
+          ],
+          "start_seconds": 426.319,
+          "end_seconds": 490.4
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "fdf3da6864408c2c5171534cb90d96f6d9b9ee4f75194493ece82c3a15999c3c",
+      "transcript_captured_at": "2026-11-11T23:33:34.996446Z",
+      "summary_generated_at": "2026-11-11T23:39:29.170886Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains substantial automatic-caption defects, redactions, and uncertain names or phrases.",
+        "Several claims are relayed from unnamed or externally attributed reports whose underlying sources are not included.",
+        "The episode reflects Kulinski’s analysis and predictions; the transcript does not establish electoral outcomes, caucus decisions, or poll methodology.",
+        "The source covers one commentary segment and should not be treated as comprehensive coverage of the leadership contest.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "FJYXnVXDgQw",
+      "title": "BREAKING: Democrats FLIP Mississippi BLUE Sending White House into Spiral, this is HISTORIC!!",
+      "url": "https://www.youtube.com/watch?v=FJYXnVXDgQw",
+      "published_at": "2026-11-11T22:12:52.000000Z",
+      "summary": "The creator reports that Scott Colom defeated Cindy Hyde-Smith in a closely contested Mississippi Senate race, presenting the result as an important Democratic breakthrough and a milestone for Black representation. The episode says the margin was under one percentage point and frames the outcome as unexpected given Mississippi’s Republican alignment and Hyde-Smith’s presumed advantage. In an interview, Aaron Haynes and Jennifer Palmieri interpret the result as evidence that sustained organizing, voter engagement, and investment could expand Democratic competitiveness across the South. They discuss affordability, housing, corruption allegations, immigration, and public safety as issues shaping voters’ choices, while emphasizing that candidate quality and local coalitions matter. Palmieri argues that Southern states could play a major role in Democratic presidential nominations and future general elections. Haynes similarly suggests that states should not be treated as permanently aligned with one party. The episode also promotes the interviewers’ series, “The Long Play,” about Southern politics.",
+      "topics": [
+        "Mississippi Senate race",
+        "Southern Democratic strategy",
+        "Black political representation",
+        "Voter organizing",
+        "2028 presidential politics"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Scott Colom defeated Cindy Hyde-Smith in the Mississippi Senate race by under one percentage point.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            1,
+            2,
+            3,
+            9,
+            42,
+            43,
+            44,
+            45
+          ]
+        },
+        {
+          "claim": "Colom would become the first Black man to represent Mississippi in the U.S. Senate in more than a century.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim": "The episode reports Democratic victories or near-victories in Texas, Louisiana, Georgia, and Alabama.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72
+          ]
+        },
+        {
+          "claim": "The interview includes allegations of corruption involving Texas political figures and discusses shootings during the Texas election cycle.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            260,
+            261,
+            262,
+            263
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator presents the Mississippi result as both a narrow race and a symbolic Democratic gain.",
+          "evidence_segment_indices": [
+            4,
+            10,
+            14,
+            15,
+            16,
+            21,
+            22,
+            28,
+            29,
+            44,
+            45
+          ],
+          "start_seconds": 9.6,
+          "end_seconds": 113.0
+        },
+        {
+          "point": "Haynes connects the outcome to voter empowerment, organizing, and hopes for a different future in Mississippi.",
+          "evidence_segment_indices": [
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            101,
+            102,
+            103,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116
+          ],
+          "start_seconds": 204.592,
+          "end_seconds": 255.994
+        },
+        {
+          "point": "Palmieri argues that Democrats have historically underinvested in the South and that the region could merit greater strategic attention.",
+          "evidence_segment_indices": [
+            143,
+            144,
+            145,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168
+          ],
+          "start_seconds": 310.094,
+          "end_seconds": 364.494
+        },
+        {
+          "point": "The guests emphasize affordability and other everyday concerns as factors in Southern voting decisions.",
+          "evidence_segment_indices": [
+            238,
+            239,
+            240,
+            241,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270,
+            278,
+            279,
+            280
+          ],
+          "start_seconds": 499.997,
+          "end_seconds": 591.697
+        },
+        {
+          "point": "The discussion treats state partisan labels as changeable and stresses candidate quality, belief, and grassroots infrastructure.",
+          "evidence_segment_indices": [
+            362,
+            363,
+            364,
+            365,
+            366,
+            367,
+            368,
+            369,
+            370,
+            371,
+            384,
+            385,
+            386,
+            387,
+            398,
+            399,
+            400,
+            401,
+            402,
+            403,
+            404,
+            411,
+            412,
+            413
+          ],
+          "start_seconds": 755.499,
+          "end_seconds": 857.701
+        },
+        {
+          "point": "Palmieri predicts that Southern states may strongly influence Democratic nominations and future electoral paths to 270 electoral votes.",
+          "evidence_segment_indices": [
+            290,
+            291,
+            292,
+            293,
+            297,
+            298,
+            300,
+            301,
+            302,
+            303,
+            308,
+            309,
+            310,
+            311,
+            312,
+            313,
+            314,
+            342,
+            343,
+            344,
+            345,
+            346,
+            347,
+            348
+          ],
+          "start_seconds": 607.697,
+          "end_seconds": 729.098
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "e422e9b94d2e36887ba52ca076a27a5d0f7197fb048d381cd6edbe869f1def1d",
+      "transcript_captured_at": "2026-11-11T23:33:22.996265Z",
+      "summary_generated_at": "2026-11-11T23:38:46.507158Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains overlapping captions, speaker-label errors, hesitations, and apparent name substitutions, including “Jeffrey” in the interview introduction.",
+        "This overview reflects only the supplied episode transcript and does not independently establish election results, margins, historical distinctions, or other political claims.",
+        "Several predictions and interpretations are attributed to interview participants rather than presented as verified outcomes.",
+        "Some references to election timing, offices, and state results are ambiguous in the transcript.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "6erTFk14rKM",
+      "title": "AOC Reveals DARK TRUTH Dem Leaders Don’t Want You To Know | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=6erTFk14rKM",
+      "published_at": "2026-11-11T22:00:24.000000Z",
+      "summary": "Kyle Kulinski discusses the contest over Democratic House leadership and whether Hakeem Jeffries will become speaker. He argues that progressive Democrats may have enough votes to block Jeffries, while criticizing members who present his election as inevitable or say they need an alternative candidate before withholding support. The episode includes excerpts from Alexandria Ocasio-Cortez describing the speaker vote as a choice among names, emphasizing the need for better internal democratic processes, and saying members should be able to disagree without retaliation. Kulinski interprets her comments as an indirect rationale for supporting Jeffries and contrasts them with an incoming representative’s account of alleged pressure from senior Democrats, including threats of political retaliation. He also notes a competing argument that Jeffries’ less forceful leadership style could give progressives more room to organize. The discussion relies on quoted media reports, interviews, and social-media clips; the transcript alone does not establish the accuracy of the reported vote counts, approval ratings, threats, or other allegations.",
+      "topics": [
+        "House speaker contest",
+        "Democratic leadership",
+        "Progressive strategy",
+        "Internal party democracy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The episode reports that roughly 43 House Democrats could prevent Hakeem Jeffries from becoming speaker and that the Progressive Caucus expected more than 100 members.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim": "The episode reports that an incoming representative was threatened with political retaliation if he did not support Jeffries.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            475,
+            476,
+            477,
+            478,
+            487,
+            488,
+            489,
+            498,
+            499,
+            500,
+            501
+          ]
+        },
+        {
+          "claim": "The episode cites a petition with more than one million signatures opposing Jeffries as speaker and reports heavy constituent call volumes.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            290,
+            291,
+            292,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309
+          ]
+        },
+        {
+          "claim": "The episode attributes claims about Jeffries’ approval rating, political donations, and policy positions to Kulinski or interview participants, but the transcript does not independently substantiate them.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            152,
+            153,
+            154,
+            155,
+            156,
+            294,
+            295,
+            296,
+            297,
+            578,
+            579,
+            580,
+            581,
+            582
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski argues that Democrats opposed to Jeffries could vote for another name and force multiple speaker ballots.",
+          "evidence_segment_indices": [
+            63,
+            64,
+            65,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            122,
+            123,
+            361,
+            362,
+            363,
+            364,
+            365
+          ],
+          "start_seconds": 125.36,
+          "end_seconds": 701.92
+        },
+        {
+          "point": "Ocasio-Cortez says the process requires members to select a name and emphasizes changing conditions inside the caucus before the vote.",
+          "evidence_segment_indices": [
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            324,
+            325,
+            326,
+            327,
+            328,
+            329,
+            330,
+            331,
+            332,
+            333
+          ],
+          "start_seconds": 199.04,
+          "end_seconds": 645.519
+        },
+        {
+          "point": "Ocasio-Cortez describes declining internal democracy and a desire for members to disagree without fear of retribution.",
+          "evidence_segment_indices": [
+            336,
+            337,
+            338,
+            339,
+            340,
+            341,
+            342,
+            343,
+            344,
+            345,
+            346,
+            347,
+            348,
+            349,
+            435,
+            436,
+            437,
+            438,
+            439,
+            440,
+            441,
+            442,
+            443,
+            444
+          ],
+          "start_seconds": 647.6,
+          "end_seconds": 837.199
+        },
+        {
+          "point": "Kulinski presents a more favorable argument that Jeffries’ hands-off leadership could allow organized progressives greater influence.",
+          "evidence_segment_indices": [
+            552,
+            553,
+            554,
+            555,
+            556,
+            557,
+            558,
+            559,
+            560,
+            561,
+            562,
+            563,
+            564,
+            565,
+            566,
+            567,
+            568,
+            569,
+            570,
+            571
+          ],
+          "start_seconds": 1056.72,
+          "end_seconds": 1101.039
+        },
+        {
+          "point": "The episode ends with Kulinski warning that failing to challenge the leadership choice could weaken confidence in future progressive policy fights.",
+          "evidence_segment_indices": [
+            583,
+            584,
+            585,
+            586,
+            587,
+            588,
+            589,
+            590,
+            591,
+            592,
+            593,
+            594,
+            595,
+            596,
+            597,
+            598,
+            599,
+            600,
+            601,
+            602,
+            603
+          ],
+          "start_seconds": 1120.48,
+          "end_seconds": 1161.039
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "a4b91024ff9b8110d19c3bc1a5ddba749c99e453b2e42107e2366c909c4cc444",
+      "transcript_captured_at": "2026-11-11T23:33:28.635135Z",
+      "summary_generated_at": "2026-11-11T23:39:09.284295Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains substantial caption errors, malformed names, profanity redactions, and unclear speaker boundaries.",
+        "Several numerical, procedural, polling, fundraising, and threat-related statements are presented through quoted reports or commentary and require independent verification.",
+        "The overview reflects only this episode’s transcript and does not establish the broader political context or the outcome of the speaker contest.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -202,6 +899,138 @@
         "Several statements are presented as host opinions, predictions, allegations, or conversational interpretations rather than documented findings.",
         "The source is a transcript excerpt and does not independently provide the cited vote records, letters, reporting, investigations, or legal outcomes.",
         "Some segments are overlapping, fragmented, or missing surrounding context, limiting precise speaker attribution.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "QUNbn9F0o9k",
+      "title": "Hakeem Jeffries F*CKS UP Hegseth Impeachment!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=QUNbn9F0o9k",
+      "published_at": "2026-11-11T21:30:13.000000Z",
+      "summary": "Kyle Kulinski argues that House Democrats mishandled a procedural vote concerning Pete Hegseth’s impeachment, allowing a motion to block the effort to pass 211–204. He attributes the outcome to 11 Democrats missing the vote, contending that seven additional votes would have defeated the motion, and criticizes Hakeem Jeffries and Democratic leadership for failing to coordinate attendance. Kulinski also highlights Jeffries’s statement that he had not yet spoken with members about the resolution, presenting it as evidence of weak leadership. He discusses reported scheduling conflicts involving an Elect Democratic Women event and the vote, as well as individual explanations for absences, but frames possible connections between those facts as suspicion rather than proof. The episode further contrasts the Democratic failure with Ted Cruz’s reported acknowledgment that Republicans previously lacked votes to stop impeachment. Kulinski predicts Democrats may revisit impeachment after gaining a larger House majority and questions Jeffries’s leadership prospects, citing reported constituent calls and low approval figures. The provided transcript ends before the other topics announced in the introduction are covered.",
+      "topics": [
+        "Pete Hegseth impeachment vote",
+        "House Democratic leadership",
+        "Hakeem Jeffries",
+        "Congressional attendance",
+        "Democratic leadership approval"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A motion blocking Pete Hegseth’s impeachment passed 211–204, and 11 Democrats missed the vote.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            60,
+            61,
+            65,
+            84,
+            85,
+            98
+          ]
+        },
+        {
+          "claim": "Seven additional votes against the motion would have defeated it.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            86,
+            87
+          ]
+        },
+        {
+          "claim": "An Elect Democratic Women event overlapped with the impeachment vote, and several absent members had ties to the organization or its affiliated PAC.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            144,
+            150,
+            157,
+            161,
+            164
+          ]
+        },
+        {
+          "claim": "Ted Cruz said Republicans previously lacked the votes to stop a Hegseth impeachment.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            187,
+            190,
+            194,
+            196
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski attributes the failed impeachment effort to Democratic leadership and missed attendance.",
+          "evidence_segment_indices": [
+            67,
+            75,
+            78,
+            83
+          ],
+          "start_seconds": 146.239,
+          "end_seconds": 183.92
+        },
+        {
+          "point": "He presents Jeffries’s lack of prior discussions with the caucus as a leadership failure.",
+          "evidence_segment_indices": [
+            106,
+            110,
+            116,
+            120
+          ],
+          "start_seconds": 233.599,
+          "end_seconds": 267.12
+        },
+        {
+          "point": "He reports that Pelosi was absent while receiving an award in San Francisco.",
+          "evidence_segment_indices": [
+            178,
+            180,
+            181
+          ],
+          "start_seconds": 385.28,
+          "end_seconds": 397.12
+        },
+        {
+          "point": "He says Democrats may revisit impeachment after a future larger House majority.",
+          "evidence_segment_indices": [
+            125,
+            127,
+            130,
+            132
+          ],
+          "start_seconds": 274.56,
+          "end_seconds": 293.28
+        },
+        {
+          "point": "He cites reported anti-Jeffries calls and approval figures while questioning Jeffries’s leadership prospects.",
+          "evidence_segment_indices": [
+            229,
+            235,
+            239,
+            267,
+            271
+          ],
+          "start_seconds": 494.16,
+          "end_seconds": 596.8
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "45da39cb1f6e5cbd1dc3607f55891c1cc1d0d126200b0e33d751a2d7c3c4221b",
+      "transcript_captured_at": "2026-11-11T23:33:13.653592Z",
+      "summary_generated_at": "2026-11-11T23:38:23.761159Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains substantial automatic-caption errors and garbled names, including references to Hegseth and Jeffries.",
+        "The source provides commentary and quoted remarks but does not independently establish the underlying vote records, affiliations, attendance explanations, polling, or call volume.",
+        "The introduction announces additional topics, but the supplied transcript ends during the Jeffries discussion, so those topics cannot be summarized from this evidence.",
+        "Kulinski uses strongly evaluative language and presents some causal or conspiratorial interpretations that remain his claims rather than verified findings.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -4438,800 +5267,6 @@
         "Several captions contain apparent transcription errors, name uncertainty, and fragmented or overlapping speech.",
         "Claims about cancer, corruption, criminal conduct, lobbying, executive orders, and DOJ actions require independent verification.",
         "The episode’s account is source-only and does not include responses from the individuals or organizations accused.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "FiIYLLs3NkI",
-      "title": "‘All In’ Podcast Bros PANIC Over Blue Wave | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=FiIYLLs3NkI",
-      "published_at": "2026-11-10T00:30:34.000000Z",
-      "summary": "Kyle Kulinski argues that commentators associated with the All-In podcast are reacting anxiously to what he characterizes as a Democratic “blue wave” and a repudiation of MAGA. He presents excerpts in which speakers say Republicans lost influential podcast personalities, depend heavily on alternative media, and failed to address voters’ economic concerns. One excerpt attributes recent electoral shifts primarily to dissatisfaction with economic conditions and argues that asset owners have benefited while wage earners have struggled. Kulinski also criticizes what he portrays as wealthy figures’ post-election movement toward progressive-sounding positions, interpreting it as opportunistic. The episode concludes with criticism of a proposal that Donald Trump pardon himself, his family, and administration members, which Kulinski says would undermine accountability. The material consists of partisan commentary and clipped dialogue; the transcript alone does not establish the election results, the cited policy impacts, alleged crimes, or the speakers’ identities and motivations.",
-      "topics": [
-        "All-In podcast and MAGA",
-        "Media influence and partisan coalitions",
-        "Economic grievances and elections",
-        "Presidential pardons and accountability"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The cited election produced a major Democratic “blue wave” and broad repudiation of MAGA and its allies.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            2,
-            29,
-            30,
-            66,
-            144,
-            146,
-            181
-          ]
-        },
-        {
-          "claim": "A major bill would remove 18 million people from Medicaid.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            109,
-            110,
-            111
-          ]
-        },
-        {
-          "claim": "The Trump administration’s Iran war, economic policies, and alleged corruption produced the political backlash described.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            104,
-            105,
-            106,
-            107,
-            108,
-            113,
-            115
-          ]
-        },
-        {
-          "claim": "Individuals connected to the administration engaged in crimes, insider trading, crypto scams, war crimes, or profiteering.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            11,
-            20,
-            22,
-            23,
-            24,
-            25,
-            257,
-            258,
-            259,
-            260,
-            261,
-            262,
-            269,
-            270
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames the All-In discussion as evidence that Republican media allies and podcast personalities have become politically unreliable.",
-          "evidence_segment_indices": [
-            27,
-            28,
-            33,
-            35,
-            40,
-            41,
-            75,
-            91
-          ],
-          "start_seconds": 52.96,
-          "end_seconds": 171.84
-        },
-        {
-          "point": "The quoted speakers attribute electoral shifts to economic distress and argue that wealthy asset owners have fared better than wage earners.",
-          "evidence_segment_indices": [
-            119,
-            124,
-            128,
-            141,
-            151,
-            157,
-            169,
-            171,
-            173,
-            181,
-            183
-          ],
-          "start_seconds": 220.319,
-          "end_seconds": 355.44
-        },
-        {
-          "point": "Kulinski interprets wealthy figures’ progressive-sounding rhetoric as a possible effort to adapt to changing political power.",
-          "evidence_segment_indices": [
-            185,
-            193,
-            194,
-            195,
-            196,
-            197,
-            198,
-            207,
-            214,
-            224,
-            225
-          ],
-          "start_seconds": 355.44,
-          "end_seconds": 430.479
-        },
-        {
-          "point": "He condemns a proposal for broad pardons as abandoning rule of law and accountability.",
-          "evidence_segment_indices": [
-            235,
-            242,
-            246,
-            247,
-            252,
-            253,
-            272,
-            274,
-            275,
-            276
-          ],
-          "start_seconds": 445.12,
-          "end_seconds": 523.68
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "c854fef50bc8a28a883f84ff2b35871ace64b3a4de9c908a04b76efa34f5a894",
-      "transcript_captured_at": "2026-11-10T09:10:17.784856Z",
-      "summary_generated_at": "2026-11-10T09:38:24.022164Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is partisan commentary and does not independently verify its political, economic, legal, or electoral assertions.",
-        "Several captions contain transcription defects, including unclear names and phrases.",
-        "The excerpted discussion provides limited context for the election, policies, alleged conduct, and identities referenced.",
-        "Some claims are rhetorical characterizations rather than precise, testable descriptions.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "nwsSy-wyejU",
-      "title": "'WE ARE PARALYZED' — Trump is GONE as White House Faces Republican WRATH, it is BAD!!",
-      "url": "https://www.youtube.com/watch?v=nwsSy-wyejU",
-      "published_at": "2026-11-10T00:12:43.000000Z",
-      "summary": "Aaron Parnas presents the episode as a post-election account of Republican turmoil, arguing that the White House and congressional leadership are struggling to respond to Democratic gains. He highlights Speaker Mike Johnson’s reported remark that voters made the “wrong choice,” while describing an impeachment effort against Defense Secretary Pete Hegseth over eight allegations, including unauthorized war-making and extrajudicial killings. Parnas also says some Republicans may support removing Hegseth, though the segment attributes that possibility to reported comments and predictions rather than verified outcomes. The episode forecasts further Democratic gains through possible congressional redistricting in several states. A lengthy interview with journalist Rachel Janfaza interprets young voters as economically frustrated and politically fluid, citing reported shifts toward Democrats and emphasizing that available exit polling does not explain nonvoters. Janfaza argues Democrats need concrete results, local achievements, and newer leaders rather than relying mainly on opposition to Trump. The transcript contains numerous apparent caption and name errors, limiting confidence in precise details.",
-      "topics": [
-        "Post-election Republican divisions",
-        "Hegseth impeachment effort",
-        "Congressional redistricting",
-        "Young voter behavior",
-        "Democratic strategy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Democrats are projected to hold more than 250 House seats after the election.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            53,
-            54
-          ]
-        },
-        {
-          "claim": "The House impeachment resolution against Defense Secretary Pete Hegseth contains eight articles and alleges unlawful war-making and extrajudicial killings.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            57,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67
-          ]
-        },
-        {
-          "claim": "Maryland, Mississippi, New York, and Wisconsin are considering congressional map redraws before 2028.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            123,
-            124,
-            125,
-            126,
-            127,
-            128
-          ]
-        },
-        {
-          "claim": "Exit-poll reporting indicates a 40-point shift among young men toward Democrats compared with 2024.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            243,
-            244,
-            245,
-            246,
-            247,
-            248,
-            257,
-            258,
-            259,
-            260,
-            261,
-            262,
-            263,
-            264,
-            265,
-            266,
-            267,
-            268
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode frames Republican leadership as divided after reported Democratic gains.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            11,
-            12,
-            13,
-            14,
-            15
-          ],
-          "start_seconds": 0.16,
-          "end_seconds": 33.6
-        },
-        {
-          "point": "Johnson’s quoted remarks and the Hegseth impeachment proceedings are presented as signs of internal conflict.",
-          "evidence_segment_indices": [
-            26,
-            28,
-            29,
-            30,
-            38,
-            42,
-            43,
-            57,
-            59,
-            60,
-            61,
-            62,
-            63
-          ],
-          "start_seconds": 51.84,
-          "end_seconds": 126.719
-        },
-        {
-          "point": "The discussion links possible future Democratic gains to redistricting efforts and changing House margins.",
-          "evidence_segment_indices": [
-            16,
-            17,
-            18,
-            19,
-            20,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            131,
-            134,
-            135
-          ],
-          "start_seconds": 31.199,
-          "end_seconds": 282.24
-        },
-        {
-          "point": "Janfaza says young voters are motivated by costs, conflict, and demands for tangible results, while acknowledging incomplete turnout data.",
-          "evidence_segment_indices": [
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189,
-            200,
-            201,
-            202,
-            211,
-            212,
-            213,
-            243,
-            244,
-            247,
-            248,
-            264,
-            265,
-            266,
-            267,
-            268
-          ],
-          "start_seconds": 375.12,
-          "end_seconds": 576.32
-        },
-        {
-          "point": "The interview argues Democrats should develop forward-looking messages and newer messengers for younger voters.",
-          "evidence_segment_indices": [
-            290,
-            291,
-            292,
-            293,
-            297,
-            298,
-            311,
-            312,
-            313,
-            363,
-            364,
-            383,
-            384,
-            385,
-            386,
-            387,
-            400,
-            401,
-            402,
-            410,
-            411,
-            412,
-            413
-          ],
-          "start_seconds": 626.88,
-          "end_seconds": 898.56
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "93ef113001ef46aa20b2667f555ddd364e9179a6105b7df81e4ce0a8277eddc0",
-      "transcript_captured_at": "2026-11-10T05:03:48.077356Z",
-      "summary_generated_at": "2026-11-10T05:08:26.865012Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is source-only and does not provide independent documentation for election totals, impeachment allegations, or redistricting plans.",
-        "Several names and terms appear mistranscribed, including references to Hegseth and other public figures.",
-        "Predictions about future seat gains, impeachment outcomes, and voter behavior are presented as commentary or reported expectations.",
-        "The interview notes that exit polling covers voters who participated and cannot establish why others did not vote.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "9wLpzHHXiu4",
-      "title": "Zohran COOKS Fox News Host Without Breaking A Sweat | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=9wLpzHHXiu4",
-      "published_at": "2026-11-10T00:00:03.000000Z",
-      "summary": "The creator argues that Zohran Mamdani’s Fox News interview effectively challenged attempts to portray Democratic Socialists of America policies as broadly unpopular. The interview covered Mamdani’s support for more humane immigration enforcement, his rejection of abolishing borders, the Supreme Court, or jails, and his view that internal disagreement is compatible with DSA membership. Mamdani framed affordability and working-class dignity as central political concerns, while defending an approach focused on delivering concrete results and working with officials across ideological divides. He cited progress on childcare, housing, labor enforcement, and negotiations involving the federal government. The creator interprets these remarks as evidence that economic-populist policies can appeal beyond the left and criticizes the interviewer for emphasizing unmet promises. The episode also presents the creator’s predictions that Mamdani’s popularity and endorsements could become influential in future Democratic politics. Because the source is a partisan commentary segment with imperfect automated captions, its descriptions of polling, policy outcomes, and public reaction require independent verification.",
-      "topics": [
-        "Mamdani Fox News interview",
-        "Democratic Socialists of America",
-        "Affordability and working-class politics",
-        "New York City governance"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Mamdani has a high approval rating and is among the most popular elected politicians in the country.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            47,
-            48,
-            49,
-            304,
-            305,
-            306
-          ]
-        },
-        {
-          "claim": "Mamdani’s administration delivered or advanced childcare, housing, labor-enforcement, rent, pothole, and public-safety initiatives described in the episode.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            327,
-            328,
-            335,
-            336,
-            337,
-            344,
-            345,
-            346,
-            347,
-            357,
-            358,
-            359,
-            360,
-            361,
-            436,
-            437,
-            438,
-            439,
-            440
-          ]
-        },
-        {
-          "claim": "Mamdani’s conversations with the president helped free a New Yorker from ICE detention, secure a visa, and advance housing development.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            388,
-            389,
-            400,
-            401,
-            402,
-            403,
-            404,
-            405,
-            406,
-            407,
-            408,
-            409
-          ]
-        },
-        {
-          "claim": "Election results demonstrated broad support for affordability-focused candidates across multiple jurisdictions.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            86,
-            87,
-            88,
-            89,
-            94,
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator praises Mamdani’s response to questions about DSA positions and highlights his rejection of several platform proposals.",
-          "evidence_segment_indices": [
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            145,
-            146,
-            147,
-            148,
-            149,
-            150
-          ],
-          "start_seconds": 88.24,
-          "end_seconds": 246.08
-        },
-        {
-          "point": "Mamdani presents working-class dignity, democratic participation, and affordability as organizing principles.",
-          "evidence_segment_indices": [
-            208,
-            209,
-            210,
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            271,
-            272,
-            273,
-            274,
-            275,
-            276,
-            277,
-            278
-          ],
-          "start_seconds": 347.199,
-          "end_seconds": 451.759
-        },
-        {
-          "point": "Mamdani says governing requires pursuing promises while cooperating with people who hold power, including the president.",
-          "evidence_segment_indices": [
-            321,
-            322,
-            323,
-            325,
-            326,
-            327,
-            388,
-            389,
-            390,
-            391,
-            392,
-            393,
-            394,
-            395,
-            396,
-            397,
-            398,
-            399,
-            410,
-            411,
-            412,
-            413
-          ],
-          "start_seconds": 517.839,
-          "end_seconds": 662.24
-        },
-        {
-          "point": "The creator predicts Mamdani could become an important endorser in future Democratic presidential politics.",
-          "evidence_segment_indices": [
-            441,
-            442,
-            443,
-            444,
-            445,
-            446,
-            447,
-            448,
-            449,
-            450,
-            451,
-            452,
-            453,
-            457,
-            458
-          ],
-          "start_seconds": 707.44,
-          "end_seconds": 746.639
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "040cacf84898a862a3fdff4ce3133de6ffaf4291d3cd462a7db409d27c661202",
-      "transcript_captured_at": "2026-11-10T02:03:21.755188Z",
-      "summary_generated_at": "2026-11-10T02:08:48.617714Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Automated captions contain names, organizations, and policy terms that may be mistranscribed.",
-        "The episode mixes an embedded interview with the creator’s partisan commentary, so attribution should be kept distinct.",
-        "Claims about approval ratings, election interpretation, policy delivery, crime, and public reaction are source-only and not independently established here.",
-        "Some references to dates, offices, and future elections are ambiguous or appear caption-defective.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "lIJCnuB5l3s",
-      "title": "Schumer & Jeffries RATF*CK Dems ALREADY!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=lIJCnuB5l3s",
-      "published_at": "2026-11-09T23:35:31.000000Z",
-      "summary": "Kyle Kulinski argues that Democratic leaders Chuck Schumer and Hakeem Jeffries are preparing to prioritize centrism, donor relationships, and bipartisan cooperation over the policies he believes Democratic voters supported. He cites reported opposition to Jeffries, Schumer’s alleged ties to private-equity lobbying, and Jeffries’s stated agenda of oversight, reversing benefit cuts, lowering prices, and extending health-care subsidies. Kulinski criticizes the agenda as largely restorative rather than transformative, emphasizing its omissions on Israel, immigration enforcement, universal health care, and campaign finance. He also contends that a large House majority could reduce progressives’ leverage and predicts that insufficiently ambitious governance could enable a future Republican or MAGA resurgence. The episode disputes media narratives crediting moderates for Democratic gains, defends progressive candidates, and attacks arguments against Medicare for All, citing polling and a study presented as evidence of public support and potential benefits. The transcript is an opinionated commentary combining quoted reporting, political predictions, and unverified allegations.",
-      "topics": [
-        "Democratic leadership",
-        "Progressive policy",
-        "Campaign finance",
-        "Israel and foreign policy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Kulinski cites reporting that Schumer’s former aides lobby for private-equity firms including Blackstone and Apollo.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29
-          ]
-        },
-        {
-          "claim": "The episode states that Jeffries received substantial pro-Israel and corporate-linked campaign support, including $1.7 million from an Israel-related lobby and money connected to Palantir.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            243,
-            244
-          ]
-        },
-        {
-          "claim": "Kulinski cites polling suggesting majority support for Medicare for All and a study estimating that universal coverage could save about 114,000 lives annually.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            652,
-            653,
-            654,
-            655,
-            656,
-            657,
-            658,
-            659,
-            660,
-            747,
-            748,
-            749,
-            750,
-            751
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski presents Schumer and Jeffries as likely Democratic leaders despite reported activist opposition.",
-          "evidence_segment_indices": [
-            18,
-            19,
-            20,
-            21,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            60,
-            61,
-            62,
-            63
-          ],
-          "start_seconds": 41.04,
-          "end_seconds": 132.64
-        },
-        {
-          "point": "He says Jeffries’s proposed agenda includes oversight, reversing Medicaid and SNAP cuts, lowering prices, and extending ACA credits.",
-          "evidence_segment_indices": [
-            185,
-            186,
-            187,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193
-          ],
-          "start_seconds": 391.36,
-          "end_seconds": 410.08
-        },
-        {
-          "point": "He argues the agenda omits major progressive priorities, especially universal health care and changes to Israel policy.",
-          "evidence_segment_indices": [
-            205,
-            206,
-            207,
-            208,
-            209,
-            210,
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217,
-            218
-          ],
-          "start_seconds": 430.479,
-          "end_seconds": 456.96
-        },
-        {
-          "point": "He warns that moderate Democratic leadership could squander electoral gains and enable a future right-wing resurgence.",
-          "evidence_segment_indices": [
-            167,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184
-          ],
-          "start_seconds": 349.28,
-          "end_seconds": 393.52
-        },
-        {
-          "point": "The episode rejects narratives that the election chiefly validated moderate Democrats and defends progressive candidates and policies.",
-          "evidence_segment_indices": [
-            444,
-            445,
-            446,
-            447,
-            448,
-            449,
-            450,
-            451,
-            452,
-            453,
-            454,
-            455,
-            456,
-            457,
-            458,
-            459,
-            460,
-            461,
-            921,
-            922,
-            923,
-            924,
-            925,
-            926
-          ],
-          "start_seconds": 916.88,
-          "end_seconds": 1896.799
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "666d8c2655a9ce6be21ce41b76a38ee01c9794f53662da1a74412aaa3f393e46",
-      "transcript_captured_at": "2026-11-10T02:03:14.921941Z",
-      "summary_generated_at": "2026-11-10T02:08:25.870747Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains substantial automatic-caption defects, including distorted names, organizations, and phrases.",
-        "Many factual assertions are presented through Kulinski’s commentary or quoted secondary reports and are not independently established by this source.",
-        "The episode’s election context, polling, donor figures, and references to current events are source-only claims requiring external verification.",
-        "Some quoted speakers and excerpts are difficult to distinguish because speaker labels and transitions are inconsistent.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
