@@ -1,11 +1,142 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-12T21:42:01.209317Z",
+  "generated_at": "2026-11-12T22:12:01.181546Z",
   "reporting_window": {
-    "start": "2026-11-05T21:42:01.209317Z",
-    "end": "2026-11-12T21:42:01.209317Z"
+    "start": "2026-11-05T22:12:01.181546Z",
+    "end": "2026-11-12T22:12:01.181546Z"
   },
   "episodes": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "ZIVGbCrVl94",
+      "title": "Nvidia Is Imploding Right Now...",
+      "url": "https://www.youtube.com/watch?v=ZIVGbCrVl94",
+      "published_at": "2026-11-12T21:39:48.000000Z",
+      "summary": "The creator presents Nvidia’s alleged leadership crisis as a potentially wider business and AI-market disruption. He discusses unverified claims that CEO Jensen Huang had multiple affairs, including an alleged relationship with Nvidia executive Kimberly Powell, and says the board was preparing to remove him. He further asserts that Huang resigned and that CFO Colette Kress became interim CEO, while offering no independent documentation in the source. The episode links Nvidia’s importance to its GPUs’ role in data centers and AI infrastructure, then argues that financing and purchasing relationships among Nvidia, OpenAI, Oracle, and CoreWeave create circular exposure. The creator also raises allegations involving Chinese intelligence, export-control violations, Mega Speed, and possible chip diversion, while acknowledging that these claims require confirmation. He speculates that Nvidia’s decline could affect technology companies, investors, and the broader economy, but says the company’s engineering workforce could continue developing products without Huang. The transcript is commentary and includes substantial speculation.",
+      "topics": [
+        "Nvidia leadership",
+        "AI infrastructure and markets",
+        "Corporate allegations",
+        "Export controls and chip diversion"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The creator alleges that Jensen Huang had multiple affairs, including with Nvidia executive Kimberly Powell, and that these events contributed to a leadership change.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            13,
+            39,
+            43,
+            45,
+            81,
+            88
+          ]
+        },
+        {
+          "claim": "The creator states that Huang resigned or was removed and that CFO Colette Kress became interim CEO.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            87,
+            89,
+            91,
+            92,
+            95
+          ]
+        },
+        {
+          "claim": "The creator alleges that Nvidia-related entities and individuals were connected to Chinese intelligence, export-control concerns, and possible diversion of Nvidia chips to China.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            481,
+            494,
+            508,
+            518,
+            527,
+            540,
+            542,
+            548
+          ]
+        },
+        {
+          "claim": "The creator says Nvidia lost approximately one trillion dollars in market capitalization after the scandal.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            195,
+            197,
+            201
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode frames Nvidia as central to AI data centers because its GPUs support large-scale parallel computation and AI workloads.",
+          "evidence_segment_indices": [
+            146,
+            150,
+            153,
+            160,
+            171,
+            181
+          ],
+          "start_seconds": 331.36,
+          "end_seconds": 422.96
+        },
+        {
+          "point": "The creator explains Nvidia’s proposed financial relationships with OpenAI, Oracle, and CoreWeave as interconnected flows of funding, hardware purchases, and debt.",
+          "evidence_segment_indices": [
+            208,
+            217,
+            225,
+            230,
+            237,
+            244
+          ],
+          "start_seconds": 484.4,
+          "end_seconds": 575.279
+        },
+        {
+          "point": "The creator argues that Nvidia could remain operational without Huang because its engineers and infrastructure would continue supporting GPUs and data centers.",
+          "evidence_segment_indices": [
+            283,
+            287,
+            289,
+            293,
+            295
+          ],
+          "start_seconds": 659.76,
+          "end_seconds": 691.36
+        },
+        {
+          "point": "The creator speculates that Nvidia’s problems could affect investors, technology companies, and the wider economy.",
+          "evidence_segment_indices": [
+            131,
+            247,
+            300,
+            306,
+            308
+          ],
+          "start_seconds": 300.08,
+          "end_seconds": 723.44
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "a60ba71109f1fc25c20375e20e69e6b9369778ae010e36e2732120951e56af17",
+      "transcript_captured_at": "2026-11-12T22:03:14.146306Z",
+      "summary_generated_at": "2026-11-12T22:08:24.647245Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a single creator’s commentary and does not provide independently verified documentation for its allegations.",
+        "Captions contain transcription errors, including inconsistent names and company references.",
+        "Several financial, legal, intelligence, and market-impact claims are presented as speculation or alleged reporting.",
+        "The source does not establish the timing, status, or outcome of any reported investigation or leadership transition.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5211,257 +5342,6 @@
         "Voting-record, polling, corruption, and endorsement-influence claims are presented through commentary or quoted discussion and require independent verification.",
         "The source is a single opinion episode and does not establish broader 2028 voter preferences.",
         "The testosterone-replacement speculation is explicitly framed by the creator as speculation without evidence presented in the transcript.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "uCAjQT3fZDM",
-      "title": "Nvidia Is In Very Serious Trouble...",
-      "url": "https://www.youtube.com/watch?v=uCAjQT3fZDM",
-      "published_at": "2026-11-10T23:32:12.000000Z",
-      "summary": "Mutahar argues that Nvidia faces a potentially serious controversy extending beyond an alleged affair involving CEO Jensen Huang. He connects the allegation to claims that Alice Wong, described as an executive associated with Singapore-based Megape or Mega Speed, may be linked to companies involved in diverting Nvidia hardware to China. The episode cites reported investigations, export restrictions, trade records, corporate filings, and research from Culper Research, while discussing Nvidia’s alleged relationship with the company and possible shipments of advanced chips. Mutahar presents figures including thousands of GB300 chips and billions of dollars in transactions, and suggests that Nvidia employees or executives may have known more than publicly acknowledged. He frames possible GPU diversion as a national-security concern because advanced computing hardware could support Chinese AI and military capabilities. He also speculates that Nvidia’s economic importance could affect how authorities respond. The account is commentary based on cited reports and allegations; it does not establish that the affair, smuggling, intelligence involvement, or corporate misconduct occurred.",
-      "topics": [
-        "Nvidia controversy",
-        "GPU export controls",
-        "China-linked allegations",
-        "Corporate investigations"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Megape or Mega Speed was connected to alleged diversion of Nvidia hardware to China through intermediaries or shell companies.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            111,
-            112,
-            113,
-            114,
-            115,
-            163,
-            164,
-            165,
-            166,
-            167,
-            272,
-            273,
-            274,
-            275
-          ]
-        },
-        {
-          "claim": "Nvidia representatives allegedly intervened in or influenced inquiries involving Mega Speed and US export-control authorities.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            314,
-            315,
-            316,
-            317,
-            318,
-            319,
-            320,
-            321,
-            322,
-            323,
-            324,
-            325,
-            326,
-            327,
-            328,
-            334,
-            335,
-            336,
-            337,
-            338
-          ]
-        },
-        {
-          "claim": "Trade records allegedly showed Mega Speed importing 17,544 Nvidia GB300 chips valued at about $787 million after reported restrictions.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            334,
-            335,
-            336,
-            337,
-            338,
-            339,
-            340,
-            341,
-            342,
-            343,
-            344,
-            345,
-            346
-          ]
-        },
-        {
-          "claim": "Culper Research reportedly linked Speed Matrix and related entities to billions of dollars in Nvidia-powered server purchases and possible hardware diversion.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            375,
-            376,
-            377,
-            378,
-            379,
-            380,
-            381,
-            382,
-            383,
-            384,
-            385,
-            386,
-            387,
-            388,
-            389,
-            454,
-            455,
-            456,
-            457,
-            458,
-            459,
-            460,
-            461,
-            462
-          ]
-        },
-        {
-          "claim": "The episode claims Nvidia’s stock value fell by more than $350 billion because of the controversy.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            228,
-            229,
-            230,
-            231,
-            232,
-            233,
-            234,
-            235
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator treats the alleged affair as significant mainly because of its claimed links to export-control and national-security concerns.",
-          "evidence_segment_indices": [
-            78,
-            79,
-            80,
-            81,
-            85,
-            86,
-            87,
-            88,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121
-          ],
-          "start_seconds": 175.12,
-          "end_seconds": 274.0
-        },
-        {
-          "point": "The episode discusses US restrictions intended to prevent advanced Nvidia hardware from reaching China.",
-          "evidence_segment_indices": [
-            259,
-            260,
-            261,
-            262,
-            263,
-            264,
-            265,
-            266,
-            267,
-            268,
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177
-          ],
-          "start_seconds": 377.759,
-          "end_seconds": 610.48
-        },
-        {
-          "point": "Reported corporate, trade, and financial records are presented as suggesting unusually large transactions involving Mega Speed and related entities.",
-          "evidence_segment_indices": [
-            341,
-            342,
-            343,
-            344,
-            345,
-            426,
-            427,
-            428,
-            429,
-            430,
-            431,
-            432,
-            433,
-            434,
-            435,
-            436,
-            437,
-            438,
-            439,
-            440,
-            441,
-            442
-          ],
-          "start_seconds": 773.36,
-          "end_seconds": 1000.399
-        },
-        {
-          "point": "The creator repeatedly emphasizes that the central claims remain allegations and that further investigations may clarify the situation.",
-          "evidence_segment_indices": [
-            203,
-            204,
-            205,
-            329,
-            330,
-            331,
-            332,
-            368,
-            369,
-            370,
-            410,
-            411,
-            412,
-            413,
-            529,
-            530,
-            531,
-            532,
-            569,
-            570,
-            571,
-            572
-          ],
-          "start_seconds": 459.52,
-          "end_seconds": 1303.12
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "8adb4c5b615e050ee177c3cba91c0465c53c450b510e734dfdb23613f54d8cd8",
-      "transcript_captured_at": "2026-11-11T00:33:14.845459Z",
-      "summary_generated_at": "2026-11-11T00:38:28.410016Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains substantial automatic-caption errors, including inconsistent names such as Jensen Wong, Jensen Huang, Alice Wong, Alice Hong, Megape, and Mega Speed.",
-        "The source presents reports, research, screenshots, and interpretations without providing independently inspectable documents in the transcript.",
-        "Relationships among Nvidia, the named companies, alleged export diversions, and intelligence activity are described as possible or alleged rather than established.",
-        "The episode’s stock-market and transaction figures are source-reported claims requiring independent verification.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
