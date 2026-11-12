@@ -1,11 +1,456 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-12T00:42:01.163362Z",
+  "generated_at": "2026-11-12T01:42:01.148926Z",
   "reporting_window": {
-    "start": "2026-11-05T00:42:01.163362Z",
-    "end": "2026-11-12T00:42:01.163362Z"
+    "start": "2026-11-05T01:42:01.148926Z",
+    "end": "2026-11-12T01:42:01.148926Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "_yrRS7MnSeE",
+      "title": "JD Vance Is A Pathetic Little B*tch | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=_yrRS7MnSeE",
+      "published_at": "2026-11-12T00:30:37.000000Z",
+      "summary": "The creator argues that JD Vance is trying to distance himself from the administration’s Iran policy while remaining politically aligned with it. He says Vance’s explanation for the midterm result—centered on the Iran war and resulting price shocks—overlooks corruption and other issues that, according to the creator, voters considered more important. The episode then focuses on Vance’s defense of Pete Hegseth, which the creator portrays as inconsistent with an anti-war image and as dismissive of impeachment allegations. The creator also criticizes Hegseth’s reported military personnel changes and argues that Vance is balancing criticism of the administration with loyalty to its leadership and far-right supporters. Much of the presentation is highly adversarial, relying on insults, speculation about political motives, and serious allegations about wars, corruption, discrimination, and legal violations. The transcript provides no corroborating documents or independent accounts, so those claims require verification beyond this commentary.",
+      "topics": [
+        "JD Vance’s political positioning",
+        "Iran war and election analysis",
+        "Pete Hegseth and impeachment",
+        "Corruption and military policy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The creator says exit-poll data identified corruption as the top issue among voters.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim": "The creator alleges that Trump’s administration engaged in corruption, unlawful warfare, war crimes, and violations of the War Powers Act.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            21,
+            22,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            140,
+            141,
+            142,
+            143
+          ]
+        },
+        {
+          "claim": "The creator alleges that Pete Hegseth changed military promotion practices in a discriminatory or politically motivated way.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204
+          ]
+        },
+        {
+          "claim": "The creator predicts that Democrats will impeach Hegseth again after gaining control of the House.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173
+          ]
+        },
+        {
+          "claim": "The creator speculates that Vance is moderating or shifting positions to preserve support among far-right voters and prepare for a future presidential campaign.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            280,
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290,
+            291,
+            292,
+            293,
+            294
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator disputes Vance’s claim that the Iran war was the central explanation for the election result.",
+          "evidence_segment_indices": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            32,
+            33,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+          ],
+          "start_seconds": 13.759,
+          "end_seconds": 93.92
+        },
+        {
+          "point": "The episode portrays Vance’s defense of Hegseth as contradicting his supposed anti-war positioning.",
+          "evidence_segment_indices": [
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77
+          ],
+          "start_seconds": 93.92,
+          "end_seconds": 146.72
+        },
+        {
+          "point": "The creator argues that impeachment concerns include alleged war-related conduct and military leadership decisions, not merely policy disagreement.",
+          "evidence_segment_indices": [
+            92,
+            93,
+            94,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162
+          ],
+          "start_seconds": 178.8,
+          "end_seconds": 326.56
+        },
+        {
+          "point": "The commentary concludes that Vance is attempting to maintain both distance from and loyalty to the administration.",
+          "evidence_segment_indices": [
+            278,
+            279,
+            280,
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290,
+            291,
+            292,
+            293,
+            294,
+            295,
+            296,
+            297,
+            298,
+            299
+          ],
+          "start_seconds": 541.36,
+          "end_seconds": 584.8
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "55f684fc21bd3900d325f1294ae30123c623a40e22fa3f74503dcfabff8e2292",
+      "transcript_captured_at": "2026-11-12T01:33:30.061279Z",
+      "summary_generated_at": "2026-11-12T01:39:09.155191Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a single highly opinionated commentary transcript, not an independent report.",
+        "Automatic captions contain profanity redactions, apparent name errors, and other transcription defects.",
+        "Several allegations and predictions are presented without supporting documents or corroborating sources in the transcript.",
+        "The transcript’s references to elections, wars, officials, and legal proceedings are not independently established here.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "x22Px1BT0bY",
+      "title": "CNN DEMANDS Anti-War Dem Support More War | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=x22Px1BT0bY",
+      "published_at": "2026-11-12T00:00:25.000000Z",
+      "summary": "Kyle Kulinski argues that anti-war Democrats are gaining attention and uses Adam Hamawi’s CNN interview as an example. In the exchange, the interviewer repeatedly asks whether Iran is an adversary, while Hamawi says the United States has helped push Iran toward conflict and should use diplomacy, economic leverage, and negotiations. Kulinski praises Hamawi’s responses and criticizes the questioning as reducing a complex conflict to an enemy-or-ally framework. He further alleges that the United States and Israel attacked Iran first, that Iranian civilians were killed, and that Iran has not killed American civilians in four decades. Kulinski presents the Obama-era nuclear agreement as a successful diplomatic model, while blaming Donald Trump for abandoning it and escalating tensions. He concludes by urging incoming Democrats, including Richard Oetta, to intensify their opposition to war. The episode is an opinionated commentary built around a short interview excerpt; the transcript alone cannot establish the broader factual claims or identify the interviewer.",
+      "topics": [
+        "U.S.–Iran relations",
+        "Anti-war Democrats",
+        "Diplomacy and nuclear agreement",
+        "Media framing",
+        "Congressional politics"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Kulinski alleges that the United States and Israel attacked Iran first and that Iranian civilians were killed in the described conflict.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            114,
+            116,
+            117,
+            118,
+            128,
+            129
+          ]
+        },
+        {
+          "claim": "Kulinski states that Iran has killed zero American civilians over the previous 40 years.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            103,
+            104,
+            193,
+            194,
+            195,
+            196,
+            197
+          ]
+        },
+        {
+          "claim": "Kulinski characterizes the Obama-era Iran nuclear agreement as effective and says inspectors repeatedly verified Iranian compliance.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            243,
+            244,
+            246,
+            247,
+            248,
+            249,
+            252,
+            253,
+            254,
+            255
+          ]
+        },
+        {
+          "claim": "Kulinski alleges that Trump abandoned the agreement and subsequently initiated an illegal war against Iran.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski presents Hamawi as an anti-war Democratic congressman advocating diplomacy and economic leverage over military escalation.",
+          "evidence_segment_indices": [
+            23,
+            24,
+            25,
+            30,
+            31,
+            68,
+            69,
+            70,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77
+          ],
+          "start_seconds": 40.16,
+          "end_seconds": 154.64
+        },
+        {
+          "point": "The CNN exchange centers on whether Iran should be treated as an adversary and contrasts threat-based framing with diplomacy.",
+          "evidence_segment_indices": [
+            48,
+            49,
+            53,
+            54,
+            56,
+            58,
+            59,
+            60,
+            61,
+            62,
+            66,
+            67
+          ],
+          "start_seconds": 99.28,
+          "end_seconds": 132.56
+        },
+        {
+          "point": "Kulinski accuses the interviewer and CNN of hostile, biased, or xenophobic framing, while praising Hamawi’s handling of the interview.",
+          "evidence_segment_indices": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            78,
+            82,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93
+          ],
+          "start_seconds": 68.08,
+          "end_seconds": 184.879
+        },
+        {
+          "point": "He urges incoming Democrats to become more explicit and forceful in opposing war, highlighting Richard Oetta as a model.",
+          "evidence_segment_indices": [
+            286,
+            287,
+            288,
+            289,
+            290,
+            291,
+            292,
+            293
+          ],
+          "start_seconds": 544.72,
+          "end_seconds": 562.72
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "d98b1e31007e17e8f8a6ea397404fb23db9117a43a4f34e1eb2f4a5af58643a4",
+      "transcript_captured_at": "2026-11-12T01:33:23.263391Z",
+      "summary_generated_at": "2026-11-12T01:38:45.512931Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is commentary plus a partial interview excerpt, not a full episode or complete source record.",
+        "Several captions contain profanity redactions, transcription errors, overlap, and fragmented phrasing.",
+        "The interviewer’s identity and the surrounding CNN context are not established in the supplied segments.",
+        "Broader allegations about military actions, civilian deaths, treaty compliance, and media conduct require independent verification.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
@@ -151,6 +596,231 @@
         "Many technical details, prices, release expectations, and statements attributed to Rockstar are presented only through the creator’s commentary and are not independently verified here.",
         "The referenced video clips and screenshots are unavailable in the transcript, limiting direct assessment of the visual evidence.",
         "Some hardware and performance explanations are framed as Mutahar’s interpretation or speculation rather than confirmed measurements.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "wZfxDlFpqzE",
+      "title": "MAGA TRIES TO BAN DEMOCRATIC SOCIALISM | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=wZfxDlFpqzE",
+      "published_at": "2026-11-11T23:30:24.000000Z",
+      "summary": "Kyle Kulinski argues that a Florida attorney general’s subpoena to the Democratic Socialists of America is an attempt to suppress democratic socialism under the guise of investigating foreign contributions, travel funding, and donor transparency. The official statement quoted in the episode says the inquiry concerns alleged support from Cuba and China, delegations, fundraising, and compliance with Florida law; it does not itself establish wrongdoing or a plan to ban the organization. Kulinski broadens the argument, warning that similar efforts could target the Democratic Party and other left-wing causes. He compares the alleged scrutiny with political funding connected to Israel, makes highly inflammatory accusations about Republican donors and figures, and links the episode to his interpretation of NSPM7 and alleged plans for state “enemies” lists. He predicts that investigations and intimidation will intensify as the Trump administration faces political pressure, while suggesting its unpopularity may limit a broader crackdown. The source is a commentary segment centered on one official statement and Kulinski’s interpretations.",
+      "topics": [
+        "Florida subpoena to DSA",
+        "Foreign-funding scrutiny",
+        "Political repression claims",
+        "NSPM7 and state power"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The Florida attorney general issued an investigative subpoena to the Democratic Socialists of America concerning foreign contributions, delegations, travel solicitations, and fundraising compliance.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            17,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            45,
+            49,
+            50,
+            51,
+            52,
+            53,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106
+          ]
+        },
+        {
+          "claim": "Florida law prohibits certain foreign-source contributions and requires organizations to disclose how money is raised and used.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119
+          ]
+        },
+        {
+          "claim": "Kulinski says NSPM7 would support an official state enemies list targeting people viewed as anti-American or extremist.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202
+          ]
+        },
+        {
+          "claim": "Kulinski predicts similar federal-level actions and intimidation of Democrats investigating alleged MAGA corruption.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode focuses on a Florida subpoena directed at DSA.",
+          "evidence_segment_indices": [
+            16,
+            20,
+            21,
+            22,
+            49,
+            50
+          ],
+          "start_seconds": 39.36,
+          "end_seconds": 103.6
+        },
+        {
+          "point": "The quoted official frames the inquiry as a transparency and foreign-influence investigation.",
+          "evidence_segment_indices": [
+            46,
+            47,
+            48,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122
+          ],
+          "start_seconds": 92.799,
+          "end_seconds": 234.239
+        },
+        {
+          "point": "Kulinski interprets the action as an effort to suppress left-wing organizations and speech.",
+          "evidence_segment_indices": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            60,
+            61,
+            62
+          ],
+          "start_seconds": 63.6,
+          "end_seconds": 127.119
+        },
+        {
+          "point": "He predicts escalating political investigations while acknowledging that political weakness could constrain a broader crackdown.",
+          "evidence_segment_indices": [
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278
+          ],
+          "start_seconds": 432.8,
+          "end_seconds": 556.48
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "4c63320d0543472d24a6bf5d65f91d138d919da8ab0b453deb09877beebcb8af",
+      "transcript_captured_at": "2026-11-12T01:33:15.632279Z",
+      "summary_generated_at": "2026-11-12T01:38:25.409622Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a commentary episode, not independent reporting.",
+        "Several names and terms appear mistranscribed or unclear in the captions.",
+        "The official allegations and legal basis are presented without supporting documents or responses from DSA.",
+        "Kulinski’s broader claims, comparisons, and predictions are opinions or allegations requiring separate verification.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -4584,595 +5254,6 @@
         "Several names, terms, and phrases appear mistranscribed, including references to officials and locations.",
         "Predictions about future seat totals, veto overrides, and the 2028 majority are explicitly speculative.",
         "The episode includes a substantial advertisement segment that is not part of the political analysis.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "bJmB_8IyT-E",
-      "title": "'JUST FOLLOWING ORDERS' — Hegseth TURNS on Trump as IMPEACHMENT Arrives, CHAOS Erupts!!",
-      "url": "https://www.youtube.com/watch?v=bJmB_8IyT-E",
-      "published_at": "2026-11-10T15:03:44.000000Z",
-      "summary": "Aaron Parnas reports that Pete Hegseth defended military operations cited in eight proposed impeachment articles as lawful actions ordered by President Donald Trump and then carried out by Hegseth. Parnas says Hegseth criticized the impeachment effort as political and alleged that reporters were threatened with removal if they did not follow unclear standards of professionalism. The episode describes a House process beginning with procedural votes, followed potentially by debate and separate votes on the articles; Parnas presents Senator Ted Cruz as predicting that Hegseth will resign, be fired, or be impeached because the votes may exist. The report also relays allegations from whistleblowers that Interior Department documents related to Trump-associated Washington projects were being destroyed before congressional oversight changes. Parnas connects those allegations to federal records-preservation requirements and says lawmakers are seeking records and possible testimony. The material is a commentary report based on its presenter’s account, predictions, quotations, and allegations; the captions contain repeated transcription errors in names and some unclear wording.",
-      "topics": [
-        "Hegseth impeachment proceedings",
-        "Military operations and presidential orders",
-        "Pentagon press access",
-        "Federal document preservation"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The House began proceedings or voting related to impeaching Hegseth, with a final vote potentially following later procedural steps.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            0,
-            1,
-            122,
-            128,
-            130,
-            134,
-            138,
-            141
-          ]
-        },
-        {
-          "claim": "Reporters were threatened with physical removal from the Pentagon briefing unless they met stated conduct requirements.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            96,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            106,
-            108,
-            110,
-            111
-          ]
-        },
-        {
-          "claim": "Whistleblowers alleged that Interior Department documents concerning Trump-associated Washington construction projects were being destroyed.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            167,
-            168,
-            169,
-            170,
-            171,
-            174,
-            175,
-            176,
-            177
-          ]
-        },
-        {
-          "claim": "Senator Ted Cruz predicted that Hegseth would resign, be fired, or likely be impeached because sufficient House votes existed.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            143,
-            144,
-            145,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153,
-            154
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Hegseth’s stated defense attributed the cited operations to presidential orders and his implementation of them.",
-          "evidence_segment_indices": [
-            30,
-            32,
-            35,
-            36,
-            37,
-            42,
-            43,
-            44,
-            50,
-            51
-          ],
-          "start_seconds": 60.559,
-          "end_seconds": 116.0
-        },
-        {
-          "point": "Parnas portrays the impeachment effort as politically contested, quoting Hegseth’s criticism of Representative Thomas Massie.",
-          "evidence_segment_indices": [
-            81,
-            82,
-            84,
-            85,
-            86,
-            87,
-            88
-          ],
-          "start_seconds": 179.04,
-          "end_seconds": 198.08
-        },
-        {
-          "point": "The described House process could involve a procedural vote followed by debate and separate roll calls on eight articles.",
-          "evidence_segment_indices": [
-            128,
-            130,
-            134,
-            138,
-            139,
-            140,
-            141,
-            142
-          ],
-          "start_seconds": 268.72,
-          "end_seconds": 301.759
-        },
-        {
-          "point": "The report says lawmakers sought preservation and recovery of records while alleging possible document destruction.",
-          "evidence_segment_indices": [
-            172,
-            173,
-            174,
-            175,
-            176,
-            183,
-            184,
-            188,
-            189
-          ],
-          "start_seconds": 362.4,
-          "end_seconds": 410.4
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "2e1d4461a1cfc57e50d0dee982e688fc5447377b8e679db9e099cbb7caf9c71c",
-      "transcript_captured_at": "2026-11-10T16:03:13.793868Z",
-      "summary_generated_at": "2026-11-10T16:08:23.388831Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is a presenter’s commentary and does not independently establish the reported events.",
-        "Captions contain inconsistent misspellings of Hegseth and other names, plus duplicated or garbled phrases.",
-        "The report gives predictions about future votes and outcomes rather than confirmed results.",
-        "The source provides limited context for the underlying impeachment articles, document allegations, and cited legal requirements.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "RwnituEJgJU",
-      "title": "We've Got 10 Days Left...",
-      "url": "https://www.youtube.com/watch?v=RwnituEJgJU",
-      "published_at": "2026-11-10T01:40:14.000000Z",
-      "summary": "The creator argues that the imminent release of Grand Theft Auto 6 is intensifying attention around PlayStation jailbreaking, while cautioning viewers against treating online footage or package files as proof of a working exploit. He describes Sony as frequently updating firmware to counter modders and discusses reported jailbreak capabilities, including Linux, emulation, and game dumping. He also reviews bug-bounty payments and a separate community bounty, then says he may support a larger reward for a PlayStation 5 hypervisor bypass. Much of the episode is an opinionated criticism of Sony’s shift away from physical media, dynamic pricing, and perceived consumer-unfriendly practices. The creator speculates that a functioning exploit could allow GTA 6 files to be transferred to PCs, but emphasizes that possessing files is not equivalent to having the required firmware access or a usable emulator. He predicts that ten days could materially change the situation, while acknowledging that the available evidence does not establish that GTA 6 has been successfully extracted or made playable elsewhere.",
-      "topics": [
-        "PlayStation jailbreaking",
-        "Grand Theft Auto 6",
-        "Digital ownership",
-        "Bug bounties",
-        "Game emulation"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The creator reports that Sony has been issuing frequent firmware updates to counter PlayStation modding and jailbreak efforts.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            42,
-            43,
-            44,
-            45,
-            46
-          ]
-        },
-        {
-          "claim": "The creator reports specific PlayStation bug-bounty payments, including a recent total of about $293,000 and individual awards.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136
-          ]
-        },
-        {
-          "claim": "The creator says GTA 6 package files or preloads have been observed and estimates the game at roughly 210–230 GB.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            284,
-            285,
-            286,
-            287,
-            288,
-            289,
-            290,
-            291,
-            292,
-            293,
-            294,
-            297,
-            298
-          ]
-        },
-        {
-          "claim": "The creator suggests that extracting GTA 6 from a PlayStation would require a jailbreak on the shipping firmware with a hypervisor bypass.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            403,
-            404,
-            405,
-            406,
-            407,
-            408,
-            409,
-            410,
-            415,
-            416,
-            417,
-            418,
-            419,
-            420,
-            421,
-            422,
-            423
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator’s central purpose is to temper expectations and correct what he views as misinformation about alleged current-generation PlayStation hacks.",
-          "evidence_segment_indices": [
-            71,
-            72,
-            73,
-            74,
-            75,
-            80,
-            81,
-            82,
-            83
-          ],
-          "start_seconds": 156.48,
-          "end_seconds": 186.56
-        },
-        {
-          "point": "He argues that leaked-looking files or package listings do not demonstrate that GTA 6 has been dumped, decrypted, or made playable on PC.",
-          "evidence_segment_indices": [
-            284,
-            285,
-            300,
-            301,
-            403,
-            404,
-            407,
-            408,
-            409,
-            410,
-            451,
-            452,
-            453,
-            454,
-            455,
-            456
-          ],
-          "start_seconds": 623.279,
-          "end_seconds": 1007.6
-        },
-        {
-          "point": "He frames the discussion through a strong personal objection to digital-only releases and Sony’s broader business practices.",
-          "evidence_segment_indices": [
-            14,
-            15,
-            16,
-            17,
-            18,
-            24,
-            25,
-            26,
-            27,
-            28,
-            86,
-            87,
-            88,
-            89,
-            90
-          ],
-          "start_seconds": 32.079,
-          "end_seconds": 204.56
-        },
-        {
-          "point": "He says he may support a community bounty for a PlayStation 5 hypervisor exploit, but presents that contribution as undecided.",
-          "evidence_segment_indices": [
-            142,
-            143,
-            144,
-            145,
-            146,
-            147,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153,
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160,
-            161,
-            165,
-            166,
-            167,
-            168
-          ],
-          "start_seconds": 320.96,
-          "end_seconds": 386.08
-        },
-        {
-          "point": "The episode closes by emphasizing that the situation could change rapidly before release, without claiming that a successful GTA 6 exploit currently exists.",
-          "evidence_segment_indices": [
-            338,
-            339,
-            340,
-            341,
-            345,
-            346,
-            347,
-            348,
-            461,
-            462,
-            463
-          ],
-          "start_seconds": 741.92,
-          "end_seconds": 1022.24
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "efe5f35a09ff03eca5e54499e90b396ab44c5e3e15528cac730fba53aa2c1512",
-      "transcript_captured_at": "2026-11-10T04:33:43.923820Z",
-      "summary_generated_at": "2026-11-10T04:38:28.369458Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains automatic-caption defects, profanity masking, repetitions, and at least one apparent misrecognition of a name.",
-        "Several technical details, payment figures, package observations, firmware references, and emulator claims are presented as reports or estimates and are not independently established by this source.",
-        "The source reflects the creator’s interpretation and advocacy, particularly regarding Sony, piracy, and consumer practices; those opinions should not be treated as neutral findings.",
-        "The transcript alone does not establish whether GTA 6 files were successfully extracted, decrypted, distributed, or made playable on PC.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mike Figueredo — The Humanist Report",
-      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
-      "video_id": "dyUIDTJAkOo",
-      "title": "Movement to Replace Schumer and Jeffries Gains Serious Momentum",
-      "url": "https://www.youtube.com/watch?v=dyUIDTJAkOo",
-      "published_at": "2026-11-10T01:36:00.000000Z",
-      "summary": "The creator argues that efforts to replace House and Senate Democratic leaders Hakeem Jeffries and Chuck Schumer have gained momentum, while cautioning that both challenges remain uncertain. He cites a petition exceeding one million signatures, reported constituent calls, and newly elected DSA-affiliated lawmakers who have not committed to Jeffries. The episode describes possible concessions, committee assignments, and the need to assemble enough votes to block him. For Schumer, the creator points to senators and other Democrats calling for new leadership and discusses an emerging effort to draft Chris Van Hollen as an alternative. He presents Van Hollen as a potentially acceptable consensus candidate but acknowledges that Schumer retains enough support and that removing him would be difficult. The creator also attributes criticism of both leaders to alleged corporate or foreign influence and opposition to their positions on Israel. The episode concludes with a call for viewers to contact lawmakers and support leadership changes.",
-      "topics": [
-        "Leadership challenges",
-        "Democratic Party politics",
-        "Congressional factions",
-        "Progressive organizing",
-        "Senate succession"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A petition calling for someone other than Jeffries as speaker surpassed one million signatures and gained mainstream coverage.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            6,
-            8,
-            10,
-            11
-          ]
-        },
-        {
-          "claim": "House Democrats were receiving hundreds of constituent calls daily urging opposition to Jeffries, according to Axios reporting cited by the creator.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            12,
-            13,
-            14,
-            15
-          ]
-        },
-        {
-          "claim": "A movement to draft Chris Van Hollen as Senate majority leader was gaining momentum, according to Politico and anonymous sources cited by the creator.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            167,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180,
-            185,
-            186,
-            187,
-            188
-          ]
-        },
-        {
-          "claim": "A cited poll found that 60% of Democrats and independents preferred a Democratic leader not funded by AIPAC.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            286,
-            287,
-            288,
-            289,
-            290,
-            291,
-            292,
-            293,
-            294
-          ]
-        },
-        {
-          "claim": "The creator alleges that Jeffries and Schumer receive substantial support from corporate, foreign-government, or lobbying interests.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            241,
-            242,
-            243,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator characterizes the effort against Jeffries as serious but still a long shot.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "start_seconds": 4.64,
-          "end_seconds": 17.039
-        },
-        {
-          "point": "Several newly elected DSA-affiliated lawmakers are described as uncommitted or opposed to supporting Jeffries absent policy concessions.",
-          "evidence_segment_indices": [
-            17,
-            18,
-            19,
-            20,
-            21,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39
-          ],
-          "start_seconds": 36.8,
-          "end_seconds": 83.6
-        },
-        {
-          "point": "The creator says Schumer technically has sufficient support but could face danger if six more senators change position.",
-          "evidence_segment_indices": [
-            149,
-            150,
-            151,
-            152,
-            153,
-            154,
-            155
-          ],
-          "start_seconds": 298.08,
-          "end_seconds": 313.68
-        },
-        {
-          "point": "The episode presents Van Hollen as an emerging alternative who has not sought the position but has not ruled it out.",
-          "evidence_segment_indices": [
-            167,
-            168,
-            169,
-            170,
-            177,
-            178,
-            179,
-            180,
-            185,
-            186,
-            187,
-            188
-          ],
-          "start_seconds": 334.479,
-          "end_seconds": 382.319
-        },
-        {
-          "point": "The creator urges viewers to contact their representatives and senators to support leadership changes.",
-          "evidence_segment_indices": [
-            202,
-            203,
-            204,
-            207,
-            208,
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224,
-            472,
-            473,
-            480,
-            481,
-            482,
-            483
-          ],
-          "start_seconds": 407.199,
-          "end_seconds": 1004.16
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "f05ed19b50ce01294a25b12a675230356d1ff98bfc46152d9fc41ee587c6634c",
-      "transcript_captured_at": "2026-11-10T09:03:14.699906Z",
-      "summary_generated_at": "2026-11-10T09:08:25.527029Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview reflects the episode’s claims and cited reports; it does not independently verify petitions, polls, vote counts, or political maneuvering.",
-        "Automatic captions contain substantial transcription errors in names, organizations, and terminology, creating ambiguity around some references.",
-        "The source presents the creator’s interpretations and advocacy alongside attributed reporting; allegations about corruption, influence, and political motives remain source claims.",
-        "The episode does not establish final leadership votes or whether any proposed challenge succeeds.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
