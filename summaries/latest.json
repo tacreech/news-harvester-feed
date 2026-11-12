@@ -1,11 +1,203 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T23:42:01.137226Z",
+  "generated_at": "2026-11-12T00:12:01.138851Z",
   "reporting_window": {
-    "start": "2026-11-04T23:42:01.137226Z",
-    "end": "2026-11-11T23:42:01.137226Z"
+    "start": "2026-11-05T00:12:01.138851Z",
+    "end": "2026-11-12T00:12:01.138851Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "Mvxm0DPaMiY",
+      "title": "Trump PANICS As Top Dem Drops FINAL WARNING!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=Mvxm0DPaMiY",
+      "published_at": "2026-11-11T23:00:19.000000Z",
+      "summary": "Kyle Kulinski argues that progressive Democrats should use upcoming government-funding negotiations to stop financing the Iran war. He praises Chris Van Hollen’s reported “not a penny more” position and presents it as a challenge to Chuck Schumer’s Senate leadership. The episode contrasts Van Hollen’s demand with Patty Murray’s stated view that ending the war would require sustained political pressure rather than an immediate congressional action; Kulinski disputes that assessment, arguing that Congress could end the conflict simply by withholding funding. He criticizes Democrats who might accept a short-term continuing resolution without an Iran-related restriction, portraying that approach as preserving the status quo. Kulinski also cites purported polling showing broad public support for ending the war, including majorities of Republicans, independents, Democrats, and Americans overall. The segment is an opinionated commentary built around quoted remarks and reported claims; it does not independently establish the war’s legality, funding arrangements, polling methodology, or the political positions described.",
+      "topics": [
+        "Iran war funding",
+        "Government shutdown negotiations",
+        "Democratic Senate leadership",
+        "Public opinion polling"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Chris Van Hollen has called for ending the Iran war and refusing additional funding during the government-funding deadline.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            9,
+            13,
+            14,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ]
+        },
+        {
+          "claim": "Patty Murray has indicated that ending the Iran war would require sustained pressure rather than an immediate congressional action, and may support continued funding into 2027.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            138,
+            139,
+            140,
+            141
+          ]
+        },
+        {
+          "claim": "Congress has previously voted against the Iran war multiple times and effectively declared it unconstitutional.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            111,
+            112,
+            113,
+            114
+          ]
+        },
+        {
+          "claim": "Polling cited in the episode reports majority support for ending the Iran war among Americans overall, Republicans, Democrats, and independents.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            189,
+            190
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski endorses Van Hollen as a stronger potential Democratic Senate leader than Schumer.",
+          "evidence_segment_indices": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253
+          ],
+          "start_seconds": 41.2,
+          "end_seconds": 510.0
+        },
+        {
+          "point": "The central policy dispute concerns whether a continuing resolution should exclude funding for the Iran war.",
+          "evidence_segment_indices": [
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "start_seconds": 106.079,
+          "end_seconds": 145.36
+        },
+        {
+          "point": "Murray’s remarks emphasize that political change would take sustained strategy and pressure.",
+          "evidence_segment_indices": [
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99
+          ],
+          "start_seconds": 174.0,
+          "end_seconds": 209.04
+        },
+        {
+          "point": "Kulinski argues that Democrats should accept the leverage and political risks of a possible shutdown.",
+          "evidence_segment_indices": [
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176
+          ],
+          "start_seconds": 328.479,
+          "end_seconds": 356.88
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "a293c9e6ae0d89032d2f845d2cadfff9c23c2c7c1bfb39d3e166bb9baceae1e6",
+      "transcript_captured_at": "2026-11-12T00:03:13.552856Z",
+      "summary_generated_at": "2026-11-12T00:08:26.672147Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains caption errors, garbled names, profanity placeholders, and overlapping segments.",
+        "Several claims are presented through quotations or references to unnamed or incompletely identified reports.",
+        "The episode provides no polling dates, sample sizes, methodology, legislative text, or independent documentation.",
+        "This overview reflects the supplied commentary only and does not verify the underlying events or claims.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5040,233 +5232,6 @@
         "Several factual claims, polling figures, and allegations are presented without citations or supporting documentation.",
         "Automatic captions contain redactions, profanity substitutions, transcription errors, and ambiguous names.",
         "Some predictions and references to future or hypothetical events are speculative within the episode.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "IX-Tu4oxKk8",
-      "title": "ALL HELL BREAKS LOOSE AS Trump Insider TELLS ALL & RESIGNATIONS HIT | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=IX-Tu4oxKk8",
-      "published_at": "2026-11-10T01:00:23.000000Z",
-      "summary": "Kyle Kulinski argues that an internal conflict is emerging within the Trump administration after a reported Republican midterm setback. The episode examines former administration figure Calli Means’s allegations that vaping policy received unusually high priority at HHS, allegedly because of industry influence and electoral strategy. Kulinski accepts parts of Means’s account but criticizes him for portraying Donald Trump and RFK Jr. as well-intentioned officials undermined by subordinates. The discussion also addresses an alleged glyphosate executive order framed as a national-security measure, with Means describing resistance inside the administration and Kulinski questioning RFK Jr.’s subsequent conduct. Means further claims that lobbyists and advisers served vaping, processed-food, pharmaceutical, and pesticide interests while citing the need for campaign money. The episode concludes by linking reported DOJ departures to a broader institutional crisis and predicts escalating blame, investigations, and resignations. These are presented through commentary and excerpts, without independently verified documents or responses from the people accused.",
-      "topics": [
-        "Trump administration infighting",
-        "Vaping policy and lobbying",
-        "Glyphosate policy",
-        "RFK Jr. and HHS",
-        "DOJ resignations"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Calli Means alleges that flavored-vape approval was a top HHS and White House priority, influenced by vaping-industry money and midterm strategy.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            21,
-            25,
-            31,
-            41,
-            48,
-            49,
-            50,
-            67,
-            68,
-            69
-          ]
-        },
-        {
-          "claim": "Means describes a glyphosate executive order framed as a national-security measure and says officials were told it was final despite objections.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            140,
-            141,
-            142,
-            143,
-            147,
-            148,
-            154,
-            160,
-            164,
-            167,
-            168,
-            170,
-            177
-          ]
-        },
-        {
-          "claim": "Means alleges that advisers connected to the administration catered to multiple industries and used campaign fundraising as justification for policy choices.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            291,
-            292,
-            293,
-            294,
-            295,
-            296,
-            297,
-            298,
-            299,
-            300,
-            301,
-            302,
-            309,
-            310,
-            311,
-            316,
-            317,
-            318
-          ]
-        },
-        {
-          "claim": "The episode asserts that multiple DOJ resignations followed the midterm defeat and connects them to alleged criminal conduct by administration officials.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            399,
-            400,
-            401,
-            402,
-            403,
-            404,
-            405,
-            406,
-            407,
-            408,
-            422,
-            428,
-            432,
-            435
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames Means’s interview as a whistleblower account but disputes its favorable treatment of Trump and RFK Jr.",
-          "evidence_segment_indices": [
-            86,
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            96,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114
-          ],
-          "start_seconds": 168.8,
-          "end_seconds": 229.44
-        },
-        {
-          "point": "The episode focuses on alleged industry influence over vaping, pesticide, processed-food, and pharmaceutical policy.",
-          "evidence_segment_indices": [
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            37,
-            38,
-            39,
-            40,
-            41,
-            292,
-            293,
-            294,
-            295,
-            296,
-            297
-          ],
-          "start_seconds": 57.199,
-          "end_seconds": 565.76
-        },
-        {
-          "point": "Means says a close-knit group of advisers acted against voters’ preferences while Trump was not fully aware; Kulinski rejects that characterization.",
-          "evidence_segment_indices": [
-            234,
-            235,
-            236,
-            237,
-            238,
-            239,
-            240,
-            241,
-            260,
-            261,
-            262,
-            271,
-            272,
-            273,
-            291,
-            313,
-            314,
-            315,
-            316,
-            317,
-            318,
-            326,
-            327,
-            328
-          ],
-          "start_seconds": 448.24,
-          "end_seconds": 621.2
-        },
-        {
-          "point": "Kulinski predicts worsening internal blame, investigations, and departures within the administration.",
-          "evidence_segment_indices": [
-            387,
-            388,
-            389,
-            390,
-            391,
-            392,
-            393,
-            394,
-            395,
-            396,
-            397,
-            398,
-            429,
-            430,
-            431,
-            432,
-            433,
-            434,
-            435,
-            436,
-            437,
-            438
-          ],
-          "start_seconds": 713.839,
-          "end_seconds": 814.56
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "00c173dac0c12044df66506b8bee43cffbcb833e7e87b3d9d83b04f73314dd6d",
-      "transcript_captured_at": "2026-11-10T09:10:25.073753Z",
-      "summary_generated_at": "2026-11-10T09:38:45.900881Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is a commentary program combining host assertions with excerpts from interviews; it does not provide underlying documents or independent corroboration.",
-        "Several captions contain apparent transcription errors, name uncertainty, and fragmented or overlapping speech.",
-        "Claims about cancer, corruption, criminal conduct, lobbying, executive orders, and DOJ actions require independent verification.",
-        "The episode’s account is source-only and does not include responses from the individuals or organizations accused.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
