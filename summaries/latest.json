@@ -1,11 +1,199 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-12T17:12:01.146885Z",
+  "generated_at": "2026-11-12T17:42:01.171499Z",
   "reporting_window": {
-    "start": "2026-11-05T17:12:01.146885Z",
-    "end": "2026-11-12T17:12:01.146885Z"
+    "start": "2026-11-05T17:42:01.171499Z",
+    "end": "2026-11-12T17:42:01.171499Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "RE0Hoj-N-Yc",
+      "title": "BREAKING: Trump CRACKS As DEATH OF MAGA Sets In",
+      "url": "https://www.youtube.com/watch?v=RE0Hoj-N-Yc",
+      "published_at": "2026-11-12T17:05:08.000000Z",
+      "summary": "Kyle Kulinski of Secular Talk argues that Donald Trump’s recent posts reflect political pressure after Republican midterm losses. Kulinski highlights Trump’s warnings about alleged migrant caravans, threatened tariff increases against Mexico, attacks on Democrats, and criticism of Senate Republican leadership over voting legislation and the filibuster. He interprets Trump’s public direction to Vice President JD Vance on alleged Democratic corruption as an effort to undermine or sideline Vance, particularly over Iran policy. The episode then shifts to reported military preparations involving Iran, with Kulinski warning that escalation could produce serious regional and infrastructure risks. He also discusses an unverified report that the Justice Department is considering removing Representative Ilhan Omar’s citizenship and congressional seat, presenting it as evidence of authoritarian overreach. Finally, Kulinski addresses claims that Nvidia’s CEO resigned amid scandal and says the resulting share-price decline could intensify fears about an AI bubble and broader economic downturn. The transcript reflects the creator’s commentary and includes multiple allegations and predictions requiring independent verification.",
+      "topics": [
+        "Trump’s political messaging",
+        "Republican infighting",
+        "Iran escalation",
+        "Ilhan Omar citizenship claim",
+        "Nvidia and AI-market fears"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The Justice Department is finalizing a process to strip Representative Ilhan Omar of citizenship and remove her from Congress.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            288,
+            289,
+            290,
+            291
+          ]
+        },
+        {
+          "claim": "The acting Navy Secretary told families of USS George H.W. Bush personnel that they would not be home for the holidays because of anticipated Iran-related operations.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            215,
+            218,
+            219,
+            220,
+            221,
+            222
+          ]
+        },
+        {
+          "claim": "Nvidia’s CEO resigned after reports involving affairs and alleged ties to a Chinese spy, followed by a 13% share-price decline.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            357,
+            358,
+            359,
+            360,
+            361,
+            362,
+            363,
+            370,
+            371,
+            372,
+            373
+          ]
+        },
+        {
+          "claim": "Iran has threatened cyberattacks on power grids and cutting undersea internet cables, while U.S. bases and Gulf assets face substantial risks.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            260,
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270,
+            274,
+            275,
+            278,
+            279
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski characterizes Trump’s posts as a reaction to Republican electoral setbacks and internal pressure.",
+          "evidence_segment_indices": [
+            1,
+            2,
+            8,
+            9,
+            10,
+            114,
+            137,
+            138,
+            139,
+            140
+          ],
+          "start_seconds": 2.08,
+          "end_seconds": 304.639
+        },
+        {
+          "point": "Trump’s quoted posts criticize Democrats, Mexico, Senate Republicans, and JD Vance while promoting claims about corruption and immigration.",
+          "evidence_segment_indices": [
+            13,
+            14,
+            20,
+            21,
+            45,
+            53,
+            65,
+            109,
+            110,
+            111,
+            143,
+            146,
+            151,
+            164
+          ],
+          "start_seconds": 30.0,
+          "end_seconds": 351.28
+        },
+        {
+          "point": "Kulinski interprets Trump’s Iran-related messaging as evidence of escalating conflict and tension with Vance.",
+          "evidence_segment_indices": [
+            188,
+            189,
+            190,
+            192,
+            193,
+            197,
+            198,
+            200,
+            202,
+            203,
+            204
+          ],
+          "start_seconds": 388.8,
+          "end_seconds": 427.28
+        },
+        {
+          "point": "The episode presents the Omar citizenship report and ICE tracking allegations as signs of constitutional and due-process concerns.",
+          "evidence_segment_indices": [
+            288,
+            290,
+            297,
+            298,
+            307,
+            308,
+            315,
+            316,
+            317,
+            318,
+            319,
+            323
+          ],
+          "start_seconds": 593.12,
+          "end_seconds": 676.079
+        },
+        {
+          "point": "Kulinski links Nvidia leadership turmoil to speculation about an AI bubble, market decline, and recession risk.",
+          "evidence_segment_indices": [
+            364,
+            365,
+            366,
+            373,
+            375,
+            376,
+            377,
+            378,
+            379,
+            380
+          ],
+          "start_seconds": 760.079,
+          "end_seconds": 799.839
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "f5d6aa4977eba9380616512a65a12c5f49ccfa4d7494f9adccea56c987be8df1",
+      "transcript_captured_at": "2026-11-12T17:33:14.923025Z",
+      "summary_generated_at": "2026-11-12T17:38:25.862132Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies solely on the supplied transcript, which does not independently establish the reported events.",
+        "Several captions contain transcription defects, profanity redactions, repetitions, and unclear names or wording.",
+        "The creator’s interpretations, allegations, and forecasts are presented as commentary rather than verified findings.",
+        "The transcript provides limited context for the referenced midterms, Iran developments, legal claims, and Nvidia events.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5202,223 +5390,6 @@
         "The reported House vote is transcribed as “2011 to 204,” which is unclear and requires verification.",
         "Projected seat totals, leadership outcomes, and Bloomberg attribution are presented only through the creator’s account.",
         "The closing discussion contains caption defects and unclear references concerning the proposed pardon.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "wqqscaUssZk",
-      "title": "AI Billionaires PANIC Over Democratic Wins | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=wqqscaUssZk",
-      "published_at": "2026-11-10T23:05:10.000000Z",
-      "summary": "Kyle Kulinski argues that recent election results signal bipartisan voter resistance to rapid AI expansion, especially new data centers. He says voters approved roughly 41 initiatives opposing data centers, though the episode provides no locations or supporting documentation. Kulinski presents AI executives’ voluntary concessions—such as school funding, environmental measures, labor protections, and job training—as an effort to prevent binding regulation. He advocates a moratorium on new data centers and treating advanced AI development like nuclear-weapons proliferation, warning that automation could eliminate jobs and concentrate wealth. The episode then turns to Democratic strategy: Kulinski criticizes corporate-aligned leaders for accepting industry money and contrasts their caution with his preferred approach of passing ambitious bills, even if vetoed. He specifically disputes Nera Tanden’s call to avoid broad wish lists and urges Democrats to use their perceived electoral mandate for aggressive action. The source is primarily commentary and includes allegations and predictions that are not independently substantiated in the transcript.",
-      "topics": [
-        "AI regulation",
-        "Data centers",
-        "Democratic strategy",
-        "Election interpretation"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Kulinski says approximately 41 ballot initiatives on banning data centers all passed against them.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "claim": "AI industry leaders are preparing a $10 trillion infrastructure buildout and offering concessions to avert stricter rules.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41
-          ]
-        },
-        {
-          "claim": "Democratic leaders receive money from AI companies, Wall Street, big tech, and the military-industrial complex.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108
-          ]
-        },
-        {
-          "claim": "Kulinski predicts AI could cause widespread job losses and extreme wealth concentration.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            85,
-            86,
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames resistance to data centers as bipartisan and linked to concerns about jobs and community impacts.",
-          "evidence_segment_indices": [
-            9,
-            10,
-            11,
-            14,
-            15,
-            16,
-            17,
-            18,
-            20,
-            21
-          ],
-          "start_seconds": 21.84,
-          "end_seconds": 55.92
-        },
-        {
-          "point": "He supports a moratorium on new data centers and much stricter controls on AI development.",
-          "evidence_segment_indices": [
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75
-          ],
-          "start_seconds": 133.52,
-          "end_seconds": 168.56
-        },
-        {
-          "point": "He argues Democrats should convert electoral momentum into explicit legislation rather than minor voluntary reforms.",
-          "evidence_segment_indices": [
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59
-          ],
-          "start_seconds": 94.799,
-          "end_seconds": 135.52
-        },
-        {
-          "point": "The episode criticizes Nera Tanden’s advice to avoid pursuing longstanding policy proposals.",
-          "evidence_segment_indices": [
-            156,
-            157,
-            158,
-            159,
-            160,
-            161,
-            162,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179
-          ],
-          "start_seconds": 321.759,
-          "end_seconds": 378.08
-        },
-        {
-          "point": "Kulinski predicts Democrats may squander their opportunity and face a later Republican comeback.",
-          "evidence_segment_indices": [
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144,
-            145,
-            146,
-            147,
-            148
-          ],
-          "start_seconds": 260.639,
-          "end_seconds": 312.16
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "ef9c4eecb3d07a7c92c1779deeb292eef0ba5a61424e89bb963253b66abcd4d4",
-      "transcript_captured_at": "2026-11-11T00:03:23.635092Z",
-      "summary_generated_at": "2026-11-11T00:09:06.392710Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is a single commentator’s account and does not independently verify election results, ballot counts, infrastructure estimates, campaign financing, or policy effects.",
-        "Several names and phrases appear mistranscribed, including references to political figures and the quoted discussion.",
-        "The source uses strongly evaluative language and presents predictions and allegations without cited documentation.",
-        "Some profanity and redacted words obscure exact wording in places.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
