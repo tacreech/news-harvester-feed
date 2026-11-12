@@ -1,11 +1,161 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-12T00:12:01.138851Z",
+  "generated_at": "2026-11-12T00:42:01.163362Z",
   "reporting_window": {
-    "start": "2026-11-05T00:12:01.138851Z",
-    "end": "2026-11-12T00:12:01.138851Z"
+    "start": "2026-11-05T00:42:01.163362Z",
+    "end": "2026-11-12T00:42:01.163362Z"
   },
   "episodes": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "v5ndFMO71CU",
+      "title": "I Feel Like An Idiot...",
+      "url": "https://www.youtube.com/watch?v=v5ndFMO71CU",
+      "published_at": "2026-11-11T23:42:31.000000Z",
+      "summary": "Mutahar of SomeOrdinaryGamers says he mistakenly treated a realistic-looking clip as Miami footage before realizing it showed gameplay from Grand Theft Auto 6, using the incident to illustrate how convincingly modern games can imitate real-life video. He describes apparent Vice City details, simulated pedestrians, branded locations, vehicle reflections, lighting, and shadows as clues that eventually revealed the clip’s game-engine origins. He then discusses reported controversy over GTA 6 targeting 30 frames per second on current consoles, arguing that dense NPC behavior, traffic, and world simulation may place greater demands on CPUs than graphics hardware. He criticizes the expense and limited advantage of premium consoles while suggesting that players prioritizing 60 frames per second may eventually prefer a PC version. The episode broadens into commentary on Body Cam, Unrecord, path tracing, ray tracing, and Unreal Engine demonstrations, with Mutahar expressing amazement at increasingly realistic lighting and environments. The transcript reflects his reactions and explanations; the referenced clips, specifications, prices, and future-release expectations are not independently established here.",
+      "topics": [
+        "GTA 6 realism and gameplay",
+        "Console performance and frame rates",
+        "Gaming hardware value",
+        "Ray tracing and path tracing",
+        "Photorealistic game graphics"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The discussed clip is GTA 6 gameplay captured through an in-game social-media-style video mode, rather than real Miami footage or AI-generated content.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            19,
+            35,
+            61,
+            63,
+            66,
+            84
+          ]
+        },
+        {
+          "claim": "Rockstar stated that GTA 6 targets 30 frames per second on current consoles, with some enhanced features reserved for PlayStation 5 Pro.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            152,
+            157,
+            165,
+            176,
+            182,
+            185
+          ]
+        },
+        {
+          "claim": "The game reportedly requires about 212 GB of storage and premium consoles may provide limited performance benefits because CPU capacity constrains simulation.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            139,
+            150,
+            314,
+            322,
+            329,
+            347
+          ]
+        },
+        {
+          "claim": "A PC version is expected, and Mutahar presents it as the likely route to 60 frames per second.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            388,
+            390,
+            393,
+            403,
+            404
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Mutahar recounts falling for a realistic GTA 6 clip and later identifying it as gameplay through visual clues.",
+          "evidence_segment_indices": [
+            0,
+            12,
+            19,
+            30,
+            35,
+            84,
+            88,
+            93
+          ],
+          "start_seconds": 0.4,
+          "end_seconds": 213.76
+        },
+        {
+          "point": "He connects GTA 6’s realism to dense NPC activity, traffic, world simulation, lighting, and reflections.",
+          "evidence_segment_indices": [
+            50,
+            66,
+            79,
+            97,
+            327,
+            330
+          ],
+          "start_seconds": 111.28,
+          "end_seconds": 742.079
+        },
+        {
+          "point": "He questions whether expensive upgraded consoles justify their cost when the reported frame-rate target remains 30 FPS.",
+          "evidence_segment_indices": [
+            169,
+            176,
+            200,
+            228,
+            247,
+            251
+          ],
+          "start_seconds": 372.24,
+          "end_seconds": 556.16
+        },
+        {
+          "point": "The episode surveys other realistic-looking games and graphics technologies, including Body Cam, Unrecord, ray tracing, and path tracing.",
+          "evidence_segment_indices": [
+            410,
+            428,
+            457,
+            474,
+            508,
+            514
+          ],
+          "start_seconds": 911.36,
+          "end_seconds": 1140.16
+        },
+        {
+          "point": "Mutahar frames the episode as personal amazement at the progression of game graphics across his lifetime.",
+          "evidence_segment_indices": [
+            286,
+            294,
+            371,
+            553,
+            562,
+            565
+          ],
+          "start_seconds": 631.04,
+          "end_seconds": 1245.6
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "7cd8c734d63cb0b3aad84f5b9610ac17692238d99ac42a13fac3795de65aea9b",
+      "transcript_captured_at": "2026-11-12T00:33:14.444706Z",
+      "summary_generated_at": "2026-11-12T00:38:25.647721Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is an automatic captioning output with profanity redactions, repetitions, and several apparent transcription errors.",
+        "Many technical details, prices, release expectations, and statements attributed to Rockstar are presented only through the creator’s commentary and are not independently verified here.",
+        "The referenced video clips and screenshots are unavailable in the transcript, limiting direct assessment of the visual evidence.",
+        "Some hardware and performance explanations are framed as Mutahar’s interpretation or speculation rather than confirmed measurements.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5023,215 +5173,6 @@
         "Automatic captions contain substantial transcription errors in names, organizations, and terminology, creating ambiguity around some references.",
         "The source presents the creator’s interpretations and advocacy alongside attributed reporting; allegations about corruption, influence, and political motives remain source claims.",
         "The episode does not establish final leadership votes or whether any proposed challenge succeeds.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "5wV9oyllRds",
-      "title": "Trump Jr. TURNS ON HIS OWN DAD!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=5wV9oyllRds",
-      "published_at": "2026-11-10T01:30:22.000000Z",
-      "summary": "Kyle Kulinski argues that Donald Trump Jr. attributed Republican losses partly to the Iran war’s economic consequences, while Kulinski says that explanation understates corruption, immigration enforcement, domestic disorder, and other grievances. Trump Jr. is presented as saying the Trump coalition includes disaffected Democrats and nontraditional voters, and that the war contributed to higher fuel and grocery costs after disrupting energy supplies. Kulinski counters that exit polling identified corruption as the leading issue and predicts Democrats would still have won decisively without the war. He also alleges that Trump Jr. benefited from a $650 million government grant connected to Vulcan Earth, using that claim to argue that Trump Jr. is implicated in the corruption he criticizes. The episode frames Trump Jr.’s comments as an unusual break with his father and suggests that Republican figures face pressure both to defend Trump and to distance themselves from him. The source is commentary and includes profanity, insults, speculation, and several uncited factual assertions.",
-      "topics": [
-        "Trump Jr.’s criticism of the Iran war",
-        "Republican electoral losses",
-        "Corruption allegations",
-        "Exit polling and voter priorities",
-        "Trump-era political accountability"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Donald Trump Jr. said the Iran war contributed to voter movement by increasing fuel and grocery prices.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            26,
-            27,
-            28,
-            29,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            55,
-            56,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63
-          ]
-        },
-        {
-          "claim": "The episode states that exit polling ranked corruption as the public’s top issue and placed foreign policy at 4%.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            42,
-            43,
-            44,
-            82,
-            83,
-            84,
-            85,
-            86
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that Trump Jr. received a $650 million government grant for a company in which he invested, identified as Vulcan Earth.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            96,
-            97,
-            98
-          ]
-        },
-        {
-          "claim": "Kulinski predicts Democrats would have won the House and 52 or 53 Senate seats even without the Iran war.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121
-          ]
-        },
-        {
-          "claim": "The episode says Trump’s administration monitored approximately 3,000 conservative groups’ statements.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            147,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Trump Jr. characterizes the coalition as including former Democrats, first-time voters, and people who felt left behind.",
-          "evidence_segment_indices": [
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ],
-          "start_seconds": 15.92,
-          "end_seconds": 42.559
-        },
-        {
-          "point": "Trump Jr. acknowledges that the Iran war may have shifted voter sentiment despite defending broader administration accomplishments.",
-          "evidence_segment_indices": [
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60
-          ],
-          "start_seconds": 41.28,
-          "end_seconds": 116.32
-        },
-        {
-          "point": "Kulinski argues that corruption and broader administration controversies mattered more than a single foreign-policy explanation.",
-          "evidence_segment_indices": [
-            81,
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            134,
-            135,
-            136
-          ],
-          "start_seconds": 144.959,
-          "end_seconds": 251.84
-        },
-        {
-          "point": "Kulinski presents Trump Jr.’s remarks as an unusual distancing from his father and as evidence of internal Republican tension.",
-          "evidence_segment_indices": [
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144,
-            145,
-            146,
-            176,
-            177,
-            178,
-            179
-          ],
-          "start_seconds": 250.72,
-          "end_seconds": 335.039
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "3b759ae3df735e33605cf1790e43c85da49c3837a018e411a79153f85dfea0fb",
-      "transcript_captured_at": "2026-11-10T09:10:32.640339Z",
-      "summary_generated_at": "2026-11-10T09:39:06.546545Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is a partisan commentary segment, not an independently verified account.",
-        "Several factual claims, polling figures, and allegations are presented without citations or supporting documentation.",
-        "Automatic captions contain redactions, profanity substitutions, transcription errors, and ambiguous names.",
-        "Some predictions and references to future or hypothetical events are speculative within the episode.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
