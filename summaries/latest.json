@@ -1,11 +1,408 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-12T03:12:01.164026Z",
+  "generated_at": "2026-11-12T03:42:01.158290Z",
   "reporting_window": {
-    "start": "2026-11-05T03:12:01.164026Z",
-    "end": "2026-11-12T03:12:01.164026Z"
+    "start": "2026-11-05T03:42:01.158290Z",
+    "end": "2026-11-12T03:42:01.158290Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "-iNEJ9kfFxI",
+      "title": "Extremely High Don Jr. Defends Convicted R*pist Russell Brand | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=-iNEJ9kfFxI",
+      "published_at": "2026-11-12T01:30:17.000000Z",
+      "summary": "Kyle Kulinski argues that Russell Brand’s reported conviction and prison sentence undermine earlier defenses portraying the case as political retaliation for Brand’s conservative and religious positioning. The episode presents excerpts attributed to Don Jr., who emphasizes the absence of forensic evidence and the age of some allegations, while Kulinski responds that this framing omits other evidence and reporting described in the discussion. Kulinski also criticizes commentators who linked the allegations to Brand’s views on COVID-19 treatments and portrays Brand’s religious conversion as performative or strategic. A substantial portion focuses on Don Jr.’s appearance: Kulinski speculates, without establishing it, that Don Jr. may have been intoxicated or using opioids, then treats his defense of Brand as evidence of partisan double standards. The episode concludes that supporters excuse misconduct when associated with political allies. The material is a commentary segment built around selected quotations and the presenter’s interpretations; it does not independently document the legal record, the cited investigations, or Don Jr.’s condition.",
+      "topics": [
+        "Russell Brand case",
+        "Don Jr.’s defense",
+        "Partisan double standards",
+        "Media commentary"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The source says Brand received a 10-year, six-month sentence and convictions for one rape and three sexual assaults.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            127,
+            128,
+            129,
+            130
+          ]
+        },
+        {
+          "claim": "The source attributes to Don Jr. a claim that the case lacked forensic evidence, DNA, and contemporaneous police reporting.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            148,
+            149,
+            150
+          ]
+        },
+        {
+          "claim": "The source says additional allegations and reporting emerged before or after the trial.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            16,
+            17,
+            18,
+            19,
+            156,
+            157
+          ]
+        },
+        {
+          "claim": "Kulinski speculates that Don Jr. may have been intoxicated or using opioids; the excerpt does not establish this.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            131,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames the episode as a rebuttal to defenses of Brand as a politically targeted figure.",
+          "evidence_segment_indices": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            200,
+            201,
+            202,
+            203
+          ],
+          "start_seconds": 126.159,
+          "end_seconds": 408.56
+        },
+        {
+          "point": "The discussion contrasts Don Jr.’s focus on evidentiary gaps with Kulinski’s emphasis on messages, later reports, and media investigations.",
+          "evidence_segment_indices": [
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157
+          ],
+          "start_seconds": 294.639,
+          "end_seconds": 316.08
+        },
+        {
+          "point": "Kulinski interprets Brand’s religious and conservative turn as strategic rather than sincere, presenting that as his own assessment.",
+          "evidence_segment_indices": [
+            195,
+            196,
+            197,
+            238,
+            239,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265
+          ],
+          "start_seconds": 382.639,
+          "end_seconds": 532.48
+        },
+        {
+          "point": "The episode’s broader thesis is that political allies apply inconsistent standards to alleged wrongdoing.",
+          "evidence_segment_indices": [
+            309,
+            310,
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318,
+            319,
+            320,
+            321,
+            322,
+            323,
+            324,
+            325,
+            326,
+            327
+          ],
+          "start_seconds": 613.519,
+          "end_seconds": 650.72
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "4ee457e4e92dec3ab595066a7c0c8c2353510540258a0f80c979da8cad6b665d",
+      "transcript_captured_at": "2026-11-12T03:33:32.281314Z",
+      "summary_generated_at": "2026-11-12T03:38:45.589678Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains profanity redactions, overlapping captions, laughter markers, and apparent transcription errors.",
+        "Legal claims, quoted remarks, and referenced investigations are presented only through this source and are not independently verified here.",
+        "The transcript does not establish whether Don Jr. was intoxicated or using any substance.",
+        "The excerpt summarizes selected material and may omit relevant context from the underlying legal proceedings or cited videos.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "7WwSXJ7oHxo",
+      "title": "CBS CAUGHT Heavily Editing Trump Interview | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=7WwSXJ7oHxo",
+      "published_at": "2026-11-12T01:00:29.000000Z",
+      "summary": "Kyle Kulinski argues that CBS heavily edited a 60 Minutes interview with Donald Trump to improve his image, presenting the alleged editing as hypocritical because Trump previously sued CBS over edits to a Kamala Harris interview. He praises interviewer Ross Douthat for pressing Trump on Ukraine, relations with Vladimir Putin, sanctions, military aid, and conflicting claims about U.S. support. Kulinski says the broadcast omitted or softened statements he considers inaccurate, while the supplied transcript does not independently establish what was edited, why, or whether CBS coordinated with Trump. He also criticizes the broader U.S. media environment, portraying CBS and other major networks as increasingly aligned with conservative, corporate, wealthy, or pro-Trump interests. The episode expands into allegations of corruption involving Trump and associates, predictions about how historians will judge Trump, and severe psychological characterizations. These latter assertions are presented as Kulinski’s commentary rather than documented findings. The closing asks viewers to like, subscribe, and enable notifications.",
+      "topics": [
+        "CBS interview editing",
+        "Donald Trump and Ukraine",
+        "Media bias and ownership",
+        "Political corruption allegations",
+        "Trump’s historical legacy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "CBS edited the Trump interview to remove damaging or factually incorrect material and improve his public image.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ]
+        },
+        {
+          "claim": "Trump previously sued CBS over edits to a Kamala Harris interview.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46
+          ]
+        },
+        {
+          "claim": "The episode alleges corruption, financial schemes, and improper benefits involving Trump and associates.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258
+          ]
+        },
+        {
+          "claim": "The episode predicts that Trump will be judged as among the worst presidents in U.S. history.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            259,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski praises Ross Douthat’s questioning while arguing CBS later softened the interview.",
+          "evidence_segment_indices": [
+            3,
+            4,
+            5,
+            6,
+            16,
+            17,
+            18,
+            19,
+            20,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "start_seconds": 7.919,
+          "end_seconds": 52.96
+        },
+        {
+          "point": "The excerpted interview addresses Ukraine, Putin, peace prospects, sanctions, and weapons assistance.",
+          "evidence_segment_indices": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107
+          ],
+          "start_seconds": 127.36,
+          "end_seconds": 219.44
+        },
+        {
+          "point": "Kulinski frames the alleged editing as inconsistent with Trump’s prior criticism of edited interviews.",
+          "evidence_segment_indices": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            50,
+            51,
+            52
+          ],
+          "start_seconds": 72.64,
+          "end_seconds": 116.479
+        },
+        {
+          "point": "He argues that major media outlets protect powerful political and corporate interests.",
+          "evidence_segment_indices": [
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "start_seconds": 352.4,
+          "end_seconds": 398.56
+        },
+        {
+          "point": "The episode ends with strongly negative judgments about Trump and a subscription appeal.",
+          "evidence_segment_indices": [
+            259,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277
+          ],
+          "start_seconds": 504.639,
+          "end_seconds": 545.519
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "ea94979e33cb76587f7c3dd015e0881d33390ec9933616428fe9424d7965f039",
+      "transcript_captured_at": "2026-11-12T03:33:24.151868Z",
+      "summary_generated_at": "2026-11-12T03:38:25.935334Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is an opinionated monologue and excerpted interview, not an independent investigation.",
+        "The transcript does not provide the full interview or a direct comparison demonstrating which portions were removed.",
+        "Automatic captions contain apparent name errors, omitted words, profanity placeholders, and overlapping speech.",
+        "Several allegations and predictions are stated without supporting documentation in the supplied material.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mike Figueredo — The Humanist Report",
       "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
@@ -4932,389 +5329,6 @@
         "The source does not independently substantiate the allegations, statistics, or descriptions of political conduct presented in the commentary.",
         "Some quoted broadcast remarks and the creator’s responses are interleaved, making speaker attribution imperfect in places.",
         "Coverage is limited to this excerpt and does not establish the broader election, media, or policy context.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "mHrPzwwAMT8",
-      "title": "‘UNF*CK IT!!’: Woman’s Message To Dems Goes MEGA-VIRAL | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=mHrPzwwAMT8",
-      "published_at": "2026-11-10T22:15:39.000000Z",
-      "summary": "Kyle Kulinski presents commentary on a video featuring Van Lean’s psychological interpretation of Trump’s relationship with MAGA supporters. The featured speaker argues, through a relationship metaphor, that Trump’s political campaigns were motivated by publicity, ego, and legal self-preservation rather than concern for supporters, and urges them to reconsider their allegiance. Kulinski endorses this framing, characterizing MAGA as a cult centered on Trump’s alleged narcissism and predicting internal division as the movement weakens. He then highlights an emphatic message directed at Democrats: pursue investigations and accountability, act aggressively rather than defer to procedural caution, and deliver tangible benefits such as healthcare, education, higher wages, an end to wars, and higher taxes on the wealthy. Kulinski criticizes Democratic leaders as overly dependent on wealthy donors and warns that failing to act could allow Republicans to regain influence. The episode’s rhetoric is strongly partisan, and its claims about political events, polling, policy effects, criminality, and future electoral developments are presented as commentary rather than independently established evidence.",
-      "topics": [
-        "Trump and MAGA",
-        "Political psychology",
-        "Democratic strategy",
-        "Accountability and policy",
-        "Partisan commentary"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The source asserts that Trump’s 2016, 2020, and 2024 campaigns were respectively motivated by publicity, ego, and avoiding jail.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            55,
-            56,
-            57
-          ]
-        },
-        {
-          "claim": "The source claims that gas and grocery prices were rising, wages were stagnant, and people viewed the economy as worse than during the Great Recession.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            136,
-            137,
-            138,
-            139
-          ]
-        },
-        {
-          "claim": "The source claims that Texas, Kansas, South Carolina, and Mississippi had become electorally Democratic and that MAGA support had fallen to roughly 29–30% of the country.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            203,
-            204,
-            205
-          ]
-        },
-        {
-          "claim": "The source claims that Chuck Schumer and Hakeem Jeffries had approval ratings of 13% and 18%, respectively, and that donor fundraising explains their leadership positions.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            267,
-            268,
-            269,
-            270,
-            271,
-            272,
-            273,
-            274,
-            275,
-            276,
-            277,
-            278
-          ]
-        },
-        {
-          "claim": "The source predicts that Democrats may squander an opportunity and that Republicans could regain relevance in four to twelve years.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            285,
-            286,
-            287,
-            288,
-            289,
-            290
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Van Lean uses the end of a relationship as a metaphor for MAGA supporters recognizing that Trump may never have prioritized them.",
-          "evidence_segment_indices": [
-            18,
-            19,
-            33,
-            34,
-            51,
-            52,
-            53,
-            54
-          ],
-          "start_seconds": 36.88,
-          "end_seconds": 125.6
-        },
-        {
-          "point": "Kulinski endorses the featured psychological framing and describes MAGA as a cult organized around Trump.",
-          "evidence_segment_indices": [
-            91,
-            92,
-            93,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114
-          ],
-          "start_seconds": 212.799,
-          "end_seconds": 269.84
-        },
-        {
-          "point": "The episode argues that Democrats should pursue accountability and take decisive action instead of emphasizing procedural limits.",
-          "evidence_segment_indices": [
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            263,
-            264,
-            265,
-            266,
-            316,
-            317,
-            318,
-            323,
-            324
-          ],
-          "start_seconds": 472.319,
-          "end_seconds": 696.88
-        },
-        {
-          "point": "Kulinski advocates a material policy agenda including healthcare, education, higher wages, ending wars, and taxing the rich.",
-          "evidence_segment_indices": [
-            293,
-            294,
-            297,
-            298,
-            299,
-            300
-          ],
-          "start_seconds": 633.68,
-          "end_seconds": 651.6
-        },
-        {
-          "point": "The episode closes by urging Democrats to learn from past failures and avoid declining to investigate alleged wrongdoing.",
-          "evidence_segment_indices": [
-            308,
-            309,
-            310,
-            311,
-            312,
-            313,
-            314,
-            315,
-            316,
-            317,
-            318,
-            319,
-            320,
-            321,
-            322,
-            323,
-            324,
-            325
-          ],
-          "start_seconds": 664.56,
-          "end_seconds": 698.64
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "f03d340359b2101f4a5ba472c77317e32a81f82c70b174c05e0d882d724763c8",
-      "transcript_captured_at": "2026-11-11T00:03:13.374236Z",
-      "summary_generated_at": "2026-11-11T00:08:26.503536Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is automatic and contains profanity placeholders, malformed words, and occasional caption errors.",
-        "Several names, institutions, events, and policy references are difficult to identify confidently from the transcript alone.",
-        "The source provides partisan commentary and assertions without supporting documentation or opposing perspectives.",
-        "Predictions about electoral outcomes and movement collapse remain speculative within the episode.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "kkL7RMcKTIU",
-      "title": "PETE HEGSETH IS F*CKED",
-      "url": "https://www.youtube.com/watch?v=kkL7RMcKTIU",
-      "published_at": "2026-11-10T21:40:06.000000Z",
-      "summary": "Kyle Kulinski argues that Thomas Massie’s reported articles of impeachment against Defense Secretary Pete Hegseth center on alleged civilian-harm failures, including a strike on an Iranian elementary school. The episode presents Massie’s case that Hegseth weakened safeguards, oversight, and legal protections before the attack, while emphasizing that the source itself describes conflicting casualty estimates and attributed reports. Kulinski also discusses Massie’s criticism of the administration’s Venezuela operation, portraying it as an allegedly unlawful effort involving the abduction of a foreign leader and seizure of resources. He praises Massie for challenging the administration but criticizes Democrats for allowing a Republican to lead the impeachment effort and for, in his view, insufficiently highlighting alleged misconduct. The discussion further considers the likely political path: passage in the House is presented as plausible, while conviction in the Senate is described as difficult. Kulinski concludes by calling for accountability and urging Democrats to foreground these allegations.",
-      "topics": [
-        "Pete Hegseth impeachment",
-        "Civilian protection in war",
-        "Thomas Massie",
-        "Venezuela operation",
-        "Democratic strategy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Massie introduced eight articles of impeachment against Pete Hegseth.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            44,
-            51,
-            52,
-            217,
-            365,
-            366
-          ]
-        },
-        {
-          "claim": "An Iranian elementary-school strike killed and wounded more than 200 civilians, mostly children.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            82,
-            88,
-            90,
-            93,
-            94,
-            100,
-            194,
-            195
-          ]
-        },
-        {
-          "claim": "Hegseth dismantled civilian-harm safeguards and oversight mechanisms before the strike.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            146,
-            147,
-            148,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            187,
-            188,
-            189
-          ]
-        },
-        {
-          "claim": "The Venezuela operation involved abducting a foreign leader and taking oil or other resources.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            280,
-            284,
-            285,
-            286,
-            303,
-            305,
-            309,
-            310,
-            311,
-            321,
-            322,
-            323,
-            324,
-            325
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames Massie’s impeachment effort as a response to alleged violations of military law and civilian-protection duties.",
-          "evidence_segment_indices": [
-            56,
-            57,
-            61,
-            129,
-            130,
-            131,
-            132,
-            142,
-            143,
-            144,
-            151,
-            152,
-            158,
-            159
-          ],
-          "start_seconds": 116.56,
-          "end_seconds": 336.16
-        },
-        {
-          "point": "The episode highlights reported casualty estimates from the school strike while noting figures ranging from at least 156 to more than 170 deaths.",
-          "evidence_segment_indices": [
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            100
-          ],
-          "start_seconds": 183.92,
-          "end_seconds": 214.159
-        },
-        {
-          "point": "Kulinski praises Massie’s opposition to the administration’s Venezuela policy and criticizes Democrats for not taking the lead.",
-          "evidence_segment_indices": [
-            208,
-            209,
-            210,
-            217,
-            218,
-            229,
-            230,
-            231,
-            232,
-            233,
-            314,
-            315,
-            316
-          ],
-          "start_seconds": 422.24,
-          "end_seconds": 632.399
-        },
-        {
-          "point": "The discussion says House impeachment requires a simple majority, while Senate conviction requires a two-thirds vote.",
-          "evidence_segment_indices": [
-            514,
-            515,
-            516,
-            517,
-            521,
-            522,
-            523,
-            524,
-            525
-          ],
-          "start_seconds": 1022.0,
-          "end_seconds": 1048.64
-        },
-        {
-          "point": "Kulinski urges Democrats to make alleged misconduct and civilian casualties central to their political messaging.",
-          "evidence_segment_indices": [
-            544,
-            545,
-            546,
-            547,
-            550,
-            553,
-            556,
-            557,
-            558,
-            559,
-            560
-          ],
-          "start_seconds": 1080.559,
-          "end_seconds": 1110.32
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "7c71c243d55d346e72c4147bf2b76970ab8c90f93328f365dbd69b3b57d14d26",
-      "transcript_captured_at": "2026-11-10T22:03:14.590931Z",
-      "summary_generated_at": "2026-11-10T22:08:25.171719Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview relies solely on the supplied transcript and does not independently establish that the described events occurred.",
-        "Automatic captions contain repeated name misspellings, profanity redactions, transcription errors, and overlapping segments.",
-        "The source presents casualty figures as reported estimates and gives conflicting totals.",
-        "Several legal, operational, and political assertions are opinions or allegations attributed to Massie or Kulinski.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
