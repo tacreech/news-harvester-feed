@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-12T22:12:01.181546Z",
+  "generated_at": "2026-11-12T22:42:01.201977Z",
   "reporting_window": {
-    "start": "2026-11-05T22:12:01.181546Z",
-    "end": "2026-11-12T22:12:01.181546Z"
+    "start": "2026-11-05T22:42:01.201977Z",
+    "end": "2026-11-12T22:42:01.201977Z"
   },
   "episodes": [
     {
@@ -132,6 +132,191 @@
         "Captions contain transcription errors, including inconsistent names and company references.",
         "Several financial, legal, intelligence, and market-impact claims are presented as speculation or alleged reporting.",
         "The source does not establish the timing, status, or outcome of any reported investigation or leadership transition.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "rOsDhzAzctQ",
+      "title": "‘WE ARE BURNT OUT’ - Military Families TEAR into Trump and Hegseth, Demand Accountability!!",
+      "url": "https://www.youtube.com/watch?v=rOsDhzAzctQ",
+      "published_at": "2026-11-12T20:30:20.000000Z",
+      "summary": "Aaron Parnas presents a strongly critical account of tensions involving the Trump administration, military families, veterans, and congressional oversight. He says House Republicans passed what Congressman Mark Takano characterized as the largest cut to veterans’ benefits in U.S. history, including a projected $57 billion reduction in future disability benefits and a higher VA financing fee. Parnas also describes a reported town hall involving families connected to the USS George H.W. Bush carrier strike group, where attendees expressed concern about extended deployments, strained communication, and the possibility of a prolonged conflict. The episode features Congressman Robert Garcia alleging that a White House letter sought to intimidate congressional investigations, while asserting Congress’s oversight role. It also includes Republican messaging from Jim Jordan emphasizing policy contrasts and party unity, followed by Scott Colom’s remarks about a Democratic victory in Mississippi. The material is primarily commentary and excerpts; it provides limited documentation for the underlying legislative, military, and electoral claims.",
+      "topics": [
+        "Veterans benefits and legislation",
+        "Military families and deployments",
+        "Congressional oversight",
+        "Trump administration accountability",
+        "Mississippi election"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "House Republicans passed the largest cut to veterans’ benefits in U.S. history, including a projected $57 billion reduction in future disability benefits and nearly tripling a VA financing fee.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            26,
+            27,
+            33,
+            34,
+            44,
+            45,
+            46,
+            47
+          ]
+        },
+        {
+          "claim": "A town hall involving approximately 500 families connected to the USS George H.W. Bush carrier strike group addressed Iranian attacks, extended deployment, and delayed holiday returns.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68
+          ]
+        },
+        {
+          "claim": "Congressman Robert Garcia said a White House letter threatened or sought to intimidate congressional oversight and investigations.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            105,
+            108,
+            110,
+            111,
+            112
+          ]
+        },
+        {
+          "claim": "Scott Colom won a historic Mississippi election, becoming the first Black person to represent the state since the Reconstruction era.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            5,
+            6,
+            7,
+            8,
+            223,
+            224
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames military families and veterans as increasingly dissatisfied with administration policy and communication.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            15,
+            16,
+            17,
+            57,
+            58,
+            87,
+            88
+          ],
+          "start_seconds": 0.08,
+          "end_seconds": 201.84
+        },
+        {
+          "point": "The episode highlights allegations of significant veterans-benefit reductions and promotes consideration of the Major Richard Star Act.",
+          "evidence_segment_indices": [
+            44,
+            45,
+            48,
+            53,
+            54,
+            55
+          ],
+          "start_seconds": 101.52,
+          "end_seconds": 131.2
+        },
+        {
+          "point": "Military families reportedly described burnout, extended deployments, and concerns that the conflict could become a prolonged war.",
+          "evidence_segment_indices": [
+            69,
+            70,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            83,
+            84,
+            85,
+            86
+          ],
+          "start_seconds": 159.04,
+          "end_seconds": 196.08
+        },
+        {
+          "point": "Garcia defends congressional investigations as part of constitutional checks and balances.",
+          "evidence_segment_indices": [
+            100,
+            101,
+            105,
+            106,
+            107,
+            108,
+            114,
+            115,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142
+          ],
+          "start_seconds": 225.599,
+          "end_seconds": 324.88
+        },
+        {
+          "point": "Jordan argues Republicans should emphasize contrasts on taxes, borders, energy, and military strength.",
+          "evidence_segment_indices": [
+            158,
+            159,
+            160,
+            165,
+            166,
+            167,
+            168,
+            173,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183
+          ],
+          "start_seconds": 353.52,
+          "end_seconds": 407.039
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "92731331f774d63ceb3a7d62d413e0a91bc97bbbea40d5588f0e819986b6516a",
+      "transcript_captured_at": "2026-11-12T22:33:16.904460Z",
+      "summary_generated_at": "2026-11-12T22:38:26.227987Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a commentary program combining narration, quoted remarks, and media excerpts rather than primary documentation.",
+        "Several names and terms appear mistranscribed, including references rendered as “Pete Hexth” or “Pete Hexath.”",
+        "Claims about legislation, military operations, investigations, and election results require independent verification.",
+        "The transcript does not provide bill numbers, documents, dates beyond relative wording, or corroborating sources for the major allegations.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -5081,267 +5266,6 @@
         "Several references depend on unstated dates, election results, bills, polls, or media clips that are not supplied in the source.",
         "The episode mixes quoted commentary with Kulinski’s reactions, so speaker attribution is occasionally approximate.",
         "This overview reflects only the provided transcript and does not verify its allegations or predictions.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "VtnDhzpx51s",
-      "title": "2028 Dem Presidential Poll SHOCKS ALL | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=VtnDhzpx51s",
-      "published_at": "2026-11-11T00:00:26.000000Z",
-      "summary": "The creator argues that the 2028 Democratic primary is already taking shape, citing early outreach to influential Democratic figure James Clyburn and a Crooked Con straw poll. He highlights the poll’s reported result: John Ossoff led with 38.4%, ahead of Alexandria Ocasio-Cortez and Pete Buttigieg, but cautions that the event’s attendees may not represent the wider electorate. The creator says Ossoff’s presentation, speeches, and opposition to MAGA explain his appeal, while arguing that his policy record is insufficiently progressive. A guest’s cited criticisms include positions on Medicare for All, the minimum wage, ICE, Israel, Medicaid, and other legislation; the transcript does not independently document those voting claims. The creator also speculates, without evidence presented here, that Ossoff may use testosterone replacement therapy. He concludes that Democratic voters should prioritize policy substance over charisma and appearance, while acknowledging that candidates can change positions before 2028. The captions contain numerous garbled names and likely transcription errors, limiting precision.",
-      "topics": [
-        "2028 Democratic primary",
-        "Crooked Con straw poll",
-        "John Ossoff",
-        "Progressive policy record",
-        "Democratic voter strategy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A Crooked Con straw poll reportedly gave John Ossoff 38.4% and 380 votes, ahead of Alexandria Ocasio-Cortez at 16.6% and Pete Buttigieg at 13.9%.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            88,
-            89,
-            90,
-            91
-          ]
-        },
-        {
-          "claim": "The episode attributes multiple policy and legislative positions to Ossoff, including votes involving ICE, Israel, Medicaid, cryptocurrency, and the Lake and Riley Act.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            157,
-            158,
-            159,
-            160,
-            161,
-            162,
-            163,
-            165,
-            166,
-            167,
-            168,
-            169,
-            173,
-            174,
-            175,
-            317,
-            318
-          ]
-        },
-        {
-          "claim": "The creator alleges that James Clyburn’s endorsements can influence Black church networks and says several prospective candidates contacted him.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            25,
-            26,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58
-          ]
-        },
-        {
-          "claim": "The creator speculates that Ossoff may be using testosterone replacement therapy based on perceived physical changes; no supporting evidence is presented in the source.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            140,
-            141,
-            142,
-            143,
-            144,
-            145,
-            146,
-            147,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator presents the 2028 primary as politically active already, citing candidate outreach and influential endorsements.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            5,
-            6,
-            7,
-            8,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            61,
-            62
-          ],
-          "start_seconds": 0.24,
-          "end_seconds": 147.04
-        },
-        {
-          "point": "The cited straw poll strongly favored Ossoff, though its respondents appear to have been conference attendees or associated fans.",
-          "evidence_segment_indices": [
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            88,
-            89,
-            90,
-            91,
-            101,
-            102
-          ],
-          "start_seconds": 177.12,
-          "end_seconds": 246.4
-        },
-        {
-          "point": "The creator distinguishes Ossoff’s compelling public image and anti-MAGA rhetoric from what he portrays as a less progressive policy record.",
-          "evidence_segment_indices": [
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121,
-            124,
-            125,
-            126,
-            127,
-            128
-          ],
-          "start_seconds": 244.56,
-          "end_seconds": 306.0
-        },
-        {
-          "point": "The episode urges voters to evaluate policy substance rather than charisma, appearance, or perceived presidential demeanor.",
-          "evidence_segment_indices": [
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224
-          ],
-          "start_seconds": 303.28,
-          "end_seconds": 481.36
-        },
-        {
-          "point": "The creator says Ossoff could change positions before the primary but questions whether voters should prefer that over a longer record of progressive consistency.",
-          "evidence_segment_indices": [
-            248,
-            249,
-            250,
-            251,
-            252,
-            253,
-            254,
-            255,
-            256,
-            257,
-            258,
-            259,
-            260,
-            261,
-            262,
-            263,
-            264,
-            265,
-            266,
-            267
-          ],
-          "start_seconds": 529.68,
-          "end_seconds": 569.12
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "97c38bd611e389bc4d22d158cd9ad8eb7f2ee0b986d0f8654e41c39aa728bdb8",
-      "transcript_captured_at": "2026-11-11T02:03:23.227317Z",
-      "summary_generated_at": "2026-11-11T02:08:52.469838Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The captions contain recurring garbled names, including apparent variants of Ossoff, Clyburn, and other public figures.",
-        "The source provides no methodology or independent context for the Crooked Con straw poll.",
-        "Voting-record, polling, corruption, and endorsement-influence claims are presented through commentary or quoted discussion and require independent verification.",
-        "The source is a single opinion episode and does not establish broader 2028 voter preferences.",
-        "The testosterone-replacement speculation is explicitly framed by the creator as speculation without evidence presented in the transcript.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
