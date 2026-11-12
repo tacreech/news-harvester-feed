@@ -1,11 +1,259 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-12T03:42:01.158290Z",
+  "generated_at": "2026-11-12T17:12:01.146885Z",
   "reporting_window": {
-    "start": "2026-11-05T03:42:01.158290Z",
-    "end": "2026-11-12T03:42:01.158290Z"
+    "start": "2026-11-05T17:12:01.146885Z",
+    "end": "2026-11-12T17:12:01.146885Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "VbfITPg-0-U",
+      "title": "'HE IS ALL ALONE' — Trump Privately SPIRALS as he is ABANDONED, the Presidency is ENDING!!",
+      "url": "https://www.youtube.com/watch?v=VbfITPg-0-U",
+      "published_at": "2026-11-12T14:51:37.000000Z",
+      "summary": "Aaron Parnas presents the episode as an argument that Donald Trump is becoming politically isolated and is using his remaining time in office to consolidate the MAGA movement, govern through executive actions, target perceived opponents, and promote personal monuments. He also discusses reported personnel departures, criticism of Pete Hegseth over conduct at the Tomb of the Unknown Soldier, and concerns about possible pressure on journalists to disclose sources. The episode then turns to interviews with Democratic figures who describe an asserted congressional majority, campaign messages focused on lowering costs and healthcare access, and plans for oversight of the Trump administration. Incoming congressman Richard Penn outlines priorities including restoring healthcare subsidies, addressing living costs, and investigating alleged official misconduct. He also advocates broader healthcare affordability and coverage. Because the material is a single creator’s presentation and interview transcript, its political claims, reported events, election results, personnel changes, and allegations require independent verification.",
+      "topics": [
+        "Trump administration and MAGA movement",
+        "Congressional oversight",
+        "Healthcare policy",
+        "Journalism and press freedom"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The episode reports that Democrats won 260 House seats and will control both chambers of Congress.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            120,
+            121,
+            128,
+            129,
+            130
+          ]
+        },
+        {
+          "claim": "The episode reports departures or expected departures of senior White House personnel and describes a broader pattern of officials being removed or leaving.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85
+          ]
+        },
+        {
+          "claim": "The episode alleges that Stephen Miller may seek to jail journalists to compel disclosure of sources.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "claim": "The episode links calls for Pete Hegseth to leave office to his conduct at the Tomb of the Unknown Soldier.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99
+          ]
+        },
+        {
+          "claim": "The episode reports that congressional investigators are preparing inquiries involving Trump and his family.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            42,
+            43,
+            44,
+            45
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas characterizes Trump as isolated, under time pressure, and focused on preserving his political movement and legacy.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "start_seconds": 0.1,
+          "end_seconds": 47.8
+        },
+        {
+          "point": "The episode outlines attributed claims that Trump intends to rely more heavily on executive actions, pursue perceived enemies, purge the so-called deep state, and build monuments.",
+          "evidence_segment_indices": [
+            46,
+            47,
+            48,
+            49,
+            50,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            71,
+            72,
+            73,
+            74,
+            75
+          ],
+          "start_seconds": 98.7,
+          "end_seconds": 166.292
+        },
+        {
+          "point": "A DCCC communications director attributes Democratic electoral success to localized campaigns emphasizing affordability, housing, tariffs, and healthcare.",
+          "evidence_segment_indices": [
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201
+          ],
+          "start_seconds": 303.794,
+          "end_seconds": 418.195
+        },
+        {
+          "point": "An incoming congressman describes proposed priorities of lowering costs, expanding healthcare access, conducting oversight, and considering impeachment if investigations establish impeachable misconduct.",
+          "evidence_segment_indices": [
+            294,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300,
+            301,
+            310,
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318,
+            319,
+            374,
+            375,
+            376,
+            377,
+            378,
+            379
+          ],
+          "start_seconds": 604.497,
+          "end_seconds": 762.499
+        },
+        {
+          "point": "The healthcare discussion favors affordable, high-quality coverage and reducing deductibles, copays, premiums, and costs for people with chronic or mental-health conditions.",
+          "evidence_segment_indices": [
+            448,
+            449,
+            450,
+            451,
+            452,
+            464,
+            465,
+            466,
+            467,
+            468,
+            469,
+            470,
+            471,
+            472,
+            473,
+            474,
+            475,
+            476,
+            477,
+            478,
+            479,
+            480,
+            481,
+            482
+          ],
+          "start_seconds": 882.001,
+          "end_seconds": 955.301
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "a9b26c19bc2a5561253cbcd4add126e88693a7308811a9c1a378ffcf17afbead",
+      "transcript_captured_at": "2026-11-12T17:03:15.798270Z",
+      "summary_generated_at": "2026-11-12T17:08:28.850015Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains overlapping segments, speech disfluencies, and apparent caption errors.",
+        "Several names, institutions, election outcomes, legislative references, and reported events are presented without corroborating material.",
+        "The episode mixes the creator’s commentary with interviewees’ statements; attribution is therefore important when interpreting predictions or allegations.",
+        "The source provides only a transcript and does not establish whether the cited claims are accurate.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5171,164 +5419,6 @@
         "Several names and phrases appear mistranscribed, including references to political figures and the quoted discussion.",
         "The source uses strongly evaluative language and presents predictions and allegations without cited documentation.",
         "Some profanity and redacted words obscure exact wording in places.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "hNY-YDZVMCs",
-      "title": "Fox & Friends PISSED OFF That Hot Democrats Won | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=hNY-YDZVMCs",
-      "published_at": "2026-11-10T22:40:07.000000Z",
-      "summary": "The creator argues that Fox News and related commentators are reacting defensively to Democratic electoral gains by emphasizing the attractiveness, fashion, and personal branding of newly prominent politicians rather than their policies. He contrasts coverage of several lawmakers’ appearance—including discussion of cowboy boots, magazine attention, and a possible former-model background—with the political issues he believes deserve scrutiny. The episode also critiques discussion of WNBA player Sophie Cunningham’s message about personal responsibility, agency, family, faith, fitness, and community involvement, presenting it as an alternative to relying primarily on elections. The creator disputes that framing, arguing that elections and government materially affect people’s lives and accusing conservative media of avoiding accountability for policy outcomes. He further makes unverified personal allegations about a politician’s testosterone use and about political figures’ conduct, while using highly hostile language throughout. The excerpt is primarily commentary and reaction to clips; it provides little independent evidence for its broader claims about election results, media motives, violence, government actions, or individual behavior.",
-      "topics": [
-        "Media reaction to elections",
-        "Politician image and celebrity",
-        "Policy versus personal responsibility",
-        "Conservative media criticism"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The episode asserts that Democratic candidates won a significant recent electoral wave.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            2,
-            4,
-            15
-          ]
-        },
-        {
-          "claim": "The creator alleges that a politician uses testosterone replacement therapy based on perceived changes in appearance.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            43,
-            45,
-            51,
-            53,
-            57
-          ]
-        },
-        {
-          "claim": "The episode states that voters under 30 favored the Democratic candidate by 72% to 25% in House races.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            296,
-            298,
-            300
-          ]
-        },
-        {
-          "claim": "The creator alleges that right-wing violence is the leading form of terrorism affecting the country.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            149,
-            150,
-            151,
-            152,
-            153
-          ]
-        },
-        {
-          "claim": "The creator alleges that current government actions include protecting an international child-trafficking ring, operating a paramilitary force, and launching illegal wars.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            331,
-            333,
-            335,
-            338,
-            339
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator frames Fox News coverage as a distraction from policy accountability after Democratic gains.",
-          "evidence_segment_indices": [
-            193,
-            199,
-            201,
-            205,
-            206
-          ],
-          "start_seconds": 349.12,
-          "end_seconds": 380.8
-        },
-        {
-          "point": "Commentary focuses on media attention to lawmakers’ looks, clothing, and perceived appeal.",
-          "evidence_segment_indices": [
-            26,
-            27,
-            28,
-            61,
-            65,
-            68,
-            77,
-            78
-          ],
-          "start_seconds": 53.039,
-          "end_seconds": 159.2
-        },
-        {
-          "point": "A featured conservative message emphasizes personal agency, responsibility, and community action.",
-          "evidence_segment_indices": [
-            211,
-            214,
-            219,
-            228,
-            230,
-            258,
-            261,
-            270,
-            273
-          ],
-          "start_seconds": 386.72,
-          "end_seconds": 507.199
-        },
-        {
-          "point": "The creator argues that elections and government policy directly shape people’s lives.",
-          "evidence_segment_indices": [
-            220,
-            223,
-            224,
-            225,
-            296,
-            301
-          ],
-          "start_seconds": 401.199,
-          "end_seconds": 565.44
-        },
-        {
-          "point": "The discussion relies heavily on insults, speculation, and reactions to broadcast clips.",
-          "evidence_segment_indices": [
-            40,
-            43,
-            53,
-            107,
-            108,
-            235,
-            236,
-            312,
-            322
-          ],
-          "start_seconds": 86.159,
-          "end_seconds": 603.279
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "05457414072980fa31ca52259520a859f47937a0f2848bb66a94ce5ba87b30d2",
-      "transcript_captured_at": "2026-11-11T00:03:18.573195Z",
-      "summary_generated_at": "2026-11-11T00:08:45.582878Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains overlapping segments, caption errors, profanity redactions, and uncertain names.",
-        "The source does not independently substantiate the allegations, statistics, or descriptions of political conduct presented in the commentary.",
-        "Some quoted broadcast remarks and the creator’s responses are interleaved, making speaker attribution imperfect in places.",
-        "Coverage is limited to this excerpt and does not establish the broader election, media, or policy context.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
