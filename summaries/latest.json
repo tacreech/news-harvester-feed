@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T16:42:01.130690Z",
+  "generated_at": "2026-11-13T17:12:01.147023Z",
   "reporting_window": {
-    "start": "2026-11-06T16:42:01.130690Z",
-    "end": "2026-11-13T16:42:01.130690Z"
+    "start": "2026-11-06T17:12:01.147023Z",
+    "end": "2026-11-13T17:12:01.147023Z"
   },
   "episodes": [
     {
@@ -154,6 +154,416 @@
         "The transcript contains caption errors and uncertain names, including apparent distortions of people, agencies, and companies.",
         "The episode relies partly on unnamed sources, reported polls, media projections, and interview excerpts that are not independently available here.",
         "The source provides commentary and selected excerpts rather than full underlying documents or complete context for the reported events.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "House of El – AI",
+      "channel_id": "UCsoc5Ad-fC7wWie2PH4rPcw",
+      "video_id": "Juc7CpJO9HA",
+      "title": "Jensen Huang’s Exit Just Blew Up AI’s Circular Financing Machine",
+      "url": "https://www.youtube.com/watch?v=Juc7CpJO9HA",
+      "published_at": "2026-11-13T15:00:09.000000Z",
+      "summary": "The creator argues that Jensen Huang’s departure did not itself burst the AI bubble, but exposed Nvidia’s dependence on one leader and a financing network linking the company to startups, suppliers, and customers. The episode discusses unverified allegations that a businesswoman sought sensitive Nvidia information and that related companies helped chips reach China; it notes that she has not been charged and that publicly available evidence does not establish espionage or compromised secrets. The creator instead attributes Huang’s exit to an alleged relationship with a direct report and Nvidia’s governance rules. Market comparisons are presented to argue that broader AI stocks fell before the personal scandal, while Nvidia was more specifically affected afterward. The episode further describes Nvidia-backed commitments and investments as potentially circular financing, while acknowledging that demand is real and the scale of the arrangements requires scrutiny. Its conclusion is that Nvidia and companies dependent on Huang may face disruption, but AI is unlikely to collapse solely because of one executive’s removal.",
+      "topics": [
+        "Jensen Huang’s departure",
+        "Nvidia governance and succession",
+        "AI market volatility",
+        "China chip-export allegations",
+        "Circular financing"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "US intelligence allegedly believed a businesswoman attempted to obtain Nvidia-related information and that associated companies helped route billions of dollars of Nvidia chips to Chinese firms.",
+          "attributed_to": "House of El – AI",
+          "evidence_segment_indices": [
+            78,
+            79,
+            82,
+            86,
+            87,
+            113,
+            116,
+            117,
+            130,
+            131,
+            167,
+            170,
+            172,
+            174
+          ]
+        },
+        {
+          "claim": "Nvidia allegedly made extensive investments, guarantees, and purchase commitments that supported demand for its own chips and created a circular-financing risk.",
+          "attributed_to": "House of El – AI",
+          "evidence_segment_indices": [
+            398,
+            399,
+            400,
+            401,
+            402,
+            407,
+            408,
+            409,
+            426,
+            428,
+            432,
+            433,
+            434,
+            435,
+            436,
+            437,
+            443,
+            444,
+            445,
+            446,
+            447,
+            448
+          ]
+        },
+        {
+          "claim": "Huang’s alleged relationship with a direct report contributed to the board’s decision to remove him under company relationship rules.",
+          "attributed_to": "House of El – AI",
+          "evidence_segment_indices": [
+            184,
+            185,
+            186,
+            187,
+            188,
+            193,
+            194,
+            198,
+            199,
+            200,
+            204,
+            205,
+            206
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator says the espionage allegations remain unproven, and the alleged intermediary has not been charged.",
+          "evidence_segment_indices": [
+            87,
+            88,
+            89,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            174,
+            175,
+            176
+          ],
+          "start_seconds": 199.84,
+          "end_seconds": 411.36
+        },
+        {
+          "point": "The episode presents Huang as Nvidia’s strategist, lobbyist, salesperson, and central dealmaker, with no clear succession plan.",
+          "evidence_segment_indices": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            244,
+            245,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255
+          ],
+          "start_seconds": 78.0,
+          "end_seconds": 588.959
+        },
+        {
+          "point": "The creator contrasts a broader market decline before the personal scandal with Nvidia-specific weakness afterward.",
+          "evidence_segment_indices": [
+            308,
+            309,
+            310,
+            311,
+            312,
+            313,
+            314,
+            340,
+            341,
+            342,
+            343,
+            346,
+            347,
+            348,
+            349,
+            350,
+            351,
+            352,
+            353,
+            356,
+            357,
+            358,
+            359,
+            360
+          ],
+          "start_seconds": 702.8,
+          "end_seconds": 826.88
+        },
+        {
+          "point": "The conclusion is that Huang-linked companies may be vulnerable, while the wider AI sector has more hardware alternatives and may continue operating.",
+          "evidence_segment_indices": [
+            479,
+            480,
+            481,
+            482,
+            483,
+            484,
+            485,
+            492,
+            493,
+            495,
+            496,
+            497,
+            498,
+            499,
+            500,
+            514,
+            515,
+            516,
+            523,
+            524,
+            525,
+            529,
+            530,
+            531
+          ],
+          "start_seconds": 1095.679,
+          "end_seconds": 1219.039
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "228993bfd3afc5c95acd77223de883a8cd2703bba9621d856c0f14477461df7b",
+      "transcript_captured_at": "2026-11-13T17:03:14.262730Z",
+      "summary_generated_at": "2026-11-13T17:08:27.354337Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains apparent caption or transcription defects in names and technical terms.",
+        "The episode is a time-sensitive snapshot and says events were still developing during recording.",
+        "Several allegations rely on unnamed or external reporting as described by the creator; the source provides no independent documentation.",
+        "Market statistics, political results, company commitments, and financial figures are presented in the transcript but are not independently verified here.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Mike Figueredo — The Humanist Report",
+      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
+      "video_id": "lfAYLrMQi_8",
+      "title": "Even Republicans are Exhausted by Trump’s Post-Election Antics",
+      "url": "https://www.youtube.com/watch?v=lfAYLrMQi_8",
+      "published_at": "2026-11-13T14:59:48.000000Z",
+      "summary": "Mike Figueredo argues that Donald Trump’s post-election behavior has shifted from an unexpectedly conciliatory tone back toward public conflict, unsettling parts of the Republican coalition. He highlights Trump’s reported openness to discussing amnesty, which prompted backlash from conservative figures, and contrasts it with the reported appointment of Stephen Miller and concerns about harsher immigration policy. Figueredo also portrays disagreements over the Iran war as exposing tensions between Trump and JD Vance, while suggesting Trump’s political demands constrain Vance’s future prospects. The episode further discusses allegations that White House officials threatened congressional investigators and claims that Trump has resumed questioning election results. Figueredo presents these developments as evidence that Republicans may be increasingly frustrated with Trump, citing a poll that he says favors a different governing approach and rates Vance more favorably than other potential successors. The commentary is strongly opinionated and contains insults, speculation, and several claims that the supplied transcript does not independently establish.",
+      "topics": [
+        "Trump’s post-election conduct",
+        "Republican divisions",
+        "Immigration policy",
+        "Iran war and JD Vance",
+        "2028 succession politics"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The episode says Trump floated amnesty for undocumented immigrants in a 60 Minutes interview and that conservative figures reacted negatively.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            24,
+            25,
+            26,
+            30,
+            31,
+            34,
+            35
+          ]
+        },
+        {
+          "claim": "The episode cites a Reuters poll reportedly showing that 52% of Republican and Republican-leaning voters preferred a different governing approach from Trump, while JD Vance received 62% favorable ratings as a potential candidate.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            347,
+            350,
+            351,
+            352,
+            353,
+            354,
+            355,
+            356,
+            357,
+            383,
+            384,
+            385,
+            386
+          ]
+        },
+        {
+          "claim": "The episode says Trump’s White House legal counsel threatened congressional Democrats with investigations if they investigated administration associates.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251
+          ]
+        },
+        {
+          "claim": "The episode reports disagreement within the administration over whether the Iran war contributed to midterm losses and over the value of continuing the conflict.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            163,
+            164,
+            169,
+            170,
+            172,
+            173,
+            174,
+            178,
+            179,
+            180,
+            181,
+            182
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Figueredo describes Trump as reverting to a combative post-election style after briefly signaling cooperation with Democrats.",
+          "evidence_segment_indices": [
+            0,
+            2,
+            6,
+            7,
+            8,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "start_seconds": 4.64,
+          "end_seconds": 37.92
+        },
+        {
+          "point": "Conservative backlash in the episode centers on Trump’s reported amnesty comments and perceived tension with his immigration agenda.",
+          "evidence_segment_indices": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            30,
+            31,
+            32,
+            43,
+            44
+          ],
+          "start_seconds": 51.76,
+          "end_seconds": 105.759
+        },
+        {
+          "point": "The commentary presents disputes over Iran policy as a potential fault line between Trump, Vance, and other advisers.",
+          "evidence_segment_indices": [
+            152,
+            154,
+            155,
+            156,
+            157,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            183,
+            187,
+            188,
+            190,
+            191
+          ],
+          "start_seconds": 322.479,
+          "end_seconds": 412.56
+        },
+        {
+          "point": "Figueredo argues that Republican candidates may struggle to distance themselves from Trump without alienating his base.",
+          "evidence_segment_indices": [
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144
+          ],
+          "start_seconds": 282.72,
+          "end_seconds": 310.4
+        },
+        {
+          "point": "The episode concludes that reported Republican fatigue could shape the party’s 2028 succession debate, though the speaker remains pessimistic about Trump’s remaining term.",
+          "evidence_segment_indices": [
+            347,
+            348,
+            350,
+            351,
+            358,
+            360,
+            378,
+            383,
+            384,
+            387,
+            388,
+            393,
+            394,
+            395
+          ],
+          "start_seconds": 714.64,
+          "end_seconds": 814.16
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "83009059b86caca92cac038b3e574b0788454fda7e545794832034ad5a759c4d",
+      "transcript_captured_at": "2026-11-13T17:03:20.703467Z",
+      "summary_generated_at": "2026-11-13T17:08:49.651958Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is commentary from a single creator, not an independently verified account.",
+        "Several names, quotations, and terms appear garbled by automatic captions.",
+        "Poll figures and references to media reports are presented without source details beyond the transcript.",
+        "Predictions about Trump, Vance, policy outcomes, and future Republican politics remain speculative.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -4782,447 +5192,6 @@
         "Several claims are presented through quotations or references to unnamed or incompletely identified reports.",
         "The episode provides no polling dates, sample sizes, methodology, legislative text, or independent documentation.",
         "This overview reflects the supplied commentary only and does not verify the underlying events or claims.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "g-yiMVvPOn4",
-      "title": "CHUCK SCHUMER IS F*CKED | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=g-yiMVvPOn4",
-      "published_at": "2026-11-11T22:30:30.000000Z",
-      "summary": "Kyle Kulinski argues that Chuck Schumer faces substantial opposition to becoming Senate Democratic majority leader, while suggesting Hakeem Jeffries is more likely to lead House Democrats. He cites a reported YouGov poll in which 57% preferred someone other than Schumer and 10% supported Schumer. Kulinski also discusses statements attributed to Van Hollen, Bernie Sanders, Alyssa Slotkin, Mark Warner, Richard Blumenthal, and others that he presents as evidence of dissatisfaction with Schumer’s leadership. He highlights calls for a leadership contest, a demand for a concrete caucus plan, and reported opposition from a machinists’ union. Kulinski predicts Schumer will probably not lead Senate Democrats and favors Van Hollen as an alternative, while acknowledging that these developments remain political possibilities rather than settled outcomes. The episode then broadens into Kulinski’s prescription for Democrats: emphasize populist economic policies, opposition to corruption and concentrated wealth, and a more confrontational stance toward Republicans. The transcript records commentary and attributed claims, but does not independently establish the poll’s methodology, the cited statements, or the political predictions.",
-      "topics": [
-        "Senate Democratic leadership",
-        "Chuck Schumer",
-        "Van Hollen",
-        "Democratic strategy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Kulinski says a YouGov poll found 57% preferred someone other than Schumer and 10% preferred Schumer as Senate majority leader.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        },
-        {
-          "claim": "Kulinski reports that Bernie Sanders, Alyssa Slotkin, Richard Blumenthal, and others declined to endorse Schumer or called for leadership changes.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            78,
-            79,
-            80,
-            81,
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            163,
-            164
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames Schumer as vulnerable because opposition is presented as crossing ideological lines within the Democratic caucus.",
-          "evidence_segment_indices": [
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            171,
-            172
-          ],
-          "start_seconds": 237.599,
-          "end_seconds": 324.639
-        },
-        {
-          "point": "He presents Van Hollen as a possible alternative and describes Van Hollen as increasingly open to a leadership bid.",
-          "evidence_segment_indices": [
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63
-          ],
-          "start_seconds": 89.68,
-          "end_seconds": 127.6
-        },
-        {
-          "point": "Kulinski predicts Schumer will likely not lead Senate Democrats, while Jeffries will likely lead House Democrats.",
-          "evidence_segment_indices": [
-            194,
-            195,
-            196,
-            197,
-            198,
-            199,
-            200
-          ],
-          "start_seconds": 362.96,
-          "end_seconds": 377.68
-        },
-        {
-          "point": "The episode advocates a more populist Democratic platform, including economic demands and opposition to wars and concentrated wealth.",
-          "evidence_segment_indices": [
-            225,
-            226,
-            227,
-            228,
-            229,
-            240,
-            241,
-            242,
-            243,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251,
-            252,
-            253,
-            254,
-            255,
-            256
-          ],
-          "start_seconds": 426.319,
-          "end_seconds": 490.4
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "fdf3da6864408c2c5171534cb90d96f6d9b9ee4f75194493ece82c3a15999c3c",
-      "transcript_captured_at": "2026-11-11T23:33:34.996446Z",
-      "summary_generated_at": "2026-11-11T23:39:29.170886Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains substantial automatic-caption defects, redactions, and uncertain names or phrases.",
-        "Several claims are relayed from unnamed or externally attributed reports whose underlying sources are not included.",
-        "The episode reflects Kulinski’s analysis and predictions; the transcript does not establish electoral outcomes, caucus decisions, or poll methodology.",
-        "The source covers one commentary segment and should not be treated as comprehensive coverage of the leadership contest.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "FJYXnVXDgQw",
-      "title": "BREAKING: Democrats FLIP Mississippi BLUE Sending White House into Spiral, this is HISTORIC!!",
-      "url": "https://www.youtube.com/watch?v=FJYXnVXDgQw",
-      "published_at": "2026-11-11T22:12:52.000000Z",
-      "summary": "The creator reports that Scott Colom defeated Cindy Hyde-Smith in a closely contested Mississippi Senate race, presenting the result as an important Democratic breakthrough and a milestone for Black representation. The episode says the margin was under one percentage point and frames the outcome as unexpected given Mississippi’s Republican alignment and Hyde-Smith’s presumed advantage. In an interview, Aaron Haynes and Jennifer Palmieri interpret the result as evidence that sustained organizing, voter engagement, and investment could expand Democratic competitiveness across the South. They discuss affordability, housing, corruption allegations, immigration, and public safety as issues shaping voters’ choices, while emphasizing that candidate quality and local coalitions matter. Palmieri argues that Southern states could play a major role in Democratic presidential nominations and future general elections. Haynes similarly suggests that states should not be treated as permanently aligned with one party. The episode also promotes the interviewers’ series, “The Long Play,” about Southern politics.",
-      "topics": [
-        "Mississippi Senate race",
-        "Southern Democratic strategy",
-        "Black political representation",
-        "Voter organizing",
-        "2028 presidential politics"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Scott Colom defeated Cindy Hyde-Smith in the Mississippi Senate race by under one percentage point.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            1,
-            2,
-            3,
-            9,
-            42,
-            43,
-            44,
-            45
-          ]
-        },
-        {
-          "claim": "Colom would become the first Black man to represent Mississippi in the U.S. Senate in more than a century.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "claim": "The episode reports Democratic victories or near-victories in Texas, Louisiana, Georgia, and Alabama.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72
-          ]
-        },
-        {
-          "claim": "The interview includes allegations of corruption involving Texas political figures and discusses shootings during the Texas election cycle.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            241,
-            242,
-            243,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250,
-            260,
-            261,
-            262,
-            263
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator presents the Mississippi result as both a narrow race and a symbolic Democratic gain.",
-          "evidence_segment_indices": [
-            4,
-            10,
-            14,
-            15,
-            16,
-            21,
-            22,
-            28,
-            29,
-            44,
-            45
-          ],
-          "start_seconds": 9.6,
-          "end_seconds": 113.0
-        },
-        {
-          "point": "Haynes connects the outcome to voter empowerment, organizing, and hopes for a different future in Mississippi.",
-          "evidence_segment_indices": [
-            94,
-            95,
-            96,
-            97,
-            98,
-            99,
-            101,
-            102,
-            103,
-            111,
-            112,
-            113,
-            114,
-            115,
-            116
-          ],
-          "start_seconds": 204.592,
-          "end_seconds": 255.994
-        },
-        {
-          "point": "Palmieri argues that Democrats have historically underinvested in the South and that the region could merit greater strategic attention.",
-          "evidence_segment_indices": [
-            143,
-            144,
-            145,
-            150,
-            151,
-            152,
-            153,
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160,
-            161,
-            162,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168
-          ],
-          "start_seconds": 310.094,
-          "end_seconds": 364.494
-        },
-        {
-          "point": "The guests emphasize affordability and other everyday concerns as factors in Southern voting decisions.",
-          "evidence_segment_indices": [
-            238,
-            239,
-            240,
-            241,
-            250,
-            251,
-            252,
-            253,
-            254,
-            255,
-            256,
-            257,
-            258,
-            264,
-            265,
-            266,
-            267,
-            268,
-            269,
-            270,
-            278,
-            279,
-            280
-          ],
-          "start_seconds": 499.997,
-          "end_seconds": 591.697
-        },
-        {
-          "point": "The discussion treats state partisan labels as changeable and stresses candidate quality, belief, and grassroots infrastructure.",
-          "evidence_segment_indices": [
-            362,
-            363,
-            364,
-            365,
-            366,
-            367,
-            368,
-            369,
-            370,
-            371,
-            384,
-            385,
-            386,
-            387,
-            398,
-            399,
-            400,
-            401,
-            402,
-            403,
-            404,
-            411,
-            412,
-            413
-          ],
-          "start_seconds": 755.499,
-          "end_seconds": 857.701
-        },
-        {
-          "point": "Palmieri predicts that Southern states may strongly influence Democratic nominations and future electoral paths to 270 electoral votes.",
-          "evidence_segment_indices": [
-            290,
-            291,
-            292,
-            293,
-            297,
-            298,
-            300,
-            301,
-            302,
-            303,
-            308,
-            309,
-            310,
-            311,
-            312,
-            313,
-            314,
-            342,
-            343,
-            344,
-            345,
-            346,
-            347,
-            348
-          ],
-          "start_seconds": 607.697,
-          "end_seconds": 729.098
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "e422e9b94d2e36887ba52ca076a27a5d0f7197fb048d381cd6edbe869f1def1d",
-      "transcript_captured_at": "2026-11-11T23:33:22.996265Z",
-      "summary_generated_at": "2026-11-11T23:38:46.507158Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains overlapping captions, speaker-label errors, hesitations, and apparent name substitutions, including “Jeffrey” in the interview introduction.",
-        "This overview reflects only the supplied episode transcript and does not independently establish election results, margins, historical distinctions, or other political claims.",
-        "Several predictions and interpretations are attributed to interview participants rather than presented as verified outcomes.",
-        "Some references to election timing, offices, and state results are ambiguous in the transcript.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
