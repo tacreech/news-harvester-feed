@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T19:30:15.044530Z",
+  "generated_at": "2026-11-13T20:00:14.889992Z",
   "reporting_window": {
-    "start": "2026-11-06T19:30:15.044530Z",
-    "end": "2026-11-13T19:30:15.044530Z",
+    "start": "2026-11-06T20:00:14.889992Z",
+    "end": "2026-11-13T20:00:14.889992Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,16 +14,16 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-13T19:30:13.561348Z",
+      "last_successful_poll": "2026-11-13T20:00:13.502006Z",
       "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-13T19:30:13.888251Z",
+      "health": "success_new",
+      "discovery_status": "success_new",
+      "last_successful_poll": "2026-11-13T20:00:13.767529Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-13T19:30:14.261772Z",
+      "last_successful_poll": "2026-11-13T20:00:13.996579Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-13T19:30:14.509454Z",
+      "last_successful_poll": "2026-11-13T20:00:14.307583Z",
       "warnings": []
     },
     {
@@ -50,11 +50,23 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-13T19:30:14.882684Z",
+      "last_successful_poll": "2026-11-13T20:00:14.715238Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "Apfwlxzc9v8",
+      "title": "Another top advisor jumps ship as economic numbers continue to tank.",
+      "published_at": "2026-11-13T19:32:14.000000Z",
+      "url": "https://www.youtube.com/watch?v=Apfwlxzc9v8",
+      "first_seen": "2026-11-13T20:00:13.767529Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
