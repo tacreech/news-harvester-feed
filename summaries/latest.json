@@ -1,11 +1,187 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T20:42:01.213454Z",
+  "generated_at": "2026-11-13T22:42:01.163940Z",
   "reporting_window": {
-    "start": "2026-11-06T20:42:01.213454Z",
-    "end": "2026-11-13T20:42:01.213454Z"
+    "start": "2026-11-06T22:42:01.163940Z",
+    "end": "2026-11-13T22:42:01.163940Z"
   },
   "episodes": [
+    {
+      "creator": "Mike Figueredo — The Humanist Report",
+      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
+      "video_id": "rdd6kmH64DU",
+      "title": "Seething Schumer Issues Passive Aggressive Response to Van Hollen’s Challenge",
+      "url": "https://www.youtube.com/watch?v=rdd6kmH64DU",
+      "published_at": "2026-11-13T20:32:19.000000Z",
+      "summary": "Mike Figueredo of The Humanist Report argues that Chris Van Hollen’s challenge to Chuck Schumer for Senate Majority Leader presents an opportunity for Democratic senators and constituents to demand new leadership. He says Schumer may currently lead the vote count, while describing the contest as close and identifying several senators reported as supporting either candidate. Figueredo characterizes Schumer’s public response as defiant and criticizes his claim of having the votes and credit for Democratic accomplishments. He also objects to Sheldon Whitehouse’s reported explanation that Schumer is unpopular mainly because people do not understand the party leader’s role. Figueredo argues that the role centers on vote-whipping and fundraising, and says Schumer’s defenders should offer specific reasons for retaining him. The episode then shifts into advocacy: Figueredo urges viewers to contact Democratic or undecided senators and records calls requesting support for Van Hollen. The source presents commentary, quoted statements, and an on-camera call attempt; it does not independently establish the vote count, endorsements, or allegations about Schumer’s record.",
+      "topics": [
+        "Senate leadership contest",
+        "Chuck Schumer",
+        "Chris Van Hollen",
+        "Democratic caucus",
+        "Constituent advocacy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Schumer was leading Van Hollen in reported votes, with the contest described as close.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            4,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim": "The listed senators had publicly indicated support for Van Hollen or Schumer as described.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            13,
+            16,
+            17,
+            18,
+            20,
+            21,
+            22,
+            23,
+            26
+          ]
+        },
+        {
+          "claim": "Schumer said he had the votes to continue as Democratic leader and cited Democratic accomplishments.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            46,
+            47,
+            48
+          ]
+        },
+        {
+          "claim": "Figueredo alleges that Schumer has repeatedly conceded to Donald Trump, supported hawkish positions, opposed the JCPOA, and accepted AIPAC money while supporting policies he characterizes as harmful to Palestinians.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            179,
+            180,
+            181,
+            182,
+            183
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode frames Van Hollen’s leadership challenge as competitive but unresolved.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            4,
+            6,
+            7,
+            8
+          ],
+          "start_seconds": 4.56,
+          "end_seconds": 24.8
+        },
+        {
+          "point": "Figueredo criticizes Schumer’s response and disputes the case made by his defenders.",
+          "evidence_segment_indices": [
+            37,
+            38,
+            39,
+            46,
+            49,
+            54,
+            55,
+            97,
+            98,
+            99
+          ],
+          "start_seconds": 81.68,
+          "end_seconds": 213.12
+        },
+        {
+          "point": "He rejects Whitehouse’s reported suggestion that Schumer is misunderstood by the public.",
+          "evidence_segment_indices": [
+            62,
+            63,
+            64,
+            67,
+            68,
+            69,
+            78,
+            79,
+            84,
+            87,
+            88
+          ],
+          "start_seconds": 134.879,
+          "end_seconds": 190.959
+        },
+        {
+          "point": "Figueredo calls for constituent outreach and demonstrates calls seeking support for Van Hollen.",
+          "evidence_segment_indices": [
+            106,
+            109,
+            110,
+            111,
+            112,
+            113,
+            116,
+            117,
+            134,
+            135,
+            136,
+            137,
+            175,
+            176,
+            177,
+            178,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213
+          ],
+          "start_seconds": 221.92,
+          "end_seconds": 498.639
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "0b7c0262928688c85cf81cd057e5f26c64ae2efe84ce9e94e5231a14484bba33",
+      "transcript_captured_at": "2026-11-13T22:33:13.693536Z",
+      "summary_generated_at": "2026-11-13T22:38:24.228540Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains profanity masking, overlapping captions, name ambiguities, and apparent transcription errors.",
+        "Candidate names and endorsements are presented solely through the creator’s narration and are not independently corroborated here.",
+        "The source is a single commentary video and includes advocacy; it does not provide underlying documents or a complete vote tally.",
+        "The closing segment appears unrelated or incomplete, limiting interpretation of the final remarks.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
@@ -5087,156 +5263,6 @@
         "Several captions contain profanity redactions, transcription errors, overlap, and fragmented phrasing.",
         "The interviewer’s identity and the surrounding CNN context are not established in the supplied segments.",
         "Broader allegations about military actions, civilian deaths, treaty compliance, and media conduct require independent verification.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "v5ndFMO71CU",
-      "title": "I Feel Like An Idiot...",
-      "url": "https://www.youtube.com/watch?v=v5ndFMO71CU",
-      "published_at": "2026-11-11T23:42:31.000000Z",
-      "summary": "Mutahar of SomeOrdinaryGamers says he mistakenly treated a realistic-looking clip as Miami footage before realizing it showed gameplay from Grand Theft Auto 6, using the incident to illustrate how convincingly modern games can imitate real-life video. He describes apparent Vice City details, simulated pedestrians, branded locations, vehicle reflections, lighting, and shadows as clues that eventually revealed the clip’s game-engine origins. He then discusses reported controversy over GTA 6 targeting 30 frames per second on current consoles, arguing that dense NPC behavior, traffic, and world simulation may place greater demands on CPUs than graphics hardware. He criticizes the expense and limited advantage of premium consoles while suggesting that players prioritizing 60 frames per second may eventually prefer a PC version. The episode broadens into commentary on Body Cam, Unrecord, path tracing, ray tracing, and Unreal Engine demonstrations, with Mutahar expressing amazement at increasingly realistic lighting and environments. The transcript reflects his reactions and explanations; the referenced clips, specifications, prices, and future-release expectations are not independently established here.",
-      "topics": [
-        "GTA 6 realism and gameplay",
-        "Console performance and frame rates",
-        "Gaming hardware value",
-        "Ray tracing and path tracing",
-        "Photorealistic game graphics"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The discussed clip is GTA 6 gameplay captured through an in-game social-media-style video mode, rather than real Miami footage or AI-generated content.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            19,
-            35,
-            61,
-            63,
-            66,
-            84
-          ]
-        },
-        {
-          "claim": "Rockstar stated that GTA 6 targets 30 frames per second on current consoles, with some enhanced features reserved for PlayStation 5 Pro.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            152,
-            157,
-            165,
-            176,
-            182,
-            185
-          ]
-        },
-        {
-          "claim": "The game reportedly requires about 212 GB of storage and premium consoles may provide limited performance benefits because CPU capacity constrains simulation.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            139,
-            150,
-            314,
-            322,
-            329,
-            347
-          ]
-        },
-        {
-          "claim": "A PC version is expected, and Mutahar presents it as the likely route to 60 frames per second.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            388,
-            390,
-            393,
-            403,
-            404
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Mutahar recounts falling for a realistic GTA 6 clip and later identifying it as gameplay through visual clues.",
-          "evidence_segment_indices": [
-            0,
-            12,
-            19,
-            30,
-            35,
-            84,
-            88,
-            93
-          ],
-          "start_seconds": 0.4,
-          "end_seconds": 213.76
-        },
-        {
-          "point": "He connects GTA 6’s realism to dense NPC activity, traffic, world simulation, lighting, and reflections.",
-          "evidence_segment_indices": [
-            50,
-            66,
-            79,
-            97,
-            327,
-            330
-          ],
-          "start_seconds": 111.28,
-          "end_seconds": 742.079
-        },
-        {
-          "point": "He questions whether expensive upgraded consoles justify their cost when the reported frame-rate target remains 30 FPS.",
-          "evidence_segment_indices": [
-            169,
-            176,
-            200,
-            228,
-            247,
-            251
-          ],
-          "start_seconds": 372.24,
-          "end_seconds": 556.16
-        },
-        {
-          "point": "The episode surveys other realistic-looking games and graphics technologies, including Body Cam, Unrecord, ray tracing, and path tracing.",
-          "evidence_segment_indices": [
-            410,
-            428,
-            457,
-            474,
-            508,
-            514
-          ],
-          "start_seconds": 911.36,
-          "end_seconds": 1140.16
-        },
-        {
-          "point": "Mutahar frames the episode as personal amazement at the progression of game graphics across his lifetime.",
-          "evidence_segment_indices": [
-            286,
-            294,
-            371,
-            553,
-            562,
-            565
-          ],
-          "start_seconds": 631.04,
-          "end_seconds": 1245.6
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "7cd8c734d63cb0b3aad84f5b9610ac17692238d99ac42a13fac3795de65aea9b",
-      "transcript_captured_at": "2026-11-12T00:33:14.444706Z",
-      "summary_generated_at": "2026-11-12T00:38:25.647721Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is an automatic captioning output with profanity redactions, repetitions, and several apparent transcription errors.",
-        "Many technical details, prices, release expectations, and statements attributed to Rockstar are presented only through the creator’s commentary and are not independently verified here.",
-        "The referenced video clips and screenshots are unavailable in the transcript, limiting direct assessment of the visual evidence.",
-        "Some hardware and performance explanations are framed as Mutahar’s interpretation or speculation rather than confirmed measurements.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
