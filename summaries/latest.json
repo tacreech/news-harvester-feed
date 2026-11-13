@@ -1,11 +1,283 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T17:12:01.147023Z",
+  "generated_at": "2026-11-13T20:12:01.179957Z",
   "reporting_window": {
-    "start": "2026-11-06T17:12:01.147023Z",
-    "end": "2026-11-13T17:12:01.147023Z"
+    "start": "2026-11-06T20:12:01.179957Z",
+    "end": "2026-11-13T20:12:01.179957Z"
   },
   "episodes": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "aWwjK5CVaVI",
+      "title": "So Microsoft Went Offline...",
+      "url": "https://www.youtube.com/watch?v=aWwjK5CVaVI",
+      "published_at": "2026-11-13T18:35:17.000000Z",
+      "summary": "Mutahar describes a prolonged Microsoft 365 and Outlook disruption that, in his account, prevented some users from accessing email, mailboxes, administrator pages, files, and other services. He says his own attempt to receive a two-factor authentication code failed and that reports from users and Microsoft’s service-health information indicated a broader incident. The episode presents Microsoft’s stated explanation as elevated infrastructure load linked to unavailable servers, a recent network change, and a capacity-upgrade issue; Microsoft was reportedly redistributing traffic, restarting servers, and restoring service. Mutahar argues that the outage illustrates the risks of concentrating essential activity in cloud platforms and recommends redundancy, compartmentalization, or self-hosting where practical. He speculates that automation or AI-assisted changes might have contributed, while acknowledging that this is unconfirmed and that a post-incident report would be needed. The transcript does not independently establish the outage’s scale, duration, affected countries, or operational impact beyond the cited reports.",
+      "topics": [
+        "Microsoft 365 outage",
+        "Outlook and Exchange access",
+        "Cloud dependency and resilience",
+        "Network infrastructure",
+        "AI-assisted software changes"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Microsoft 365 services experienced a broad outage affecting email and related functions, with users reportedly unable to access multiple services.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            84,
+            87,
+            88,
+            94,
+            95,
+            102,
+            103,
+            104,
+            105,
+            106,
+            126,
+            127
+          ]
+        },
+        {
+          "claim": "Microsoft attributed the incident to elevated load, unavailable servers, and a network change associated with an earlier capacity upgrade, rather than a cyber event.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            153,
+            154,
+            155,
+            156,
+            160,
+            161,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250
+          ]
+        },
+        {
+          "claim": "Users in more than 70 countries were unable to access the email services described in the episode.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            126,
+            127,
+            128
+          ]
+        },
+        {
+          "claim": "The outage’s underlying cause involved AI agents or AI-assisted code changes.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            254,
+            255,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            264
+          ]
+        },
+        {
+          "claim": "The disruption could affect hospitals or other life-critical operations.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            74,
+            75,
+            76,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            428,
+            429,
+            430,
+            431,
+            432
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Mutahar reports failed Outlook access and a missing two-factor authentication email, alongside user reports of broader problems.",
+          "evidence_segment_indices": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            28,
+            29,
+            30,
+            32,
+            35,
+            36,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44
+          ],
+          "start_seconds": 57.68,
+          "end_seconds": 115.759
+        },
+        {
+          "point": "The cited Microsoft status information describes impaired access to Exchange mailboxes, admin pages, files, and Copilot, with cascading issues.",
+          "evidence_segment_indices": [
+            84,
+            85,
+            87,
+            88,
+            89,
+            94,
+            95,
+            96,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            108,
+            109
+          ],
+          "start_seconds": 204.4,
+          "end_seconds": 274.56
+        },
+        {
+          "point": "Microsoft’s reported remediation included redistributing traffic, pausing deployments, restarting servers, and monitoring recovery.",
+          "evidence_segment_indices": [
+            155,
+            156,
+            157,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            174,
+            175,
+            178,
+            179,
+            180
+          ],
+          "start_seconds": 372.16,
+          "end_seconds": 436.16
+        },
+        {
+          "point": "Mutahar’s central argument is that dependence on one cloud provider creates systemic fragility and supports diversification or self-hosting.",
+          "evidence_segment_indices": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            72,
+            324,
+            325,
+            326,
+            327,
+            328,
+            329,
+            330,
+            331,
+            332,
+            333,
+            334
+          ],
+          "start_seconds": 148.319,
+          "end_seconds": 779.36
+        },
+        {
+          "point": "He presents AI involvement as speculation and says the available evidence does not establish it.",
+          "evidence_segment_indices": [
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            245,
+            254,
+            255,
+            258,
+            259,
+            262,
+            267,
+            268,
+            270,
+            271,
+            272,
+            273,
+            274
+          ],
+          "start_seconds": 500.96,
+          "end_seconds": 646.079
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "823d8d72df3095095d1dfcc41dc845e7a5abb68f9ee2c39ecc575aa499a928fc",
+      "transcript_captured_at": "2026-11-13T20:03:13.656286Z",
+      "summary_generated_at": "2026-11-13T20:08:31.670839Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains automatic-caption defects, profanity redactions, malformed error-code wording, and occasional unclear phrases.",
+        "The overview relies only on the creator’s narration and quoted or paraphrased status information; no independent verification is provided.",
+        "Claims about hospitals, more than 70 countries, outage duration, and possible AI involvement require confirmation from authoritative incident records.",
+        "The episode was recorded while recovery was ongoing, so its description may not reflect the final incident scope or resolution.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5000,198 +5272,6 @@
         "Several names and terms appear mistranscribed or unclear in the captions.",
         "The official allegations and legal basis are presented without supporting documents or responses from DSA.",
         "Kulinski’s broader claims, comparisons, and predictions are opinions or allegations requiring separate verification.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "Mvxm0DPaMiY",
-      "title": "Trump PANICS As Top Dem Drops FINAL WARNING!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=Mvxm0DPaMiY",
-      "published_at": "2026-11-11T23:00:19.000000Z",
-      "summary": "Kyle Kulinski argues that progressive Democrats should use upcoming government-funding negotiations to stop financing the Iran war. He praises Chris Van Hollen’s reported “not a penny more” position and presents it as a challenge to Chuck Schumer’s Senate leadership. The episode contrasts Van Hollen’s demand with Patty Murray’s stated view that ending the war would require sustained political pressure rather than an immediate congressional action; Kulinski disputes that assessment, arguing that Congress could end the conflict simply by withholding funding. He criticizes Democrats who might accept a short-term continuing resolution without an Iran-related restriction, portraying that approach as preserving the status quo. Kulinski also cites purported polling showing broad public support for ending the war, including majorities of Republicans, independents, Democrats, and Americans overall. The segment is an opinionated commentary built around quoted remarks and reported claims; it does not independently establish the war’s legality, funding arrangements, polling methodology, or the political positions described.",
-      "topics": [
-        "Iran war funding",
-        "Government shutdown negotiations",
-        "Democratic Senate leadership",
-        "Public opinion polling"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Chris Van Hollen has called for ending the Iran war and refusing additional funding during the government-funding deadline.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            9,
-            13,
-            14,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50
-          ]
-        },
-        {
-          "claim": "Patty Murray has indicated that ending the Iran war would require sustained pressure rather than an immediate congressional action, and may support continued funding into 2027.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            138,
-            139,
-            140,
-            141
-          ]
-        },
-        {
-          "claim": "Congress has previously voted against the Iran war multiple times and effectively declared it unconstitutional.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            111,
-            112,
-            113,
-            114
-          ]
-        },
-        {
-          "claim": "Polling cited in the episode reports majority support for ending the Iran war among Americans overall, Republicans, Democrats, and independents.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            189,
-            190
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski endorses Van Hollen as a stronger potential Democratic Senate leader than Schumer.",
-          "evidence_segment_indices": [
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251,
-            252,
-            253
-          ],
-          "start_seconds": 41.2,
-          "end_seconds": 510.0
-        },
-        {
-          "point": "The central policy dispute concerns whether a continuing resolution should exclude funding for the Iran war.",
-          "evidence_segment_indices": [
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70
-          ],
-          "start_seconds": 106.079,
-          "end_seconds": 145.36
-        },
-        {
-          "point": "Murray’s remarks emphasize that political change would take sustained strategy and pressure.",
-          "evidence_segment_indices": [
-            84,
-            85,
-            86,
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            96,
-            97,
-            98,
-            99
-          ],
-          "start_seconds": 174.0,
-          "end_seconds": 209.04
-        },
-        {
-          "point": "Kulinski argues that Democrats should accept the leverage and political risks of a possible shutdown.",
-          "evidence_segment_indices": [
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175,
-            176
-          ],
-          "start_seconds": 328.479,
-          "end_seconds": 356.88
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "a293c9e6ae0d89032d2f845d2cadfff9c23c2c7c1bfb39d3e166bb9baceae1e6",
-      "transcript_captured_at": "2026-11-12T00:03:13.552856Z",
-      "summary_generated_at": "2026-11-12T00:08:26.672147Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains caption errors, garbled names, profanity placeholders, and overlapping segments.",
-        "Several claims are presented through quotations or references to unnamed or incompletely identified reports.",
-        "The episode provides no polling dates, sample sizes, methodology, legislative text, or independent documentation.",
-        "This overview reflects the supplied commentary only and does not verify the underlying events or claims.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
