@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T02:32:58.478732Z",
+  "generated_at": "2026-11-13T03:00:30.148674Z",
   "reporting_window": {
-    "start": "2026-11-06T02:32:58.478732Z",
-    "end": "2026-11-13T02:32:58.478732Z",
+    "start": "2026-11-06T03:00:30.148674Z",
+    "end": "2026-11-13T03:00:30.148674Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -12,59 +12,85 @@
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
       "identity_status": "verified",
-      "health": "feed_unavailable",
-      "discovery_status": "feed_unavailable",
-      "last_successful_poll": "2026-11-13T00:30:22.168015Z",
-      "warnings": [
-        "poll_overdue"
-      ]
+      "health": "success_new",
+      "discovery_status": "success_new",
+      "last_successful_poll": "2026-11-13T03:00:26.145938Z",
+      "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "feed_unavailable",
-      "discovery_status": "feed_unavailable",
-      "last_successful_poll": "2026-11-13T00:30:22.386832Z",
-      "warnings": [
-        "poll_overdue"
-      ]
+      "health": "success_new",
+      "discovery_status": "success_new",
+      "last_successful_poll": "2026-11-13T03:00:27.249242Z",
+      "warnings": []
     },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
       "identity_status": "verified",
-      "health": "feed_unavailable",
-      "discovery_status": "feed_unavailable",
-      "last_successful_poll": "2026-11-13T00:30:22.622464Z",
-      "warnings": [
-        "poll_overdue"
-      ]
+      "health": "success_no_new",
+      "discovery_status": "success_no_new",
+      "last_successful_poll": "2026-11-13T03:00:27.527097Z",
+      "warnings": []
     },
     {
       "creator": "Mike Figueredo — The Humanist Report",
       "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
       "identity_status": "verified",
-      "health": "feed_unavailable",
-      "discovery_status": "feed_unavailable",
-      "last_successful_poll": "2026-11-13T00:30:34.036831Z",
-      "warnings": [
-        "poll_overdue"
-      ]
+      "health": "success_no_new",
+      "discovery_status": "success_no_new",
+      "last_successful_poll": "2026-11-13T03:00:28.734639Z",
+      "warnings": []
     },
     {
       "creator": "House of El – AI",
       "channel_id": "UCsoc5Ad-fC7wWie2PH4rPcw",
       "identity_status": "verified",
-      "health": "feed_unavailable",
-      "discovery_status": "feed_unavailable",
-      "last_successful_poll": "2026-11-13T00:00:02.998899Z",
-      "warnings": [
-        "poll_overdue"
-      ]
+      "health": "success_no_new",
+      "discovery_status": "success_no_new",
+      "last_successful_poll": "2026-11-13T03:00:29.961404Z",
+      "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "CH978RRO-zE",
+      "title": "Breaking: Chris Van Hollen is in the race.",
+      "published_at": "2026-11-13T02:13:36.000000Z",
+      "url": "https://www.youtube.com/watch?v=CH978RRO-zE",
+      "first_seen": "2026-11-13T03:00:27.249242Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "t0k3CeMng5Q",
+      "title": "F*CK BIPARTISANSHIP (It’s Not 1996 Anymore, Stop Acting Like It Is) | The Kyle Kulinski Show",
+      "published_at": "2026-11-13T01:00:04.000000Z",
+      "url": "https://www.youtube.com/watch?v=t0k3CeMng5Q",
+      "first_seen": "2026-11-13T03:00:26.145938Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "of_o6Y50BQw",
+      "title": "Zionist BOOED At Dem Convention For Gaza G*nocide Denial | The Kyle Kulinski Show",
+      "published_at": "2026-11-13T00:30:06.000000Z",
+      "url": "https://www.youtube.com/watch?v=of_o6Y50BQw",
+      "first_seen": "2026-11-13T03:00:26.145938Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -81,7 +107,7 @@
       "creator": "Mike Figueredo — The Humanist Report",
       "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
       "video_id": "fxMWODb9Vrg",
-      "title": "Did Nvidia's CEO Pop the AI Bubble with His D**k? | Leftist Mafia #195",
+      "title": "Did Nvidia's CEO Pop the AI Bubble with His D**k? (w/ Jeff Waldorf) | Leftist Mafia #195",
       "published_at": "2026-11-12T23:33:55.000000Z",
       "url": "https://www.youtube.com/watch?v=fxMWODb9Vrg",
       "first_seen": "2026-11-13T00:00:02.582461Z",
