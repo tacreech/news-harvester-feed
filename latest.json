@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T22:00:49.887276Z",
+  "generated_at": "2026-11-13T22:31:29.597726Z",
   "reporting_window": {
-    "start": "2026-11-06T22:00:49.887276Z",
-    "end": "2026-11-13T22:00:49.887276Z",
+    "start": "2026-11-06T22:31:29.597726Z",
+    "end": "2026-11-13T22:31:29.597726Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -12,8 +12,8 @@
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
+      "health": "feed_unavailable",
+      "discovery_status": "feed_unavailable",
       "last_successful_poll": "2026-11-13T22:00:47.044250Z",
       "warnings": []
     },
@@ -23,7 +23,7 @@
       "identity_status": "verified",
       "health": "success_new",
       "discovery_status": "success_new",
-      "last_successful_poll": "2026-11-13T22:00:48.197144Z",
+      "last_successful_poll": "2026-11-13T22:31:28.691807Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-13T22:00:48.765784Z",
+      "last_successful_poll": "2026-11-13T22:31:28.904998Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-13T22:00:49.325650Z",
+      "last_successful_poll": "2026-11-13T22:31:29.139462Z",
       "warnings": []
     },
     {
@@ -50,11 +50,23 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-13T22:00:49.608528Z",
+      "last_successful_poll": "2026-11-13T22:31:29.436596Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "pd4YhKx6k34",
+      "title": "Major update from the federal government right now.",
+      "published_at": "2026-11-13T22:16:49.000000Z",
+      "url": "https://www.youtube.com/watch?v=pd4YhKx6k34",
+      "first_seen": "2026-11-13T22:31:28.691807Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
