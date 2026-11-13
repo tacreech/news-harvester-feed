@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T05:33:07.509418Z",
+  "generated_at": "2026-11-13T06:02:17.574735Z",
   "reporting_window": {
-    "start": "2026-11-06T05:33:07.509418Z",
-    "end": "2026-11-13T05:33:07.509418Z",
+    "start": "2026-11-06T06:02:17.574735Z",
+    "end": "2026-11-13T06:02:17.574735Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -23,8 +23,8 @@
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
+      "health": "feed_unavailable",
+      "discovery_status": "feed_unavailable",
       "last_successful_poll": "2026-11-13T05:31:35.104812Z",
       "warnings": []
     },
@@ -32,9 +32,9 @@
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
       "identity_status": "verified",
-      "health": "feed_unavailable",
-      "discovery_status": "feed_unavailable",
-      "last_successful_poll": "2026-11-13T05:01:26.153377Z",
+      "health": "success_no_new",
+      "discovery_status": "success_no_new",
+      "last_successful_poll": "2026-11-13T06:01:15.863020Z",
       "warnings": []
     },
     {
@@ -53,7 +53,9 @@
       "health": "feed_unavailable",
       "discovery_status": "feed_unavailable",
       "last_successful_poll": "2026-11-13T04:01:16.976466Z",
-      "warnings": []
+      "warnings": [
+        "poll_overdue"
+      ]
     }
   ],
   "videos": [
