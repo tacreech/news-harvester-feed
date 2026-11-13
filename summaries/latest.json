@@ -1,11 +1,241 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T00:12:01.192506Z",
+  "generated_at": "2026-11-13T01:12:01.128216Z",
   "reporting_window": {
-    "start": "2026-11-06T00:12:01.192506Z",
-    "end": "2026-11-13T00:12:01.192506Z"
+    "start": "2026-11-06T01:12:01.128216Z",
+    "end": "2026-11-13T01:12:01.128216Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "5M1riOMgwH4",
+      "title": "BILLIONAIRES ARE F*CKED | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=5M1riOMgwH4",
+      "published_at": "2026-11-12T23:00:27.000000Z",
+      "summary": "Kyle Kulinski argues that recent Democratic victories vindicate a populist, anti-billionaire message rather than moderation. He disputes commentary crediting moderate Democrats, asserting that left-wing candidates faced harsher opposition yet still won, while Abdul El-Sayed absorbed substantial attacks and helped other candidates avoid similar scrutiny. Kulinski says Democrats should focus less on electoral “horse race” strategy and more on delivering policies he attributes to public support, including higher wages, unions, universal healthcare, free college, medical-debt relief, taxation of the wealthy, and ending wars. He presents campaign excerpts emphasizing opposition to billionaires, corporate money, and political corruption. Kulinski further argues that Republicans offer a repeated scapegoating narrative, while Democrats have begun offering a competing explanation centered on inequality and concentrated wealth. He predicts billionaires and some technology executives will reposition toward the left as this message gains influence, and concludes with a call to prosecute wealthy or government actors he believes committed crimes.",
+      "topics": [
+        "Democratic electoral strategy",
+        "Populism and inequality",
+        "Billionaires and political money",
+        "Policy priorities",
+        "Technology executives"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Abdul El-Sayed won by seven points while facing billionaire spending and negative Fox News coverage.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            45,
+            46,
+            47,
+            48
+          ]
+        },
+        {
+          "claim": "The cited election victories represented a broad shift toward anti-billionaire rhetoric, including among candidates described as moderates.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            86,
+            87,
+            88,
+            89,
+            90,
+            251,
+            252,
+            253,
+            254,
+            255
+          ]
+        },
+        {
+          "claim": "Alex Karp said Democrats had corrected course in 2026 and that Palantir's products were essentially progressive, as attributed to Politico coverage.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            301,
+            302,
+            303,
+            304,
+            313,
+            318,
+            319,
+            323,
+            324,
+            325,
+            328,
+            329,
+            330
+          ]
+        },
+        {
+          "claim": "Kulinski attributes current economic hardship and public dissatisfaction primarily to billionaires, inequality, corruption, and money in politics.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            208,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            247,
+            248,
+            249,
+            250
+          ]
+        },
+        {
+          "claim": "Kulinski predicts billionaires and technology executives will increasingly reposition toward the political left.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            284,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290,
+            291,
+            301,
+            302,
+            303
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski rejects the claim that moderates alone drove Democratic wins.",
+          "evidence_segment_indices": [
+            40,
+            41,
+            42,
+            44,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61
+          ],
+          "start_seconds": 75.6,
+          "end_seconds": 127.6
+        },
+        {
+          "point": "He advocates a policy agenda centered on social benefits, labor protections, taxing the wealthy, and ending wars.",
+          "evidence_segment_indices": [
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+          ],
+          "start_seconds": 129.44,
+          "end_seconds": 155.76
+        },
+        {
+          "point": "He highlights campaign messages opposing billionaire influence, corporate money, and trickle-down economics.",
+          "evidence_segment_indices": [
+            94,
+            95,
+            96,
+            97,
+            100,
+            101,
+            102,
+            103,
+            108,
+            110,
+            111,
+            112
+          ],
+          "start_seconds": 189.519,
+          "end_seconds": 229.44
+        },
+        {
+          "point": "He frames the Democratic alternative as blaming concentrated wealth rather than minority groups for economic problems.",
+          "evidence_segment_indices": [
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            183,
+            188,
+            200,
+            201,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216
+          ],
+          "start_seconds": 351.6,
+          "end_seconds": 436.96
+        },
+        {
+          "point": "The episode ends with a confrontational call for criminal accountability for billionaires, immigration officials, and alleged war criminals.",
+          "evidence_segment_indices": [
+            331,
+            332,
+            333,
+            334,
+            335,
+            336,
+            337,
+            338,
+            339,
+            340,
+            341,
+            342,
+            343,
+            344,
+            345,
+            346,
+            347,
+            348
+          ],
+          "start_seconds": 658.959,
+          "end_seconds": 698.88
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "57cd08996cd3a037aa2917dd57ffa5020d010c4a1191dc97f3d42dbc4f04464d",
+      "transcript_captured_at": "2026-11-13T01:03:15.246448Z",
+      "summary_generated_at": "2026-11-13T01:08:28.488234Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies solely on the supplied transcript and does not independently verify election results, polling, quoted campaign excerpts, or media reports.",
+        "Several captions contain transcription errors, profanity redactions, overlapping segments, and uncertain names or terms.",
+        "The source frequently presents Kulinski's interpretations and allegations as commentary; those statements are attributed rather than treated as established facts.",
+        "The excerpt provides limited context about the elections, candidates, dates, and outcomes referenced.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5052,269 +5282,6 @@
         "The source provides commentary and quoted remarks but does not independently establish the underlying vote records, affiliations, attendance explanations, polling, or call volume.",
         "The introduction announces additional topics, but the supplied transcript ends during the Jeffries discussion, so those topics cannot be summarized from this evidence.",
         "Kulinski uses strongly evaluative language and presents some causal or conspiratorial interpretations that remain his claims rather than verified findings.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "4YJQ3EktMmI",
-      "title": "🚨 White House PANICS as Republicans BREAK and force BOMBSHELL Epstein Release, this is HUGE!!",
-      "url": "https://www.youtube.com/watch?v=4YJQ3EktMmI",
-      "published_at": "2026-11-11T20:01:30.000000Z",
-      "summary": "Creator Aaron Parnas presents the reported progress of an Epstein Files Transparency Act 2.0 petition, saying Thomas Massie announced that it reached 218 signatures and would force a House vote. Parnas describes the proposal as creating expedited federal-court access for specified officials and survivors, protecting survivors’ access to records about themselves, limiting certain DOJ privileges, and imposing penalties for knowingly concealing or withholding mandated files. He also attributes growing White House concern and Republican defections to the legislation’s momentum, while acknowledging these assessments come from his sources and interpretation. The episode then features interviews with incoming lawmakers Johnny Garcia and Richard Pan. Garcia discusses affordability, healthcare, immigration, oversight, and accountability. Pan emphasizes lowering healthcare costs, restoring or expanding coverage, investigating executive conduct, and potentially considering impeachment if investigations establish wrongdoing. The video includes a Rocket Money sponsorship and calls for subscriptions. The transcript is a single creator-produced program with interviews and promotional material, so legislative status, quoted political claims, and policy assertions require confirmation beyond this source.",
-      "topics": [
-        "Epstein records legislation",
-        "Congressional oversight",
-        "Healthcare affordability",
-        "Incoming lawmakers",
-        "Political accountability"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The Epstein Files Transparency Act 2.0 petition reached 218 signatures and would force a House vote.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31
-          ]
-        },
-        {
-          "claim": "The proposed legislation would create survivor and official access rights, limit DOJ withholding privileges, and impose penalties for certain conduct.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55
-          ]
-        },
-        {
-          "claim": "White House officials are increasingly unnerved by the legislation’s momentum and Republicans broke ranks to make it possible.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72
-          ]
-        },
-        {
-          "claim": "Garcia and Pan are incoming members associated with the stated congressional districts and discussed the priorities attributed to them.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            75,
-            76,
-            77,
-            80,
-            81,
-            240,
-            241,
-            242,
-            281,
-            282,
-            283
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames the petition as a major development in efforts to disclose Epstein-related records.",
-          "evidence_segment_indices": [
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30
-          ],
-          "start_seconds": 10.08,
-          "end_seconds": 75.28
-        },
-        {
-          "point": "The described bill would provide legal remedies and survivor access while adding accountability provisions.",
-          "evidence_segment_indices": [
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58
-          ],
-          "start_seconds": 75.28,
-          "end_seconds": 138.08
-        },
-        {
-          "point": "Garcia emphasizes affordability, healthcare, immigration reform, and congressional accountability.",
-          "evidence_segment_indices": [
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            151,
-            152,
-            153,
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160,
-            161,
-            162
-          ],
-          "start_seconds": 283.6,
-          "end_seconds": 360.88
-        },
-        {
-          "point": "Pan proposes lowering healthcare costs, restoring coverage-related measures, and conducting oversight and investigations.",
-          "evidence_segment_indices": [
-            297,
-            298,
-            299,
-            300,
-            301,
-            302,
-            303,
-            304,
-            305,
-            306,
-            307,
-            308,
-            309,
-            310,
-            311,
-            312,
-            313,
-            314,
-            315,
-            316,
-            317,
-            318,
-            319,
-            320
-          ],
-          "start_seconds": 646.16,
-          "end_seconds": 695.12
-        },
-        {
-          "point": "The episode also contains a Rocket Money advertisement and a subscription appeal.",
-          "evidence_segment_indices": [
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251,
-            252,
-            253,
-            254,
-            255,
-            256,
-            257,
-            258,
-            259,
-            260
-          ],
-          "start_seconds": 39.12,
-          "end_seconds": 575.839
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "12ef314bf52d63719b3bd3045a26b12a3184d319433e634627b8a19beb72fc2f",
-      "transcript_captured_at": "2026-11-11T21:03:13.974317Z",
-      "summary_generated_at": "2026-11-11T21:08:32.230644Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains caption defects, including misrecognized names, words, and fragmented sentences.",
-        "Legislative developments, political reactions, district identities, and policy claims are presented only through the creator’s narration or interview excerpts.",
-        "The source does not independently establish whether the petition, legislation, votes, or referenced political events occurred as described.",
-        "Promotional segments and overlapping captions may reduce clarity around transitions and attribution.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
