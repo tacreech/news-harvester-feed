@@ -1,11 +1,388 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T01:12:01.128216Z",
+  "generated_at": "2026-11-13T03:12:01.159505Z",
   "reporting_window": {
-    "start": "2026-11-06T01:12:01.128216Z",
-    "end": "2026-11-13T01:12:01.128216Z"
+    "start": "2026-11-06T03:12:01.159505Z",
+    "end": "2026-11-13T03:12:01.159505Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "t0k3CeMng5Q",
+      "title": "F*CK BIPARTISANSHIP (It’s Not 1996 Anymore, Stop Acting Like It Is) | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=t0k3CeMng5Q",
+      "published_at": "2026-11-13T01:00:04.000000Z",
+      "summary": "Kyle Kulinski argues that Wes Moore’s stated willingness to work with Republicans on immigration and AI safety reflects an outdated commitment to bipartisanship. Kulinski acknowledges Moore’s criticism of Stephen Miller but says cooperation with Trump-aligned figures would compromise Democratic priorities. He also focuses on Moore’s comment that he does not lose sleep over billionaires, interpreting it as evidence that Moore is seeking wealthy donors and has failed to recognize the political appeal of economic populism. Kulinski contrasts this approach with Democrats who emphasize affordability, taxes on the wealthy, unions, and expanded social programs. He further discusses a Texas energy-price dispute, presenting criticism of a proposed bill freeze as an example of Republicans opposing direct relief while supporting data-center subsidies. The episode’s central argument is that Democrats should be more confrontational toward MAGA politics and billionaires, rather than pursuing compromise or national unity. These conclusions are Kulinski’s commentary; the transcript provides excerpts and assertions but limited corroborating evidence.",
+      "topics": [
+        "Wes Moore and 2028 speculation",
+        "Bipartisanship and MAGA",
+        "Billionaires and Democratic messaging",
+        "Energy prices and regulation"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Wes Moore is preparing to run for president in 2028 and sought James Clyburn’s endorsement.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            9,
+            10,
+            11,
+            12,
+            15,
+            18
+          ]
+        },
+        {
+          "claim": "At least 4,000 people are missing from the detention facility called Alligator Alcatraz, which was shut down by courts.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75
+          ]
+        },
+        {
+          "claim": "A newly elected Texas governor proposed freezing energy bills while data centers receive subsidized electricity.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            242,
+            245,
+            246,
+            251,
+            252,
+            253,
+            289,
+            290,
+            291,
+            292,
+            293
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Moore says he would work with anyone while pursuing possible bipartisan agreements on immigration and AI safety, despite criticizing Stephen Miller’s record.",
+          "evidence_segment_indices": [
+            27,
+            31,
+            32,
+            33,
+            34,
+            35,
+            37,
+            39,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47
+          ],
+          "start_seconds": 54.48,
+          "end_seconds": 96.96
+        },
+        {
+          "point": "Kulinski rejects Moore’s approach and argues Democrats should defeat MAGA-aligned Republicans rather than compromise with them.",
+          "evidence_segment_indices": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108
+          ],
+          "start_seconds": 184.08,
+          "end_seconds": 213.2
+        },
+        {
+          "point": "Moore says he does not lose sleep over the number of billionaires; Kulinski interprets this as politically out of step and donor-friendly.",
+          "evidence_segment_indices": [
+            130,
+            138,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            149,
+            150,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188
+          ],
+          "start_seconds": 249.04,
+          "end_seconds": 361.84
+        },
+        {
+          "point": "The episode links Democratic electoral messaging to affordability, billionaire criticism, higher wages, unions, and taxes on the rich.",
+          "evidence_segment_indices": [
+            151,
+            152,
+            153,
+            154,
+            155,
+            158,
+            159,
+            160,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169
+          ],
+          "start_seconds": 287.84,
+          "end_seconds": 322.16
+        },
+        {
+          "point": "Kulinski presents the Texas energy debate as evidence that bipartisan cooperation is difficult even over consumer price relief.",
+          "evidence_segment_indices": [
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            260,
+            261,
+            262,
+            263,
+            264,
+            267,
+            268,
+            269,
+            270,
+            272,
+            273,
+            274,
+            275,
+            276,
+            283,
+            284,
+            285,
+            286
+          ],
+          "start_seconds": 487.759,
+          "end_seconds": 556.399
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "fdc0ef4a76c10e90e9013d5874a9b39000a26196ebbfb167a696c01ca08fbd85",
+      "transcript_captured_at": "2026-11-13T03:03:23.384484Z",
+      "summary_generated_at": "2026-11-13T03:08:47.138279Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a one-sided political commentary segment, not an independently verified account.",
+        "Captioning contains transcription errors, omissions, profanity placeholders, and apparent name or title distortions.",
+        "Several claims are presented rhetorically or without supporting documentation in the source.",
+        "Some political references and event descriptions are ambiguous because surrounding context is not included.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "of_o6Y50BQw",
+      "title": "Zionist BOOED At Dem Convention For Gaza G*nocide Denial | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=of_o6Y50BQw",
+      "published_at": "2026-11-13T00:30:06.000000Z",
+      "summary": "Kyle Kulinski discusses a clip from CrookedCon in which Joel Rubin, whom Kulinski identifies as a former J Street and Obama State Department official, argues that Democratic candidates who used the word “genocide” performed poorly and that the terminology may reduce electoral inclusiveness. Kulinski challenges that interpretation, questioning its scope and evidence, and says the audience’s reaction reflected growing opposition to accommodating such language. He presents his own view that describing Israel as an ethnostate is incompatible with equality and democracy, while characterizing J Street as more restrained than AIPAC but still a gatekeeping organization. Kulinski further argues that Democratic voters have shifted left on Israel and Gaza and predicts that support for Israel will not recover, even under a different Israeli prime minister. The episode is an opinionated response to a short exchange and includes broader assertions about polling, election results, organizations, and regional conduct that are not independently established in the supplied transcript.",
+      "topics": [
+        "CrookedCon panel dispute",
+        "Israel-Palestine political rhetoric",
+        "J Street and AIPAC",
+        "Democratic voter opinion"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Rubin said that only two Senate candidates used the word “genocide” and that they were the two worst-performing Democrats.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            80,
+            81,
+            82,
+            83
+          ]
+        },
+        {
+          "claim": "Kulinski says exit polls showed Abdul Sayed won about 60% of the Jewish vote in Michigan.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            198,
+            199,
+            200,
+            201,
+            202,
+            203
+          ]
+        },
+        {
+          "claim": "Kulinski asserts that Democratic base voters have broadly turned against Israel and that this shift is permanent.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            323,
+            324,
+            325,
+            326,
+            327,
+            328,
+            329,
+            330,
+            331,
+            332,
+            333,
+            334,
+            335,
+            336
+          ]
+        },
+        {
+          "claim": "Kulinski alleges that Israel is pursuing genocide, ethnic cleansing, territorial expansion, and occupations across Gaza, the West Bank, Syria, and southern Lebanon.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            337,
+            338,
+            339,
+            340,
+            341,
+            342,
+            343,
+            344,
+            345,
+            346
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The featured exchange concerns whether using the term “genocide” harms Democratic electoral prospects and whether it is legally established.",
+          "evidence_segment_indices": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            122,
+            123,
+            124,
+            125
+          ],
+          "start_seconds": 195.44,
+          "end_seconds": 248.4
+        },
+        {
+          "point": "Kulinski disputes Rubin’s apparent electoral analysis and argues that moral clarity should outweigh strategic messaging.",
+          "evidence_segment_indices": [
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155
+          ],
+          "start_seconds": 168.319,
+          "end_seconds": 314.0
+        },
+        {
+          "point": "He characterizes J Street as a liberal Zionist organization that limits acceptable criticism of Israel while acknowledging it opposes some severe abuses.",
+          "evidence_segment_indices": [
+            4,
+            5,
+            6,
+            7,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            264,
+            265,
+            266
+          ],
+          "start_seconds": 10.88,
+          "end_seconds": 537.36
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "67ae0eacfc20bdda855e7bfb311d4a47124cae0027ac54b72bfe17d6f8497b9f",
+      "transcript_captured_at": "2026-11-13T03:03:16.338135Z",
+      "summary_generated_at": "2026-11-13T03:08:25.771813Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is an automatically generated caption record with overlapping segments, omissions, profanity placeholders, and occasional speaker ambiguity.",
+        "Kulinski repeatedly expresses uncertainty about dates, invitations, affiliations, and the scope of the election analysis.",
+        "The overview reflects claims and opinions presented in the episode; the supplied source does not provide the underlying video, polling, legal records, or election datasets.",
+        "The source excerpt does not independently establish the factual allegations or predictions it contains.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4949,339 +5326,6 @@
         "The transcript contains substantial caption errors, malformed names, profanity redactions, and unclear speaker boundaries.",
         "Several numerical, procedural, polling, fundraising, and threat-related statements are presented through quoted reports or commentary and require independent verification.",
         "The overview reflects only this episode’s transcript and does not establish the broader political context or the outcome of the speaker contest.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "MRuMMaC7ONo",
-      "title": "🚨 Military TURNS on Hegseth as he DISRESPECTS Troops, this is INSANE!! It’s OVER!!",
-      "url": "https://www.youtube.com/watch?v=MRuMMaC7ONo",
-      "published_at": "2026-11-11T21:34:01.000000Z",
-      "summary": "Creator Aaron Parnas presents a strongly critical political discussion centered on Defense Secretary Pete Hegseth, whom the episode alleges behaved disrespectfully at the Tomb of the Unknown Soldier and faced an unsuccessful House impeachment effort. The program then examines competing explanations for the vote, including member absences, party attendance, and leadership responsibility. Parnas and Jessica Tarlov also debate Democratic priorities, arguing that healthcare proposals should be paired with accountability and oversight. They discuss White House warnings concerning congressional investigations, the Republican selection of Jim Jordan for a leadership role, and predictions about his electoral prospects. The episode additionally covers technology companies preparing for possible Democratic scrutiny, allegations involving Nvidia CEO Jensen Huang, Joe Biden’s memoir and health, and viewer questions about judicial appointments and statehood. The discussion is opinionated and mixes reported claims, commentary, predictions, advertising, and conversational speculation; the supplied captions alone do not establish the underlying facts.",
-      "topics": [
-        "Defense Secretary controversy",
-        "House impeachment vote",
-        "Congressional leadership",
-        "Oversight and technology",
-        "Democratic policy agenda"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The episode alleges that Pete Hegseth was formally reprimanded after laughing or chatting near the Tomb of the Unknown Soldier and being told to maintain silence and respect.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            2,
-            3,
-            10,
-            11,
-            12,
-            13,
-            25,
-            26
-          ]
-        },
-        {
-          "claim": "The episode reports that the House voted 211 to 204 to refer impeachment articles concerning Hegseth to committee.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            113,
-            114,
-            115,
-            116,
-            117,
-            118
-          ]
-        },
-        {
-          "claim": "The episode reports that Jim Jordan defeated Steve Scalise 106 to 73 in a Republican leadership contest.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            465,
-            466,
-            467,
-            468,
-            469
-          ]
-        },
-        {
-          "claim": "The episode relays an allegation that intelligence linked Nvidia CEO Jensen Huang to a woman believed to be a Chinese spy and says this conflicted with Donald Trump’s later account.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            687,
-            688,
-            689,
-            690,
-            691,
-            692,
-            693,
-            694,
-            695,
-            696
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The hosts frame the Tomb of the Unknown Soldier incident as disrespectful, while the transcript includes a recorded instruction to maintain silence and respect.",
-          "evidence_segment_indices": [
-            10,
-            11,
-            12,
-            13,
-            25,
-            26,
-            30,
-            31
-          ],
-          "start_seconds": 27.76,
-          "end_seconds": 129.119
-        },
-        {
-          "point": "Discussion of the impeachment effort focuses on the 211–204 vote, absent lawmakers, and disagreement over whether attendance changed the outcome.",
-          "evidence_segment_indices": [
-            81,
-            85,
-            86,
-            97,
-            98,
-            100,
-            113,
-            115,
-            125,
-            126,
-            128,
-            130,
-            138,
-            140,
-            198,
-            199
-          ],
-          "start_seconds": 228.799,
-          "end_seconds": 474.0
-        },
-        {
-          "point": "The hosts argue that Democratic leadership must address concerns about attendance, accountability, healthcare, and the party’s future agenda.",
-          "evidence_segment_indices": [
-            250,
-            251,
-            252,
-            302,
-            303,
-            304,
-            305,
-            310,
-            311,
-            327,
-            331,
-            338,
-            339,
-            366,
-            367,
-            371,
-            372
-          ],
-          "start_seconds": 583.68,
-          "end_seconds": 853.92
-        },
-        {
-          "point": "The episode discusses White House warnings about congressional subpoenas and interprets them as political pressure, with the hosts offering their own predictions about legal and electoral consequences.",
-          "evidence_segment_indices": [
-            401,
-            402,
-            403,
-            404,
-            405,
-            406,
-            407,
-            408,
-            421,
-            427,
-            428,
-            432,
-            440,
-            441,
-            450
-          ],
-          "start_seconds": 905.92,
-          "end_seconds": 1014.56
-        },
-        {
-          "point": "Additional segments cover technology firms’ political positioning, Biden’s memoir and cancer treatment, and speculative future Supreme Court appointments and statehood.",
-          "evidence_segment_indices": [
-            630,
-            631,
-            632,
-            633,
-            635,
-            636,
-            641,
-            642,
-            755,
-            762,
-            764,
-            768,
-            795,
-            796,
-            797,
-            798,
-            853,
-            858,
-            860,
-            891,
-            892
-          ],
-          "start_seconds": 1383.44,
-          "end_seconds": 1901.919
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "a13b1169e75b636c1dafb446e20600f2a615a31135e4f656b6465cc5a517564c",
-      "transcript_captured_at": "2026-11-11T23:03:19.479206Z",
-      "summary_generated_at": "2026-11-11T23:08:26.096111Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Captions contain frequent misrecognitions and inconsistent names, including variants of Hegseth, Huang, and other public figures.",
-        "Several statements are presented as host opinions, predictions, allegations, or conversational interpretations rather than documented findings.",
-        "The source is a transcript excerpt and does not independently provide the cited vote records, letters, reporting, investigations, or legal outcomes.",
-        "Some segments are overlapping, fragmented, or missing surrounding context, limiting precise speaker attribution.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "QUNbn9F0o9k",
-      "title": "Hakeem Jeffries F*CKS UP Hegseth Impeachment!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=QUNbn9F0o9k",
-      "published_at": "2026-11-11T21:30:13.000000Z",
-      "summary": "Kyle Kulinski argues that House Democrats mishandled a procedural vote concerning Pete Hegseth’s impeachment, allowing a motion to block the effort to pass 211–204. He attributes the outcome to 11 Democrats missing the vote, contending that seven additional votes would have defeated the motion, and criticizes Hakeem Jeffries and Democratic leadership for failing to coordinate attendance. Kulinski also highlights Jeffries’s statement that he had not yet spoken with members about the resolution, presenting it as evidence of weak leadership. He discusses reported scheduling conflicts involving an Elect Democratic Women event and the vote, as well as individual explanations for absences, but frames possible connections between those facts as suspicion rather than proof. The episode further contrasts the Democratic failure with Ted Cruz’s reported acknowledgment that Republicans previously lacked votes to stop impeachment. Kulinski predicts Democrats may revisit impeachment after gaining a larger House majority and questions Jeffries’s leadership prospects, citing reported constituent calls and low approval figures. The provided transcript ends before the other topics announced in the introduction are covered.",
-      "topics": [
-        "Pete Hegseth impeachment vote",
-        "House Democratic leadership",
-        "Hakeem Jeffries",
-        "Congressional attendance",
-        "Democratic leadership approval"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A motion blocking Pete Hegseth’s impeachment passed 211–204, and 11 Democrats missed the vote.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            60,
-            61,
-            65,
-            84,
-            85,
-            98
-          ]
-        },
-        {
-          "claim": "Seven additional votes against the motion would have defeated it.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            86,
-            87
-          ]
-        },
-        {
-          "claim": "An Elect Democratic Women event overlapped with the impeachment vote, and several absent members had ties to the organization or its affiliated PAC.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            144,
-            150,
-            157,
-            161,
-            164
-          ]
-        },
-        {
-          "claim": "Ted Cruz said Republicans previously lacked the votes to stop a Hegseth impeachment.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            187,
-            190,
-            194,
-            196
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski attributes the failed impeachment effort to Democratic leadership and missed attendance.",
-          "evidence_segment_indices": [
-            67,
-            75,
-            78,
-            83
-          ],
-          "start_seconds": 146.239,
-          "end_seconds": 183.92
-        },
-        {
-          "point": "He presents Jeffries’s lack of prior discussions with the caucus as a leadership failure.",
-          "evidence_segment_indices": [
-            106,
-            110,
-            116,
-            120
-          ],
-          "start_seconds": 233.599,
-          "end_seconds": 267.12
-        },
-        {
-          "point": "He reports that Pelosi was absent while receiving an award in San Francisco.",
-          "evidence_segment_indices": [
-            178,
-            180,
-            181
-          ],
-          "start_seconds": 385.28,
-          "end_seconds": 397.12
-        },
-        {
-          "point": "He says Democrats may revisit impeachment after a future larger House majority.",
-          "evidence_segment_indices": [
-            125,
-            127,
-            130,
-            132
-          ],
-          "start_seconds": 274.56,
-          "end_seconds": 293.28
-        },
-        {
-          "point": "He cites reported anti-Jeffries calls and approval figures while questioning Jeffries’s leadership prospects.",
-          "evidence_segment_indices": [
-            229,
-            235,
-            239,
-            267,
-            271
-          ],
-          "start_seconds": 494.16,
-          "end_seconds": 596.8
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "45da39cb1f6e5cbd1dc3607f55891c1cc1d0d126200b0e33d751a2d7c3c4221b",
-      "transcript_captured_at": "2026-11-11T23:33:13.653592Z",
-      "summary_generated_at": "2026-11-11T23:38:23.761159Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains substantial automatic-caption errors and garbled names, including references to Hegseth and Jeffries.",
-        "The source provides commentary and quoted remarks but does not independently establish the underlying vote records, affiliations, attendance explanations, polling, or call volume.",
-        "The introduction announces additional topics, but the supplied transcript ends during the Jeffries discussion, so those topics cannot be summarized from this evidence.",
-        "Kulinski uses strongly evaluative language and presents some causal or conspiratorial interpretations that remain his claims rather than verified findings.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
