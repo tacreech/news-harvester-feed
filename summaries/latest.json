@@ -1,11 +1,164 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T03:12:01.159505Z",
+  "generated_at": "2026-11-13T16:42:01.130690Z",
   "reporting_window": {
-    "start": "2026-11-06T03:12:01.159505Z",
-    "end": "2026-11-13T03:12:01.159505Z"
+    "start": "2026-11-06T16:42:01.130690Z",
+    "end": "2026-11-13T16:42:01.130690Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "JmdRubafyrE",
+      "title": "🚨 'IT'S OVER' — Vance’s Political Future TANKS as Trump’s Cabinet Throws EACH OTHER Under the BUS!!",
+      "url": "https://www.youtube.com/watch?v=JmdRubafyrE",
+      "published_at": "2026-11-13T15:14:25.000000Z",
+      "summary": "Aaron Parnas presents a commentary episode arguing that JD Vance’s political position has weakened amid disagreements with Donald Trump over the Iran war. The episode says Vance has not decided whether to seek the presidency, while some allies reportedly still expect him to run. It also describes Democratic electoral gains, including an alleged Alaska gubernatorial victory and a resulting shift in the balance of governorships. The discussion then turns to a leadership contest between Chuck Schumer and Chris Van Hollen, with Van Hollen criticizing Schumer’s involvement in Democratic primaries and campaign-finance decisions. Finally, Parnas portrays tension within the Trump administration over Nvidia-related export controls, highlighting Treasury Secretary Scott Bessent’s statement that Commerce had authority over the relevant entity-list process. The episode is primarily an argumentative political analysis: several claims are attributed to unnamed allies, media reports, interviews, or the presenter, and the transcript alone does not independently establish the underlying events.",
+      "topics": [
+        "JD Vance and presidential prospects",
+        "Iran war and Trump administration tensions",
+        "Democratic electoral gains",
+        "Senate Democratic leadership contest",
+        "Nvidia export-control dispute"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Vance is seriously considering not running for president, though no final decision has been made.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            4,
+            5,
+            27,
+            28,
+            31,
+            32
+          ]
+        },
+        {
+          "claim": "Trump and allies sidelined or criticized Vance over his position on the Iran war.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            6,
+            7,
+            47,
+            48,
+            67,
+            68,
+            72,
+            73,
+            81,
+            83
+          ]
+        },
+        {
+          "claim": "A Democrat won Alaska’s governorship, producing a Democratic majority of 30 governorships to Republicans’ 20.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            109,
+            110,
+            111,
+            112,
+            120,
+            121,
+            122
+          ]
+        },
+        {
+          "claim": "Chris Van Hollen challenged Chuck Schumer for Democratic Senate leadership.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            130,
+            131,
+            132,
+            133
+          ]
+        },
+        {
+          "claim": "Treasury and other agencies favored placing Megaspeed on an entity list, while Commerce controlled the decision.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            203,
+            211,
+            214,
+            215,
+            216,
+            217
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode frames Vance’s future as uncertain because of tensions over Iran and the difficulty of both supporting and distancing himself from Trump.",
+          "evidence_segment_indices": [
+            47,
+            72,
+            75,
+            85,
+            104,
+            105
+          ],
+          "start_seconds": 104.079,
+          "end_seconds": 235.76
+        },
+        {
+          "point": "It reports Democratic gains in Alaska and Kansas as evidence of broader electoral momentum.",
+          "evidence_segment_indices": [
+            108,
+            109,
+            118,
+            119,
+            126,
+            127
+          ],
+          "start_seconds": 237.2,
+          "end_seconds": 289.36
+        },
+        {
+          "point": "Van Hollen argues that Democratic leaders should avoid taking sides in open primaries and criticizes related campaign-finance choices.",
+          "evidence_segment_indices": [
+            147,
+            150,
+            168,
+            173,
+            185,
+            188,
+            189
+          ],
+          "start_seconds": 322.639,
+          "end_seconds": 410.08
+        },
+        {
+          "point": "The closing segment presents the Nvidia dispute as an example of conflict among Trump administration cabinet officials.",
+          "evidence_segment_indices": [
+            193,
+            194,
+            195,
+            196,
+            221,
+            223,
+            228,
+            229
+          ],
+          "start_seconds": 414.639,
+          "end_seconds": 505.36
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "76d604e0e2a915a310260fbbc51023b56b241180e03d74ca29577a7ba877865a",
+      "transcript_captured_at": "2026-11-13T16:33:13.779263Z",
+      "summary_generated_at": "2026-11-13T16:38:23.552386Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains caption errors and uncertain names, including apparent distortions of people, agencies, and companies.",
+        "The episode relies partly on unnamed sources, reported polls, media projections, and interview excerpts that are not independently available here.",
+        "The source provides commentary and selected excerpts rather than full underlying documents or complete context for the reported events.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5070,262 +5223,6 @@
         "This overview reflects only the supplied episode transcript and does not independently establish election results, margins, historical distinctions, or other political claims.",
         "Several predictions and interpretations are attributed to interview participants rather than presented as verified outcomes.",
         "Some references to election timing, offices, and state results are ambiguous in the transcript.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "6erTFk14rKM",
-      "title": "AOC Reveals DARK TRUTH Dem Leaders Don’t Want You To Know | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=6erTFk14rKM",
-      "published_at": "2026-11-11T22:00:24.000000Z",
-      "summary": "Kyle Kulinski discusses the contest over Democratic House leadership and whether Hakeem Jeffries will become speaker. He argues that progressive Democrats may have enough votes to block Jeffries, while criticizing members who present his election as inevitable or say they need an alternative candidate before withholding support. The episode includes excerpts from Alexandria Ocasio-Cortez describing the speaker vote as a choice among names, emphasizing the need for better internal democratic processes, and saying members should be able to disagree without retaliation. Kulinski interprets her comments as an indirect rationale for supporting Jeffries and contrasts them with an incoming representative’s account of alleged pressure from senior Democrats, including threats of political retaliation. He also notes a competing argument that Jeffries’ less forceful leadership style could give progressives more room to organize. The discussion relies on quoted media reports, interviews, and social-media clips; the transcript alone does not establish the accuracy of the reported vote counts, approval ratings, threats, or other allegations.",
-      "topics": [
-        "House speaker contest",
-        "Democratic leadership",
-        "Progressive strategy",
-        "Internal party democracy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The episode reports that roughly 43 House Democrats could prevent Hakeem Jeffries from becoming speaker and that the Progressive Caucus expected more than 100 members.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "claim": "The episode reports that an incoming representative was threatened with political retaliation if he did not support Jeffries.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            475,
-            476,
-            477,
-            478,
-            487,
-            488,
-            489,
-            498,
-            499,
-            500,
-            501
-          ]
-        },
-        {
-          "claim": "The episode cites a petition with more than one million signatures opposing Jeffries as speaker and reports heavy constituent call volumes.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            91,
-            92,
-            93,
-            94,
-            95,
-            96,
-            97,
-            98,
-            99,
-            290,
-            291,
-            292,
-            303,
-            304,
-            305,
-            306,
-            307,
-            308,
-            309
-          ]
-        },
-        {
-          "claim": "The episode attributes claims about Jeffries’ approval rating, political donations, and policy positions to Kulinski or interview participants, but the transcript does not independently substantiate them.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            152,
-            153,
-            154,
-            155,
-            156,
-            294,
-            295,
-            296,
-            297,
-            578,
-            579,
-            580,
-            581,
-            582
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski argues that Democrats opposed to Jeffries could vote for another name and force multiple speaker ballots.",
-          "evidence_segment_indices": [
-            63,
-            64,
-            65,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            122,
-            123,
-            361,
-            362,
-            363,
-            364,
-            365
-          ],
-          "start_seconds": 125.36,
-          "end_seconds": 701.92
-        },
-        {
-          "point": "Ocasio-Cortez says the process requires members to select a name and emphasizes changing conditions inside the caucus before the vote.",
-          "evidence_segment_indices": [
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            324,
-            325,
-            326,
-            327,
-            328,
-            329,
-            330,
-            331,
-            332,
-            333
-          ],
-          "start_seconds": 199.04,
-          "end_seconds": 645.519
-        },
-        {
-          "point": "Ocasio-Cortez describes declining internal democracy and a desire for members to disagree without fear of retribution.",
-          "evidence_segment_indices": [
-            336,
-            337,
-            338,
-            339,
-            340,
-            341,
-            342,
-            343,
-            344,
-            345,
-            346,
-            347,
-            348,
-            349,
-            435,
-            436,
-            437,
-            438,
-            439,
-            440,
-            441,
-            442,
-            443,
-            444
-          ],
-          "start_seconds": 647.6,
-          "end_seconds": 837.199
-        },
-        {
-          "point": "Kulinski presents a more favorable argument that Jeffries’ hands-off leadership could allow organized progressives greater influence.",
-          "evidence_segment_indices": [
-            552,
-            553,
-            554,
-            555,
-            556,
-            557,
-            558,
-            559,
-            560,
-            561,
-            562,
-            563,
-            564,
-            565,
-            566,
-            567,
-            568,
-            569,
-            570,
-            571
-          ],
-          "start_seconds": 1056.72,
-          "end_seconds": 1101.039
-        },
-        {
-          "point": "The episode ends with Kulinski warning that failing to challenge the leadership choice could weaken confidence in future progressive policy fights.",
-          "evidence_segment_indices": [
-            583,
-            584,
-            585,
-            586,
-            587,
-            588,
-            589,
-            590,
-            591,
-            592,
-            593,
-            594,
-            595,
-            596,
-            597,
-            598,
-            599,
-            600,
-            601,
-            602,
-            603
-          ],
-          "start_seconds": 1120.48,
-          "end_seconds": 1161.039
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "a4b91024ff9b8110d19c3bc1a5ddba749c99e453b2e42107e2366c909c4cc444",
-      "transcript_captured_at": "2026-11-11T23:33:28.635135Z",
-      "summary_generated_at": "2026-11-11T23:39:09.284295Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains substantial caption errors, malformed names, profanity redactions, and unclear speaker boundaries.",
-        "Several numerical, procedural, polling, fundraising, and threat-related statements are presented through quoted reports or commentary and require independent verification.",
-        "The overview reflects only this episode’s transcript and does not establish the broader political context or the outcome of the speaker contest.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
