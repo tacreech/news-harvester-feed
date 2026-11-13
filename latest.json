@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T18:00:15.228968Z",
+  "generated_at": "2026-11-13T18:30:14.645147Z",
   "reporting_window": {
-    "start": "2026-11-06T18:00:15.228968Z",
-    "end": "2026-11-13T18:00:15.228968Z",
+    "start": "2026-11-06T18:30:14.645147Z",
+    "end": "2026-11-13T18:30:14.645147Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,7 +14,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-13T18:00:13.508201Z",
+      "last_successful_poll": "2026-11-13T18:30:13.475086Z",
       "warnings": []
     },
     {
@@ -23,7 +23,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-13T18:00:13.691890Z",
+      "last_successful_poll": "2026-11-13T18:30:13.711143Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-13T18:00:14.124587Z",
+      "last_successful_poll": "2026-11-13T18:30:13.924249Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-13T18:00:14.585878Z",
+      "last_successful_poll": "2026-11-13T18:30:14.184088Z",
       "warnings": []
     },
     {
@@ -50,7 +50,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-13T18:00:15.102516Z",
+      "last_successful_poll": "2026-11-13T18:30:14.448454Z",
       "warnings": []
     }
   ],
@@ -1974,18 +1974,6 @@
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "expired"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "qN6Q1J_OGuY",
-      "title": "It’s a new day for Elon Musk in Texas.",
-      "published_at": "2026-11-06T18:20:54.000000Z",
-      "url": "https://www.youtube.com/watch?v=qN6Q1J_OGuY",
-      "first_seen": "2026-11-06T19:00:54.091248Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "not_queued"
     }
   ]
 }
