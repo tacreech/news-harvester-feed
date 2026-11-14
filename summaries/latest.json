@@ -1,11 +1,219 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T08:12:01.154166Z",
+  "generated_at": "2026-11-14T16:12:01.187179Z",
   "reporting_window": {
-    "start": "2026-11-07T08:12:01.154166Z",
-    "end": "2026-11-14T08:12:01.154166Z"
+    "start": "2026-11-07T16:12:01.187179Z",
+    "end": "2026-11-14T16:12:01.187179Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "P6RS4G4oEEQ",
+      "title": "‘REMOVE HIM’ — Americans FURIOUS with Trump as White House ABSENT During NATIONWIDE MELTDOWN",
+      "url": "https://www.youtube.com/watch?v=P6RS4G4oEEQ",
+      "published_at": "2026-11-14T15:55:27.000000Z",
+      "summary": "Creator Aaron Parnas presents a critical account of a reported nationwide aviation disruption and argues that the Trump administration failed to communicate adequately during it. He says a four-hour ground stop affected thousands of flights and stranded more than a million travelers, while officials attributed the breakdown to aging equipment and sought substantial funding for a replacement system. Parnas also highlights reported air-traffic-controller staffing and workload concerns, while acknowledging that the cause of the disruption was not known. The episode broadens its focus to other developments the creator considers alarming: the United States reportedly losing measles-elimination status amid rising cases, a bomb threat and evacuation at an Illinois ethanol plant, and an unverified report concerning ships near the Strait of Hormuz. Parnas contrasts the administration’s public messaging with the president’s reported silence on the aviation crisis and includes officials defending Trump’s delegation of responsibility. The source is a commentary episode, and its factual claims require independent verification.",
+      "topics": [
+        "Aviation disruption and air-traffic control",
+        "Trump administration communications",
+        "Measles and public health",
+        "Illinois bomb threat",
+        "International security"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A nationwide ground stop reportedly affected thousands of flights and more than a million travelers.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "claim": "The aviation disruption was linked in official comments to failed legacy equipment, while officials sought major funding for modernization.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            37,
+            42,
+            43,
+            47,
+            48,
+            52,
+            54,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61
+          ]
+        },
+        {
+          "claim": "The United States reportedly lost measles-elimination status after more than a year of continuous spread and thousands of confirmed cases.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            178,
+            179,
+            180,
+            181,
+            183,
+            184,
+            185,
+            186,
+            187
+          ]
+        },
+        {
+          "claim": "A bomb threat at an Illinois ethanol plant reportedly led to evacuations and a continuing one-mile evacuation order.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207
+          ]
+        },
+        {
+          "claim": "Iran reportedly said five ships were hit by mines in the Strait of Hormuz in one day.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            18,
+            19,
+            20
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames the episode around alleged presidential silence during a major aviation disruption.",
+          "evidence_segment_indices": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            173,
+            174,
+            175
+          ],
+          "start_seconds": 8.72,
+          "end_seconds": 410.72
+        },
+        {
+          "point": "Officials defend Trump’s leadership and say he empowered transportation officials to explain the incident.",
+          "evidence_segment_indices": [
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104
+          ],
+          "start_seconds": 204.239,
+          "end_seconds": 248.799
+        },
+        {
+          "point": "The episode cites reported controller shortages, demanding schedules, and projected retirements as broader system concerns.",
+          "evidence_segment_indices": [
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149
+          ],
+          "start_seconds": 292.4,
+          "end_seconds": 353.199
+        },
+        {
+          "point": "Additional reported developments include measles transmission and an Illinois industrial evacuation.",
+          "evidence_segment_indices": [
+            178,
+            179,
+            180,
+            184,
+            185,
+            186,
+            192,
+            193,
+            194,
+            200,
+            201,
+            202,
+            205,
+            206,
+            207
+          ],
+          "start_seconds": 412.72,
+          "end_seconds": 476.16
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "786576d93cc1b8a822ab6c2d6cd734e0e075ee94ef3dd1367796b641190e7520",
+      "transcript_captured_at": "2026-11-14T16:03:14.114530Z",
+      "summary_generated_at": "2026-11-14T16:08:25.828619Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is commentary and does not independently substantiate its claims.",
+        "Several captions contain apparent transcription errors, including place names, figures, and fragmented speech.",
+        "The episode says the aviation disruption’s cause was not known, despite discussing equipment and staffing concerns.",
+        "The source provides limited context for the Strait of Hormuz report and other cited events.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4987,256 +5195,6 @@
         "The transcript does not provide the full interview or a direct comparison demonstrating which portions were removed.",
         "Automatic captions contain apparent name errors, omitted words, profanity placeholders, and overlapping speech.",
         "Several allegations and predictions are stated without supporting documentation in the supplied material.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mike Figueredo — The Humanist Report",
-      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
-      "video_id": "kUOYG4iJnqQ",
-      "title": "Defiant Jeffries Faceplants as Ayanna Pressley Gains Public Support for Speakership",
-      "url": "https://www.youtube.com/watch?v=kUOYG4iJnqQ",
-      "published_at": "2026-11-12T00:58:11.000000Z",
-      "summary": "The creator argues that Democratic leadership is vulnerable after a House impeachment-related vote failed when 11 Democrats were absent, and he criticizes Hakeem Jeffries for allegedly failing to coordinate votes. He presents Ayanna Pressley’s statement about Democrats becoming more confrontational, along with a petition supporting her, as possible evidence that she may challenge Jeffries, while acknowledging that a candidacy is uncertain and that Jeffries remains favored. The episode also describes Bernie Sanders’ opposition to Chuck Schumer’s reelection as Senate Democratic leader and claims that other senators are considering alternatives. Throughout, the creator urges progressive and newly elected Democrats to resist pressure from party leadership and pursue changes in both chambers. He further discusses allegations that absences, leadership decisions, and pressure on dissenting lawmakers may reflect intentional political coordination, but these claims are presented through commentary and cited reports rather than independently established evidence. The transcript is highly partisan and includes unclear names, censored profanity, and several claims requiring external verification.",
-      "topics": [
-        "Democratic leadership contests",
-        "Hakeem Jeffries and House leadership",
-        "Ayanna Pressley speakership speculation",
-        "Chuck Schumer Senate leadership",
-        "Party dissent and accountability"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The creator says 11 Democrats were absent during an impeachment-related vote, contributing to its failure.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            49,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58
-          ]
-        },
-        {
-          "claim": "The creator says a petition supporting Ayanna Pressley’s possible speakership bid rapidly gained signatures and might reach 20,000.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            135,
-            136,
-            137,
-            138,
-            139,
-            140,
-            148,
-            149,
-            154,
-            155,
-            160,
-            161,
-            162,
-            163,
-            164,
-            165
-          ]
-        },
-        {
-          "claim": "The creator alleges that Democratic leaders or allies pressured lawmakers to support Jeffries, including threats affecting their careers.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            287,
-            288,
-            289,
-            290,
-            291,
-            292,
-            293,
-            294,
-            295,
-            296,
-            297,
-            298,
-            299,
-            300,
-            301,
-            302,
-            303,
-            304,
-            305,
-            306,
-            307,
-            308,
-            309,
-            310
-          ]
-        },
-        {
-          "claim": "The creator says Bernie Sanders is organizing opposition to Chuck Schumer’s reelection as Senate Democratic leader.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            23,
-            24,
-            25,
-            399,
-            400,
-            401,
-            402,
-            405,
-            406,
-            407,
-            408,
-            409,
-            410,
-            411,
-            412,
-            413,
-            414,
-            415,
-            416,
-            417,
-            418,
-            419,
-            420,
-            421
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator frames Jeffries as politically weakened after the failed vote and questions his leadership competence.",
-          "evidence_segment_indices": [
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86
-          ],
-          "start_seconds": 85.2,
-          "end_seconds": 173.36
-        },
-        {
-          "point": "Pressley’s statement is interpreted by the creator as a possible signal that she is testing support for a speakership challenge.",
-          "evidence_segment_indices": [
-            135,
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144,
-            145,
-            146,
-            147,
-            148,
-            149,
-            150,
-            151
-          ],
-          "start_seconds": 268.639,
-          "end_seconds": 302.72
-        },
-        {
-          "point": "The episode links House and Senate leadership contests to broader demands for Democratic change and greater willingness to challenge party leadership.",
-          "evidence_segment_indices": [
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            229,
-            230,
-            231,
-            232,
-            233,
-            405,
-            406,
-            407,
-            408,
-            409,
-            410,
-            414,
-            415
-          ],
-          "start_seconds": 432.72,
-          "end_seconds": 847.68
-        },
-        {
-          "point": "The creator acknowledges that defeating Jeffries or Schumer remains difficult and that Pressley’s candidacy is not confirmed.",
-          "evidence_segment_indices": [
-            30,
-            31,
-            32,
-            33,
-            121,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            568,
-            569,
-            570,
-            571,
-            572
-          ],
-          "start_seconds": 60.96,
-          "end_seconds": 1176.08
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "e09189692a3cc460b41f38c67f92a13349ea0b99eb7b0c16346e1475cd31992c",
-      "transcript_captured_at": "2026-11-12T03:03:13.259853Z",
-      "summary_generated_at": "2026-11-12T03:08:27.742496Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains many recognition errors and unclear names or acronyms, including references to the impeachment matter and several officials.",
-        "The source is a partisan commentary episode; its interpretations and allegations are not independently verified in the transcript.",
-        "Pressley’s intention to run is speculative, and the petition’s signature count is reported by the creator without supporting documentation.",
-        "Censored profanity and fragmented captions occasionally obscure precise wording.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
