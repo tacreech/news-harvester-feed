@@ -1,11 +1,200 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T16:12:01.187179Z",
+  "generated_at": "2026-11-14T20:12:01.151782Z",
   "reporting_window": {
-    "start": "2026-11-07T16:12:01.187179Z",
-    "end": "2026-11-14T16:12:01.187179Z"
+    "start": "2026-11-07T20:12:01.151782Z",
+    "end": "2026-11-14T20:12:01.151782Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "FDRv8Ab19B0",
+      "title": "‘HE’S INCOMPETENT’ — Americans Demand RESIGNATIONS as Trump Prepares MAJOR WAR!!",
+      "url": "https://www.youtube.com/watch?v=FDRv8Ab19B0",
+      "published_at": "2026-11-14T19:20:21.000000Z",
+      "summary": "Aaron Parnas argues that the Trump administration appears incompetent and is mishandling both aviation problems and a possible military intervention in Cuba. He focuses on a transportation press conference where audiovisual equipment reportedly failed, interpreting the breakdown as emblematic of broader communication and infrastructure weaknesses. The featured official says modernization is necessary for safety, citing outdated technology, unreliable copper wiring, aging towers, and software built in the 1990s. He also discusses disruptions affecting travelers, including missed weddings and funerals, while officials emphasize moving college-football teams. A major theme is funding: the official describes requests for $30 billion or more, while questioning centers on why Congress has not already provided sufficient money. Parnas criticizes Republican leaders and rejects blame directed at Democrats, asserting that Republicans could have funded the work themselves. He concludes by warning that war with Cuba could occur soon. The transcript supports the existence of these arguments and excerpts, but does not independently establish the military preparations, infrastructure conditions, funding history, or political claims.",
+      "topics": [
+        "Aviation infrastructure and modernization",
+        "Transportation press conference",
+        "Congressional funding",
+        "Possible Cuba intervention"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The Trump administration is preparing for a possible military intervention or major attack in Cuba.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            8,
+            9,
+            10,
+            11,
+            23,
+            24,
+            198,
+            199,
+            200
+          ]
+        },
+        {
+          "claim": "Aviation-system modernization failures caused significant travel disruptions, including missed weddings and funerals.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            123,
+            124,
+            125,
+            126
+          ]
+        },
+        {
+          "claim": "The transportation secretary requested $30 billion or more for aviation-related work.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            137,
+            140,
+            141,
+            142,
+            143,
+            148,
+            149,
+            150,
+            151
+          ]
+        },
+        {
+          "claim": "Republicans could have funded FAA-related legislation without Democratic support.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            186,
+            187,
+            188,
+            189,
+            190,
+            193,
+            194,
+            195,
+            196,
+            197
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas presents the administration as incompetent and says Americans are demanding answers.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "start_seconds": 0.24,
+          "end_seconds": 12.639
+        },
+        {
+          "point": "A press conference experienced apparent audiovisual and communication problems.",
+          "evidence_segment_indices": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            47,
+            48,
+            49,
+            50,
+            51
+          ],
+          "start_seconds": 92.24,
+          "end_seconds": 131.319
+        },
+        {
+          "point": "The official defends modernization as a safety and resilience measure involving outdated systems.",
+          "evidence_segment_indices": [
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77
+          ],
+          "start_seconds": 170.4,
+          "end_seconds": 206.48
+        },
+        {
+          "point": "Questions focus on upgrade timing, travel disruption, and requested funding.",
+          "evidence_segment_indices": [
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            137,
+            140,
+            141,
+            142
+          ],
+          "start_seconds": 204.64,
+          "end_seconds": 348.479
+        },
+        {
+          "point": "Parnas links the funding dispute to his warning about possible war with Cuba.",
+          "evidence_segment_indices": [
+            186,
+            187,
+            188,
+            189,
+            190,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199
+          ],
+          "start_seconds": 449.199,
+          "end_seconds": 478.639
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "5fa22e42b30eb5bda303a79b8d3c63209032cf98d6f9e39904503ec761ca16f3",
+      "transcript_captured_at": "2026-11-14T20:03:14.231186Z",
+      "summary_generated_at": "2026-11-14T20:08:23.064256Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a creator’s commentary and selected excerpts, not independent reporting.",
+        "Captions contain interruptions, music markers, speaker-attribution ambiguity, and apparent transcription defects.",
+        "The transcript does not provide corroborating documents or independently verify the Cuba, funding, aviation, or political claims.",
+        "The ending is truncated, limiting context for the creator’s closing remarks.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4959,242 +5148,6 @@
         "Legal claims, quoted remarks, and referenced investigations are presented only through this source and are not independently verified here.",
         "The transcript does not establish whether Don Jr. was intoxicated or using any substance.",
         "The excerpt summarizes selected material and may omit relevant context from the underlying legal proceedings or cited videos.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "7WwSXJ7oHxo",
-      "title": "CBS CAUGHT Heavily Editing Trump Interview | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=7WwSXJ7oHxo",
-      "published_at": "2026-11-12T01:00:29.000000Z",
-      "summary": "Kyle Kulinski argues that CBS heavily edited a 60 Minutes interview with Donald Trump to improve his image, presenting the alleged editing as hypocritical because Trump previously sued CBS over edits to a Kamala Harris interview. He praises interviewer Ross Douthat for pressing Trump on Ukraine, relations with Vladimir Putin, sanctions, military aid, and conflicting claims about U.S. support. Kulinski says the broadcast omitted or softened statements he considers inaccurate, while the supplied transcript does not independently establish what was edited, why, or whether CBS coordinated with Trump. He also criticizes the broader U.S. media environment, portraying CBS and other major networks as increasingly aligned with conservative, corporate, wealthy, or pro-Trump interests. The episode expands into allegations of corruption involving Trump and associates, predictions about how historians will judge Trump, and severe psychological characterizations. These latter assertions are presented as Kulinski’s commentary rather than documented findings. The closing asks viewers to like, subscribe, and enable notifications.",
-      "topics": [
-        "CBS interview editing",
-        "Donald Trump and Ukraine",
-        "Media bias and ownership",
-        "Political corruption allegations",
-        "Trump’s historical legacy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "CBS edited the Trump interview to remove damaging or factually incorrect material and improve his public image.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36
-          ]
-        },
-        {
-          "claim": "Trump previously sued CBS over edits to a Kamala Harris interview.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46
-          ]
-        },
-        {
-          "claim": "The episode alleges corruption, financial schemes, and improper benefits involving Trump and associates.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            239,
-            240,
-            241,
-            242,
-            243,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251,
-            252,
-            253,
-            254,
-            255,
-            256,
-            257,
-            258
-          ]
-        },
-        {
-          "claim": "The episode predicts that Trump will be judged as among the worst presidents in U.S. history.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            259,
-            260,
-            261,
-            262,
-            263,
-            264,
-            265
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski praises Ross Douthat’s questioning while arguing CBS later softened the interview.",
-          "evidence_segment_indices": [
-            3,
-            4,
-            5,
-            6,
-            16,
-            17,
-            18,
-            19,
-            20,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27
-          ],
-          "start_seconds": 7.919,
-          "end_seconds": 52.96
-        },
-        {
-          "point": "The excerpted interview addresses Ukraine, Putin, peace prospects, sanctions, and weapons assistance.",
-          "evidence_segment_indices": [
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            91,
-            92,
-            93,
-            94,
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107
-          ],
-          "start_seconds": 127.36,
-          "end_seconds": 219.44
-        },
-        {
-          "point": "Kulinski frames the alleged editing as inconsistent with Trump’s prior criticism of edited interviews.",
-          "evidence_segment_indices": [
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            50,
-            51,
-            52
-          ],
-          "start_seconds": 72.64,
-          "end_seconds": 116.479
-        },
-        {
-          "point": "He argues that major media outlets protect powerful political and corporate interests.",
-          "evidence_segment_indices": [
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195,
-            196,
-            197,
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204
-          ],
-          "start_seconds": 352.4,
-          "end_seconds": 398.56
-        },
-        {
-          "point": "The episode ends with strongly negative judgments about Trump and a subscription appeal.",
-          "evidence_segment_indices": [
-            259,
-            260,
-            261,
-            262,
-            263,
-            264,
-            265,
-            266,
-            267,
-            268,
-            269,
-            270,
-            271,
-            272,
-            273,
-            274,
-            275,
-            276,
-            277
-          ],
-          "start_seconds": 504.639,
-          "end_seconds": 545.519
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "ea94979e33cb76587f7c3dd015e0881d33390ec9933616428fe9424d7965f039",
-      "transcript_captured_at": "2026-11-12T03:33:24.151868Z",
-      "summary_generated_at": "2026-11-12T03:38:25.935334Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is an opinionated monologue and excerpted interview, not an independent investigation.",
-        "The transcript does not provide the full interview or a direct comparison demonstrating which portions were removed.",
-        "Automatic captions contain apparent name errors, omitted words, profanity placeholders, and overlapping speech.",
-        "Several allegations and predictions are stated without supporting documentation in the supplied material.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
