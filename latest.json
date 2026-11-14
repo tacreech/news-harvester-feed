@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T21:32:47.375274Z",
+  "generated_at": "2026-11-14T22:02:28.598513Z",
   "reporting_window": {
-    "start": "2026-11-07T21:32:47.375274Z",
-    "end": "2026-11-14T21:32:47.375274Z",
+    "start": "2026-11-07T22:02:28.598513Z",
+    "end": "2026-11-14T22:02:28.598513Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -48,9 +48,9 @@
       "creator": "House of El – AI",
       "channel_id": "UCsoc5Ad-fC7wWie2PH4rPcw",
       "identity_status": "verified",
-      "health": "feed_unavailable",
-      "discovery_status": "feed_unavailable",
-      "last_successful_poll": "2026-11-14T21:00:15.388256Z",
+      "health": "success_no_new",
+      "discovery_status": "success_no_new",
+      "last_successful_poll": "2026-11-14T22:02:28.431300Z",
       "warnings": []
     }
   ],
@@ -605,7 +605,7 @@
       "first_seen": "2026-11-12T22:00:14.283541Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "captions_ready"
+      "transcript_status": "expired"
     },
     {
       "creator": "Kyle Kulinski — Secular Talk",
@@ -1983,18 +1983,6 @@
       "published_at": "2026-11-07T23:27:06.000000Z",
       "url": "https://www.youtube.com/watch?v=7UtwHnAf5jY",
       "first_seen": "2026-11-08T00:01:34.534035Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "not_queued"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "oCCV-qfQYEU",
-      "title": "BREAKING: Kansas has elected Cindy Holscher, a Democrat, to be its next Governor, per VoteHub.",
-      "published_at": "2026-11-07T21:39:19.000000Z",
-      "url": "https://www.youtube.com/watch?v=oCCV-qfQYEU",
-      "first_seen": "2026-11-07T22:30:54.186090Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "not_queued"
