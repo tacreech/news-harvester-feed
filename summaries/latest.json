@@ -1,11 +1,184 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T22:42:01.163940Z",
+  "generated_at": "2026-11-14T00:12:01.173051Z",
   "reporting_window": {
-    "start": "2026-11-06T22:42:01.163940Z",
-    "end": "2026-11-13T22:42:01.163940Z"
+    "start": "2026-11-07T00:12:01.173051Z",
+    "end": "2026-11-14T00:12:01.173051Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "DMc0LcWNnyc",
+      "title": "BREAKING: Trump Official JOKES as Nationwide Ground Stop for Planes Issued, it is a COMPLETE MESS!!",
+      "url": "https://www.youtube.com/watch?v=DMc0LcWNnyc",
+      "published_at": "2026-11-13T22:36:52.000000Z",
+      "summary": "Creator Aaron Parnas presents what he describes as breaking news about a nationwide U.S. aviation ground stop, saying he is personally stranded and that flights were being grounded indefinitely. He attributes the disruption to an FAA-reported telecommunications problem and includes a DHS official’s statement that officials had not ruled out any cause, while emphasizing passenger safety and the lack of evidence then linking the event to a cyberattack. A quoted analyst offers a more specific account, describing radio-frequency outages at air-route traffic-control centers and arguing that the incident did not appear related to either a cyberattack or a newly deployed AI-assisted routing system. The analyst also cites rapidly increasing delays, relatively few cancellations at that point, and reports that some pilots were using an emergency frequency. The material is a fast-moving video assembled from interviews and attributed commentary; it does not independently establish the scale, cause, duration, or later outcome of the disruption.",
+      "topics": [
+        "U.S. aviation disruption",
+        "FAA telecommunications outage",
+        "Air traffic control communications",
+        "Cyberattack and AI speculation"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A nationwide U.S. ground stop was issued, grounding or restricting flights across the country.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            2,
+            3,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim": "The disruption involved telecommunications or radio-frequency outages at air-route traffic-control centers.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            10,
+            11,
+            12,
+            58,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            186,
+            187,
+            188,
+            189
+          ]
+        },
+        {
+          "claim": "Reported delays and cancellations reached the figures cited by the analyst during the video.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas says he is stranded and plans to provide updates as information develops.",
+          "evidence_segment_indices": [
+            1,
+            4,
+            5,
+            18,
+            19,
+            20
+          ],
+          "start_seconds": 1.52,
+          "end_seconds": 45.36
+        },
+        {
+          "point": "The DHS official says passenger safety is the priority and that officials had not determined whether the outage was malicious.",
+          "evidence_segment_indices": [
+            34,
+            35,
+            36,
+            37,
+            54,
+            55,
+            56,
+            57,
+            74,
+            75,
+            82,
+            83
+          ],
+          "start_seconds": 72.799,
+          "end_seconds": 186.56
+        },
+        {
+          "point": "The official says restoration would proceed as communications and flights were handled, but gives no timeline.",
+          "evidence_segment_indices": [
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            120,
+            121,
+            122
+          ],
+          "start_seconds": 185.12,
+          "end_seconds": 268.479
+        },
+        {
+          "point": "A quoted analyst links the reported problem to controller-pilot voice communications and says it did not appear related to cyberattack or AI systems.",
+          "evidence_segment_indices": [
+            166,
+            167,
+            168,
+            180,
+            181,
+            182,
+            183,
+            186,
+            187,
+            188,
+            189,
+            190
+          ],
+          "start_seconds": 348.639,
+          "end_seconds": 415.44
+        },
+        {
+          "point": "The analyst reports rising delays, limited cancellations at that moment, and heavy use of an emergency frequency by some pilots.",
+          "evidence_segment_indices": [
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            216,
+            217,
+            218
+          ],
+          "start_seconds": 426.88,
+          "end_seconds": 486.96
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "51cc5f23b8cc033906ee9d21a62f0a33bb50cdd1197a88f7172486931517fa54",
+      "transcript_captured_at": "2026-11-14T00:03:14.765065Z",
+      "summary_generated_at": "2026-11-14T00:08:24.920245Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The video captures a developing situation and does not establish the final cause, duration, or outcome.",
+        "Several statements are attributed to officials, an analyst, a controller, and a pilot rather than independently verified in the source.",
+        "Captioning contains transcription defects, including unclear names, interrupted speech, and ambiguous phrases.",
+        "The source provides no independent documentation for the cited traffic figures or the reported nationwide scope.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mike Figueredo — The Humanist Report",
       "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
@@ -5087,182 +5260,6 @@
         "Automatic captions contain profanity redactions, apparent name errors, and other transcription defects.",
         "Several allegations and predictions are presented without supporting documents or corroborating sources in the transcript.",
         "The transcript’s references to elections, wars, officials, and legal proceedings are not independently established here.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "x22Px1BT0bY",
-      "title": "CNN DEMANDS Anti-War Dem Support More War | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=x22Px1BT0bY",
-      "published_at": "2026-11-12T00:00:25.000000Z",
-      "summary": "Kyle Kulinski argues that anti-war Democrats are gaining attention and uses Adam Hamawi’s CNN interview as an example. In the exchange, the interviewer repeatedly asks whether Iran is an adversary, while Hamawi says the United States has helped push Iran toward conflict and should use diplomacy, economic leverage, and negotiations. Kulinski praises Hamawi’s responses and criticizes the questioning as reducing a complex conflict to an enemy-or-ally framework. He further alleges that the United States and Israel attacked Iran first, that Iranian civilians were killed, and that Iran has not killed American civilians in four decades. Kulinski presents the Obama-era nuclear agreement as a successful diplomatic model, while blaming Donald Trump for abandoning it and escalating tensions. He concludes by urging incoming Democrats, including Richard Oetta, to intensify their opposition to war. The episode is an opinionated commentary built around a short interview excerpt; the transcript alone cannot establish the broader factual claims or identify the interviewer.",
-      "topics": [
-        "U.S.–Iran relations",
-        "Anti-war Democrats",
-        "Diplomacy and nuclear agreement",
-        "Media framing",
-        "Congressional politics"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Kulinski alleges that the United States and Israel attacked Iran first and that Iranian civilians were killed in the described conflict.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            114,
-            116,
-            117,
-            118,
-            128,
-            129
-          ]
-        },
-        {
-          "claim": "Kulinski states that Iran has killed zero American civilians over the previous 40 years.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            103,
-            104,
-            193,
-            194,
-            195,
-            196,
-            197
-          ]
-        },
-        {
-          "claim": "Kulinski characterizes the Obama-era Iran nuclear agreement as effective and says inspectors repeatedly verified Iranian compliance.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            243,
-            244,
-            246,
-            247,
-            248,
-            249,
-            252,
-            253,
-            254,
-            255
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that Trump abandoned the agreement and subsequently initiated an illegal war against Iran.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            262,
-            263,
-            264,
-            265,
-            266,
-            267,
-            268
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski presents Hamawi as an anti-war Democratic congressman advocating diplomacy and economic leverage over military escalation.",
-          "evidence_segment_indices": [
-            23,
-            24,
-            25,
-            30,
-            31,
-            68,
-            69,
-            70,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77
-          ],
-          "start_seconds": 40.16,
-          "end_seconds": 154.64
-        },
-        {
-          "point": "The CNN exchange centers on whether Iran should be treated as an adversary and contrasts threat-based framing with diplomacy.",
-          "evidence_segment_indices": [
-            48,
-            49,
-            53,
-            54,
-            56,
-            58,
-            59,
-            60,
-            61,
-            62,
-            66,
-            67
-          ],
-          "start_seconds": 99.28,
-          "end_seconds": 132.56
-        },
-        {
-          "point": "Kulinski accuses the interviewer and CNN of hostile, biased, or xenophobic framing, while praising Hamawi’s handling of the interview.",
-          "evidence_segment_indices": [
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            78,
-            82,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93
-          ],
-          "start_seconds": 68.08,
-          "end_seconds": 184.879
-        },
-        {
-          "point": "He urges incoming Democrats to become more explicit and forceful in opposing war, highlighting Richard Oetta as a model.",
-          "evidence_segment_indices": [
-            286,
-            287,
-            288,
-            289,
-            290,
-            291,
-            292,
-            293
-          ],
-          "start_seconds": 544.72,
-          "end_seconds": 562.72
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "d98b1e31007e17e8f8a6ea397404fb23db9117a43a4f34e1eb2f4a5af58643a4",
-      "transcript_captured_at": "2026-11-12T01:33:23.263391Z",
-      "summary_generated_at": "2026-11-12T01:38:45.512931Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is commentary plus a partial interview excerpt, not a full episode or complete source record.",
-        "Several captions contain profanity redactions, transcription errors, overlap, and fragmented phrasing.",
-        "The interviewer’s identity and the surrounding CNN context are not established in the supplied segments.",
-        "Broader allegations about military actions, civilian deaths, treaty compliance, and media conduct require independent verification.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
