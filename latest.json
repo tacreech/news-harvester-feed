@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T23:00:46.409861Z",
+  "generated_at": "2026-11-15T23:30:14.834046Z",
   "reporting_window": {
-    "start": "2026-11-08T23:00:46.409861Z",
-    "end": "2026-11-15T23:00:46.409861Z",
+    "start": "2026-11-08T23:30:14.834046Z",
+    "end": "2026-11-15T23:30:14.834046Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,25 +14,25 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-15T23:00:45.207046Z",
+      "last_successful_poll": "2026-11-15T23:30:13.573016Z",
       "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_new",
-      "discovery_status": "success_new",
-      "last_successful_poll": "2026-11-15T23:00:45.418218Z",
+      "health": "success_no_new",
+      "discovery_status": "success_no_new",
+      "last_successful_poll": "2026-11-15T23:30:13.889629Z",
       "warnings": []
     },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-15T23:00:45.659449Z",
+      "health": "success_new",
+      "discovery_status": "success_new",
+      "last_successful_poll": "2026-11-15T23:30:14.133010Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-15T23:00:45.927029Z",
+      "last_successful_poll": "2026-11-15T23:30:14.415354Z",
       "warnings": []
     },
     {
@@ -50,11 +50,23 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-15T23:00:46.186121Z",
+      "last_successful_poll": "2026-11-15T23:30:14.689899Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "OjfHvqbeyzM",
+      "title": "The FBI Doesn't Want You To Download This...",
+      "published_at": "2026-11-15T23:03:21.000000Z",
+      "url": "https://www.youtube.com/watch?v=OjfHvqbeyzM",
+      "first_seen": "2026-11-15T23:30:14.133010Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
