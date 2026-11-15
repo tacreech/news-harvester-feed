@@ -1,11 +1,139 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T16:12:01.166649Z",
+  "generated_at": "2026-11-15T21:42:01.191793Z",
   "reporting_window": {
-    "start": "2026-11-08T16:12:01.166649Z",
-    "end": "2026-11-15T16:12:01.166649Z"
+    "start": "2026-11-08T21:42:01.191793Z",
+    "end": "2026-11-15T21:42:01.191793Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "pkk26mn53Zg",
+      "title": "‘HE’S UNWELL’ — Trump NOWHERE TO BE FOUND as White House Launches MAJOR ATTACK!!",
+      "url": "https://www.youtube.com/watch?v=pkk26mn53Zg",
+      "published_at": "2026-11-15T20:04:03.000000Z",
+      "summary": "Creator Aaron Parnas argues that the Trump administration is escalating pressure on Senator Elizabeth Warren and other figures associated with the president’s political opponents. He discusses a U.S. attorney’s letter accusing Warren of planning investigations without a legitimate legislative purpose and invoking federal civil-rights statutes, while Parnas characterizes the effort as political retaliation. The episode also examines Transportation Secretary Sean Duffy’s refusal to apologize for a nationwide ground stop, which he attributes to longstanding infrastructure problems and insufficient funding rather than solely to the current administration. Parnas contrasts Duffy’s public explanation with what he describes as President Trump’s absence during the disruption. Finally, he alleges that Trump shared an unverified story accompanied by fabricated or AI-generated images involving Homeland Security Secretary Mark Wayne Mullen and his son. The source is a commentary segment with incomplete captions and does not independently establish the legal allegations, the ground-stop figures or causes, or the authenticity and provenance of the social-media material.",
+      "topics": [
+        "Political investigations",
+        "Nationwide ground stop",
+        "Transportation infrastructure",
+        "Presidential social media"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A U.S. attorney threatened or pursued federal action against Senator Elizabeth Warren under 18 U.S.C. §§ 241 and 242.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            28,
+            30,
+            76,
+            84,
+            101,
+            110,
+            115
+          ]
+        },
+        {
+          "claim": "A nationwide ground stop stranded more than 1.5 million people.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim": "President Trump shared an unverified story with fabricated or AI-generated images involving Mark Wayne Mullen and his son.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            184,
+            186,
+            190,
+            191,
+            194,
+            195
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas presents a U.S. attorney’s letter as warning Warren about investigations of Trump-aligned individuals and demanding preservation of relevant records.",
+          "evidence_segment_indices": [
+            31,
+            36,
+            47,
+            50,
+            68,
+            76,
+            78,
+            82
+          ],
+          "start_seconds": 71.2,
+          "end_seconds": 184.319
+        },
+        {
+          "point": "Parnas says the legal pressure is being framed as retaliation against political opponents, while the cited officials characterize Warren’s conduct as potentially unlawful.",
+          "evidence_segment_indices": [
+            67,
+            81,
+            84,
+            101,
+            119,
+            120,
+            121
+          ],
+          "start_seconds": 148.56,
+          "end_seconds": 290.24
+        },
+        {
+          "point": "Duffy says he will not apologize for the ground stop, citing inherited system problems, safety concerns and a need for additional resources.",
+          "evidence_segment_indices": [
+            123,
+            126,
+            136,
+            142,
+            150,
+            159,
+            165,
+            175
+          ],
+          "start_seconds": 290.24,
+          "end_seconds": 407.759
+        },
+        {
+          "point": "The episode portrays Trump as absent from the crisis response and criticizes his reported sharing of questionable social-media content.",
+          "evidence_segment_indices": [
+            17,
+            18,
+            20,
+            184,
+            185,
+            186,
+            194,
+            198
+          ],
+          "start_seconds": 40.64,
+          "end_seconds": 460.56
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "6d1a551bd2ac57884bc6e386d3b5a4b7b2a188f5a5d5b5ee7d27bfeda07f0524",
+      "transcript_captured_at": "2026-11-15T21:33:15.093861Z",
+      "summary_generated_at": "2026-11-15T21:38:21.035389Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Captions contain transcription errors, malformed words and unclear speaker changes.",
+        "The segment provides commentary and quoted excerpts but no independent documents or corroborating sources.",
+        "Several names, titles and reported events are difficult to verify from the captions alone.",
+        "The source does not establish the jurisdictional, legal or factual basis of the allegations.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4960,215 +5088,6 @@
         "Several captions contain transcription defects, profanity redactions, repetitions, and unclear names or wording.",
         "The creator’s interpretations, allegations, and forecasts are presented as commentary rather than verified findings.",
         "The transcript provides limited context for the referenced midterms, Iran developments, legal claims, and Nvidia events.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "VY6e92UMbrk",
-      "title": "Trump has MENTAL HEALTH BREAKDOWN as Republicans LEAVE HIM, he is ANGRY!!",
-      "url": "https://www.youtube.com/watch?v=VY6e92UMbrk",
-      "published_at": "2026-11-12T17:00:01.000000Z",
-      "summary": "Aaron Parnas presents Donald Trump as emotionally overwhelmed by political and foreign-policy setbacks, framing the episode around Trump’s reported Truth Social posts. The creator says Trump directed Vice President JD Vance to focus on alleged corruption and crime in Democratic-led states, while also dismissing the need for an Iran deal and criticizing Democrats. Parnas further connects Trump and Elon Musk to renewed scrutiny over reported Starlink disruptions affecting Ukraine, while acknowledging that responsibility is being assumed rather than established. The episode then attributes Trump’s agitation to Democratic electoral gains, highlighting a speech by Mississippi politician Scott Colom. Colom’s remarks emphasize prayer, perseverance, Mississippi history, voting rights, and civil-rights figures before concluding with thanks to supporters. The transcript provides the creator’s characterization and selected quotations but does not independently document the political, financial, military, or legal claims discussed.",
-      "topics": [
-        "Trump’s Truth Social statements",
-        "U.S. partisan conflict",
-        "Iran diplomacy",
-        "Ukraine connectivity and Starlink",
-        "Scott Colom’s Mississippi speech"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Trump directed JD Vance to target alleged corruption and crime in Democratic-led states.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            7,
-            8,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35
-          ]
-        },
-        {
-          "claim": "Trump said an Iran deal was unnecessary and that the United States had already received substantial funds.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            37,
-            38,
-            39,
-            40,
-            42,
-            43,
-            44,
-            45
-          ]
-        },
-        {
-          "claim": "Ukraine experienced significant disruptions to Starlink or related satellite operations, with some people calling for war-crimes charges involving Trump and Musk.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            15,
-            16,
-            17,
-            18,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            88,
-            89,
-            90
-          ]
-        },
-        {
-          "claim": "Democratic electoral gains included a victory by Scott Colom in Mississippi.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            91,
-            92,
-            93,
-            94,
-            95,
-            96,
-            97
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator characterizes Trump’s posts and reported conduct as a political and emotional breakdown.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            4,
-            5,
-            6,
-            21,
-            22,
-            73,
-            74,
-            75,
-            76,
-            77
-          ],
-          "start_seconds": 0.4,
-          "end_seconds": 178.56
-        },
-        {
-          "point": "The episode quotes Trump attacking Democratic leadership and alleging extensive corruption in blue states.",
-          "evidence_segment_indices": [
-            23,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57
-          ],
-          "start_seconds": 59.68,
-          "end_seconds": 138.4
-        },
-        {
-          "point": "Parnas links the discussion to reported Ukraine connectivity disruptions and scrutiny of Trump and Musk.",
-          "evidence_segment_indices": [
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            78,
-            79,
-            80,
-            81,
-            85,
-            86,
-            87
-          ],
-          "start_seconds": 32.239,
-          "end_seconds": 201.68
-        },
-        {
-          "point": "A featured Scott Colom speech focuses on faith, perseverance, Mississippi history, and voting rights.",
-          "evidence_segment_indices": [
-            103,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            123,
-            126,
-            131,
-            134,
-            135,
-            137,
-            138,
-            139,
-            140,
-            154,
-            155,
-            161,
-            164,
-            165,
-            166,
-            167
-          ],
-          "start_seconds": 250.319,
-          "end_seconds": 438.4
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "f4a0d3d83f99ba4429269835b444973f51c262ff65df1114ef410a2a0ffa86ae",
-      "transcript_captured_at": "2026-11-12T19:03:15.172509Z",
-      "summary_generated_at": "2026-11-12T19:08:25.920045Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is source-only and does not establish the accuracy of the creator’s allegations or quoted political claims.",
-        "Several captions contain apparent recognition errors or ambiguous names, including references to Starlink-related systems and historical figures.",
-        "The excerpt does not provide corroborating documents, dates beyond the upload context, or independent reporting for the claims discussed.",
-        "The closing speech is only partially captured and includes overlapping captions, cheering, and applause.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
