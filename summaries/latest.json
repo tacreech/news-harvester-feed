@@ -1,11 +1,197 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T23:12:01.190763Z",
+  "generated_at": "2026-11-15T16:12:01.166649Z",
   "reporting_window": {
-    "start": "2026-11-07T23:12:01.190763Z",
-    "end": "2026-11-14T23:12:01.190763Z"
+    "start": "2026-11-08T16:12:01.166649Z",
+    "end": "2026-11-15T16:12:01.166649Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "4Z9kZtxf0cM",
+      "title": "‘IMPEACH HIM’ — Trump Blames BIDEN for Nationwide Ground Stop as Americans ERUPT and say ENOUGH!!",
+      "url": "https://www.youtube.com/watch?v=4Z9kZtxf0cM",
+      "published_at": "2026-11-15T14:58:19.000000Z",
+      "summary": "The creator argues that a nationwide FAA ground stop exposed failures in air-traffic infrastructure and criticizes President Trump for delaying public comments, blaming the Biden administration, and focusing on other matters. The episode cites claims that more than 3,500 aircraft were airborne, 827 flights were diverted, and the disruption was among the longest nationwide ground stops in decades. It contrasts Trump’s explanation with comments attributed to transportation officials, who described newer equipment overwhelming an older system and said further outages could occur. The creator also reports alleged surge pricing affecting stranded travelers, including a $1,500 rental-car quote. Additional segments cover an alleged Justice Department effort targeting Senator Elizabeth Warren over anticipated investigations, a judge’s reported blocking of Trump’s golf-course project, and continued escalation in Iran. The presentation is strongly critical and includes the creator’s legal interpretation, personal travel account, and calls for subscriptions; the supplied transcript alone does not independently establish the underlying events or legal claims.",
+      "topics": [
+        "FAA ground stop",
+        "Trump-Biden blame",
+        "Air-traffic infrastructure",
+        "Traveler price surging",
+        "Justice Department and Congress"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A nationwide ground stop grounded every flight, involved more than 3,500 aircraft already airborne, diverted 827 flights, and was among the longest in decades.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "claim": "Officials said an attempted system update or newer equipment overwhelmed the older air-traffic system and warned that more disruptions could occur.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            74,
+            75,
+            76,
+            77,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            151,
+            152
+          ]
+        },
+        {
+          "claim": "A federal prosecutor or Justice Department office issued a litigation-hold letter concerning Elizabeth Warren and suggested that investigations could implicate civil-rights statutes.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            169,
+            170,
+            171,
+            172,
+            173,
+            177,
+            178,
+            180,
+            181,
+            182,
+            183,
+            184
+          ]
+        },
+        {
+          "claim": "A judge blocked Trump’s golf-course land project, while the Justice Department allegedly threatened Warren over anticipated congressional investigations.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            178,
+            179,
+            180,
+            181,
+            202,
+            206,
+            207
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator presents the disruption as a major aviation crisis and criticizes Trump’s public response.",
+          "evidence_segment_indices": [
+            0,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            47,
+            48,
+            49
+          ],
+          "start_seconds": 0.08,
+          "end_seconds": 106.799
+        },
+        {
+          "point": "Trump is quoted blaming the Biden administration and requesting rapid congressional funding for air-traffic modernization.",
+          "evidence_segment_indices": [
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            60,
+            61,
+            62,
+            68,
+            69
+          ],
+          "start_seconds": 104.96,
+          "end_seconds": 152.56
+        },
+        {
+          "point": "The episode includes officials’ differing accounts of the president’s involvement during the ground stop.",
+          "evidence_segment_indices": [
+            106,
+            107,
+            108,
+            109,
+            114,
+            115,
+            116,
+            117,
+            118,
+            123,
+            124,
+            126,
+            127,
+            132,
+            134,
+            135,
+            143,
+            144,
+            147
+          ],
+          "start_seconds": 231.04,
+          "end_seconds": 324.479
+        },
+        {
+          "point": "The creator links the aviation story to alleged traveler price surges and broader political and legal disputes.",
+          "evidence_segment_indices": [
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            168,
+            169,
+            206,
+            207,
+            212,
+            213
+          ],
+          "start_seconds": 332.0,
+          "end_seconds": 467.84
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "c94c7897959ca0f3f32674e537aec0a96dc64b641cd955703b50ccd26545f40e",
+      "transcript_captured_at": "2026-11-15T16:03:13.959125Z",
+      "summary_generated_at": "2026-11-15T16:08:24.349741Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains caption defects, repetitions, misheard words, and speaker-label ambiguity.",
+        "The source provides no independent documents or corroboration for the operational, legal, pricing, or geopolitical claims.",
+        "Several statements are the creator’s interpretation, allegation, prediction, or personal account rather than established findings.",
+        "The episode mentions Iran but supplies too little detail to characterize that situation further.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
@@ -4983,254 +5169,6 @@
         "Several captions contain apparent recognition errors or ambiguous names, including references to Starlink-related systems and historical figures.",
         "The excerpt does not provide corroborating documents, dates beyond the upload context, or independent reporting for the claims discussed.",
         "The closing speech is only partially captured and includes overlapping captions, cheering, and applause.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "VbfITPg-0-U",
-      "title": "'HE IS ALL ALONE' — Trump Privately SPIRALS as he is ABANDONED, the Presidency is ENDING!!",
-      "url": "https://www.youtube.com/watch?v=VbfITPg-0-U",
-      "published_at": "2026-11-12T14:51:37.000000Z",
-      "summary": "Aaron Parnas presents the episode as an argument that Donald Trump is becoming politically isolated and is using his remaining time in office to consolidate the MAGA movement, govern through executive actions, target perceived opponents, and promote personal monuments. He also discusses reported personnel departures, criticism of Pete Hegseth over conduct at the Tomb of the Unknown Soldier, and concerns about possible pressure on journalists to disclose sources. The episode then turns to interviews with Democratic figures who describe an asserted congressional majority, campaign messages focused on lowering costs and healthcare access, and plans for oversight of the Trump administration. Incoming congressman Richard Penn outlines priorities including restoring healthcare subsidies, addressing living costs, and investigating alleged official misconduct. He also advocates broader healthcare affordability and coverage. Because the material is a single creator’s presentation and interview transcript, its political claims, reported events, election results, personnel changes, and allegations require independent verification.",
-      "topics": [
-        "Trump administration and MAGA movement",
-        "Congressional oversight",
-        "Healthcare policy",
-        "Journalism and press freedom"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The episode reports that Democrats won 260 House seats and will control both chambers of Congress.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            120,
-            121,
-            128,
-            129,
-            130
-          ]
-        },
-        {
-          "claim": "The episode reports departures or expected departures of senior White House personnel and describes a broader pattern of officials being removed or leaving.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85
-          ]
-        },
-        {
-          "claim": "The episode alleges that Stephen Miller may seek to jail journalists to compel disclosure of sources.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            30,
-            31,
-            32,
-            33,
-            34,
-            35
-          ]
-        },
-        {
-          "claim": "The episode links calls for Pete Hegseth to leave office to his conduct at the Tomb of the Unknown Soldier.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            93,
-            94,
-            95,
-            96,
-            97,
-            98,
-            99
-          ]
-        },
-        {
-          "claim": "The episode reports that congressional investigators are preparing inquiries involving Trump and his family.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            42,
-            43,
-            44,
-            45
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas characterizes Trump as isolated, under time pressure, and focused on preserving his political movement and legacy.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ],
-          "start_seconds": 0.1,
-          "end_seconds": 47.8
-        },
-        {
-          "point": "The episode outlines attributed claims that Trump intends to rely more heavily on executive actions, pursue perceived enemies, purge the so-called deep state, and build monuments.",
-          "evidence_segment_indices": [
-            46,
-            47,
-            48,
-            49,
-            50,
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            71,
-            72,
-            73,
-            74,
-            75
-          ],
-          "start_seconds": 98.7,
-          "end_seconds": 166.292
-        },
-        {
-          "point": "A DCCC communications director attributes Democratic electoral success to localized campaigns emphasizing affordability, housing, tariffs, and healthcare.",
-          "evidence_segment_indices": [
-            148,
-            149,
-            150,
-            151,
-            152,
-            153,
-            154,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189,
-            190,
-            191,
-            195,
-            196,
-            197,
-            198,
-            199,
-            200,
-            201
-          ],
-          "start_seconds": 303.794,
-          "end_seconds": 418.195
-        },
-        {
-          "point": "An incoming congressman describes proposed priorities of lowering costs, expanding healthcare access, conducting oversight, and considering impeachment if investigations establish impeachable misconduct.",
-          "evidence_segment_indices": [
-            294,
-            295,
-            296,
-            297,
-            298,
-            299,
-            300,
-            301,
-            310,
-            311,
-            312,
-            313,
-            314,
-            315,
-            316,
-            317,
-            318,
-            319,
-            374,
-            375,
-            376,
-            377,
-            378,
-            379
-          ],
-          "start_seconds": 604.497,
-          "end_seconds": 762.499
-        },
-        {
-          "point": "The healthcare discussion favors affordable, high-quality coverage and reducing deductibles, copays, premiums, and costs for people with chronic or mental-health conditions.",
-          "evidence_segment_indices": [
-            448,
-            449,
-            450,
-            451,
-            452,
-            464,
-            465,
-            466,
-            467,
-            468,
-            469,
-            470,
-            471,
-            472,
-            473,
-            474,
-            475,
-            476,
-            477,
-            478,
-            479,
-            480,
-            481,
-            482
-          ],
-          "start_seconds": 882.001,
-          "end_seconds": 955.301
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "a9b26c19bc2a5561253cbcd4add126e88693a7308811a9c1a378ffcf17afbead",
-      "transcript_captured_at": "2026-11-12T17:03:15.798270Z",
-      "summary_generated_at": "2026-11-12T17:08:28.850015Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains overlapping segments, speech disfluencies, and apparent caption errors.",
-        "Several names, institutions, election outcomes, legislative references, and reported events are presented without corroborating material.",
-        "The episode mixes the creator’s commentary with interviewees’ statements; attribution is therefore important when interpreting predictions or allegations.",
-        "The source provides only a transcript and does not establish whether the cited claims are accurate.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
