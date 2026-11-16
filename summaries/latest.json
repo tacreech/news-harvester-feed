@@ -1,11 +1,317 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T00:42:01.218188Z",
+  "generated_at": "2026-11-16T17:42:01.201612Z",
   "reporting_window": {
-    "start": "2026-11-09T00:42:01.218188Z",
-    "end": "2026-11-16T00:42:01.218188Z"
+    "start": "2026-11-09T17:42:01.201612Z",
+    "end": "2026-11-16T17:42:01.201612Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "rR8A6EkosUo",
+      "title": "‘A COMPLETE MELTDOWN’ — Trump ERUPTS as Media Presses for Answers, his Time is COMING!!",
+      "url": "https://www.youtube.com/watch?v=rR8A6EkosUo",
+      "published_at": "2026-11-16T16:29:10.000000Z",
+      "summary": "Aaron Parnas presents a critical commentary on Donald Trump’s reported response to questions about a nationwide ground stop, White House renovations, an alleged intelligence matter involving Nvidia’s CEO, and a proposed golf-course project. The episode includes excerpts in which Trump says he accepts no responsibility for the ground stop, attributes aviation-system problems to old equipment and the Biden administration, and defends spending time on White House improvements. Trump also rejects an unverified characterization of a woman as a Chinese spy, says national security was not endangered, and discusses restrictions on chip sales. In a separate exchange, he argues that a judge should not block plans to renovate a dangerous golf course. Parnas characterizes Trump’s demeanor as an eruption or meltdown, but those are the creator’s assessments rather than independently established findings. The transcript is primarily a mixture of commentary and purported excerpts, with no corroborating documents or independent reporting presented. Caption errors and incomplete phrasing make some details difficult to interpret.",
+      "topics": [
+        "Trump press exchange",
+        "Air-traffic disruption",
+        "White House renovations",
+        "National-security allegations"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A nationwide ground stop stranded more than 1.5 million people and travel remained disrupted.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim": "Trump said he accepted no responsibility for the ground stop and attributed aviation-system problems to old equipment and the Biden administration.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            39,
+            40,
+            41,
+            42,
+            43,
+            55,
+            56,
+            57,
+            58,
+            60,
+            61,
+            66
+          ]
+        },
+        {
+          "claim": "Trump said national security was not endangered in connection with an alleged affair involving an alleged Chinese spy.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            202,
+            203,
+            204,
+            206,
+            217,
+            218,
+            222,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239
+          ]
+        },
+        {
+          "claim": "Trump said a judge had temporarily stopped plans to renovate a golf course and that an appeal was being pursued.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            257,
+            258,
+            261,
+            262,
+            270,
+            271,
+            272,
+            273,
+            274
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames Trump’s public appearance as a meltdown and emphasizes his refusal to accept responsibility.",
+          "evidence_segment_indices": [
+            0,
+            21,
+            22,
+            23,
+            30,
+            31,
+            32
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 71.84
+        },
+        {
+          "point": "Trump defended White House repairs and argued they required little time or money.",
+          "evidence_segment_indices": [
+            83,
+            84,
+            97,
+            98,
+            100,
+            112,
+            113,
+            114,
+            139,
+            140,
+            150,
+            151
+          ],
+          "start_seconds": 182.72,
+          "end_seconds": 340.32
+        },
+        {
+          "point": "Trump disputed the spy allegation and asserted that the country was militarily stronger than before.",
+          "evidence_segment_indices": [
+            206,
+            216,
+            217,
+            222,
+            238,
+            239,
+            242,
+            243,
+            249,
+            250
+          ],
+          "start_seconds": 455.12,
+          "end_seconds": 549.12
+        },
+        {
+          "point": "The episode contains a sponsor segment and promotional calls to subscribe, alongside the political commentary.",
+          "evidence_segment_indices": [
+            24,
+            25,
+            26,
+            157,
+            158,
+            159,
+            183,
+            184,
+            195,
+            279,
+            280,
+            284,
+            285
+          ],
+          "start_seconds": 52.64,
+          "end_seconds": 627.76
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "5c5aaa7628ed9033c97838c088647d1487bf53429893dab73d6074451718db80",
+      "transcript_captured_at": "2026-11-16T17:33:20.985632Z",
+      "summary_generated_at": "2026-11-16T17:38:51.091161Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains numerous captioning errors, including garbled names, words, and phrases.",
+        "The source does not independently verify the travel-disruption figures, infrastructure claims, intelligence allegations, or legal status of the golf-course project.",
+        "Some speaker boundaries and quotations are difficult to distinguish because captions overlap or are incomplete.",
+        "Coverage is limited to the creator’s narration and presented excerpts; broader context is absent.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "VpvP_bYPm8M",
+      "title": "‘EXPOSE THE TRUTH’ — Trump SPIRALS as Service Member BLOWS the WHISTLE, the TRUTH is HERE!!",
+      "url": "https://www.youtube.com/watch?v=VpvP_bYPm8M",
+      "published_at": "2026-11-16T15:04:49.000000Z",
+      "summary": "Aaron Parnas presents allegations that the Iran war exposed serious gaps in protection and planning at a U.S. post in Kuwait, where he says six soldiers were killed after an Army major warned superiors about aerial threats. The episode describes the major’s reported whistleblower complaint, including claims that counter-drone defenses, medical support, and adequate preparation were absent, while contrasting survivors’ accounts with official descriptions of the site. Parnas also criticizes Donald Trump’s response to media coverage, including a reportedly AI-generated video and Trump’s defense of military performance. The discussion then broadens to possible escalation, citing a third U.S. aircraft carrier in the region and Iran’s reported closure of the Strait of Hormuz. In Washington, the program covers Republican resistance to some judicial nominees, warnings about court funding, and the White House’s stated interest in working with Democrats. It concludes with Trump defending White House construction projects when questioned about strained airline systems. The transcript provides assertions and excerpts but does not independently establish them.",
+      "topics": [
+        "Iran war and troop protection",
+        "Whistleblower allegations",
+        "Trump’s media response",
+        "Judicial confirmations",
+        "White House construction"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Six U.S. soldiers were killed in a drone attack at a command post in Kuwait, and Army Major Steven Ramsbottom filed a whistleblower complaint alleging inadequate protection and medical support.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            35,
+            37,
+            39,
+            45,
+            48,
+            52,
+            57,
+            60
+          ]
+        },
+        {
+          "claim": "Military leaders ignored intelligence warnings about the site, and the Pentagon completed an investigation whose findings were not publicly released.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            76,
+            78,
+            85,
+            87
+          ]
+        },
+        {
+          "claim": "A third U.S. aircraft carrier arrived in the Middle East while Iran closed the Strait of Hormuz.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            121,
+            123,
+            124,
+            126,
+            127,
+            128
+          ]
+        },
+        {
+          "claim": "Republican senators are blocking or delaying some judicial nominees, while Justice Samuel Alito warned that court budget cuts could disrupt operations.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            132,
+            138,
+            139,
+            143,
+            144,
+            145,
+            146
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode centers on alleged failures to protect troops at a Kuwait command post before a deadly drone attack.",
+          "evidence_segment_indices": [
+            37,
+            39,
+            52,
+            57,
+            60,
+            63
+          ],
+          "start_seconds": 78.24,
+          "end_seconds": 143.84
+        },
+        {
+          "point": "It contrasts survivors’ and a whistleblower’s accounts with official descriptions of the site and military defenses.",
+          "evidence_segment_indices": [
+            66,
+            68,
+            70,
+            71,
+            72,
+            77
+          ],
+          "start_seconds": 145.92,
+          "end_seconds": 174.48
+        },
+        {
+          "point": "Parnas portrays Trump’s response as focused on defending his administration and criticizing media coverage.",
+          "evidence_segment_indices": [
+            88,
+            89,
+            96,
+            97,
+            98
+          ],
+          "start_seconds": 198.08,
+          "end_seconds": 225.599
+        },
+        {
+          "point": "The program links the war’s reported regional developments with domestic disputes over courts and White House priorities.",
+          "evidence_segment_indices": [
+            121,
+            123,
+            132,
+            138,
+            145,
+            203,
+            213
+          ],
+          "start_seconds": 268.32,
+          "end_seconds": 446.319
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "55b5190ce1f1fc15ddd30794303788a95c67da312c687f649a28729625225568",
+      "transcript_captured_at": "2026-11-16T17:33:16.048072Z",
+      "summary_generated_at": "2026-11-16T17:38:32.115172Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a commentary transcript containing allegations, reported quotations, and predictions rather than independently verified documentation.",
+        "Several captions contain transcription errors or unclear names and phrases, including references to officials and military systems.",
+        "The transcript does not provide the underlying whistleblower complaint, investigations, reports, or source links, limiting verification.",
+        "Some later political claims are presented through partial or fragmented captions and may lack surrounding context.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
@@ -4637,469 +4943,6 @@
         "Automatic captions contain apparent transcription errors and omissions, including names and profanity markers.",
         "The source provides no supporting documents or broader context for its factual allegations and electoral predictions.",
         "Some references to wars, casualties, policy effects, and employment figures are presented only by the speakers and require independent verification.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "rOsDhzAzctQ",
-      "title": "‘WE ARE BURNT OUT’ - Military Families TEAR into Trump and Hegseth, Demand Accountability!!",
-      "url": "https://www.youtube.com/watch?v=rOsDhzAzctQ",
-      "published_at": "2026-11-12T20:30:20.000000Z",
-      "summary": "Aaron Parnas presents a strongly critical account of tensions involving the Trump administration, military families, veterans, and congressional oversight. He says House Republicans passed what Congressman Mark Takano characterized as the largest cut to veterans’ benefits in U.S. history, including a projected $57 billion reduction in future disability benefits and a higher VA financing fee. Parnas also describes a reported town hall involving families connected to the USS George H.W. Bush carrier strike group, where attendees expressed concern about extended deployments, strained communication, and the possibility of a prolonged conflict. The episode features Congressman Robert Garcia alleging that a White House letter sought to intimidate congressional investigations, while asserting Congress’s oversight role. It also includes Republican messaging from Jim Jordan emphasizing policy contrasts and party unity, followed by Scott Colom’s remarks about a Democratic victory in Mississippi. The material is primarily commentary and excerpts; it provides limited documentation for the underlying legislative, military, and electoral claims.",
-      "topics": [
-        "Veterans benefits and legislation",
-        "Military families and deployments",
-        "Congressional oversight",
-        "Trump administration accountability",
-        "Mississippi election"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "House Republicans passed the largest cut to veterans’ benefits in U.S. history, including a projected $57 billion reduction in future disability benefits and nearly tripling a VA financing fee.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            26,
-            27,
-            33,
-            34,
-            44,
-            45,
-            46,
-            47
-          ]
-        },
-        {
-          "claim": "A town hall involving approximately 500 families connected to the USS George H.W. Bush carrier strike group addressed Iranian attacks, extended deployment, and delayed holiday returns.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68
-          ]
-        },
-        {
-          "claim": "Congressman Robert Garcia said a White House letter threatened or sought to intimidate congressional oversight and investigations.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            105,
-            108,
-            110,
-            111,
-            112
-          ]
-        },
-        {
-          "claim": "Scott Colom won a historic Mississippi election, becoming the first Black person to represent the state since the Reconstruction era.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            5,
-            6,
-            7,
-            8,
-            223,
-            224
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames military families and veterans as increasingly dissatisfied with administration policy and communication.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            15,
-            16,
-            17,
-            57,
-            58,
-            87,
-            88
-          ],
-          "start_seconds": 0.08,
-          "end_seconds": 201.84
-        },
-        {
-          "point": "The episode highlights allegations of significant veterans-benefit reductions and promotes consideration of the Major Richard Star Act.",
-          "evidence_segment_indices": [
-            44,
-            45,
-            48,
-            53,
-            54,
-            55
-          ],
-          "start_seconds": 101.52,
-          "end_seconds": 131.2
-        },
-        {
-          "point": "Military families reportedly described burnout, extended deployments, and concerns that the conflict could become a prolonged war.",
-          "evidence_segment_indices": [
-            69,
-            70,
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            83,
-            84,
-            85,
-            86
-          ],
-          "start_seconds": 159.04,
-          "end_seconds": 196.08
-        },
-        {
-          "point": "Garcia defends congressional investigations as part of constitutional checks and balances.",
-          "evidence_segment_indices": [
-            100,
-            101,
-            105,
-            106,
-            107,
-            108,
-            114,
-            115,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142
-          ],
-          "start_seconds": 225.599,
-          "end_seconds": 324.88
-        },
-        {
-          "point": "Jordan argues Republicans should emphasize contrasts on taxes, borders, energy, and military strength.",
-          "evidence_segment_indices": [
-            158,
-            159,
-            160,
-            165,
-            166,
-            167,
-            168,
-            173,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183
-          ],
-          "start_seconds": 353.52,
-          "end_seconds": 407.039
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "92731331f774d63ceb3a7d62d413e0a91bc97bbbea40d5588f0e819986b6516a",
-      "transcript_captured_at": "2026-11-12T22:33:16.904460Z",
-      "summary_generated_at": "2026-11-12T22:38:26.227987Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is a commentary program combining narration, quoted remarks, and media excerpts rather than primary documentation.",
-        "Several names and terms appear mistranscribed, including references rendered as “Pete Hexth” or “Pete Hexath.”",
-        "Claims about legislation, military operations, investigations, and election results require independent verification.",
-        "The transcript does not provide bill numbers, documents, dates beyond relative wording, or corroborating sources for the major allegations.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "2ZXRNQ1zy8g",
-      "title": "‘SURRENDER NOW’: Iran Drops FINAL WARNING To Trump!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=2ZXRNQ1zy8g",
-      "published_at": "2026-11-12T20:05:09.000000Z",
-      "summary": "The creator discusses reported U.S.-Iran negotiations, saying Fox News described President Trump as signaling that military action was unnecessary while U.S. forces remained deployed. He presents Iran’s reported “seven conditions” and its call for surrender as evidence that Tehran believes it holds leverage, while warning that renewed escalation remains possible. The episode also relays a reported claim that Israeli Prime Minister Benjamin Netanyahu has urged Trump to resume attacks on Iran, though the creator interprets these developments through a strongly critical view of U.S. and Israeli policy. A substantial portion focuses on Gaza, where a broadcast report describes flooding in makeshift shelters, shortages, and risks to displaced people during heavy rain. The creator characterizes Israel’s conduct as genocide and calls for ending U.S. military support, while making additional allegations about civilian deaths, weapons use, territorial aims, and responsibility. The transcript therefore combines reported excerpts with commentary, predictions, moral judgments, and unverified claims; it does not independently establish the episode’s factual assertions.",
-      "topics": [
-        "U.S.-Iran negotiations and escalation",
-        "Iran’s reported demands",
-        "Israeli influence on Iran policy",
-        "Gaza flooding and humanitarian conditions",
-        "U.S. military support for Israel"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Fox News reported that Trump viewed military action against Iran as unnecessary at that moment while negotiations continued and U.S. forces remained ready.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            69,
-            75,
-            79,
-            84,
-            88,
-            90,
-            150,
-            152
-          ]
-        },
-        {
-          "claim": "Iranian officials reportedly called for U.S. surrender and cited seven conditions while asserting that Washington had been strategically damaged.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            158,
-            159,
-            160,
-            161,
-            162,
-            163,
-            164,
-            165,
-            166,
-            167
-          ]
-        },
-        {
-          "claim": "A report attributed to the Times of Israel and Financial Times said Netanyahu was urging Trump to resume the war while regional leaders favored negotiations.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            229,
-            230,
-            231,
-            232,
-            233,
-            234,
-            235,
-            236,
-            237,
-            238
-          ]
-        },
-        {
-          "claim": "A broadcast report said heavy rain flooded makeshift shelters in Gaza and that the UN identified large shelter and supply needs, including risks for displaced people in flood-prone areas.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            361,
-            362,
-            365,
-            370,
-            371,
-            372,
-            373,
-            374,
-            377,
-            378,
-            379,
-            380,
-            381,
-            382,
-            383,
-            384,
-            385,
-            386,
-            387,
-            394,
-            395,
-            396,
-            397,
-            398
-          ]
-        },
-        {
-          "claim": "The creator alleged extensive civilian deaths and other abuses in Gaza, including specific casualty estimates and claims about Israeli conduct.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            297,
-            298,
-            299,
-            300,
-            301,
-            402,
-            403,
-            404,
-            405,
-            406,
-            407,
-            408,
-            409,
-            410,
-            420,
-            421,
-            422,
-            423,
-            424,
-            425,
-            426,
-            427,
-            428,
-            429
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode centers on whether U.S.-Iran tensions are moving toward negotiations or renewed military escalation.",
-          "evidence_segment_indices": [
-            75,
-            79,
-            84,
-            88,
-            90,
-            150,
-            152,
-            153,
-            154,
-            155,
-            177,
-            178,
-            179,
-            180,
-            181
-          ],
-          "start_seconds": 145.28,
-          "end_seconds": 361.84
-        },
-        {
-          "point": "The creator interprets Iran’s reported stance as confidence that it has leverage over the United States.",
-          "evidence_segment_indices": [
-            121,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            147,
-            148
-          ],
-          "start_seconds": 239.76,
-          "end_seconds": 300.72
-        },
-        {
-          "point": "The episode presents reported Israeli pressure on Trump alongside the creator’s criticism of regional war policy.",
-          "evidence_segment_indices": [
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            229,
-            230,
-            231,
-            232,
-            233,
-            239,
-            247,
-            248,
-            249,
-            250
-          ],
-          "start_seconds": 436.639,
-          "end_seconds": 494.56
-        },
-        {
-          "point": "A relayed report describes flooding, shortages, and dangerous shelter conditions affecting displaced people in Gaza.",
-          "evidence_segment_indices": [
-            361,
-            362,
-            365,
-            366,
-            367,
-            368,
-            370,
-            371,
-            372,
-            373,
-            374,
-            375,
-            376,
-            377,
-            378,
-            379,
-            380,
-            381,
-            382,
-            383,
-            384,
-            385,
-            386,
-            387
-          ],
-          "start_seconds": 714.64,
-          "end_seconds": 769.279
-        },
-        {
-          "point": "The creator concludes by demanding an end to U.S. funding and weapons support for Israel and the Iran war.",
-          "evidence_segment_indices": [
-            447,
-            448,
-            449,
-            450,
-            451,
-            452,
-            453,
-            454,
-            460,
-            461,
-            462,
-            463,
-            468,
-            469,
-            470,
-            471,
-            472,
-            473,
-            474,
-            475,
-            476,
-            477,
-            522,
-            523
-          ],
-          "start_seconds": 879.68,
-          "end_seconds": 1028.72
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "280ab8caf6fa6bed0e9f0db18dbd29f179d9c1ce3259d99c6fa95ccdc82ce38b",
-      "transcript_captured_at": "2026-11-12T21:33:15.411539Z",
-      "summary_generated_at": "2026-11-12T21:38:28.974685Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is caption-derived and contains garbled words, omissions, and profanity redactions.",
-        "Many factual claims are presented through excerpts or the creator’s interpretation rather than independently documented evidence in the source.",
-        "The episode’s allegations, casualty figures, military claims, and predictions require independent verification.",
-        "Coverage is limited to the supplied transcript and does not establish the broader context or outcomes of the reported events.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
