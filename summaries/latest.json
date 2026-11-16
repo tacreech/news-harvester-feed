@@ -1,11 +1,223 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T22:12:01.149242Z",
+  "generated_at": "2026-11-16T22:42:01.171355Z",
   "reporting_window": {
-    "start": "2026-11-09T22:12:01.149242Z",
-    "end": "2026-11-16T22:12:01.149242Z"
+    "start": "2026-11-09T22:42:01.171355Z",
+    "end": "2026-11-16T22:42:01.171355Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "WPqVjcmzyJk",
+      "title": "🚨 ‘AMERICA IS BROKEN’ — Widespread Outages Rapidly SPREAD as Trump Declares WAR on Congress!!",
+      "url": "https://www.youtube.com/watch?v=WPqVjcmzyJk",
+      "published_at": "2026-11-16T22:26:58.000000Z",
+      "summary": "Creator Aaron Parnas frames the episode as an argument that the United States is experiencing overlapping institutional failures, beginning with reported disruptions to air travel and banking. He says the FAA grounded flights nationwide after failures involving facilities and equipment, while officials and controllers disputed the necessity and handling of the response. He then discusses reports that customers at major banks could not access accounts or complete transactions, noting Chase’s explanation that its issue was a software bug rather than a cyberattack. The episode broadens into a political dispute, presenting the White House as seeking to restrict federal employees’ testimony to Congress and blaming Congress for broader failures. Parnas also highlights an alleged incident involving ICE agents and a pregnant protester in California, though the transcript provides little context. An interview with North Carolina Democratic Party chair Anderson Clayton focuses on election results, redistricting, voting access, candidate recruitment, and Democratic priorities for future elections. The transcript includes a substantial sponsor segment and several uncertain or incomplete captions.",
+      "topics": [
+        "Infrastructure disruptions",
+        "Banking outages",
+        "Executive-congressional conflict",
+        "Immigration enforcement",
+        "North Carolina elections"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The FAA grounded flights nationwide after a failure involving equipment at facilities in Arkansas and Texas, and the FBI took possession of related equipment.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            24,
+            25,
+            27,
+            28,
+            34,
+            35,
+            36,
+            47,
+            48,
+            49,
+            50,
+            52,
+            53,
+            54
+          ]
+        },
+        {
+          "claim": "Customers at several major banks reported difficulty accessing accounts or completing transactions, while Chase attributed its disruption to a software bug rather than a cyberattack.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86
+          ]
+        },
+        {
+          "claim": "A White House memo allegedly required federal agencies to obtain permission before employees testify to Congress and allowed the White House to judge which investigations were legitimate.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118
+          ]
+        },
+        {
+          "claim": "ICE agents allegedly used force and pepper spray against a pregnant U.S. citizen attending a protest in Modesto, California.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas links reported air-travel and banking disruptions into a broader narrative of institutional breakdown.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            12,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97
+          ],
+          "start_seconds": 0.0,
+          "end_seconds": 215.84
+        },
+        {
+          "point": "The aviation section presents competing accounts about the cause, timing, necessity, and accountability for the nationwide ground stop.",
+          "evidence_segment_indices": [
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            46,
+            47,
+            54,
+            55,
+            56,
+            60,
+            61,
+            62,
+            63,
+            64,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "start_seconds": 87.92,
+          "end_seconds": 162.319
+        },
+        {
+          "point": "The political section focuses on congressional oversight, alleged White House resistance, and Democratic electoral strategy.",
+          "evidence_segment_indices": [
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121
+          ],
+          "start_seconds": 214.0,
+          "end_seconds": 262.72
+        },
+        {
+          "point": "Clayton discusses North Carolina redistricting, voting access, local organizing, and future Democratic recruitment and policy goals.",
+          "evidence_segment_indices": [
+            193,
+            194,
+            195,
+            204,
+            205,
+            210,
+            211,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            266,
+            267,
+            268,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            293
+          ],
+          "start_seconds": 432.319,
+          "end_seconds": 619.68
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "e623f81a0d8f00b1a154b993f7121a9e16b37515fd8fc9716163c3ad7ba3b39c",
+      "transcript_captured_at": "2026-11-16T22:33:13.562845Z",
+      "summary_generated_at": "2026-11-16T22:38:25.305966Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies only on the supplied transcript and does not independently establish the reported events.",
+        "Several captions contain transcription errors, omissions, profanity placeholders, or ambiguous names and terms.",
+        "The California incident is presented with limited contextual detail in the transcript.",
+        "The interview includes political opinions and predictions that are attributed to the speakers rather than treated as verified outcomes.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4672,137 +4884,6 @@
         "Several references are presented as commentary or recollection rather than supported documentation in the source.",
         "The source does not independently establish the election result, political affiliations, security-access procedures, or the historical claims discussed.",
         "Some names and terms are inconsistently transcribed, including variants of El-Sayed’s name and references to Gaza-related language.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "ZIVGbCrVl94",
-      "title": "Nvidia Is Imploding Right Now...",
-      "url": "https://www.youtube.com/watch?v=ZIVGbCrVl94",
-      "published_at": "2026-11-12T21:39:48.000000Z",
-      "summary": "The creator presents Nvidia’s alleged leadership crisis as a potentially wider business and AI-market disruption. He discusses unverified claims that CEO Jensen Huang had multiple affairs, including an alleged relationship with Nvidia executive Kimberly Powell, and says the board was preparing to remove him. He further asserts that Huang resigned and that CFO Colette Kress became interim CEO, while offering no independent documentation in the source. The episode links Nvidia’s importance to its GPUs’ role in data centers and AI infrastructure, then argues that financing and purchasing relationships among Nvidia, OpenAI, Oracle, and CoreWeave create circular exposure. The creator also raises allegations involving Chinese intelligence, export-control violations, Mega Speed, and possible chip diversion, while acknowledging that these claims require confirmation. He speculates that Nvidia’s decline could affect technology companies, investors, and the broader economy, but says the company’s engineering workforce could continue developing products without Huang. The transcript is commentary and includes substantial speculation.",
-      "topics": [
-        "Nvidia leadership",
-        "AI infrastructure and markets",
-        "Corporate allegations",
-        "Export controls and chip diversion"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The creator alleges that Jensen Huang had multiple affairs, including with Nvidia executive Kimberly Powell, and that these events contributed to a leadership change.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            13,
-            39,
-            43,
-            45,
-            81,
-            88
-          ]
-        },
-        {
-          "claim": "The creator states that Huang resigned or was removed and that CFO Colette Kress became interim CEO.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            87,
-            89,
-            91,
-            92,
-            95
-          ]
-        },
-        {
-          "claim": "The creator alleges that Nvidia-related entities and individuals were connected to Chinese intelligence, export-control concerns, and possible diversion of Nvidia chips to China.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            481,
-            494,
-            508,
-            518,
-            527,
-            540,
-            542,
-            548
-          ]
-        },
-        {
-          "claim": "The creator says Nvidia lost approximately one trillion dollars in market capitalization after the scandal.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            195,
-            197,
-            201
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode frames Nvidia as central to AI data centers because its GPUs support large-scale parallel computation and AI workloads.",
-          "evidence_segment_indices": [
-            146,
-            150,
-            153,
-            160,
-            171,
-            181
-          ],
-          "start_seconds": 331.36,
-          "end_seconds": 422.96
-        },
-        {
-          "point": "The creator explains Nvidia’s proposed financial relationships with OpenAI, Oracle, and CoreWeave as interconnected flows of funding, hardware purchases, and debt.",
-          "evidence_segment_indices": [
-            208,
-            217,
-            225,
-            230,
-            237,
-            244
-          ],
-          "start_seconds": 484.4,
-          "end_seconds": 575.279
-        },
-        {
-          "point": "The creator argues that Nvidia could remain operational without Huang because its engineers and infrastructure would continue supporting GPUs and data centers.",
-          "evidence_segment_indices": [
-            283,
-            287,
-            289,
-            293,
-            295
-          ],
-          "start_seconds": 659.76,
-          "end_seconds": 691.36
-        },
-        {
-          "point": "The creator speculates that Nvidia’s problems could affect investors, technology companies, and the wider economy.",
-          "evidence_segment_indices": [
-            131,
-            247,
-            300,
-            306,
-            308
-          ],
-          "start_seconds": 300.08,
-          "end_seconds": 723.44
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "a60ba71109f1fc25c20375e20e69e6b9369778ae010e36e2732120951e56af17",
-      "transcript_captured_at": "2026-11-12T22:03:14.146306Z",
-      "summary_generated_at": "2026-11-12T22:08:24.647245Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is a single creator’s commentary and does not provide independently verified documentation for its allegations.",
-        "Captions contain transcription errors, including inconsistent names and company references.",
-        "Several financial, legal, intelligence, and market-impact claims are presented as speculation or alleged reporting.",
-        "The source does not establish the timing, status, or outcome of any reported investigation or leadership transition.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
