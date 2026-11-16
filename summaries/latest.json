@@ -1,11 +1,211 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T21:42:01.191793Z",
+  "generated_at": "2026-11-16T00:42:01.218188Z",
   "reporting_window": {
-    "start": "2026-11-08T21:42:01.191793Z",
-    "end": "2026-11-15T21:42:01.191793Z"
+    "start": "2026-11-09T00:42:01.218188Z",
+    "end": "2026-11-16T00:42:01.218188Z"
   },
   "episodes": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "OjfHvqbeyzM",
+      "title": "The FBI Doesn't Want You To Download This...",
+      "url": "https://www.youtube.com/watch?v=OjfHvqbeyzM",
+      "published_at": "2026-11-15T23:03:21.000000Z",
+      "summary": "Mutahar of SomeOrdinaryGamers argues that AI-assisted penetration-testing frameworks are lowering the effort and time required for cyberattacks. He presents the software as an LLM-driven system that can coordinate reconnaissance, vulnerability discovery, and exploitation, then describes his own tests on authorized training targets using a locally hosted model. In his account, the system completed a cybersecurity war-game level autonomously and obtained access to a deliberately vulnerable test site, though he says he did not attack real people. The episode also attributes warnings and reported campaigns to government and security organizations, including alleged attacks affecting South Korean financial institutions. Mutahar emphasizes that these tools are not perfectly reliable and may be detectable, but says their speed and accessibility could expand the pool of capable attackers. He closes with defensive advice: compartmentalize accounts and identities, strengthen password and authentication practices, limit exposed personal information, and consider self-hosting sensitive systems.",
+      "topics": [
+        "AI-enabled cyberattacks",
+        "Autonomous penetration testing",
+        "Cybersecurity defense",
+        "Open-source hacking tools"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The FBI issued a warning about an autonomous penetration-testing framework described in the episode as Rex or Artex.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "claim": "A campaign affecting South Korean financial institutions allegedly exfiltrated personal information from about 67,000 people and involved the framework.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83
+          ]
+        },
+        {
+          "claim": "The episode attributes use of the framework against Microsoft 365 environments to Storm-940, described as a China-aligned actor.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            340,
+            341,
+            342,
+            343,
+            344,
+            345,
+            346,
+            347,
+            348,
+            349,
+            350
+          ]
+        },
+        {
+          "claim": "The creator reports that a locally hosted model autonomously gained access to deliberately vulnerable training systems during his demonstration.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames LLM-powered tooling as automating multiple stages of intrusion and accelerating attack workflows.",
+          "evidence_segment_indices": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67
+          ],
+          "start_seconds": 70.96,
+          "end_seconds": 146.72
+        },
+        {
+          "point": "He says his demonstrations used war-game or intentionally vulnerable systems and that he did not hack real people.",
+          "evidence_segment_indices": [
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            188,
+            189,
+            190,
+            191,
+            214,
+            215,
+            216,
+            217
+          ],
+          "start_seconds": 250.319,
+          "end_seconds": 461.36
+        },
+        {
+          "point": "He acknowledges limitations, including exhausted budgets, inconsistent behavior, and detectable network activity.",
+          "evidence_segment_indices": [
+            280,
+            281,
+            282,
+            287,
+            288,
+            289,
+            387,
+            388,
+            389,
+            390,
+            391,
+            392,
+            393,
+            394,
+            395,
+            396
+          ],
+          "start_seconds": 597.839,
+          "end_seconds": 864.88
+        },
+        {
+          "point": "His practical recommendations include changing passwords, compartmentalizing accounts, separating authentication channels, and reducing public exposure.",
+          "evidence_segment_indices": [
+            126,
+            127,
+            128,
+            129,
+            130,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            714,
+            715,
+            716,
+            717,
+            718,
+            719
+          ],
+          "start_seconds": 269.28,
+          "end_seconds": 1584.08
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "f201246fb224bb922425000710033463af3a88d9dc74ed5f0ea0b4d81ceacae8",
+      "transcript_captured_at": "2026-11-16T00:33:13.948877Z",
+      "summary_generated_at": "2026-11-16T00:38:25.733962Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The captions inconsistently render the central tool name as Rex, Artex, or similar variants, so its exact identity is unclear from the transcript alone.",
+        "Several product, model, organization, and actor names appear mistranscribed, including references to AI systems and security groups.",
+        "The overview reflects the creator's narrative and demonstrations only; cited allegations and reported incidents require independent verification.",
+        "The transcript contains profanity, verbal disfluencies, and occasional unclear wording that may affect precise interpretation.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4900,194 +5100,6 @@
         "Many factual claims are presented through excerpts or the creator’s interpretation rather than independently documented evidence in the source.",
         "The episode’s allegations, casualty figures, military claims, and predictions require independent verification.",
         "Coverage is limited to the supplied transcript and does not establish the broader context or outcomes of the reported events.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "RE0Hoj-N-Yc",
-      "title": "BREAKING: Trump CRACKS As DEATH OF MAGA Sets In",
-      "url": "https://www.youtube.com/watch?v=RE0Hoj-N-Yc",
-      "published_at": "2026-11-12T17:05:08.000000Z",
-      "summary": "Kyle Kulinski of Secular Talk argues that Donald Trump’s recent posts reflect political pressure after Republican midterm losses. Kulinski highlights Trump’s warnings about alleged migrant caravans, threatened tariff increases against Mexico, attacks on Democrats, and criticism of Senate Republican leadership over voting legislation and the filibuster. He interprets Trump’s public direction to Vice President JD Vance on alleged Democratic corruption as an effort to undermine or sideline Vance, particularly over Iran policy. The episode then shifts to reported military preparations involving Iran, with Kulinski warning that escalation could produce serious regional and infrastructure risks. He also discusses an unverified report that the Justice Department is considering removing Representative Ilhan Omar’s citizenship and congressional seat, presenting it as evidence of authoritarian overreach. Finally, Kulinski addresses claims that Nvidia’s CEO resigned amid scandal and says the resulting share-price decline could intensify fears about an AI bubble and broader economic downturn. The transcript reflects the creator’s commentary and includes multiple allegations and predictions requiring independent verification.",
-      "topics": [
-        "Trump’s political messaging",
-        "Republican infighting",
-        "Iran escalation",
-        "Ilhan Omar citizenship claim",
-        "Nvidia and AI-market fears"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The Justice Department is finalizing a process to strip Representative Ilhan Omar of citizenship and remove her from Congress.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            288,
-            289,
-            290,
-            291
-          ]
-        },
-        {
-          "claim": "The acting Navy Secretary told families of USS George H.W. Bush personnel that they would not be home for the holidays because of anticipated Iran-related operations.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            215,
-            218,
-            219,
-            220,
-            221,
-            222
-          ]
-        },
-        {
-          "claim": "Nvidia’s CEO resigned after reports involving affairs and alleged ties to a Chinese spy, followed by a 13% share-price decline.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            357,
-            358,
-            359,
-            360,
-            361,
-            362,
-            363,
-            370,
-            371,
-            372,
-            373
-          ]
-        },
-        {
-          "claim": "Iran has threatened cyberattacks on power grids and cutting undersea internet cables, while U.S. bases and Gulf assets face substantial risks.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            260,
-            261,
-            262,
-            263,
-            264,
-            265,
-            266,
-            267,
-            268,
-            269,
-            270,
-            274,
-            275,
-            278,
-            279
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski characterizes Trump’s posts as a reaction to Republican electoral setbacks and internal pressure.",
-          "evidence_segment_indices": [
-            1,
-            2,
-            8,
-            9,
-            10,
-            114,
-            137,
-            138,
-            139,
-            140
-          ],
-          "start_seconds": 2.08,
-          "end_seconds": 304.639
-        },
-        {
-          "point": "Trump’s quoted posts criticize Democrats, Mexico, Senate Republicans, and JD Vance while promoting claims about corruption and immigration.",
-          "evidence_segment_indices": [
-            13,
-            14,
-            20,
-            21,
-            45,
-            53,
-            65,
-            109,
-            110,
-            111,
-            143,
-            146,
-            151,
-            164
-          ],
-          "start_seconds": 30.0,
-          "end_seconds": 351.28
-        },
-        {
-          "point": "Kulinski interprets Trump’s Iran-related messaging as evidence of escalating conflict and tension with Vance.",
-          "evidence_segment_indices": [
-            188,
-            189,
-            190,
-            192,
-            193,
-            197,
-            198,
-            200,
-            202,
-            203,
-            204
-          ],
-          "start_seconds": 388.8,
-          "end_seconds": 427.28
-        },
-        {
-          "point": "The episode presents the Omar citizenship report and ICE tracking allegations as signs of constitutional and due-process concerns.",
-          "evidence_segment_indices": [
-            288,
-            290,
-            297,
-            298,
-            307,
-            308,
-            315,
-            316,
-            317,
-            318,
-            319,
-            323
-          ],
-          "start_seconds": 593.12,
-          "end_seconds": 676.079
-        },
-        {
-          "point": "Kulinski links Nvidia leadership turmoil to speculation about an AI bubble, market decline, and recession risk.",
-          "evidence_segment_indices": [
-            364,
-            365,
-            366,
-            373,
-            375,
-            376,
-            377,
-            378,
-            379,
-            380
-          ],
-          "start_seconds": 760.079,
-          "end_seconds": 799.839
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "f5d6aa4977eba9380616512a65a12c5f49ccfa4d7494f9adccea56c987be8df1",
-      "transcript_captured_at": "2026-11-12T17:33:14.923025Z",
-      "summary_generated_at": "2026-11-12T17:38:25.862132Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview relies solely on the supplied transcript, which does not independently establish the reported events.",
-        "Several captions contain transcription defects, profanity redactions, repetitions, and unclear names or wording.",
-        "The creator’s interpretations, allegations, and forecasts are presented as commentary rather than verified findings.",
-        "The transcript provides limited context for the referenced midterms, Iran developments, legal claims, and Nvidia events.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
