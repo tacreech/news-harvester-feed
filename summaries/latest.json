@@ -1,11 +1,300 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T22:42:01.171355Z",
+  "generated_at": "2026-11-16T23:42:01.263088Z",
   "reporting_window": {
-    "start": "2026-11-09T22:42:01.171355Z",
-    "end": "2026-11-16T22:42:01.171355Z"
+    "start": "2026-11-09T23:42:01.263088Z",
+    "end": "2026-11-16T23:42:01.263088Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "wldmj-cDGfQ",
+      "title": "WATCH: Hakeem Jeffries CRACKS As Protesters HECKLE HIM | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=wldmj-cDGfQ",
+      "published_at": "2026-11-16T22:45:33.000000Z",
+      "summary": "Kyle Kulinski argues that Hakeem Jeffries is facing growing opposition to becoming House Democratic leader, pointing to a Denver event where protesters criticized Jeffries over accountability, corporate influence, climate policy, Gaza, and Medicare for All. The episode presents Jeffries’s stated agenda as including measures such as expanding the child tax credit, restoring Medicaid and ACA subsidies, banning congressional stock trading, and addressing gerrymandering, while commentators say it omits or inadequately addresses Iran, Gaza, immigration, universal healthcare, and broader economic priorities. Kulinski also discusses a dispute over claims about AIPAC-related political fundraising and highlights allegations concerning Jeffries’s donors, policy positions, and relationships. Jamal Bowman is presented as saying progressives receive too little in exchange for supporting Jeffries. The episode ultimately urges continued constituent pressure and argues that Democratic lawmakers should not treat Jeffries’s leadership as inevitable. The account is strongly opinionated and relies on clipped, partially defective captions and assertions that are not independently established here.",
+      "topics": [
+        "Hakeem Jeffries leadership contest",
+        "Democratic Party strategy",
+        "Progressive opposition",
+        "Congressional fundraising",
+        "Policy agenda"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Protesters and constituent pressure are significantly threatening Jeffries’s expected leadership bid.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            6,
+            14,
+            15,
+            107,
+            108,
+            109,
+            110,
+            111
+          ]
+        },
+        {
+          "claim": "Jeffries’s agenda omits or inadequately addresses Gaza, Iran, immigration, Medicare for All, and several economic priorities.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            177,
+            178,
+            179,
+            184,
+            185,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212
+          ]
+        },
+        {
+          "claim": "AIPAC-related political fundraising continued through pass-through organizations despite reduced public activity.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263
+          ]
+        },
+        {
+          "claim": "Jeffries received specified political funding and took the policy positions described in the embedded critique.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            291,
+            292,
+            293,
+            294,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            310,
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318,
+            319
+          ]
+        },
+        {
+          "claim": "A congressman-elect reported threats from Jeffries’s allies over opposition to his leadership.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            350,
+            351,
+            352,
+            353,
+            354
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames Jeffries’s leadership as contested rather than inevitable.",
+          "evidence_segment_indices": [
+            8,
+            9,
+            10,
+            11,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140
+          ],
+          "start_seconds": 18.08,
+          "end_seconds": 335.759
+        },
+        {
+          "point": "The Denver event featured hostile protester criticism and Jeffries defending his background and agenda.",
+          "evidence_segment_indices": [
+            14,
+            15,
+            16,
+            24,
+            25,
+            26,
+            27,
+            32,
+            33,
+            34,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            67,
+            68,
+            72
+          ],
+          "start_seconds": 30.96,
+          "end_seconds": 194.56
+        },
+        {
+          "point": "The episode distinguishes between listed agenda items and priorities commentators say are missing.",
+          "evidence_segment_indices": [
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213
+          ],
+          "start_seconds": 409.52,
+          "end_seconds": 471.759
+        },
+        {
+          "point": "Kulinski calls for constituent contact and pressure on Democratic lawmakers.",
+          "evidence_segment_indices": [
+            383,
+            384,
+            385,
+            386,
+            387,
+            413,
+            414,
+            415,
+            416,
+            417,
+            418,
+            419,
+            420,
+            421,
+            422,
+            423,
+            424,
+            425,
+            426,
+            427
+          ],
+          "start_seconds": 809.68,
+          "end_seconds": 911.44
+        },
+        {
+          "point": "The episode includes multiple layers of commentary, embedded video, and attributed allegations.",
+          "evidence_segment_indices": [
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            277,
+            278,
+            279,
+            280,
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290
+          ],
+          "start_seconds": 386.639,
+          "end_seconds": 613.839
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "3359c2189bce9ce6d3b9ce179a4e9b0411962fcb001442e86f828d713132cc4a",
+      "transcript_captured_at": "2026-11-16T23:33:35.090954Z",
+      "summary_generated_at": "2026-11-16T23:39:10.666686Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Captions contain names, terms, and phrases that appear mistranscribed or truncated.",
+        "The source mixes narration, quoted protest audio, embedded commentary, and analysis, making speaker attribution imperfect in places.",
+        "Claims about fundraising, donations, polling, votes, military aid, and reported threats are presented source-only and require independent verification.",
+        "The episode does not provide complete documents, dates, methodology, or corroborating records for its major factual assertions.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -213,6 +502,365 @@
         "Several captions contain transcription errors, omissions, profanity placeholders, or ambiguous names and terms.",
         "The California incident is presented with limited contextual detail in the transcript.",
         "The interview includes political opinions and predictions that are attributed to the speakers rather than treated as verified outcomes.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "K-2xCrtfskw",
+      "title": "Chuck Schumer PANICS As Van Hollen CALLS HIM OUT DIRECTLY!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=K-2xCrtfskw",
+      "published_at": "2026-11-16T22:15:12.000000Z",
+      "summary": "The creator argues that Chris Van Hollen’s challenge to Chuck Schumer for Senate Democratic leadership reflects voter dissatisfaction and a desire for a more confrontational, economically populist direction. Van Hollen says Democrats should reject business as usual, oppose political corruption, pursue lower prices, end U.S. support for the war against Iran, avoid leadership involvement in contested primaries, and increase participation within the caucus. The creator portrays Schumer’s reported claims of having enough support as misleading and suggests that efforts to accelerate the vote could indicate vulnerability. Van Hollen describes the contest as open and says he has about 15 supporters, while disputing figures attributed to Schumer’s camp. The creator also links the leadership dispute to disagreements over the Iran nuclear agreement, Israel policy, Medicare for All, campaign endorsements, and corporate influence. The episode concludes by urging viewers to contact Democratic senators and maintain pressure for leadership change. The transcript is commentary and excerpts, not independent confirmation of the political claims.",
+      "topics": [
+        "Senate Democratic leadership contest",
+        "Chris Van Hollen’s platform",
+        "Chuck Schumer’s support and strategy",
+        "Iran policy and war",
+        "Democratic Party direction"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Van Hollen said he had about 15 supporters and characterized the leadership race as open, while disputing support figures released by Schumer’s side.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            185,
+            186,
+            187,
+            188,
+            189,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220
+          ]
+        },
+        {
+          "claim": "Van Hollen accused the current majority leader of intervening in Democratic primaries and opposing the election of two sitting senators.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98
+          ]
+        },
+        {
+          "claim": "The creator and Van Hollen associated Schumer’s Iran-policy record with opposition to the Obama-era nuclear agreement and later conflict involving Iran.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249
+          ]
+        },
+        {
+          "claim": "The creator alleged that constituent pressure caused lawmakers to reconsider their positions on Democratic leadership.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            362,
+            363,
+            364,
+            365,
+            366,
+            367,
+            368,
+            369,
+            370,
+            371,
+            372,
+            373,
+            374,
+            375,
+            376,
+            377,
+            378,
+            379,
+            380,
+            381,
+            382
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Van Hollen presents his candidacy as a response to voters rejecting Trump while withholding full trust from Democrats.",
+          "evidence_segment_indices": [
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+          ],
+          "start_seconds": 143.28,
+          "end_seconds": 167.04
+        },
+        {
+          "point": "His stated priorities include economic populism, ending the Iran war, reducing political corruption, and greater caucus democracy.",
+          "evidence_segment_indices": [
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104
+          ],
+          "start_seconds": 165.36,
+          "end_seconds": 221.12
+        },
+        {
+          "point": "The creator frames the contest as broader than a progressive-versus-moderate dispute, emphasizing whether leadership is willing to fight.",
+          "evidence_segment_indices": [
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176
+          ],
+          "start_seconds": 294.96,
+          "end_seconds": 352.479
+        },
+        {
+          "point": "The episode ends with a call for viewers to contact Democratic senators and support Van Hollen.",
+          "evidence_segment_indices": [
+            352,
+            353,
+            354,
+            355,
+            356,
+            357,
+            358,
+            359,
+            360,
+            361
+          ],
+          "start_seconds": 709.839,
+          "end_seconds": 736.639
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "0f585a288a56f60bc26d5938751499b96bb1f0c442a95fdf3d8f3493a63f6734",
+      "transcript_captured_at": "2026-11-16T23:33:28.024693Z",
+      "summary_generated_at": "2026-11-16T23:38:47.126099Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains apparent caption or transcription defects, including inconsistent renderings of names such as Van Hollen and references to other people.",
+        "Many political, polling, historical, and causal assertions are presented by the creator or quoted speakers without supporting documentation in the source.",
+        "The excerpted interview and commentary provide source-only coverage and do not establish whether reported support counts or allegations are accurate.",
+        "Some wording is fragmentary or ambiguous, especially in passages involving names, campaign activity, and Iran-related events.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "xxQbnfgejuw",
+      "title": "THE AIRPORTS ARE F*CKED | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=xxQbnfgejuw",
+      "published_at": "2026-11-16T21:45:14.000000Z",
+      "summary": "Kyle Kulinski argues that a nationwide airport ground stop and subsequent flight disruptions expose vulnerabilities in U.S. aviation infrastructure. He discusses reported claims that an FAA communications router generated repeated connection attempts, that more than 60 routers were disabled, and that thousands of flights were delayed or canceled, while noting that investigators had not established a root cause and officials cited no evidence of sabotage. Kulinski considers several explanations: faulty equipment or installation, an Iranian cyberattack, and government understaffing or institutional deterioration. He focuses especially on whether a recently introduced FAA “smart” system could have contributed, though Transportation Secretary Sean Duffy says it was disconnected from the affected legacy systems. Kulinski remains skeptical of official explanations and endorses commentary attributing the outage to new technology operating on outdated infrastructure, while also acknowledging cyberattack remains possible. He concludes that privatized infrastructure, funding disputes, and administrative cuts may have increased systemic vulnerability, and warns that a broader conflict with Iran could expose further weaknesses.",
+      "topics": [
+        "FAA outage",
+        "airport infrastructure",
+        "AI systems",
+        "cybersecurity",
+        "government management"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A nationwide ground stop occurred, with more than 5,200 flights canceled or delayed and over 60 FAA routers disabled.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            1,
+            3,
+            29,
+            32
+          ]
+        },
+        {
+          "claim": "A newly installed L3Harris router generated more than 1,000 connection attempts every four to five seconds and may have caused the shutdown.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            21,
+            24,
+            25,
+            26,
+            27,
+            28
+          ]
+        },
+        {
+          "claim": "The FAA’s smart system was disconnected from the legacy systems affected by the outage.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            149,
+            159,
+            160,
+            165,
+            172,
+            173,
+            174
+          ]
+        },
+        {
+          "claim": "An Iranian cyberattack, or the use of new AI technology on legacy infrastructure, may explain the disruption.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            76,
+            77,
+            82,
+            347,
+            350,
+            352,
+            372,
+            373,
+            374
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Officials presented equipment failure or installation errors as possibilities, while saying the root cause remained under investigation.",
+          "evidence_segment_indices": [
+            26,
+            27,
+            28,
+            33,
+            34,
+            136,
+            139,
+            140
+          ],
+          "start_seconds": 60.64,
+          "end_seconds": 311.6
+        },
+        {
+          "point": "Kulinski frames the outage as evidence of broader institutional weakening and criticizes the government’s handling of aviation infrastructure.",
+          "evidence_segment_indices": [
+            8,
+            9,
+            10,
+            11,
+            87,
+            88,
+            89,
+            90
+          ],
+          "start_seconds": 20.88,
+          "end_seconds": 213.68
+        },
+        {
+          "point": "Duffy said replacing the existing FAA network would require congressional funding and take years.",
+          "evidence_segment_indices": [
+            227,
+            232,
+            233,
+            238,
+            239,
+            240,
+            241
+          ],
+          "start_seconds": 489.68,
+          "end_seconds": 520.32
+        },
+        {
+          "point": "Kulinski links aviation vulnerability to possible escalation with Iran, but presents that connection as speculation.",
+          "evidence_segment_indices": [
+            70,
+            71,
+            76,
+            77,
+            85,
+            86,
+            353,
+            354,
+            355
+          ],
+          "start_seconds": 163.599,
+          "end_seconds": 749.36
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "c3da10c012981e2001a11113e82f0429e9dbf2d1f02ec2cd98fcd3ed24107508",
+      "transcript_captured_at": "2026-11-16T23:33:20.497538Z",
+      "summary_generated_at": "2026-11-16T23:38:23.307550Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a commentary program combining official excerpts, reported claims, and speculation; it does not independently establish causation.",
+        "Several proper names, technical terms, and figures may be imperfectly rendered in captions.",
+        "The source provides no corroborating documents, investigation results, or independent verification of the outage explanations.",
+        "The creator’s broader claims about staffing cuts, funding management, and Iranian threats are presented without supporting source material in the transcript.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -4227,663 +4875,6 @@
         "Several captions contain transcription errors, profanity redactions, overlapping segments, and uncertain names or terms.",
         "The source frequently presents Kulinski's interpretations and allegations as commentary; those statements are attributed rather than treated as established facts.",
         "The excerpt provides limited context about the elections, candidates, dates, and outcomes referenced.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "S3WaaVDgjNE",
-      "title": "🚨 Major Investigations BEGIN as Trump Desperate To Avoid JAIL, It’s ACCOUNTABILITY TIME!!",
-      "url": "https://www.youtube.com/watch?v=S3WaaVDgjNE",
-      "published_at": "2026-11-12T23:00:24.000000Z",
-      "summary": "Aaron Parnas presents a partisan account of what he describes as an expanding wave of investigations involving the Trump administration. He says House committees have asked more than 60 companies, individuals, and agencies to preserve records for future oversight, while highlighting inquiries into climate-related decisions, an alleged $1.6 billion government investment, corporate donations connected to Trump projects, and whether RFK Jr. misled Congress. Parnas also reports that a Texas federal prosecutor warned Senator Richard Blumenthal of possible legal consequences over a donor investigation, framing the exchange as intimidation; the source provides no primary documents. The episode further discusses Trump’s reported decision to remove JD Vance from Iran negotiations and congressional questions about Nvidia and advanced-chip policy, including allegations involving Chinese influence. A lengthy interview with incoming Representative Johnny Garcia focuses on affordability, immigration, accountability, and possible future impeachment proceedings. The material is commentary and excerpts rather than independently documented reporting, and several names, quotations, and claims are difficult to verify from captions alone.",
-      "topics": [
-        "Congressional investigations",
-        "Trump administration accountability",
-        "Corporate donations and oversight",
-        "Climate and technology policy",
-        "Interview with Johnny Garcia"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "House committees sent preservation letters to more than 60 companies, individuals, and agencies for future oversight.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37
-          ]
-        },
-        {
-          "claim": "An investigation is examining whether RFK Jr. misled Congress about the purpose of his 2019 Samoa trip.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            73,
-            74,
-            75,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            88
-          ]
-        },
-        {
-          "claim": "A Texas federal prosecutor warned Senator Richard Blumenthal of significant legal consequences over his investigation into Trump ballroom donors.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            101,
-            104,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            115,
-            116
-          ]
-        },
-        {
-          "claim": "Trump’s advanced-chip policy was influenced by Nvidia CEO Jensen Huang, whom the program alleges had a relationship with a Chinese spy.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144,
-            145,
-            146,
-            147,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153,
-            154,
-            155,
-            156,
-            157
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas portrays congressional oversight as expanding before Democrats obtain subpoena power.",
-          "evidence_segment_indices": [
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36
-          ],
-          "start_seconds": 63.52,
-          "end_seconds": 81.28
-        },
-        {
-          "point": "The episode connects investigations to climate policy, government investment, corporate donations, and RFK Jr.’s testimony.",
-          "evidence_segment_indices": [
-            38,
-            39,
-            40,
-            41,
-            45,
-            46,
-            48,
-            49,
-            50,
-            58,
-            61,
-            63,
-            64,
-            73,
-            78,
-            79
-          ],
-          "start_seconds": 81.28,
-          "end_seconds": 172.239
-        },
-        {
-          "point": "Parnas characterizes the Blumenthal letter as a threat intended to discourage investigations.",
-          "evidence_segment_indices": [
-            104,
-            106,
-            107,
-            110,
-            111,
-            116,
-            117,
-            118,
-            119
-          ],
-          "start_seconds": 220.159,
-          "end_seconds": 256.56
-        },
-        {
-          "point": "Johnny Garcia discusses lowering costs, healthcare, immigration, accountability, and evaluating evidence before impeachment.",
-          "evidence_segment_indices": [
-            220,
-            221,
-            222,
-            223,
-            224,
-            225,
-            233,
-            234,
-            245,
-            250,
-            271,
-            284,
-            287,
-            303,
-            304,
-            305
-          ],
-          "start_seconds": 478.0,
-          "end_seconds": 658.079
-        },
-        {
-          "point": "The program also covers Iran negotiations and questions about Trump’s technology policy.",
-          "evidence_segment_indices": [
-            120,
-            121,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            137,
-            138,
-            145,
-            146,
-            147
-          ],
-          "start_seconds": 254.64,
-          "end_seconds": 325.52
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "53d165a435adebf6adb90c8e6acd6ce484b84885f8f65b69576b829d34985858",
-      "transcript_captured_at": "2026-11-13T00:03:16.257643Z",
-      "summary_generated_at": "2026-11-13T00:08:27.474195Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains apparent caption errors, including garbled or inconsistent names and phrases.",
-        "Many allegations are presented through commentary or attributed statements without primary documentation in the source.",
-        "The episode’s coverage is source-limited and does not establish whether the described investigations or legal claims are substantiated.",
-        "Some quoted remarks appear to combine narration, interview audio, and transcription artifacts.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "Tn9DuD5eP9M",
-      "title": "Trump FREAKS Over DEVASTATING LAWSUIT As ALL PLANS COLLAPSE!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=Tn9DuD5eP9M",
-      "published_at": "2026-11-12T22:30:05.000000Z",
-      "summary": "The creator argues that a reported lawsuit by members of the Kennedy family, alongside existing litigation by Washington, D.C., Virginia, and veterans, threatens President Trump’s proposed 250-foot arch near Arlington National Cemetery. The cited report says plaintiffs object to potential effects on family gravesites and views toward the Lincoln Memorial and John F. Kennedy’s grave. The creator interprets the dispute as evidence that Trump prioritizes monuments, naming projects, and personal legacy, and connects it to criticism of changes involving the Kennedy Center. The discussion also turns to a reported White House counsel letter warning that some Democratic congressional investigations could become criminal if they lack a legislative purpose. The creator characterizes that warning as an intimidation tactic and predicts investigations could later support criminal cases. He further advocates dismantling Trump-named projects or using them as leverage for policy concessions. The episode relies on commentary and excerpts from reported coverage; the legal status, factual basis, and broader allegations require independent verification.",
-      "topics": [
-        "Arlington arch lawsuit",
-        "Kennedy family litigation",
-        "Trump legacy projects",
-        "Congressional oversight",
-        "Pardon reform"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Members of the Kennedy family joined litigation seeking to block a proposed 250-foot arch near Arlington National Cemetery.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            16,
-            17,
-            18,
-            19,
-            20,
-            22,
-            23,
-            24,
-            46,
-            47,
-            56,
-            67
-          ]
-        },
-        {
-          "claim": "The arch is currently blocked by separate litigation brought by veterans and could proceed through appeals.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            152,
-            153,
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160
-          ]
-        },
-        {
-          "claim": "A White House counsel letter warned that some Democratic investigations could cross into criminal conduct if they lack a legislative purpose.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            245,
-            246,
-            247,
-            249,
-            250,
-            257,
-            258,
-            259,
-            260,
-            263,
-            264,
-            265,
-            266
-          ]
-        },
-        {
-          "claim": "The proposed arch would obstruct views of the Lincoln Memorial from portions of Arlington National Cemetery, including near JFK’s gravesite.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode centers on reported legal opposition to Trump’s proposed Arlington arch.",
-          "evidence_segment_indices": [
-            16,
-            18,
-            19,
-            20,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51
-          ],
-          "start_seconds": 35.04,
-          "end_seconds": 101.28
-        },
-        {
-          "point": "Reported objections include financial, environmental, sightline, and cemetery-related concerns.",
-          "evidence_segment_indices": [
-            52,
-            53,
-            54,
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66
-          ],
-          "start_seconds": 99.68,
-          "end_seconds": 125.68
-        },
-        {
-          "point": "The creator frames the controversy as part of a broader focus on personal naming and legacy projects.",
-          "evidence_segment_indices": [
-            6,
-            12,
-            13,
-            14,
-            15,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            119,
-            120,
-            126,
-            127
-          ],
-          "start_seconds": 14.4,
-          "end_seconds": 239.2
-        },
-        {
-          "point": "The episode also discusses a White House warning concerning Democratic oversight investigations.",
-          "evidence_segment_indices": [
-            245,
-            246,
-            250,
-            257,
-            258,
-            259,
-            260,
-            263,
-            264,
-            265,
-            266
-          ],
-          "start_seconds": 453.919,
-          "end_seconds": 497.44
-        },
-        {
-          "point": "The creator proposes using contested projects as leverage for policy goals and calls for changes to presidential pardons.",
-          "evidence_segment_indices": [
-            176,
-            177,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            304,
-            305,
-            306,
-            307,
-            308,
-            309,
-            310,
-            311
-          ],
-          "start_seconds": 313.199,
-          "end_seconds": 585.44
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "69ed3414cc84c68e30fc485e0224172b64991fbeb9758fb1eda948bd889e3011",
-      "transcript_captured_at": "2026-11-12T23:33:37.873293Z",
-      "summary_generated_at": "2026-11-12T23:39:32.207996Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains automatic-caption defects, including garbled names, terms, and phrases.",
-        "The source presents the creator’s interpretations and allegations alongside excerpts from reported coverage; it does not independently establish their accuracy.",
-        "The supplied material does not provide full filings, legal rulings, the White House letter, or responses from the named parties.",
-        "Several references and predictions are ambiguous or rhetorical, especially claims about motives, corruption, and future prosecutions.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "QMTJwx-hqFc",
-      "title": "Abdul TRIGGERS Dave Rubin Into ULTRA R*CIST MELTDOWN | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=QMTJwx-hqFc",
-      "published_at": "2026-11-12T22:00:24.000000Z",
-      "summary": "Kyle Kulinski argues that Abdul El-Sayed’s Senate campaign was opposed primarily through attacks portraying him as Muslim, extremist, or connected to militant organizations, rather than through policy debate. He says El-Sayed won by seven points despite conservative opposition, donor spending, and extensive Fox News coverage. The episode then critiques Dave Rubin for calling El-Sayed dangerous, alleging Muslim Brotherhood ties, and suggesting he would share intelligence with enemy states. Kulinski highlights a displayed claim that El-Sayed failed a background check for classified briefings, followed by a community note disputing both the relevance of such checks to senators and the existence of confirming reports. He also challenges Rubin’s interpretation of El-Sayed’s Quran swearing-in and discusses claims about El-Sayed’s positions on aid, healthcare, wages, and church-state separation. The closing section contrasts Rubin’s criticism of a Dave Chappelle joke about Charlie Kirk with conservative defenses of edgy comedy, arguing that standards are applied inconsistently. The account is commentary and includes several unverified allegations and disputed references.",
-      "topics": [
-        "Abdul El-Sayed Senate campaign",
-        "Islamophobia and political attacks",
-        "Dave Rubin criticism",
-        "Security-clearance rumor",
-        "Political comedy and free speech"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Abdul El-Sayed won the Senate race by seven points despite conservative opposition and major spending against him.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            22,
-            23,
-            24,
-            27,
-            28,
-            30
-          ]
-        },
-        {
-          "claim": "A report claimed El-Sayed failed a background check for classified Senate briefings, while a displayed community note disputed the claim and described Senate access procedures differently.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143
-          ]
-        },
-        {
-          "claim": "The episode says El-Sayed has advocated cutting aid to both Israel and Egypt and supports healthcare, higher wages, and anti-corruption measures.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            246,
-            247,
-            248,
-            249,
-            250,
-            251,
-            335,
-            336,
-            337,
-            338,
-            339
-          ]
-        },
-        {
-          "claim": "Kulinski says Dave Rubin previously argued that bombing a school or hospital could be legitimate and later defended controversial claims about El-Sayed.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            68,
-            70,
-            71,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            62,
-            63,
-            64,
-            65
-          ]
-        },
-        {
-          "claim": "The episode compares Dave Chappelle’s Charlie Kirk joke with Tony Hinchcliffe’s earlier George Floyd joke and argues that conservative reactions were inconsistent.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            366,
-            371,
-            383,
-            384,
-            385,
-            411,
-            413,
-            414,
-            416,
-            417,
-            418,
-            419,
-            421,
-            422,
-            428,
-            429,
-            433
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames the campaign as centered on identity-based attacks rather than substantive policy disagreements.",
-          "evidence_segment_indices": [
-            4,
-            5,
-            7,
-            8,
-            10,
-            16,
-            18,
-            19,
-            20,
-            21
-          ],
-          "start_seconds": 9.2,
-          "end_seconds": 53.76
-        },
-        {
-          "point": "He presents Rubin’s accusations about El-Sayed as severe claims and questions their factual basis.",
-          "evidence_segment_indices": [
-            62,
-            63,
-            64,
-            65,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102
-          ],
-          "start_seconds": 128.16,
-          "end_seconds": 212.799
-        },
-        {
-          "point": "The program uses a community note to challenge the reported background-check story.",
-          "evidence_segment_indices": [
-            132,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144,
-            145
-          ],
-          "start_seconds": 254.4,
-          "end_seconds": 286.96
-        },
-        {
-          "point": "Kulinski argues that Rubin’s objections to El-Sayed’s Quran swearing-in are inconsistent with constitutional and religious practices.",
-          "evidence_segment_indices": [
-            260,
-            261,
-            262,
-            263,
-            264,
-            265,
-            266,
-            267,
-            268,
-            269,
-            270
-          ],
-          "start_seconds": 485.039,
-          "end_seconds": 509.759
-        },
-        {
-          "point": "The episode closes by arguing that free-speech and comedy principles are applied selectively.",
-          "evidence_segment_indices": [
-            357,
-            358,
-            359,
-            360,
-            366,
-            371,
-            372,
-            373,
-            374,
-            375,
-            376,
-            377,
-            378,
-            379,
-            380,
-            381,
-            382,
-            383,
-            421,
-            422,
-            428,
-            429,
-            430,
-            431
-          ],
-          "start_seconds": 666.48,
-          "end_seconds": 821.12
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "223201fcd7ae93f6512eb3ccab9df0ba48509f2c84aeae9d6c3a00dfe17f44b0",
-      "transcript_captured_at": "2026-11-12T23:33:30.283257Z",
-      "summary_generated_at": "2026-11-12T23:39:11.023381Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains omissions marked [__], laughter, overlapping dialogue, and occasional caption errors.",
-        "Several references are presented as commentary or recollection rather than supported documentation in the source.",
-        "The source does not independently establish the election result, political affiliations, security-access procedures, or the historical claims discussed.",
-        "Some names and terms are inconsistently transcribed, including variants of El-Sayed’s name and references to Gaza-related language.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
