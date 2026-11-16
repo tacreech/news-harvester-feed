@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T17:00:55.064121Z",
+  "generated_at": "2026-11-16T17:30:09.568159Z",
   "reporting_window": {
-    "start": "2026-11-09T17:00:55.064121Z",
-    "end": "2026-11-16T17:00:55.064121Z",
+    "start": "2026-11-09T17:30:09.568159Z",
+    "end": "2026-11-16T17:30:09.568159Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,7 +14,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-16T17:00:53.486717Z",
+      "last_successful_poll": "2026-11-16T17:30:08.407154Z",
       "warnings": []
     },
     {
@@ -23,7 +23,7 @@
       "identity_status": "verified",
       "health": "success_new",
       "discovery_status": "success_new",
-      "last_successful_poll": "2026-11-16T17:00:53.709213Z",
+      "last_successful_poll": "2026-11-16T17:30:08.589617Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-16T17:00:53.947665Z",
+      "last_successful_poll": "2026-11-16T17:30:08.792490Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-16T17:00:54.203606Z",
+      "last_successful_poll": "2026-11-16T17:30:09.001167Z",
       "warnings": []
     },
     {
@@ -50,11 +50,23 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-16T17:00:54.861297Z",
+      "last_successful_poll": "2026-11-16T17:30:09.417465Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "UWxK0vzen0I",
+      "title": "Major meeting in China.",
+      "published_at": "2026-11-16T16:52:57.000000Z",
+      "url": "https://www.youtube.com/watch?v=UWxK0vzen0I",
+      "first_seen": "2026-11-16T17:30:08.589617Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
