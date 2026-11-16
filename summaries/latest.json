@@ -1,11 +1,168 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T17:42:01.201612Z",
+  "generated_at": "2026-11-16T21:12:01.187870Z",
   "reporting_window": {
-    "start": "2026-11-09T17:42:01.201612Z",
-    "end": "2026-11-16T17:42:01.201612Z"
+    "start": "2026-11-09T21:12:01.187870Z",
+    "end": "2026-11-16T21:12:01.187870Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "amk2l1fFuNE",
+      "title": "BREAKING: Major Banking Outages as Stock Market Falls and Trump Remains ABSENT!!",
+      "url": "https://www.youtube.com/watch?v=amk2l1fFuNE",
+      "published_at": "2026-11-16T19:15:44.000000Z",
+      "summary": "Aaron Parnas reports that customers are experiencing online-access problems at several large U.S. banks and presents the episode as a developing technology and accountability story. He cites user reports involving Chase, Bank of America, Wells Fargo, U.S. Bank, and Capital One, along with his own difficulty viewing an updated Chase balance. A television segment included in the episode says Downdetector showed thousands of reports for Chase and nearly a thousand for Bank of America, while noting that the scale and cause were unclear and that Wells Fargo did not appear to have widespread problems. Chase is described as acknowledging issues without providing a full explanation. Parnas links the banking reports rhetorically to recent Microsoft and airline disruptions but explicitly says he is not claiming they are connected. He also criticizes what he characterizes as limited presidential and administrative communication. Possible causes, including updates, a shared software problem, artificial intelligence, or malicious activity, remain speculative in this source.",
+      "topics": [
+        "Banking service outages",
+        "Online account access",
+        "Technology infrastructure",
+        "Government response"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Customers at multiple major banks were experiencing online-account access problems, with the episode citing thousands of reports for Chase and nearly a thousand for Bank of America.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            62,
+            64,
+            65,
+            79,
+            80,
+            81,
+            89,
+            90
+          ]
+        },
+        {
+          "claim": "Chase acknowledged that it was experiencing issues but had not yet provided a full explanation or resolution.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            89,
+            90,
+            91,
+            92,
+            93,
+            94
+          ]
+        },
+        {
+          "claim": "The Dow Jones fell after reports of the banking issues emerged, with the episode identifying a notable dip around 1:30 Eastern time.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            114,
+            115,
+            116,
+            117,
+            118
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode focuses on reported access problems involving several major banks and digital banking services.",
+          "evidence_segment_indices": [
+            4,
+            5,
+            6,
+            7,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "start_seconds": 8.8,
+          "end_seconds": 83.52
+        },
+        {
+          "point": "A featured television discussion emphasizes that the cause and scope were not yet established; Wells Fargo access appeared functional for one participant.",
+          "evidence_segment_indices": [
+            53,
+            54,
+            60,
+            61,
+            77,
+            78,
+            95,
+            96,
+            97,
+            98
+          ],
+          "start_seconds": 123.759,
+          "end_seconds": 223.84
+        },
+        {
+          "point": "Parnas compares the reports with recent Microsoft and airline disruptions while expressly declining to assert that they are connected.",
+          "evidence_segment_indices": [
+            34,
+            35,
+            36,
+            37,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208
+          ],
+          "start_seconds": 83.52,
+          "end_seconds": 452.96
+        },
+        {
+          "point": "The episode presents possible explanations such as software updates, a shared bug, artificial intelligence, or malicious activity as unresolved possibilities.",
+          "evidence_segment_indices": [
+            69,
+            70,
+            73,
+            74,
+            75,
+            76,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217
+          ],
+          "start_seconds": 159.36,
+          "end_seconds": 471.919
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "34a8bc4961bb9828f4da3edf0ecdb67cf4228c6004e1e1bfe862eda4dbe24479",
+      "transcript_captured_at": "2026-11-16T21:03:17.887104Z",
+      "summary_generated_at": "2026-11-16T21:08:23.102525Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a creator’s commentary and embedded broadcast transcript, not independent confirmation of outage scope or cause.",
+        "Downdetector figures and user reports are presented without accompanying records or verification in the source.",
+        "The transcript contains caption errors, overlapping speech, and a likely transcription error for Zelle.",
+        "The source gives conflicting signals about breadth: several banks are named, but some individual services or accounts reportedly remained accessible.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4704,245 +4861,6 @@
         "Several assertions are the creator’s interpretations or allegations and require independent verification.",
         "The source provides commentary and selected clips without the underlying documents or full contextual recordings.",
         "The transcript identifies an older Carlson clip only approximately as dating from the 1990s or early 2000s.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "VdMPK_pBegM",
-      "title": "MAGA Blames SELFISH VOTERS For Midterm Drubbing | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=VdMPK_pBegM",
-      "published_at": "2026-11-12T20:55:11.000000Z",
-      "summary": "Kyle Kulinski argues that Republican figures responded to an electoral defeat by invoking religious faith and asking voters to accept economic hardship for what they describe as higher moral or national purposes. He contrasts that message with household concerns such as fuel, groceries, wages, and affordability, portraying the Republican response as dismissive of voters’ material interests. Kulinski also criticizes Republican policy priorities, alleging that they favor wealthy people, military action, deregulation, and reductions to social programs while scapegoating minority groups. He presents Rick Santorum’s comments about sacrifice and war as unusually candid, then contrasts them with what he characterizes as Donald Trump’s broken promises and dishonesty. The episode concludes with Kulinski predicting that Republicans will struggle electorally if they continue framing voters as selfish and demanding sacrifice. The transcript is primarily commentary and excerpts; it provides no independent documentation for the episode’s many claims about elections, legislation, casualties, employment, taxation, or foreign policy.",
-      "topics": [
-        "Republican electoral messaging",
-        "Religious appeals and political sacrifice",
-        "Economic hardship and voter priorities",
-        "War and foreign policy criticism",
-        "Partisan campaign strategy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The episode describes a recent large Democratic electoral wave and a Republican defeat.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            3,
-            4,
-            5,
-            6,
-            7,
-            58,
-            59
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that Republican policies cut health care for 18 million Americans and removed 5 million people from food assistance.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that Trump outsourced 200,000 jobs and eliminated 775,000 jobs previously brought back during Biden’s second term.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            282,
-            283,
-            284,
-            285,
-            286,
-            287,
-            288,
-            289
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that Republican tax policy raises taxes on most people while benefiting the wealthy, and that tariffs are paid by consumers.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            247,
-            248,
-            249,
-            250,
-            251,
-            252,
-            253,
-            254,
-            255,
-            256,
-            257,
-            258,
-            259
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Republican speakers are presented as responding to defeat through faith-based appeals rather than policy reassessment.",
-          "evidence_segment_indices": [
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            22,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30
-          ],
-          "start_seconds": 14.719,
-          "end_seconds": 64.559
-        },
-        {
-          "point": "Santorum argues that voters should look beyond immediate costs and may need to endure financial suffering for a higher purpose.",
-          "evidence_segment_indices": [
-            75,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            125,
-            126,
-            127,
-            128,
-            152,
-            153,
-            154,
-            155,
-            156,
-            157,
-            158,
-            159
-          ],
-          "start_seconds": 158.959,
-          "end_seconds": 348.72
-        },
-        {
-          "point": "Kulinski argues that voters’ concerns about prices and living costs should weigh heavily in democratic accountability.",
-          "evidence_segment_indices": [
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111
-          ],
-          "start_seconds": 185.04,
-          "end_seconds": 247.439
-        },
-        {
-          "point": "The episode characterizes Republican politics as benefiting wealthy interests while scapegoating vulnerable groups.",
-          "evidence_segment_indices": [
-            220,
-            221,
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            230,
-            231,
-            232,
-            233,
-            234,
-            235,
-            236,
-            237,
-            238,
-            239,
-            240,
-            241,
-            242,
-            243
-          ],
-          "start_seconds": 474.96,
-          "end_seconds": 528.0
-        },
-        {
-          "point": "Kulinski predicts continued Republican use of this message will damage their future electoral prospects.",
-          "evidence_segment_indices": [
-            162,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186
-          ],
-          "start_seconds": 352.0,
-          "end_seconds": 405.12
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "e8163d8f9e8897fe62e4f56c1d30495116b6658e36c8587e9813f3be589e57f5",
-      "transcript_captured_at": "2026-11-12T23:33:16.031716Z",
-      "summary_generated_at": "2026-11-12T23:38:27.430925Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is commentary interwoven with quoted political remarks, and speaker attribution is not independently verified.",
-        "Automatic captions contain apparent transcription errors and omissions, including names and profanity markers.",
-        "The source provides no supporting documents or broader context for its factual allegations and electoral predictions.",
-        "Some references to wars, casualties, policy effects, and employment figures are presented only by the speakers and require independent verification.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
