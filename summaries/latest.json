@@ -1,11 +1,262 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T03:12:01.157121Z",
+  "generated_at": "2026-11-17T15:12:01.200583Z",
   "reporting_window": {
-    "start": "2026-11-10T03:12:01.157121Z",
-    "end": "2026-11-17T03:12:01.157121Z"
+    "start": "2026-11-10T15:12:01.200583Z",
+    "end": "2026-11-17T15:12:01.200583Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "RjPGVxww9mA",
+      "title": "‘IT’S LIFE’ — Trump Shrugs Off Outages as Major CYBERATTACK Hits and Americans ERUPT!!",
+      "url": "https://www.youtube.com/watch?v=RjPGVxww9mA",
+      "published_at": "2026-11-17T14:46:41.000000Z",
+      "summary": "Aaron Parnas reviews a series of reported outages, political responses, cybersecurity concerns, and intelligence claims involving Iran. He says disruptions affected aviation, banking, and airline systems, while emphasizing that the incidents were not believed to be connected. Parnas criticizes President Trump’s reported “it happens” response and questions whether officials adequately explained the outages. He also discusses a Homeland Security official’s account that agencies saw no evidence of a coordinated cyberattack, while an unnamed technology expert reportedly suggested artificial intelligence could have caused cascading failures. The episode raises concerns about that official’s attendance at a college football game during the disruption, while noting the department said there was no wrongdoing. On Iran, Parnas presents reporting that officials described possible plans for an attack in Washington, but stresses that the accounts did not indicate an imminent threat and that the White House said there were no credible homeland threats. He urges skepticism toward intelligence claims used to justify policy.",
+      "topics": [
+        "Infrastructure outages",
+        "Cybersecurity and artificial intelligence",
+        "Government accountability",
+        "Iran threat intelligence",
+        "Political analysis"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A global Microsoft outage, an FAA ground stop, and failures involving Chase and United affected major services, including air travel and banking.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ]
+        },
+        {
+          "claim": "More than 170 websites and companies were affected by a cyber incident, with customer information potentially compromised.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+          ]
+        },
+        {
+          "claim": "Federal cybersecurity monitoring reportedly found no evidence that the outages were a coordinated cyberattack.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134
+          ]
+        },
+        {
+          "claim": "CNN reportedly cited seven U.S. officials describing Iranian planning options involving a possible dirty-bomb or chemical-weapons attack in Washington, while officials disagreed about operational capability.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196
+          ]
+        },
+        {
+          "claim": "A Homeland Security official attended an LSU–Texas football game using a government plane shortly after briefing the public on the aviation disruption, according to the episode’s account of New York Post reporting.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames the outages as separate incidents affecting aviation, banking, and airline operations, while noting they were not believed to be connected.",
+          "evidence_segment_indices": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "start_seconds": 45.6,
+          "end_seconds": 69.36
+        },
+        {
+          "point": "Trump is presented as dismissing concerns, while Parnas interprets the response as a failure to accept responsibility.",
+          "evidence_segment_indices": [
+            35,
+            36,
+            37,
+            38,
+            44,
+            45,
+            54,
+            55,
+            56,
+            157,
+            158,
+            159,
+            160
+          ],
+          "start_seconds": 71.2,
+          "end_seconds": 336.24
+        },
+        {
+          "point": "The episode contrasts speculation about artificial intelligence with officials’ reported assessment that the outages lacked cyberattack indicators.",
+          "evidence_segment_indices": [
+            80,
+            81,
+            82,
+            83,
+            84,
+            96,
+            100,
+            104,
+            113,
+            114,
+            115,
+            117,
+            118,
+            123,
+            124,
+            128,
+            129,
+            134,
+            142,
+            143,
+            144
+          ],
+          "start_seconds": 165.599,
+          "end_seconds": 305.28
+        },
+        {
+          "point": "Parnas urges caution about Iran-related intelligence, emphasizing that reported plans were not evidence of an imminent attack and that the White House denied credible homeland threats.",
+          "evidence_segment_indices": [
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            201,
+            202,
+            203,
+            204
+          ],
+          "start_seconds": 368.0,
+          "end_seconds": 427.84
+        },
+        {
+          "point": "The episode argues that prior intelligence failures and political timing warrant scrutiny of alarming threat reports.",
+          "evidence_segment_indices": [
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231
+          ],
+          "start_seconds": 425.68,
+          "end_seconds": 485.039
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "917ac1ab0da3d33c6c1270381b7628e4de9c0aad3ffecf6ae8d2bcca235ae689",
+      "transcript_captured_at": "2026-11-17T15:03:13.748943Z",
+      "summary_generated_at": "2026-11-17T15:08:28.937115Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies solely on the supplied episode transcript and does not independently verify its reports, quotations, or attributions.",
+        "Several captions contain apparent transcription defects, including references to “SI,” “allergies,” and a garbled place name.",
+        "The transcript sometimes compresses or ambiguously attributes statements, particularly around the unnamed technology expert and government officials.",
+        "The episode presents allegations and interpretations alongside reported official statements; their accuracy and context remain unresolved here.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4729,278 +4980,6 @@
         "Candidate names and endorsements are presented solely through the creator’s narration and are not independently corroborated here.",
         "The source is a single commentary video and includes advocacy; it does not provide underlying documents or a complete vote tally.",
         "The closing segment appears unrelated or incomplete, limiting interpretation of the final remarks.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "aWwjK5CVaVI",
-      "title": "So Microsoft Went Offline...",
-      "url": "https://www.youtube.com/watch?v=aWwjK5CVaVI",
-      "published_at": "2026-11-13T18:35:17.000000Z",
-      "summary": "Mutahar describes a prolonged Microsoft 365 and Outlook disruption that, in his account, prevented some users from accessing email, mailboxes, administrator pages, files, and other services. He says his own attempt to receive a two-factor authentication code failed and that reports from users and Microsoft’s service-health information indicated a broader incident. The episode presents Microsoft’s stated explanation as elevated infrastructure load linked to unavailable servers, a recent network change, and a capacity-upgrade issue; Microsoft was reportedly redistributing traffic, restarting servers, and restoring service. Mutahar argues that the outage illustrates the risks of concentrating essential activity in cloud platforms and recommends redundancy, compartmentalization, or self-hosting where practical. He speculates that automation or AI-assisted changes might have contributed, while acknowledging that this is unconfirmed and that a post-incident report would be needed. The transcript does not independently establish the outage’s scale, duration, affected countries, or operational impact beyond the cited reports.",
-      "topics": [
-        "Microsoft 365 outage",
-        "Outlook and Exchange access",
-        "Cloud dependency and resilience",
-        "Network infrastructure",
-        "AI-assisted software changes"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Microsoft 365 services experienced a broad outage affecting email and related functions, with users reportedly unable to access multiple services.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            84,
-            87,
-            88,
-            94,
-            95,
-            102,
-            103,
-            104,
-            105,
-            106,
-            126,
-            127
-          ]
-        },
-        {
-          "claim": "Microsoft attributed the incident to elevated load, unavailable servers, and a network change associated with an earlier capacity upgrade, rather than a cyber event.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            153,
-            154,
-            155,
-            156,
-            160,
-            161,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250
-          ]
-        },
-        {
-          "claim": "Users in more than 70 countries were unable to access the email services described in the episode.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            126,
-            127,
-            128
-          ]
-        },
-        {
-          "claim": "The outage’s underlying cause involved AI agents or AI-assisted code changes.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            229,
-            254,
-            255,
-            258,
-            259,
-            260,
-            261,
-            262,
-            263,
-            264
-          ]
-        },
-        {
-          "claim": "The disruption could affect hospitals or other life-critical operations.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            74,
-            75,
-            76,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            428,
-            429,
-            430,
-            431,
-            432
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Mutahar reports failed Outlook access and a missing two-factor authentication email, alongside user reports of broader problems.",
-          "evidence_segment_indices": [
-            22,
-            23,
-            24,
-            25,
-            26,
-            28,
-            29,
-            30,
-            32,
-            35,
-            36,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44
-          ],
-          "start_seconds": 57.68,
-          "end_seconds": 115.759
-        },
-        {
-          "point": "The cited Microsoft status information describes impaired access to Exchange mailboxes, admin pages, files, and Copilot, with cascading issues.",
-          "evidence_segment_indices": [
-            84,
-            85,
-            87,
-            88,
-            89,
-            94,
-            95,
-            96,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            108,
-            109
-          ],
-          "start_seconds": 204.4,
-          "end_seconds": 274.56
-        },
-        {
-          "point": "Microsoft’s reported remediation included redistributing traffic, pausing deployments, restarting servers, and monitoring recovery.",
-          "evidence_segment_indices": [
-            155,
-            156,
-            157,
-            160,
-            161,
-            162,
-            163,
-            164,
-            165,
-            174,
-            175,
-            178,
-            179,
-            180
-          ],
-          "start_seconds": 372.16,
-          "end_seconds": 436.16
-        },
-        {
-          "point": "Mutahar’s central argument is that dependence on one cloud provider creates systemic fragility and supports diversification or self-hosting.",
-          "evidence_segment_indices": [
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            72,
-            324,
-            325,
-            326,
-            327,
-            328,
-            329,
-            330,
-            331,
-            332,
-            333,
-            334
-          ],
-          "start_seconds": 148.319,
-          "end_seconds": 779.36
-        },
-        {
-          "point": "He presents AI involvement as speculation and says the available evidence does not establish it.",
-          "evidence_segment_indices": [
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217,
-            218,
-            245,
-            254,
-            255,
-            258,
-            259,
-            262,
-            267,
-            268,
-            270,
-            271,
-            272,
-            273,
-            274
-          ],
-          "start_seconds": 500.96,
-          "end_seconds": 646.079
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "823d8d72df3095095d1dfcc41dc845e7a5abb68f9ee2c39ecc575aa499a928fc",
-      "transcript_captured_at": "2026-11-13T20:03:13.656286Z",
-      "summary_generated_at": "2026-11-13T20:08:31.670839Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains automatic-caption defects, profanity redactions, malformed error-code wording, and occasional unclear phrases.",
-        "The overview relies only on the creator’s narration and quoted or paraphrased status information; no independent verification is provided.",
-        "Claims about hospitals, more than 70 countries, outage duration, and possible AI involvement require confirmation from authoritative incident records.",
-        "The episode was recorded while recovery was ongoing, so its description may not reflect the final incident scope or resolution.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
