@@ -1,11 +1,182 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T00:42:01.159782Z",
+  "generated_at": "2026-11-17T01:12:01.182214Z",
   "reporting_window": {
-    "start": "2026-11-10T00:42:01.159782Z",
-    "end": "2026-11-17T00:42:01.159782Z"
+    "start": "2026-11-10T01:12:01.182214Z",
+    "end": "2026-11-17T01:12:01.182214Z"
   },
   "episodes": [
+    {
+      "creator": "Mike Figueredo — The Humanist Report",
+      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
+      "video_id": "PzCCsZoNc6I",
+      "title": "Fetterman’s Desperate Attempt to Discredit Chris Van Hollen Ends in Humiliation",
+      "url": "https://www.youtube.com/watch?v=PzCCsZoNc6I",
+      "published_at": "2026-11-16T23:40:49.000000Z",
+      "summary": "The creator frames a Democratic Senate leadership contest between Chris Van Hollen and Chuck Schumer as a test of the party’s direction, while portraying John Fetterman’s criticism of Van Hollen as politically damaging. The episode contrasts Fetterman’s concerns about Van Hollen’s Israel policy and advocacy for Kilmar Abrego Garcia with Van Hollen’s stated opposition to unconditional foreign aid and his defense of constitutional rights. It also presents competing claims about the race: Van Hollen says support is growing and that Schumer’s allies are overstating their numbers, while the creator suggests both camps may be using public vote counts to influence undecided senators. The commentary argues that party leaders should embrace the contest rather than expedite or avoid it, and predicts that Schumer faces broader political vulnerability. The episode ends by urging viewers to contact senators in support of Van Hollen. The material is primarily commentary and excerpts from interviews, with several allegations and forecasts presented without independent corroboration.",
+      "topics": [
+        "Democratic Senate leadership contest",
+        "Van Hollen’s Israel and immigration positions",
+        "Fetterman’s criticism",
+        "Schumer campaign strategy",
+        "Progressive mobilization"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Van Hollen said he had about 15 supporters and that Schumer’s published support list included senators who had not committed to Schumer.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            245,
+            248,
+            251,
+            255,
+            256,
+            258
+          ]
+        },
+        {
+          "claim": "Fetterman indicated he might leave the Democratic Party if Van Hollen became leader.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            87,
+            90,
+            91,
+            92,
+            114,
+            115,
+            116
+          ]
+        },
+        {
+          "claim": "The episode states that a unanimous Supreme Court ruling addressed the treatment of Kilmar Abrego Garcia.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            171,
+            173,
+            175,
+            176,
+            177
+          ]
+        },
+        {
+          "claim": "The episode cites a reported December 1 leadership election and alleged efforts to move the vote earlier.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            261,
+            263,
+            264,
+            265,
+            266,
+            267
+          ]
+        },
+        {
+          "claim": "The episode cites a poll or rating showing Fetterman’s net popularity changing from plus 56 to minus 56.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            124,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator presents Fetterman’s remarks as criticism centered on Van Hollen’s Israel views and advocacy for Abrego Garcia.",
+          "evidence_segment_indices": [
+            69,
+            71,
+            73,
+            76,
+            90,
+            92,
+            93,
+            94,
+            171,
+            172
+          ],
+          "start_seconds": 135.92,
+          "end_seconds": 380.8
+        },
+        {
+          "point": "Van Hollen argues against blank-check foreign aid and describes his advocacy for constitutional rights as a central position.",
+          "evidence_segment_indices": [
+            150,
+            158,
+            159,
+            160,
+            161,
+            162,
+            167,
+            168,
+            170,
+            172,
+            178,
+            180,
+            181
+          ],
+          "start_seconds": 326.72,
+          "end_seconds": 399.6
+        },
+        {
+          "point": "The episode portrays the leadership race as contested, with disputed vote counts and disagreement over whether to accelerate the process.",
+          "evidence_segment_indices": [
+            248,
+            249,
+            250,
+            251,
+            258,
+            260,
+            263,
+            264,
+            267,
+            269,
+            270
+          ],
+          "start_seconds": 521.12,
+          "end_seconds": 575.76
+        },
+        {
+          "point": "The creator urges viewers to contact senators and support Van Hollen’s bid.",
+          "evidence_segment_indices": [
+            431,
+            434,
+            436,
+            437,
+            438,
+            441,
+            445,
+            447,
+            448,
+            450,
+            453,
+            454
+          ],
+          "start_seconds": 868.959,
+          "end_seconds": 923.199
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "9e77b3ca23f9e1e9bd0e0856d02d963e477cb32e175de98f5c28767d64ea96a7",
+      "transcript_captured_at": "2026-11-17T01:03:14.017656Z",
+      "summary_generated_at": "2026-11-17T01:08:25.410642Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains frequent caption errors, including inconsistent spellings of names and titles.",
+        "Claims attributed to journalists, politicians, polling, and unnamed sources are reproduced from the episode and are not independently verified here.",
+        "The source is advocacy-oriented commentary interspersed with interview excerpts, so interpretation and factual reporting are not always clearly separated.",
+        "Some excerpts are truncated or difficult to identify because of transcription defects.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
@@ -4589,183 +4760,6 @@
         "Captioning contains transcription errors, omissions, profanity placeholders, and apparent name or title distortions.",
         "Several claims are presented rhetorically or without supporting documentation in the source.",
         "Some political references and event descriptions are ambiguous because surrounding context is not included.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "of_o6Y50BQw",
-      "title": "Zionist BOOED At Dem Convention For Gaza G*nocide Denial | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=of_o6Y50BQw",
-      "published_at": "2026-11-13T00:30:06.000000Z",
-      "summary": "Kyle Kulinski discusses a clip from CrookedCon in which Joel Rubin, whom Kulinski identifies as a former J Street and Obama State Department official, argues that Democratic candidates who used the word “genocide” performed poorly and that the terminology may reduce electoral inclusiveness. Kulinski challenges that interpretation, questioning its scope and evidence, and says the audience’s reaction reflected growing opposition to accommodating such language. He presents his own view that describing Israel as an ethnostate is incompatible with equality and democracy, while characterizing J Street as more restrained than AIPAC but still a gatekeeping organization. Kulinski further argues that Democratic voters have shifted left on Israel and Gaza and predicts that support for Israel will not recover, even under a different Israeli prime minister. The episode is an opinionated response to a short exchange and includes broader assertions about polling, election results, organizations, and regional conduct that are not independently established in the supplied transcript.",
-      "topics": [
-        "CrookedCon panel dispute",
-        "Israel-Palestine political rhetoric",
-        "J Street and AIPAC",
-        "Democratic voter opinion"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Rubin said that only two Senate candidates used the word “genocide” and that they were the two worst-performing Democrats.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            80,
-            81,
-            82,
-            83
-          ]
-        },
-        {
-          "claim": "Kulinski says exit polls showed Abdul Sayed won about 60% of the Jewish vote in Michigan.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            198,
-            199,
-            200,
-            201,
-            202,
-            203
-          ]
-        },
-        {
-          "claim": "Kulinski asserts that Democratic base voters have broadly turned against Israel and that this shift is permanent.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            323,
-            324,
-            325,
-            326,
-            327,
-            328,
-            329,
-            330,
-            331,
-            332,
-            333,
-            334,
-            335,
-            336
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that Israel is pursuing genocide, ethnic cleansing, territorial expansion, and occupations across Gaza, the West Bank, Syria, and southern Lebanon.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            337,
-            338,
-            339,
-            340,
-            341,
-            342,
-            343,
-            344,
-            345,
-            346
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The featured exchange concerns whether using the term “genocide” harms Democratic electoral prospects and whether it is legally established.",
-          "evidence_segment_indices": [
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            122,
-            123,
-            124,
-            125
-          ],
-          "start_seconds": 195.44,
-          "end_seconds": 248.4
-        },
-        {
-          "point": "Kulinski disputes Rubin’s apparent electoral analysis and argues that moral clarity should outweigh strategic messaging.",
-          "evidence_segment_indices": [
-            86,
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            145,
-            146,
-            147,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153,
-            154,
-            155
-          ],
-          "start_seconds": 168.319,
-          "end_seconds": 314.0
-        },
-        {
-          "point": "He characterizes J Street as a liberal Zionist organization that limits acceptable criticism of Israel while acknowledging it opposes some severe abuses.",
-          "evidence_segment_indices": [
-            4,
-            5,
-            6,
-            7,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            264,
-            265,
-            266
-          ],
-          "start_seconds": 10.88,
-          "end_seconds": 537.36
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "67ae0eacfc20bdda855e7bfb311d4a47124cae0027ac54b72bfe17d6f8497b9f",
-      "transcript_captured_at": "2026-11-13T03:03:16.338135Z",
-      "summary_generated_at": "2026-11-13T03:08:25.771813Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is an automatically generated caption record with overlapping segments, omissions, profanity placeholders, and occasional speaker ambiguity.",
-        "Kulinski repeatedly expresses uncertainty about dates, invitations, affiliations, and the scope of the election analysis.",
-        "The overview reflects claims and opinions presented in the episode; the supplied source does not provide the underlying video, polling, legal records, or election datasets.",
-        "The source excerpt does not independently establish the factual allegations or predictions it contains.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
