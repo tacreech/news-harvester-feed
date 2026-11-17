@@ -1,11 +1,132 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T23:42:01.263088Z",
+  "generated_at": "2026-11-17T00:42:01.159782Z",
   "reporting_window": {
-    "start": "2026-11-09T23:42:01.263088Z",
-    "end": "2026-11-16T23:42:01.263088Z"
+    "start": "2026-11-10T00:42:01.159782Z",
+    "end": "2026-11-17T00:42:01.159782Z"
   },
   "episodes": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "c7mPrUP4rCg",
+      "title": "This Could Be The Worst Week For Playstation...",
+      "url": "https://www.youtube.com/watch?v=c7mPrUP4rCg",
+      "published_at": "2026-11-16T23:37:35.000000Z",
+      "summary": "Mutahar argues that rapidly advancing PlayStation 5 emulation could create a serious challenge for Sony and Rockstar. He demonstrates Demon’s Souls running through a PS5 emulator on a Linux system using Windows virtualization, saying recent community builds have progressed from barely reaching menus to playable sections and reported frame rates around 27–60 fps.[0,12,27,69] He also shows the PS5 version of GTA V functioning on PC, including story gameplay, saving, character switching, and experimental ray tracing, while noting performance varies by mode and that the demonstration is not proof of a fully validated emulator.[224,245,266,401,415] The creator predicts that access to dumped GTA 6 files could eventually enable PC emulation, perhaps quickly, but presents this as speculation rather than an established outcome.[106,113,121,124] Much of his argument centers on preservation: he says digital-only releases limit ownership and that emulation could preserve single-player games, while also discussing piracy and his preference to purchase legitimate copies.[148,163,371,429]",
+      "topics": [
+        "PlayStation 5 emulation",
+        "GTA V PC performance",
+        "Potential GTA 6 emulation",
+        "Game preservation and ownership"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Community PS5 emulator builds can run Demon’s Souls in playable sections at roughly 27–60 frames per second.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            12,
+            27,
+            61,
+            69,
+            80
+          ]
+        },
+        {
+          "claim": "A PS5 emulator can run GTA V’s PS5 version with story gameplay, saving, character switching, and experimental ray tracing on PC.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            224,
+            245,
+            266,
+            281,
+            401,
+            411
+          ]
+        },
+        {
+          "claim": "A dumped GTA 6 game binary could potentially become playable through emulation soon after release.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            106,
+            113,
+            121,
+            124,
+            472,
+            473
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Mutahar presents Demon’s Souls as evidence of rapid progress in PS5 emulation.",
+          "evidence_segment_indices": [
+            12,
+            19,
+            22,
+            27,
+            47,
+            61
+          ],
+          "start_seconds": 24.56,
+          "end_seconds": 137.92
+        },
+        {
+          "point": "The GTA V demonstration shows substantial functionality, but performance and completeness remain variable.",
+          "evidence_segment_indices": [
+            224,
+            245,
+            253,
+            266,
+            313,
+            415
+          ],
+          "start_seconds": 504.4,
+          "end_seconds": 938.48
+        },
+        {
+          "point": "He frames possible GTA 6 emulation as both a piracy risk and a preservation opportunity.",
+          "evidence_segment_indices": [
+            113,
+            133,
+            148,
+            371,
+            422,
+            429
+          ],
+          "start_seconds": 254.879,
+          "end_seconds": 974.32
+        },
+        {
+          "point": "He argues that digital-only distribution provides fewer meaningful ownership options.",
+          "evidence_segment_indices": [
+            137,
+            138,
+            425,
+            427,
+            431
+          ],
+          "start_seconds": 314.24,
+          "end_seconds": 979.279
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "613290bc26dd8eb94e4ab98f5267ca0a82666d0dbd0a680e336e64495e068701",
+      "transcript_captured_at": "2026-11-17T00:33:14.529408Z",
+      "summary_generated_at": "2026-11-17T00:38:21.978576Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies only on the supplied transcript and does not independently verify the emulator demonstrations, software names, or performance figures.",
+        "Several captions contain profanity redactions, transcription errors, speaker markers, and ambiguous names, including references to emulator projects and community developers.",
+        "Predictions about GTA 6 dumping, emulation timelines, piracy, and future PC playability are the creator’s speculation, not established outcomes.",
+        "The creator says he has not completed the full GTA V playthrough, so the demonstration does not establish complete reliability or compatibility.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4645,236 +4766,6 @@
         "Kulinski repeatedly expresses uncertainty about dates, invitations, affiliations, and the scope of the election analysis.",
         "The overview reflects claims and opinions presented in the episode; the supplied source does not provide the underlying video, polling, legal records, or election datasets.",
         "The source excerpt does not independently establish the factual allegations or predictions it contains.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "5M1riOMgwH4",
-      "title": "BILLIONAIRES ARE F*CKED | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=5M1riOMgwH4",
-      "published_at": "2026-11-12T23:00:27.000000Z",
-      "summary": "Kyle Kulinski argues that recent Democratic victories vindicate a populist, anti-billionaire message rather than moderation. He disputes commentary crediting moderate Democrats, asserting that left-wing candidates faced harsher opposition yet still won, while Abdul El-Sayed absorbed substantial attacks and helped other candidates avoid similar scrutiny. Kulinski says Democrats should focus less on electoral “horse race” strategy and more on delivering policies he attributes to public support, including higher wages, unions, universal healthcare, free college, medical-debt relief, taxation of the wealthy, and ending wars. He presents campaign excerpts emphasizing opposition to billionaires, corporate money, and political corruption. Kulinski further argues that Republicans offer a repeated scapegoating narrative, while Democrats have begun offering a competing explanation centered on inequality and concentrated wealth. He predicts billionaires and some technology executives will reposition toward the left as this message gains influence, and concludes with a call to prosecute wealthy or government actors he believes committed crimes.",
-      "topics": [
-        "Democratic electoral strategy",
-        "Populism and inequality",
-        "Billionaires and political money",
-        "Policy priorities",
-        "Technology executives"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Abdul El-Sayed won by seven points while facing billionaire spending and negative Fox News coverage.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            45,
-            46,
-            47,
-            48
-          ]
-        },
-        {
-          "claim": "The cited election victories represented a broad shift toward anti-billionaire rhetoric, including among candidates described as moderates.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            86,
-            87,
-            88,
-            89,
-            90,
-            251,
-            252,
-            253,
-            254,
-            255
-          ]
-        },
-        {
-          "claim": "Alex Karp said Democrats had corrected course in 2026 and that Palantir's products were essentially progressive, as attributed to Politico coverage.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            301,
-            302,
-            303,
-            304,
-            313,
-            318,
-            319,
-            323,
-            324,
-            325,
-            328,
-            329,
-            330
-          ]
-        },
-        {
-          "claim": "Kulinski attributes current economic hardship and public dissatisfaction primarily to billionaires, inequality, corruption, and money in politics.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            208,
-            213,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            247,
-            248,
-            249,
-            250
-          ]
-        },
-        {
-          "claim": "Kulinski predicts billionaires and technology executives will increasingly reposition toward the political left.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            284,
-            285,
-            286,
-            287,
-            288,
-            289,
-            290,
-            291,
-            301,
-            302,
-            303
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski rejects the claim that moderates alone drove Democratic wins.",
-          "evidence_segment_indices": [
-            40,
-            41,
-            42,
-            44,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60,
-            61
-          ],
-          "start_seconds": 75.6,
-          "end_seconds": 127.6
-        },
-        {
-          "point": "He advocates a policy agenda centered on social benefits, labor protections, taxing the wealthy, and ending wars.",
-          "evidence_segment_indices": [
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76
-          ],
-          "start_seconds": 129.44,
-          "end_seconds": 155.76
-        },
-        {
-          "point": "He highlights campaign messages opposing billionaire influence, corporate money, and trickle-down economics.",
-          "evidence_segment_indices": [
-            94,
-            95,
-            96,
-            97,
-            100,
-            101,
-            102,
-            103,
-            108,
-            110,
-            111,
-            112
-          ],
-          "start_seconds": 189.519,
-          "end_seconds": 229.44
-        },
-        {
-          "point": "He frames the Democratic alternative as blaming concentrated wealth rather than minority groups for economic problems.",
-          "evidence_segment_indices": [
-            175,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            183,
-            188,
-            200,
-            201,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            210,
-            211,
-            212,
-            213,
-            214,
-            215,
-            216
-          ],
-          "start_seconds": 351.6,
-          "end_seconds": 436.96
-        },
-        {
-          "point": "The episode ends with a confrontational call for criminal accountability for billionaires, immigration officials, and alleged war criminals.",
-          "evidence_segment_indices": [
-            331,
-            332,
-            333,
-            334,
-            335,
-            336,
-            337,
-            338,
-            339,
-            340,
-            341,
-            342,
-            343,
-            344,
-            345,
-            346,
-            347,
-            348
-          ],
-          "start_seconds": 658.959,
-          "end_seconds": 698.88
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "57cd08996cd3a037aa2917dd57ffa5020d010c4a1191dc97f3d42dbc4f04464d",
-      "transcript_captured_at": "2026-11-13T01:03:15.246448Z",
-      "summary_generated_at": "2026-11-13T01:08:28.488234Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview relies solely on the supplied transcript and does not independently verify election results, polling, quoted campaign excerpts, or media reports.",
-        "Several captions contain transcription errors, profanity redactions, overlapping segments, and uncertain names or terms.",
-        "The source frequently presents Kulinski's interpretations and allegations as commentary; those statements are attributed rather than treated as established facts.",
-        "The excerpt provides limited context about the elections, candidates, dates, and outcomes referenced.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
