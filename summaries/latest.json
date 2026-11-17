@@ -1,11 +1,735 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T01:12:01.182214Z",
+  "generated_at": "2026-11-17T01:42:01.186923Z",
   "reporting_window": {
-    "start": "2026-11-10T01:12:01.182214Z",
-    "end": "2026-11-17T01:12:01.182214Z"
+    "start": "2026-11-10T01:42:01.186923Z",
+    "end": "2026-11-17T01:42:01.186923Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "hQTdqhwlO7k",
+      "title": "‘HE’S A FED!’: Nick Fuentes’ OWN FANS TURN ON HIM!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=hQTdqhwlO7k",
+      "published_at": "2026-11-17T00:45:27.000000Z",
+      "summary": "Kyle Kulinski argues that Nick Fuentes is alienating or losing support among parts of his audience after changing positions on Israel, war, and immigration. Kulinski presents Fuentes’s claims that increased criticism of Israel was driven by foreign countries and the political left, then contrasts them with Kulinski’s own explanation that social-media changes and reactions to events helped expand such criticism. He also highlights apparent inconsistencies between Fuentes’s earlier hard-line immigration rhetoric and his newer view that the issue is effectively settled, as well as between his anti-war positioning and support for military action in Venezuela. Kulinski interprets these shifts as evidence of opportunism, contrarianism, or ideological confusion, while arguing that criticism of Israel should not be dismissed merely because it is popular among Muslim audiences. The episode closes by questioning what substantive political program Fuentes now represents and asserting that his followers may be frustrated by repeated reversals. The transcript contains commentary, excerpts, laughter, and profanity, but no independent verification of the disputed claims.",
+      "topics": [
+        "Nick Fuentes",
+        "Israel criticism and foreign-influence allegations",
+        "Political consistency",
+        "Immigration and nationalism"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Fuentes reportedly attributed increased anti-Israel sentiment online partly to foreign countries and the political left.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            60,
+            61,
+            62,
+            63,
+            64,
+            71,
+            72
+          ]
+        },
+        {
+          "claim": "Kulinski states that Netanyahu promoted or purchased pro-Israel online support through bots and cites unspecified reporting as support.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "claim": "Kulinski says Fuentes previously advocated much more aggressive immigration enforcement but later declared the immigration issue effectively over.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            328,
+            329,
+            330,
+            331,
+            332,
+            333,
+            334,
+            335,
+            336,
+            337,
+            338,
+            339,
+            340,
+            341,
+            342,
+            343,
+            344,
+            345,
+            348,
+            349,
+            350,
+            351,
+            352,
+            353
+          ]
+        },
+        {
+          "claim": "Kulinski characterizes Fuentes as supporting military action in Venezuela while presenting himself as anti-war.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            295,
+            296,
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            310,
+            311,
+            312,
+            313,
+            314,
+            323,
+            324
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode frames Fuentes’s alleged audience backlash as a response to changing positions and contradictions.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 74.96
+        },
+        {
+          "point": "Kulinski disputes the idea that anti-Israel criticism requires a paid foreign campaign and defends the legitimacy of Muslim audiences’ views.",
+          "evidence_segment_indices": [
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136
+          ],
+          "start_seconds": 183.84,
+          "end_seconds": 281.36
+        },
+        {
+          "point": "Kulinski argues that Fuentes’s stated positions on immigration have substantially shifted.",
+          "evidence_segment_indices": [
+            346,
+            347,
+            348,
+            349,
+            350,
+            351,
+            352,
+            353,
+            354,
+            355,
+            356,
+            357,
+            358,
+            359,
+            360,
+            364,
+            365,
+            366,
+            367,
+            368,
+            369,
+            370,
+            371,
+            372
+          ],
+          "start_seconds": 688.399,
+          "end_seconds": 740.959
+        },
+        {
+          "point": "The conclusion asks whether Fuentes’s movement still has a coherent political purpose.",
+          "evidence_segment_indices": [
+            445,
+            446,
+            447,
+            448,
+            449,
+            450,
+            451,
+            452,
+            453,
+            454,
+            455,
+            456,
+            457,
+            458,
+            459,
+            460,
+            461,
+            462,
+            463,
+            464,
+            465,
+            466,
+            467,
+            468
+          ],
+          "start_seconds": 881.92,
+          "end_seconds": 931.44
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "47513c42fd5e67f79b618933b80bb6006fd8df5d3ffcf984b71040ed604e660d",
+      "transcript_captured_at": "2026-11-17T01:33:38.295393Z",
+      "summary_generated_at": "2026-11-17T01:39:39.333188Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview is based only on the supplied transcript and does not independently verify quoted statements, alleged reporting, or claims about audience reactions.",
+        "Automatic captions contain profanity placeholders, grammatical defects, apparent name errors, and some ambiguous wording.",
+        "The transcript summarizes or excerpts other speakers, so speaker attribution and exact context may require checking the underlying video.",
+        "The source does not provide direct evidence showing the scale or composition of any alleged fan backlash.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "pR9aHmB3U0c",
+      "title": "Joe Rogan Is SPRINTING Away From Trump Now | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=pR9aHmB3U0c",
+      "published_at": "2026-11-17T00:15:00.000000Z",
+      "summary": "The creator argues that Trump’s political and cultural influence has weakened, framing MAGA as no longer culturally fashionable and suggesting that Joe Rogan is attempting to distance himself from Trump while preserving his relevance. He criticizes Rogan’s past interview style, especially the lack of pushback on Trump and conservative guests, and interprets Rogan’s comments about immigration, crime, and war as evidence that he remains aligned with right-wing narratives. The creator also presents Dana White’s claim that he wants no involvement in politics as inconsistent with White’s convention appearances and recent events involving Trump. More broadly, the episode contends that right-wing politics benefits elites, promotes militarism, and harms working people. The discussion relies heavily on the creator’s interpretations, sarcasm, and excerpts from other interviews rather than a systematic presentation of evidence. Several numerical, electoral, crime, immigration, military, and biographical assertions are presented without supporting documentation in the supplied transcript.",
+      "topics": [
+        "Trump and MAGA",
+        "Joe Rogan",
+        "Right-wing media",
+        "Immigration and crime",
+        "Dana White and politics"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The creator says Democrats won a midterm election by about 13.5 percentage points, contrasting it with a Republican win of about 1.5 points.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108
+          ]
+        },
+        {
+          "claim": "The creator states that crime fell significantly after the border was closed, a claim attributed to a quoted speaker and disputed in the episode.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            173,
+            174
+          ]
+        },
+        {
+          "claim": "The creator states that immigrants commit crimes at a lower rate than native-born Americans and that Biden deported more people than Trump did in his first term.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            156,
+            157,
+            158,
+            159,
+            160,
+            229,
+            230,
+            231,
+            232,
+            233
+          ]
+        },
+        {
+          "claim": "The creator lists alleged Trump administration military actions, including increased drone strikes and Pentagon budgets, operations in several countries, and the killing of an Iranian commander.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210
+          ]
+        },
+        {
+          "claim": "The creator says Dana White spoke at the 2016, 2020, and 2024 Republican National Conventions and recently appeared at a Trump-related event.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            343,
+            344,
+            345,
+            346,
+            352,
+            353,
+            354,
+            355,
+            356,
+            357,
+            358,
+            359,
+            360,
+            361,
+            362,
+            363,
+            364,
+            365,
+            366
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator presents Trump’s era and MAGA as politically and culturally declining.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            8,
+            9,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 227.599
+        },
+        {
+          "point": "The creator interprets Rogan’s political repositioning as an effort to leave Trump’s orbit without abandoning right-wing talking points.",
+          "evidence_segment_indices": [
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132
+          ],
+          "start_seconds": 237.04,
+          "end_seconds": 286.479
+        },
+        {
+          "point": "The episode disputes conservative explanations linking immigration policy, border enforcement, and crime.",
+          "evidence_segment_indices": [
+            147,
+            148,
+            149,
+            151,
+            152,
+            156,
+            157,
+            158,
+            159,
+            160,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            173,
+            174,
+            175,
+            176
+          ],
+          "start_seconds": 308.88,
+          "end_seconds": 374.56
+        },
+        {
+          "point": "The creator portrays Dana White’s claimed political disengagement as contradicted by his public Republican and Trump-related appearances.",
+          "evidence_segment_indices": [
+            343,
+            344,
+            345,
+            354,
+            355,
+            356,
+            359,
+            360,
+            361,
+            363,
+            364,
+            365,
+            366
+          ],
+          "start_seconds": 695.839,
+          "end_seconds": 753.44
+        },
+        {
+          "point": "The creator concludes that right-wing politics serves wealthy interests and contributes to militarism and authoritarianism.",
+          "evidence_segment_indices": [
+            370,
+            371,
+            372,
+            373,
+            374,
+            375,
+            376,
+            377,
+            378,
+            379,
+            380,
+            381,
+            382,
+            383,
+            384,
+            385,
+            386
+          ],
+          "start_seconds": 758.48,
+          "end_seconds": 802.72
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "ef7b31d70d099cc5ace0754d4f4b582094c28e4bf8e47174e2b5879b7287d5bf",
+      "transcript_captured_at": "2026-11-17T01:33:30.456722Z",
+      "summary_generated_at": "2026-11-17T01:39:14.258869Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains automatic-caption defects, profanity redactions, repetitions, and occasional unclear wording.",
+        "Quoted speakers are not always explicitly identified in the captions, so attribution depends on surrounding context.",
+        "The episode is commentary and criticism from one creator; the supplied source does not independently establish disputed factual claims.",
+        "References to elections, political events, interviews, and public appearances are not accompanied by source documents in the transcript.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "m-7kBRu3JOU",
+      "title": "Netanyahu PANICS As ELECTION RIGGING REVEALED & Israel REVOLTS!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=m-7kBRu3JOU",
+      "published_at": "2026-11-16T23:45:02.000000Z",
+      "summary": "Kyle Kulinski argues that allegations of election interference have intensified Israel’s political crisis and could jeopardize Benjamin Netanyahu’s position. The episode describes reports that Netanyahu’s office fabricated or planted information about Arab activists allegedly buying votes, prompting police arrests on election day; the activists were reportedly released without charges. Kulinski presents these allegations as claims under investigation, while citing reporting that the prime minister’s bureau denies them. The discussion also says opposition leader Gadi Eisenkot has been tasked with forming a government after Netanyahu’s bloc lost its parliamentary majority, though coalition options remain uncertain. Eisenkot is quoted condemning Netanyahu’s conduct as a threat to Israeli democracy and calling for him to leave office. Kulinski speculates that the controversy could prevent cooperation between Eisenkot and Netanyahu’s Likud party, potentially ending Netanyahu’s tenure, but acknowledges uncertainty over whether Eisenkot can form a coalition with Arab parties. The episode broadens into Kulinski’s criticism of Israel’s military conduct and skepticism that a change in leadership would substantially alter those policies.",
+      "topics": [
+        "Israeli election controversy",
+        "Netanyahu investigation",
+        "Coalition formation",
+        "Democratic institutions"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Netanyahu’s office allegedly fabricated or planted information about Arab vote-buying, leading to the election-day arrests of three Arab activists who were later released without charges.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            84,
+            89,
+            90,
+            91,
+            92,
+            93,
+            131,
+            132,
+            133
+          ]
+        },
+        {
+          "claim": "Netanyahu’s bloc reportedly lost its parliamentary majority, and Gadi Eisenkot received a mandate to form the next government.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            2,
+            3,
+            6,
+            7,
+            8,
+            15,
+            16,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            174,
+            175,
+            176,
+            177
+          ]
+        },
+        {
+          "claim": "A Haaretz investigation reportedly estimated that Netanyahu’s party may have gained one or two Knesset seats through election-day conduct.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode frames alleged election interference as a serious political and democratic crisis, while presenting the underlying reports as allegations.",
+          "evidence_segment_indices": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            54,
+            55,
+            56,
+            57,
+            65,
+            66,
+            67
+          ],
+          "start_seconds": 38.559,
+          "end_seconds": 135.76
+        },
+        {
+          "point": "Eisenkot condemns Netanyahu and calls for him not to remain prime minister, according to the quoted remarks.",
+          "evidence_segment_indices": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            193,
+            194,
+            195,
+            196,
+            197
+          ],
+          "start_seconds": 70.159,
+          "end_seconds": 425.12
+        },
+        {
+          "point": "Netanyahu’s office reportedly issued a brief denial, while coalition negotiations and possible unity arrangements continued.",
+          "evidence_segment_indices": [
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189
+          ],
+          "start_seconds": 355.759,
+          "end_seconds": 408.24
+        },
+        {
+          "point": "Kulinski predicts Netanyahu could lose power but says the outcome depends on unresolved coalition choices.",
+          "evidence_segment_indices": [
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            214,
+            215,
+            216,
+            217,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229
+          ],
+          "start_seconds": 436.72,
+          "end_seconds": 499.039
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "3ac5850c62c3366fdfc688b801b5866bd31152a4782ca6db4b298e53ea52b2cc",
+      "transcript_captured_at": "2026-11-17T01:33:23.390493Z",
+      "summary_generated_at": "2026-11-17T01:38:48.701996Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains caption errors, name inconsistencies, repeated words, and occasional unintelligible profanity.",
+        "The source provides media and commentator accounts but no underlying documents or independent corroboration.",
+        "Coalition outcomes and the investigations’ conclusions remain unresolved within the episode.",
+        "The episode includes strongly evaluative commentary that should be distinguished from its reported allegations.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mike Figueredo — The Humanist Report",
       "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
@@ -293,6 +1017,241 @@
         "Several captions contain profanity redactions, transcription errors, speaker markers, and ambiguous names, including references to emulator projects and community developers.",
         "Predictions about GTA 6 dumping, emulation timelines, piracy, and future PC playability are the creator’s speculation, not established outcomes.",
         "The creator says he has not completed the full GTA V playthrough, so the demonstration does not establish complete reliability or compatibility.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "72jZIjjV2Cs",
+      "title": "THIS IS HOW IT’S DONE | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=72jZIjjV2Cs",
+      "published_at": "2026-11-16T23:15:16.000000Z",
+      "summary": "Kyle Kulinski argues that progressive Democrats should use leadership votes to demand concrete policy commitments rather than automatically support established party leaders. He highlights Don Leonard’s reported meeting with Hakeem Jeffries, in which Leonard says he withheld support pending positions on campaign-finance reform and U.S. policy toward Israel. Kulinski also praises Richard Oetta’s antiwar statements and criticism of alleged Veterans Affairs cuts, presenting them as examples of confrontational progressive politics. A separate interview is used to defend Medicare for All and a populist economic message, while Kulinski disputes the idea that recent Democratic victories demonstrate rejection of progressive themes. He concludes that Democrats should form a disciplined voting bloc around issues including reducing money in politics, opposing wars, and expanding health coverage. The episode is primarily commentary and advocacy, combining excerpts from politicians and media appearances with Kulinski’s interpretations. Several names, policy references, and factual assertions are unclear in the captions and would require independent verification.",
+      "topics": [
+        "Democratic leadership",
+        "Progressive strategy",
+        "Campaign finance",
+        "Foreign policy",
+        "Medicare for All"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Don Leonard reportedly told Hakeem Jeffries he would withhold support absent commitments on campaign-finance reform and U.S. policy toward Israel.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            17,
+            18,
+            60,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72
+          ]
+        },
+        {
+          "claim": "Richard Oetta alleged that Veterans Affairs funding and staffing were being cut, citing specific job-loss figures.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            239,
+            240,
+            241,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250
+          ]
+        },
+        {
+          "claim": "Kulinski stated that a poll found 90% of Democratic voters wanted Medicare for All prioritized.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            310,
+            311,
+            312
+          ]
+        },
+        {
+          "claim": "Kulinski repeated claims that an Iran conflict caused specified U.S. military deaths, injuries, and base damage.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270,
+            271,
+            272
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski presents conditional support for party leadership as a model for progressive Democrats.",
+          "evidence_segment_indices": [
+            0,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "start_seconds": 0.24,
+          "end_seconds": 31.439
+        },
+        {
+          "point": "Leonard describes policy demands involving corruption, campaign finance, and foreign policy.",
+          "evidence_segment_indices": [
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72
+          ],
+          "start_seconds": 82.479,
+          "end_seconds": 156.48
+        },
+        {
+          "point": "The episode praises Oetta’s antiwar and veterans-focused rhetoric.",
+          "evidence_segment_indices": [
+            163,
+            164,
+            165,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            185,
+            186,
+            187,
+            188,
+            189,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            226,
+            227,
+            228,
+            229
+          ],
+          "start_seconds": 344.639,
+          "end_seconds": 464.8
+        },
+        {
+          "point": "Kulinski frames Medicare for All and economic populism as central Democratic agenda items.",
+          "evidence_segment_indices": [
+            320,
+            321,
+            322,
+            323,
+            324,
+            325,
+            326,
+            327,
+            328,
+            329,
+            330,
+            339,
+            340,
+            341,
+            342,
+            343,
+            344,
+            345,
+            346,
+            347,
+            348,
+            349,
+            350,
+            351
+          ],
+          "start_seconds": 615.44,
+          "end_seconds": 666.16
+        },
+        {
+          "point": "The proposed strategy is a cohesive bloc willing to withhold votes from leaders who reject its demands.",
+          "evidence_segment_indices": [
+            486,
+            487,
+            488,
+            489,
+            490,
+            491,
+            492,
+            493,
+            494,
+            495,
+            496,
+            497,
+            498,
+            499,
+            500,
+            501,
+            502,
+            503,
+            504,
+            505,
+            506,
+            507,
+            508,
+            509
+          ],
+          "start_seconds": 896.88,
+          "end_seconds": 950.959
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "d73162a1b8eea2c899eb8d08f3e06413cd4b50d8cc405641690b8bf1e13d4d4b",
+      "transcript_captured_at": "2026-11-17T01:33:15.049747Z",
+      "summary_generated_at": "2026-11-17T01:38:27.375858Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Captions contain apparent transcription errors and garbled names, including references to party leaders and lawmakers.",
+        "The episode mixes quoted remarks, commentary, and allegations without supplying documentary evidence.",
+        "Claims about polling, military events, casualties, government staffing, and legislation are source-only assertions requiring verification.",
+        "Some policy references are ambiguous in the captions, including the numbered amendment and descriptions of foreign conflicts.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -3997,769 +4956,6 @@
         "The source presents allegations and reported claims; it also includes denials and states that investigators had not reached a conclusion.",
         "The episode changes topics substantially and includes a sponsorship segment, limiting continuity of the overview.",
         "Caption overlap and transcription defects make some statements ambiguous.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "JmdRubafyrE",
-      "title": "🚨 'IT'S OVER' — Vance’s Political Future TANKS as Trump’s Cabinet Throws EACH OTHER Under the BUS!!",
-      "url": "https://www.youtube.com/watch?v=JmdRubafyrE",
-      "published_at": "2026-11-13T15:14:25.000000Z",
-      "summary": "Aaron Parnas presents a commentary episode arguing that JD Vance’s political position has weakened amid disagreements with Donald Trump over the Iran war. The episode says Vance has not decided whether to seek the presidency, while some allies reportedly still expect him to run. It also describes Democratic electoral gains, including an alleged Alaska gubernatorial victory and a resulting shift in the balance of governorships. The discussion then turns to a leadership contest between Chuck Schumer and Chris Van Hollen, with Van Hollen criticizing Schumer’s involvement in Democratic primaries and campaign-finance decisions. Finally, Parnas portrays tension within the Trump administration over Nvidia-related export controls, highlighting Treasury Secretary Scott Bessent’s statement that Commerce had authority over the relevant entity-list process. The episode is primarily an argumentative political analysis: several claims are attributed to unnamed allies, media reports, interviews, or the presenter, and the transcript alone does not independently establish the underlying events.",
-      "topics": [
-        "JD Vance and presidential prospects",
-        "Iran war and Trump administration tensions",
-        "Democratic electoral gains",
-        "Senate Democratic leadership contest",
-        "Nvidia export-control dispute"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Vance is seriously considering not running for president, though no final decision has been made.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            4,
-            5,
-            27,
-            28,
-            31,
-            32
-          ]
-        },
-        {
-          "claim": "Trump and allies sidelined or criticized Vance over his position on the Iran war.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            6,
-            7,
-            47,
-            48,
-            67,
-            68,
-            72,
-            73,
-            81,
-            83
-          ]
-        },
-        {
-          "claim": "A Democrat won Alaska’s governorship, producing a Democratic majority of 30 governorships to Republicans’ 20.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            109,
-            110,
-            111,
-            112,
-            120,
-            121,
-            122
-          ]
-        },
-        {
-          "claim": "Chris Van Hollen challenged Chuck Schumer for Democratic Senate leadership.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            130,
-            131,
-            132,
-            133
-          ]
-        },
-        {
-          "claim": "Treasury and other agencies favored placing Megaspeed on an entity list, while Commerce controlled the decision.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            203,
-            211,
-            214,
-            215,
-            216,
-            217
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode frames Vance’s future as uncertain because of tensions over Iran and the difficulty of both supporting and distancing himself from Trump.",
-          "evidence_segment_indices": [
-            47,
-            72,
-            75,
-            85,
-            104,
-            105
-          ],
-          "start_seconds": 104.079,
-          "end_seconds": 235.76
-        },
-        {
-          "point": "It reports Democratic gains in Alaska and Kansas as evidence of broader electoral momentum.",
-          "evidence_segment_indices": [
-            108,
-            109,
-            118,
-            119,
-            126,
-            127
-          ],
-          "start_seconds": 237.2,
-          "end_seconds": 289.36
-        },
-        {
-          "point": "Van Hollen argues that Democratic leaders should avoid taking sides in open primaries and criticizes related campaign-finance choices.",
-          "evidence_segment_indices": [
-            147,
-            150,
-            168,
-            173,
-            185,
-            188,
-            189
-          ],
-          "start_seconds": 322.639,
-          "end_seconds": 410.08
-        },
-        {
-          "point": "The closing segment presents the Nvidia dispute as an example of conflict among Trump administration cabinet officials.",
-          "evidence_segment_indices": [
-            193,
-            194,
-            195,
-            196,
-            221,
-            223,
-            228,
-            229
-          ],
-          "start_seconds": 414.639,
-          "end_seconds": 505.36
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "76d604e0e2a915a310260fbbc51023b56b241180e03d74ca29577a7ba877865a",
-      "transcript_captured_at": "2026-11-13T16:33:13.779263Z",
-      "summary_generated_at": "2026-11-13T16:38:23.552386Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains caption errors and uncertain names, including apparent distortions of people, agencies, and companies.",
-        "The episode relies partly on unnamed sources, reported polls, media projections, and interview excerpts that are not independently available here.",
-        "The source provides commentary and selected excerpts rather than full underlying documents or complete context for the reported events.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "House of El – AI",
-      "channel_id": "UCsoc5Ad-fC7wWie2PH4rPcw",
-      "video_id": "Juc7CpJO9HA",
-      "title": "Jensen Huang’s Exit Just Blew Up AI’s Circular Financing Machine",
-      "url": "https://www.youtube.com/watch?v=Juc7CpJO9HA",
-      "published_at": "2026-11-13T15:00:09.000000Z",
-      "summary": "The creator argues that Jensen Huang’s departure did not itself burst the AI bubble, but exposed Nvidia’s dependence on one leader and a financing network linking the company to startups, suppliers, and customers. The episode discusses unverified allegations that a businesswoman sought sensitive Nvidia information and that related companies helped chips reach China; it notes that she has not been charged and that publicly available evidence does not establish espionage or compromised secrets. The creator instead attributes Huang’s exit to an alleged relationship with a direct report and Nvidia’s governance rules. Market comparisons are presented to argue that broader AI stocks fell before the personal scandal, while Nvidia was more specifically affected afterward. The episode further describes Nvidia-backed commitments and investments as potentially circular financing, while acknowledging that demand is real and the scale of the arrangements requires scrutiny. Its conclusion is that Nvidia and companies dependent on Huang may face disruption, but AI is unlikely to collapse solely because of one executive’s removal.",
-      "topics": [
-        "Jensen Huang’s departure",
-        "Nvidia governance and succession",
-        "AI market volatility",
-        "China chip-export allegations",
-        "Circular financing"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "US intelligence allegedly believed a businesswoman attempted to obtain Nvidia-related information and that associated companies helped route billions of dollars of Nvidia chips to Chinese firms.",
-          "attributed_to": "House of El – AI",
-          "evidence_segment_indices": [
-            78,
-            79,
-            82,
-            86,
-            87,
-            113,
-            116,
-            117,
-            130,
-            131,
-            167,
-            170,
-            172,
-            174
-          ]
-        },
-        {
-          "claim": "Nvidia allegedly made extensive investments, guarantees, and purchase commitments that supported demand for its own chips and created a circular-financing risk.",
-          "attributed_to": "House of El – AI",
-          "evidence_segment_indices": [
-            398,
-            399,
-            400,
-            401,
-            402,
-            407,
-            408,
-            409,
-            426,
-            428,
-            432,
-            433,
-            434,
-            435,
-            436,
-            437,
-            443,
-            444,
-            445,
-            446,
-            447,
-            448
-          ]
-        },
-        {
-          "claim": "Huang’s alleged relationship with a direct report contributed to the board’s decision to remove him under company relationship rules.",
-          "attributed_to": "House of El – AI",
-          "evidence_segment_indices": [
-            184,
-            185,
-            186,
-            187,
-            188,
-            193,
-            194,
-            198,
-            199,
-            200,
-            204,
-            205,
-            206
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator says the espionage allegations remain unproven, and the alleged intermediary has not been charged.",
-          "evidence_segment_indices": [
-            87,
-            88,
-            89,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            171,
-            174,
-            175,
-            176
-          ],
-          "start_seconds": 199.84,
-          "end_seconds": 411.36
-        },
-        {
-          "point": "The episode presents Huang as Nvidia’s strategist, lobbyist, salesperson, and central dealmaker, with no clear succession plan.",
-          "evidence_segment_indices": [
-            33,
-            34,
-            35,
-            36,
-            37,
-            244,
-            245,
-            248,
-            249,
-            250,
-            251,
-            252,
-            253,
-            254,
-            255
-          ],
-          "start_seconds": 78.0,
-          "end_seconds": 588.959
-        },
-        {
-          "point": "The creator contrasts a broader market decline before the personal scandal with Nvidia-specific weakness afterward.",
-          "evidence_segment_indices": [
-            308,
-            309,
-            310,
-            311,
-            312,
-            313,
-            314,
-            340,
-            341,
-            342,
-            343,
-            346,
-            347,
-            348,
-            349,
-            350,
-            351,
-            352,
-            353,
-            356,
-            357,
-            358,
-            359,
-            360
-          ],
-          "start_seconds": 702.8,
-          "end_seconds": 826.88
-        },
-        {
-          "point": "The conclusion is that Huang-linked companies may be vulnerable, while the wider AI sector has more hardware alternatives and may continue operating.",
-          "evidence_segment_indices": [
-            479,
-            480,
-            481,
-            482,
-            483,
-            484,
-            485,
-            492,
-            493,
-            495,
-            496,
-            497,
-            498,
-            499,
-            500,
-            514,
-            515,
-            516,
-            523,
-            524,
-            525,
-            529,
-            530,
-            531
-          ],
-          "start_seconds": 1095.679,
-          "end_seconds": 1219.039
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "228993bfd3afc5c95acd77223de883a8cd2703bba9621d856c0f14477461df7b",
-      "transcript_captured_at": "2026-11-13T17:03:14.262730Z",
-      "summary_generated_at": "2026-11-13T17:08:27.354337Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains apparent caption or transcription defects in names and technical terms.",
-        "The episode is a time-sensitive snapshot and says events were still developing during recording.",
-        "Several allegations rely on unnamed or external reporting as described by the creator; the source provides no independent documentation.",
-        "Market statistics, political results, company commitments, and financial figures are presented in the transcript but are not independently verified here.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mike Figueredo — The Humanist Report",
-      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
-      "video_id": "lfAYLrMQi_8",
-      "title": "Even Republicans are Exhausted by Trump’s Post-Election Antics",
-      "url": "https://www.youtube.com/watch?v=lfAYLrMQi_8",
-      "published_at": "2026-11-13T14:59:48.000000Z",
-      "summary": "Mike Figueredo argues that Donald Trump’s post-election behavior has shifted from an unexpectedly conciliatory tone back toward public conflict, unsettling parts of the Republican coalition. He highlights Trump’s reported openness to discussing amnesty, which prompted backlash from conservative figures, and contrasts it with the reported appointment of Stephen Miller and concerns about harsher immigration policy. Figueredo also portrays disagreements over the Iran war as exposing tensions between Trump and JD Vance, while suggesting Trump’s political demands constrain Vance’s future prospects. The episode further discusses allegations that White House officials threatened congressional investigators and claims that Trump has resumed questioning election results. Figueredo presents these developments as evidence that Republicans may be increasingly frustrated with Trump, citing a poll that he says favors a different governing approach and rates Vance more favorably than other potential successors. The commentary is strongly opinionated and contains insults, speculation, and several claims that the supplied transcript does not independently establish.",
-      "topics": [
-        "Trump’s post-election conduct",
-        "Republican divisions",
-        "Immigration policy",
-        "Iran war and JD Vance",
-        "2028 succession politics"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The episode says Trump floated amnesty for undocumented immigrants in a 60 Minutes interview and that conservative figures reacted negatively.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            24,
-            25,
-            26,
-            30,
-            31,
-            34,
-            35
-          ]
-        },
-        {
-          "claim": "The episode cites a Reuters poll reportedly showing that 52% of Republican and Republican-leaning voters preferred a different governing approach from Trump, while JD Vance received 62% favorable ratings as a potential candidate.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            347,
-            350,
-            351,
-            352,
-            353,
-            354,
-            355,
-            356,
-            357,
-            383,
-            384,
-            385,
-            386
-          ]
-        },
-        {
-          "claim": "The episode says Trump’s White House legal counsel threatened congressional Democrats with investigations if they investigated administration associates.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            245,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251
-          ]
-        },
-        {
-          "claim": "The episode reports disagreement within the administration over whether the Iran war contributed to midterm losses and over the value of continuing the conflict.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            163,
-            164,
-            169,
-            170,
-            172,
-            173,
-            174,
-            178,
-            179,
-            180,
-            181,
-            182
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Figueredo describes Trump as reverting to a combative post-election style after briefly signaling cooperation with Democrats.",
-          "evidence_segment_indices": [
-            0,
-            2,
-            6,
-            7,
-            8,
-            10,
-            11,
-            12,
-            13,
-            14
-          ],
-          "start_seconds": 4.64,
-          "end_seconds": 37.92
-        },
-        {
-          "point": "Conservative backlash in the episode centers on Trump’s reported amnesty comments and perceived tension with his immigration agenda.",
-          "evidence_segment_indices": [
-            23,
-            24,
-            25,
-            26,
-            27,
-            30,
-            31,
-            32,
-            43,
-            44
-          ],
-          "start_seconds": 51.76,
-          "end_seconds": 105.759
-        },
-        {
-          "point": "The commentary presents disputes over Iran policy as a potential fault line between Trump, Vance, and other advisers.",
-          "evidence_segment_indices": [
-            152,
-            154,
-            155,
-            156,
-            157,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            183,
-            187,
-            188,
-            190,
-            191
-          ],
-          "start_seconds": 322.479,
-          "end_seconds": 412.56
-        },
-        {
-          "point": "Figueredo argues that Republican candidates may struggle to distance themselves from Trump without alienating his base.",
-          "evidence_segment_indices": [
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144
-          ],
-          "start_seconds": 282.72,
-          "end_seconds": 310.4
-        },
-        {
-          "point": "The episode concludes that reported Republican fatigue could shape the party’s 2028 succession debate, though the speaker remains pessimistic about Trump’s remaining term.",
-          "evidence_segment_indices": [
-            347,
-            348,
-            350,
-            351,
-            358,
-            360,
-            378,
-            383,
-            384,
-            387,
-            388,
-            393,
-            394,
-            395
-          ],
-          "start_seconds": 714.64,
-          "end_seconds": 814.16
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "83009059b86caca92cac038b3e574b0788454fda7e545794832034ad5a759c4d",
-      "transcript_captured_at": "2026-11-13T17:03:20.703467Z",
-      "summary_generated_at": "2026-11-13T17:08:49.651958Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is commentary from a single creator, not an independently verified account.",
-        "Several names, quotations, and terms appear garbled by automatic captions.",
-        "Poll figures and references to media reports are presented without source details beyond the transcript.",
-        "Predictions about Trump, Vance, policy outcomes, and future Republican politics remain speculative.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "t0k3CeMng5Q",
-      "title": "F*CK BIPARTISANSHIP (It’s Not 1996 Anymore, Stop Acting Like It Is) | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=t0k3CeMng5Q",
-      "published_at": "2026-11-13T01:00:04.000000Z",
-      "summary": "Kyle Kulinski argues that Wes Moore’s stated willingness to work with Republicans on immigration and AI safety reflects an outdated commitment to bipartisanship. Kulinski acknowledges Moore’s criticism of Stephen Miller but says cooperation with Trump-aligned figures would compromise Democratic priorities. He also focuses on Moore’s comment that he does not lose sleep over billionaires, interpreting it as evidence that Moore is seeking wealthy donors and has failed to recognize the political appeal of economic populism. Kulinski contrasts this approach with Democrats who emphasize affordability, taxes on the wealthy, unions, and expanded social programs. He further discusses a Texas energy-price dispute, presenting criticism of a proposed bill freeze as an example of Republicans opposing direct relief while supporting data-center subsidies. The episode’s central argument is that Democrats should be more confrontational toward MAGA politics and billionaires, rather than pursuing compromise or national unity. These conclusions are Kulinski’s commentary; the transcript provides excerpts and assertions but limited corroborating evidence.",
-      "topics": [
-        "Wes Moore and 2028 speculation",
-        "Bipartisanship and MAGA",
-        "Billionaires and Democratic messaging",
-        "Energy prices and regulation"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Wes Moore is preparing to run for president in 2028 and sought James Clyburn’s endorsement.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            9,
-            10,
-            11,
-            12,
-            15,
-            18
-          ]
-        },
-        {
-          "claim": "At least 4,000 people are missing from the detention facility called Alligator Alcatraz, which was shut down by courts.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75
-          ]
-        },
-        {
-          "claim": "A newly elected Texas governor proposed freezing energy bills while data centers receive subsidized electricity.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            242,
-            245,
-            246,
-            251,
-            252,
-            253,
-            289,
-            290,
-            291,
-            292,
-            293
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Moore says he would work with anyone while pursuing possible bipartisan agreements on immigration and AI safety, despite criticizing Stephen Miller’s record.",
-          "evidence_segment_indices": [
-            27,
-            31,
-            32,
-            33,
-            34,
-            35,
-            37,
-            39,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47
-          ],
-          "start_seconds": 54.48,
-          "end_seconds": 96.96
-        },
-        {
-          "point": "Kulinski rejects Moore’s approach and argues Democrats should defeat MAGA-aligned Republicans rather than compromise with them.",
-          "evidence_segment_indices": [
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108
-          ],
-          "start_seconds": 184.08,
-          "end_seconds": 213.2
-        },
-        {
-          "point": "Moore says he does not lose sleep over the number of billionaires; Kulinski interprets this as politically out of step and donor-friendly.",
-          "evidence_segment_indices": [
-            130,
-            138,
-            140,
-            141,
-            142,
-            143,
-            144,
-            145,
-            146,
-            149,
-            150,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188
-          ],
-          "start_seconds": 249.04,
-          "end_seconds": 361.84
-        },
-        {
-          "point": "The episode links Democratic electoral messaging to affordability, billionaire criticism, higher wages, unions, and taxes on the rich.",
-          "evidence_segment_indices": [
-            151,
-            152,
-            153,
-            154,
-            155,
-            158,
-            159,
-            160,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169
-          ],
-          "start_seconds": 287.84,
-          "end_seconds": 322.16
-        },
-        {
-          "point": "Kulinski presents the Texas energy debate as evidence that bipartisan cooperation is difficult even over consumer price relief.",
-          "evidence_segment_indices": [
-            253,
-            254,
-            255,
-            256,
-            257,
-            258,
-            260,
-            261,
-            262,
-            263,
-            264,
-            267,
-            268,
-            269,
-            270,
-            272,
-            273,
-            274,
-            275,
-            276,
-            283,
-            284,
-            285,
-            286
-          ],
-          "start_seconds": 487.759,
-          "end_seconds": 556.399
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "fdc0ef4a76c10e90e9013d5874a9b39000a26196ebbfb167a696c01ca08fbd85",
-      "transcript_captured_at": "2026-11-13T03:03:23.384484Z",
-      "summary_generated_at": "2026-11-13T03:08:47.138279Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is a one-sided political commentary segment, not an independently verified account.",
-        "Captioning contains transcription errors, omissions, profanity placeholders, and apparent name or title distortions.",
-        "Several claims are presented rhetorically or without supporting documentation in the source.",
-        "Some political references and event descriptions are ambiguous because surrounding context is not included.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
