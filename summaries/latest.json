@@ -1,11 +1,220 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T17:12:01.218197Z",
+  "generated_at": "2026-11-17T20:42:01.180605Z",
   "reporting_window": {
-    "start": "2026-11-10T17:12:01.218197Z",
-    "end": "2026-11-17T17:12:01.218197Z"
+    "start": "2026-11-10T20:42:01.180605Z",
+    "end": "2026-11-17T20:42:01.180605Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "7mj-IxV563U",
+      "title": "🚨 ‘ABSOLUTE DISASTER’ — Trump’s Secretary MELTS DOWN as Congress Says ENOUGH, REMOVE HIM!!!!",
+      "url": "https://www.youtube.com/watch?v=7mj-IxV563U",
+      "published_at": "2026-11-17T19:05:24.000000Z",
+      "summary": "Creator Aaron Parnas presents the Navy secretary’s Senate confirmation hearing as a severe failure, focusing on disputes over sailors’ mental health, shipboard conditions, war costs, and military oversight. Senators challenge Acting Secretary Hung Cao’s description of eight suicide attempts as “mitigations,” citing reported sanitation, ration, and desalination problems aboard the USS Abraham Lincoln. Cao argues the incidents were prevented from becoming deaths and says mental-health resources were available, while senators contend that wording minimizes underlying distress. The episode also highlights exchanges over reports of substantial weight loss, the absence of precise figures for a naval blockade’s daily cost, and uncertainty about damage to a U.S. base in Bahrain. Parnas portrays the hearing as evidence of weak readiness, inadequate transparency, and poor strategic planning, while several senators question whether Cao challenged senior defense officials. A Republican senator separately raises concerns that some Democrats were excluded from classified briefings. The transcript contains numerous apparent caption and name errors, and the episode presents disputed figures and allegations without independent corroboration.",
+      "topics": [
+        "Navy confirmation hearing",
+        "Sailor mental health",
+        "Military readiness and conditions",
+        "War costs and oversight"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Eight sailors in the USS Abraham Lincoln strike group attempted suicide during a deployment, alongside reported infrastructure and hygiene problems.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55
+          ]
+        },
+        {
+          "claim": "The U.S. naval blockade’s daily cost was estimated at about $32.5 million, while broader war costs and related economic impacts were presented as much higher.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            201,
+            202,
+            203,
+            214,
+            215,
+            218,
+            221,
+            222,
+            265,
+            270,
+            271,
+            272,
+            343,
+            344,
+            345
+          ]
+        },
+        {
+          "claim": "Damage to a U.S. naval base in Bahrain was reported as costing at least $400 million, but the acting secretary said a full assessment had not been completed.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            225,
+            226,
+            227,
+            228,
+            232,
+            233,
+            238,
+            239,
+            246,
+            247,
+            248,
+            249,
+            250,
+            255,
+            259,
+            260
+          ]
+        },
+        {
+          "claim": "A Republican senator said Democratic colleagues had been excluded from multiple classified discussions.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            480,
+            481,
+            483,
+            494,
+            495,
+            496,
+            497,
+            498,
+            499,
+            500,
+            501,
+            502,
+            503,
+            504,
+            510
+          ]
+        },
+        {
+          "claim": "The acting secretary’s nomination was in political difficulty after the hearing.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            552,
+            553
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Senators objected to describing attempted suicides as mitigations and disputed whether the response addressed sailors’ mental-health strain.",
+          "evidence_segment_indices": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            71,
+            72,
+            73,
+            146,
+            147,
+            148,
+            149,
+            151,
+            152,
+            153
+          ],
+          "start_seconds": 135.599,
+          "end_seconds": 327.6
+        },
+        {
+          "point": "The hearing included unresolved questions about food, weight loss, ship conditions, blockade costs, and damage assessments.",
+          "evidence_segment_indices": [
+            136,
+            137,
+            138,
+            157,
+            166,
+            167,
+            175,
+            176,
+            183,
+            184,
+            203,
+            214,
+            238,
+            249
+          ],
+          "start_seconds": 292.88,
+          "end_seconds": 541.839
+        },
+        {
+          "point": "Senators questioned whether Cao had challenged the defense secretary over the war’s sustainability and Navy readiness.",
+          "evidence_segment_indices": [
+            356,
+            381,
+            382,
+            402,
+            407,
+            414,
+            416,
+            417,
+            427,
+            430,
+            431,
+            432,
+            438,
+            446,
+            447
+          ],
+          "start_seconds": 776.72,
+          "end_seconds": 976.88
+        },
+        {
+          "point": "The episode frames the hearing as evidence of inadequate transparency and bipartisan congressional exclusion from some classified discussions.",
+          "evidence_segment_indices": [
+            488,
+            494,
+            498,
+            503,
+            510,
+            523,
+            524,
+            525,
+            538,
+            539,
+            540,
+            541
+          ],
+          "start_seconds": 1050.24,
+          "end_seconds": 1178.559
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "f668ee7c8ce911db68a03a4cfff7aa5c79cebeb79d6ae82c2d5f9b9fd840648b",
+      "transcript_captured_at": "2026-11-17T20:33:14.726369Z",
+      "summary_generated_at": "2026-11-17T20:38:27.439966Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains frequent caption defects, including inconsistent names, titles, place names, and apparent speech-recognition errors.",
+        "Several figures and allegations are attributed to senators, the creator, media reports, or unnamed estimates rather than independently established in the source.",
+        "The transcript does not provide the full hearing record, documentary evidence, or confirmation outcome.",
+        "Some dialogue is overlapping or fragmented, making portions of attribution and wording ambiguous.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4788,179 +4997,6 @@
         "The excerpt ends during discussion of whether leadership demands could be extracted, so it does not provide a complete conclusion.",
         "Claims about election results, fundraising, congressional conduct, and reported private meetings are presented within the conversation and are not independently verified here.",
         "Some statements are opinions, predictions, or allegations by the speakers rather than established facts.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "DMc0LcWNnyc",
-      "title": "BREAKING: Trump Official JOKES as Nationwide Ground Stop for Planes Issued, it is a COMPLETE MESS!!",
-      "url": "https://www.youtube.com/watch?v=DMc0LcWNnyc",
-      "published_at": "2026-11-13T22:36:52.000000Z",
-      "summary": "Creator Aaron Parnas presents what he describes as breaking news about a nationwide U.S. aviation ground stop, saying he is personally stranded and that flights were being grounded indefinitely. He attributes the disruption to an FAA-reported telecommunications problem and includes a DHS official’s statement that officials had not ruled out any cause, while emphasizing passenger safety and the lack of evidence then linking the event to a cyberattack. A quoted analyst offers a more specific account, describing radio-frequency outages at air-route traffic-control centers and arguing that the incident did not appear related to either a cyberattack or a newly deployed AI-assisted routing system. The analyst also cites rapidly increasing delays, relatively few cancellations at that point, and reports that some pilots were using an emergency frequency. The material is a fast-moving video assembled from interviews and attributed commentary; it does not independently establish the scale, cause, duration, or later outcome of the disruption.",
-      "topics": [
-        "U.S. aviation disruption",
-        "FAA telecommunications outage",
-        "Air traffic control communications",
-        "Cyberattack and AI speculation"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A nationwide U.S. ground stop was issued, grounding or restricting flights across the country.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            2,
-            3,
-            6,
-            7,
-            8,
-            9
-          ]
-        },
-        {
-          "claim": "The disruption involved telecommunications or radio-frequency outages at air-route traffic-control centers.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            10,
-            11,
-            12,
-            58,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            186,
-            187,
-            188,
-            189
-          ]
-        },
-        {
-          "claim": "Reported delays and cancellations reached the figures cited by the analyst during the video.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            197,
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas says he is stranded and plans to provide updates as information develops.",
-          "evidence_segment_indices": [
-            1,
-            4,
-            5,
-            18,
-            19,
-            20
-          ],
-          "start_seconds": 1.52,
-          "end_seconds": 45.36
-        },
-        {
-          "point": "The DHS official says passenger safety is the priority and that officials had not determined whether the outage was malicious.",
-          "evidence_segment_indices": [
-            34,
-            35,
-            36,
-            37,
-            54,
-            55,
-            56,
-            57,
-            74,
-            75,
-            82,
-            83
-          ],
-          "start_seconds": 72.799,
-          "end_seconds": 186.56
-        },
-        {
-          "point": "The official says restoration would proceed as communications and flights were handled, but gives no timeline.",
-          "evidence_segment_indices": [
-            84,
-            85,
-            86,
-            87,
-            88,
-            89,
-            120,
-            121,
-            122
-          ],
-          "start_seconds": 185.12,
-          "end_seconds": 268.479
-        },
-        {
-          "point": "A quoted analyst links the reported problem to controller-pilot voice communications and says it did not appear related to cyberattack or AI systems.",
-          "evidence_segment_indices": [
-            166,
-            167,
-            168,
-            180,
-            181,
-            182,
-            183,
-            186,
-            187,
-            188,
-            189,
-            190
-          ],
-          "start_seconds": 348.639,
-          "end_seconds": 415.44
-        },
-        {
-          "point": "The analyst reports rising delays, limited cancellations at that moment, and heavy use of an emergency frequency by some pilots.",
-          "evidence_segment_indices": [
-            197,
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            210,
-            216,
-            217,
-            218
-          ],
-          "start_seconds": 426.88,
-          "end_seconds": 486.96
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "51cc5f23b8cc033906ee9d21a62f0a33bb50cdd1197a88f7172486931517fa54",
-      "transcript_captured_at": "2026-11-14T00:03:14.765065Z",
-      "summary_generated_at": "2026-11-14T00:08:24.920245Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The video captures a developing situation and does not establish the final cause, duration, or outcome.",
-        "Several statements are attributed to officials, an analyst, a controller, and a pilot rather than independently verified in the source.",
-        "Captioning contains transcription defects, including unclear names, interrupted speech, and ambiguous phrases.",
-        "The source provides no independent documentation for the cited traffic figures or the reported nationwide scope.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
