@@ -1,11 +1,861 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T21:42:01.189923Z",
+  "generated_at": "2026-11-17T23:42:01.199907Z",
   "reporting_window": {
-    "start": "2026-11-10T21:42:01.189923Z",
-    "end": "2026-11-17T21:42:01.189923Z"
+    "start": "2026-11-10T23:42:01.199907Z",
+    "end": "2026-11-17T23:42:01.199907Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "mxcwtKYvcQ0",
+      "title": "Abdul Tells The Truth About Trump You Have To See To Believe | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=mxcwtKYvcQ0",
+      "published_at": "2026-11-17T22:45:25.000000Z",
+      "summary": "Kyle Kulinski presents Abdul Elsed as a model for confronting President Trump and Republicans through direct criticism rather than flattery. In the featured remarks, Elsed argues that Trump is a bully who backs down when challenged and says political leaders should accept “righteous risks” on behalf of constituents. Kulinski endorses this approach, criticizing Democratic appeals to civility and describing the Republican Party in highly negative terms. The discussion then turns to healthcare, war, tariffs, and leadership. Elsed argues that Medicaid cuts could worsen insurance costs and threaten rural hospitals, opposes the war in Iran and tariff policy, and praises Senator Chris Van Hollen’s willingness to act. Kulinski repeats additional estimates about hospital closures and healthcare losses, while also speculating about Trump’s motives and alleged financial benefits from tariff exemptions. The episode concludes with support for Van Hollen over Chuck Schumer and Kulinski’s hope that Van Hollen will seek higher office. These are commentary and interview claims; the transcript alone does not establish their factual accuracy.",
+      "topics": [
+        "Political strategy and criticism",
+        "Trump and Republican leadership",
+        "Healthcare and Medicaid",
+        "War and tariffs",
+        "Chris Van Hollen"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Medicaid cuts could cause up to 742 rural hospitals to close and cause 15–18 million Americans to lose healthcare, as stated in the episode.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            281,
+            282,
+            283,
+            284,
+            285,
+            286
+          ]
+        },
+        {
+          "claim": "The episode claims that the war in Iran caused specified deaths, injuries, and increased gas and grocery prices.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224
+          ]
+        },
+        {
+          "claim": "Kulinski speculates that Trump may personally profit from tariff exemptions and related rebates.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            328,
+            329,
+            330,
+            331,
+            335,
+            336,
+            337,
+            339,
+            340,
+            341,
+            342,
+            343,
+            344,
+            345,
+            346,
+            347,
+            348,
+            349,
+            350,
+            351,
+            352,
+            353,
+            354,
+            355
+          ]
+        },
+        {
+          "claim": "The episode asserts that tariff rebates went to companies after consumers paid tariff costs and that Howard Lutnick profited from an invested company.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            353,
+            354,
+            355,
+            356,
+            357,
+            358,
+            359,
+            360,
+            361,
+            362,
+            363,
+            364,
+            365,
+            366,
+            367,
+            368,
+            369
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Elsed argues that confronting a bully directly is more effective than flattering Trump.",
+          "evidence_segment_indices": [
+            18,
+            19,
+            25,
+            26,
+            40,
+            41,
+            42,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57
+          ],
+          "start_seconds": 41.12,
+          "end_seconds": 108.079
+        },
+        {
+          "point": "Kulinski endorses aggressive opposition and rejects a return to earlier Democratic norms of political civility.",
+          "evidence_segment_indices": [
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203
+          ],
+          "start_seconds": 330.32,
+          "end_seconds": 401.44
+        },
+        {
+          "point": "Elsed links leadership to constituent advocacy, affordability, healthcare access, and opposition to war and tariffs.",
+          "evidence_segment_indices": [
+            245,
+            246,
+            250,
+            251,
+            252,
+            255,
+            256,
+            257,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275
+          ],
+          "start_seconds": 493.039,
+          "end_seconds": 548.64
+        },
+        {
+          "point": "Elsed favors Van Hollen’s leadership style over Schumer’s, while Kulinski expresses support for a possible Van Hollen presidential run.",
+          "evidence_segment_indices": [
+            377,
+            378,
+            379,
+            382,
+            383,
+            384,
+            385,
+            386,
+            387,
+            388,
+            389,
+            390,
+            391,
+            392,
+            393,
+            394,
+            399,
+            400,
+            402,
+            403,
+            404,
+            405,
+            406,
+            407
+          ],
+          "start_seconds": 741.36,
+          "end_seconds": 796.32
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "99b2e8821e4bccc8ef06110b0271ad32a055379dea4ca92ad9635d09fb42bbbd",
+      "transcript_captured_at": "2026-11-17T23:33:39.557502Z",
+      "summary_generated_at": "2026-11-17T23:39:32.918304Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is commentary and interview excerpts, not independent documentation of the claims discussed.",
+        "Several names and terms appear mistranscribed, including references to individuals and political events.",
+        "Some allegations and predictions are explicitly speculative or presented as opinion.",
+        "The source provides no linked evidence, dates, documents, or corroborating context for the quantitative claims.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "KELIN7tpbHo",
+      "title": "Fetterman PANICS Over Anti-Israel Dems & Threatens To LEAVE THE PARTY!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=KELIN7tpbHo",
+      "published_at": "2026-11-17T22:15:16.000000Z",
+      "summary": "The creator argues that Senator John Fetterman is increasingly misaligned with the Democratic Party, particularly over Israel, Iran, war policy, and the possible selection of Van Hollen as Senate Democratic leader. The episode centers on a Fox News exchange in which Fetterman says it would be troubling if his caucus chose a leader he characterizes as hostile toward Israel, and says he would consider leaving if the party moved too far left. The creator interprets this as evidence that Fetterman may eventually become an independent or Republican, while portraying him as unpopular with Democratic voters and increasingly aligned with Republicans. The commentary also claims that Fetterman has abandoned the populist platform on which he was elected and proposes mechanisms for removing officials who substantially change positions. Finally, the creator predicts that Van Hollen would negotiate more aggressively with Republicans and presents Fetterman’s potential departure as a signal of the party’s antiwar and pro-immigration identity. These claims are presented as commentary and are not independently substantiated in the transcript.",
+      "topics": [
+        "Fetterman and party alignment",
+        "Israel and Iran policy",
+        "Democratic Senate leadership",
+        "Electoral prospects",
+        "Political identity"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Fetterman said he might leave the Democratic Party if Van Hollen became the Senate Democratic leader.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            29,
+            30,
+            31,
+            32,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54
+          ]
+        },
+        {
+          "claim": "The creator claims Fetterman’s recent voting record aligns with Republicans more often than Democrats.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112
+          ]
+        },
+        {
+          "claim": "The creator claims that many Democratic Senate candidates ran while criticizing billionaires.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            12,
+            13,
+            14,
+            15
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode criticizes Fetterman’s stated opposition to a Senate leader viewed as hostile toward Israel.",
+          "evidence_segment_indices": [
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "start_seconds": 112.799,
+          "end_seconds": 141.36
+        },
+        {
+          "point": "The creator attributes Democratic criticism of Israel and aid restrictions to opposition to alleged U.S.-supported violence, while explicitly presenting this as a guess.",
+          "evidence_segment_indices": [
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77
+          ],
+          "start_seconds": 161.519,
+          "end_seconds": 183.36
+        },
+        {
+          "point": "The creator argues that Fetterman has moved away from the populist and pro-immigration positions associated with his campaign.",
+          "evidence_segment_indices": [
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147
+          ],
+          "start_seconds": 299.199,
+          "end_seconds": 326.0
+        },
+        {
+          "point": "The episode predicts that Van Hollen would take a tougher negotiating stance than Chuck Schumer.",
+          "evidence_segment_indices": [
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204
+          ],
+          "start_seconds": 392.479,
+          "end_seconds": 436.96
+        },
+        {
+          "point": "The creator frames Fetterman’s possible departure as reinforcing a Democratic identity centered on criticism of war and Israel.",
+          "evidence_segment_indices": [
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            230,
+            231
+          ],
+          "start_seconds": 462.16,
+          "end_seconds": 494.08
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "72d46d1363e0a3706e06f1df809b50fcd916cf7833613451c5b8efa5f2a7c089",
+      "transcript_captured_at": "2026-11-17T23:33:33.109617Z",
+      "summary_generated_at": "2026-11-17T23:39:11.635104Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains substantial profanity redactions and apparent caption errors, including inconsistent names and malformed phrases.",
+        "The source is a single commentator’s discussion and does not provide independent documentation for polling, voting-record, staff-reporting, election, or policy claims.",
+        "The quoted Fox News exchange is presented in transcript form without its surrounding interview context.",
+        "Several statements are predictions, interpretations, or allegations rather than established facts.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "ScGwnvh00zw",
+      "title": "Ben Shapiro Finally Admits It | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=ScGwnvh00zw",
+      "published_at": "2026-11-17T21:45:36.000000Z",
+      "summary": "Kyle Kulinski argues that conservative commentators are selectively criticizing the Trump movement after its alleged political setbacks. He presents Ben Shapiro’s comments about financial activity surrounding President Trump as a limited acknowledgment of corruption, while contending that Shapiro avoids broader criticism of war, immigration enforcement, and other policies. Kulinski contrasts this with JD Vance’s alleged focus on war while overlooking corruption and other unpopular issues. The episode then examines Shapiro’s proposal that Republicans regain young male voters by promoting responsibility, marriage, economic mobility, and a paternal style of guidance. Kulinski characterizes that approach as condescending and argues that voters respond instead to material concerns such as prices, wages, unions, healthcare, and working conditions. He concludes that Republicans’ policy record, rather than cultural messaging, has driven disillusionment among some voters. The discussion is primarily argumentative commentary, including strong allegations and predictions that are not independently established by the transcript.",
+      "topics": [
+        "Trump and conservative criticism",
+        "Alleged political corruption",
+        "Young male voters",
+        "Republican messaging",
+        "Economic policy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A congressional report allegedly found that Trump received $160 million from foreign governments during his first term.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86
+          ]
+        },
+        {
+          "claim": "Single men allegedly voted Democratic by 57% to 34% in the cited election cycle.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172
+          ]
+        },
+        {
+          "claim": "The episode alleges that Trump administration actions cut pediatric cancer research, removed anti-corruption rules, and raised drug prices.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            276,
+            277,
+            278,
+            279,
+            280,
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290,
+            291
+          ]
+        },
+        {
+          "claim": "The episode alleges that multiple safety and regulatory personnel were removed and links those changes to crashes and public-health risks.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            389,
+            390,
+            391,
+            392,
+            393,
+            394,
+            395,
+            396,
+            397,
+            398,
+            399
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski interprets Shapiro’s remarks about money around Trump as a partial, politically motivated admission rather than a full critique.",
+          "evidence_segment_indices": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            76,
+            77
+          ],
+          "start_seconds": 110.64,
+          "end_seconds": 154.72
+        },
+        {
+          "point": "Kulinski contrasts Shapiro’s alleged emphasis on corruption with Vance’s alleged emphasis on war, arguing both offer selective criticism.",
+          "evidence_segment_indices": [
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115
+          ],
+          "start_seconds": 191.599,
+          "end_seconds": 238.239
+        },
+        {
+          "point": "Shapiro’s proposed Republican strategy centers on responsibility, marriage, economic mobility, and a paternal role toward young men.",
+          "evidence_segment_indices": [
+            160,
+            161,
+            162,
+            163,
+            190,
+            191,
+            192,
+            301,
+            302,
+            303,
+            304,
+            305,
+            318,
+            319,
+            320,
+            321,
+            322,
+            323,
+            324,
+            325
+          ],
+          "start_seconds": 329.759,
+          "end_seconds": 658.72
+        },
+        {
+          "point": "Kulinski argues that material policy proposals would attract voters more effectively than moralizing or cultural lectures.",
+          "evidence_segment_indices": [
+            255,
+            256,
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            309,
+            310,
+            311,
+            312,
+            313,
+            314,
+            315,
+            333,
+            334,
+            335,
+            336,
+            337,
+            338,
+            339,
+            340
+          ],
+          "start_seconds": 509.84,
+          "end_seconds": 696.079
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "d3667b9e5924d372d0f6abc2010413cec52c4b535f6e88b8fb6014686cb1e724",
+      "transcript_captured_at": "2026-11-17T23:33:23.725701Z",
+      "summary_generated_at": "2026-11-17T23:38:50.432170Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains automatic-caption defects, profanity redactions, interruptions, and incomplete phrases.",
+        "Several allegations and numerical references are presented without supporting documentation in the source.",
+        "The overview reflects the creator’s framing and included excerpts; it does not establish the truth of disputed claims.",
+        "Some references to election cycles, policies, and named individuals are ambiguous in the transcript.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "MzCfphZcP0Y",
+      "title": "Fox Host HORNY FOR BLOOD As War Boner RAGES | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=MzCfphZcP0Y",
+      "published_at": "2026-11-17T21:17:08.000000Z",
+      "summary": "Kyle Kulinski argues that the reported deployment of three U.S. Navy aircraft carriers to the Middle East signals preparations for renewed war with Iran, which he predicts would bring severe instability, economic costs, and no viable path to victory. He portrays televised advocates of escalation, including Mark Levin and a former military general, as favoring regime change, sanctions, blockade, and expanded combat while overlooking possible retaliation and unintended consequences. Kulinski also criticizes Fox News coverage of CodePink and other anti-war activists, arguing that it reframes opposition to war as foreign influence or manipulation rather than addressing their stated demands. He presents the activists’ confrontations with lawmakers and journalists as legitimate accountability efforts. Finally, he disputes Mike Pence’s explanation that Republicans lost the midterms because the war was insufficiently pursued, interpreting Pence’s remarks as an argument for escalation. The episode closes by contrasting war advocacy with domestic priorities such as healthcare, wages, taxation, and paid leave.",
+      "topics": [
+        "U.S.-Iran conflict",
+        "Military escalation",
+        "Media criticism",
+        "Anti-war activism",
+        "Midterm politics"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Three U.S. Navy aircraft carriers were deployed to the Middle East and were already there by the time of the episode.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            1,
+            2,
+            3,
+            4,
+            7,
+            8
+          ]
+        },
+        {
+          "claim": "Iran controls the Strait of Hormuz and therefore has effective veto power over the global economy.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "claim": "Iranian cyberattacks may have disrupted U.S. airport and banking systems.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238
+          ]
+        },
+        {
+          "claim": "Only about 25% of the country supported the war against Iran.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            245,
+            246,
+            366,
+            367
+          ]
+        },
+        {
+          "claim": "The U.S. and Israel violated the terms of a memorandum of understanding after it temporarily paused the war.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            597,
+            598,
+            599,
+            600,
+            601
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski predicts renewed war with Iran would produce chaos and failure, arguing that regime change is not achievable through escalation.",
+          "evidence_segment_indices": [
+            17,
+            18,
+            19,
+            20,
+            21,
+            40,
+            41,
+            42,
+            50,
+            51,
+            52,
+            53
+          ],
+          "start_seconds": 42.079,
+          "end_seconds": 129.36
+        },
+        {
+          "point": "A featured television discussion advocates major combat operations, sanctions, blockade, arming opposition groups, and weakening Iran’s regime.",
+          "evidence_segment_indices": [
+            84,
+            87,
+            88,
+            90,
+            91,
+            92,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            109,
+            110
+          ],
+          "start_seconds": 192.959,
+          "end_seconds": 257.199
+        },
+        {
+          "point": "Kulinski says foreign attack could strengthen Iran’s leadership by encouraging a rally-around-the-flag response.",
+          "evidence_segment_indices": [
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130
+          ],
+          "start_seconds": 270.0,
+          "end_seconds": 298.72
+        },
+        {
+          "point": "The episode contrasts Fox News portrayals of CodePink with the activists’ stated opposition to war and military spending.",
+          "evidence_segment_indices": [
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318,
+            319,
+            320,
+            424,
+            425,
+            426,
+            427,
+            428,
+            429,
+            430
+          ],
+          "start_seconds": 654.8,
+          "end_seconds": 915.6
+        },
+        {
+          "point": "Kulinski interprets Mike Pence’s comments as attributing Republican losses to insufficiently completing the Iran war rather than opposition to it.",
+          "evidence_segment_indices": [
+            560,
+            561,
+            562,
+            563,
+            564,
+            570,
+            571,
+            572,
+            573,
+            574,
+            575,
+            580,
+            581,
+            582,
+            584,
+            585,
+            586,
+            587,
+            588,
+            589,
+            590,
+            591,
+            592,
+            593
+          ],
+          "start_seconds": 1164.0,
+          "end_seconds": 1239.12
+        },
+        {
+          "point": "The closing argument prioritizes domestic economic and social policies over further military escalation.",
+          "evidence_segment_indices": [
+            638,
+            639,
+            640,
+            641,
+            642,
+            643,
+            644,
+            645,
+            646,
+            647,
+            648,
+            649,
+            650,
+            651,
+            652,
+            653,
+            654,
+            655
+          ],
+          "start_seconds": 1326.799,
+          "end_seconds": 1366.32
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "df3546cdd4d6e22e4a51a3e07ba72c51addb3746b8a8a13c4f52a1293529c9f0",
+      "transcript_captured_at": "2026-11-17T23:33:16.202514Z",
+      "summary_generated_at": "2026-11-17T23:38:27.699946Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is source-only commentary and does not independently establish the episode’s military, economic, polling, casualty, or cyberattack claims.",
+        "Automatic captions contain omissions, profanity placeholders, transcription errors, and unclear proper nouns.",
+        "Some quoted television material is interleaved with Kulinski’s reactions, so speaker attribution may be imperfect.",
+        "The transcript provides limited context for the referenced war, elections, agreements, and events.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4095,753 +4945,6 @@
         "Several product, model, organization, and actor names appear mistranscribed, including references to AI systems and security groups.",
         "The overview reflects the creator's narrative and demonstrations only; cited allegations and reported incidents require independent verification.",
         "The transcript contains profanity, verbal disfluencies, and occasional unclear wording that may affect precise interpretation.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "pkk26mn53Zg",
-      "title": "‘HE’S UNWELL’ — Trump NOWHERE TO BE FOUND as White House Launches MAJOR ATTACK!!",
-      "url": "https://www.youtube.com/watch?v=pkk26mn53Zg",
-      "published_at": "2026-11-15T20:04:03.000000Z",
-      "summary": "Creator Aaron Parnas argues that the Trump administration is escalating pressure on Senator Elizabeth Warren and other figures associated with the president’s political opponents. He discusses a U.S. attorney’s letter accusing Warren of planning investigations without a legitimate legislative purpose and invoking federal civil-rights statutes, while Parnas characterizes the effort as political retaliation. The episode also examines Transportation Secretary Sean Duffy’s refusal to apologize for a nationwide ground stop, which he attributes to longstanding infrastructure problems and insufficient funding rather than solely to the current administration. Parnas contrasts Duffy’s public explanation with what he describes as President Trump’s absence during the disruption. Finally, he alleges that Trump shared an unverified story accompanied by fabricated or AI-generated images involving Homeland Security Secretary Mark Wayne Mullen and his son. The source is a commentary segment with incomplete captions and does not independently establish the legal allegations, the ground-stop figures or causes, or the authenticity and provenance of the social-media material.",
-      "topics": [
-        "Political investigations",
-        "Nationwide ground stop",
-        "Transportation infrastructure",
-        "Presidential social media"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A U.S. attorney threatened or pursued federal action against Senator Elizabeth Warren under 18 U.S.C. §§ 241 and 242.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            28,
-            30,
-            76,
-            84,
-            101,
-            110,
-            115
-          ]
-        },
-        {
-          "claim": "A nationwide ground stop stranded more than 1.5 million people.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "claim": "President Trump shared an unverified story with fabricated or AI-generated images involving Mark Wayne Mullen and his son.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            184,
-            186,
-            190,
-            191,
-            194,
-            195
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas presents a U.S. attorney’s letter as warning Warren about investigations of Trump-aligned individuals and demanding preservation of relevant records.",
-          "evidence_segment_indices": [
-            31,
-            36,
-            47,
-            50,
-            68,
-            76,
-            78,
-            82
-          ],
-          "start_seconds": 71.2,
-          "end_seconds": 184.319
-        },
-        {
-          "point": "Parnas says the legal pressure is being framed as retaliation against political opponents, while the cited officials characterize Warren’s conduct as potentially unlawful.",
-          "evidence_segment_indices": [
-            67,
-            81,
-            84,
-            101,
-            119,
-            120,
-            121
-          ],
-          "start_seconds": 148.56,
-          "end_seconds": 290.24
-        },
-        {
-          "point": "Duffy says he will not apologize for the ground stop, citing inherited system problems, safety concerns and a need for additional resources.",
-          "evidence_segment_indices": [
-            123,
-            126,
-            136,
-            142,
-            150,
-            159,
-            165,
-            175
-          ],
-          "start_seconds": 290.24,
-          "end_seconds": 407.759
-        },
-        {
-          "point": "The episode portrays Trump as absent from the crisis response and criticizes his reported sharing of questionable social-media content.",
-          "evidence_segment_indices": [
-            17,
-            18,
-            20,
-            184,
-            185,
-            186,
-            194,
-            198
-          ],
-          "start_seconds": 40.64,
-          "end_seconds": 460.56
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "6d1a551bd2ac57884bc6e386d3b5a4b7b2a188f5a5d5b5ee7d27bfeda07f0524",
-      "transcript_captured_at": "2026-11-15T21:33:15.093861Z",
-      "summary_generated_at": "2026-11-15T21:38:21.035389Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Captions contain transcription errors, malformed words and unclear speaker changes.",
-        "The segment provides commentary and quoted excerpts but no independent documents or corroborating sources.",
-        "Several names, titles and reported events are difficult to verify from the captions alone.",
-        "The source does not establish the jurisdictional, legal or factual basis of the allegations.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "4Z9kZtxf0cM",
-      "title": "‘IMPEACH HIM’ — Trump Blames BIDEN for Nationwide Ground Stop as Americans ERUPT and say ENOUGH!!",
-      "url": "https://www.youtube.com/watch?v=4Z9kZtxf0cM",
-      "published_at": "2026-11-15T14:58:19.000000Z",
-      "summary": "The creator argues that a nationwide FAA ground stop exposed failures in air-traffic infrastructure and criticizes President Trump for delaying public comments, blaming the Biden administration, and focusing on other matters. The episode cites claims that more than 3,500 aircraft were airborne, 827 flights were diverted, and the disruption was among the longest nationwide ground stops in decades. It contrasts Trump’s explanation with comments attributed to transportation officials, who described newer equipment overwhelming an older system and said further outages could occur. The creator also reports alleged surge pricing affecting stranded travelers, including a $1,500 rental-car quote. Additional segments cover an alleged Justice Department effort targeting Senator Elizabeth Warren over anticipated investigations, a judge’s reported blocking of Trump’s golf-course project, and continued escalation in Iran. The presentation is strongly critical and includes the creator’s legal interpretation, personal travel account, and calls for subscriptions; the supplied transcript alone does not independently establish the underlying events or legal claims.",
-      "topics": [
-        "FAA ground stop",
-        "Trump-Biden blame",
-        "Air-traffic infrastructure",
-        "Traveler price surging",
-        "Justice Department and Congress"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A nationwide ground stop grounded every flight, involved more than 3,500 aircraft already airborne, diverted 827 flights, and was among the longest in decades.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            32,
-            33,
-            34,
-            35,
-            36,
-            37
-          ]
-        },
-        {
-          "claim": "Officials said an attempted system update or newer equipment overwhelmed the older air-traffic system and warned that more disruptions could occur.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            74,
-            75,
-            76,
-            77,
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            88,
-            89,
-            151,
-            152
-          ]
-        },
-        {
-          "claim": "A federal prosecutor or Justice Department office issued a litigation-hold letter concerning Elizabeth Warren and suggested that investigations could implicate civil-rights statutes.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            169,
-            170,
-            171,
-            172,
-            173,
-            177,
-            178,
-            180,
-            181,
-            182,
-            183,
-            184
-          ]
-        },
-        {
-          "claim": "A judge blocked Trump’s golf-course land project, while the Justice Department allegedly threatened Warren over anticipated congressional investigations.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            178,
-            179,
-            180,
-            181,
-            202,
-            206,
-            207
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator presents the disruption as a major aviation crisis and criticizes Trump’s public response.",
-          "evidence_segment_indices": [
-            0,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            47,
-            48,
-            49
-          ],
-          "start_seconds": 0.08,
-          "end_seconds": 106.799
-        },
-        {
-          "point": "Trump is quoted blaming the Biden administration and requesting rapid congressional funding for air-traffic modernization.",
-          "evidence_segment_indices": [
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            60,
-            61,
-            62,
-            68,
-            69
-          ],
-          "start_seconds": 104.96,
-          "end_seconds": 152.56
-        },
-        {
-          "point": "The episode includes officials’ differing accounts of the president’s involvement during the ground stop.",
-          "evidence_segment_indices": [
-            106,
-            107,
-            108,
-            109,
-            114,
-            115,
-            116,
-            117,
-            118,
-            123,
-            124,
-            126,
-            127,
-            132,
-            134,
-            135,
-            143,
-            144,
-            147
-          ],
-          "start_seconds": 231.04,
-          "end_seconds": 324.479
-        },
-        {
-          "point": "The creator links the aviation story to alleged traveler price surges and broader political and legal disputes.",
-          "evidence_segment_indices": [
-            153,
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160,
-            168,
-            169,
-            206,
-            207,
-            212,
-            213
-          ],
-          "start_seconds": 332.0,
-          "end_seconds": 467.84
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "c94c7897959ca0f3f32674e537aec0a96dc64b641cd955703b50ccd26545f40e",
-      "transcript_captured_at": "2026-11-15T16:03:13.959125Z",
-      "summary_generated_at": "2026-11-15T16:08:24.349741Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains caption defects, repetitions, misheard words, and speaker-label ambiguity.",
-        "The source provides no independent documents or corroboration for the operational, legal, pricing, or geopolitical claims.",
-        "Several statements are the creator’s interpretation, allegation, prediction, or personal account rather than established findings.",
-        "The episode mentions Iran but supplies too little detail to characterize that situation further.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "bnsaSlr8Bpc",
-      "title": "We Need To Talk About What Happened Yesterday...",
-      "url": "https://www.youtube.com/watch?v=bnsaSlr8Bpc",
-      "published_at": "2026-11-14T22:41:03.000000Z",
-      "summary": "The creator frames the episode as a correction to panic and misinformation surrounding a recent nationwide FAA ground stop. He says flights were halted after communications and radar became unstable, while emphasizing that claims involving cyberattacks, Iran-linked activity, bombs, or UFOs were not established explanations. Drawing on an FAA account, he describes a modernization project replacing aging copper telecommunications lines with fiber and a possible router or installation failure that allegedly flooded the network with connection attempts. He says the disruption grounded thousands of aircraft for several hours before service resumed. The creator argues that the incident highlights aging air-traffic infrastructure and the importance of stopping flights when communications are unreliable, while criticizing sensational coverage. He also discusses separate reports about alleged surveillance of British bases and a suspected device at a U.S. ethanol facility, but stresses that these accounts remained uncertain. Overall, the episode presents a provisional infrastructure-failure explanation while distinguishing reported facts from speculation and calling for further investigation.",
-      "topics": [
-        "FAA ground stop",
-        "Air-traffic infrastructure",
-        "Misinformation and speculation",
-        "Alleged security incidents"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A communications failure during FAA infrastructure modernization caused radar and communications instability, reportedly involving a faulty router or installation error.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            230,
-            231,
-            232,
-            233,
-            234,
-            258,
-            259,
-            260,
-            261,
-            262,
-            263,
-            281,
-            282,
-            283,
-            284
-          ]
-        },
-        {
-          "claim": "Approximately 3,500 aircraft were affected, with the ground stop lasting several hours before airspace reopened.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            286,
-            287,
-            288,
-            289,
-            293,
-            294,
-            295,
-            296,
-            297,
-            298
-          ]
-        },
-        {
-          "claim": "Individuals were allegedly collecting information about British military bases for an Iran-aligned terrorist network, including activity connected to RAF Fairford.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            448,
-            449,
-            450,
-            451,
-            452,
-            453,
-            460,
-            461,
-            462,
-            463,
-            464,
-            465,
-            467,
-            468,
-            469,
-            470,
-            471
-          ]
-        },
-        {
-          "claim": "A suspected bomb-related incident occurred at a U.S. ethanol facility, but the device may not have been a bomb.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            480,
-            481,
-            482,
-            483,
-            484,
-            485,
-            486,
-            487,
-            488,
-            491,
-            492,
-            493,
-            494,
-            495,
-            496
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator presents the episode as a response to fear-driven reporting and urges caution before attributing the ground stop to war, cyberattacks, or AI.",
-          "evidence_segment_indices": [
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79
-          ],
-          "start_seconds": 40.48,
-          "end_seconds": 176.16
-        },
-        {
-          "point": "The reported FAA explanation centers on aging telecommunications equipment being migrated from copper to fiber during maintenance.",
-          "evidence_segment_indices": [
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224,
-            225,
-            226,
-            227
-          ],
-          "start_seconds": 432.0,
-          "end_seconds": 513.839
-        },
-        {
-          "point": "The creator argues that grounding flights was a prudent safety response to unreliable air-traffic communications.",
-          "evidence_segment_indices": [
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            142,
-            143,
-            144,
-            145,
-            146,
-            147,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153,
-            154,
-            155,
-            156
-          ],
-          "start_seconds": 279.52,
-          "end_seconds": 342.96
-        },
-        {
-          "point": "He concludes that the episode’s apparent silver lining was the restoration of service without reported deaths, while warning that infrastructure modernization remains necessary.",
-          "evidence_segment_indices": [
-            319,
-            320,
-            321,
-            322,
-            323,
-            324,
-            325,
-            326,
-            327,
-            328,
-            329,
-            330,
-            331,
-            332,
-            333,
-            338,
-            339,
-            340,
-            341,
-            342,
-            343,
-            344,
-            345,
-            346
-          ],
-          "start_seconds": 712.48,
-          "end_seconds": 770.56
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "6746e2475a60c11bea780a7c66b6cd0e33fcc5f60f2fd4dd860e4da8a7c743c5",
-      "transcript_captured_at": "2026-11-14T23:03:15.090176Z",
-      "summary_generated_at": "2026-11-14T23:08:28.385365Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains caption defects, profanity redactions, false starts, and garbled phrases that make some details ambiguous.",
-        "The episode relies partly on quoted or paraphrased official and media accounts that are not independently verified here.",
-        "The creator explicitly labels the Iran-linked and facility-related security accounts as allegations or incomplete information.",
-        "The source covers the creator’s interpretation of events and does not provide a complete documentary record of the incident.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "FDRv8Ab19B0",
-      "title": "‘HE’S INCOMPETENT’ — Americans Demand RESIGNATIONS as Trump Prepares MAJOR WAR!!",
-      "url": "https://www.youtube.com/watch?v=FDRv8Ab19B0",
-      "published_at": "2026-11-14T19:20:21.000000Z",
-      "summary": "Aaron Parnas argues that the Trump administration appears incompetent and is mishandling both aviation problems and a possible military intervention in Cuba. He focuses on a transportation press conference where audiovisual equipment reportedly failed, interpreting the breakdown as emblematic of broader communication and infrastructure weaknesses. The featured official says modernization is necessary for safety, citing outdated technology, unreliable copper wiring, aging towers, and software built in the 1990s. He also discusses disruptions affecting travelers, including missed weddings and funerals, while officials emphasize moving college-football teams. A major theme is funding: the official describes requests for $30 billion or more, while questioning centers on why Congress has not already provided sufficient money. Parnas criticizes Republican leaders and rejects blame directed at Democrats, asserting that Republicans could have funded the work themselves. He concludes by warning that war with Cuba could occur soon. The transcript supports the existence of these arguments and excerpts, but does not independently establish the military preparations, infrastructure conditions, funding history, or political claims.",
-      "topics": [
-        "Aviation infrastructure and modernization",
-        "Transportation press conference",
-        "Congressional funding",
-        "Possible Cuba intervention"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The Trump administration is preparing for a possible military intervention or major attack in Cuba.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            8,
-            9,
-            10,
-            11,
-            23,
-            24,
-            198,
-            199,
-            200
-          ]
-        },
-        {
-          "claim": "Aviation-system modernization failures caused significant travel disruptions, including missed weddings and funerals.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            123,
-            124,
-            125,
-            126
-          ]
-        },
-        {
-          "claim": "The transportation secretary requested $30 billion or more for aviation-related work.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            137,
-            140,
-            141,
-            142,
-            143,
-            148,
-            149,
-            150,
-            151
-          ]
-        },
-        {
-          "claim": "Republicans could have funded FAA-related legislation without Democratic support.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            186,
-            187,
-            188,
-            189,
-            190,
-            193,
-            194,
-            195,
-            196,
-            197
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas presents the administration as incompetent and says Americans are demanding answers.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4
-          ],
-          "start_seconds": 0.24,
-          "end_seconds": 12.639
-        },
-        {
-          "point": "A press conference experienced apparent audiovisual and communication problems.",
-          "evidence_segment_indices": [
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            47,
-            48,
-            49,
-            50,
-            51
-          ],
-          "start_seconds": 92.24,
-          "end_seconds": 131.319
-        },
-        {
-          "point": "The official defends modernization as a safety and resilience measure involving outdated systems.",
-          "evidence_segment_indices": [
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77
-          ],
-          "start_seconds": 170.4,
-          "end_seconds": 206.48
-        },
-        {
-          "point": "Questions focus on upgrade timing, travel disruption, and requested funding.",
-          "evidence_segment_indices": [
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            88,
-            137,
-            140,
-            141,
-            142
-          ],
-          "start_seconds": 204.64,
-          "end_seconds": 348.479
-        },
-        {
-          "point": "Parnas links the funding dispute to his warning about possible war with Cuba.",
-          "evidence_segment_indices": [
-            186,
-            187,
-            188,
-            189,
-            190,
-            193,
-            194,
-            195,
-            196,
-            197,
-            198,
-            199
-          ],
-          "start_seconds": 449.199,
-          "end_seconds": 478.639
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "5fa22e42b30eb5bda303a79b8d3c63209032cf98d6f9e39904503ec761ca16f3",
-      "transcript_captured_at": "2026-11-14T20:03:14.231186Z",
-      "summary_generated_at": "2026-11-14T20:08:23.064256Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is a creator’s commentary and selected excerpts, not independent reporting.",
-        "Captions contain interruptions, music markers, speaker-attribution ambiguity, and apparent transcription defects.",
-        "The transcript does not provide corroborating documents or independently verify the Cuba, funding, aviation, or political claims.",
-        "The ending is truncated, limiting context for the creator’s closing remarks.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
