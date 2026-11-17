@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T22:30:43.483137Z",
+  "generated_at": "2026-11-17T23:00:45.004872Z",
   "reporting_window": {
-    "start": "2026-11-10T22:30:43.483137Z",
-    "end": "2026-11-17T22:30:43.483137Z",
+    "start": "2026-11-10T23:00:45.004872Z",
+    "end": "2026-11-17T23:00:45.004872Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,16 +14,16 @@
       "identity_status": "verified",
       "health": "success_new",
       "discovery_status": "success_new",
-      "last_successful_poll": "2026-11-17T22:30:42.330343Z",
+      "last_successful_poll": "2026-11-17T23:00:42.855530Z",
       "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_new",
-      "discovery_status": "success_new",
-      "last_successful_poll": "2026-11-17T22:30:42.527031Z",
+      "health": "success_no_new",
+      "discovery_status": "success_no_new",
+      "last_successful_poll": "2026-11-17T23:00:43.055854Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-17T22:30:42.742526Z",
+      "last_successful_poll": "2026-11-17T23:00:43.292205Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-17T22:30:42.982053Z",
+      "last_successful_poll": "2026-11-17T23:00:43.561946Z",
       "warnings": []
     },
     {
@@ -50,11 +50,23 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-17T22:30:43.330417Z",
+      "last_successful_poll": "2026-11-17T23:00:44.748971Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "mxcwtKYvcQ0",
+      "title": "Abdul Tells The Truth About Trump You Have To See To Believe | The Kyle Kulinski Show",
+      "published_at": "2026-11-17T22:45:25.000000Z",
+      "url": "https://www.youtube.com/watch?v=mxcwtKYvcQ0",
+      "first_seen": "2026-11-17T23:00:42.855530Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -2139,18 +2151,6 @@
       "published_at": "2026-11-10T23:05:10.000000Z",
       "url": "https://www.youtube.com/watch?v=wqqscaUssZk",
       "first_seen": "2026-11-10T23:30:24.617346Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "expired"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "hNY-YDZVMCs",
-      "title": "Fox & Friends PISSED OFF That Hot Democrats Won | The Kyle Kulinski Show",
-      "published_at": "2026-11-10T22:40:07.000000Z",
-      "url": "https://www.youtube.com/watch?v=hNY-YDZVMCs",
-      "first_seen": "2026-11-10T23:00:13.582795Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "expired"
