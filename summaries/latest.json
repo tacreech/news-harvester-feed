@@ -1,11 +1,177 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T17:12:01.199924Z",
+  "generated_at": "2026-11-18T18:12:01.175791Z",
   "reporting_window": {
-    "start": "2026-11-11T17:12:01.199924Z",
-    "end": "2026-11-18T17:12:01.199924Z"
+    "start": "2026-11-11T18:12:01.175791Z",
+    "end": "2026-11-18T18:12:01.175791Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "OASSwOX3ET0",
+      "title": "‘HE CRASHED OUT’ —  Trump Secretary LOSES IT During Hearing, Trump is FURIOUS and Considers FIRING!!",
+      "url": "https://www.youtube.com/watch?v=OASSwOX3ET0",
+      "published_at": "2026-11-18T17:28:04.000000Z",
+      "summary": "Creator Aaron Parnas portrays a congressional hearing as a damaging episode for the Trump administration and argues that Homeland Security Secretary Mark Wayne Mullen appeared defensive under questioning. The video focuses first on Mullen’s explanation for attending an LSU football game, including his claims that the trip was preplanned, personally reimbursed, and compatible with aviation-safety responsibilities. It then highlights exchanges over domestic-terrorism examples, ICE hiring and training standards, and questions about why Mullen was not informed earlier about an alleged compromise involving Nvidia’s chief executive. Members of Congress also challenge the department over unanswered oversight requests, alleged misconduct by agents, and accountability for internal investigations. Mullen responds that active ICE personnel have completed background checks and required training, while some others were placed on administrative leave, and that he cannot discuss ongoing cases. The creator concludes that the hearing was a disaster and says some people want Mullen fired. The transcript is caption-derived and provides no independent documentation for the allegations or broader political conclusions.",
+      "topics": [
+        "Homeland Security hearing",
+        "ICE screening and training",
+        "Congressional oversight",
+        "Cybersecurity briefing",
+        "Political accountability"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The creator and lawmakers allege that an ICE agent involved in a fatal shooting was deployed before completing full background checks and standardized training.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            194,
+            195,
+            201,
+            204,
+            206,
+            208,
+            218,
+            241,
+            245,
+            246
+          ]
+        },
+        {
+          "claim": "A lawmaker states that DHS received multiple unanswered oversight inquiries and alleges limited accountability in cited ICE-related investigations.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            319,
+            320,
+            321,
+            324,
+            330,
+            331,
+            369,
+            372,
+            373,
+            374,
+            380,
+            385
+          ]
+        },
+        {
+          "claim": "The hearing includes an allegation that Nvidia CEO Jensen Huang was compromised by a Chinese spy agency, while Mullen says DHS was not informed until the matter became public.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            279,
+            280,
+            281,
+            282,
+            283,
+            286,
+            287,
+            288,
+            294,
+            301,
+            304
+          ]
+        },
+        {
+          "claim": "The creator alleges that Mullen has failed to explain reported outages within a cybersecurity-related area of responsibility.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            14,
+            16,
+            17,
+            18,
+            19
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Mullen says his LSU trip was scheduled in advance, personally paid or reimbursed, and undertaken while airspace was open.",
+          "evidence_segment_indices": [
+            24,
+            26,
+            31,
+            43,
+            44,
+            47,
+            56,
+            57,
+            58,
+            89,
+            90
+          ],
+          "start_seconds": 51.44,
+          "end_seconds": 201.04
+        },
+        {
+          "point": "Questioning challenged Mullen to identify right-wing domestic-terrorism organizations; he cited 764 and Antifa but emphasized case-specific criteria.",
+          "evidence_segment_indices": [
+            109,
+            111,
+            112,
+            116,
+            119,
+            124,
+            138,
+            151,
+            155,
+            161,
+            162
+          ],
+          "start_seconds": 231.92,
+          "end_seconds": 344.56
+        },
+        {
+          "point": "Mullen testified that ICE agents currently serving have completed background checks and training, with incomplete cases placed on administrative leave.",
+          "evidence_segment_indices": [
+            188,
+            189,
+            190,
+            225,
+            226,
+            253,
+            254
+          ],
+          "start_seconds": 387.52,
+          "end_seconds": 524.8
+        },
+        {
+          "point": "The hearing ended with broader disputes over DHS responsiveness, alleged misconduct, detention practices, funding, and oversight.",
+          "evidence_segment_indices": [
+            313,
+            319,
+            327,
+            337,
+            362,
+            397,
+            409,
+            417,
+            423,
+            428,
+            432
+          ],
+          "start_seconds": 630.32,
+          "end_seconds": 912.88
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "bb24594ae1df126b9595346d6dde64ef5dcdab2ca026a6074908905b39dde3dd",
+      "transcript_captured_at": "2026-11-18T18:03:15.245040Z",
+      "summary_generated_at": "2026-11-18T18:08:27.511914Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is an automated caption transcript with apparent name, word, and phrase recognition errors.",
+        "Several allegations are presented by the creator or lawmakers without supporting documents in the source.",
+        "The transcript does not establish the accuracy of disputed events, figures, legal characterizations, or claims about individuals.",
+        "Some exchanges are fragmented or overlapping, making speaker attribution occasionally uncertain.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mike Figueredo — The Humanist Report",
       "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
@@ -5125,218 +5291,6 @@
         "The source mixes narration, quoted protest audio, embedded commentary, and analysis, making speaker attribution imperfect in places.",
         "Claims about fundraising, donations, polling, votes, military aid, and reported threats are presented source-only and require independent verification.",
         "The episode does not provide complete documents, dates, methodology, or corroborating records for its major factual assertions.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "WPqVjcmzyJk",
-      "title": "🚨 ‘AMERICA IS BROKEN’ — Widespread Outages Rapidly SPREAD as Trump Declares WAR on Congress!!",
-      "url": "https://www.youtube.com/watch?v=WPqVjcmzyJk",
-      "published_at": "2026-11-16T22:26:58.000000Z",
-      "summary": "Creator Aaron Parnas frames the episode as an argument that the United States is experiencing overlapping institutional failures, beginning with reported disruptions to air travel and banking. He says the FAA grounded flights nationwide after failures involving facilities and equipment, while officials and controllers disputed the necessity and handling of the response. He then discusses reports that customers at major banks could not access accounts or complete transactions, noting Chase’s explanation that its issue was a software bug rather than a cyberattack. The episode broadens into a political dispute, presenting the White House as seeking to restrict federal employees’ testimony to Congress and blaming Congress for broader failures. Parnas also highlights an alleged incident involving ICE agents and a pregnant protester in California, though the transcript provides little context. An interview with North Carolina Democratic Party chair Anderson Clayton focuses on election results, redistricting, voting access, candidate recruitment, and Democratic priorities for future elections. The transcript includes a substantial sponsor segment and several uncertain or incomplete captions.",
-      "topics": [
-        "Infrastructure disruptions",
-        "Banking outages",
-        "Executive-congressional conflict",
-        "Immigration enforcement",
-        "North Carolina elections"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The FAA grounded flights nationwide after a failure involving equipment at facilities in Arkansas and Texas, and the FBI took possession of related equipment.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            24,
-            25,
-            27,
-            28,
-            34,
-            35,
-            36,
-            47,
-            48,
-            49,
-            50,
-            52,
-            53,
-            54
-          ]
-        },
-        {
-          "claim": "Customers at several major banks reported difficulty accessing accounts or completing transactions, while Chase attributed its disruption to a software bug rather than a cyberattack.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            72,
-            73,
-            74,
-            75,
-            76,
-            77,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86
-          ]
-        },
-        {
-          "claim": "A White House memo allegedly required federal agencies to obtain permission before employees testify to Congress and allowed the White House to judge which investigations were legitimate.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            110,
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118
-          ]
-        },
-        {
-          "claim": "ICE agents allegedly used force and pepper spray against a pregnant U.S. citizen attending a protest in Modesto, California.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas links reported air-travel and banking disruptions into a broader narrative of institutional breakdown.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            12,
-            92,
-            93,
-            94,
-            95,
-            96,
-            97
-          ],
-          "start_seconds": 0.0,
-          "end_seconds": 215.84
-        },
-        {
-          "point": "The aviation section presents competing accounts about the cause, timing, necessity, and accountability for the nationwide ground stop.",
-          "evidence_segment_indices": [
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            46,
-            47,
-            54,
-            55,
-            56,
-            60,
-            61,
-            62,
-            63,
-            64,
-            66,
-            67,
-            68,
-            69,
-            70
-          ],
-          "start_seconds": 87.92,
-          "end_seconds": 162.319
-        },
-        {
-          "point": "The political section focuses on congressional oversight, alleged White House resistance, and Democratic electoral strategy.",
-          "evidence_segment_indices": [
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121
-          ],
-          "start_seconds": 214.0,
-          "end_seconds": 262.72
-        },
-        {
-          "point": "Clayton discusses North Carolina redistricting, voting access, local organizing, and future Democratic recruitment and policy goals.",
-          "evidence_segment_indices": [
-            193,
-            194,
-            195,
-            204,
-            205,
-            210,
-            211,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            266,
-            267,
-            268,
-            269,
-            270,
-            271,
-            272,
-            273,
-            274,
-            275,
-            293
-          ],
-          "start_seconds": 432.319,
-          "end_seconds": 619.68
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "e623f81a0d8f00b1a154b993f7121a9e16b37515fd8fc9716163c3ad7ba3b39c",
-      "transcript_captured_at": "2026-11-16T22:33:13.562845Z",
-      "summary_generated_at": "2026-11-16T22:38:25.305966Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview relies only on the supplied transcript and does not independently establish the reported events.",
-        "Several captions contain transcription errors, omissions, profanity placeholders, or ambiguous names and terms.",
-        "The California incident is presented with limited contextual detail in the transcript.",
-        "The interview includes political opinions and predictions that are attributed to the speakers rather than treated as verified outcomes.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
