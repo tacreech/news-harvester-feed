@@ -1,11 +1,480 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T22:12:01.181046Z",
+  "generated_at": "2026-11-18T23:12:01.171429Z",
   "reporting_window": {
-    "start": "2026-11-11T22:12:01.181046Z",
-    "end": "2026-11-18T22:12:01.181046Z"
+    "start": "2026-11-11T23:12:01.171429Z",
+    "end": "2026-11-18T23:12:01.171429Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "PU_Gpyq6NiU",
+      "title": "TRUMP BOMBS IRAN, IRAN IMMEDIATELY RETALIATES!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=PU_Gpyq6NiU",
+      "published_at": "2026-11-18T22:03:07.000000Z",
+      "summary": "Kyle Kulinski argues that a reported U.S. strike on Iran’s Qeshm Island was followed by Iranian retaliation, while receiving little mainstream-media attention. The episode presents embedded commentary claiming the strike was described by U.S. officials as self-defense and that Iran attacked shipping, drones, and regional military facilities. Kulinski links these reported events to warnings about cyberattacks, outages affecting major organizations, and the possibility of a broader regional escalation. He also discusses allegations that Israel and U.S. officials are pressuring President Trump to resume intensified military action, while questioning media reports about a possible Iranian attack in Washington. The episode repeatedly treats several disputed developments as interconnected, including cyber incidents, military strikes, and political messaging. It concludes with criticism of the Trump administration’s personnel and security policies, and of perceived U.S.-Israeli influence over regional strategy. The transcript is an opinion program incorporating claims from other commentators and official statements; the supplied material does not independently verify those claims.",
+      "topics": [
+        "U.S.-Iran escalation",
+        "Qeshm Island strike",
+        "Strait of Hormuz shipping",
+        "Cybersecurity and outages",
+        "Media and war messaging"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "U.S. aircraft struck an IRGC missile site on Qeshm Island and Iran retaliated against U.S. or allied targets.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            25,
+            26,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207
+          ]
+        },
+        {
+          "claim": "Iran struck seven tankers in the Strait of Hormuz and downed specified numbers of U.S. drones.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            100
+          ]
+        },
+        {
+          "claim": "Cyberattacks or outages affected businesses, airports, banks, technology companies, the NSA, and financial services during the same period.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192
+          ]
+        },
+        {
+          "claim": "Iranian officials or media threatened or conducted attacks involving regional bases and infrastructure, including Bahrain and Kuwait.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            223,
+            224,
+            225
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames the reported Qeshm Island strike and retaliation as evidence of dangerous regional escalation.",
+          "evidence_segment_indices": [
+            2,
+            3,
+            5,
+            6,
+            9,
+            10,
+            14,
+            15,
+            16,
+            17
+          ],
+          "start_seconds": 4.4,
+          "end_seconds": 43.36
+        },
+        {
+          "point": "The program presents competing U.S. and Iranian accounts of attacks, interceptions, and damage.",
+          "evidence_segment_indices": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            46,
+            50,
+            58,
+            93,
+            94,
+            95,
+            100,
+            203,
+            204,
+            205,
+            206,
+            207
+          ],
+          "start_seconds": 71.2,
+          "end_seconds": 448.56
+        },
+        {
+          "point": "Kulinski connects cyber incidents and infrastructure outages to the broader conflict, while acknowledging uncertainty about attribution.",
+          "evidence_segment_indices": [
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165
+          ],
+          "start_seconds": 272.4,
+          "end_seconds": 366.479
+        },
+        {
+          "point": "He accuses mainstream media of minimizing or selectively presenting the conflict and disputed allegations about Iranian plans.",
+          "evidence_segment_indices": [
+            168,
+            169,
+            170,
+            171,
+            175,
+            176,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            278,
+            279,
+            280,
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287
+          ],
+          "start_seconds": 368.16,
+          "end_seconds": 604.88
+        },
+        {
+          "point": "The episode criticizes the Trump administration and argues that Israeli pressure is influencing U.S. policy.",
+          "evidence_segment_indices": [
+            144,
+            145,
+            146,
+            147,
+            148,
+            505,
+            506,
+            507,
+            512,
+            513,
+            514,
+            525,
+            526,
+            527,
+            528,
+            529,
+            530,
+            531,
+            532,
+            533
+          ],
+          "start_seconds": 320.479,
+          "end_seconds": 1100.88
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "21b023342db15ea7adc85fe2b3483a69e90f7c795b99a44890f9ed40a8d9bc1d",
+      "transcript_captured_at": "2026-11-18T23:03:20.750673Z",
+      "summary_generated_at": "2026-11-18T23:08:50.274365Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is commentary with embedded clips and quoted official or media claims, not independent reporting.",
+        "Captioning contains probable transcription errors, including names, places, military designations, and repeated or malformed phrases.",
+        "Several claims are presented as allegations, theories, or conflicting accounts and require independent verification.",
+        "The supplied source provides no corroborating documents or systematic chronology beyond the spoken material.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "OYY7b1Jo7bo",
+      "title": "BREAKING: JEFFRIES APPROVED AS SPEAKER, ONLY 11 DEMS VOTE AGAINST HIM | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=OYY7b1Jo7bo",
+      "published_at": "2026-11-18T21:20:10.000000Z",
+      "summary": "Kyle Kulinski argues that Hakeem Jeffries’ election as House speaker, by a reported 251–11 vote with two Democrats absent or not voting, demonstrates both broad Democratic support and the limited leverage of progressive dissenters. He criticizes Jeffries over what he describes as corporate politics, close ties to pro-Israel donors, opposition to some progressive priorities, and an allegedly inconsistent position on ending the Iran war. Kulinski highlights a statement from Democratic opponents saying Jeffries had not met all of their demands, while praising their willingness to vote against him. He also disputes television commentators who characterize criticism of Jeffries as racist, arguing that policy disagreement should not be conflated with bigotry. The episode presents phone calls and public pressure as having pushed Jeffries toward expanded Medicare coverage and other commitments, though Kulinski says viewers should continue monitoring Democratic officials. The excerpt focuses almost entirely on the speaker vote and related commentary; it does not include the promised polling, Schumer, Iran, or Tucker Carlson segments.",
+      "topics": [
+        "Hakeem Jeffries speaker vote",
+        "Progressive Democratic dissent",
+        "Israel and foreign-policy criticism",
+        "Medicare and congressional pressure"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Jeffries won the speakership 251–11, with two Democrats not voting, and was the first Black House speaker.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ]
+        },
+        {
+          "claim": "Jeffries has an 18% approval rating and receives substantial funding from pro-Israel political interests.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            74,
+            78,
+            79,
+            80,
+            81,
+            157,
+            181,
+            218,
+            219
+          ]
+        },
+        {
+          "claim": "Public pressure led Jeffries to support a major Medicare expansion and related healthcare commitments.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            601,
+            602,
+            603,
+            604,
+            605,
+            606,
+            607,
+            608,
+            609,
+            613,
+            624,
+            625,
+            626,
+            638,
+            639
+          ]
+        },
+        {
+          "claim": "Jeffries’ allies threatened a congressman-elect’s career unless he supported Jeffries.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            477,
+            478,
+            479,
+            480,
+            481
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames the speaker vote as an overwhelming victory for Jeffries but a disappointing result for progressives.",
+          "evidence_segment_indices": [
+            64,
+            67,
+            71,
+            72,
+            73,
+            74,
+            87,
+            157,
+            158
+          ],
+          "start_seconds": 133.84,
+          "end_seconds": 341.52
+        },
+        {
+          "point": "Several Democrats cited unmet demands involving healthcare, immigration enforcement, money in politics, and Gaza when explaining their opposition.",
+          "evidence_segment_indices": [
+            90,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ],
+          "start_seconds": 196.56,
+          "end_seconds": 239.84
+        },
+        {
+          "point": "The episode contrasts policy-based criticism with media allegations that some opposition to Jeffries is racist.",
+          "evidence_segment_indices": [
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            185,
+            190,
+            191,
+            192,
+            193,
+            194,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203
+          ],
+          "start_seconds": 375.44,
+          "end_seconds": 431.12
+        },
+        {
+          "point": "Kulinski says sustained pressure may produce further concessions and urges continued scrutiny of Democratic leaders.",
+          "evidence_segment_indices": [
+            701,
+            702,
+            703,
+            704,
+            705,
+            706,
+            707,
+            718,
+            719,
+            720,
+            721,
+            722,
+            723,
+            724,
+            725,
+            729,
+            730,
+            731,
+            732,
+            733,
+            734,
+            735
+          ],
+          "start_seconds": 1446.0,
+          "end_seconds": 1518.0
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "b4d80cbe33935d6c0a7dd1421902f3fe239d205bf5ba0588c9c3fb96a6cafd48",
+      "transcript_captured_at": "2026-11-18T23:03:14.530696Z",
+      "summary_generated_at": "2026-11-18T23:08:25.549503Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains automatic-caption defects, including misspellings and obscured profanity, which may affect names and wording.",
+        "Several claims are Kulinski’s interpretations or allegations and are not independently established in the excerpt.",
+        "Some quoted statements come from embedded clips, while speaker attribution is not always explicit in the captions.",
+        "The provided excerpt ends after the speaker-vote discussion and does not substantiate the episode’s announced segments on polling, Schumer, Iran, or Tucker Carlson.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4877,362 +5346,6 @@
         "Claims attributed to journalists, politicians, polling, and unnamed sources are reproduced from the episode and are not independently verified here.",
         "The source is advocacy-oriented commentary interspersed with interview excerpts, so interpretation and factual reporting are not always clearly separated.",
         "Some excerpts are truncated or difficult to identify because of transcription defects.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "c7mPrUP4rCg",
-      "title": "This Could Be The Worst Week For Playstation...",
-      "url": "https://www.youtube.com/watch?v=c7mPrUP4rCg",
-      "published_at": "2026-11-16T23:37:35.000000Z",
-      "summary": "Mutahar argues that rapidly advancing PlayStation 5 emulation could create a serious challenge for Sony and Rockstar. He demonstrates Demon’s Souls running through a PS5 emulator on a Linux system using Windows virtualization, saying recent community builds have progressed from barely reaching menus to playable sections and reported frame rates around 27–60 fps.[0,12,27,69] He also shows the PS5 version of GTA V functioning on PC, including story gameplay, saving, character switching, and experimental ray tracing, while noting performance varies by mode and that the demonstration is not proof of a fully validated emulator.[224,245,266,401,415] The creator predicts that access to dumped GTA 6 files could eventually enable PC emulation, perhaps quickly, but presents this as speculation rather than an established outcome.[106,113,121,124] Much of his argument centers on preservation: he says digital-only releases limit ownership and that emulation could preserve single-player games, while also discussing piracy and his preference to purchase legitimate copies.[148,163,371,429]",
-      "topics": [
-        "PlayStation 5 emulation",
-        "GTA V PC performance",
-        "Potential GTA 6 emulation",
-        "Game preservation and ownership"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Community PS5 emulator builds can run Demon’s Souls in playable sections at roughly 27–60 frames per second.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            12,
-            27,
-            61,
-            69,
-            80
-          ]
-        },
-        {
-          "claim": "A PS5 emulator can run GTA V’s PS5 version with story gameplay, saving, character switching, and experimental ray tracing on PC.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            224,
-            245,
-            266,
-            281,
-            401,
-            411
-          ]
-        },
-        {
-          "claim": "A dumped GTA 6 game binary could potentially become playable through emulation soon after release.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            106,
-            113,
-            121,
-            124,
-            472,
-            473
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Mutahar presents Demon’s Souls as evidence of rapid progress in PS5 emulation.",
-          "evidence_segment_indices": [
-            12,
-            19,
-            22,
-            27,
-            47,
-            61
-          ],
-          "start_seconds": 24.56,
-          "end_seconds": 137.92
-        },
-        {
-          "point": "The GTA V demonstration shows substantial functionality, but performance and completeness remain variable.",
-          "evidence_segment_indices": [
-            224,
-            245,
-            253,
-            266,
-            313,
-            415
-          ],
-          "start_seconds": 504.4,
-          "end_seconds": 938.48
-        },
-        {
-          "point": "He frames possible GTA 6 emulation as both a piracy risk and a preservation opportunity.",
-          "evidence_segment_indices": [
-            113,
-            133,
-            148,
-            371,
-            422,
-            429
-          ],
-          "start_seconds": 254.879,
-          "end_seconds": 974.32
-        },
-        {
-          "point": "He argues that digital-only distribution provides fewer meaningful ownership options.",
-          "evidence_segment_indices": [
-            137,
-            138,
-            425,
-            427,
-            431
-          ],
-          "start_seconds": 314.24,
-          "end_seconds": 979.279
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "613290bc26dd8eb94e4ab98f5267ca0a82666d0dbd0a680e336e64495e068701",
-      "transcript_captured_at": "2026-11-17T00:33:14.529408Z",
-      "summary_generated_at": "2026-11-17T00:38:21.978576Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview relies only on the supplied transcript and does not independently verify the emulator demonstrations, software names, or performance figures.",
-        "Several captions contain profanity redactions, transcription errors, speaker markers, and ambiguous names, including references to emulator projects and community developers.",
-        "Predictions about GTA 6 dumping, emulation timelines, piracy, and future PC playability are the creator’s speculation, not established outcomes.",
-        "The creator says he has not completed the full GTA V playthrough, so the demonstration does not establish complete reliability or compatibility.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "72jZIjjV2Cs",
-      "title": "THIS IS HOW IT’S DONE | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=72jZIjjV2Cs",
-      "published_at": "2026-11-16T23:15:16.000000Z",
-      "summary": "Kyle Kulinski argues that progressive Democrats should use leadership votes to demand concrete policy commitments rather than automatically support established party leaders. He highlights Don Leonard’s reported meeting with Hakeem Jeffries, in which Leonard says he withheld support pending positions on campaign-finance reform and U.S. policy toward Israel. Kulinski also praises Richard Oetta’s antiwar statements and criticism of alleged Veterans Affairs cuts, presenting them as examples of confrontational progressive politics. A separate interview is used to defend Medicare for All and a populist economic message, while Kulinski disputes the idea that recent Democratic victories demonstrate rejection of progressive themes. He concludes that Democrats should form a disciplined voting bloc around issues including reducing money in politics, opposing wars, and expanding health coverage. The episode is primarily commentary and advocacy, combining excerpts from politicians and media appearances with Kulinski’s interpretations. Several names, policy references, and factual assertions are unclear in the captions and would require independent verification.",
-      "topics": [
-        "Democratic leadership",
-        "Progressive strategy",
-        "Campaign finance",
-        "Foreign policy",
-        "Medicare for All"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Don Leonard reportedly told Hakeem Jeffries he would withhold support absent commitments on campaign-finance reform and U.S. policy toward Israel.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            17,
-            18,
-            60,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72
-          ]
-        },
-        {
-          "claim": "Richard Oetta alleged that Veterans Affairs funding and staffing were being cut, citing specific job-loss figures.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            239,
-            240,
-            241,
-            243,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250
-          ]
-        },
-        {
-          "claim": "Kulinski stated that a poll found 90% of Democratic voters wanted Medicare for All prioritized.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            310,
-            311,
-            312
-          ]
-        },
-        {
-          "claim": "Kulinski repeated claims that an Iran conflict caused specified U.S. military deaths, injuries, and base damage.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            257,
-            258,
-            259,
-            260,
-            261,
-            262,
-            263,
-            264,
-            265,
-            266,
-            267,
-            268,
-            269,
-            270,
-            271,
-            272
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski presents conditional support for party leadership as a model for progressive Democrats.",
-          "evidence_segment_indices": [
-            0,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ],
-          "start_seconds": 0.24,
-          "end_seconds": 31.439
-        },
-        {
-          "point": "Leonard describes policy demands involving corruption, campaign finance, and foreign policy.",
-          "evidence_segment_indices": [
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72
-          ],
-          "start_seconds": 82.479,
-          "end_seconds": 156.48
-        },
-        {
-          "point": "The episode praises Oetta’s antiwar and veterans-focused rhetoric.",
-          "evidence_segment_indices": [
-            163,
-            164,
-            165,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            185,
-            186,
-            187,
-            188,
-            189,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            226,
-            227,
-            228,
-            229
-          ],
-          "start_seconds": 344.639,
-          "end_seconds": 464.8
-        },
-        {
-          "point": "Kulinski frames Medicare for All and economic populism as central Democratic agenda items.",
-          "evidence_segment_indices": [
-            320,
-            321,
-            322,
-            323,
-            324,
-            325,
-            326,
-            327,
-            328,
-            329,
-            330,
-            339,
-            340,
-            341,
-            342,
-            343,
-            344,
-            345,
-            346,
-            347,
-            348,
-            349,
-            350,
-            351
-          ],
-          "start_seconds": 615.44,
-          "end_seconds": 666.16
-        },
-        {
-          "point": "The proposed strategy is a cohesive bloc willing to withhold votes from leaders who reject its demands.",
-          "evidence_segment_indices": [
-            486,
-            487,
-            488,
-            489,
-            490,
-            491,
-            492,
-            493,
-            494,
-            495,
-            496,
-            497,
-            498,
-            499,
-            500,
-            501,
-            502,
-            503,
-            504,
-            505,
-            506,
-            507,
-            508,
-            509
-          ],
-          "start_seconds": 896.88,
-          "end_seconds": 950.959
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "d73162a1b8eea2c899eb8d08f3e06413cd4b50d8cc405641690b8bf1e13d4d4b",
-      "transcript_captured_at": "2026-11-17T01:33:15.049747Z",
-      "summary_generated_at": "2026-11-17T01:38:27.375858Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Captions contain apparent transcription errors and garbled names, including references to party leaders and lawmakers.",
-        "The episode mixes quoted remarks, commentary, and allegations without supplying documentary evidence.",
-        "Claims about polling, military events, casualties, government staffing, and legislation are source-only assertions requiring verification.",
-        "Some policy references are ambiguous in the captions, including the numbered amendment and descriptions of foreign conflicts.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
