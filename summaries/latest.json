@@ -1,11 +1,297 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T23:42:01.199907Z",
+  "generated_at": "2026-11-18T00:12:01.172507Z",
   "reporting_window": {
-    "start": "2026-11-10T23:42:01.199907Z",
-    "end": "2026-11-17T23:42:01.199907Z"
+    "start": "2026-11-11T00:12:01.172507Z",
+    "end": "2026-11-18T00:12:01.172507Z"
   },
   "episodes": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "RB_8RGZ1et0",
+      "title": "The Internet Is Falling Apart Right Now...",
+      "url": "https://www.youtube.com/watch?v=RB_8RGZ1et0",
+      "published_at": "2026-11-17T22:52:55.000000Z",
+      "summary": "The creator argues that a cluster of recent outages and security incidents can make the internet feel apocalyptic, while cautioning that several events may reflect maintenance or configuration problems rather than coordinated attacks. He discusses an alleged Optimizely breach in which malicious JavaScript was reportedly inserted into customer projects, potentially affecting websites that loaded the company’s testing tools; he says reported impacts included credential, cookie, screenshot, cryptocurrency, and payment-data theft, though the transcript does not independently establish the scope or losses. He also describes an NSA internal-network outage, noting that the agency reportedly attributed it to routine maintenance and that mission-critical systems remained available. The creator connects these events to his broader concern that AI-assisted or autonomous cyber operations could increase attack speed and scale. He presents Google’s alleged staged model of agentic cyber activity and predicts worsening risks, but acknowledges uncertainty. The episode ends by urging caution, updated devices, password changes, credit monitoring, and skepticism toward unverified outage reports.",
+      "topics": [
+        "Cybersecurity incidents",
+        "Optimizely breach allegations",
+        "AI-assisted cyber operations",
+        "Infrastructure outages"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "An unauthorized party exploited an Optimizely vulnerability to insert malicious JavaScript into customer projects and affect many organizations.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            193,
+            194,
+            195,
+            196,
+            197,
+            220,
+            221,
+            234,
+            235,
+            236,
+            237
+          ]
+        },
+        {
+          "claim": "The alleged campaign could steal cryptocurrency, payment data, cookies, screenshots, and other information from visitors.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            248,
+            249,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            310,
+            311
+          ]
+        },
+        {
+          "claim": "The NSA internal-network outage was caused by routine maintenance, with mission-critical systems unaffected and service restored.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            111,
+            112,
+            115,
+            116,
+            117,
+            118,
+            119
+          ]
+        },
+        {
+          "claim": "Google assesses agentic cyber activity as progressing through stages toward largely autonomous attacks on the creator’s stated timeline.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            478,
+            479,
+            480,
+            481,
+            482,
+            483,
+            484,
+            493,
+            494,
+            495,
+            500,
+            501,
+            502,
+            503,
+            504,
+            505,
+            506,
+            507
+          ]
+        },
+        {
+          "claim": "An energy company was targeted in a cyberattack, while other reported outages were attributed to malfunctions, upgrades, or maintenance.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            565,
+            566,
+            567,
+            568,
+            569,
+            570,
+            571,
+            572,
+            573,
+            575,
+            576,
+            577,
+            578,
+            579,
+            580,
+            585,
+            586,
+            587,
+            588
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator distinguishes confirmed or reported incidents from speculation about a broader coordinated cyberattack.",
+          "evidence_segment_indices": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            141
+          ],
+          "start_seconds": 40.559,
+          "end_seconds": 322.0
+        },
+        {
+          "point": "He explains the alleged Optimizely incident as a supply-chain-style compromise affecting third-party website code.",
+          "evidence_segment_indices": [
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            193,
+            194,
+            195,
+            196,
+            197,
+            235,
+            236,
+            237,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257
+          ],
+          "start_seconds": 352.479,
+          "end_seconds": 586.56
+        },
+        {
+          "point": "He warns that outdated devices may face greater exposure, while presenting updates and defensive precautions as practical responses.",
+          "evidence_segment_indices": [
+            380,
+            381,
+            382,
+            383,
+            384,
+            385,
+            386,
+            387,
+            388,
+            389,
+            390,
+            391,
+            392,
+            393,
+            394,
+            395,
+            396,
+            397,
+            416,
+            417,
+            418,
+            419,
+            420,
+            453
+          ],
+          "start_seconds": 849.44,
+          "end_seconds": 1023.199
+        },
+        {
+          "point": "The episode links expanding AI use with the creator’s concern about faster, more scalable cyberattacks.",
+          "evidence_segment_indices": [
+            461,
+            462,
+            467,
+            468,
+            469,
+            470,
+            471,
+            472,
+            473,
+            478,
+            479,
+            488,
+            489,
+            490,
+            491,
+            492,
+            493,
+            494,
+            503,
+            504,
+            505,
+            506,
+            507,
+            514
+          ],
+          "start_seconds": 1036.959,
+          "end_seconds": 1160.88
+        },
+        {
+          "point": "The creator says multiple outage reports remain unverified and should be treated cautiously until corroborated.",
+          "evidence_segment_indices": [
+            552,
+            553,
+            554,
+            555,
+            556,
+            557,
+            558,
+            559,
+            560,
+            561,
+            585,
+            586,
+            587,
+            588,
+            589,
+            590,
+            591
+          ],
+          "start_seconds": 1240.799,
+          "end_seconds": 1332.4
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "d6495f005eed1045af669d48f3e6799bb94046570cf481e6e98483557f6b28ef",
+      "transcript_captured_at": "2026-11-18T00:03:15.688286Z",
+      "summary_generated_at": "2026-11-18T00:08:32.191091Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is an automatic captioning output with apparent word substitutions, omissions, and garbled phrases.",
+        "Several technical names, figures, device versions, and incident details are difficult to interpret from the captions alone.",
+        "The episode relies on the creator’s account and referenced reports; the source material does not independently verify the allegations.",
+        "The creator explicitly says some outage reports are unverified and that the Optimizely incident’s full report was still pending.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -406,6 +692,195 @@
         "The source is a single commentator’s discussion and does not provide independent documentation for polling, voting-record, staff-reporting, election, or policy claims.",
         "The quoted Fox News exchange is presented in transcript form without its surrounding interview context.",
         "Several statements are predictions, interpretations, or allegations rather than established facts.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "ItVmeY4-lMc",
+      "title": "‘TRUMP IS GONE’ — Americans DESPERATE for Answers as Republicans TURN on Each Other, Pure MADNESS!!",
+      "url": "https://www.youtube.com/watch?v=ItVmeY4-lMc",
+      "published_at": "2026-11-17T22:00:02.000000Z",
+      "summary": "Aaron Parnas argues that a series of recent outages affecting aviation, banking, workplace software, technology platforms, hotels and an NSA network has left Americans seeking clearer explanations and accountability. He presents competing explanations from officials and Republican lawmakers, including a router problem, artificial intelligence, possible coordination and an iPhone-related theory, while noting that several claims lack evidence. The episode also distinguishes these outages from separately reported cyber incidents and suggests that dependence on interconnected providers may allow failures to spread across services. Parnas criticizes President Trump’s public response, overseas travel and proposed Washington construction projects, framing them as contributing to public frustration. The latter half is an interview with Maryland Governor Wes Moore about his upbringing, military service, political career and focus on reducing child poverty. Moore discusses historical racism, political disillusionment and the need to pursue ambitious goals while retaining skepticism without becoming immobilized. The transcript is a creator-led commentary and interview, not an independent verification of the reported events or claims.",
+      "topics": [
+        "Technology and service outages",
+        "Government accountability",
+        "Republican disagreements",
+        "Wes Moore interview",
+        "Child poverty"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The reported outages affected Microsoft services, U.S. flights, JPMorgan Chase, United Airlines, Apple, Google, Marriott, financial websites and an NSA network within a short period.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            49,
+            53,
+            56,
+            59,
+            63,
+            67,
+            74,
+            80,
+            81,
+            84,
+            87
+          ]
+        },
+        {
+          "claim": "The FAA outage involved a router, the Chase incident involved a software bug, and the Microsoft disruption involved a network upgrade, with no demonstrated link between them.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            203,
+            204,
+            205,
+            206,
+            207,
+            208
+          ]
+        },
+        {
+          "claim": "A Reuters poll found that two-thirds opposed the president’s Washington remodeling activity and that his approval was at its lowest point of the presidency.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            124,
+            125,
+            126,
+            127,
+            128,
+            129
+          ]
+        },
+        {
+          "claim": "Hackers reportedly compromised websites of 178 organizations through the Optimizely service, while Equinor reported an active cyberattack and the FBI warned about AI-assisted attacks.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            212,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            222,
+            223,
+            224,
+            225
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas says the outages are not proven to be connected and that several remain unexplained.",
+          "evidence_segment_indices": [
+            89,
+            90,
+            91,
+            92,
+            203,
+            209,
+            210,
+            211
+          ],
+          "start_seconds": 170.792,
+          "end_seconds": 391.895
+        },
+        {
+          "point": "Officials and Republican figures offer conflicting explanations and calls for greater transparency.",
+          "evidence_segment_indices": [
+            138,
+            139,
+            140,
+            141,
+            143,
+            144,
+            145,
+            166,
+            167,
+            168,
+            169,
+            173,
+            174,
+            182,
+            183,
+            184,
+            188,
+            189,
+            190,
+            191
+          ],
+          "start_seconds": 257.594,
+          "end_seconds": 355.994
+        },
+        {
+          "point": "The episode separates the reported outages from other cyber incidents that it says have not been linked to them.",
+          "evidence_segment_indices": [
+            212,
+            213,
+            226,
+            227
+          ],
+          "start_seconds": 389.695,
+          "end_seconds": 419.595
+        },
+        {
+          "point": "Wes Moore describes a personal path through hardship, military service and nonprofit work before entering politics.",
+          "evidence_segment_indices": [
+            298,
+            304,
+            305,
+            323,
+            327,
+            329,
+            330,
+            531,
+            542,
+            548,
+            549,
+            550,
+            612,
+            613
+          ],
+          "start_seconds": 531.197,
+          "end_seconds": 1083.002
+        },
+        {
+          "point": "Moore says progress toward ending child poverty requires ambitious goals and sustained action despite skepticism.",
+          "evidence_segment_indices": [
+            636,
+            638,
+            666,
+            668,
+            674,
+            675,
+            685,
+            687,
+            688,
+            717,
+            722,
+            723,
+            724
+          ],
+          "start_seconds": 1113.103,
+          "end_seconds": 1264.305
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "c6d9337c0a602f5ade1e359c86a3925d3d01371f8de854e1904b55d08dba9fcb",
+      "transcript_captured_at": "2026-11-18T00:03:23.376809Z",
+      "summary_generated_at": "2026-11-18T00:08:53.230490Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains overlapping segments, transcription errors and occasional unclear names or phrases.",
+        "The source provides assertions and interview statements but no underlying documents or independent corroboration.",
+        "Several outage causes and the relationships among incidents are explicitly unresolved in the episode.",
+        "The latter interview consists largely of personal recollections, opinions and policy aspirations rather than independently tested findings.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -4608,343 +5083,6 @@
         "The source does not independently verify the travel-disruption figures, infrastructure claims, intelligence allegations, or legal status of the golf-course project.",
         "Some speaker boundaries and quotations are difficult to distinguish because captions overlap or are incomplete.",
         "Coverage is limited to the creator’s narration and presented excerpts; broader context is absent.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "VpvP_bYPm8M",
-      "title": "‘EXPOSE THE TRUTH’ — Trump SPIRALS as Service Member BLOWS the WHISTLE, the TRUTH is HERE!!",
-      "url": "https://www.youtube.com/watch?v=VpvP_bYPm8M",
-      "published_at": "2026-11-16T15:04:49.000000Z",
-      "summary": "Aaron Parnas presents allegations that the Iran war exposed serious gaps in protection and planning at a U.S. post in Kuwait, where he says six soldiers were killed after an Army major warned superiors about aerial threats. The episode describes the major’s reported whistleblower complaint, including claims that counter-drone defenses, medical support, and adequate preparation were absent, while contrasting survivors’ accounts with official descriptions of the site. Parnas also criticizes Donald Trump’s response to media coverage, including a reportedly AI-generated video and Trump’s defense of military performance. The discussion then broadens to possible escalation, citing a third U.S. aircraft carrier in the region and Iran’s reported closure of the Strait of Hormuz. In Washington, the program covers Republican resistance to some judicial nominees, warnings about court funding, and the White House’s stated interest in working with Democrats. It concludes with Trump defending White House construction projects when questioned about strained airline systems. The transcript provides assertions and excerpts but does not independently establish them.",
-      "topics": [
-        "Iran war and troop protection",
-        "Whistleblower allegations",
-        "Trump’s media response",
-        "Judicial confirmations",
-        "White House construction"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Six U.S. soldiers were killed in a drone attack at a command post in Kuwait, and Army Major Steven Ramsbottom filed a whistleblower complaint alleging inadequate protection and medical support.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            35,
-            37,
-            39,
-            45,
-            48,
-            52,
-            57,
-            60
-          ]
-        },
-        {
-          "claim": "Military leaders ignored intelligence warnings about the site, and the Pentagon completed an investigation whose findings were not publicly released.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            76,
-            78,
-            85,
-            87
-          ]
-        },
-        {
-          "claim": "A third U.S. aircraft carrier arrived in the Middle East while Iran closed the Strait of Hormuz.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            121,
-            123,
-            124,
-            126,
-            127,
-            128
-          ]
-        },
-        {
-          "claim": "Republican senators are blocking or delaying some judicial nominees, while Justice Samuel Alito warned that court budget cuts could disrupt operations.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            132,
-            138,
-            139,
-            143,
-            144,
-            145,
-            146
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode centers on alleged failures to protect troops at a Kuwait command post before a deadly drone attack.",
-          "evidence_segment_indices": [
-            37,
-            39,
-            52,
-            57,
-            60,
-            63
-          ],
-          "start_seconds": 78.24,
-          "end_seconds": 143.84
-        },
-        {
-          "point": "It contrasts survivors’ and a whistleblower’s accounts with official descriptions of the site and military defenses.",
-          "evidence_segment_indices": [
-            66,
-            68,
-            70,
-            71,
-            72,
-            77
-          ],
-          "start_seconds": 145.92,
-          "end_seconds": 174.48
-        },
-        {
-          "point": "Parnas portrays Trump’s response as focused on defending his administration and criticizing media coverage.",
-          "evidence_segment_indices": [
-            88,
-            89,
-            96,
-            97,
-            98
-          ],
-          "start_seconds": 198.08,
-          "end_seconds": 225.599
-        },
-        {
-          "point": "The program links the war’s reported regional developments with domestic disputes over courts and White House priorities.",
-          "evidence_segment_indices": [
-            121,
-            123,
-            132,
-            138,
-            145,
-            203,
-            213
-          ],
-          "start_seconds": 268.32,
-          "end_seconds": 446.319
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "55b5190ce1f1fc15ddd30794303788a95c67da312c687f649a28729625225568",
-      "transcript_captured_at": "2026-11-16T17:33:16.048072Z",
-      "summary_generated_at": "2026-11-16T17:38:32.115172Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is a commentary transcript containing allegations, reported quotations, and predictions rather than independently verified documentation.",
-        "Several captions contain transcription errors or unclear names and phrases, including references to officials and military systems.",
-        "The transcript does not provide the underlying whistleblower complaint, investigations, reports, or source links, limiting verification.",
-        "Some later political claims are presented through partial or fragmented captions and may lack surrounding context.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "OjfHvqbeyzM",
-      "title": "The FBI Doesn't Want You To Download This...",
-      "url": "https://www.youtube.com/watch?v=OjfHvqbeyzM",
-      "published_at": "2026-11-15T23:03:21.000000Z",
-      "summary": "Mutahar of SomeOrdinaryGamers argues that AI-assisted penetration-testing frameworks are lowering the effort and time required for cyberattacks. He presents the software as an LLM-driven system that can coordinate reconnaissance, vulnerability discovery, and exploitation, then describes his own tests on authorized training targets using a locally hosted model. In his account, the system completed a cybersecurity war-game level autonomously and obtained access to a deliberately vulnerable test site, though he says he did not attack real people. The episode also attributes warnings and reported campaigns to government and security organizations, including alleged attacks affecting South Korean financial institutions. Mutahar emphasizes that these tools are not perfectly reliable and may be detectable, but says their speed and accessibility could expand the pool of capable attackers. He closes with defensive advice: compartmentalize accounts and identities, strengthen password and authentication practices, limit exposed personal information, and consider self-hosting sensitive systems.",
-      "topics": [
-        "AI-enabled cyberattacks",
-        "Autonomous penetration testing",
-        "Cybersecurity defense",
-        "Open-source hacking tools"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The FBI issued a warning about an autonomous penetration-testing framework described in the episode as Rex or Artex.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            26,
-            27,
-            28,
-            29,
-            30,
-            31
-          ]
-        },
-        {
-          "claim": "A campaign affecting South Korean financial institutions allegedly exfiltrated personal information from about 67,000 people and involved the framework.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            74,
-            75,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83
-          ]
-        },
-        {
-          "claim": "The episode attributes use of the framework against Microsoft 365 environments to Storm-940, described as a China-aligned actor.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            340,
-            341,
-            342,
-            343,
-            344,
-            345,
-            346,
-            347,
-            348,
-            349,
-            350
-          ]
-        },
-        {
-          "claim": "The creator reports that a locally hosted model autonomously gained access to deliberately vulnerable training systems during his demonstration.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            243,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251,
-            252,
-            253,
-            254,
-            255,
-            256,
-            257,
-            258,
-            259
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator frames LLM-powered tooling as automating multiple stages of intrusion and accelerating attack workflows.",
-          "evidence_segment_indices": [
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67
-          ],
-          "start_seconds": 70.96,
-          "end_seconds": 146.72
-        },
-        {
-          "point": "He says his demonstrations used war-game or intentionally vulnerable systems and that he did not hack real people.",
-          "evidence_segment_indices": [
-            117,
-            118,
-            119,
-            120,
-            121,
-            122,
-            123,
-            188,
-            189,
-            190,
-            191,
-            214,
-            215,
-            216,
-            217
-          ],
-          "start_seconds": 250.319,
-          "end_seconds": 461.36
-        },
-        {
-          "point": "He acknowledges limitations, including exhausted budgets, inconsistent behavior, and detectable network activity.",
-          "evidence_segment_indices": [
-            280,
-            281,
-            282,
-            287,
-            288,
-            289,
-            387,
-            388,
-            389,
-            390,
-            391,
-            392,
-            393,
-            394,
-            395,
-            396
-          ],
-          "start_seconds": 597.839,
-          "end_seconds": 864.88
-        },
-        {
-          "point": "His practical recommendations include changing passwords, compartmentalizing accounts, separating authentication channels, and reducing public exposure.",
-          "evidence_segment_indices": [
-            126,
-            127,
-            128,
-            129,
-            130,
-            151,
-            152,
-            153,
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160,
-            161,
-            714,
-            715,
-            716,
-            717,
-            718,
-            719
-          ],
-          "start_seconds": 269.28,
-          "end_seconds": 1584.08
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "f201246fb224bb922425000710033463af3a88d9dc74ed5f0ea0b4d81ceacae8",
-      "transcript_captured_at": "2026-11-16T00:33:13.948877Z",
-      "summary_generated_at": "2026-11-16T00:38:25.733962Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The captions inconsistently render the central tool name as Rex, Artex, or similar variants, so its exact identity is unclear from the transcript alone.",
-        "Several product, model, organization, and actor names appear mistranscribed, including references to AI systems and security groups.",
-        "The overview reflects the creator's narrative and demonstrations only; cited allegations and reported incidents require independent verification.",
-        "The transcript contains profanity, verbal disfluencies, and occasional unclear wording that may affect precise interpretation.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
