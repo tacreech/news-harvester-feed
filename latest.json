@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T17:00:55.122549Z",
+  "generated_at": "2026-11-18T17:30:45.203665Z",
   "reporting_window": {
-    "start": "2026-11-11T17:00:55.122549Z",
-    "end": "2026-11-18T17:00:55.122549Z",
+    "start": "2026-11-11T17:30:45.203665Z",
+    "end": "2026-11-18T17:30:45.203665Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,16 +14,16 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-18T17:00:53.509328Z",
+      "last_successful_poll": "2026-11-18T17:30:43.549977Z",
       "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-18T17:00:53.730712Z",
+      "health": "success_new",
+      "discovery_status": "success_new",
+      "last_successful_poll": "2026-11-18T17:30:44.194600Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-18T17:00:54.112011Z",
+      "last_successful_poll": "2026-11-18T17:30:44.401590Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-18T17:00:54.515289Z",
+      "last_successful_poll": "2026-11-18T17:30:44.686200Z",
       "warnings": []
     },
     {
@@ -50,11 +50,23 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-18T17:00:54.911827Z",
+      "last_successful_poll": "2026-11-18T17:30:45.029869Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "-Sim4iSzlJI",
+      "title": "Millions are skipping work to play GTA. Are you?",
+      "published_at": "2026-11-18T17:01:36.000000Z",
+      "url": "https://www.youtube.com/watch?v=-Sim4iSzlJI",
+      "first_seen": "2026-11-18T17:30:44.194600Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -77,7 +89,7 @@
       "first_seen": "2026-11-18T15:30:14.636052Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "not_queued"
+      "transcript_status": "captions_ready"
     },
     {
       "creator": "Aaron Parnas",
@@ -101,7 +113,7 @@
       "first_seen": "2026-11-18T15:00:13.662167Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "retryable_failure"
+      "transcript_status": "captions_ready"
     },
     {
       "creator": "Aaron Parnas",
