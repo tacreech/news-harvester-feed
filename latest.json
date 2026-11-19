@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T20:00:42.833642Z",
+  "generated_at": "2026-11-19T20:30:42.746021Z",
   "reporting_window": {
-    "start": "2026-11-12T20:00:42.833642Z",
-    "end": "2026-11-19T20:00:42.833642Z",
+    "start": "2026-11-12T20:30:42.746021Z",
+    "end": "2026-11-19T20:30:42.746021Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,7 +14,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-19T20:00:41.537621Z",
+      "last_successful_poll": "2026-11-19T20:30:41.046685Z",
       "warnings": []
     },
     {
@@ -23,7 +23,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-19T20:00:41.798910Z",
+      "last_successful_poll": "2026-11-19T20:30:41.269197Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-19T20:00:42.026069Z",
+      "last_successful_poll": "2026-11-19T20:30:41.478856Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-19T20:00:42.404686Z",
+      "last_successful_poll": "2026-11-19T20:30:42.200000Z",
       "warnings": []
     },
     {
@@ -50,7 +50,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-19T20:00:42.662812Z",
+      "last_successful_poll": "2026-11-19T20:30:42.595311Z",
       "warnings": []
     }
   ],
@@ -77,7 +77,7 @@
       "first_seen": "2026-11-19T18:30:39.351079Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "not_queued"
+      "transcript_status": "captions_ready"
     },
     {
       "creator": "Aaron Parnas",
@@ -2007,30 +2007,6 @@
       "published_at": "2026-11-12T20:55:11.000000Z",
       "url": "https://www.youtube.com/watch?v=VdMPK_pBegM",
       "first_seen": "2026-11-12T21:30:53.504116Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "expired"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "rOsDhzAzctQ",
-      "title": "‘WE ARE BURNT OUT’ - Military Families TEAR into Trump and Hegseth, Demand Accountability!!",
-      "published_at": "2026-11-12T20:30:20.000000Z",
-      "url": "https://www.youtube.com/watch?v=rOsDhzAzctQ",
-      "first_seen": "2026-11-12T21:00:53.602981Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "expired"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "2ZXRNQ1zy8g",
-      "title": "‘SURRENDER NOW’: Iran Drops FINAL WARNING To Trump!! | The Kyle Kulinski Show",
-      "published_at": "2026-11-12T20:05:09.000000Z",
-      "url": "https://www.youtube.com/watch?v=2ZXRNQ1zy8g",
-      "first_seen": "2026-11-12T20:30:13.523087Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "expired"
