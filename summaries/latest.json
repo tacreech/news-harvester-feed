@@ -1,11 +1,247 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T16:12:01.146685Z",
+  "generated_at": "2026-11-19T19:12:01.177399Z",
   "reporting_window": {
-    "start": "2026-11-12T16:12:01.146685Z",
-    "end": "2026-11-19T16:12:01.146685Z"
+    "start": "2026-11-12T19:12:01.177399Z",
+    "end": "2026-11-19T19:12:01.177399Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "mpHFSB5qEEs",
+      "title": "KYLE’S MESSAGE FOR ELON “I’M NOT MAGA” MUSK",
+      "url": "https://www.youtube.com/watch?v=mpHFSB5qEEs",
+      "published_at": "2026-11-19T16:32:35.000000Z",
+      "summary": "Kyle Kulinski argues that Elon Musk’s claim that he is not MAGA is unconvincing and politically motivated. Kulinski tells Musk not to run for office, asserting that investigations and consequences are approaching. He portrays Musk as fearful of Democratic electoral gains and critical scrutiny, while recalling Musk’s earlier “Dark MAGA” self-description, political spending, and public appearances. Kulinski then makes a series of serious allegations: that Musk improperly accessed government systems through DOGE, influenced broad cuts to public agencies and programs, and bears responsibility for deaths allegedly connected to weakened weather services. He also alleges that Musk benefited substantially from government support, spent heavily on politics, and has an immigration history inconsistent with his rhetoric. The episode is highly confrontational and uses insult-heavy language, predictions of prosecution or imprisonment, and repeated claims of direct causation. The transcript alone does not establish the accuracy of these allegations, the identities or events referenced, or whether the captioning accurately preserves every proper name and phrase.",
+      "topics": [
+        "Elon Musk and MAGA identity",
+        "Political accountability and investigations",
+        "DOGE and government cuts",
+        "Government funding and immigration rhetoric"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Musk improperly accessed government systems through DOGE and lacked authority to make the alleged changes.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            92,
+            93,
+            94,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125
+          ]
+        },
+        {
+          "claim": "Cuts attributed to Musk weakened weather services and directly contributed to deaths during flooding in Texas.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107
+          ]
+        },
+        {
+          "claim": "Musk received approximately $38 billion from the U.S. government and spent roughly half a billion dollars on politics across recent election cycles.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            60,
+            61
+          ]
+        },
+        {
+          "claim": "Musk and his brother were illegal immigrants, as allegedly acknowledged in a video by the brother.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski rejects Musk’s statement that he is not MAGA and disputes his presentation as politically moderate.",
+          "evidence_segment_indices": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            143,
+            167,
+            168,
+            169
+          ],
+          "start_seconds": 4.72,
+          "end_seconds": 351.6
+        },
+        {
+          "point": "He urges Musk not to run and predicts investigations, consequences, and possible imprisonment.",
+          "evidence_segment_indices": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            126,
+            127,
+            128,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166
+          ],
+          "start_seconds": 28.32,
+          "end_seconds": 344.479
+        },
+        {
+          "point": "Kulinski links Musk to political spending, “Dark MAGA” imagery, and alleged influence over Texas politics.",
+          "evidence_segment_indices": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+          ],
+          "start_seconds": 42.96,
+          "end_seconds": 100.56
+        },
+        {
+          "point": "The episode attributes numerous agency and staffing cuts to Musk and connects them to alleged public harms.",
+          "evidence_segment_indices": [
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            129
+          ],
+          "start_seconds": 196.159,
+          "end_seconds": 273.36
+        },
+        {
+          "point": "Kulinski argues that Musk’s alleged conduct conflicts with his criticism of welfare recipients and undocumented immigrants.",
+          "evidence_segment_indices": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88
+          ],
+          "start_seconds": 128.479,
+          "end_seconds": 184.08
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "e734bfc57e9df60fee83b51c5b7fd6fc7c9d94250384de38e014d291b1b23a21",
+      "transcript_captured_at": "2026-11-19T19:03:16.258288Z",
+      "summary_generated_at": "2026-11-19T19:08:27.913130Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is caption-derived and contains profanity redactions, malformed words, apparent name errors, and overlapping segments.",
+        "Several references and proper names are ambiguous or difficult to identify from the transcript alone.",
+        "The source provides only Kulinski’s commentary and does not include independent corroboration or responses from Musk.",
+        "Causal claims about government actions, deaths, spending, funding, and immigration status require independent verification.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5225,213 +5461,6 @@
         "The source provides assertions and interview statements but no underlying documents or independent corroboration.",
         "Several outage causes and the relationships among incidents are explicitly unresolved in the episode.",
         "The latter interview consists largely of personal recollections, opinions and policy aspirations rather than independently tested findings.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "ScGwnvh00zw",
-      "title": "Ben Shapiro Finally Admits It | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=ScGwnvh00zw",
-      "published_at": "2026-11-17T21:45:36.000000Z",
-      "summary": "Kyle Kulinski argues that conservative commentators are selectively criticizing the Trump movement after its alleged political setbacks. He presents Ben Shapiro’s comments about financial activity surrounding President Trump as a limited acknowledgment of corruption, while contending that Shapiro avoids broader criticism of war, immigration enforcement, and other policies. Kulinski contrasts this with JD Vance’s alleged focus on war while overlooking corruption and other unpopular issues. The episode then examines Shapiro’s proposal that Republicans regain young male voters by promoting responsibility, marriage, economic mobility, and a paternal style of guidance. Kulinski characterizes that approach as condescending and argues that voters respond instead to material concerns such as prices, wages, unions, healthcare, and working conditions. He concludes that Republicans’ policy record, rather than cultural messaging, has driven disillusionment among some voters. The discussion is primarily argumentative commentary, including strong allegations and predictions that are not independently established by the transcript.",
-      "topics": [
-        "Trump and conservative criticism",
-        "Alleged political corruption",
-        "Young male voters",
-        "Republican messaging",
-        "Economic policy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A congressional report allegedly found that Trump received $160 million from foreign governments during his first term.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            81,
-            82,
-            83,
-            84,
-            85,
-            86
-          ]
-        },
-        {
-          "claim": "Single men allegedly voted Democratic by 57% to 34% in the cited election cycle.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            171,
-            172
-          ]
-        },
-        {
-          "claim": "The episode alleges that Trump administration actions cut pediatric cancer research, removed anti-corruption rules, and raised drug prices.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            276,
-            277,
-            278,
-            279,
-            280,
-            281,
-            282,
-            283,
-            284,
-            285,
-            286,
-            287,
-            288,
-            289,
-            290,
-            291
-          ]
-        },
-        {
-          "claim": "The episode alleges that multiple safety and regulatory personnel were removed and links those changes to crashes and public-health risks.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            389,
-            390,
-            391,
-            392,
-            393,
-            394,
-            395,
-            396,
-            397,
-            398,
-            399
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski interprets Shapiro’s remarks about money around Trump as a partial, politically motivated admission rather than a full critique.",
-          "evidence_segment_indices": [
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            76,
-            77
-          ],
-          "start_seconds": 110.64,
-          "end_seconds": 154.72
-        },
-        {
-          "point": "Kulinski contrasts Shapiro’s alleged emphasis on corruption with Vance’s alleged emphasis on war, arguing both offer selective criticism.",
-          "evidence_segment_indices": [
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            115
-          ],
-          "start_seconds": 191.599,
-          "end_seconds": 238.239
-        },
-        {
-          "point": "Shapiro’s proposed Republican strategy centers on responsibility, marriage, economic mobility, and a paternal role toward young men.",
-          "evidence_segment_indices": [
-            160,
-            161,
-            162,
-            163,
-            190,
-            191,
-            192,
-            301,
-            302,
-            303,
-            304,
-            305,
-            318,
-            319,
-            320,
-            321,
-            322,
-            323,
-            324,
-            325
-          ],
-          "start_seconds": 329.759,
-          "end_seconds": 658.72
-        },
-        {
-          "point": "Kulinski argues that material policy proposals would attract voters more effectively than moralizing or cultural lectures.",
-          "evidence_segment_indices": [
-            255,
-            256,
-            257,
-            258,
-            259,
-            260,
-            261,
-            262,
-            263,
-            309,
-            310,
-            311,
-            312,
-            313,
-            314,
-            315,
-            333,
-            334,
-            335,
-            336,
-            337,
-            338,
-            339,
-            340
-          ],
-          "start_seconds": 509.84,
-          "end_seconds": 696.079
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "d3667b9e5924d372d0f6abc2010413cec52c4b535f6e88b8fb6014686cb1e724",
-      "transcript_captured_at": "2026-11-17T23:33:23.725701Z",
-      "summary_generated_at": "2026-11-17T23:38:50.432170Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains automatic-caption defects, profanity redactions, interruptions, and incomplete phrases.",
-        "Several allegations and numerical references are presented without supporting documentation in the source.",
-        "The overview reflects the creator’s framing and included excerpts; it does not establish the truth of disputed claims.",
-        "Some references to election cycles, policies, and named individuals are ambiguous in the transcript.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
