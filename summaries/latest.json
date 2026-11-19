@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T02:42:01.169270Z",
+  "generated_at": "2026-11-19T03:42:01.190413Z",
   "reporting_window": {
-    "start": "2026-11-12T02:42:01.169270Z",
-    "end": "2026-11-19T02:42:01.169270Z"
+    "start": "2026-11-12T03:42:01.190413Z",
+    "end": "2026-11-19T03:42:01.190413Z"
   },
   "episodes": [
     {
@@ -455,6 +455,195 @@
         "The cited expert says injury patterns and the circumstances of the hanging remain partly unknowable because key evidence is missing.",
         "Caption defects include profanity redactions, misrecognized names, and transcription errors that may obscure precise wording.",
         "The transcript does not independently establish the allegations concerning homicide, political involvement, or Donald Trump.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "wJ6656q_BuA",
+      "title": "This Country Keeps Tracking My Location...",
+      "url": "https://www.youtube.com/watch?v=wJ6656q_BuA",
+      "published_at": "2026-11-19T00:57:36.000000Z",
+      "summary": "Mutahar argues that a Tim Hortons app may collect and share unusually extensive device and location-related data through a third-party fraud-prevention service, raising concerns about consent and cross-border privacy. He discusses reported findings that the app and related web components can gather browser and device fingerprints, IP and network information, location data, and nearby Wi-Fi details. He connects the service, identified in the episode as Fored, to Israel and to individuals associated with Unit 8200, while explicitly rejecting conspiratorial conclusions and acknowledging the company’s stated fraud-prevention purpose. Mutahar also presents Fored’s transparency position that it received no listed government data requests or disclosed data during the period it cites. His broader argument is that information collected for routine purchases could support persistent identity and movement profiles, and that consumers should have stronger control over where such data goes. The episode relies on reported investigations, company materials, and the creator’s interpretation; the transcript alone does not independently establish the allegations.",
+      "topics": [
+        "Mobile privacy and tracking",
+        "Tim Hortons app data collection",
+        "Third-party fraud prevention",
+        "Cross-border data sharing",
+        "Digital identity profiling"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A CBC investigation reportedly found that the Tim Hortons app sent data to third parties and collected location-related information.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            85,
+            86,
+            87,
+            88,
+            95,
+            96,
+            97
+          ]
+        },
+        {
+          "claim": "The episode identifies Fored as the third-party service involved and links its origins or founders to Israel and Unit 8200.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            124,
+            125,
+            134,
+            135,
+            136,
+            137,
+            162,
+            163,
+            164,
+            195,
+            196,
+            197
+          ]
+        },
+        {
+          "claim": "The discussed SDK or scripts may collect device fingerprints, IP or network information, location data, and nearby Wi-Fi details.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            232,
+            233,
+            234,
+            235,
+            248,
+            250,
+            251,
+            253,
+            254,
+            268,
+            271,
+            272,
+            274,
+            276,
+            277
+          ]
+        },
+        {
+          "claim": "Fored’s transparency report states that it received no listed government requests and disclosed no data during the period cited.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            374,
+            376,
+            381,
+            382,
+            383,
+            384,
+            386,
+            387,
+            388,
+            390,
+            391,
+            392
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Mutahar frames the episode as a privacy and consent concern, especially when data crosses national borders.",
+          "evidence_segment_indices": [
+            43,
+            44,
+            45,
+            46,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209
+          ],
+          "start_seconds": 96.799,
+          "end_seconds": 456.0
+        },
+        {
+          "point": "The episode describes browser fingerprinting and network signals as potentially usable for identifying devices or inferring movement patterns.",
+          "evidence_segment_indices": [
+            232,
+            233,
+            234,
+            235,
+            248,
+            250,
+            251,
+            282,
+            283,
+            284,
+            297,
+            304,
+            305,
+            306,
+            307,
+            308
+          ],
+          "start_seconds": 499.44,
+          "end_seconds": 662.88
+        },
+        {
+          "point": "Mutahar presents Fored’s stated position that it provides fraud and abuse detection and reports no disclosed government-requested data.",
+          "evidence_segment_indices": [
+            374,
+            375,
+            376,
+            377,
+            378,
+            379,
+            380,
+            381,
+            384,
+            386,
+            387,
+            388,
+            400,
+            401
+          ],
+          "start_seconds": 805.839,
+          "end_seconds": 871.839
+        },
+        {
+          "point": "He says he is not asserting that Fored is a covert Unit 8200 operation and attempts to separate documented concerns from conspiracy claims.",
+          "evidence_segment_indices": [
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            461,
+            462,
+            463,
+            464,
+            465,
+            466,
+            467
+          ],
+          "start_seconds": 308.08,
+          "end_seconds": 1007.199
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "ca6556bdf879b04cd04da6306911b8ff842bacfceae10b6d41501c95c1c888c9",
+      "transcript_captured_at": "2026-11-19T03:33:15.705839Z",
+      "summary_generated_at": "2026-11-19T03:38:27.627034Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains automatic-caption errors and uncertain company-name spellings, including variants of Fored or Forer.",
+        "Several technical and organizational claims are attributed to investigations, articles, documentation, or the creator’s analysis rather than independently established by the transcript.",
+        "The source provides only the creator’s presentation and selected company statements; underlying reports, code, contracts, and legal findings are not included.",
+        "Some statements about data collection describe possible capabilities or inferred uses rather than confirmed activity in every instance.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -5329,143 +5518,6 @@
         "Several allegations are presented through commentary or quoted reports without supporting documents or independent corroboration in the source.",
         "The proposed Iranian cyber explanation is explicitly identified by Kulinski as speculation.",
         "The source excerpt provides limited context for the reported outages, investigations, and military allegations.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "QJXLM8eoXwU",
-      "title": "BREAKING: US UNDER MASSIVE AI CYBER ATTACK!!",
-      "url": "https://www.youtube.com/watch?v=QJXLM8eoXwU",
-      "published_at": "2026-11-17T19:34:28.000000Z",
-      "summary": "Kyle Kulinski argues that a reported wave of outages and cyber incidents reflects an emerging AI-enabled threat and may be connected to tensions involving Iran. He says the NSA attributed its network disruption to routine patching, while other services and organizations—including Equinor, Google-related platforms, banks, airlines, and the National Weather Service—were reportedly affected. Kulinski interprets references to cybercriminals and state-aligned hackers, along with alleged preparations for possible U.S. and Israeli action against Iran, as evidence that Iran may be responsible and that the incidents constitute a warning. He presents AI-assisted cyber capabilities as equivalent to “cyber nuclear weapons,” condemns technology executives and the Trump administration, and calls for officials to resign and for the United States and Israel to withdraw from the Middle East. The excerpt provides no independent documentation, technical analysis, or corroboration, so its incident list, attribution, scale, and geopolitical interpretation remain source-only claims.",
-      "topics": [
-        "Cybersecurity incidents",
-        "AI-enabled attacks",
-        "Iran-U.S. tensions",
-        "Critical infrastructure",
-        "Technology regulation"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The NSA’s internal network outage, reported service disruptions, and attacks affecting numerous organizations occurred as described.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            8,
-            13,
-            16,
-            28,
-            33,
-            44,
-            50
-          ]
-        },
-        {
-          "claim": "Cybercriminals and state-aligned hackers used the named Rex framework to automate attacks worldwide.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            53,
-            56,
-            60
-          ]
-        },
-        {
-          "claim": "Iran was responsible for the reported cyber incidents or intended them as a warning against U.S. and Israeli action.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            63,
-            69,
-            90,
-            103,
-            191,
-            196
-          ]
-        },
-        {
-          "claim": "AI capabilities enabled attacks capable of broadly disrupting civilizational or critical systems.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            104,
-            118,
-            135,
-            144,
-            196,
-            198
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski describes a rapidly expanding series of reported outages and cyberattacks.",
-          "evidence_segment_indices": [
-            26,
-            30,
-            33,
-            44,
-            49
-          ],
-          "start_seconds": 56.879,
-          "end_seconds": 119.92
-        },
-        {
-          "point": "He contrasts the NSA’s routine-patching explanation with his interpretation of a cyberattack.",
-          "evidence_segment_indices": [
-            13,
-            16,
-            20,
-            25
-          ],
-          "start_seconds": 27.599,
-          "end_seconds": 60.16
-        },
-        {
-          "point": "He infers Iranian involvement from the alleged attacks and regional military tensions.",
-          "evidence_segment_indices": [
-            63,
-            69,
-            80,
-            90
-          ],
-          "start_seconds": 150.48,
-          "end_seconds": 208.879
-        },
-        {
-          "point": "He argues that AI-enabled cyber tools require stronger restraint and accountability.",
-          "evidence_segment_indices": [
-            112,
-            119,
-            132,
-            137
-          ],
-          "start_seconds": 253.2,
-          "end_seconds": 308.08
-        },
-        {
-          "point": "He warns that further escalation could affect internet access and power systems.",
-          "evidence_segment_indices": [
-            191,
-            202,
-            204
-          ],
-          "start_seconds": 407.039,
-          "end_seconds": 437.44
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "54b44fcdd4bbe9bfa1d05dc958a5d613cf61d3be220c232e2aba1ebb00b6e4ba",
-      "transcript_captured_at": "2026-11-17T21:33:14.762022Z",
-      "summary_generated_at": "2026-11-17T21:38:22.934838Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is an automatically produced caption record with profanity redactions and possible transcription errors.",
-        "The excerpt does not identify sources, dates, technical indicators, or independent corroboration for the reported incidents.",
-        "Attribution to Iran, the scale of the incidents, and claims about AI’s role are Kulinski’s interpretations rather than established findings in the source.",
-        "The segment provides only the creator’s account and commentary, with no responses from implicated organizations or officials.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
