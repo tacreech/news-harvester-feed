@@ -1,11 +1,932 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T19:12:01.177399Z",
+  "generated_at": "2026-11-19T22:42:01.138482Z",
   "reporting_window": {
-    "start": "2026-11-12T19:12:01.177399Z",
-    "end": "2026-11-19T19:12:01.177399Z"
+    "start": "2026-11-12T22:42:01.138482Z",
+    "end": "2026-11-19T22:42:01.138482Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "MF8nZD-HScw",
+      "title": "RIGHT-WING TWITTER ACCOUNTS OUTTED AS PAID PSYOP | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=MF8nZD-HScw",
+      "published_at": "2026-11-19T22:15:39.000000Z",
+      "summary": "Kyle Kulinski argues that a reported influencer-marketing investigation indicates some right-wing online creators may have promoted Nvidia chip sales to China through coordinated, paid campaigns. He cites the Midas Project’s account of posts appearing after US approval of H200 sales, allegedly using similar language and links tracked through mycreator.studio to Urban Legend. Kulinski says the investigation identified thousands of posts across roughly 1,400 campaigns, spanning AI policy, chip exports, crypto, healthcare, energy, immigration, and other topics. He also discusses alleged connections involving prominent influencers, political figures, and AI-related advocacy groups, while arguing that undisclosed sponsorships undermine audience trust. The episode broadens from the specific Nvidia example into Kulinski’s sweeping criticism that much of right-wing Twitter consists of bots or paid promoters. The supplied transcript presents Kulinski’s commentary and summaries of an external investigation, but does not independently establish the investigation’s methods, the alleged payments, or the full scope of the claims.",
+      "topics": [
+        "Influencer campaigns",
+        "Nvidia chip exports",
+        "Political advertising disclosure",
+        "Online media trust"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The Midas Project reported a covert campaign using right-wing creators to promote Nvidia chip sales to China, with posts allegedly appearing after US approval of H200 sales and sometimes using similar language.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            9,
+            10,
+            11,
+            12,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56
+          ]
+        },
+        {
+          "claim": "Campaign links were allegedly tracked through mycreator.studio and connected to Urban Legend, which the discussion says had run more than 1,300 campaigns.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81
+          ]
+        },
+        {
+          "claim": "The investigation allegedly identified more than 10,000 posts across approximately 1,400 campaigns covering multiple policy areas.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133
+          ]
+        },
+        {
+          "claim": "The discussion alleges that some influencers and public figures participated in paid campaigns and that some sponsorships were not disclosed.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            91,
+            92,
+            93,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            282,
+            283,
+            284
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode centers on a reported investigation into coordinated influencer promotion of Nvidia chip exports to China.",
+          "evidence_segment_indices": [
+            9,
+            10,
+            11,
+            12,
+            19,
+            20,
+            21,
+            22
+          ],
+          "start_seconds": 17.92,
+          "end_seconds": 52.48
+        },
+        {
+          "point": "Kulinski highlights repeated wording, tracked links, and alleged campaign-firm connections as indicators of coordination.",
+          "evidence_segment_indices": [
+            47,
+            48,
+            49,
+            50,
+            51,
+            55,
+            56,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "start_seconds": 105.759,
+          "end_seconds": 173.92
+        },
+        {
+          "point": "He says the alleged campaign network extends beyond AI and chips into crypto, healthcare, energy, immigration, and other issues.",
+          "evidence_segment_indices": [
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            232,
+            233,
+            234,
+            235,
+            236
+          ],
+          "start_seconds": 276.639,
+          "end_seconds": 490.24
+        },
+        {
+          "point": "Kulinski frames paid or undisclosed promotion as a threat to the trust between political creators and their audiences.",
+          "evidence_segment_indices": [
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            191,
+            192,
+            193
+          ],
+          "start_seconds": 355.84,
+          "end_seconds": 406.56
+        },
+        {
+          "point": "He generalizes from the cited examples to a broad critique of right-wing online media, describing much of it as paid or automated.",
+          "evidence_segment_indices": [
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            239,
+            240,
+            241,
+            242
+          ],
+          "start_seconds": 295.68,
+          "end_seconds": 500.8
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "c418216740b4b7c2dc1ba2bad8cd3bfbe9a9cefeb4a2e5ed562e39cd8fb01ab6",
+      "transcript_captured_at": "2026-11-19T22:33:38.146900Z",
+      "summary_generated_at": "2026-11-19T22:39:38.961279Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is commentary summarizing an external investigation; the underlying report, data, and methodology are not included.",
+        "Several claims are presented as allegations or interpretations, including payment, coordination, disclosure violations, and the scope of participation.",
+        "Caption defects include redactions, misrecognitions, profanity, and ambiguous names or phrases, which may affect precise attribution.",
+        "Kulinski’s broader claims about the entire right-wing media ecosystem go beyond the specific evidence described in the supplied transcript.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "MWOsAJyjC5o",
+      "title": "MAGA Is Evolving (Getting Dumber & More Evil) | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=MWOsAJyjC5o",
+      "published_at": "2026-11-19T21:45:26.000000Z",
+      "summary": "Kyle Kulinski argues that the Republican Party is unlikely to moderate after Donald Trump and predicts that Christian nationalism will become more influential in the post-Trump right. He characterizes this projected movement as increasingly religious, exclusionary, and hostile toward minority groups, and contrasts it with a progressive agenda focused on policy changes such as universal healthcare. Kulinski discusses a conference involving Nick Fuentes and presents remarks attributed to a speaker about Christianity, TPUSA, and organizing young right-wing men. He interprets those remarks as evidence of a harder ideological turn and alleges that some activists are seeking to reverse gains involving women, racial minorities, immigrants, and LGBTQ people. He also disputes the characterization of Charlie Kirk as a moderate and predicts continued political escalation rather than moderation. The episode is primarily commentary and includes strongly worded assessments, predictions, and allegations; the transcript provides limited context for the referenced conference, speakers, and policy claims.",
+      "topics": [
+        "Republican Party succession",
+        "Christian nationalism",
+        "Right-wing conferences",
+        "Political polarization"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The referenced conference had approximately 1,300 attendees and organizers expected attendance to double in 2027.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            145,
+            146,
+            147,
+            148,
+            149
+          ]
+        },
+        {
+          "claim": "TPUSA was declining or falling apart after Charlie Kirk's departure and was expected to be replaced by another organization or event network.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            67,
+            68,
+            69,
+            70,
+            72,
+            73,
+            154,
+            155,
+            156,
+            157
+          ]
+        },
+        {
+          "claim": "Up to 742 hospitals were closing because of a referenced bill, alongside reported healthcare losses.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            131,
+            132,
+            133,
+            134,
+            135
+          ]
+        },
+        {
+          "claim": "A referenced speaker advocated restricting women's voting rights and pursuing other regressive gender and racial policies.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            223,
+            224,
+            225,
+            226,
+            227
+          ]
+        },
+        {
+          "claim": "Trump promoted Steven Miller to chief of staff after what Kulinski describes as a defeat.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            319,
+            320,
+            321,
+            322,
+            323,
+            324,
+            325,
+            326
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski predicts only a very small chance that Republicans will moderate after Trump.",
+          "evidence_segment_indices": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "start_seconds": 44.239,
+          "end_seconds": 63.28
+        },
+        {
+          "point": "He argues that Christian nationalism may replace Trumpism as the dominant post-Trump direction.",
+          "evidence_segment_indices": [
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            312,
+            313
+          ],
+          "start_seconds": 57.44,
+          "end_seconds": 641.6
+        },
+        {
+          "point": "The episode analyzes remarks associated with Nick Fuentes and a conference organizer as examples of the projected ideological shift.",
+          "evidence_segment_indices": [
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58
+          ],
+          "start_seconds": 98.799,
+          "end_seconds": 133.36
+        },
+        {
+          "point": "Kulinski frames scapegoating minorities as a distraction from economic problems and identifies billionaires as the more consequential target.",
+          "evidence_segment_indices": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            138,
+            139
+          ],
+          "start_seconds": 80.0,
+          "end_seconds": 305.759
+        },
+        {
+          "point": "He contrasts the right's alleged backward-looking agenda with a left-wing emphasis on repairing healthcare and other institutions.",
+          "evidence_segment_indices": [
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278,
+            279,
+            280,
+            281,
+            282,
+            283,
+            284
+          ],
+          "start_seconds": 560.48,
+          "end_seconds": 586.8
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "451f5116a8cb5bb4ceba47b8547a4b183dc84d624354fbb26f90f97c1694e31d",
+      "transcript_captured_at": "2026-11-19T22:33:28.613668Z",
+      "summary_generated_at": "2026-11-19T22:39:16.285771Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains profanity masking and apparent caption errors, including unclear names and terms.",
+        "The referenced clips and conference remarks are presented through Kulinski's commentary, without full surrounding context.",
+        "Predictions about the Republican Party's future are opinions rather than established outcomes.",
+        "Several factual assertions, including attendance, hospital closures, and political actions, require independent verification.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "EcseeBuPAZ0",
+      "title": "BREAKING: PENTAGON ‘MISSING’ $2 TRILLION, FAILS 9TH AUDIT STRAIGHT | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=EcseeBuPAZ0",
+      "published_at": "2026-11-19T21:15:10.000000Z",
+      "summary": "Kyle Kulinski argues that repeated Pentagon audit failures and proposed increases in military spending expose severe accountability problems. Citing Responsible Statecraft, Ben Freeman, and a quoted Government Accountability Office warning, he says the Pentagon has never passed a full financial audit, has roughly $2 trillion outside clean audit coverage, and may receive $1.5 trillion next year. Kulinski contrasts these figures with unmet domestic priorities such as healthcare, education, infrastructure, and debt relief. He further alleges that defense contractors benefit from no-bid contracts, executive compensation, and stock buybacks while producing costly or ineffective equipment. The episode frames weak financial controls as both a fiscal and national-security issue, linking them to alleged readiness problems and reported use of expired munitions. Kulinski concludes that military spending should be reduced and accountability imposed. The transcript presents these figures and allegations through commentary and quoted sources; it does not independently establish their accuracy or provide detailed audit documentation.",
+      "topics": [
+        "Pentagon audits and financial accountability",
+        "Military spending and proposed budget increases",
+        "Defense contractors and procurement",
+        "Military readiness and munitions",
+        "Domestic spending priorities"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The Pentagon failed its ninth consecutive audit and has roughly $2 trillion outside clean audit coverage.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            12,
+            13,
+            63,
+            64,
+            65,
+            66,
+            67,
+            95,
+            96,
+            97,
+            98
+          ]
+        },
+        {
+          "claim": "The Pentagon budget exceeded $1 trillion and a $1.5 trillion budget is proposed for the following year.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            15,
+            16,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181
+          ]
+        },
+        {
+          "claim": "More than half of Pentagon spending goes to private contractors, including spending on stock buybacks and executive compensation.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            99,
+            100,
+            101,
+            102,
+            103,
+            104
+          ]
+        },
+        {
+          "claim": "The Navy used expired munitions during Operation Epic Fury after recoding them for use.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278,
+            279,
+            280,
+            281,
+            282,
+            283,
+            284
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski presents audit failures and proposed spending increases as evidence of inadequate Pentagon accountability.",
+          "evidence_segment_indices": [
+            11,
+            12,
+            13,
+            15,
+            16,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "start_seconds": 22.4,
+          "end_seconds": 82.08
+        },
+        {
+          "point": "He argues that military spending competes with healthcare, education, infrastructure, and other domestic priorities.",
+          "evidence_segment_indices": [
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            191,
+            192,
+            193,
+            244,
+            245,
+            246,
+            252
+          ],
+          "start_seconds": 85.92,
+          "end_seconds": 504.96
+        },
+        {
+          "point": "He alleges that defense contracting rewards companies and executives despite questionable performance or unnecessary products.",
+          "evidence_segment_indices": [
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141
+          ],
+          "start_seconds": 203.2,
+          "end_seconds": 294.639
+        },
+        {
+          "point": "The episode characterizes financial management as a national-security concern, citing claimed readiness and munitions problems.",
+          "evidence_segment_indices": [
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            217,
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278,
+            279,
+            280
+          ],
+          "start_seconds": 398.24,
+          "end_seconds": 564.88
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "6f31bbfc1ec63c2062939521fe9a4d3a3b6ae82534024d0865ee9aed6d5d7e9e",
+      "transcript_captured_at": "2026-11-19T22:33:20.825734Z",
+      "summary_generated_at": "2026-11-19T22:38:55.187489Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is commentary and quoted material rather than primary audit or budget documentation.",
+        "Several numerical and historical claims are attributed to cited sources but are not independently substantiated in the episode.",
+        "Automatic captions contain profanity redactions, apparent transcription errors, and ambiguous wording, including some names and equipment references.",
+        "Claims about current conflicts, military performance, contractor conduct, and alleged illegality require independent verification.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "yFfuFQwOUTk",
+      "title": "Dems Unveil MASTER PLAN After Blue Tsunami | The Kyle Kulinski Show Playlist",
+      "url": "https://www.youtube.com/watch?v=yFfuFQwOUTk",
+      "published_at": "2026-11-19T20:45:14.000000Z",
+      "summary": "Kyle Kulinski presents what he characterizes as a Democratic “master plan” following projected gains in Congress and several states. He says Democrats should combine investigations and accountability efforts against Trump-aligned officials with visible policy proposals, including a higher minimum wage, paid leave, higher taxes on wealthy people, and expanded Medicare and child coverage. Kulinski also highlights reported plans to reverse Medicaid cuts, restore Affordable Care Act subsidies, and pursue Medicaid expansion in states such as Georgia, Texas, Wisconsin, and Kansas. He argues that state-level Democratic control could enable labor, healthcare, reproductive-rights, and technology policies, while warning that federal funding restrictions and work requirements could make Medicaid expansion difficult. The episode additionally previews claims about Pentagon finances, tariff refunds benefiting corporate bonuses, and increasing extremism on the political right, though the supplied transcript does not develop those topics. The discussion is strongly opinionated, and several factual claims are presented without supporting documentation in the transcript.",
+      "topics": [
+        "Democratic strategy",
+        "Healthcare and Medicaid",
+        "Political accountability",
+        "State policy",
+        "Tariffs and Pentagon finances"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The Pentagon lost $2 trillion and failed its ninth consecutive audit.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "claim": "Tariff refunds are being directed to corporate bonuses rather than consumer rebates.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+          ]
+        },
+        {
+          "claim": "A proposed Medicare expansion would lower eligibility, add dental, vision, and hearing benefits, and guarantee coverage for every child.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259
+          ]
+        },
+        {
+          "claim": "Recent federal budget changes removed Medicaid expansion incentives, imposed work requirements, and restricted funding for expansion states.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            378,
+            379,
+            380,
+            381,
+            382,
+            383,
+            384,
+            385,
+            386,
+            387,
+            388,
+            389,
+            390,
+            391,
+            392,
+            393,
+            394,
+            395
+          ]
+        },
+        {
+          "claim": "Medicaid expansion in Georgia, Kansas, Texas, and Wisconsin could collectively cover more than one million people.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            362,
+            363,
+            364,
+            365,
+            366,
+            367,
+            368,
+            369,
+            370,
+            371,
+            372
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames accountability investigations and prosecution of alleged wrongdoing as the first component of the Democratic strategy.",
+          "evidence_segment_indices": [
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203
+          ],
+          "start_seconds": 164.959,
+          "end_seconds": 417.039
+        },
+        {
+          "point": "He advocates passing popular economic and social legislation, then publicly highlighting presidential vetoes if they occur.",
+          "evidence_segment_indices": [
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169
+          ],
+          "start_seconds": 304.479,
+          "end_seconds": 347.52
+        },
+        {
+          "point": "The episode describes proposed healthcare changes at both federal and state levels.",
+          "evidence_segment_indices": [
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            280,
+            281,
+            290,
+            291,
+            292,
+            293,
+            294,
+            295,
+            296,
+            297,
+            306,
+            307,
+            308,
+            309,
+            317,
+            318,
+            327,
+            328
+          ],
+          "start_seconds": 506.879,
+          "end_seconds": 674.64
+        },
+        {
+          "point": "Kulinski cautions that Medicaid expansion may face substantial political and fiscal barriers despite Democratic electoral gains.",
+          "evidence_segment_indices": [
+            337,
+            338,
+            339,
+            341,
+            342,
+            343,
+            374,
+            375,
+            376,
+            377,
+            378,
+            379,
+            380,
+            381,
+            382,
+            383,
+            444,
+            445,
+            446,
+            447,
+            448,
+            453,
+            454,
+            455
+          ],
+          "start_seconds": 690.399,
+          "end_seconds": 907.68
+        },
+        {
+          "point": "The episode closes by balancing optimism about immediate actions with a warning that some reforms will require patience.",
+          "evidence_segment_indices": [
+            502,
+            503,
+            504,
+            505,
+            506,
+            507,
+            508,
+            509,
+            519,
+            520,
+            521,
+            522,
+            523,
+            524
+          ],
+          "start_seconds": 1000.399,
+          "end_seconds": 1046.959
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "fde385c11aea236ec3549c727cf4dc9b664eab3f006812c72193fe23599d361f",
+      "transcript_captured_at": "2026-11-19T22:33:14.986904Z",
+      "summary_generated_at": "2026-11-19T22:38:33.686807Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a single source and does not provide documents, links, or corroborating evidence for its factual claims.",
+        "Several captions contain profanity masking, transcription errors, or unclear names and phrases.",
+        "The opening preview mentions additional topics that receive little or no substantive discussion in the supplied segments.",
+        "Political characterizations and allegations are attributed to Kulinski and should not be treated as independently established facts.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4581,886 +5502,6 @@
         "Several numerical and electoral assertions are presented without supporting source material in the transcript.",
         "The speakers’ characterizations of candidates, media coverage, racism, and political factions are opinions or allegations rather than independently established findings.",
         "The source covers one political commentary episode and does not provide opposing analyses or underlying datasets.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "RB_8RGZ1et0",
-      "title": "The Internet Is Falling Apart Right Now...",
-      "url": "https://www.youtube.com/watch?v=RB_8RGZ1et0",
-      "published_at": "2026-11-17T22:52:55.000000Z",
-      "summary": "The creator argues that a cluster of recent outages and security incidents can make the internet feel apocalyptic, while cautioning that several events may reflect maintenance or configuration problems rather than coordinated attacks. He discusses an alleged Optimizely breach in which malicious JavaScript was reportedly inserted into customer projects, potentially affecting websites that loaded the company’s testing tools; he says reported impacts included credential, cookie, screenshot, cryptocurrency, and payment-data theft, though the transcript does not independently establish the scope or losses. He also describes an NSA internal-network outage, noting that the agency reportedly attributed it to routine maintenance and that mission-critical systems remained available. The creator connects these events to his broader concern that AI-assisted or autonomous cyber operations could increase attack speed and scale. He presents Google’s alleged staged model of agentic cyber activity and predicts worsening risks, but acknowledges uncertainty. The episode ends by urging caution, updated devices, password changes, credit monitoring, and skepticism toward unverified outage reports.",
-      "topics": [
-        "Cybersecurity incidents",
-        "Optimizely breach allegations",
-        "AI-assisted cyber operations",
-        "Infrastructure outages"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "An unauthorized party exploited an Optimizely vulnerability to insert malicious JavaScript into customer projects and affect many organizations.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            193,
-            194,
-            195,
-            196,
-            197,
-            220,
-            221,
-            234,
-            235,
-            236,
-            237
-          ]
-        },
-        {
-          "claim": "The alleged campaign could steal cryptocurrency, payment data, cookies, screenshots, and other information from visitors.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            248,
-            249,
-            251,
-            252,
-            253,
-            254,
-            255,
-            256,
-            257,
-            303,
-            304,
-            305,
-            306,
-            307,
-            308,
-            309,
-            310,
-            311
-          ]
-        },
-        {
-          "claim": "The NSA internal-network outage was caused by routine maintenance, with mission-critical systems unaffected and service restored.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            111,
-            112,
-            115,
-            116,
-            117,
-            118,
-            119
-          ]
-        },
-        {
-          "claim": "Google assesses agentic cyber activity as progressing through stages toward largely autonomous attacks on the creator’s stated timeline.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            478,
-            479,
-            480,
-            481,
-            482,
-            483,
-            484,
-            493,
-            494,
-            495,
-            500,
-            501,
-            502,
-            503,
-            504,
-            505,
-            506,
-            507
-          ]
-        },
-        {
-          "claim": "An energy company was targeted in a cyberattack, while other reported outages were attributed to malfunctions, upgrades, or maintenance.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            565,
-            566,
-            567,
-            568,
-            569,
-            570,
-            571,
-            572,
-            573,
-            575,
-            576,
-            577,
-            578,
-            579,
-            580,
-            585,
-            586,
-            587,
-            588
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator distinguishes confirmed or reported incidents from speculation about a broader coordinated cyberattack.",
-          "evidence_segment_indices": [
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            141
-          ],
-          "start_seconds": 40.559,
-          "end_seconds": 322.0
-        },
-        {
-          "point": "He explains the alleged Optimizely incident as a supply-chain-style compromise affecting third-party website code.",
-          "evidence_segment_indices": [
-            157,
-            158,
-            159,
-            160,
-            161,
-            162,
-            193,
-            194,
-            195,
-            196,
-            197,
-            235,
-            236,
-            237,
-            248,
-            249,
-            250,
-            251,
-            252,
-            253,
-            254,
-            255,
-            256,
-            257
-          ],
-          "start_seconds": 352.479,
-          "end_seconds": 586.56
-        },
-        {
-          "point": "He warns that outdated devices may face greater exposure, while presenting updates and defensive precautions as practical responses.",
-          "evidence_segment_indices": [
-            380,
-            381,
-            382,
-            383,
-            384,
-            385,
-            386,
-            387,
-            388,
-            389,
-            390,
-            391,
-            392,
-            393,
-            394,
-            395,
-            396,
-            397,
-            416,
-            417,
-            418,
-            419,
-            420,
-            453
-          ],
-          "start_seconds": 849.44,
-          "end_seconds": 1023.199
-        },
-        {
-          "point": "The episode links expanding AI use with the creator’s concern about faster, more scalable cyberattacks.",
-          "evidence_segment_indices": [
-            461,
-            462,
-            467,
-            468,
-            469,
-            470,
-            471,
-            472,
-            473,
-            478,
-            479,
-            488,
-            489,
-            490,
-            491,
-            492,
-            493,
-            494,
-            503,
-            504,
-            505,
-            506,
-            507,
-            514
-          ],
-          "start_seconds": 1036.959,
-          "end_seconds": 1160.88
-        },
-        {
-          "point": "The creator says multiple outage reports remain unverified and should be treated cautiously until corroborated.",
-          "evidence_segment_indices": [
-            552,
-            553,
-            554,
-            555,
-            556,
-            557,
-            558,
-            559,
-            560,
-            561,
-            585,
-            586,
-            587,
-            588,
-            589,
-            590,
-            591
-          ],
-          "start_seconds": 1240.799,
-          "end_seconds": 1332.4
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "d6495f005eed1045af669d48f3e6799bb94046570cf481e6e98483557f6b28ef",
-      "transcript_captured_at": "2026-11-18T00:03:15.688286Z",
-      "summary_generated_at": "2026-11-18T00:08:32.191091Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is an automatic captioning output with apparent word substitutions, omissions, and garbled phrases.",
-        "Several technical names, figures, device versions, and incident details are difficult to interpret from the captions alone.",
-        "The episode relies on the creator’s account and referenced reports; the source material does not independently verify the allegations.",
-        "The creator explicitly says some outage reports are unverified and that the Optimizely incident’s full report was still pending.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "mxcwtKYvcQ0",
-      "title": "Abdul Tells The Truth About Trump You Have To See To Believe | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=mxcwtKYvcQ0",
-      "published_at": "2026-11-17T22:45:25.000000Z",
-      "summary": "Kyle Kulinski presents Abdul Elsed as a model for confronting President Trump and Republicans through direct criticism rather than flattery. In the featured remarks, Elsed argues that Trump is a bully who backs down when challenged and says political leaders should accept “righteous risks” on behalf of constituents. Kulinski endorses this approach, criticizing Democratic appeals to civility and describing the Republican Party in highly negative terms. The discussion then turns to healthcare, war, tariffs, and leadership. Elsed argues that Medicaid cuts could worsen insurance costs and threaten rural hospitals, opposes the war in Iran and tariff policy, and praises Senator Chris Van Hollen’s willingness to act. Kulinski repeats additional estimates about hospital closures and healthcare losses, while also speculating about Trump’s motives and alleged financial benefits from tariff exemptions. The episode concludes with support for Van Hollen over Chuck Schumer and Kulinski’s hope that Van Hollen will seek higher office. These are commentary and interview claims; the transcript alone does not establish their factual accuracy.",
-      "topics": [
-        "Political strategy and criticism",
-        "Trump and Republican leadership",
-        "Healthcare and Medicaid",
-        "War and tariffs",
-        "Chris Van Hollen"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Medicaid cuts could cause up to 742 rural hospitals to close and cause 15–18 million Americans to lose healthcare, as stated in the episode.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            281,
-            282,
-            283,
-            284,
-            285,
-            286
-          ]
-        },
-        {
-          "claim": "The episode claims that the war in Iran caused specified deaths, injuries, and increased gas and grocery prices.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224
-          ]
-        },
-        {
-          "claim": "Kulinski speculates that Trump may personally profit from tariff exemptions and related rebates.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            328,
-            329,
-            330,
-            331,
-            335,
-            336,
-            337,
-            339,
-            340,
-            341,
-            342,
-            343,
-            344,
-            345,
-            346,
-            347,
-            348,
-            349,
-            350,
-            351,
-            352,
-            353,
-            354,
-            355
-          ]
-        },
-        {
-          "claim": "The episode asserts that tariff rebates went to companies after consumers paid tariff costs and that Howard Lutnick profited from an invested company.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            353,
-            354,
-            355,
-            356,
-            357,
-            358,
-            359,
-            360,
-            361,
-            362,
-            363,
-            364,
-            365,
-            366,
-            367,
-            368,
-            369
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Elsed argues that confronting a bully directly is more effective than flattering Trump.",
-          "evidence_segment_indices": [
-            18,
-            19,
-            25,
-            26,
-            40,
-            41,
-            42,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57
-          ],
-          "start_seconds": 41.12,
-          "end_seconds": 108.079
-        },
-        {
-          "point": "Kulinski endorses aggressive opposition and rejects a return to earlier Democratic norms of political civility.",
-          "evidence_segment_indices": [
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            198,
-            199,
-            200,
-            201,
-            202,
-            203
-          ],
-          "start_seconds": 330.32,
-          "end_seconds": 401.44
-        },
-        {
-          "point": "Elsed links leadership to constituent advocacy, affordability, healthcare access, and opposition to war and tariffs.",
-          "evidence_segment_indices": [
-            245,
-            246,
-            250,
-            251,
-            252,
-            255,
-            256,
-            257,
-            260,
-            261,
-            262,
-            263,
-            264,
-            265,
-            266,
-            267,
-            268,
-            269,
-            270,
-            271,
-            272,
-            273,
-            274,
-            275
-          ],
-          "start_seconds": 493.039,
-          "end_seconds": 548.64
-        },
-        {
-          "point": "Elsed favors Van Hollen’s leadership style over Schumer’s, while Kulinski expresses support for a possible Van Hollen presidential run.",
-          "evidence_segment_indices": [
-            377,
-            378,
-            379,
-            382,
-            383,
-            384,
-            385,
-            386,
-            387,
-            388,
-            389,
-            390,
-            391,
-            392,
-            393,
-            394,
-            399,
-            400,
-            402,
-            403,
-            404,
-            405,
-            406,
-            407
-          ],
-          "start_seconds": 741.36,
-          "end_seconds": 796.32
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "99b2e8821e4bccc8ef06110b0271ad32a055379dea4ca92ad9635d09fb42bbbd",
-      "transcript_captured_at": "2026-11-17T23:33:39.557502Z",
-      "summary_generated_at": "2026-11-17T23:39:32.918304Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is commentary and interview excerpts, not independent documentation of the claims discussed.",
-        "Several names and terms appear mistranscribed, including references to individuals and political events.",
-        "Some allegations and predictions are explicitly speculative or presented as opinion.",
-        "The source provides no linked evidence, dates, documents, or corroborating context for the quantitative claims.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "KELIN7tpbHo",
-      "title": "Fetterman PANICS Over Anti-Israel Dems & Threatens To LEAVE THE PARTY!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=KELIN7tpbHo",
-      "published_at": "2026-11-17T22:15:16.000000Z",
-      "summary": "The creator argues that Senator John Fetterman is increasingly misaligned with the Democratic Party, particularly over Israel, Iran, war policy, and the possible selection of Van Hollen as Senate Democratic leader. The episode centers on a Fox News exchange in which Fetterman says it would be troubling if his caucus chose a leader he characterizes as hostile toward Israel, and says he would consider leaving if the party moved too far left. The creator interprets this as evidence that Fetterman may eventually become an independent or Republican, while portraying him as unpopular with Democratic voters and increasingly aligned with Republicans. The commentary also claims that Fetterman has abandoned the populist platform on which he was elected and proposes mechanisms for removing officials who substantially change positions. Finally, the creator predicts that Van Hollen would negotiate more aggressively with Republicans and presents Fetterman’s potential departure as a signal of the party’s antiwar and pro-immigration identity. These claims are presented as commentary and are not independently substantiated in the transcript.",
-      "topics": [
-        "Fetterman and party alignment",
-        "Israel and Iran policy",
-        "Democratic Senate leadership",
-        "Electoral prospects",
-        "Political identity"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Fetterman said he might leave the Democratic Party if Van Hollen became the Senate Democratic leader.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            29,
-            30,
-            31,
-            32,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54
-          ]
-        },
-        {
-          "claim": "The creator claims Fetterman’s recent voting record aligns with Republicans more often than Democrats.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112
-          ]
-        },
-        {
-          "claim": "The creator claims that many Democratic Senate candidates ran while criticizing billionaires.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            12,
-            13,
-            14,
-            15
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode criticizes Fetterman’s stated opposition to a Senate leader viewed as hostile toward Israel.",
-          "evidence_segment_indices": [
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60
-          ],
-          "start_seconds": 112.799,
-          "end_seconds": 141.36
-        },
-        {
-          "point": "The creator attributes Democratic criticism of Israel and aid restrictions to opposition to alleged U.S.-supported violence, while explicitly presenting this as a guess.",
-          "evidence_segment_indices": [
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77
-          ],
-          "start_seconds": 161.519,
-          "end_seconds": 183.36
-        },
-        {
-          "point": "The creator argues that Fetterman has moved away from the populist and pro-immigration positions associated with his campaign.",
-          "evidence_segment_indices": [
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144,
-            145,
-            146,
-            147
-          ],
-          "start_seconds": 299.199,
-          "end_seconds": 326.0
-        },
-        {
-          "point": "The episode predicts that Van Hollen would take a tougher negotiating stance than Chuck Schumer.",
-          "evidence_segment_indices": [
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189,
-            190,
-            191,
-            196,
-            197,
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204
-          ],
-          "start_seconds": 392.479,
-          "end_seconds": 436.96
-        },
-        {
-          "point": "The creator frames Fetterman’s possible departure as reinforcing a Democratic identity centered on criticism of war and Israel.",
-          "evidence_segment_indices": [
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            230,
-            231
-          ],
-          "start_seconds": 462.16,
-          "end_seconds": 494.08
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "72d46d1363e0a3706e06f1df809b50fcd916cf7833613451c5b8efa5f2a7c089",
-      "transcript_captured_at": "2026-11-17T23:33:33.109617Z",
-      "summary_generated_at": "2026-11-17T23:39:11.635104Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains substantial profanity redactions and apparent caption errors, including inconsistent names and malformed phrases.",
-        "The source is a single commentator’s discussion and does not provide independent documentation for polling, voting-record, staff-reporting, election, or policy claims.",
-        "The quoted Fox News exchange is presented in transcript form without its surrounding interview context.",
-        "Several statements are predictions, interpretations, or allegations rather than established facts.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "ItVmeY4-lMc",
-      "title": "‘TRUMP IS GONE’ — Americans DESPERATE for Answers as Republicans TURN on Each Other, Pure MADNESS!!",
-      "url": "https://www.youtube.com/watch?v=ItVmeY4-lMc",
-      "published_at": "2026-11-17T22:00:02.000000Z",
-      "summary": "Aaron Parnas argues that a series of recent outages affecting aviation, banking, workplace software, technology platforms, hotels and an NSA network has left Americans seeking clearer explanations and accountability. He presents competing explanations from officials and Republican lawmakers, including a router problem, artificial intelligence, possible coordination and an iPhone-related theory, while noting that several claims lack evidence. The episode also distinguishes these outages from separately reported cyber incidents and suggests that dependence on interconnected providers may allow failures to spread across services. Parnas criticizes President Trump’s public response, overseas travel and proposed Washington construction projects, framing them as contributing to public frustration. The latter half is an interview with Maryland Governor Wes Moore about his upbringing, military service, political career and focus on reducing child poverty. Moore discusses historical racism, political disillusionment and the need to pursue ambitious goals while retaining skepticism without becoming immobilized. The transcript is a creator-led commentary and interview, not an independent verification of the reported events or claims.",
-      "topics": [
-        "Technology and service outages",
-        "Government accountability",
-        "Republican disagreements",
-        "Wes Moore interview",
-        "Child poverty"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The reported outages affected Microsoft services, U.S. flights, JPMorgan Chase, United Airlines, Apple, Google, Marriott, financial websites and an NSA network within a short period.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            49,
-            53,
-            56,
-            59,
-            63,
-            67,
-            74,
-            80,
-            81,
-            84,
-            87
-          ]
-        },
-        {
-          "claim": "The FAA outage involved a router, the Chase incident involved a software bug, and the Microsoft disruption involved a network upgrade, with no demonstrated link between them.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            203,
-            204,
-            205,
-            206,
-            207,
-            208
-          ]
-        },
-        {
-          "claim": "A Reuters poll found that two-thirds opposed the president’s Washington remodeling activity and that his approval was at its lowest point of the presidency.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            124,
-            125,
-            126,
-            127,
-            128,
-            129
-          ]
-        },
-        {
-          "claim": "Hackers reportedly compromised websites of 178 organizations through the Optimizely service, while Equinor reported an active cyberattack and the FBI warned about AI-assisted attacks.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            212,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            222,
-            223,
-            224,
-            225
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas says the outages are not proven to be connected and that several remain unexplained.",
-          "evidence_segment_indices": [
-            89,
-            90,
-            91,
-            92,
-            203,
-            209,
-            210,
-            211
-          ],
-          "start_seconds": 170.792,
-          "end_seconds": 391.895
-        },
-        {
-          "point": "Officials and Republican figures offer conflicting explanations and calls for greater transparency.",
-          "evidence_segment_indices": [
-            138,
-            139,
-            140,
-            141,
-            143,
-            144,
-            145,
-            166,
-            167,
-            168,
-            169,
-            173,
-            174,
-            182,
-            183,
-            184,
-            188,
-            189,
-            190,
-            191
-          ],
-          "start_seconds": 257.594,
-          "end_seconds": 355.994
-        },
-        {
-          "point": "The episode separates the reported outages from other cyber incidents that it says have not been linked to them.",
-          "evidence_segment_indices": [
-            212,
-            213,
-            226,
-            227
-          ],
-          "start_seconds": 389.695,
-          "end_seconds": 419.595
-        },
-        {
-          "point": "Wes Moore describes a personal path through hardship, military service and nonprofit work before entering politics.",
-          "evidence_segment_indices": [
-            298,
-            304,
-            305,
-            323,
-            327,
-            329,
-            330,
-            531,
-            542,
-            548,
-            549,
-            550,
-            612,
-            613
-          ],
-          "start_seconds": 531.197,
-          "end_seconds": 1083.002
-        },
-        {
-          "point": "Moore says progress toward ending child poverty requires ambitious goals and sustained action despite skepticism.",
-          "evidence_segment_indices": [
-            636,
-            638,
-            666,
-            668,
-            674,
-            675,
-            685,
-            687,
-            688,
-            717,
-            722,
-            723,
-            724
-          ],
-          "start_seconds": 1113.103,
-          "end_seconds": 1264.305
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "c6d9337c0a602f5ade1e359c86a3925d3d01371f8de854e1904b55d08dba9fcb",
-      "transcript_captured_at": "2026-11-18T00:03:23.376809Z",
-      "summary_generated_at": "2026-11-18T00:08:53.230490Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains overlapping segments, transcription errors and occasional unclear names or phrases.",
-        "The source provides assertions and interview statements but no underlying documents or independent corroboration.",
-        "Several outage causes and the relationships among incidents are explicitly unresolved in the episode.",
-        "The latter interview consists largely of personal recollections, opinions and policy aspirations rather than independently tested findings.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
