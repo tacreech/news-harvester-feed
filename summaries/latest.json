@@ -1,11 +1,270 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T23:12:01.171429Z",
+  "generated_at": "2026-11-19T00:12:01.203181Z",
   "reporting_window": {
-    "start": "2026-11-11T23:12:01.171429Z",
-    "end": "2026-11-18T23:12:01.171429Z"
+    "start": "2026-11-12T00:12:01.203181Z",
+    "end": "2026-11-19T00:12:01.203181Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "k0snNvMEG2g",
+      "title": "‘AXIS OF EVIL’ - Allies Sound ALARM as Trump Takes SECRET BACKROOM Meetings With Putin, Very URGENT!",
+      "url": "https://www.youtube.com/watch?v=k0snNvMEG2g",
+      "published_at": "2026-11-18T23:00:17.000000Z",
+      "summary": "Aaron Parnas presents the episode as a warning that a planned Trump-Putin-Xi meeting could signal a realignment away from the United States’ traditional allies. He attributes the “axis of evil” framing to critics who describe Russia, China and Iran as coordinating against liberal democracies, while arguing that Trump’s engagement with Moscow and Beijing risks excluding Ukraine and Europe from decisions about the war. The episode cites reported plans for a private Trump-Putin meeting followed by a trilateral discussion involving Iran, Ukraine, trade, artificial intelligence and nuclear weapons. Parnas compares allied concerns with the Yalta precedent and highlights a United Nations vote that, according to the episode, placed the United States alongside Russia and Belarus. An interview with journalist Shane Smith adds accounts of drone activity, disruption and security checks in Moscow, alongside a more qualified description of sanctions’ effects: central Moscow appears functional, while other regions and households are experiencing greater strain. The transcript contains frequent caption errors and unverified assertions.",
+      "topics": [
+        "US foreign policy",
+        "Russia-China relations",
+        "Ukraine diplomacy",
+        "Sanctions and wartime disruption"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Trump was scheduled to hold a one-on-one meeting with Putin and then a trilateral meeting with Putin and Xi.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            70,
+            71,
+            72,
+            73,
+            74
+          ]
+        },
+        {
+          "claim": "Iran launched strikes on Kuwait and Bahrain, while the United States confirmed a strike on Iran’s Qeshm Island.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            46,
+            47,
+            48,
+            49,
+            50,
+            51
+          ]
+        },
+        {
+          "claim": "A United Nations resolution vote placed the United States among countries voting against or abstaining on a measure addressing violence against women and girls.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163
+          ]
+        },
+        {
+          "claim": "Ukraine-related drone attacks caused reported disruption in Moscow and affected energy, logistics or other infrastructure.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            208,
+            209,
+            210,
+            211,
+            333,
+            334,
+            335,
+            336,
+            337,
+            338,
+            339,
+            340,
+            341,
+            342,
+            350
+          ]
+        },
+        {
+          "claim": "Trump’s private views about Vice President Vance were described as negative.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames the summit as potentially sidelining Ukraine and Europe in negotiations about Ukraine’s future.",
+          "evidence_segment_indices": [
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            148,
+            149,
+            150,
+            151,
+            152
+          ],
+          "start_seconds": 278.32,
+          "end_seconds": 340.08
+        },
+        {
+          "point": "The episode contrasts Trump’s warm reception in China with the treatment of some US allies, including Japan.",
+          "evidence_segment_indices": [
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143
+          ],
+          "start_seconds": 130.879,
+          "end_seconds": 319.759
+        },
+        {
+          "point": "Putin and Xi are presented as advocating a multipolar order and criticizing Western influence, according to remarks summarized in the episode.",
+          "evidence_segment_indices": [
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111
+          ],
+          "start_seconds": 197.68,
+          "end_seconds": 255.2
+        },
+        {
+          "point": "Smith describes Moscow sentiment toward the United States as mixed but generally anti-American, with residents concerned about drones and wartime disruption.",
+          "evidence_segment_indices": [
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241
+          ],
+          "start_seconds": 481.599,
+          "end_seconds": 540.72
+        },
+        {
+          "point": "The interview portrays sanctions as consequential but not uniformly crippling, with differences between Moscow and less-protected regions.",
+          "evidence_segment_indices": [
+            294,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            314,
+            315,
+            316,
+            317,
+            318,
+            319,
+            320,
+            325
+          ],
+          "start_seconds": 650.32,
+          "end_seconds": 717.2
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "9995ffb7e1326e22ab705527d171fc8b4bc5840dc629c46f1ce0c2fe3d39a562",
+      "transcript_captured_at": "2026-11-19T00:03:18.814778Z",
+      "summary_generated_at": "2026-11-19T00:08:28.612690Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript has extensive caption defects, including misspellings and garbled names or places.",
+        "Many geopolitical claims are presented by the creator or interviewee without supporting documentation in the source.",
+        "Reports of drone numbers, infrastructure effects and public sentiment are attributed to interview remarks and may not represent broader evidence.",
+        "The source is an episode transcript only; it does not include independent confirmation, opposing accounts or the full interview context.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5175,177 +5434,6 @@
         "The source provides media and commentator accounts but no underlying documents or independent corroboration.",
         "Coalition outcomes and the investigations’ conclusions remain unresolved within the episode.",
         "The episode includes strongly evaluative commentary that should be distinguished from its reported allegations.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mike Figueredo — The Humanist Report",
-      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
-      "video_id": "PzCCsZoNc6I",
-      "title": "Fetterman’s Desperate Attempt to Discredit Chris Van Hollen Ends in Humiliation",
-      "url": "https://www.youtube.com/watch?v=PzCCsZoNc6I",
-      "published_at": "2026-11-16T23:40:49.000000Z",
-      "summary": "The creator frames a Democratic Senate leadership contest between Chris Van Hollen and Chuck Schumer as a test of the party’s direction, while portraying John Fetterman’s criticism of Van Hollen as politically damaging. The episode contrasts Fetterman’s concerns about Van Hollen’s Israel policy and advocacy for Kilmar Abrego Garcia with Van Hollen’s stated opposition to unconditional foreign aid and his defense of constitutional rights. It also presents competing claims about the race: Van Hollen says support is growing and that Schumer’s allies are overstating their numbers, while the creator suggests both camps may be using public vote counts to influence undecided senators. The commentary argues that party leaders should embrace the contest rather than expedite or avoid it, and predicts that Schumer faces broader political vulnerability. The episode ends by urging viewers to contact senators in support of Van Hollen. The material is primarily commentary and excerpts from interviews, with several allegations and forecasts presented without independent corroboration.",
-      "topics": [
-        "Democratic Senate leadership contest",
-        "Van Hollen’s Israel and immigration positions",
-        "Fetterman’s criticism",
-        "Schumer campaign strategy",
-        "Progressive mobilization"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Van Hollen said he had about 15 supporters and that Schumer’s published support list included senators who had not committed to Schumer.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            245,
-            248,
-            251,
-            255,
-            256,
-            258
-          ]
-        },
-        {
-          "claim": "Fetterman indicated he might leave the Democratic Party if Van Hollen became leader.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            87,
-            90,
-            91,
-            92,
-            114,
-            115,
-            116
-          ]
-        },
-        {
-          "claim": "The episode states that a unanimous Supreme Court ruling addressed the treatment of Kilmar Abrego Garcia.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            171,
-            173,
-            175,
-            176,
-            177
-          ]
-        },
-        {
-          "claim": "The episode cites a reported December 1 leadership election and alleged efforts to move the vote earlier.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            261,
-            263,
-            264,
-            265,
-            266,
-            267
-          ]
-        },
-        {
-          "claim": "The episode cites a poll or rating showing Fetterman’s net popularity changing from plus 56 to minus 56.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            124,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator presents Fetterman’s remarks as criticism centered on Van Hollen’s Israel views and advocacy for Abrego Garcia.",
-          "evidence_segment_indices": [
-            69,
-            71,
-            73,
-            76,
-            90,
-            92,
-            93,
-            94,
-            171,
-            172
-          ],
-          "start_seconds": 135.92,
-          "end_seconds": 380.8
-        },
-        {
-          "point": "Van Hollen argues against blank-check foreign aid and describes his advocacy for constitutional rights as a central position.",
-          "evidence_segment_indices": [
-            150,
-            158,
-            159,
-            160,
-            161,
-            162,
-            167,
-            168,
-            170,
-            172,
-            178,
-            180,
-            181
-          ],
-          "start_seconds": 326.72,
-          "end_seconds": 399.6
-        },
-        {
-          "point": "The episode portrays the leadership race as contested, with disputed vote counts and disagreement over whether to accelerate the process.",
-          "evidence_segment_indices": [
-            248,
-            249,
-            250,
-            251,
-            258,
-            260,
-            263,
-            264,
-            267,
-            269,
-            270
-          ],
-          "start_seconds": 521.12,
-          "end_seconds": 575.76
-        },
-        {
-          "point": "The creator urges viewers to contact senators and support Van Hollen’s bid.",
-          "evidence_segment_indices": [
-            431,
-            434,
-            436,
-            437,
-            438,
-            441,
-            445,
-            447,
-            448,
-            450,
-            453,
-            454
-          ],
-          "start_seconds": 868.959,
-          "end_seconds": 923.199
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "9e77b3ca23f9e1e9bd0e0856d02d963e477cb32e175de98f5c28767d64ea96a7",
-      "transcript_captured_at": "2026-11-17T01:03:14.017656Z",
-      "summary_generated_at": "2026-11-17T01:08:25.410642Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains frequent caption errors, including inconsistent spellings of names and titles.",
-        "Claims attributed to journalists, politicians, polling, and unnamed sources are reproduced from the episode and are not independently verified here.",
-        "The source is advocacy-oriented commentary interspersed with interview excerpts, so interpretation and factual reporting are not always clearly separated.",
-        "Some excerpts are truncated or difficult to identify because of transcription defects.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
