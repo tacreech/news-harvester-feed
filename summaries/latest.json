@@ -1,11 +1,150 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T03:42:01.190413Z",
+  "generated_at": "2026-11-19T04:12:01.209744Z",
   "reporting_window": {
-    "start": "2026-11-12T03:42:01.190413Z",
-    "end": "2026-11-19T03:42:01.190413Z"
+    "start": "2026-11-12T04:12:01.209744Z",
+    "end": "2026-11-19T04:12:01.209744Z"
   },
   "episodes": [
+    {
+      "creator": "Mike Figueredo — The Humanist Report",
+      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
+      "video_id": "HknlHnLUNg0",
+      "title": "Right-Wing Democrat Says Jeffries’ Big Win Means They Can “Marginalize” Progressives",
+      "url": "https://www.youtube.com/watch?v=HknlHnLUNg0",
+      "published_at": "2026-11-19T01:58:20.000000Z",
+      "summary": "The creator argues that House Democrats’ selection of Hakeem Jeffries as speaker demonstrates a refusal to reflect progressive voters’ priorities. He criticizes Jeffries’ stated positions on Israel, the Iran war, and healthcare, contrasting incremental proposals such as expanded Medicare eligibility and ACA subsidies with the creator’s preference for Medicare for All and ending military funding. The episode acknowledges that 11 Democrats opposed Jeffries but portrays their limited resistance as insufficient, while focusing on comments describing progressives as a small, marginalized faction. The creator also discusses reported frustration within the Congressional Progressive Caucus over Ayanna Pressley’s perceived ambiguity about a speakership bid. A later segment turns to the Senate leadership contest, encouraging viewers to support Chris Van Hollen against Chuck Schumer. Throughout, the creator presents a strongly adversarial interpretation of Democratic strategy, alleging donor influence, deliberate obstruction, and disregard for constituents. The transcript contains extensive commentary and excerpts, but many factual assertions are attributed to cited reporting without the underlying articles being provided.",
+      "topics": [
+        "Hakeem Jeffries speakership",
+        "Progressive Democratic priorities",
+        "Israel and Iran policy",
+        "Congressional leadership contests",
+        "Democratic Party strategy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The creator says Jeffries supports a temporary funding extension without conditions on the Iran war and would not defund the war.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            33,
+            38,
+            41,
+            43,
+            44
+          ]
+        },
+        {
+          "claim": "The creator says Jeffries supports lowering the Medicare eligibility age, adding vision, dental, and hearing coverage, and restoring enhanced ACA subsidies, while opposing Medicare for All.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            66,
+            72,
+            87,
+            90,
+            91
+          ]
+        },
+        {
+          "claim": "The creator reports that 11 Democrats voted against Jeffries, including newly elected members associated with the DSA bloc.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            110,
+            112,
+            115,
+            119
+          ]
+        },
+        {
+          "claim": "The creator cites reporting that some Congressional Progressive Caucus members privately criticized Ayanna Pressley for not more forcefully rejecting speakership speculation.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            254,
+            258,
+            266,
+            274,
+            277
+          ]
+        },
+        {
+          "claim": "The creator cites reporting that some Senate Democrats may support Chuck Schumer privately or conditionally in the leadership contest.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            584,
+            590,
+            601,
+            608,
+            617
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames Jeffries’ election as evidence that Democratic leaders are ignoring progressive demands on foreign policy and healthcare.",
+          "evidence_segment_indices": [
+            16,
+            22,
+            26,
+            32,
+            75,
+            90
+          ],
+          "start_seconds": 57.36,
+          "end_seconds": 208.239
+        },
+        {
+          "point": "The episode distinguishes symbolic representation from policy representation, acknowledging the historic significance of a Black speaker while arguing that policy outcomes matter more.",
+          "evidence_segment_indices": [
+            510,
+            513,
+            524,
+            527,
+            530
+          ],
+          "start_seconds": 1003.44,
+          "end_seconds": 1046.88
+        },
+        {
+          "point": "Eleven Democratic defections are presented as encouraging but inadequate resistance to an otherwise uncontested leadership process.",
+          "evidence_segment_indices": [
+            110,
+            120,
+            122,
+            163,
+            166
+          ],
+          "start_seconds": 241.36,
+          "end_seconds": 353.84
+        },
+        {
+          "point": "The creator urges continued pressure on senators and specifically advocates support for Chris Van Hollen.",
+          "evidence_segment_indices": [
+            647,
+            653,
+            657,
+            660,
+            672
+          ],
+          "start_seconds": 1272.159,
+          "end_seconds": 1328.799
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "ec1b62db98999067e4067b8d0f6ea7422320a3eb1619b56670503d6de2565680",
+      "transcript_captured_at": "2026-11-19T04:03:15.933458Z",
+      "summary_generated_at": "2026-11-19T04:08:26.684277Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is automatic and includes misrecognized names, clipped phrases, profanity placeholders, and overlapping segments.",
+        "Several cited news reports and political claims are summarized in the episode but are not included as source material here.",
+        "The transcript alone does not establish the accuracy of allegations about bribery, donor influence, corruption, voting behavior, or private caucus discussions.",
+        "Some quoted exchanges are difficult to attribute because speaker labels and context are incomplete.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5356,168 +5495,6 @@
         "Automatic captions contain omissions, profanity placeholders, transcription errors, and unclear proper nouns.",
         "Some quoted television material is interleaved with Kulinski’s reactions, so speaker attribution may be imperfect.",
         "The transcript provides limited context for the referenced war, elections, agreements, and events.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "46sMs_2r9bs",
-      "title": "Trump TERRIFIED As Crime Spree FINALLY CATCHES UP TO HIM!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=46sMs_2r9bs",
-      "published_at": "2026-11-17T20:30:08.000000Z",
-      "summary": "Kyle Kulinski argues that the Trump administration is increasingly worried about possible Democratic investigations into alleged misconduct and is responding defensively. He discusses officials’ stated opposition to congressional inquiries, including concerns about document requests and investigations involving senior aides. Kulinski then presents allegations of conflicts of interest surrounding Commerce Secretary Howard Lutnick and semiconductor-export rules, while acknowledging uncertainty around some related claims. The episode also covers reported outages affecting major banks and Microsoft services. Kulinski speculates that these disruptions could involve an Iranian cyber operation using artificial intelligence, but explicitly says this is only his guess. Additional commentary addresses possible escalation involving Iran, criticism of media figures who support military action, and accusations that the administration is prioritizing leak prosecutions over alleged civilian harm. The source is primarily opinion and commentary, combining excerpts, reported claims, and strong rhetorical judgments; it does not independently establish the allegations or explain the underlying evidence in detail.",
-      "topics": [
-        "Trump administration investigations",
-        "Military and Iran policy",
-        "Semiconductor export rules",
-        "Banking and cyber outages"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The Trump administration opposed or sought to limit Democratic investigations and threatened possible legal action against investigators.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            69,
-            82,
-            90,
-            100,
-            103,
-            161,
-            163,
-            173,
-            177
-          ]
-        },
-        {
-          "claim": "Howard Lutnick allegedly influenced semiconductor rules in ways connected to his family’s business interests and chip sales to China.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            317,
-            320,
-            322,
-            332,
-            338,
-            360,
-            364,
-            371,
-            373
-          ]
-        },
-        {
-          "claim": "Multiple major U.S. banks and Microsoft services experienced widespread outages, potentially involving a coordinated cyberattack or AI-enabled intrusion.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            440,
-            447,
-            450,
-            464,
-            471,
-            474,
-            476,
-            480
-          ]
-        },
-        {
-          "claim": "Iran may have used AI to conduct cyber counterattacks against U.S. infrastructure in response to anticipated military escalation.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            497,
-            510,
-            515,
-            523,
-            535,
-            538,
-            540
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames Democratic investigations as a developing accountability threat to the administration.",
-          "evidence_segment_indices": [
-            6,
-            8,
-            90,
-            149,
-            187,
-            571,
-            575
-          ],
-          "start_seconds": 13.759,
-          "end_seconds": 1210.24
-        },
-        {
-          "point": "The episode contrasts official defenses of senior aides with Kulinski’s allegations of misconduct and abuse of authority.",
-          "evidence_segment_indices": [
-            103,
-            108,
-            111,
-            123,
-            127,
-            217,
-            225,
-            268
-          ],
-          "start_seconds": 197.84,
-          "end_seconds": 553.2
-        },
-        {
-          "point": "Kulinski presents semiconductor-policy allegations as a possible conflict between national security and private profit.",
-          "evidence_segment_indices": [
-            317,
-            318,
-            333,
-            337,
-            350,
-            353,
-            362
-          ],
-          "start_seconds": 650.079,
-          "end_seconds": 761.92
-        },
-        {
-          "point": "Reported banking and technology outages are discussed alongside several competing explanations, including cyberattack and technical failure.",
-          "evidence_segment_indices": [
-            423,
-            430,
-            440,
-            465,
-            474,
-            476,
-            491,
-            538
-          ],
-          "start_seconds": 884.48,
-          "end_seconds": 1126.64
-        },
-        {
-          "point": "The creator predicts that further investigations could reveal extensive wrongdoing, but this remains commentary rather than an established finding.",
-          "evidence_segment_indices": [
-            572,
-            576,
-            581,
-            588,
-            595
-          ],
-          "start_seconds": 1198.08,
-          "end_seconds": 1258.72
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "b06f70afaa6961c31b84b7981a82c225a7a1b8af620869acec2ca11f97e9509c",
-      "transcript_captured_at": "2026-11-17T21:33:20.704271Z",
-      "summary_generated_at": "2026-11-17T21:38:42.089709Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains many caption defects, including garbled names, omitted words, and profanity placeholders.",
-        "Several allegations are presented through commentary or quoted reports without supporting documents or independent corroboration in the source.",
-        "The proposed Iranian cyber explanation is explicitly identified by Kulinski as speculation.",
-        "The source excerpt provides limited context for the reported outages, investigations, and military allegations.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
