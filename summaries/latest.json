@@ -1,11 +1,690 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T00:42:01.197837Z",
+  "generated_at": "2026-11-19T02:42:01.169270Z",
   "reporting_window": {
-    "start": "2026-11-12T00:42:01.197837Z",
-    "end": "2026-11-19T00:42:01.197837Z"
+    "start": "2026-11-12T02:42:01.169270Z",
+    "end": "2026-11-19T02:42:01.169270Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "4_sP8mhZkAA",
+      "title": "CNN Pro-War Propaganda Is Completely Out Of Control | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=4_sP8mhZkAA",
+      "published_at": "2026-11-19T01:30:33.000000Z",
+      "summary": "Kyle Kulinski argues that CNN is promoting a pro-war narrative about Iran by presenting unverified scenarios involving a possible dirty-bomb attack and by framing Iran’s nuclear activities as an ongoing weapons program. He contrasts that coverage with the intelligence assessment quoted in the episode, which he says found that Iran halted its weapons program in 2003 and was not currently building a nuclear weapon, while enrichment could leave it able to do so. Kulinski also criticizes a CNN documentary segment that emphasizes Iran’s past nuclear facilities and portrays the issue as a continuing crisis. He presents this as a double standard, arguing that Western powers tolerate or overlook nuclear weapons held by allies while treating Iran as uniquely threatening. The episode further connects the media coverage to alleged U.S. escalation around Iran and warns that fear-based reporting could encourage public support for war. The source is an opinionated monologue containing quoted media excerpts and unverified assertions, rather than independent reporting.",
+      "topics": [
+        "CNN coverage of Iran",
+        "Nuclear weapons and deterrence",
+        "U.S.-Iran tensions",
+        "War propaganda claims"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "U.S. intelligence assessments concluded that Iran halted its nuclear weapons program in 2003 and was not currently building or pursuing a nuclear weapon.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161
+          ]
+        },
+        {
+          "claim": "A CNN report discussed the possibility of an imminent Iranian dirty-bomb attack in Washington, D.C.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            4,
+            5,
+            6,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ]
+        },
+        {
+          "claim": "The United States had recently bombed Iran’s Qeshm Island and was considering further, more devastating attacks.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224
+          ]
+        },
+        {
+          "claim": "Iran is not currently pursuing a nuclear weapon, despite enrichment activities that could position it to do so.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            157,
+            158,
+            159,
+            160
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski characterizes CNN’s Iran coverage as fear-based pro-war messaging and compares it with Iraq-era propaganda.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            8,
+            9,
+            18,
+            19,
+            20,
+            21,
+            29,
+            30
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 64.479
+        },
+        {
+          "point": "He disputes the premise that Iran is currently building a nuclear weapon, citing intelligence assessments presented in the episode.",
+          "evidence_segment_indices": [
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160
+          ],
+          "start_seconds": 92.799,
+          "end_seconds": 345.36
+        },
+        {
+          "point": "He criticizes a CNN documentary segment for presenting Iran’s historical nuclear facilities as evidence of a continuing crisis.",
+          "evidence_segment_indices": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            70,
+            71,
+            72,
+            73,
+            74,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89
+          ],
+          "start_seconds": 120.719,
+          "end_seconds": 194.159
+        },
+        {
+          "point": "He argues that nuclear deterrence is applied inconsistently and that U.S. policy can encourage states to seek nuclear weapons.",
+          "evidence_segment_indices": [
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            164,
+            165,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            189,
+            190
+          ],
+          "start_seconds": 198.319,
+          "end_seconds": 409.039
+        },
+        {
+          "point": "He links the media coverage to what he describes as current U.S. military escalation around Iran.",
+          "evidence_segment_indices": [
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            226,
+            227,
+            228,
+            229,
+            230
+          ],
+          "start_seconds": 442.639,
+          "end_seconds": 481.84
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "39192f84f1c83be36ec6d930862bb67173a1c455e23bbdd305ba8589cba75834",
+      "transcript_captured_at": "2026-11-19T02:33:35.814748Z",
+      "summary_generated_at": "2026-11-19T02:39:31.635872Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains overlapping caption segments, profanity redactions, and apparent name or word transcription errors.",
+        "The episode presents the creator’s interpretations alongside excerpts from CNN and quoted intelligence claims; the source does not independently verify them.",
+        "References to current military actions, imminent attacks, and intelligence reporting require verification outside this transcript.",
+        "The excerpted CNN material is incomplete, so its broader context and wording cannot be fully assessed.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "CYHeuP-ws-I",
+      "title": "‘HE WAS M*RDERED’: Expert Blows Epstein Case Wide Open | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=CYHeuP-ws-I",
+      "published_at": "2026-11-19T01:00:18.000000Z",
+      "summary": "The creator argues that a forensic review has reopened questions about Jeffrey Epstein’s death, while presenting CBS’s interview with Dr. Michael Freeman, who says some documented injuries are inconsistent with a suicidal hanging and may indicate homicide. The report describes an official suicide ruling but highlights investigative shortcomings, including missing or unusable surveillance, delayed interviews, movement of the body, limited scene documentation, and uncertainty about the ligature. It also notes that forensic pathology is interpretive and that experts can reach different conclusions from ambiguous neck injuries. Freeman acknowledges that some reconstruction depends on an uncorroborated account from a correctional officer who faced charges, though he says the autopsy evidence independently raises concerns. The creator then moves beyond the forensic dispute, alleging that powerful figures may have had motives to conceal information and asking whether Donald Trump ordered Epstein’s killing. The episode presents these allegations and interpretations as unresolved rather than established findings.",
+      "topics": [
+        "Epstein death investigation",
+        "Forensic pathology",
+        "Prison evidence handling",
+        "Political allegations"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Dr. Michael Freeman’s review concludes that some documented injuries are inconsistent with suicidal hanging and support considering homicide.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            52,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            162,
+            163
+          ]
+        },
+        {
+          "claim": "Investigators failed to preserve or document key evidence, including the scene, body position, surveillance, and ligature.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            112,
+            113,
+            114,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            186,
+            187,
+            188,
+            196,
+            197
+          ]
+        },
+        {
+          "claim": "A correctional officer central to the reconstruction had been charged with falsifying records and received leniency in exchange for a sworn statement.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            400,
+            401,
+            402,
+            403,
+            404
+          ]
+        },
+        {
+          "claim": "The creator alleges that Donald Trump may have ordered Epstein’s killing.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            516,
+            517,
+            518,
+            519,
+            520,
+            521,
+            522,
+            523,
+            524,
+            525,
+            526,
+            527,
+            610,
+            611,
+            612,
+            613,
+            614,
+            615,
+            616
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode contrasts the official suicide ruling with Freeman’s homicide interpretation of neck and other injuries.",
+          "evidence_segment_indices": [
+            43,
+            44,
+            45,
+            54,
+            55,
+            56,
+            57,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163
+          ],
+          "start_seconds": 88.56,
+          "end_seconds": 311.759
+        },
+        {
+          "point": "The report emphasizes that forensic pathology is not exact and that missing evidence limits certainty.",
+          "evidence_segment_indices": [
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89
+          ],
+          "start_seconds": 154.4,
+          "end_seconds": 174.56
+        },
+        {
+          "point": "The investigation is described as having incomplete scene documentation, unavailable camera footage, and delayed witness interviews.",
+          "evidence_segment_indices": [
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            112,
+            113,
+            114,
+            124,
+            125,
+            150,
+            151,
+            152,
+            153
+          ],
+          "start_seconds": 191.76,
+          "end_seconds": 293.68
+        },
+        {
+          "point": "The creator expands the discussion into allegations about political motives and possible concealment.",
+          "evidence_segment_indices": [
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            517,
+            518,
+            519,
+            520,
+            521,
+            554,
+            555,
+            556,
+            557,
+            558,
+            559
+          ],
+          "start_seconds": 178.16,
+          "end_seconds": 1084.72
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "6540aa7b00302eb36553b685166cff66c8b74da85ae42ac8718a203a7326e390",
+      "transcript_captured_at": "2026-11-19T02:33:27.518831Z",
+      "summary_generated_at": "2026-11-19T02:39:02.639745Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a commentary episode combining a reported interview with the creator’s interpretations and allegations.",
+        "The cited expert says injury patterns and the circumstances of the hanging remain partly unknowable because key evidence is missing.",
+        "Caption defects include profanity redactions, misrecognized names, and transcription errors that may obscure precise wording.",
+        "The transcript does not independently establish the allegations concerning homicide, political involvement, or Donald Trump.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "CN9Fu_MTbzM",
+      "title": "TUCKER REVEALS SECRET PHONE CALL WITH TRUMP | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=CN9Fu_MTbzM",
+      "published_at": "2026-11-19T00:30:22.000000Z",
+      "summary": "Kyle Kulinski critiques Tucker Carlson’s reported account of a private call with Donald Trump and Carlson’s prediction that Trump may de-escalate the Iran war. Carlson argues that electoral losses and battlefield setbacks may have changed Trump’s calculations, and says Trump could present withdrawal as a political victory. Kulinski disputes this interpretation, emphasizing that Trump allegedly ordered or permitted further attacks shortly after similar claims of reassessment. The discussion also examines reported negotiation terms, regional military risks, and the possibility that pressure from Israel or other advisers influenced Trump. Carlson presents his views as informed by prior conversations with Trump, while Kulinski argues that Trump retains ultimate responsibility for military decisions and questions whether he would accept concessions that could appear to weaken U.S. power. The episode is primarily a debate over motives, accountability, and predictions about escalation. Its evidence is limited to the speakers’ commentary and references to events and documents not independently supplied in the transcript.",
+      "topics": [
+        "Trump and Iran war",
+        "Tucker Carlson’s political analysis",
+        "War de-escalation predictions",
+        "Presidential accountability",
+        "U.S. regional power"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Tucker Carlson reportedly had a private call with Donald Trump about the Iran war and policy.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim": "The United States reportedly bombed Keshum Island and faced attacks on bases in Kuwait and Bahrain.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            60,
+            61,
+            69,
+            70,
+            73,
+            74,
+            75,
+            76
+          ]
+        },
+        {
+          "claim": "The discussion refers to a memorandum of understanding, seven proposed points, and alleged violations by the United States and Israel.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            194,
+            195,
+            196,
+            197,
+            198,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207
+          ]
+        },
+        {
+          "claim": "The speakers cite alleged prior military actions and casualties, including attacks in Iran and Venezuela.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            375,
+            376,
+            377,
+            378,
+            379,
+            380,
+            381,
+            382,
+            383,
+            384
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Carlson predicts that Trump may seek de-escalation and frame it as a victory.",
+          "evidence_segment_indices": [
+            85,
+            86,
+            111,
+            112,
+            187,
+            188,
+            189,
+            319,
+            320,
+            321,
+            322,
+            323
+          ],
+          "start_seconds": 165.599,
+          "end_seconds": 593.92
+        },
+        {
+          "point": "Kulinski argues that reported attacks contradict claims Trump has become anti-war.",
+          "evidence_segment_indices": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            60,
+            61,
+            64,
+            65,
+            66,
+            67,
+            115,
+            116,
+            117,
+            118
+          ],
+          "start_seconds": 76.56,
+          "end_seconds": 220.239
+        },
+        {
+          "point": "The speakers disagree over whether Trump was pressured into the war or remains responsible for choosing it.",
+          "evidence_segment_indices": [
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185
+          ],
+          "start_seconds": 284.8,
+          "end_seconds": 334.16
+        },
+        {
+          "point": "The discussion predicts further escalation if negotiations fail or regional objectives remain unmet.",
+          "evidence_segment_indices": [
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270
+          ],
+          "start_seconds": 370.96,
+          "end_seconds": 494.639
+        },
+        {
+          "point": "Carlson urges lifting the blockade, allowing regional actors to negotiate, and avoiding additional bombing.",
+          "evidence_segment_indices": [
+            294,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            310,
+            311,
+            312,
+            313,
+            314,
+            315
+          ],
+          "start_seconds": 538.56,
+          "end_seconds": 578.08
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "680df153a2dcf082b76e5368ec71d0506b10d2854ecd17f95a6fd29fcf51cb88",
+      "transcript_captured_at": "2026-11-19T02:33:18.997903Z",
+      "summary_generated_at": "2026-11-19T02:38:32.806136Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is an automatic caption record with profanity redactions, overlaps, garbled words, and speaker attribution ambiguity.",
+        "Several referenced events, documents, locations, casualty figures, and negotiations are mentioned only by the speakers and are not independently documented in the source.",
+        "The opening framing describes a secret call, while the transcript does not provide the call itself or corroborating evidence.",
+        "Predictions about Trump’s motives, future escalation, and de-escalation remain opinions or conjectures within the episode.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4787,623 +5466,6 @@
         "The excerpt does not identify sources, dates, technical indicators, or independent corroboration for the reported incidents.",
         "Attribution to Iran, the scale of the incidents, and claims about AI’s role are Kulinski’s interpretations rather than established findings in the source.",
         "The segment provides only the creator’s account and commentary, with no responses from implicated organizations or officials.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "7mj-IxV563U",
-      "title": "🚨 ‘ABSOLUTE DISASTER’ — Trump’s Secretary MELTS DOWN as Congress Says ENOUGH, REMOVE HIM!!!!",
-      "url": "https://www.youtube.com/watch?v=7mj-IxV563U",
-      "published_at": "2026-11-17T19:05:24.000000Z",
-      "summary": "Creator Aaron Parnas presents the Navy secretary’s Senate confirmation hearing as a severe failure, focusing on disputes over sailors’ mental health, shipboard conditions, war costs, and military oversight. Senators challenge Acting Secretary Hung Cao’s description of eight suicide attempts as “mitigations,” citing reported sanitation, ration, and desalination problems aboard the USS Abraham Lincoln. Cao argues the incidents were prevented from becoming deaths and says mental-health resources were available, while senators contend that wording minimizes underlying distress. The episode also highlights exchanges over reports of substantial weight loss, the absence of precise figures for a naval blockade’s daily cost, and uncertainty about damage to a U.S. base in Bahrain. Parnas portrays the hearing as evidence of weak readiness, inadequate transparency, and poor strategic planning, while several senators question whether Cao challenged senior defense officials. A Republican senator separately raises concerns that some Democrats were excluded from classified briefings. The transcript contains numerous apparent caption and name errors, and the episode presents disputed figures and allegations without independent corroboration.",
-      "topics": [
-        "Navy confirmation hearing",
-        "Sailor mental health",
-        "Military readiness and conditions",
-        "War costs and oversight"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Eight sailors in the USS Abraham Lincoln strike group attempted suicide during a deployment, alongside reported infrastructure and hygiene problems.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55
-          ]
-        },
-        {
-          "claim": "The U.S. naval blockade’s daily cost was estimated at about $32.5 million, while broader war costs and related economic impacts were presented as much higher.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            201,
-            202,
-            203,
-            214,
-            215,
-            218,
-            221,
-            222,
-            265,
-            270,
-            271,
-            272,
-            343,
-            344,
-            345
-          ]
-        },
-        {
-          "claim": "Damage to a U.S. naval base in Bahrain was reported as costing at least $400 million, but the acting secretary said a full assessment had not been completed.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            225,
-            226,
-            227,
-            228,
-            232,
-            233,
-            238,
-            239,
-            246,
-            247,
-            248,
-            249,
-            250,
-            255,
-            259,
-            260
-          ]
-        },
-        {
-          "claim": "A Republican senator said Democratic colleagues had been excluded from multiple classified discussions.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            480,
-            481,
-            483,
-            494,
-            495,
-            496,
-            497,
-            498,
-            499,
-            500,
-            501,
-            502,
-            503,
-            504,
-            510
-          ]
-        },
-        {
-          "claim": "The acting secretary’s nomination was in political difficulty after the hearing.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            7,
-            8,
-            9,
-            10,
-            11,
-            552,
-            553
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Senators objected to describing attempted suicides as mitigations and disputed whether the response addressed sailors’ mental-health strain.",
-          "evidence_segment_indices": [
-            60,
-            61,
-            62,
-            63,
-            64,
-            71,
-            72,
-            73,
-            146,
-            147,
-            148,
-            149,
-            151,
-            152,
-            153
-          ],
-          "start_seconds": 135.599,
-          "end_seconds": 327.6
-        },
-        {
-          "point": "The hearing included unresolved questions about food, weight loss, ship conditions, blockade costs, and damage assessments.",
-          "evidence_segment_indices": [
-            136,
-            137,
-            138,
-            157,
-            166,
-            167,
-            175,
-            176,
-            183,
-            184,
-            203,
-            214,
-            238,
-            249
-          ],
-          "start_seconds": 292.88,
-          "end_seconds": 541.839
-        },
-        {
-          "point": "Senators questioned whether Cao had challenged the defense secretary over the war’s sustainability and Navy readiness.",
-          "evidence_segment_indices": [
-            356,
-            381,
-            382,
-            402,
-            407,
-            414,
-            416,
-            417,
-            427,
-            430,
-            431,
-            432,
-            438,
-            446,
-            447
-          ],
-          "start_seconds": 776.72,
-          "end_seconds": 976.88
-        },
-        {
-          "point": "The episode frames the hearing as evidence of inadequate transparency and bipartisan congressional exclusion from some classified discussions.",
-          "evidence_segment_indices": [
-            488,
-            494,
-            498,
-            503,
-            510,
-            523,
-            524,
-            525,
-            538,
-            539,
-            540,
-            541
-          ],
-          "start_seconds": 1050.24,
-          "end_seconds": 1178.559
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "f668ee7c8ce911db68a03a4cfff7aa5c79cebeb79d6ae82c2d5f9b9fd840648b",
-      "transcript_captured_at": "2026-11-17T20:33:14.726369Z",
-      "summary_generated_at": "2026-11-17T20:38:27.439966Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains frequent caption defects, including inconsistent names, titles, place names, and apparent speech-recognition errors.",
-        "Several figures and allegations are attributed to senators, the creator, media reports, or unnamed estimates rather than independently established in the source.",
-        "The transcript does not provide the full hearing record, documentary evidence, or confirmation outcome.",
-        "Some dialogue is overlapping or fragmented, making portions of attribution and wording ambiguous.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "TBQe8UZFFIU",
-      "title": "BREAKING: Major NATIONAL SECURITY Outage as Trump Officials Remain SILENT, this is URGENT!!",
-      "url": "https://www.youtube.com/watch?v=TBQe8UZFFIU",
-      "published_at": "2026-11-17T15:56:55.000000Z",
-      "summary": "Creator Aaron Parnas reports what he characterizes as an urgent outage affecting NSA internal communications on a classified network identified as NSAET. He says personnel were assigned staggered arrivals, while the cause remained unknown and officials had not publicly explained it. The episode connects this incident with other reported disruptions involving banking, airlines and technology, but presents no independent evidence that they share a cause. Parnas highlights calls from administration spokesperson Karoline Leavitt and Republican senator Josh Hawley for greater transparency and Senate briefings. A Department of Homeland Security official, as quoted in the episode, says cyber authorities saw no attack traffic or footprints and considered the incidents unrelated; he relays an unnamed technology expert’s theory that rapidly self-modifying AI systems may be overwhelming older infrastructure. Parnas questions that explanation and criticizes the government’s response. The transcript includes a substantial Shopify advertisement and contains unclear names and captions, limiting the episode’s evidentiary clarity.",
-      "topics": [
-        "NSA communications outage",
-        "Government transparency",
-        "Cybersecurity uncertainty",
-        "Infrastructure disruptions"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "An outage affected NSA internal communications on a network called NSAET, with staggered personnel arrivals.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            1,
-            2,
-            5,
-            8,
-            11,
-            12,
-            30,
-            33,
-            39
-          ]
-        },
-        {
-          "claim": "A Department of Homeland Security official said cyber authorities saw no evidence of a cyber attack and viewed the incidents as unrelated.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            164,
-            165,
-            168,
-            170,
-            172,
-            173,
-            197,
-            198,
-            199,
-            200,
-            201
-          ]
-        },
-        {
-          "claim": "Karoline Leavitt and Josh Hawley called for greater government transparency or briefings about the situation.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            50,
-            53,
-            54,
-            65,
-            67,
-            79,
-            84,
-            86,
-            92,
-            100,
-            102,
-            103
-          ]
-        },
-        {
-          "claim": "An unnamed technology source attributed multiple disruptions to rapidly self-modifying AI systems overwhelming older infrastructure.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            175,
-            178,
-            180,
-            181,
-            184,
-            186,
-            190,
-            192,
-            193,
-            195
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas presents the NSA communications outage as urgent while acknowledging that its cause is unknown.",
-          "evidence_segment_indices": [
-            0,
-            14,
-            35,
-            36,
-            44,
-            45
-          ],
-          "start_seconds": 1.12,
-          "end_seconds": 114.399
-        },
-        {
-          "point": "The episode links the NSA incident rhetorically to other outages but concedes they may be unrelated.",
-          "evidence_segment_indices": [
-            18,
-            19,
-            20,
-            21,
-            22
-          ],
-          "start_seconds": 47.84,
-          "end_seconds": 60.719
-        },
-        {
-          "point": "Quoted officials and lawmakers emphasize public information, briefings and reassurance.",
-          "evidence_segment_indices": [
-            54,
-            65,
-            69,
-            86,
-            92,
-            102,
-            104,
-            112,
-            113
-          ],
-          "start_seconds": 127.759,
-          "end_seconds": 240.799
-        },
-        {
-          "point": "The video includes a lengthy Shopify sponsorship segment unrelated to the outage discussion.",
-          "evidence_segment_indices": [
-            120,
-            121,
-            122,
-            123,
-            145,
-            146,
-            147,
-            150
-          ],
-          "start_seconds": 248.4,
-          "end_seconds": 314.56
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "1a8cf918d7f6271fa46fb147ebdfa53c334359cd2b8d2782511d4b6aa3c7a651",
-      "transcript_captured_at": "2026-11-17T17:03:14.829769Z",
-      "summary_generated_at": "2026-11-17T17:08:24.170736Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview relies solely on the supplied transcript and does not independently establish that the reported NSA outage occurred.",
-        "Captions contain apparent transcription errors and inconsistent names, including references to NSAET, AI-related terminology and officials.",
-        "The transcript alternates between the creator’s commentary and quoted interview material, sometimes without clear speaker boundaries.",
-        "The episode provides limited technical detail and no corroborating documents, timelines or direct agency statements.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "RjPGVxww9mA",
-      "title": "‘IT’S LIFE’ — Trump Shrugs Off Outages as Major CYBERATTACK Hits and Americans ERUPT!!",
-      "url": "https://www.youtube.com/watch?v=RjPGVxww9mA",
-      "published_at": "2026-11-17T14:46:41.000000Z",
-      "summary": "Aaron Parnas reviews a series of reported outages, political responses, cybersecurity concerns, and intelligence claims involving Iran. He says disruptions affected aviation, banking, and airline systems, while emphasizing that the incidents were not believed to be connected. Parnas criticizes President Trump’s reported “it happens” response and questions whether officials adequately explained the outages. He also discusses a Homeland Security official’s account that agencies saw no evidence of a coordinated cyberattack, while an unnamed technology expert reportedly suggested artificial intelligence could have caused cascading failures. The episode raises concerns about that official’s attendance at a college football game during the disruption, while noting the department said there was no wrongdoing. On Iran, Parnas presents reporting that officials described possible plans for an attack in Washington, but stresses that the accounts did not indicate an imminent threat and that the White House said there were no credible homeland threats. He urges skepticism toward intelligence claims used to justify policy.",
-      "topics": [
-        "Infrastructure outages",
-        "Cybersecurity and artificial intelligence",
-        "Government accountability",
-        "Iran threat intelligence",
-        "Political analysis"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A global Microsoft outage, an FAA ground stop, and failures involving Chase and United affected major services, including air travel and banking.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29
-          ]
-        },
-        {
-          "claim": "More than 170 websites and companies were affected by a cyber incident, with customer information potentially compromised.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76
-          ]
-        },
-        {
-          "claim": "Federal cybersecurity monitoring reportedly found no evidence that the outages were a coordinated cyberattack.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134
-          ]
-        },
-        {
-          "claim": "CNN reportedly cited seven U.S. officials describing Iranian planning options involving a possible dirty-bomb or chemical-weapons attack in Washington, while officials disagreed about operational capability.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195,
-            196
-          ]
-        },
-        {
-          "claim": "A Homeland Security official attended an LSU–Texas football game using a government plane shortly after briefing the public on the aviation disruption, according to the episode’s account of New York Post reporting.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            145,
-            146,
-            147,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153,
-            154,
-            155,
-            156,
-            157
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames the outages as separate incidents affecting aviation, banking, and airline operations, while noting they were not believed to be connected.",
-          "evidence_segment_indices": [
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32
-          ],
-          "start_seconds": 45.6,
-          "end_seconds": 69.36
-        },
-        {
-          "point": "Trump is presented as dismissing concerns, while Parnas interprets the response as a failure to accept responsibility.",
-          "evidence_segment_indices": [
-            35,
-            36,
-            37,
-            38,
-            44,
-            45,
-            54,
-            55,
-            56,
-            157,
-            158,
-            159,
-            160
-          ],
-          "start_seconds": 71.2,
-          "end_seconds": 336.24
-        },
-        {
-          "point": "The episode contrasts speculation about artificial intelligence with officials’ reported assessment that the outages lacked cyberattack indicators.",
-          "evidence_segment_indices": [
-            80,
-            81,
-            82,
-            83,
-            84,
-            96,
-            100,
-            104,
-            113,
-            114,
-            115,
-            117,
-            118,
-            123,
-            124,
-            128,
-            129,
-            134,
-            142,
-            143,
-            144
-          ],
-          "start_seconds": 165.599,
-          "end_seconds": 305.28
-        },
-        {
-          "point": "Parnas urges caution about Iran-related intelligence, emphasizing that reported plans were not evidence of an imminent attack and that the White House denied credible homeland threats.",
-          "evidence_segment_indices": [
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195,
-            196,
-            201,
-            202,
-            203,
-            204
-          ],
-          "start_seconds": 368.0,
-          "end_seconds": 427.84
-        },
-        {
-          "point": "The episode argues that prior intelligence failures and political timing warrant scrutiny of alarming threat reports.",
-          "evidence_segment_indices": [
-            205,
-            206,
-            207,
-            208,
-            209,
-            210,
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            220,
-            221,
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            229,
-            230,
-            231
-          ],
-          "start_seconds": 425.68,
-          "end_seconds": 485.039
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "917ac1ab0da3d33c6c1270381b7628e4de9c0aad3ffecf6ae8d2bcca235ae689",
-      "transcript_captured_at": "2026-11-17T15:03:13.748943Z",
-      "summary_generated_at": "2026-11-17T15:08:28.937115Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview relies solely on the supplied episode transcript and does not independently verify its reports, quotations, or attributions.",
-        "Several captions contain apparent transcription defects, including references to “SI,” “allergies,” and a garbled place name.",
-        "The transcript sometimes compresses or ambiguously attributes statements, particularly around the unnamed technology expert and government officials.",
-        "The episode presents allegations and interpretations alongside reported official statements; their accuracy and context remain unresolved here.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
