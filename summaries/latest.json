@@ -1,11 +1,141 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T16:42:01.157276Z",
+  "generated_at": "2026-11-20T19:42:01.153297Z",
   "reporting_window": {
-    "start": "2026-11-13T16:42:01.157276Z",
-    "end": "2026-11-20T16:42:01.157276Z"
+    "start": "2026-11-13T19:42:01.153297Z",
+    "end": "2026-11-20T19:42:01.153297Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "yggOl_GGsWg",
+      "title": "🚨‘HE’S LOSING IT’ — Trump has INSANE Press Conference Spouting Kremlin Talking Points, this is WILD!",
+      "url": "https://www.youtube.com/watch?v=yggOl_GGsWg",
+      "published_at": "2026-11-20T19:00:52.000000Z",
+      "summary": "Creator Aaron Parnas presents the press conference as unusually chaotic and argues that Trump appeared overly sympathetic toward Russia while criticizing allies and American cities. The episode centers on Trump describing Vladimir Putin as a personal friend, declining to say whether Putin is a friend to the United States, and saying Putin wants to end the war in Ukraine. Parnas highlights Trump’s claims that Russia and China admired a new Air Force One, that post-election market losses totaled four trillion dollars, and that Canada has treated the United States unfairly. The discussion also covers Trump’s criticism of the International Criminal Court, his response to questions about Ukraine’s security guarantees, and remarks about air-traffic-control systems. Parnas interprets these statements as evidence of declining leadership and possible concessions to Putin. The source consists of commentary interwoven with excerpted answers, so the episode’s framing and the underlying claims are not independently established here.",
+      "topics": [
+        "Trump press conference",
+        "Russia and Ukraine",
+        "International Criminal Court",
+        "U.S. allies and leadership"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Trump said Putin was his friend, wanted to end the war, and that Putin would not have invaded Ukraine if Trump had been president.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            12,
+            47,
+            55,
+            88,
+            189,
+            193
+          ]
+        },
+        {
+          "claim": "Trump stated that four trillion dollars had been lost since the election because the world disliked the election’s outcome.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            151,
+            155,
+            156,
+            159
+          ]
+        },
+        {
+          "claim": "Trump claimed that approximately 25,000 to 30,000 people were dying each month in the war.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            340,
+            343,
+            344,
+            345,
+            348
+          ]
+        },
+        {
+          "claim": "Trump criticized the International Criminal Court and said it could not arrest heads of state without sufficient strength behind it.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            275,
+            280,
+            286,
+            287,
+            290
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames the conference as exceptionally disorganized and says critics questioned Trump’s mental fitness and loyalty to allies.",
+          "evidence_segment_indices": [
+            0,
+            7,
+            18,
+            20,
+            28
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 68.08
+        },
+        {
+          "point": "Trump emphasized personal relationships with Putin and Xi while discussing nuclear weapons and the war in Ukraine.",
+          "evidence_segment_indices": [
+            55,
+            57,
+            61,
+            67,
+            69,
+            70
+          ],
+          "start_seconds": 120.159,
+          "end_seconds": 154.8
+        },
+        {
+          "point": "The episode contrasts Trump’s praise for Russia and China with criticism of Canada and unfavorable descriptions of some U.S. cities.",
+          "evidence_segment_indices": [
+            148,
+            161,
+            163,
+            176,
+            200,
+            210
+          ],
+          "start_seconds": 313.039,
+          "end_seconds": 453.039
+        },
+        {
+          "point": "Parnas concludes that Trump’s comments on Russia, air traffic control, and leadership show America lacking effective leadership.",
+          "evidence_segment_indices": [
+            358,
+            381,
+            383,
+            385,
+            388,
+            390
+          ],
+          "start_seconds": 791.2,
+          "end_seconds": 869.6
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "026062ceec32562dd859660e553201c5757d53c77467116a01c620416a19f5f9",
+      "transcript_captured_at": "2026-11-20T19:33:14.178833Z",
+      "summary_generated_at": "2026-11-20T19:38:23.864008Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Captioning contains repeated words, omissions, misrecognitions, and unclear names.",
+        "The source does not provide the full press conference or independent corroboration of factual claims.",
+        "Some statements are paraphrased by Parnas rather than presented in the quoted excerpts.",
+        "The source’s strongly critical framing may shape which moments are emphasized.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "House of El – AI",
       "channel_id": "UCsoc5Ad-fC7wWie2PH4rPcw",
@@ -5175,265 +5305,6 @@
         "The episode mixes original commentary with excerpts from CNN and other commentators, making attribution uneven in some segments.",
         "Political, legislative, military, and campaign-finance allegations are presented as commentary and require independent verification.",
         "The source covers one episode’s framing and does not establish the actual Senate leadership outcome.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "k0snNvMEG2g",
-      "title": "‘AXIS OF EVIL’ - Allies Sound ALARM as Trump Takes SECRET BACKROOM Meetings With Putin, Very URGENT!",
-      "url": "https://www.youtube.com/watch?v=k0snNvMEG2g",
-      "published_at": "2026-11-18T23:00:17.000000Z",
-      "summary": "Aaron Parnas presents the episode as a warning that a planned Trump-Putin-Xi meeting could signal a realignment away from the United States’ traditional allies. He attributes the “axis of evil” framing to critics who describe Russia, China and Iran as coordinating against liberal democracies, while arguing that Trump’s engagement with Moscow and Beijing risks excluding Ukraine and Europe from decisions about the war. The episode cites reported plans for a private Trump-Putin meeting followed by a trilateral discussion involving Iran, Ukraine, trade, artificial intelligence and nuclear weapons. Parnas compares allied concerns with the Yalta precedent and highlights a United Nations vote that, according to the episode, placed the United States alongside Russia and Belarus. An interview with journalist Shane Smith adds accounts of drone activity, disruption and security checks in Moscow, alongside a more qualified description of sanctions’ effects: central Moscow appears functional, while other regions and households are experiencing greater strain. The transcript contains frequent caption errors and unverified assertions.",
-      "topics": [
-        "US foreign policy",
-        "Russia-China relations",
-        "Ukraine diplomacy",
-        "Sanctions and wartime disruption"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Trump was scheduled to hold a one-on-one meeting with Putin and then a trilateral meeting with Putin and Xi.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            70,
-            71,
-            72,
-            73,
-            74
-          ]
-        },
-        {
-          "claim": "Iran launched strikes on Kuwait and Bahrain, while the United States confirmed a strike on Iran’s Qeshm Island.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            46,
-            47,
-            48,
-            49,
-            50,
-            51
-          ]
-        },
-        {
-          "claim": "A United Nations resolution vote placed the United States among countries voting against or abstaining on a measure addressing violence against women and girls.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160,
-            161,
-            162,
-            163
-          ]
-        },
-        {
-          "claim": "Ukraine-related drone attacks caused reported disruption in Moscow and affected energy, logistics or other infrastructure.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            208,
-            209,
-            210,
-            211,
-            333,
-            334,
-            335,
-            336,
-            337,
-            338,
-            339,
-            340,
-            341,
-            342,
-            350
-          ]
-        },
-        {
-          "claim": "Trump’s private views about Vice President Vance were described as negative.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator frames the summit as potentially sidelining Ukraine and Europe in negotiations about Ukraine’s future.",
-          "evidence_segment_indices": [
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            148,
-            149,
-            150,
-            151,
-            152
-          ],
-          "start_seconds": 278.32,
-          "end_seconds": 340.08
-        },
-        {
-          "point": "The episode contrasts Trump’s warm reception in China with the treatment of some US allies, including Japan.",
-          "evidence_segment_indices": [
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143
-          ],
-          "start_seconds": 130.879,
-          "end_seconds": 319.759
-        },
-        {
-          "point": "Putin and Xi are presented as advocating a multipolar order and criticizing Western influence, according to remarks summarized in the episode.",
-          "evidence_segment_indices": [
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111
-          ],
-          "start_seconds": 197.68,
-          "end_seconds": 255.2
-        },
-        {
-          "point": "Smith describes Moscow sentiment toward the United States as mixed but generally anti-American, with residents concerned about drones and wartime disruption.",
-          "evidence_segment_indices": [
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            229,
-            230,
-            231,
-            232,
-            233,
-            234,
-            235,
-            236,
-            237,
-            238,
-            239,
-            240,
-            241
-          ],
-          "start_seconds": 481.599,
-          "end_seconds": 540.72
-        },
-        {
-          "point": "The interview portrays sanctions as consequential but not uniformly crippling, with differences between Moscow and less-protected regions.",
-          "evidence_segment_indices": [
-            294,
-            295,
-            296,
-            297,
-            298,
-            299,
-            300,
-            301,
-            302,
-            303,
-            304,
-            305,
-            306,
-            307,
-            308,
-            309,
-            314,
-            315,
-            316,
-            317,
-            318,
-            319,
-            320,
-            325
-          ],
-          "start_seconds": 650.32,
-          "end_seconds": 717.2
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "9995ffb7e1326e22ab705527d171fc8b4bc5840dc629c46f1ce0c2fe3d39a562",
-      "transcript_captured_at": "2026-11-19T00:03:18.814778Z",
-      "summary_generated_at": "2026-11-19T00:08:28.612690Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript has extensive caption defects, including misspellings and garbled names or places.",
-        "Many geopolitical claims are presented by the creator or interviewee without supporting documentation in the source.",
-        "Reports of drone numbers, infrastructure effects and public sentiment are attributed to interview remarks and may not represent broader evidence.",
-        "The source is an episode transcript only; it does not include independent confirmation, opposing accounts or the full interview context.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
