@@ -1,11 +1,695 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T22:42:01.138482Z",
+  "generated_at": "2026-11-20T00:42:01.153921Z",
   "reporting_window": {
-    "start": "2026-11-12T22:42:01.138482Z",
-    "end": "2026-11-19T22:42:01.138482Z"
+    "start": "2026-11-13T00:42:01.153921Z",
+    "end": "2026-11-20T00:42:01.153921Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "nSOHUUnYyCw",
+      "title": "BREAKING: THEY’RE HIDING SOMETHING TERRIBLE FROM US",
+      "url": "https://www.youtube.com/watch?v=nSOHUUnYyCw",
+      "published_at": "2026-11-19T23:35:59.000000Z",
+      "summary": "Kyle Kulinski argues that a national cybersecurity crisis may be unfolding, linking reports of the national cyber director’s resignation with ongoing cyberattacks and an alleged outage affecting an internal NSA communications network. He cites Axios for the resignation and NBC News for a report that the classified network remained offline for three days, with some employees working from home. Kulinski presents these developments as signs that authorities may be concealing the extent of the damage, while acknowledging uncertainty about the cause. He speculates about a foreign government or autonomous AI, then broadens his criticism to unregulated AI development, which he says could function like cyber nuclear weapons. He predicts severe consequences, including a prolonged internet outage and societal disruption, and describes reported panic buying as understandable. The episode is strongly alarmist and contains allegations, predictions, and personal judgments rather than independently established conclusions. The transcript provides no direct documentation, official response, or corroboration beyond the outlets Kulinski names.",
+      "topics": [
+        "Cybersecurity incidents",
+        "NSA network outage",
+        "AI risks",
+        "Government accountability"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The national cyber director, identified in the transcript as Sean Cancross, was stepping down, according to Axios.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim": "An internal classified NSA computer network remained down for three days, with some employees ordered to work from home, according to NBC News sources.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ]
+        },
+        {
+          "claim": "Major banks, airlines, and a national ground stop were affected by cyberattacks or related disruptions.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "claim": "The alleged outages and attacks indicate that authorities are hiding the extent of damage or that an autonomous AI or foreign nation may be responsible.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski connects the cyber director’s reported resignation to a broader pattern of alleged cyberattacks.",
+          "evidence_segment_indices": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "start_seconds": 16.08,
+          "end_seconds": 49.28
+        },
+        {
+          "point": "He emphasizes the reported continuing outage of an NSA internal classified network.",
+          "evidence_segment_indices": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "start_seconds": 78.88,
+          "end_seconds": 114.92
+        },
+        {
+          "point": "He speculates about foreign or autonomous-AI responsibility but does not identify evidence establishing either explanation.",
+          "evidence_segment_indices": [
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59
+          ],
+          "start_seconds": 124.32,
+          "end_seconds": 159.84
+        },
+        {
+          "point": "He criticizes unregulated AI development and predicts potentially catastrophic disruption, including a prolonged internet outage.",
+          "evidence_segment_indices": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83
+          ],
+          "start_seconds": 156.0,
+          "end_seconds": 214.4
+        },
+        {
+          "point": "The episode closes by attributing the situation to governmental incompetence and corruption while reiterating the alleged resignation and network outage.",
+          "evidence_segment_indices": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106
+          ],
+          "start_seconds": 226.959,
+          "end_seconds": 263.12
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "3719a469a4f87d70c8cef56c5e34cd7af6572ec9c5dcbb52fe990694b9a2dc05",
+      "transcript_captured_at": "2026-11-20T00:33:26.697162Z",
+      "summary_generated_at": "2026-11-20T00:39:11.434899Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies solely on a short, automatically transcribed episode excerpt and does not independently verify cited reporting.",
+        "The transcript contains caption redactions and occasional disfluencies, including the official’s name and references to unspecified incidents.",
+        "Claims about attacks on banks, airlines, and a national ground stop are asserted without specific sources or details in the excerpt.",
+        "Predictions about autonomous AI, months-long internet disruption, and societal collapse are speculation attributed to the creator or his discussion.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "ExJZgFdyYss",
+      "title": "Trump's Tariff Scam Is Far Worse Than You Think | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=ExJZgFdyYss",
+      "published_at": "2026-11-19T23:15:29.000000Z",
+      "summary": "Kyle Kulinski argues that Trump’s tariff policy may have been designed as a scheme benefiting corporations and political insiders. He cites a reported $170 billion in potential tariff refunds and says companies including Stanley Black & Decker and TJ Maxx raised prices, then directed refund proceeds toward executive bonuses rather than directly compensating shoppers. Kulinski presents this as evidence that consumers may have paid higher prices while corporations benefited twice, while acknowledging that the extent of consumer repayment is unclear. He also alleges that a Trump-linked insider profited from betting against the tariffs and suggests the policy may have been knowingly structured to fail in court. The episode then turns to a proposed nominee for the Government Accountability Office, which Kulinski portrays as an effort to weaken oversight of federal spending. Finally, he highlights reports concerning Donald Trump Jr.’s investment firm and government contracts involving a company linked to Trump’s sons. The discussion is commentary built around cited reports, allegations, and incomplete public disclosures.",
+      "topics": [
+        "Tariff refunds and corporate bonuses",
+        "Alleged insider profiteering",
+        "Government Accountability Office nomination",
+        "Trump-family business ties"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "ProPublica reported that Stanley Black & Decker and TJ Maxx received hundreds of millions of dollars in tariff refunds and that some companies planned executive bonuses rather than direct consumer repayment.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            113,
+            114
+          ]
+        },
+        {
+          "claim": "Approximately $170 billion in tariff refunds may be issued, while the Trump administration has not publicly detailed recipients or amounts requested.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128
+          ]
+        },
+        {
+          "claim": "Kulinski alleges that a Trump-linked official or firm profited from betting that the tariffs would be overturned.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170
+          ]
+        },
+        {
+          "claim": "A reported nomination would place a Trump administration-linked official at the Government Accountability Office for a long tenure, following a rushed process that Kulinski criticizes.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209
+          ]
+        },
+        {
+          "claim": "Reports cited in the episode say Donald Trump Jr.’s investment firm grew substantially and that a company linked to Trump’s elder sons received government disease-response contracts.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            268,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski’s central thesis is that tariffs shifted costs to consumers while refund proceeds could benefit corporations.",
+          "evidence_segment_indices": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            40,
+            41,
+            42,
+            43,
+            61,
+            62,
+            63,
+            64,
+            79,
+            80,
+            81,
+            82,
+            83
+          ],
+          "start_seconds": 43.84,
+          "end_seconds": 171.68
+        },
+        {
+          "point": "The cited corporate disclosures describe refunds, bonuses, and uncertain plans to pass money back through pricing.",
+          "evidence_segment_indices": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134
+          ],
+          "start_seconds": 189.68,
+          "end_seconds": 259.84
+        },
+        {
+          "point": "The episode frames GAO leadership as a major future oversight issue and urges opposition to the nomination.",
+          "evidence_segment_indices": [
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210
+          ],
+          "start_seconds": 372.319,
+          "end_seconds": 411.12
+        },
+        {
+          "point": "The closing examples broaden the corruption critique to alleged insider trading and Trump-family business relationships.",
+          "evidence_segment_indices": [
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            178,
+            179,
+            180,
+            181,
+            268,
+            269,
+            270,
+            272,
+            273,
+            274,
+            275,
+            276
+          ],
+          "start_seconds": 320.56,
+          "end_seconds": 538.32
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "0b3f2eaebe62e3d894fece95a3ecd680ea1804d98a62d4354e0b20348a804b0e",
+      "transcript_captured_at": "2026-11-20T00:33:21.510692Z",
+      "summary_generated_at": "2026-11-20T00:38:50.297612Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains profanity redactions, transcription errors, and several unclear names or phrases.",
+        "The episode relies on reported analyses and public disclosures that are not independently verified here.",
+        "The transcript does not establish whether consumers legally receive tariff refunds or how each company ultimately uses refund proceeds.",
+        "Claims that the tariff policy was deliberately planned as a scam or involved insider trading are presented as Kulinski’s allegations and speculation.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "18HXXLpgOc0",
+      "title": "Billionaires Are Trying To Trick Democratic Voters | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=18HXXLpgOc0",
+      "published_at": "2026-11-19T22:45:26.000000Z",
+      "summary": "Kyle Kulinski argues that Democratic primary voters should distinguish progressive policy from what he characterizes as billionaire-backed “radical centrism.” He says corporate-aligned Democrats use broad, reassuring language—such as expanding access to affordable healthcare—instead of clearly endorsing universal, single-payer coverage. The episode contrasts Pete Buttigieg’s stated support for “Medicare for all who want it,” with private insurance remaining available, against Kulinski’s preference for a single public system. Kulinski argues that a public option would either be too weak to attract people or strong enough to destabilize private insurers, while preserving administrative complexity. He also criticizes Buttigieg’s opposition to broad student-debt relief and presents funding relationships involving liberal media and Democratic organizations as evidence of an organized centrist political network. The episode concludes that Democrats should cooperate on investigations and immediate legislation but openly contest ideological differences before 2028. Kulinski predicts that only substantial social-democratic reforms can secure durable Democratic support and prevent Republicans from returning to power.",
+      "topics": [
+        "Democratic primary politics",
+        "Healthcare policy",
+        "Billionaire influence",
+        "Student debt",
+        "Progressive versus centrist Democrats"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Emma Vigan’s reported funding and ownership relationships involving liberal media outlets, the Bullwark, and Democratic organizations are accurate.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            97,
+            98,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107
+          ]
+        },
+        {
+          "claim": "The episode’s policy claims about public-option incentives, insurance-market effects, and administrative costs are accurate.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            310,
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318,
+            319,
+            373,
+            374,
+            375,
+            376,
+            377,
+            378,
+            379,
+            380,
+            381,
+            382,
+            383,
+            384,
+            385,
+            386
+          ]
+        },
+        {
+          "claim": "Broad student-debt relief was substantially blocked by the Supreme Court, as stated in the episode.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            164,
+            165,
+            166,
+            167,
+            168,
+            169
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski says primary season should expose differences within the Democratic coalition rather than focus only on opposing Republicans.",
+          "evidence_segment_indices": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "start_seconds": 23.76,
+          "end_seconds": 55.52
+        },
+        {
+          "point": "He presents vague healthcare language as distinct from explicit single-payer or Medicare-for-all proposals.",
+          "evidence_segment_indices": [
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74
+          ],
+          "start_seconds": 108.0,
+          "end_seconds": 158.959
+        },
+        {
+          "point": "Buttigieg describes a default public plan with an option to retain private insurance; Kulinski calls this a two-tiered system.",
+          "evidence_segment_indices": [
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278,
+            279,
+            280,
+            281,
+            282,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305
+          ],
+          "start_seconds": 551.68,
+          "end_seconds": 606.08
+        },
+        {
+          "point": "Kulinski says Democrats can cooperate on oversight and legislation while debating policy direction ahead of 2028.",
+          "evidence_segment_indices": [
+            510,
+            511,
+            512,
+            513,
+            514,
+            519,
+            520,
+            521,
+            522,
+            523,
+            524,
+            525,
+            526,
+            527,
+            528,
+            529,
+            530,
+            531,
+            532,
+            533,
+            534,
+            535,
+            536,
+            537
+          ],
+          "start_seconds": 968.399,
+          "end_seconds": 1022.16
+        },
+        {
+          "point": "He advocates social-democratic measures including healthcare, education, higher taxes on wealthy people, redistribution, and paid vacation.",
+          "evidence_segment_indices": [
+            553,
+            554,
+            555,
+            559,
+            560,
+            561,
+            562,
+            563,
+            564,
+            565,
+            566,
+            567
+          ],
+          "start_seconds": 1054.24,
+          "end_seconds": 1081.28
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "df81f0befdc4aeee9b7c9cfdede42cc639bfbaa0641b82aebc298821d19b8aca",
+      "transcript_captured_at": "2026-11-20T00:33:15.607267Z",
+      "summary_generated_at": "2026-11-20T00:38:26.962956Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The material is a single opinionated commentary episode and does not independently establish its allegations or predictions.",
+        "Automatic captions contain profanity redactions, misspellings, and transcription errors, including names and policy terms.",
+        "Several quoted or referenced claims are presented without the underlying articles, interviews, studies, or financial records.",
+        "The episode uses strongly evaluative language, so descriptions of political motives reflect Kulinski’s framing rather than neutral findings.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4862,646 +5546,6 @@
         "Many allegations are presented by the creator without supporting documents, full context, or responses from the named parties.",
         "The episode combines commentary, quoted remarks, predictions, and reported events; the transcript alone cannot establish which claims are accurate.",
         "The source provides only transcript excerpts and no independent corroboration.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "FElwtaBYG6g",
-      "title": "Tim Dillon On The Dark Truth Of Trump’s Ballroom Obsession | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=FElwtaBYG6g",
-      "published_at": "2026-11-18T00:15:05.000000Z",
-      "summary": "The episode presents Kyle Kulinski’s discussion of comedian Tim Dillon’s theory that Donald Trump’s reported ballroom project is intended as an unavoidable, lasting symbol of his presidency. Dillon argues that Trump’s tendency to overreach may eventually provoke efforts to remove his name or undo associated projects, while Kulinski rejects the idea that the project reflects long-term strategic planning. Kulinski instead attributes the alleged fixation on naming buildings and other vanity projects to a need for attention and affirmation. He also alleges that the project bypasses normal procedures and could enable donor influence, while predicting that a future Democratic administration would dismantle it. The discussion broadens into criticism of Trump’s leadership style, priorities, and alleged cognitive decline, as well as condemnation of what the speakers describe as corruption and inadequate attention to economic concerns. The material is opinion-driven, highly partisan, and includes serious allegations and predictions that are not independently established within the transcript.",
-      "topics": [
-        "Trump ballroom project",
-        "Political commentary",
-        "Presidential legacy",
-        "Alleged corruption"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The ballroom project bypassed permitting, regulatory procedures, or other required processes.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            236,
-            237,
-            238,
-            239,
-            240,
-            241
-          ]
-        },
-        {
-          "claim": "Donations to the ballroom could secure government favors, subsidies, tax cuts, or contracts.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            242,
-            243,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251,
-            252,
-            253,
-            254
-          ]
-        },
-        {
-          "claim": "A future Democratic administration would demolish the ballroom or remove Trump’s name from associated properties.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76,
-            255,
-            256,
-            257,
-            258
-          ]
-        },
-        {
-          "claim": "Trump is experiencing cognitive decline or dementia.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            219,
-            220,
-            221,
-            222,
-            223,
-            288,
-            289,
-            290,
-            291,
-            292
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Dillon frames the ballroom as an enduring, unavoidable monument; Kulinski disputes that interpretation.",
-          "evidence_segment_indices": [
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143
-          ],
-          "start_seconds": 35.12,
-          "end_seconds": 287.919
-        },
-        {
-          "point": "Kulinski argues that overreach and a lack of consensus could cause Trump’s initiatives to be reversed.",
-          "evidence_segment_indices": [
-            94,
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117
-          ],
-          "start_seconds": 184.239,
-          "end_seconds": 235.519
-        },
-        {
-          "point": "Kulinski interprets the naming and construction projects as immediate attention-seeking rather than long-term planning.",
-          "evidence_segment_indices": [
-            143,
-            144,
-            145,
-            146,
-            147,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153,
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160,
-            161,
-            162,
-            163,
-            164,
-            165,
-            166
-          ],
-          "start_seconds": 283.6,
-          "end_seconds": 340.24
-        },
-        {
-          "point": "The discussion ends with broad criticism of vanity projects, economic priorities, and alleged corruption.",
-          "evidence_segment_indices": [
-            174,
-            175,
-            176,
-            177,
-            178,
-            227,
-            228,
-            229,
-            230,
-            231,
-            232,
-            233,
-            234,
-            235,
-            242,
-            243,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251
-          ],
-          "start_seconds": 354.32,
-          "end_seconds": 518.399
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "792ea42dd83d624f194aca77aad1cefb6276914ae4027f734b69d5297b0bb114",
-      "transcript_captured_at": "2026-11-18T01:03:36.029524Z",
-      "summary_generated_at": "2026-11-18T01:09:08.601210Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is an edited automatic caption record with profanity redactions and apparent transcription errors.",
-        "The source does not provide documents or independent corroboration for the allegations and predictions discussed.",
-        "Some references, including the ballroom’s status and related projects, are ambiguous within the transcript.",
-        "The episode contains strongly subjective characterizations rather than a neutral account of events.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "C6QAR-t2ZIo",
-      "title": "Podcast Bro Went From Riding Trump’s Nuts To DESPISING Him | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=C6QAR-t2ZIo",
-      "published_at": "2026-11-17T23:45:25.000000Z",
-      "summary": "Kyle Kulinski argues that comedian Andrew Schultz has moved from admiring or aligning with Trump-era conservative politics to condemning Trump, whom Schultz reportedly calls the greatest presidential failure of his lifetime. Kulinski attributes this shift partly to Schultz’s stated reaction to immigration enforcement and partly to changing public sentiment, suggesting that audience backlash—not only political reconsideration—may explain why some podcast figures are distancing themselves from MAGA. He also revisits allegations about Trump’s first-term foreign policy, corruption, and broken promises, while acknowledging that several details should be checked. The episode then turns to Democratic leadership and Gaza. Kulinski and excerpts from a discussion involving Charlemagne argue that officials who describe Israel’s conduct as genocide should not support leaders they believe will continue military aid to Israel. They debate whether progressives are avoiding a direct challenge to Hakeem Jeffries and Chuck Schumer because of political retaliation, institutional pressures, or identity-based backlash. Kulinski concludes by urging viewers to contact lawmakers and demand policy commitments.",
-      "topics": [
-        "Andrew Schultz’s shift on Trump",
-        "MAGA and podcast politics",
-        "Trump record and allegations",
-        "Democratic leadership",
-        "Gaza and military aid"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Andrew Schultz described Trump as the greatest presidential failure of his lifetime.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            50,
-            51,
-            53,
-            54,
-            55,
-            56,
-            60,
-            61,
-            62,
-            63
-          ]
-        },
-        {
-          "claim": "Kulinski cites claims about Trump-era military actions, civilian deaths, drone strikes, and alleged corruption involving payday lenders.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            93,
-            94,
-            95,
-            96,
-            97,
-            98,
-            99,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            124,
-            125,
-            126,
-            127,
-            128
-          ]
-        },
-        {
-          "claim": "Kulinski says Trump made approximately 32,000 false statements while in office.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            146,
-            147,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153
-          ]
-        },
-        {
-          "claim": "The discussion alleges that Democratic leaders would continue supporting Israeli military aid and questions progressive support for them.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            234,
-            235,
-            236,
-            237,
-            238,
-            239,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251,
-            339,
-            340,
-            341,
-            342,
-            346,
-            347,
-            348,
-            350,
-            351,
-            352
-          ]
-        },
-        {
-          "claim": "Kulinski says Republican lawmakers resolved a contested Speaker vote through repeated ballots and negotiation, using Mike Johnson as an example.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            401,
-            402,
-            403,
-            404,
-            405,
-            406,
-            407,
-            408,
-            409,
-            410,
-            411,
-            412,
-            413,
-            414,
-            415,
-            416,
-            417,
-            418
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski presents Schultz’s criticism of Trump as a reversal from earlier favorable treatment.",
-          "evidence_segment_indices": [
-            6,
-            7,
-            8,
-            14,
-            15,
-            16,
-            20,
-            32,
-            33,
-            34,
-            35,
-            36,
-            49,
-            50,
-            51
-          ],
-          "start_seconds": 15.599,
-          "end_seconds": 113.2
-        },
-        {
-          "point": "Kulinski argues that several alleged problems with Trump were visible before the later backlash.",
-          "evidence_segment_indices": [
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140,
-            141
-          ],
-          "start_seconds": 181.2,
-          "end_seconds": 304.88
-        },
-        {
-          "point": "The episode links political repositioning to audience reaction and changing cultural incentives.",
-          "evidence_segment_indices": [
-            187,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195,
-            196,
-            207,
-            208,
-            209,
-            210
-          ],
-          "start_seconds": 398.639,
-          "end_seconds": 448.88
-        },
-        {
-          "point": "The Gaza discussion focuses on whether leadership choices are consistent with officials’ stated positions.",
-          "evidence_segment_indices": [
-            229,
-            230,
-            231,
-            232,
-            233,
-            234,
-            235,
-            236,
-            237,
-            247,
-            248,
-            249,
-            250,
-            251
-          ],
-          "start_seconds": 481.12,
-          "end_seconds": 531.279
-        },
-        {
-          "point": "Kulinski advocates pressure on lawmakers and negotiated alternatives in leadership contests.",
-          "evidence_segment_indices": [
-            420,
-            421,
-            422,
-            423,
-            424,
-            425,
-            426,
-            427,
-            428,
-            429,
-            430,
-            431,
-            432,
-            433,
-            455,
-            456,
-            457,
-            458,
-            459,
-            460,
-            461,
-            462,
-            463,
-            464
-          ],
-          "start_seconds": 836.32,
-          "end_seconds": 914.639
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "c41c3e0aebee9d1898f7c5084900b0b2237f2a11044125f468d3952b3140bb53",
-      "transcript_captured_at": "2026-11-18T01:03:27.054712Z",
-      "summary_generated_at": "2026-11-18T01:08:47.801784Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is automatically captioned and contains profanity redactions, misrecognitions, and unclear names.",
-        "The source provides commentary and excerpts but no independent documentation for the factual allegations discussed.",
-        "Several claims are presented tentatively or with explicit requests for fact-checking.",
-        "The episode’s political references are source-only and may omit relevant context or competing interpretations.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "OGc7xv7oJhw",
-      "title": "Mehdi Hasan GOES TO WAR With Diet-MAGA Democrats | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=OGc7xv7oJhw",
-      "published_at": "2026-11-17T23:15:12.000000Z",
-      "summary": "Kyle Kulinski argues that the Democratic Party’s supposed progressive-versus-moderate “civil war” is being misread. He presents Mehdi Hasan’s critique of election analyses that compare candidates’ margins without accounting for opponent quality, racial demographics, campaign spending, media attention, and local conditions. The discussion highlights progressive candidates who allegedly won difficult races despite substantial opposition, while some candidates labeled moderate reportedly campaigned on economic-populist themes. Kulinski and Hasan also dispute the definition of “moderate,” suggesting that anti-billionaire rhetoric, opposition to certain corporate projects, and support for expanded social programs have become more electorally prominent. Kulinski concludes that Democrats face a choice between pursuing substantial policy change and returning to incrementalism, which he predicts could help Republicans regain power. The episode relies heavily on asserted election results, spending figures, polling, demographic claims, and media-analysis comparisons; the transcript itself provides no underlying documentation for those claims.",
-      "topics": [
-        "Democratic Party factions",
-        "Election performance analysis",
-        "Progressive and moderate politics",
-        "Campaign money and media coverage"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Progressive candidates reportedly won several difficult races despite facing strong Republican opponents, negative coverage, or substantial outside spending.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            112,
-            115,
-            124,
-            167,
-            271,
-            275,
-            278,
-            297
-          ]
-        },
-        {
-          "claim": "The episode states that outside groups spent over $130 million against Abdul El-Sayed and about $40 million against Roy Cooper.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            270,
-            275,
-            276,
-            277,
-            278,
-            279
-          ]
-        },
-        {
-          "claim": "The episode cites an analysis claiming that roughly 80% of Democratic Senate candidates ran against billionaires, compared with under 20% in 2024.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            460,
-            465,
-            466,
-            467,
-            468,
-            469
-          ]
-        },
-        {
-          "claim": "The episode states that 90% of Democratic voters want Medicare for All to be a top priority.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            482,
-            483,
-            484,
-            485
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames the election debate as a conflict between Democratic factions and rejects margin-only comparisons.",
-          "evidence_segment_indices": [
-            2,
-            17,
-            20,
-            21,
-            23,
-            24,
-            57,
-            61
-          ],
-          "start_seconds": 5.2,
-          "end_seconds": 128.72
-        },
-        {
-          "point": "Hasan argues that opponent quality, race, money, media coverage, and local conditions affect candidate performance.",
-          "evidence_segment_indices": [
-            101,
-            107,
-            110,
-            112,
-            177,
-            218,
-            263,
-            290,
-            313
-          ],
-          "start_seconds": 196.08,
-          "end_seconds": 586.64
-        },
-        {
-          "point": "The speakers argue that many candidates labeled moderate used progressive or populist rhetoric during their campaigns.",
-          "evidence_segment_indices": [
-            362,
-            372,
-            376,
-            380,
-            398,
-            401,
-            403,
-            461,
-            463
-          ],
-          "start_seconds": 669.76,
-          "end_seconds": 859.12
-        },
-        {
-          "point": "Kulinski calls for Democrats to pursue substantive change rather than incremental governance.",
-          "evidence_segment_indices": [
-            527,
-            529,
-            533,
-            534,
-            540,
-            541,
-            542
-          ],
-          "start_seconds": 988.48,
-          "end_seconds": 1024.48
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "6ce0c2a2f53dc1e5cc5e72448e24e8b4dc99e87ef5dfb1ecbd79d39158f0e4b4",
-      "transcript_captured_at": "2026-11-18T01:03:18.676536Z",
-      "summary_generated_at": "2026-11-18T01:08:23.530887Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains numerous apparent caption errors, including names, labels, and garbled words.",
-        "Several numerical and electoral assertions are presented without supporting source material in the transcript.",
-        "The speakers’ characterizations of candidates, media coverage, racism, and political factions are opinions or allegations rather than independently established findings.",
-        "The source covers one political commentary episode and does not provide opposing analyses or underlying datasets.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
