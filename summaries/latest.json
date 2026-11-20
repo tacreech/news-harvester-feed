@@ -1,11 +1,189 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T00:42:01.153921Z",
+  "generated_at": "2026-11-20T01:12:01.150510Z",
   "reporting_window": {
-    "start": "2026-11-13T00:42:01.153921Z",
-    "end": "2026-11-20T00:42:01.153921Z"
+    "start": "2026-11-13T01:12:01.150510Z",
+    "end": "2026-11-20T01:12:01.150510Z"
   },
   "episodes": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "ddFBY59Qx3Q",
+      "title": "Grand Theft Auto 6 Got Leaked Today...",
+      "url": "https://www.youtube.com/watch?v=ddFBY59Qx3Q",
+      "published_at": "2026-11-20T00:10:54.000000Z",
+      "summary": "The creator, Mutahar, presents GTA 6 as highly acclaimed while focusing on an alleged Cyber League leak of an Xbox build. He says the circulated torrent is nearly complete but lacks its executable, and reports that Cyber League claims the missing file will be released after a countdown or if a cryptocurrency token reaches a stated market-cap target. Mutahar examines described directory contents and encrypted components, while acknowledging uncertainty about whether the build can run and whether the promised executable will appear. He argues that successful emulation or porting could significantly affect Rockstar and Take-Two, but does not establish that this outcome will occur. The discussion then shifts to impressions attributed to streamers, reviewers, and online material: a large setting, flexible heist approaches, relationship systems, car-security mechanics, a demanding life-simulation style, and performance concerns. Mutahar predicts these design choices may divide players. Because the account relies on captions and reported leak material, the episode supports discussion of claims rather than independent confirmation.",
+      "topics": [
+        "GTA 6 leak claims",
+        "Cyber League and cryptocurrency",
+        "Xbox build and emulation",
+        "Gameplay design impressions",
+        "Performance and player reception"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Cyber League allegedly released or possesses a near-complete November 2026 Xbox build of GTA 6, with the executable missing.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            65,
+            69,
+            72,
+            76,
+            79,
+            148,
+            150,
+            162,
+            188,
+            205
+          ]
+        },
+        {
+          "claim": "Cyber League allegedly planned to release the executable after a countdown or if its token reached a $15 million market capitalization.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            87,
+            91,
+            102,
+            104,
+            109
+          ]
+        },
+        {
+          "claim": "The leaked files allegedly contain a 208-gigabyte build with substantial game assets and encrypted Xbox components.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            149,
+            150,
+            151,
+            165,
+            192,
+            196,
+            200,
+            205
+          ]
+        },
+        {
+          "claim": "The game was allegedly receiving a 99 Metacritic score and had already been released.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            2,
+            4,
+            9,
+            13,
+            27,
+            513
+          ]
+        },
+        {
+          "claim": "GTA 6 may become playable on PC through emulation, recompilation, or other adaptation of the alleged Xbox build.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            81,
+            82,
+            203,
+            217,
+            234,
+            240,
+            243,
+            251
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Mutahar frames the episode around an alleged near-complete Xbox leak and a missing executable.",
+          "evidence_segment_indices": [
+            29,
+            31,
+            65,
+            67,
+            72,
+            76,
+            79
+          ],
+          "start_seconds": 67.52,
+          "end_seconds": 184.959
+        },
+        {
+          "point": "He remains uncertain whether the files are complete, runnable, or accompanied by the promised executable.",
+          "evidence_segment_indices": [
+            154,
+            160,
+            161,
+            201,
+            204,
+            208,
+            214,
+            219,
+            220
+          ],
+          "start_seconds": 350.08,
+          "end_seconds": 502.479
+        },
+        {
+          "point": "His gameplay discussion emphasizes exploration, flexible operations, relationships, car security, and a slower life-simulation approach.",
+          "evidence_segment_indices": [
+            281,
+            299,
+            314,
+            332,
+            343,
+            398,
+            426,
+            452
+          ],
+          "start_seconds": 630.079,
+          "end_seconds": 1005.68
+        },
+        {
+          "point": "He expects the game’s complexity and performance may divide players, while describing the reported footage and reviews positively.",
+          "evidence_segment_indices": [
+            267,
+            274,
+            335,
+            367,
+            385,
+            388,
+            405,
+            507,
+            513
+          ],
+          "start_seconds": 604.399,
+          "end_seconds": 1139.28
+        },
+        {
+          "point": "He characterizes the cryptocurrency funding mechanism as questionable but says he cannot verify alleged connected accounts or money flows.",
+          "evidence_segment_indices": [
+            111,
+            118,
+            119,
+            121,
+            126,
+            129,
+            138
+          ],
+          "start_seconds": 255.599,
+          "end_seconds": 318.56
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "8c3cf6e4af25d0e178c144ae50fde32b526bdb3373d730ebd8f222a0fd91328d",
+      "transcript_captured_at": "2026-11-20T01:03:14.880265Z",
+      "summary_generated_at": "2026-11-20T01:08:26.191583Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains substantial caption defects, profanity redactions, repetitions, and misrecognitions of names and technical terms.",
+        "The episode frequently relies on what Mutahar says he saw in streams, directories, metadata, or online reports; those materials are not independently provided here.",
+        "Claims about release status, review scores, build authenticity, token activity, executable timing, and emulation remain source-only allegations.",
+        "Several gameplay details are presented as observations or reports from incomplete or leaked material, so their final-release status is unclear.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5306,246 +5484,6 @@
         "The source is a single creator’s commentary and does not provide the underlying studies, surveys, forecasts, sales records, nominations, or cited posts.",
         "Several statements are predictions, sarcasm, or allegations about groups and individuals rather than independently verified findings.",
         "The transcript does not establish the broader prevalence of the reactions described or the accuracy of quoted third-party claims.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "9BFOeXACYt0",
-      "title": "🚨 Trump is FURIOUS as Congress LAUNCHES Probe into his FAMILY, IT'S TIME!!!",
-      "url": "https://www.youtube.com/watch?v=9BFOeXACYt0",
-      "published_at": "2026-11-18T14:46:38.000000Z",
-      "summary": "Aaron Parnas presents a commentary episode arguing that a possible Democratic takeover of the House could bring investigations involving Donald Trump’s family, administration officials, and people connected to the Epstein case. He says preservation notices were reportedly sent to 12 individuals and lists alleged conflicts of interest, misuse of office, corruption, government-contract steering, and questions about Epstein-related decisions. The episode also describes expected partisan retaliation, noting Republican claims of political retribution and denials of wrongdoing from Trump’s family. Parnas connects the domestic political conflict to Trump’s reported overseas meetings with Xi Jinping and Vladimir Putin, expressing concern about implications for Ukraine. Additional segments discuss Trump’s remarks in the Philippines, a meeting with Imelda Marcos, and an Army plan in Iowa involving unstable explosives and potential lead contamination. The episode is primarily an advocacy-oriented account that combines political analysis, allegations, quoted remarks, and calls for accountability; the transcript itself does not provide documentary evidence or responses from all named people.",
-      "topics": [
-        "Congressional oversight",
-        "Trump family allegations",
-        "Epstein files and survivors",
-        "Trump’s foreign meetings",
-        "Iowa explosives concerns"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Preservation letters were sent to 12 people in Trump’s orbit as a first step toward congressional investigations.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            20,
-            22,
-            24,
-            25,
-            26,
-            27,
-            28,
-            30,
-            31,
-            32
-          ]
-        },
-        {
-          "claim": "The named individuals face allegations involving conflicts of interest, corruption, self-enrichment, contract steering, or Epstein-related concealment.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            33,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65
-          ]
-        },
-        {
-          "claim": "Maxwell was moved to a minimum-security prison camp after offering favorable testimony about Trump and receiving favorable privileges.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            83,
-            84,
-            85,
-            86,
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95
-          ]
-        },
-        {
-          "claim": "The Army planned to destroy nearly five tons of unstable explosives in Iowa, prompting school closures and resident evacuations because of possible lead dust.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            187,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195,
-            196,
-            197,
-            198,
-            199,
-            200,
-            201,
-            202
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode frames a prospective Democratic House majority and Robert Garcia’s expected oversight chairmanship as a major political shift.",
-          "evidence_segment_indices": [
-            19,
-            20,
-            21,
-            22,
-            23,
-            24
-          ],
-          "start_seconds": 42.719,
-          "end_seconds": 56.96
-        },
-        {
-          "point": "Parnas lists 12 people and institutions he says are subjects of preservation notices or proposed oversight inquiries.",
-          "evidence_segment_indices": [
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            95,
-            96
-          ],
-          "start_seconds": 54.719,
-          "end_seconds": 212.08
-        },
-        {
-          "point": "The presentation describes expected investigations and counter-investigations as an escalating partisan confrontation, while acknowledging denials and Republican accusations of retribution.",
-          "evidence_segment_indices": [
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111
-          ],
-          "start_seconds": 210.48,
-          "end_seconds": 241.68
-        },
-        {
-          "point": "Parnas links Trump’s international travel and meetings with foreign leaders to concerns about Ukraine and the symbolism of his interactions abroad.",
-          "evidence_segment_indices": [
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            146,
-            147,
-            148,
-            149,
-            150,
-            151
-          ],
-          "start_seconds": 264.639,
-          "end_seconds": 319.52
-        },
-        {
-          "point": "The episode closes by emphasizing accountability for alleged domestic misconduct and continued attention to Epstein survivors and an Iowa environmental-safety issue.",
-          "evidence_segment_indices": [
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121,
-            122,
-            123,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208
-          ],
-          "start_seconds": 240.239,
-          "end_seconds": 466.56
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "171945a3a3bff102bded18ceba83e2294e51bcd9998b0e482d615055a0aad394",
-      "transcript_captured_at": "2026-11-18T17:03:27.804667Z",
-      "summary_generated_at": "2026-11-18T17:08:28.433701Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains numerous apparent captioning or transcription errors in names, places, and terms.",
-        "Many allegations are presented by the creator without supporting documents, full context, or responses from the named parties.",
-        "The episode combines commentary, quoted remarks, predictions, and reported events; the transcript alone cannot establish which claims are accurate.",
-        "The source provides only transcript excerpts and no independent corroboration.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
