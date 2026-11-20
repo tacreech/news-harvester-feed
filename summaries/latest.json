@@ -1,11 +1,175 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T02:42:01.150173Z",
+  "generated_at": "2026-11-20T03:12:01.202012Z",
   "reporting_window": {
-    "start": "2026-11-13T02:42:01.150173Z",
-    "end": "2026-11-20T02:42:01.150173Z"
+    "start": "2026-11-13T03:12:01.202012Z",
+    "end": "2026-11-20T03:12:01.202012Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "_2Pxn9POaok",
+      "title": "‘A DISASTER’ — Trump Admin Officials Face FIRING as Hearings Devolve into Complete CHAOS, It’s BAD!!",
+      "url": "https://www.youtube.com/watch?v=_2Pxn9POaok",
+      "published_at": "2026-11-20T00:56:04.000000Z",
+      "summary": "Creator Aaron Parnas argues that Trump administration nominations and congressional hearings have deteriorated, portraying several nominees as unable or unwilling to answer basic questions about the 2020 election, January 6, and ethics. He focuses first on Michael Losapio, described as Trump’s choice to lead CISA, whose hearing included repeated refusals or uncertainty when asked about the 2020 popular vote and whether the Capitol was attacked. Parnas then discusses an ethics nominee identified as Chamberlain, who declined to assess reported financial dealings involving the president and World Liberty Financial without more information. The episode also covers inspectors-general and judicial nominees, emphasizing their answers that Joe Biden was certified president while avoiding or initially failing to state who won the popular vote. Senator Rand Paul is presented as defending a broader debate over election irregularities and the treatment of January 6 defendants. The overview reflects the creator’s framing and caption transcript only; names, roles, events, and allegations require independent verification.",
+      "topics": [
+        "Trump administration nominations",
+        "Congressional hearings",
+        "Election-related questioning",
+        "Government ethics",
+        "January 6 and election claims"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The national cyber director resigned or departed shortly after a cyber incident affecting the Agriculture Department.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim": "Michael Losapio was nominated to lead CISA and gave the described answers about the 2020 election and January 6.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            25,
+            27,
+            28,
+            30,
+            32,
+            33,
+            35,
+            38,
+            57,
+            63,
+            68,
+            70,
+            81,
+            88
+          ]
+        },
+        {
+          "claim": "A presidential financial-interest arrangement involving UAE payments to World Liberty Financial occurred as described during the ethics questioning.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            114,
+            116,
+            117,
+            118,
+            121,
+            124,
+            125,
+            126,
+            128,
+            129,
+            136
+          ]
+        },
+        {
+          "claim": "Wisconsin counted tens of thousands of mail ballots lacking witness signatures under the process described by Rand Paul.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            264,
+            268,
+            270,
+            274,
+            276,
+            278,
+            281,
+            282
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas presents the hearings as evidence of worsening problems for the administration and says multiple nominations may be imperiled.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            17,
+            18
+          ],
+          "start_seconds": 0.08,
+          "end_seconds": 44.559
+        },
+        {
+          "point": "Losapio repeatedly declined or struggled to answer questions about the 2020 popular vote and January 6 during CISA-related questioning.",
+          "evidence_segment_indices": [
+            27,
+            33,
+            38,
+            50,
+            57,
+            63,
+            68,
+            70,
+            81,
+            88
+          ],
+          "start_seconds": 59.199,
+          "end_seconds": 190.4
+        },
+        {
+          "point": "The creator says Chamberlain avoided offering an ethics assessment of reported presidential financial dealings without additional facts.",
+          "evidence_segment_indices": [
+            109,
+            114,
+            121,
+            124,
+            128,
+            130,
+            132,
+            136,
+            137
+          ],
+          "start_seconds": 240.72,
+          "end_seconds": 306.0
+        },
+        {
+          "point": "Rand Paul argues that judges should not be forced to answer political questions and describes disputes over election procedures and January 6 prosecutions.",
+          "evidence_segment_indices": [
+            240,
+            242,
+            256,
+            258,
+            261,
+            268,
+            281,
+            288,
+            293,
+            298,
+            301,
+            302,
+            310
+          ],
+          "start_seconds": 544.88,
+          "end_seconds": 704.399
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "2d95200e75ec071333e7708e181fba145a26166bc234d55b4a045467cef02031",
+      "transcript_captured_at": "2026-11-20T03:03:16.435555Z",
+      "summary_generated_at": "2026-11-20T03:08:26.204036Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains automated-caption errors, including uncertain names, titles, and words.",
+        "Several exchanges are fragmented or overlap, making some speaker attributions ambiguous.",
+        "The source provides commentary and excerpts rather than complete hearing records or corroborating documents.",
+        "Claims about cyber incidents, financial arrangements, ballot procedures, and nominations are presented in the episode but are not independently established here.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5253,237 +5417,6 @@
         "Several claims are Kulinski’s interpretations or allegations and are not independently established in the excerpt.",
         "Some quoted statements come from embedded clips, while speaker attribution is not always explicit in the captions.",
         "The provided excerpt ends after the speaker-vote discussion and does not substantiate the episode’s announced segments on polling, Schumer, Iran, or Tucker Carlson.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "BjF5gtKgD2o",
-      "title": "‘THEY ARE INCOMPETENT’ — Republicans BLAST Trump’s Judges as Nominees MELT DOWN in Disaster Hearing",
-      "url": "https://www.youtube.com/watch?v=BjF5gtKgD2o",
-      "published_at": "2026-11-18T20:43:00.000000Z",
-      "summary": "Creator Aaron Parnas presents a critical account of a Senate hearing on federal judicial nominees, arguing that several nominees appeared unable or unwilling to answer questions about the 2020 election, the January 6 attack on the Capitol, and constitutional interpretation. The excerpt includes exchanges in which nominees identify Joe Biden as the certified 2020 winner but decline, defer, or hesitate when asked who won the popular vote. It also features questioning of James P. Sullivan about the 22nd Amendment and whether President Trump could seek another term, followed by a discussion of originalism, precedent, and punishments under the Eighth Amendment. Senators Kennedy and Durbin challenge Sullivan’s responses, while other nominees give qualified descriptions of January 6 and its violence. Parnas characterizes the hearing as evidence of incompetence and political loyalty concerns. The material is a creator-led presentation built around selected hearing excerpts, with promotional interruptions and transcription errors; it does not independently establish the nominees’ qualifications or the broader political claims.",
-      "topics": [
-        "Judicial confirmation hearing",
-        "2020 election questions",
-        "Constitutional interpretation",
-        "January 6 characterization",
-        "Nominee independence"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The hearing involved nominees for federal judicial positions who were being considered for lifetime appointments.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            0,
-            1,
-            10,
-            11,
-            12,
-            442,
-            443
-          ]
-        },
-        {
-          "claim": "James P. Sullivan was a Texas Supreme Court justice and nominee for a federal district judgeship.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            84,
-            85,
-            118,
-            234,
-            235,
-            327,
-            328,
-            332
-          ]
-        },
-        {
-          "claim": "Nominees repeatedly identified Biden as the certified winner of the 2020 election while declining or hesitating to answer who won the popular vote.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            28,
-            29,
-            30,
-            31,
-            34,
-            35,
-            39,
-            40,
-            41,
-            42,
-            43,
-            444,
-            445,
-            446,
-            448,
-            449,
-            450,
-            451,
-            452,
-            466,
-            467,
-            468,
-            469,
-            470
-          ]
-        },
-        {
-          "claim": "The hearing included questions about whether January 6 should be characterized as an attack on the Capitol, with nominees offering qualified or deferential answers.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            381,
-            382,
-            383,
-            384,
-            385,
-            386,
-            387,
-            388,
-            389,
-            390,
-            391,
-            392,
-            393,
-            405,
-            406,
-            407,
-            408,
-            410,
-            412,
-            413,
-            414,
-            415,
-            416,
-            417
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames the hearing as a breakdown in nominee competence and independence, while the excerpts show senators pressing nominees on factual and constitutional questions.",
-          "evidence_segment_indices": [
-            3,
-            4,
-            5,
-            6,
-            7,
-            79,
-            80,
-            81,
-            82,
-            83
-          ],
-          "start_seconds": 7.279,
-          "end_seconds": 207.12
-        },
-        {
-          "point": "One nominee initially struggles to state the 22nd Amendment and declines to opine on a possible third Trump term, citing judicial ethics.",
-          "evidence_segment_indices": [
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121,
-            122
-          ],
-          "start_seconds": 230.879,
-          "end_seconds": 305.919
-        },
-        {
-          "point": "Kennedy uses an Eighth Amendment hypothetical about ear-cutting to test the nominee’s stated originalist approach and relationship to Supreme Court precedent.",
-          "evidence_segment_indices": [
-            240,
-            241,
-            242,
-            243,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251,
-            252,
-            256,
-            257,
-            258,
-            259,
-            260,
-            261,
-            262,
-            263,
-            264,
-            277,
-            278,
-            279
-          ],
-          "start_seconds": 571.36,
-          "end_seconds": 667.04
-        },
-        {
-          "point": "Durbin questions Sullivan about moving from a Texas Supreme Court campaign to a federal nomination, while the nominee says he had applied for federal service earlier.",
-          "evidence_segment_indices": [
-            327,
-            328,
-            329,
-            330,
-            331,
-            332,
-            333,
-            334,
-            335,
-            336,
-            337,
-            338,
-            339,
-            340,
-            341,
-            342,
-            343,
-            344,
-            345,
-            346,
-            347,
-            348,
-            349,
-            350
-          ],
-          "start_seconds": 766.399,
-          "end_seconds": 821.76
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "ac16e17a97114e5f971b671db66b0723136642d257f50823d51813ed0be8ab74",
-      "transcript_captured_at": "2026-11-18T22:03:15.946394Z",
-      "summary_generated_at": "2026-11-18T22:08:28.472341Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The evidence is limited to one creator’s narration and selected hearing excerpts, not a complete hearing record.",
-        "Automatic captions contain apparent transcription defects, including names, legal terms, and occasional garbled phrasing.",
-        "The excerpt does not independently verify the nominees’ identities, qualifications, confirmation status, or the creator’s broader conclusions.",
-        "Promotional material interrupts the hearing discussion and is not relevant to the episode’s substantive claims.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
