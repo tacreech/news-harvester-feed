@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T16:12:01.215361Z",
+  "generated_at": "2026-11-20T16:42:01.157276Z",
   "reporting_window": {
-    "start": "2026-11-13T16:12:01.215361Z",
-    "end": "2026-11-20T16:12:01.215361Z"
+    "start": "2026-11-13T16:42:01.157276Z",
+    "end": "2026-11-20T16:42:01.157276Z"
   },
   "episodes": [
     {
@@ -223,6 +223,219 @@
         "The creator labels the account about AI-related outage causes as unconfirmed, and the FAA is described as denying that its tool caused the ground stop.",
         "Reported polls, financial results, IPO details, cyber threat findings, and outage figures are presented in the episode but are not independently verified here.",
         "Some conclusions about future stock performance, systemic failure, and regulatory outcomes are the creator’s opinions or predictions rather than established facts.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Mike Figueredo — The Humanist Report",
+      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
+      "video_id": "y9_RCWY01pw",
+      "title": "Conservative Outrage Over GTA 6 is So Damn Goofy it Feels Satirical",
+      "url": "https://www.youtube.com/watch?v=y9_RCWY01pw",
+      "published_at": "2026-11-20T14:59:54.000000Z",
+      "summary": "The creator argues that conservative criticism of GTA 6 is exaggerated and internally inconsistent. He contrasts a Fox News discussion portraying the game as harmful to children, potentially connected to violence, and corrosive to responsibility with the creator’s view that parents should regulate children’s access and that fictional gameplay is not comparable to handling a real firearm. He also challenges the segment’s broader claims about video games and violence, while asserting that the hosts’ concerns about guns and crime conflict with their political positions. A second focus is criticism from online male influencers who object to gameplay involving household chores, respectful treatment of women, and limits on misogynistic or hateful actions; the creator interprets much of this reaction as performative, though he acknowledges some may be sincere. The episode relies heavily on commentary, satire, and excerpts from other media. Several factual allegations and research references are presented without supporting documentation in the transcript.",
+      "topics": [
+        "GTA 6 controversy",
+        "Video games and violence",
+        "Conservative media criticism",
+        "Online misogyny",
+        "Parenting and game access"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The creator says studies have concluded that violent video games do not make people violent.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            144,
+            145,
+            146,
+            147,
+            148
+          ]
+        },
+        {
+          "claim": "The creator alleges that a named political figure committed or was responsible for numerous crimes, including war crimes and corruption.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196
+          ]
+        },
+        {
+          "claim": "The creator says a named online personality was indicted for allegedly raping a minor.",
+          "attributed_to": "Mike Figueredo — The Humanist Report",
+          "evidence_segment_indices": [
+            408,
+            409,
+            410
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode opens by criticizing claims that adults should not take time off work to play GTA 6.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "start_seconds": 0.08,
+          "end_seconds": 66.4
+        },
+        {
+          "point": "A featured media discussion links video games with violence, youth crime, and the availability of firearms; the creator disputes or mocks these arguments.",
+          "evidence_segment_indices": [
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85
+          ],
+          "start_seconds": 96.64,
+          "end_seconds": 175.599
+        },
+        {
+          "point": "The creator distinguishes fictional game actions from real-world firearm use and supports parental limits on children’s access to adult games.",
+          "evidence_segment_indices": [
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            271,
+            272,
+            273,
+            274
+          ],
+          "start_seconds": 452.08,
+          "end_seconds": 567.04
+        },
+        {
+          "point": "The episode portrays some online backlash against GTA 6’s relationship-oriented missions and restrictions as performative or rooted in resentment toward respectful treatment of women.",
+          "evidence_segment_indices": [
+            312,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318,
+            319,
+            320,
+            321,
+            322,
+            323,
+            324,
+            325,
+            326,
+            327,
+            328,
+            329,
+            330,
+            331,
+            332,
+            333,
+            334,
+            335
+          ],
+          "start_seconds": 633.44,
+          "end_seconds": 679.6
+        },
+        {
+          "point": "The creator concludes that conservative outrage is useful mainly as an example of what he views as political inconsistency and moral panic.",
+          "evidence_segment_indices": [
+            429,
+            430,
+            431,
+            432,
+            433,
+            434,
+            435,
+            436,
+            437,
+            438,
+            439,
+            440,
+            441,
+            442,
+            443,
+            444
+          ],
+          "start_seconds": 874.399,
+          "end_seconds": 905.68
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "70c98919b75aa037be934a9148fc14091928df77bfccf04c22c35b115ec53fa2",
+      "transcript_captured_at": "2026-11-20T16:33:15.430479Z",
+      "summary_generated_at": "2026-11-20T16:38:26.365562Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains automatic-caption errors, profanity redactions, repetitions, and some unclear names or phrases.",
+        "The source is a commentary episode with selected clips, not a complete record of the referenced broadcasts or games.",
+        "Several allegations, research references, statistics, and descriptions of game content are asserted without documentation in the provided material.",
+        "The transcript does not independently establish whether the quoted media speakers were being literal, hyperbolic, or sarcastic.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -5221,187 +5434,6 @@
         "Many geopolitical claims are presented by the creator or interviewee without supporting documentation in the source.",
         "Reports of drone numbers, infrastructure effects and public sentiment are attributed to interview remarks and may not represent broader evidence.",
         "The source is an episode transcript only; it does not include independent confirmation, opposing accounts or the full interview context.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "tuZTj3M1TLc",
-      "title": "Trump Gets RUDE AWAKENING As MAGA COLLAPSE INTENSIFIES!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=tuZTj3M1TLc",
-      "published_at": "2026-11-18T22:30:32.000000Z",
-      "summary": "Kyle Kulinski argues that Donald Trump has declined from a politically effective campaigner into a leader focused on White House renovations while, in Kulinski’s account, cyber incidents, economic pressures, social-program cuts, and the Iran war worsen. He criticizes Trump’s response to reported outages, especially the remark that disruptions are simply part of life, and contrasts attention to buildings, stones, a helipad, and a proposed ballroom with policy concerns. Kulinski also alleges that federal cybersecurity staffing was reduced and connects that decision rhetorically to later cyberattacks, though the episode provides no independent documentation. The discussion then turns to polling that Kulinski presents as showing lower approval, weakening personal loyalty among Republicans, and majority support for moving beyond Trump. He predicts a Republican conflict because Trump may remain important in primaries while damaging general-election prospects. The episode closes with claims about Head Start pay, the unpopularity of the Iran war, and its domestic costs. The source is commentary rather than independent reporting.",
-      "topics": [
-        "Trump’s political decline",
-        "Cybersecurity and infrastructure",
-        "White House renovations",
-        "Republican Party realignment",
-        "Iran war and public opinion"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The administration reduced the relevant federal cybersecurity agency by 30%, forcing out nearly 1,000 employees.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            111,
-            112,
-            113,
-            114,
-            115,
-            116
-          ]
-        },
-        {
-          "claim": "Reported polls show Trump approval near 32%, Republicans shifting toward the party over Trump, and majority support for moving beyond him.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            462,
-            463,
-            464,
-            465,
-            488,
-            489,
-            497,
-            498,
-            513,
-            514,
-            515,
-            516,
-            517,
-            518,
-            519,
-            520
-          ]
-        },
-        {
-          "claim": "Trump’s Iran war is more unpopular than the Vietnam War according to the cited polling.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            563,
-            564,
-            565,
-            573,
-            574,
-            575,
-            576
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski’s central thesis is that Trump’s political skill and public standing have deteriorated.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            32,
-            33,
-            34,
-            43,
-            44,
-            45
-          ],
-          "start_seconds": 0.32,
-          "end_seconds": 99.2
-        },
-        {
-          "point": "He criticizes Trump’s response to outages and emphasizes the reported contrast between infrastructure concerns and White House projects.",
-          "evidence_segment_indices": [
-            62,
-            63,
-            64,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            180,
-            181,
-            182,
-            195,
-            196,
-            197,
-            198,
-            201,
-            202,
-            203,
-            204
-          ],
-          "start_seconds": 130.64,
-          "end_seconds": 398.24
-        },
-        {
-          "point": "Kulinski presents Republican voters as increasingly divided over whether to retain or move beyond Trump.",
-          "evidence_segment_indices": [
-            488,
-            489,
-            491,
-            492,
-            493,
-            494,
-            497,
-            498,
-            499,
-            513,
-            514,
-            515,
-            516,
-            517,
-            518,
-            519,
-            520,
-            521,
-            522,
-            523
-          ],
-          "start_seconds": 941.12,
-          "end_seconds": 1022.8
-        },
-        {
-          "point": "The closing segment links public dissatisfaction to social-program allegations, war costs, and domestic economic pressures.",
-          "evidence_segment_indices": [
-            551,
-            552,
-            553,
-            554,
-            563,
-            564,
-            565,
-            581,
-            582,
-            583,
-            584,
-            585,
-            586,
-            587,
-            588,
-            589,
-            590,
-            593,
-            594,
-            595
-          ],
-          "start_seconds": 1075.039,
-          "end_seconds": 1182.96
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "06c605911d34d9aa56565b5b491db58161090088ee70d135f9ade844b937aaa5",
-      "transcript_captured_at": "2026-11-19T00:33:15.902241Z",
-      "summary_generated_at": "2026-11-19T00:38:25.652435Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains profanity redactions, recognition errors, overlapping segments, and occasional misheard names or terms.",
-        "Several statistics and polling references are attributed to third parties but are not documented beyond the creator’s discussion.",
-        "The source is a single opinion episode and does not provide independent corroboration or full context for the allegations and predictions.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
