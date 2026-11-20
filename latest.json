@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T15:00:54.871471Z",
+  "generated_at": "2026-11-20T15:30:54.962484Z",
   "reporting_window": {
-    "start": "2026-11-13T15:00:54.871471Z",
-    "end": "2026-11-20T15:00:54.871471Z",
+    "start": "2026-11-13T15:30:54.962484Z",
+    "end": "2026-11-20T15:30:54.962484Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,16 +14,16 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-20T15:00:53.533913Z",
+      "last_successful_poll": "2026-11-20T15:30:53.461003Z",
       "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-20T15:00:53.787931Z",
+      "health": "success_new",
+      "discovery_status": "success_new",
+      "last_successful_poll": "2026-11-20T15:30:53.697859Z",
       "warnings": []
     },
     {
@@ -32,29 +32,77 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-20T15:00:54.035138Z",
+      "last_successful_poll": "2026-11-20T15:30:53.914813Z",
       "warnings": []
     },
     {
       "creator": "Mike Figueredo — The Humanist Report",
       "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-20T15:00:54.289381Z",
+      "health": "success_new",
+      "discovery_status": "success_new",
+      "last_successful_poll": "2026-11-20T15:30:54.319071Z",
       "warnings": []
     },
     {
       "creator": "House of El – AI",
       "channel_id": "UCsoc5Ad-fC7wWie2PH4rPcw",
       "identity_status": "verified",
-      "health": "success_new",
-      "discovery_status": "success_new",
-      "last_successful_poll": "2026-11-20T15:00:54.698924Z",
+      "health": "success_no_new",
+      "discovery_status": "success_no_new",
+      "last_successful_poll": "2026-11-20T15:30:54.810243Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "House of El – AI",
+      "channel_id": "UCsoc5Ad-fC7wWie2PH4rPcw",
+      "video_id": "6y8Ew6_ymRk",
+      "title": "AI Bubble BLOODBATH: Anthropic Erased $230 Billion in Hours",
+      "published_at": "2026-11-20T15:00:10.000000Z",
+      "url": "https://www.youtube.com/watch?v=6y8Ew6_ymRk",
+      "first_seen": "2026-11-20T15:00:54.698924Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
+    {
+      "creator": "Mike Figueredo — The Humanist Report",
+      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
+      "video_id": "y9_RCWY01pw",
+      "title": "Conservative Outrage Over GTA 6 is So Damn Goofy it Feels Satirical",
+      "published_at": "2026-11-20T14:59:54.000000Z",
+      "url": "https://www.youtube.com/watch?v=y9_RCWY01pw",
+      "first_seen": "2026-11-20T15:30:54.319071Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "EZ0h1qf7baM",
+      "title": "This isn’t great.",
+      "published_at": "2026-11-20T14:59:08.000000Z",
+      "url": "https://www.youtube.com/watch?v=EZ0h1qf7baM",
+      "first_seen": "2026-11-20T15:30:53.697859Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "a3UbxZsejGc",
+      "title": "'IT IS CRUMBLING' — Texas Democrats Take AIM at Elon Musk’s Empire as Putin Launches BOMBS at Poland",
+      "published_at": "2026-11-20T14:49:07.000000Z",
+      "url": "https://www.youtube.com/watch?v=a3UbxZsejGc",
+      "first_seen": "2026-11-20T15:30:53.697859Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -63,18 +111,6 @@
       "published_at": "2026-11-20T14:02:50.000000Z",
       "url": "https://www.youtube.com/watch?v=DApobkd-tso",
       "first_seen": "2026-11-20T14:30:13.894833Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "not_queued"
-    },
-    {
-      "creator": "House of El – AI",
-      "channel_id": "UCsoc5Ad-fC7wWie2PH4rPcw",
-      "video_id": "6y8Ew6_ymRk",
-      "title": "AI Bubble BLOODBATH: Anthropic Erased $230 Billion in Hours",
-      "published_at": "2026-11-20T12:57:16.000000Z",
-      "url": "https://www.youtube.com/watch?v=6y8Ew6_ymRk",
-      "first_seen": "2026-11-20T15:00:54.698924Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "not_queued"
@@ -2007,30 +2043,6 @@
       "published_at": "2026-11-13T16:13:04.000000Z",
       "url": "https://www.youtube.com/watch?v=K_4nYh6p_NY",
       "first_seen": "2026-11-13T16:30:21.749649Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "not_queued"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "JmdRubafyrE",
-      "title": "🚨 'IT'S OVER' — Vance’s Political Future TANKS as Trump’s Cabinet Throws EACH OTHER Under the BUS!!",
-      "published_at": "2026-11-13T15:14:25.000000Z",
-      "url": "https://www.youtube.com/watch?v=JmdRubafyrE",
-      "first_seen": "2026-11-13T16:00:11.040312Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "expired"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "gqZImSV5-ec",
-      "title": "This is very serious!",
-      "published_at": "2026-11-13T15:14:23.000000Z",
-      "url": "https://www.youtube.com/watch?v=gqZImSV5-ec",
-      "first_seen": "2026-11-13T16:00:11.040312Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "not_queued"
