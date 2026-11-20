@@ -1,11 +1,465 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T03:12:01.202012Z",
+  "generated_at": "2026-11-20T16:12:01.215361Z",
   "reporting_window": {
-    "start": "2026-11-13T03:12:01.202012Z",
-    "end": "2026-11-20T03:12:01.202012Z"
+    "start": "2026-11-13T16:12:01.215361Z",
+    "end": "2026-11-20T16:12:01.215361Z"
   },
   "episodes": [
+    {
+      "creator": "House of El – AI",
+      "channel_id": "UCsoc5Ad-fC7wWie2PH4rPcw",
+      "video_id": "6y8Ew6_ymRk",
+      "title": "AI Bubble BLOODBATH: Anthropic Erased $230 Billion in Hours",
+      "url": "https://www.youtube.com/watch?v=6y8Ew6_ymRk",
+      "published_at": "2026-11-20T15:00:10.000000Z",
+      "summary": "The creator argues that public frustration with AI is driven less by the technology itself than by how institutions impose and govern it. He divides skeptics into people who see mainly risks—job loss, intellectual-property concerns, and infrastructure costs—and users who resent mandatory adoption, usage targets, and responsibility for correcting AI errors. He links this concern to alleged disruptions affecting banks, government systems, and air travel, while acknowledging that some explanations are unconfirmed and that the FAA denied responsibility for one claimed connection. The episode also discusses Google’s reported warning about increasingly autonomous cyberattacks. A major focus is Anthropic’s reported IPO and the possibility that index-fund rules could channel retirement savings into the company without individual investors choosing it. The creator presents financial and operational figures as reasons for caution but declines to predict the stock’s direction. He concludes by advocating stronger AI governance, financial regulation, and user choice, while still describing AI as useful when voluntarily adopted.",
+      "topics": [
+        "AI governance and public trust",
+        "Critical infrastructure and cybersecurity",
+        "Workplace AI mandates",
+        "Anthropic IPO and passive investing"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The creator reports that six major disruptions occurred in six days, including banking, government-network, and air-travel outages, with more than 20,000 flights cancelled.",
+          "attributed_to": "House of El – AI",
+          "evidence_segment_indices": [
+            98,
+            101,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108
+          ]
+        },
+        {
+          "claim": "The creator says three anonymous sources attributed some outages to rushed fixes for flaws identified by AI models, while explicitly calling the account unconfirmed.",
+          "attributed_to": "House of El – AI",
+          "evidence_segment_indices": [
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            131,
+            132
+          ]
+        },
+        {
+          "claim": "The creator reports that Google said autonomous cyberattacks had arrived and described AI-assisted exploitation of newly fixed vulnerabilities.",
+          "attributed_to": "House of El – AI",
+          "evidence_segment_indices": [
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            199,
+            200,
+            201,
+            202
+          ]
+        },
+        {
+          "claim": "The creator reports that Anthropic priced its shares at $83, raised just over $81 billion, and reached an approximate $1.5 trillion valuation.",
+          "attributed_to": "House of El – AI",
+          "evidence_segment_indices": [
+            441,
+            442,
+            443,
+            444,
+            445,
+            446,
+            447,
+            448,
+            449
+          ]
+        },
+        {
+          "claim": "The creator argues that rapid index inclusion could direct passive fund money, including retirement savings, into Anthropic without individual savers selecting the company.",
+          "attributed_to": "House of El – AI",
+          "evidence_segment_indices": [
+            460,
+            461,
+            462,
+            463,
+            467,
+            468,
+            469,
+            470,
+            471,
+            472,
+            473,
+            474,
+            475,
+            476,
+            480,
+            481,
+            482,
+            483,
+            493,
+            494,
+            495,
+            496,
+            497,
+            498
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator’s central distinction is between opposition to AI’s effects and resentment of compulsory, metric-driven adoption.",
+          "evidence_segment_indices": [
+            30,
+            31,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            257,
+            258,
+            259,
+            260,
+            261,
+            262
+          ],
+          "start_seconds": 69.2,
+          "end_seconds": 595.2
+        },
+        {
+          "point": "He argues that organizations may shift review burdens and liability onto employees who must validate AI-generated work.",
+          "evidence_segment_indices": [
+            369,
+            370,
+            371,
+            372,
+            373,
+            374,
+            375,
+            376,
+            377,
+            378,
+            379,
+            380,
+            381
+          ],
+          "start_seconds": 821.839,
+          "end_seconds": 854.72
+        },
+        {
+          "point": "He presents connected systems as vulnerable to both rushed deployment and faster AI-enabled attacks.",
+          "evidence_segment_indices": [
+            133,
+            134,
+            135,
+            136,
+            137,
+            180,
+            181,
+            182,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214
+          ],
+          "start_seconds": 298.16,
+          "end_seconds": 491.28
+        },
+        {
+          "point": "The creator supports stronger governance and regulation while maintaining that voluntary AI use can be beneficial.",
+          "evidence_segment_indices": [
+            576,
+            577,
+            578,
+            579,
+            580,
+            581,
+            582,
+            583,
+            584,
+            585,
+            603,
+            604,
+            605,
+            606,
+            607,
+            608,
+            609,
+            610
+          ],
+          "start_seconds": 1304.159,
+          "end_seconds": 1383.679
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "ac7f90294cf8727d3d49cb0003181fb347a6c76e0d9737f8ae134d677abaae57",
+      "transcript_captured_at": "2026-11-20T16:03:20.378340Z",
+      "summary_generated_at": "2026-11-20T16:08:28.383115Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies only on the supplied automatic captions; several names, figures, and terms appear mistranscribed.",
+        "The creator labels the account about AI-related outage causes as unconfirmed, and the FAA is described as denying that its tool caused the ground stop.",
+        "Reported polls, financial results, IPO details, cyber threat findings, and outage figures are presented in the episode but are not independently verified here.",
+        "Some conclusions about future stock performance, systemic failure, and regulatory outcomes are the creator’s opinions or predictions rather than established facts.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "a3UbxZsejGc",
+      "title": "'IT IS CRUMBLING' — Texas Democrats Take AIM at Elon Musk’s Empire as Putin Launches BOMBS at Poland",
+      "url": "https://www.youtube.com/watch?v=a3UbxZsejGc",
+      "published_at": "2026-11-20T14:49:07.000000Z",
+      "summary": "Creator Aaron Parnas presents a political-news overview linking Texas scrutiny of Elon Musk, Russia’s attacks on Ukraine and Poland, alleged government-record destruction, and Democratic organizing after the election. He says Texas officials are reconsidering incentives and regulatory arrangements involving SpaceX, including a rejected property-tax break and proposed review of launch-related access and a possible Tesla-SpaceX merger. Parnas reports that Russia launched a large barrage against Ukraine and that missiles landed in Poland, while attributing criticism of Donald Trump’s assessment of Vladimir Putin to Polish Prime Minister Donald Tusk. He also describes Congressman Jamie Raskin’s allegation that Trump officials may have deleted or concealed government records. The episode concludes with an interview with Run for Something co-founder Amanda Litman, who claims the group supported hundreds of winning candidates and argues Democrats should build durable state-level power, recruit candidates early, and demonstrate effective governance. Captioned excerpts contain several uncertain names, figures, and wording, so the overview reflects the source’s claims rather than independently verified events.",
+      "topics": [
+        "Texas politics and SpaceX",
+        "Russia-Ukraine war",
+        "Government records allegations",
+        "Democratic organizing"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Texas officials rejected a proposed 10-year, 100% property-tax break for a SpaceX data center and power plant near Brownsville.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56
+          ]
+        },
+        {
+          "claim": "Russia launched at least 110 missiles and about 400 drones at Ukraine, with missiles landing in Poland.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            81,
+            82,
+            83,
+            84
+          ]
+        },
+        {
+          "claim": "Congressman Jamie Raskin said there was significant evidence of widespread destruction, mutilation, and concealment of government records by officials.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108
+          ]
+        },
+        {
+          "claim": "Amanda Litman said Run for Something had 259 winners, including 75 red-to-blue flips, across roughly 43 to 45 states.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames Texas as moving toward greater scrutiny of Musk’s companies and related public incentives.",
+          "evidence_segment_indices": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47
+          ],
+          "start_seconds": 49.52,
+          "end_seconds": 94.24
+        },
+        {
+          "point": "The episode contrasts Trump’s reported view that Putin is ready for a deal with Tusk’s criticism after a reported Russian barrage.",
+          "evidence_segment_indices": [
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98
+          ],
+          "start_seconds": 174.72,
+          "end_seconds": 210.64
+        },
+        {
+          "point": "The interview emphasizes state and local elections, candidate recruitment, and demonstrating governing results.",
+          "evidence_segment_indices": [
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224
+          ],
+          "start_seconds": 268.96,
+          "end_seconds": 469.919
+        },
+        {
+          "point": "Litman argues Democrats face a credibility gap and should prove they can deliver through governance.",
+          "evidence_segment_indices": [
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277
+          ],
+          "start_seconds": 519.36,
+          "end_seconds": 561.44
+        },
+        {
+          "point": "The source includes a promotional call to subscribe and an invitation for prospective candidates to use Run for Something’s website.",
+          "evidence_segment_indices": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            310,
+            311,
+            312
+          ],
+          "start_seconds": 40.0,
+          "end_seconds": 628.16
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "7e283672a259853681be190711950bece066bdaf3cc8e7df3d04b54522501c80",
+      "transcript_captured_at": "2026-11-20T16:03:14.588239Z",
+      "summary_generated_at": "2026-11-20T16:08:50.681009Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The captions contain apparent transcription errors and uncertain names, including references to Texas officials and locations.",
+        "Several reported figures and election outcomes are presented by speakers without supporting documentation in the excerpt.",
+        "The episode combines commentary, allegations, reported events, and an interview; the source alone does not establish independent verification.",
+        "The excerpt may omit context surrounding the legal, regulatory, military, and electoral claims.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4948,475 +5402,6 @@
         "The transcript contains profanity redactions, recognition errors, overlapping segments, and occasional misheard names or terms.",
         "Several statistics and polling references are attributed to third parties but are not documented beyond the creator’s discussion.",
         "The source is a single opinion episode and does not provide independent corroboration or full context for the allegations and predictions.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "PU_Gpyq6NiU",
-      "title": "TRUMP BOMBS IRAN, IRAN IMMEDIATELY RETALIATES!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=PU_Gpyq6NiU",
-      "published_at": "2026-11-18T22:03:07.000000Z",
-      "summary": "Kyle Kulinski argues that a reported U.S. strike on Iran’s Qeshm Island was followed by Iranian retaliation, while receiving little mainstream-media attention. The episode presents embedded commentary claiming the strike was described by U.S. officials as self-defense and that Iran attacked shipping, drones, and regional military facilities. Kulinski links these reported events to warnings about cyberattacks, outages affecting major organizations, and the possibility of a broader regional escalation. He also discusses allegations that Israel and U.S. officials are pressuring President Trump to resume intensified military action, while questioning media reports about a possible Iranian attack in Washington. The episode repeatedly treats several disputed developments as interconnected, including cyber incidents, military strikes, and political messaging. It concludes with criticism of the Trump administration’s personnel and security policies, and of perceived U.S.-Israeli influence over regional strategy. The transcript is an opinion program incorporating claims from other commentators and official statements; the supplied material does not independently verify those claims.",
-      "topics": [
-        "U.S.-Iran escalation",
-        "Qeshm Island strike",
-        "Strait of Hormuz shipping",
-        "Cybersecurity and outages",
-        "Media and war messaging"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "U.S. aircraft struck an IRGC missile site on Qeshm Island and Iran retaliated against U.S. or allied targets.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            25,
-            26,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207
-          ]
-        },
-        {
-          "claim": "Iran struck seven tankers in the Strait of Hormuz and downed specified numbers of U.S. drones.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            100
-          ]
-        },
-        {
-          "claim": "Cyberattacks or outages affected businesses, airports, banks, technology companies, the NSA, and financial services during the same period.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            185,
-            186,
-            187,
-            188,
-            189,
-            190,
-            191,
-            192
-          ]
-        },
-        {
-          "claim": "Iranian officials or media threatened or conducted attacks involving regional bases and infrastructure, including Bahrain and Kuwait.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207,
-            210,
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            223,
-            224,
-            225
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames the reported Qeshm Island strike and retaliation as evidence of dangerous regional escalation.",
-          "evidence_segment_indices": [
-            2,
-            3,
-            5,
-            6,
-            9,
-            10,
-            14,
-            15,
-            16,
-            17
-          ],
-          "start_seconds": 4.4,
-          "end_seconds": 43.36
-        },
-        {
-          "point": "The program presents competing U.S. and Iranian accounts of attacks, interceptions, and damage.",
-          "evidence_segment_indices": [
-            32,
-            33,
-            34,
-            35,
-            36,
-            46,
-            50,
-            58,
-            93,
-            94,
-            95,
-            100,
-            203,
-            204,
-            205,
-            206,
-            207
-          ],
-          "start_seconds": 71.2,
-          "end_seconds": 448.56
-        },
-        {
-          "point": "Kulinski connects cyber incidents and infrastructure outages to the broader conflict, while acknowledging uncertainty about attribution.",
-          "evidence_segment_indices": [
-            119,
-            120,
-            121,
-            122,
-            123,
-            124,
-            149,
-            150,
-            151,
-            152,
-            153,
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160,
-            161,
-            162,
-            163,
-            164,
-            165
-          ],
-          "start_seconds": 272.4,
-          "end_seconds": 366.479
-        },
-        {
-          "point": "He accuses mainstream media of minimizing or selectively presenting the conflict and disputed allegations about Iranian plans.",
-          "evidence_segment_indices": [
-            168,
-            169,
-            170,
-            171,
-            175,
-            176,
-            227,
-            228,
-            229,
-            230,
-            231,
-            232,
-            233,
-            234,
-            278,
-            279,
-            280,
-            281,
-            282,
-            283,
-            284,
-            285,
-            286,
-            287
-          ],
-          "start_seconds": 368.16,
-          "end_seconds": 604.88
-        },
-        {
-          "point": "The episode criticizes the Trump administration and argues that Israeli pressure is influencing U.S. policy.",
-          "evidence_segment_indices": [
-            144,
-            145,
-            146,
-            147,
-            148,
-            505,
-            506,
-            507,
-            512,
-            513,
-            514,
-            525,
-            526,
-            527,
-            528,
-            529,
-            530,
-            531,
-            532,
-            533
-          ],
-          "start_seconds": 320.479,
-          "end_seconds": 1100.88
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "21b023342db15ea7adc85fe2b3483a69e90f7c795b99a44890f9ed40a8d9bc1d",
-      "transcript_captured_at": "2026-11-18T23:03:20.750673Z",
-      "summary_generated_at": "2026-11-18T23:08:50.274365Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is commentary with embedded clips and quoted official or media claims, not independent reporting.",
-        "Captioning contains probable transcription errors, including names, places, military designations, and repeated or malformed phrases.",
-        "Several claims are presented as allegations, theories, or conflicting accounts and require independent verification.",
-        "The supplied source provides no corroborating documents or systematic chronology beyond the spoken material.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "OYY7b1Jo7bo",
-      "title": "BREAKING: JEFFRIES APPROVED AS SPEAKER, ONLY 11 DEMS VOTE AGAINST HIM | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=OYY7b1Jo7bo",
-      "published_at": "2026-11-18T21:20:10.000000Z",
-      "summary": "Kyle Kulinski argues that Hakeem Jeffries’ election as House speaker, by a reported 251–11 vote with two Democrats absent or not voting, demonstrates both broad Democratic support and the limited leverage of progressive dissenters. He criticizes Jeffries over what he describes as corporate politics, close ties to pro-Israel donors, opposition to some progressive priorities, and an allegedly inconsistent position on ending the Iran war. Kulinski highlights a statement from Democratic opponents saying Jeffries had not met all of their demands, while praising their willingness to vote against him. He also disputes television commentators who characterize criticism of Jeffries as racist, arguing that policy disagreement should not be conflated with bigotry. The episode presents phone calls and public pressure as having pushed Jeffries toward expanded Medicare coverage and other commitments, though Kulinski says viewers should continue monitoring Democratic officials. The excerpt focuses almost entirely on the speaker vote and related commentary; it does not include the promised polling, Schumer, Iran, or Tucker Carlson segments.",
-      "topics": [
-        "Hakeem Jeffries speaker vote",
-        "Progressive Democratic dissent",
-        "Israel and foreign-policy criticism",
-        "Medicare and congressional pressure"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Jeffries won the speakership 251–11, with two Democrats not voting, and was the first Black House speaker.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70
-          ]
-        },
-        {
-          "claim": "Jeffries has an 18% approval rating and receives substantial funding from pro-Israel political interests.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            74,
-            78,
-            79,
-            80,
-            81,
-            157,
-            181,
-            218,
-            219
-          ]
-        },
-        {
-          "claim": "Public pressure led Jeffries to support a major Medicare expansion and related healthcare commitments.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            601,
-            602,
-            603,
-            604,
-            605,
-            606,
-            607,
-            608,
-            609,
-            613,
-            624,
-            625,
-            626,
-            638,
-            639
-          ]
-        },
-        {
-          "claim": "Jeffries’ allies threatened a congressman-elect’s career unless he supported Jeffries.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            477,
-            478,
-            479,
-            480,
-            481
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames the speaker vote as an overwhelming victory for Jeffries but a disappointing result for progressives.",
-          "evidence_segment_indices": [
-            64,
-            67,
-            71,
-            72,
-            73,
-            74,
-            87,
-            157,
-            158
-          ],
-          "start_seconds": 133.84,
-          "end_seconds": 341.52
-        },
-        {
-          "point": "Several Democrats cited unmet demands involving healthcare, immigration enforcement, money in politics, and Gaza when explaining their opposition.",
-          "evidence_segment_indices": [
-            90,
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110
-          ],
-          "start_seconds": 196.56,
-          "end_seconds": 239.84
-        },
-        {
-          "point": "The episode contrasts policy-based criticism with media allegations that some opposition to Jeffries is racist.",
-          "evidence_segment_indices": [
-            175,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            185,
-            190,
-            191,
-            192,
-            193,
-            194,
-            198,
-            199,
-            200,
-            201,
-            202,
-            203
-          ],
-          "start_seconds": 375.44,
-          "end_seconds": 431.12
-        },
-        {
-          "point": "Kulinski says sustained pressure may produce further concessions and urges continued scrutiny of Democratic leaders.",
-          "evidence_segment_indices": [
-            701,
-            702,
-            703,
-            704,
-            705,
-            706,
-            707,
-            718,
-            719,
-            720,
-            721,
-            722,
-            723,
-            724,
-            725,
-            729,
-            730,
-            731,
-            732,
-            733,
-            734,
-            735
-          ],
-          "start_seconds": 1446.0,
-          "end_seconds": 1518.0
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "b4d80cbe33935d6c0a7dd1421902f3fe239d205bf5ba0588c9c3fb96a6cafd48",
-      "transcript_captured_at": "2026-11-18T23:03:14.530696Z",
-      "summary_generated_at": "2026-11-18T23:08:25.549503Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains automatic-caption defects, including misspellings and obscured profanity, which may affect names and wording.",
-        "Several claims are Kulinski’s interpretations or allegations and are not independently established in the excerpt.",
-        "Some quoted statements come from embedded clips, while speaker attribution is not always explicit in the captions.",
-        "The provided excerpt ends after the speaker-vote discussion and does not substantiate the episode’s announced segments on polling, Schumer, Iran, or Tucker Carlson.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
