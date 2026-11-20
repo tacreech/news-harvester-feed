@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T01:12:01.150510Z",
+  "generated_at": "2026-11-20T01:42:01.218587Z",
   "reporting_window": {
-    "start": "2026-11-13T01:12:01.150510Z",
-    "end": "2026-11-20T01:12:01.150510Z"
+    "start": "2026-11-13T01:42:01.218587Z",
+    "end": "2026-11-20T01:42:01.218587Z"
   },
   "episodes": [
     {
@@ -629,6 +629,211 @@
         "The episode relies on reported analyses and public disclosures that are not independently verified here.",
         "The transcript does not establish whether consumers legally receive tariff refunds or how each company ultimately uses refund proceeds.",
         "Claims that the tariff policy was deliberately planned as a scam or involved insider trading are presented as Kulinski’s allegations and speculation.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "unfO0LC-DGk",
+      "title": "‘HE IS IN TROUBLE’ — Trump TURNS ON Vance as Allies Sound ALARM, He Gives Up EVERYTHING!!",
+      "url": "https://www.youtube.com/watch?v=unfO0LC-DGk",
+      "published_at": "2026-11-19T22:53:36.000000Z",
+      "summary": "Aaron Parnas argues that Donald Trump’s reported dissatisfaction with JD Vance has left the vice president politically constrained: supporting Trump could tie him to an unpopular war, while breaking with him could cost presidential backing. The episode also describes Trump questioning European support for Ukraine after meeting Vladimir Putin and contrasts that approach with a German leader’s stated commitment to backing Ukraine. Parnas then presents a confirmation hearing in which Trump’s cyber-defense nominee gives uncertain answers about January 6. In an extended interview, Senator Chris Coons criticizes the administration’s foreign-policy judgment, raises concerns about infrastructure outages and AI-related vulnerabilities, and calls for investigations involving powerful business figures. Coons also predicts that Democrats’ electoral gains will matter only if the party delivers tangible results and develops broader leadership. The program mixes reported claims, commentary, interview opinions, promotional material, and captions with frequent transcription errors; the supplied transcript alone does not establish the accuracy of its allegations or predictions.",
+      "topics": [
+        "Trump–Vance relationship",
+        "Ukraine and Russia policy",
+        "Confirmation hearing",
+        "Cybersecurity and AI risks",
+        "Democratic strategy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Trump reportedly became dissatisfied with Vance after Vance attributed Republican midterm losses to the war, and Vance was removed from Iran peace talks.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            34,
+            37,
+            38,
+            40,
+            41,
+            44,
+            45
+          ]
+        },
+        {
+          "claim": "Trump questioned European allies about continued financial support for Ukraine after meeting Putin.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            63,
+            66,
+            67,
+            68,
+            70,
+            71,
+            72
+          ]
+        },
+        {
+          "claim": "The nominee discussed in the hearing gave conflicting or uncertain answers about whether the Capitol was attacked on January 6, 2021.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            117,
+            118,
+            119,
+            120,
+            121,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136
+          ]
+        },
+        {
+          "claim": "Coons alleged that Elon Musk’s actions involving Ukraine’s satellite communications contributed to civilian deaths and raised concerns about national-security vulnerabilities.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            348,
+            350,
+            351,
+            352,
+            353,
+            354,
+            355,
+            356,
+            357,
+            358,
+            359,
+            360,
+            361,
+            362,
+            363
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames Vance as caught between loyalty to Trump and political costs associated with the war.",
+          "evidence_segment_indices": [
+            40,
+            41,
+            42,
+            44,
+            45,
+            58,
+            59,
+            60,
+            61
+          ],
+          "start_seconds": 86.88,
+          "end_seconds": 134.8
+        },
+        {
+          "point": "The episode portrays European leaders as insisting that Ukraine’s future peace and security require European participation.",
+          "evidence_segment_indices": [
+            73,
+            78,
+            79,
+            80,
+            82,
+            84,
+            85,
+            88,
+            89,
+            90
+          ],
+          "start_seconds": 154.879,
+          "end_seconds": 210.319
+        },
+        {
+          "point": "Coons argues that emerging cyber and AI vulnerabilities require stronger oversight and questions the administration’s competence.",
+          "evidence_segment_indices": [
+            385,
+            388,
+            392,
+            394,
+            397,
+            400,
+            407,
+            408,
+            409,
+            410,
+            451,
+            452,
+            453,
+            454
+          ],
+          "start_seconds": 882.8,
+          "end_seconds": 1062.64
+        },
+        {
+          "point": "Coons says Democrats should pursue focused investigations while also delivering practical improvements for voters.",
+          "evidence_segment_indices": [
+            313,
+            314,
+            331,
+            332,
+            333,
+            334,
+            336,
+            337,
+            338,
+            339,
+            340,
+            341,
+            342,
+            343,
+            344,
+            345
+          ],
+          "start_seconds": 711.2,
+          "end_seconds": 791.04
+        },
+        {
+          "point": "The interview closes with uncertainty over Democratic Senate leadership and an emphasis on broad caucus representation.",
+          "evidence_segment_indices": [
+            479,
+            480,
+            481,
+            482,
+            490,
+            491,
+            502,
+            503,
+            504,
+            516,
+            517,
+            518,
+            519,
+            529,
+            530,
+            531,
+            537,
+            538,
+            539,
+            540
+          ],
+          "start_seconds": 1109.84,
+          "end_seconds": 1256.48
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "8cc32edb093b6198174924de4eed295d5637ab1b084b24ec641bc88ba3e6de40",
+      "transcript_captured_at": "2026-11-20T01:33:20.524994Z",
+      "summary_generated_at": "2026-11-20T01:38:29.386662Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains numerous caption defects, including misspelled names, garbled phrases, overlapping segments, and unclear speaker labels.",
+        "Several allegations and predictions are attributed to Parnas, cited reporting, or Coons rather than independently established in the source.",
+        "The transcript includes only selected remarks and does not provide corroborating documents, full interview context, or responses from people criticized.",
+        "Some references are ambiguous because transcription errors obscure locations, identities, agencies, and event details.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -5256,234 +5461,6 @@
         "Several allegations are presented by the creator or lawmakers without supporting documents in the source.",
         "The transcript does not establish the accuracy of disputed events, figures, legal characterizations, or claims about individuals.",
         "Some exchanges are fragmented or overlapping, making speaker attribution occasionally uncertain.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mike Figueredo — The Humanist Report",
-      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
-      "video_id": "GTtzDsYU6J4",
-      "title": "GTA 6 is Creating a Hilarious Conundrum for Anti-Woke Reactionaries",
-      "url": "https://www.youtube.com/watch?v=GTtzDsYU6J4",
-      "published_at": "2026-11-18T14:59:51.000000Z",
-      "summary": "The creator argues that GTA 6 exposes a contradiction in anti-woke commentary: critics may label the game “woke” because of its female and minority characters, yet its expected popularity makes “go woke, go broke” difficult to apply. He contrasts this debate with older objections to video-game violence, saying fictional interactivity should not be treated as evidence of real-world harm and criticizing selective moral outrage. The episode also mentions complaints about the lack of a PC launch and a 30-frames-per-second target, while presenting GTA 6 as an unusually significant entertainment event. The creator portrays some online reactions as attempts to predict the game’s failure, condemn its themes, or bait conservatives with parody claims. He concludes that audiences primarily care whether the game is entertaining, and suggests using the game’s perceived progressivism to troll its critics. The discussion is commentary-driven and includes several claims about studies, sales, workplace behavior, forecasts, and public reactions that are not independently established here.",
-      "topics": [
-        "GTA 6 and cultural politics",
-        "Anti-woke criticism",
-        "Video-game violence",
-        "Entertainment economics"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A 2019 University of Oxford study found no correlation between violent video games and aggressive behavior.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44
-          ]
-        },
-        {
-          "claim": "GTA 6 had reportedly sold 15 million copies before release, while workplace surveys indicated elevated leave plans and possible economic productivity losses.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144,
-            145,
-            146,
-            147,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153
-          ]
-        },
-        {
-          "claim": "A Lancet forecast estimated that 9.4 million people would die by 2030 specifically because of Elon Musk's USAID cuts.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82
-          ]
-        },
-        {
-          "claim": "GTA 6 had received eight game-of-the-year nominations before release.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            154,
-            155,
-            156,
-            157,
-            158
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator says anti-woke critics are hesitant to attack GTA 6 because its anticipated success could undermine the “go woke, go broke” slogan.",
-          "evidence_segment_indices": [
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            159,
-            160,
-            161,
-            162,
-            163
-          ],
-          "start_seconds": 263.759,
-          "end_seconds": 342.24
-        },
-        {
-          "point": "He presents accusations that GTA 6 is “woke” as responses to its female lead, racial representation, and perceived reduction in offensive humor.",
-          "evidence_segment_indices": [
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            284,
-            285,
-            286,
-            287,
-            288,
-            289,
-            290,
-            291,
-            292,
-            293,
-            294,
-            295,
-            296
-          ],
-          "start_seconds": 358.32,
-          "end_seconds": 609.44
-        },
-        {
-          "point": "The episode distinguishes the creator’s own objections—no PC launch at release and a 30-fps target—from culture-war complaints.",
-          "evidence_segment_indices": [
-            109,
-            110,
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118
-          ],
-          "start_seconds": 226.4,
-          "end_seconds": 250.08
-        },
-        {
-          "point": "The creator argues that fun and entertainment, rather than ideological labels, determine whether audiences embrace a game.",
-          "evidence_segment_indices": [
-            354,
-            355,
-            356,
-            357,
-            358,
-            359,
-            360,
-            361,
-            362,
-            363,
-            364,
-            365,
-            366,
-            367,
-            368,
-            369,
-            370,
-            371,
-            372,
-            390,
-            391,
-            392,
-            393,
-            394
-          ],
-          "start_seconds": 726.48,
-          "end_seconds": 808.16
-        },
-        {
-          "point": "He endorses parody and “rage bait” aimed at conservatives, while noting that some users reacted to a parody claim about GTA 6 online content as if it were genuine.",
-          "evidence_segment_indices": [
-            402,
-            403,
-            404,
-            405,
-            406,
-            407,
-            408,
-            409,
-            410,
-            411,
-            412,
-            413,
-            414,
-            415,
-            416,
-            417,
-            418,
-            419,
-            420,
-            421,
-            422,
-            423,
-            424,
-            425
-          ],
-          "start_seconds": 820.48,
-          "end_seconds": 867.92
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "89008a9a6bb38772d5748e7dacda2edcdf3667aa65cab141367e7c42bf053c9a",
-      "transcript_captured_at": "2026-11-18T17:03:15.903125Z",
-      "summary_generated_at": "2026-11-18T17:08:52.988886Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Caption segmentation contains overlaps, profanity redactions, misspellings, and apparent transcription errors.",
-        "The source is a single creator’s commentary and does not provide the underlying studies, surveys, forecasts, sales records, nominations, or cited posts.",
-        "Several statements are predictions, sarcasm, or allegations about groups and individuals rather than independently verified findings.",
-        "The transcript does not establish the broader prevalence of the reactions described or the accuracy of quoted third-party claims.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
