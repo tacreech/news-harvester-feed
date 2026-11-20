@@ -1,11 +1,200 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T01:42:01.218587Z",
+  "generated_at": "2026-11-20T02:42:01.150173Z",
   "reporting_window": {
-    "start": "2026-11-13T01:42:01.218587Z",
-    "end": "2026-11-20T01:42:01.218587Z"
+    "start": "2026-11-13T02:42:01.150173Z",
+    "end": "2026-11-20T02:42:01.150173Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "bsQ-VBrscns",
+      "title": "DEM SENATOR SHOOTS HIMSELF IN THE P*NIS | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=bsQ-VBrscns",
+      "published_at": "2026-11-20T00:15:03.000000Z",
+      "summary": "Kyle Kulinski argues that Democrats risk wasting what he describes as a major electoral advantage if they leave the Senate filibuster unchanged. He frames Senator Mark Warner’s defense of the filibuster as politically self-defeating, while acknowledging that Warner also criticized inequality and said capitalism works less well when capital and labor are separated. Kulinski’s central objection is that the current filibuster effectively raises the threshold for legislation from a simple majority to 60 votes, allowing a minority to block governing priorities. He prefers eliminating the filibuster, though he says he would accept restoring a talking filibuster requiring sustained floor debate. He also contends that the filibuster is not constitutionally rooted or unchanged since the nation’s founding, pointing to numerous reforms and exceptions. The episode closes with a call for Democrats to pursue policies including higher wages, universal health care, paid leave, higher taxes on the wealthy, and medical-debt relief. The overview reflects the commentator’s arguments and the limited supplied transcript.",
+      "topics": [
+        "Democratic strategy",
+        "Senate filibuster",
+        "Capitalism and inequality",
+        "Legislative priorities"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The filibuster is not in the Constitution, first occurred in 1837, and has undergone multiple reforms since then.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187
+          ]
+        },
+        {
+          "claim": "There are 161 exceptions to the filibuster, with several categories of legislation requiring only 51 votes.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211
+          ]
+        },
+        {
+          "claim": "Democrats obtained a major House and Senate majority in the election discussed.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            2,
+            3,
+            4,
+            5,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski says Democrats could squander their electoral advantage by retaining the current filibuster.",
+          "evidence_segment_indices": [
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111
+          ],
+          "start_seconds": 194.159,
+          "end_seconds": 216.799
+        },
+        {
+          "point": "Warner defends the filibuster but also says capitalism must work for most people and once functioned better for workers and owners.",
+          "evidence_segment_indices": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89
+          ],
+          "start_seconds": 122.24,
+          "end_seconds": 171.28
+        },
+        {
+          "point": "Kulinski favors majority rule, while offering a talking-filibuster model as a compromise.",
+          "evidence_segment_indices": [
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            169,
+            170
+          ],
+          "start_seconds": 264.0,
+          "end_seconds": 324.72
+        },
+        {
+          "point": "He urges Democrats to deliver economic and social-policy measures such as wage increases, universal health care, paid leave, and higher taxes on the wealthy.",
+          "evidence_segment_indices": [
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265
+          ],
+          "start_seconds": 487.36,
+          "end_seconds": 512.32
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "296f53f0e512f61da9043197707a39a031f328cd1cabb6fe10836f7bbe022bf8",
+      "transcript_captured_at": "2026-11-20T02:33:27.555620Z",
+      "summary_generated_at": "2026-11-20T02:38:30.238826Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains automatic-caption redactions and some garbled or overlapping speech.",
+        "The source provides commentary and an excerpted interview, not independent corroboration of historical or procedural claims.",
+        "The election context and references to specific political figures are not fully explained within the supplied material.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
@@ -5295,172 +5484,6 @@
         "Automatic captions contain apparent transcription defects, including names, legal terms, and occasional garbled phrasing.",
         "The excerpt does not independently verify the nominees’ identities, qualifications, confirmation status, or the creator’s broader conclusions.",
         "Promotional material interrupts the hearing discussion and is not relevant to the episode’s substantive claims.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "OASSwOX3ET0",
-      "title": "‘HE CRASHED OUT’ —  Trump Secretary LOSES IT During Hearing, Trump is FURIOUS and Considers FIRING!!",
-      "url": "https://www.youtube.com/watch?v=OASSwOX3ET0",
-      "published_at": "2026-11-18T17:28:04.000000Z",
-      "summary": "Creator Aaron Parnas portrays a congressional hearing as a damaging episode for the Trump administration and argues that Homeland Security Secretary Mark Wayne Mullen appeared defensive under questioning. The video focuses first on Mullen’s explanation for attending an LSU football game, including his claims that the trip was preplanned, personally reimbursed, and compatible with aviation-safety responsibilities. It then highlights exchanges over domestic-terrorism examples, ICE hiring and training standards, and questions about why Mullen was not informed earlier about an alleged compromise involving Nvidia’s chief executive. Members of Congress also challenge the department over unanswered oversight requests, alleged misconduct by agents, and accountability for internal investigations. Mullen responds that active ICE personnel have completed background checks and required training, while some others were placed on administrative leave, and that he cannot discuss ongoing cases. The creator concludes that the hearing was a disaster and says some people want Mullen fired. The transcript is caption-derived and provides no independent documentation for the allegations or broader political conclusions.",
-      "topics": [
-        "Homeland Security hearing",
-        "ICE screening and training",
-        "Congressional oversight",
-        "Cybersecurity briefing",
-        "Political accountability"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The creator and lawmakers allege that an ICE agent involved in a fatal shooting was deployed before completing full background checks and standardized training.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            194,
-            195,
-            201,
-            204,
-            206,
-            208,
-            218,
-            241,
-            245,
-            246
-          ]
-        },
-        {
-          "claim": "A lawmaker states that DHS received multiple unanswered oversight inquiries and alleges limited accountability in cited ICE-related investigations.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            319,
-            320,
-            321,
-            324,
-            330,
-            331,
-            369,
-            372,
-            373,
-            374,
-            380,
-            385
-          ]
-        },
-        {
-          "claim": "The hearing includes an allegation that Nvidia CEO Jensen Huang was compromised by a Chinese spy agency, while Mullen says DHS was not informed until the matter became public.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            279,
-            280,
-            281,
-            282,
-            283,
-            286,
-            287,
-            288,
-            294,
-            301,
-            304
-          ]
-        },
-        {
-          "claim": "The creator alleges that Mullen has failed to explain reported outages within a cybersecurity-related area of responsibility.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            14,
-            16,
-            17,
-            18,
-            19
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Mullen says his LSU trip was scheduled in advance, personally paid or reimbursed, and undertaken while airspace was open.",
-          "evidence_segment_indices": [
-            24,
-            26,
-            31,
-            43,
-            44,
-            47,
-            56,
-            57,
-            58,
-            89,
-            90
-          ],
-          "start_seconds": 51.44,
-          "end_seconds": 201.04
-        },
-        {
-          "point": "Questioning challenged Mullen to identify right-wing domestic-terrorism organizations; he cited 764 and Antifa but emphasized case-specific criteria.",
-          "evidence_segment_indices": [
-            109,
-            111,
-            112,
-            116,
-            119,
-            124,
-            138,
-            151,
-            155,
-            161,
-            162
-          ],
-          "start_seconds": 231.92,
-          "end_seconds": 344.56
-        },
-        {
-          "point": "Mullen testified that ICE agents currently serving have completed background checks and training, with incomplete cases placed on administrative leave.",
-          "evidence_segment_indices": [
-            188,
-            189,
-            190,
-            225,
-            226,
-            253,
-            254
-          ],
-          "start_seconds": 387.52,
-          "end_seconds": 524.8
-        },
-        {
-          "point": "The hearing ended with broader disputes over DHS responsiveness, alleged misconduct, detention practices, funding, and oversight.",
-          "evidence_segment_indices": [
-            313,
-            319,
-            327,
-            337,
-            362,
-            397,
-            409,
-            417,
-            423,
-            428,
-            432
-          ],
-          "start_seconds": 630.32,
-          "end_seconds": 912.88
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "bb24594ae1df126b9595346d6dde64ef5dcdab2ca026a6074908905b39dde3dd",
-      "transcript_captured_at": "2026-11-18T18:03:15.245040Z",
-      "summary_generated_at": "2026-11-18T18:08:27.511914Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is an automated caption transcript with apparent name, word, and phrase recognition errors.",
-        "Several allegations are presented by the creator or lawmakers without supporting documents in the source.",
-        "The transcript does not establish the accuracy of disputed events, figures, legal characterizations, or claims about individuals.",
-        "Some exchanges are fragmented or overlapping, making speaker attribution occasionally uncertain.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
