@@ -1,11 +1,209 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T02:42:01.159125Z",
+  "generated_at": "2026-11-21T18:12:01.175807Z",
   "reporting_window": {
-    "start": "2026-11-14T02:42:01.159125Z",
-    "end": "2026-11-21T02:42:01.159125Z"
+    "start": "2026-11-14T18:12:01.175807Z",
+    "end": "2026-11-21T18:12:01.175807Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "xfnyGnI5Xvo",
+      "title": "JD Vance PANICS As ALL PLANS COLLAPSE!! ",
+      "url": "https://www.youtube.com/watch?v=xfnyGnI5Xvo",
+      "published_at": "2026-11-21T17:00:30.000000Z",
+      "summary": "The creator and guests discuss possible 2028 presidential contests, arguing that polling portrays Kamala Harris ahead of JD Vance while Marco Rubio leads an early Republican field. They characterize Vance as politically constrained by loyalty to Donald Trump, who they say remains influential with Republican voters despite broader unpopularity. The conversation also considers potential Republican candidates, including Ron DeSantis, Thomas Massie, Pete Hegseth, and Donald Trump Jr., while predicting a crowded primary. On the Democratic side, the speakers debate whether voters will prioritize policy commitments such as Medicare for All, opposition to Israel’s war in Gaza, abolishing ICE, anti-corruption measures, and resistance to surveillance. They criticize centrist candidates for limited or carefully managed public engagement and argue that a more direct left-wing message could benefit Democrats. The discussion concludes by presenting opposition to AI expansion, data centers, and technology-sector influence as an increasingly important political issue. The transcript is commentary and prediction, not independent verification of the cited polls or events.",
+      "topics": [
+        "2028 presidential politics",
+        "Republican primary field",
+        "Democratic coalition and policy priorities",
+        "AI, data centers, and tech power"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A hypothetical 2028 matchup poll places Kamala Harris at 50% and JD Vance at 40%.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            43,
+            44,
+            45
+          ]
+        },
+        {
+          "claim": "An early 2028 Republican primary poll places Marco Rubio at 36%, JD Vance at 20%, and several others at 7%.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            155,
+            156,
+            157,
+            158,
+            159,
+            163,
+            166
+          ]
+        },
+        {
+          "claim": "The speakers attribute possible political distancing by Vance from Trump to anticipated criticism and electoral strategy.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            55,
+            56,
+            57,
+            58,
+            60,
+            61,
+            62,
+            63,
+            100,
+            101,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ]
+        },
+        {
+          "claim": "The discussion states that opposition to data centers contributed to Democratic gains in rural America and mattered in a Texas governor’s race.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            778,
+            780,
+            781,
+            782,
+            783,
+            784,
+            785,
+            786
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The guests interpret Vance’s political position as difficult because he must balance loyalty to Trump with a possible future presidential campaign.",
+          "evidence_segment_indices": [
+            97,
+            99,
+            100,
+            101,
+            104,
+            105,
+            107,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114
+          ],
+          "start_seconds": 184.879,
+          "end_seconds": 219.36
+        },
+        {
+          "point": "They expect a competitive Republican field and debate whether Trump will endorse a successor or seek to retain control over the nomination process.",
+          "evidence_segment_indices": [
+            155,
+            156,
+            157,
+            158,
+            212,
+            213,
+            346,
+            347,
+            367,
+            368,
+            371,
+            372,
+            393,
+            395,
+            396,
+            397,
+            404,
+            405,
+            406,
+            407,
+            408
+          ],
+          "start_seconds": 308.639,
+          "end_seconds": 769.519
+        },
+        {
+          "point": "They argue that Democratic voters may demand clearer positions on Gaza, Medicare for All, abolishing ICE, corruption, and surveillance.",
+          "evidence_segment_indices": [
+            587,
+            588,
+            589,
+            590,
+            591,
+            598,
+            599,
+            600,
+            601,
+            602,
+            674,
+            675,
+            687,
+            688,
+            694,
+            695,
+            696,
+            753,
+            754,
+            755,
+            756
+          ],
+          "start_seconds": 1096.4,
+          "end_seconds": 1417.919
+        },
+        {
+          "point": "The conversation presents resistance to AI infrastructure and technology oligarchs as a growing cross-country political concern.",
+          "evidence_segment_indices": [
+            773,
+            774,
+            775,
+            776,
+            777,
+            778,
+            780,
+            787,
+            788,
+            790,
+            791,
+            792,
+            793,
+            794,
+            795,
+            796,
+            797,
+            798,
+            799,
+            800
+          ],
+          "start_seconds": 1448.4,
+          "end_seconds": 1510.88
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "3fe30f1bd6ab41eab75fdd40d7af406cc79797faafe45bdcba1037e2d16246b5",
+      "transcript_captured_at": "2026-11-21T18:03:18.204898Z",
+      "summary_generated_at": "2026-11-21T18:08:28.088829Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Automatic captions contain numerous names, terms, and phrases that appear mistranscribed or ambiguous.",
+        "Poll sponsors, field dates, sample sizes, and methodology are not provided in the transcript.",
+        "The source consists of political commentary, forecasts, and allegations; it does not independently substantiate them.",
+        "The excerpt ends while introducing a clip about AI, so that segment’s substance is not included.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
@@ -4991,231 +5189,6 @@
         "Several technical and organizational claims are attributed to investigations, articles, documentation, or the creator’s analysis rather than independently established by the transcript.",
         "The source provides only the creator’s presentation and selected company statements; underlying reports, code, contracts, and legal findings are not included.",
         "Some statements about data collection describe possible capabilities or inferred uses rather than confirmed activity in every instance.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "CN9Fu_MTbzM",
-      "title": "TUCKER REVEALS SECRET PHONE CALL WITH TRUMP | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=CN9Fu_MTbzM",
-      "published_at": "2026-11-19T00:30:22.000000Z",
-      "summary": "Kyle Kulinski critiques Tucker Carlson’s reported account of a private call with Donald Trump and Carlson’s prediction that Trump may de-escalate the Iran war. Carlson argues that electoral losses and battlefield setbacks may have changed Trump’s calculations, and says Trump could present withdrawal as a political victory. Kulinski disputes this interpretation, emphasizing that Trump allegedly ordered or permitted further attacks shortly after similar claims of reassessment. The discussion also examines reported negotiation terms, regional military risks, and the possibility that pressure from Israel or other advisers influenced Trump. Carlson presents his views as informed by prior conversations with Trump, while Kulinski argues that Trump retains ultimate responsibility for military decisions and questions whether he would accept concessions that could appear to weaken U.S. power. The episode is primarily a debate over motives, accountability, and predictions about escalation. Its evidence is limited to the speakers’ commentary and references to events and documents not independently supplied in the transcript.",
-      "topics": [
-        "Trump and Iran war",
-        "Tucker Carlson’s political analysis",
-        "War de-escalation predictions",
-        "Presidential accountability",
-        "U.S. regional power"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Tucker Carlson reportedly had a private call with Donald Trump about the Iran war and policy.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4
-          ]
-        },
-        {
-          "claim": "The United States reportedly bombed Keshum Island and faced attacks on bases in Kuwait and Bahrain.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            60,
-            61,
-            69,
-            70,
-            73,
-            74,
-            75,
-            76
-          ]
-        },
-        {
-          "claim": "The discussion refers to a memorandum of understanding, seven proposed points, and alleged violations by the United States and Israel.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            194,
-            195,
-            196,
-            197,
-            198,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207
-          ]
-        },
-        {
-          "claim": "The speakers cite alleged prior military actions and casualties, including attacks in Iran and Venezuela.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            375,
-            376,
-            377,
-            378,
-            379,
-            380,
-            381,
-            382,
-            383,
-            384
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Carlson predicts that Trump may seek de-escalation and frame it as a victory.",
-          "evidence_segment_indices": [
-            85,
-            86,
-            111,
-            112,
-            187,
-            188,
-            189,
-            319,
-            320,
-            321,
-            322,
-            323
-          ],
-          "start_seconds": 165.599,
-          "end_seconds": 593.92
-        },
-        {
-          "point": "Kulinski argues that reported attacks contradict claims Trump has become anti-war.",
-          "evidence_segment_indices": [
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            60,
-            61,
-            64,
-            65,
-            66,
-            67,
-            115,
-            116,
-            117,
-            118
-          ],
-          "start_seconds": 76.56,
-          "end_seconds": 220.239
-        },
-        {
-          "point": "The speakers disagree over whether Trump was pressured into the war or remains responsible for choosing it.",
-          "evidence_segment_indices": [
-            159,
-            160,
-            161,
-            162,
-            163,
-            164,
-            165,
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185
-          ],
-          "start_seconds": 284.8,
-          "end_seconds": 334.16
-        },
-        {
-          "point": "The discussion predicts further escalation if negotiations fail or regional objectives remain unmet.",
-          "evidence_segment_indices": [
-            208,
-            209,
-            210,
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217,
-            258,
-            259,
-            260,
-            261,
-            262,
-            263,
-            264,
-            265,
-            266,
-            267,
-            268,
-            269,
-            270
-          ],
-          "start_seconds": 370.96,
-          "end_seconds": 494.639
-        },
-        {
-          "point": "Carlson urges lifting the blockade, allowing regional actors to negotiate, and avoiding additional bombing.",
-          "evidence_segment_indices": [
-            294,
-            295,
-            296,
-            297,
-            298,
-            299,
-            300,
-            301,
-            302,
-            303,
-            304,
-            305,
-            306,
-            307,
-            308,
-            309,
-            310,
-            311,
-            312,
-            313,
-            314,
-            315
-          ],
-          "start_seconds": 538.56,
-          "end_seconds": 578.08
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "680df153a2dcf082b76e5368ec71d0506b10d2854ecd17f95a6fd29fcf51cb88",
-      "transcript_captured_at": "2026-11-19T02:33:18.997903Z",
-      "summary_generated_at": "2026-11-19T02:38:32.806136Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is an automatic caption record with profanity redactions, overlaps, garbled words, and speaker attribution ambiguity.",
-        "Several referenced events, documents, locations, casualty figures, and negotiations are mentioned only by the speakers and are not independently documented in the source.",
-        "The opening framing describes a secret call, while the transcript does not provide the call itself or corroborating evidence.",
-        "Predictions about Trump’s motives, future escalation, and de-escalation remain opinions or conjectures within the episode.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
