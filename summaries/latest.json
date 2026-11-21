@@ -1,11 +1,195 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T01:12:01.141110Z",
+  "generated_at": "2026-11-21T02:12:01.164247Z",
   "reporting_window": {
-    "start": "2026-11-14T01:12:01.141110Z",
-    "end": "2026-11-21T01:12:01.141110Z"
+    "start": "2026-11-14T02:12:01.164247Z",
+    "end": "2026-11-21T02:12:01.164247Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "AgPXlFr_eKA",
+      "title": "Angie Nixon SPILLS THE TEA On HISTORIC Campaign!! ",
+      "url": "https://www.youtube.com/watch?v=AgPXlFr_eKA",
+      "published_at": "2026-11-21T01:16:13.000000Z",
+      "summary": "The creator presents an interview with Angie Nixon about her Florida campaign and its reported performance. The host characterizes Nixon as helping break Republican supermajorities, winning Miami-Dade, shifting the vote substantially, and attracting independents and some Republicans. Nixon attributes the result to a progressive, working-class message; voter outreach in Latino and Hispanic communities; appearances in local media; open events; and organizing across Florida. She rejects claims that she harmed other Democratic candidates and says the campaign faced a large registration gap, limited funding, and insufficient turnout efforts in some Black communities and her home county. Nixon argues that attacks portraying her as a communist were less effective than expected because voters responded to direct engagement and her opposition to what she described as authoritarian government. She also says a more moderate candidate would not necessarily have produced stronger numbers. The excerpt ends as the discussion turns to Democratic Senate leadership, without Nixon’s substantive answer.",
+      "topics": [
+        "Florida campaign performance",
+        "Voter outreach and turnout",
+        "Latino and Hispanic organizing",
+        "Progressive messaging",
+        "Democratic Senate leadership"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Nixon won Miami-Dade and produced an 18-point shift in the relevant comparison.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            18,
+            20,
+            21
+          ]
+        },
+        {
+          "claim": "Nixon received 57% of independents, 7% of Republicans, and outperformed Kamala Harris among Cuban voters by 21 points.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            27,
+            28,
+            29
+          ]
+        },
+        {
+          "claim": "Florida had a 1.5–1.6 million voter-registration gap between Republicans and Democrats, with the cited turnout rates near 68% and 62%.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54
+          ]
+        },
+        {
+          "claim": "Nixon’s campaign helped eliminate Republican supermajorities and coincided with another progressive state-legislative seat flipping.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            16,
+            17,
+            56,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The host frames Nixon’s campaign as an unexpectedly strong performance in Florida.",
+          "evidence_segment_indices": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            26,
+            27,
+            28,
+            29
+          ],
+          "start_seconds": 33.92,
+          "end_seconds": 65.439
+        },
+        {
+          "point": "Nixon credits direct organizing, local media, and Latino/Hispanic outreach for countering negative attacks.",
+          "evidence_segment_indices": [
+            82,
+            85,
+            86,
+            88,
+            95,
+            98,
+            99,
+            102,
+            107,
+            108,
+            109,
+            110,
+            113,
+            114
+          ],
+          "start_seconds": 192.64,
+          "end_seconds": 287.759
+        },
+        {
+          "point": "She identifies limited money, registration imbalance, and inadequate turnout work as campaign weaknesses.",
+          "evidence_segment_indices": [
+            47,
+            48,
+            49,
+            50,
+            54,
+            55,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            135,
+            136,
+            155,
+            156,
+            157
+          ],
+          "start_seconds": 107.119,
+          "end_seconds": 406.4
+        },
+        {
+          "point": "Nixon says she used the same message with Republican voters and openly engaged with difficult questions.",
+          "evidence_segment_indices": [
+            173,
+            174,
+            175,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221
+          ],
+          "start_seconds": 440.639,
+          "end_seconds": 563.92
+        },
+        {
+          "point": "The excerpt closes by introducing a question about Senate leadership without providing Nixon’s answer.",
+          "evidence_segment_indices": [
+            222,
+            223,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238
+          ],
+          "start_seconds": 560.16,
+          "end_seconds": 599.36
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "611e920b501e620e35de062c2b21dc4acb6abe9ffa162bdc7860ad28bdacfc6d",
+      "transcript_captured_at": "2026-11-21T02:03:19.399115Z",
+      "summary_generated_at": "2026-11-21T02:08:26.299541Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains overlapping segments, hesitations, misrecognitions, and apparent caption errors.",
+        "Several numerical and electoral statements are presented by the speakers but are not independently established in this excerpt.",
+        "The excerpt ends mid-answer, so the Senate-leadership discussion is incomplete.",
+        "Some comparisons, including the stated vote shift and Cuban-voter figure, lack a clearly specified baseline in the transcript.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5048,232 +5232,6 @@
         "Quoted reporting and the Jerusalem Post transcript are presented through the creator’s narration; their authenticity and context require independent verification.",
         "Automatic captions contain profanity redactions, repetitions, apparent transcription errors, and at least one speaker-name correction.",
         "Claims about genocide, war crimes, weapons effects, and officials’ intent are asserted in the monologue and are not independently substantiated here.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "S9RATcNm-8o",
-      "title": "JD Vance RATF*CKS TRUMP Live On Fox News!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=S9RATcNm-8o",
-      "published_at": "2026-11-18T23:30:01.000000Z",
-      "summary": "Kyle Kulinski argues that JD Vance’s Fox News interview exposes tension within the Trump administration over the Iran war. He highlights Vance’s repeated insistence that there is “no daylight” between him and President Trump while also emphasizing that Trump alone makes major decisions. Kulinski interprets this framing as an attempt to criticize the war’s political costs without directly challenging Trump, especially as Vance predicts the conflict will not become a “forever war.” The episode then disputes Vance’s explanations for energy prices and rejects his claims about the administration’s achievements in Iran, while presenting Kulinski’s own allegations about civilian and military casualties. Kulinski also argues that Vance’s public positioning has angered Trump. A quoted report says Trump was frustrated with Vance, favored Marco Rubio, and removed Vance from peace negotiations, but the transcript provides no independent sourcing or corroboration. The discussion is highly partisan and relies on commentary, excerpts, and unverified claims rather than documented evidence.",
-      "topics": [
-        "JD Vance and Trump",
-        "Iran war",
-        "Fox News interview",
-        "Energy prices",
-        "Republican midterm losses"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The Iran war caused major Republican losses in the midterm elections, including defeats in Mississippi and Texas.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60
-          ]
-        },
-        {
-          "claim": "The conflict caused the reported civilian, Iranian military, U.S. military, and infrastructure casualties described by Kulinski.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105
-          ]
-        },
-        {
-          "claim": "Trump was frustrated with Vance, privately praised Marco Rubio, and removed Vance from Iran peace negotiations.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            391,
-            392,
-            393,
-            394,
-            395,
-            396,
-            397,
-            398,
-            399
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski presents Vance’s “no daylight” language alongside his emphasis that Trump alone makes decisions as politically contradictory.",
-          "evidence_segment_indices": [
-            65,
-            66,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86
-          ],
-          "start_seconds": 124.56,
-          "end_seconds": 163.44
-        },
-        {
-          "point": "Vance says the administration will not allow the Iran conflict to become a long-term or “forever” war.",
-          "evidence_segment_indices": [
-            219,
-            220,
-            221,
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            229,
-            230,
-            231,
-            232,
-            233,
-            234,
-            235,
-            236,
-            237,
-            238,
-            239,
-            240,
-            241,
-            242
-          ],
-          "start_seconds": 391.12,
-          "end_seconds": 429.84
-        },
-        {
-          "point": "Kulinski disputes Vance’s explanation that energy infrastructure underinvestment contributed substantially to higher energy prices.",
-          "evidence_segment_indices": [
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137
-          ],
-          "start_seconds": 211.12,
-          "end_seconds": 257.519
-        },
-        {
-          "point": "Kulinski argues that Vance should have resigned if he genuinely opposed the administration’s war policy.",
-          "evidence_segment_indices": [
-            328,
-            329,
-            330,
-            331,
-            332,
-            333,
-            334,
-            335,
-            336,
-            337,
-            338,
-            339,
-            340,
-            341,
-            342,
-            343,
-            344,
-            345,
-            346,
-            347,
-            348,
-            349,
-            350
-          ],
-          "start_seconds": 594.56,
-          "end_seconds": 644.959
-        },
-        {
-          "point": "The episode ends by portraying Trump as demanding complete loyalty from subordinates.",
-          "evidence_segment_indices": [
-            400,
-            401,
-            402,
-            403,
-            404,
-            405,
-            406,
-            407,
-            408,
-            409,
-            410,
-            411,
-            412,
-            413,
-            414,
-            415,
-            416,
-            417,
-            418,
-            419,
-            420,
-            421,
-            422,
-            423
-          ],
-          "start_seconds": 738.48,
-          "end_seconds": 791.279
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "80dd3374621519e8fe11bb3e9255afa8f021248f791b32ad4c3fce85b76d2f8b",
-      "transcript_captured_at": "2026-11-19T00:33:28.923635Z",
-      "summary_generated_at": "2026-11-19T00:39:11.463016Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript interleaves quoted Fox News remarks with Kulinski’s commentary, and speaker boundaries are occasionally unclear.",
-        "Several captions contain profanity redactions, transcription errors, overlapping speech, and garbled wording.",
-        "The episode supplies no independent documentation for its casualty figures, election analysis, or reported internal disagreements.",
-        "Coverage is limited to this commentary episode and an embedded interview excerpt; broader context is absent.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
