@@ -1,11 +1,169 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T18:12:01.175807Z",
+  "generated_at": "2026-11-22T00:42:01.263926Z",
   "reporting_window": {
-    "start": "2026-11-14T18:12:01.175807Z",
-    "end": "2026-11-21T18:12:01.175807Z"
+    "start": "2026-11-15T00:42:01.263926Z",
+    "end": "2026-11-22T00:42:01.263926Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "HTiNuWcZaCA",
+      "title": "‘NATIONAL DISGRACE’ — Trump Signs Order to BLOCK Investigations as he ABANDONS America, URGENT!!",
+      "url": "https://www.youtube.com/watch?v=HTiNuWcZaCA",
+      "published_at": "2026-11-21T22:44:19.000000Z",
+      "summary": "The creator presents a strongly critical account of President Trump, arguing that he is aligning with Vladimir Putin while restricting congressional investigations. The episode describes an executive order that, according to the creator, requires federal contractors to notify the White House about congressional information requests and follow White House instructions, with possible contract consequences for noncompliance. It also relays an oversight committee criticism that the order undermines Congress’s investigative authority, while noting that legal experts expect possible court challenges. The creator discusses Trump’s reported interactions with Putin and Xi Jinping, alleged limits on military cooperation with Canada, and backlash from Trump supporters after Trump reposted a healthcare proposal associated with Abdul El-Sayed. A final segment covers Trump’s comments about a reported FBI crime-database hack. In the quoted remarks, Trump says the incident is not good but suggests it might reveal information about past investigations and voter fraud. Trump also expresses openness to bipartisan cooperation on healthcare and other issues. The source is commentary and quoted statements, not independent verification.",
+      "topics": [
+        "Executive privilege and congressional oversight",
+        "Trump’s foreign-policy relationships",
+        "Reported FBI database hack",
+        "Healthcare and bipartisan cooperation"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The executive order requires federal contractors to notify the White House about congressional requests and follow its instructions, with possible contract penalties for noncompliance.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            70,
+            74,
+            85,
+            90,
+            96,
+            100
+          ]
+        },
+        {
+          "claim": "Hackers broke into the FBI’s National Crime Information Center database.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            148,
+            150,
+            151,
+            162,
+            163
+          ]
+        },
+        {
+          "claim": "The administration restricted military cooperation between the United States and Canada.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            34,
+            36,
+            37,
+            38,
+            39
+          ]
+        },
+        {
+          "claim": "White House officials directed agencies to obtain approval before employees testify before Congress.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            124,
+            126,
+            127,
+            128,
+            129
+          ]
+        },
+        {
+          "claim": "Trump reposted a healthcare proposal associated with Abdul El-Sayed and received substantial backlash from supporters.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            45,
+            50,
+            54,
+            55,
+            56,
+            57
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames the episode as evidence of presidential efforts to constrain congressional oversight.",
+          "evidence_segment_indices": [
+            70,
+            74,
+            75,
+            78,
+            84,
+            91,
+            95,
+            107,
+            113
+          ],
+          "start_seconds": 170.8,
+          "end_seconds": 268.8
+        },
+        {
+          "point": "The order is described as protecting sensitive communications, while congressional critics characterize it as an attack on oversight powers.",
+          "evidence_segment_indices": [
+            102,
+            103,
+            104,
+            105,
+            108,
+            109,
+            110,
+            111,
+            112,
+            117
+          ],
+          "start_seconds": 244.08,
+          "end_seconds": 276.0
+        },
+        {
+          "point": "The episode contrasts Trump’s reported engagement with Russia and China with alleged tensions involving Canada.",
+          "evidence_segment_indices": [
+            24,
+            27,
+            28,
+            34,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "start_seconds": 57.44,
+          "end_seconds": 111.84
+        },
+        {
+          "point": "Trump’s quoted remarks combine openness to bipartisan healthcare work with a positive-spin interpretation of the reported hack.",
+          "evidence_segment_indices": [
+            168,
+            169,
+            170,
+            181,
+            182,
+            183,
+            197,
+            210,
+            212,
+            216
+          ],
+          "start_seconds": 378.88,
+          "end_seconds": 477.44
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "e8b0d1f872c7e32a017684f52457fb8e6622da1e6431c6645d745a5bc483eb53",
+      "transcript_captured_at": "2026-11-22T00:33:15.206331Z",
+      "summary_generated_at": "2026-11-22T00:38:23.746778Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is an automatically generated caption record with apparent names, words, and repetitions that may be inaccurate.",
+        "The episode’s allegations and characterizations are attributed to the creator or quoted speakers and are not independently established here.",
+        "The source provides commentary and selected quotations without the underlying executive-order text, reporting, or corroborating documentation.",
+        "Some references to political figures, events, and timing are ambiguous in the transcript.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5000,195 +5158,6 @@
         "The cited expert says injury patterns and the circumstances of the hanging remain partly unknowable because key evidence is missing.",
         "Caption defects include profanity redactions, misrecognized names, and transcription errors that may obscure precise wording.",
         "The transcript does not independently establish the allegations concerning homicide, political involvement, or Donald Trump.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "wJ6656q_BuA",
-      "title": "This Country Keeps Tracking My Location...",
-      "url": "https://www.youtube.com/watch?v=wJ6656q_BuA",
-      "published_at": "2026-11-19T00:57:36.000000Z",
-      "summary": "Mutahar argues that a Tim Hortons app may collect and share unusually extensive device and location-related data through a third-party fraud-prevention service, raising concerns about consent and cross-border privacy. He discusses reported findings that the app and related web components can gather browser and device fingerprints, IP and network information, location data, and nearby Wi-Fi details. He connects the service, identified in the episode as Fored, to Israel and to individuals associated with Unit 8200, while explicitly rejecting conspiratorial conclusions and acknowledging the company’s stated fraud-prevention purpose. Mutahar also presents Fored’s transparency position that it received no listed government data requests or disclosed data during the period it cites. His broader argument is that information collected for routine purchases could support persistent identity and movement profiles, and that consumers should have stronger control over where such data goes. The episode relies on reported investigations, company materials, and the creator’s interpretation; the transcript alone does not independently establish the allegations.",
-      "topics": [
-        "Mobile privacy and tracking",
-        "Tim Hortons app data collection",
-        "Third-party fraud prevention",
-        "Cross-border data sharing",
-        "Digital identity profiling"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A CBC investigation reportedly found that the Tim Hortons app sent data to third parties and collected location-related information.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            85,
-            86,
-            87,
-            88,
-            95,
-            96,
-            97
-          ]
-        },
-        {
-          "claim": "The episode identifies Fored as the third-party service involved and links its origins or founders to Israel and Unit 8200.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            124,
-            125,
-            134,
-            135,
-            136,
-            137,
-            162,
-            163,
-            164,
-            195,
-            196,
-            197
-          ]
-        },
-        {
-          "claim": "The discussed SDK or scripts may collect device fingerprints, IP or network information, location data, and nearby Wi-Fi details.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            232,
-            233,
-            234,
-            235,
-            248,
-            250,
-            251,
-            253,
-            254,
-            268,
-            271,
-            272,
-            274,
-            276,
-            277
-          ]
-        },
-        {
-          "claim": "Fored’s transparency report states that it received no listed government requests and disclosed no data during the period cited.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            374,
-            376,
-            381,
-            382,
-            383,
-            384,
-            386,
-            387,
-            388,
-            390,
-            391,
-            392
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Mutahar frames the episode as a privacy and consent concern, especially when data crosses national borders.",
-          "evidence_segment_indices": [
-            43,
-            44,
-            45,
-            46,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209
-          ],
-          "start_seconds": 96.799,
-          "end_seconds": 456.0
-        },
-        {
-          "point": "The episode describes browser fingerprinting and network signals as potentially usable for identifying devices or inferring movement patterns.",
-          "evidence_segment_indices": [
-            232,
-            233,
-            234,
-            235,
-            248,
-            250,
-            251,
-            282,
-            283,
-            284,
-            297,
-            304,
-            305,
-            306,
-            307,
-            308
-          ],
-          "start_seconds": 499.44,
-          "end_seconds": 662.88
-        },
-        {
-          "point": "Mutahar presents Fored’s stated position that it provides fraud and abuse detection and reports no disclosed government-requested data.",
-          "evidence_segment_indices": [
-            374,
-            375,
-            376,
-            377,
-            378,
-            379,
-            380,
-            381,
-            384,
-            386,
-            387,
-            388,
-            400,
-            401
-          ],
-          "start_seconds": 805.839,
-          "end_seconds": 871.839
-        },
-        {
-          "point": "He says he is not asserting that Fored is a covert Unit 8200 operation and attempts to separate documented concerns from conspiracy claims.",
-          "evidence_segment_indices": [
-            140,
-            141,
-            142,
-            143,
-            144,
-            145,
-            146,
-            461,
-            462,
-            463,
-            464,
-            465,
-            466,
-            467
-          ],
-          "start_seconds": 308.08,
-          "end_seconds": 1007.199
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "ca6556bdf879b04cd04da6306911b8ff842bacfceae10b6d41501c95c1c888c9",
-      "transcript_captured_at": "2026-11-19T03:33:15.705839Z",
-      "summary_generated_at": "2026-11-19T03:38:27.627034Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains automatic-caption errors and uncertain company-name spellings, including variants of Fored or Forer.",
-        "Several technical and organizational claims are attributed to investigations, articles, documentation, or the creator’s analysis rather than independently established by the transcript.",
-        "The source provides only the creator’s presentation and selected company statements; underlying reports, code, contracts, and legal findings are not included.",
-        "Some statements about data collection describe possible capabilities or inferred uses rather than confirmed activity in every instance.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
