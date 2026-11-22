@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T20:30:10.981700Z",
+  "generated_at": "2026-11-22T21:00:14.637336Z",
   "reporting_window": {
-    "start": "2026-11-15T20:30:10.981700Z",
-    "end": "2026-11-22T20:30:10.981700Z",
+    "start": "2026-11-15T21:00:14.637336Z",
+    "end": "2026-11-22T21:00:14.637336Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,7 +14,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-22T20:30:09.247596Z",
+      "last_successful_poll": "2026-11-22T21:00:13.486255Z",
       "warnings": []
     },
     {
@@ -23,7 +23,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-22T20:30:09.433976Z",
+      "last_successful_poll": "2026-11-22T21:00:13.694246Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-22T20:30:09.800488Z",
+      "last_successful_poll": "2026-11-22T21:00:13.920068Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-22T20:30:10.250527Z",
+      "last_successful_poll": "2026-11-22T21:00:14.176700Z",
       "warnings": []
     },
     {
@@ -50,7 +50,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-22T20:30:10.801262Z",
+      "last_successful_poll": "2026-11-22T21:00:14.461666Z",
       "warnings": []
     }
   ],
@@ -1947,18 +1947,6 @@
       "published_at": "2026-11-15T21:05:29.000000Z",
       "url": "https://www.youtube.com/watch?v=aUdN6P-XUa8",
       "first_seen": "2026-11-15T21:30:43.509004Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "not_queued"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "9SvBNPlLz7w",
-      "title": "Katie Zacharia posts a photo of herself to promote the Melania series, then deletes it.",
-      "published_at": "2026-11-15T20:30:34.000000Z",
-      "url": "https://www.youtube.com/watch?v=9SvBNPlLz7w",
-      "first_seen": "2026-11-15T21:00:43.130735Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "not_queued"
