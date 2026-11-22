@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T02:00:15.548515Z",
+  "generated_at": "2026-11-22T02:30:15.482319Z",
   "reporting_window": {
-    "start": "2026-11-15T02:00:15.548515Z",
-    "end": "2026-11-22T02:00:15.548515Z",
+    "start": "2026-11-15T02:30:15.482319Z",
+    "end": "2026-11-22T02:30:15.482319Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,16 +14,16 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-22T02:00:13.603718Z",
+      "last_successful_poll": "2026-11-22T02:30:13.638157Z",
       "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-22T02:00:14.294909Z",
+      "health": "success_new",
+      "discovery_status": "success_new",
+      "last_successful_poll": "2026-11-22T02:30:14.119909Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-22T02:00:14.575367Z",
+      "last_successful_poll": "2026-11-22T02:30:14.734299Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-22T02:00:14.869739Z",
+      "last_successful_poll": "2026-11-22T02:30:15.030963Z",
       "warnings": []
     },
     {
@@ -50,11 +50,23 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-22T02:00:15.373297Z",
+      "last_successful_poll": "2026-11-22T02:30:15.308984Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "zl6m5OD_G-8",
+      "title": "‘HE GOT PLAYED’ — Democrats PLAY Trump and Get MAJOR WINS as Republicans ERUPT Against White House",
+      "published_at": "2026-11-22T02:20:13.000000Z",
+      "url": "https://www.youtube.com/watch?v=zl6m5OD_G-8",
+      "first_seen": "2026-11-22T02:30:14.119909Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
@@ -65,7 +77,7 @@
       "first_seen": "2026-11-22T01:30:47.281136Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "not_queued"
+      "transcript_status": "captions_ready"
     },
     {
       "creator": "Aaron Parnas",
