@@ -1,11 +1,273 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T00:42:01.263926Z",
+  "generated_at": "2026-11-22T02:12:01.181135Z",
   "reporting_window": {
-    "start": "2026-11-15T00:42:01.263926Z",
-    "end": "2026-11-22T00:42:01.263926Z"
+    "start": "2026-11-15T02:12:01.181135Z",
+    "end": "2026-11-22T02:12:01.181135Z"
   },
   "episodes": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "lm-Tycg1Xlw",
+      "title": "FBI CRIME DATABASE GOT HACKED",
+      "url": "https://www.youtube.com/watch?v=lm-Tycg1Xlw",
+      "published_at": "2026-11-22T00:51:49.000000Z",
+      "summary": "The creator discusses reports that the FBI’s National Crime Information Center (NCIC) was breached, while noting that the FBI had not yet issued a major public statement. He explains that the system supports law-enforcement searches involving wanted and missing people, warrants, stolen vehicles, firearms, protection orders, and immigration-related records, making unauthorized access or modification potentially serious. He suggests the intrusion may have entered through a state or local endpoint rather than the FBI’s central servers, but explicitly presents this as a guess and acknowledges he has no law-enforcement experience. The episode also references safeguards such as logging, partitioning, confirmation procedures, and access controls, alongside concerns about confidentiality and record integrity. The creator connects the incident to earlier alleged FBI targeting by the ShinyHunters group, recent outages and vendor attacks affecting major companies, and his broader view that AI-enabled tools are increasing the speed and scale of cyberattacks. He closes by advocating greater personal data minimization and local storage.",
+      "topics": [
+        "FBI and NCIC breach reports",
+        "Law-enforcement database security",
+        "Cyberattack access through local endpoints",
+        "AI-enabled attack scale",
+        "Personal data privacy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "News organizations reported an intrusion involving the FBI’s National Crime Information Center, although the creator said the FBI had not yet made a major statement.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "claim": "The NCIC contains or provides access to records involving wanted and missing persons, warrants, stolen vehicles, firearms, protection orders, and immigration violator records.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211
+          ]
+        },
+        {
+          "claim": "The creator’s suggestion that attackers may have entered through a state or local department endpoint is speculative.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125
+          ]
+        },
+        {
+          "claim": "The episode references an earlier alleged ShinyHunters breach involving FBI applicant or operator information and threats to publish it.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81
+          ]
+        },
+        {
+          "claim": "The FBI’s NCIC is described as having 22 files and 18 million records, with ICE authorized to manage immigration violator records.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames the reported NCIC intrusion as potentially more consequential than a compromise limited to FBI personnel information.",
+          "evidence_segment_indices": [
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103
+          ],
+          "start_seconds": 116.56,
+          "end_seconds": 232.799
+        },
+        {
+          "point": "He highlights confidentiality and integrity risks, including possible exposure or alteration of live law-enforcement records.",
+          "evidence_segment_indices": [
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232
+          ],
+          "start_seconds": 370.0,
+          "end_seconds": 501.68
+        },
+        {
+          "point": "The discussion describes safeguards including agency confirmation, logging, partitioning, and specialized access controls.",
+          "evidence_segment_indices": [
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169
+          ],
+          "start_seconds": 316.4,
+          "end_seconds": 370.0
+        },
+        {
+          "point": "The creator argues that AI and automated tooling may increase the volume and speed of cyberattacks, placing pressure on defense teams.",
+          "evidence_segment_indices": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            310,
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318
+          ],
+          "start_seconds": 33.36,
+          "end_seconds": 684.88
+        },
+        {
+          "point": "He recommends reducing reliance on cloud-held personal data and considering local storage or privacy-focused devices.",
+          "evidence_segment_indices": [
+            369,
+            370,
+            371,
+            372,
+            373,
+            374,
+            375,
+            376,
+            377,
+            378,
+            379,
+            380,
+            381,
+            382,
+            383
+          ],
+          "start_seconds": 787.76,
+          "end_seconds": 822.24
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "482369e702325f848891e6e2716fcbafd6e247dd70bc35657d1041a59f275839",
+      "transcript_captured_at": "2026-11-22T02:03:13.777382Z",
+      "summary_generated_at": "2026-11-22T02:08:29.321346Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The supplied material is an automatic transcript with malformed or misrecognized terms, including repeated confusion between NCIC and similarly named systems.",
+        "The breach, its scope, affected records, and any attacker access or modifications are presented through the creator’s account and are not independently established in the source.",
+        "Several technical explanations and causal links are explicitly speculative or opinion-based.",
+        "The source provides only the creator’s discussion and does not include primary statements, incident reports, or corroborating documentation.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4942,222 +5204,6 @@
         "The episode presents the creator’s interpretations alongside excerpts from CNN and quoted intelligence claims; the source does not independently verify them.",
         "References to current military actions, imminent attacks, and intelligence reporting require verification outside this transcript.",
         "The excerpted CNN material is incomplete, so its broader context and wording cannot be fully assessed.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "CYHeuP-ws-I",
-      "title": "‘HE WAS M*RDERED’: Expert Blows Epstein Case Wide Open | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=CYHeuP-ws-I",
-      "published_at": "2026-11-19T01:00:18.000000Z",
-      "summary": "The creator argues that a forensic review has reopened questions about Jeffrey Epstein’s death, while presenting CBS’s interview with Dr. Michael Freeman, who says some documented injuries are inconsistent with a suicidal hanging and may indicate homicide. The report describes an official suicide ruling but highlights investigative shortcomings, including missing or unusable surveillance, delayed interviews, movement of the body, limited scene documentation, and uncertainty about the ligature. It also notes that forensic pathology is interpretive and that experts can reach different conclusions from ambiguous neck injuries. Freeman acknowledges that some reconstruction depends on an uncorroborated account from a correctional officer who faced charges, though he says the autopsy evidence independently raises concerns. The creator then moves beyond the forensic dispute, alleging that powerful figures may have had motives to conceal information and asking whether Donald Trump ordered Epstein’s killing. The episode presents these allegations and interpretations as unresolved rather than established findings.",
-      "topics": [
-        "Epstein death investigation",
-        "Forensic pathology",
-        "Prison evidence handling",
-        "Political allegations"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Dr. Michael Freeman’s review concludes that some documented injuries are inconsistent with suicidal hanging and support considering homicide.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            32,
-            33,
-            34,
-            35,
-            36,
-            52,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60,
-            162,
-            163
-          ]
-        },
-        {
-          "claim": "Investigators failed to preserve or document key evidence, including the scene, body position, surveillance, and ligature.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            112,
-            113,
-            114,
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            186,
-            187,
-            188,
-            196,
-            197
-          ]
-        },
-        {
-          "claim": "A correctional officer central to the reconstruction had been charged with falsifying records and received leniency in exchange for a sworn statement.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            400,
-            401,
-            402,
-            403,
-            404
-          ]
-        },
-        {
-          "claim": "The creator alleges that Donald Trump may have ordered Epstein’s killing.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            516,
-            517,
-            518,
-            519,
-            520,
-            521,
-            522,
-            523,
-            524,
-            525,
-            526,
-            527,
-            610,
-            611,
-            612,
-            613,
-            614,
-            615,
-            616
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode contrasts the official suicide ruling with Freeman’s homicide interpretation of neck and other injuries.",
-          "evidence_segment_indices": [
-            43,
-            44,
-            45,
-            54,
-            55,
-            56,
-            57,
-            158,
-            159,
-            160,
-            161,
-            162,
-            163
-          ],
-          "start_seconds": 88.56,
-          "end_seconds": 311.759
-        },
-        {
-          "point": "The report emphasizes that forensic pathology is not exact and that missing evidence limits certainty.",
-          "evidence_segment_indices": [
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            88,
-            89
-          ],
-          "start_seconds": 154.4,
-          "end_seconds": 174.56
-        },
-        {
-          "point": "The investigation is described as having incomplete scene documentation, unavailable camera footage, and delayed witness interviews.",
-          "evidence_segment_indices": [
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            112,
-            113,
-            114,
-            124,
-            125,
-            150,
-            151,
-            152,
-            153
-          ],
-          "start_seconds": 191.76,
-          "end_seconds": 293.68
-        },
-        {
-          "point": "The creator expands the discussion into allegations about political motives and possible concealment.",
-          "evidence_segment_indices": [
-            93,
-            94,
-            95,
-            96,
-            97,
-            98,
-            99,
-            517,
-            518,
-            519,
-            520,
-            521,
-            554,
-            555,
-            556,
-            557,
-            558,
-            559
-          ],
-          "start_seconds": 178.16,
-          "end_seconds": 1084.72
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "6540aa7b00302eb36553b685166cff66c8b74da85ae42ac8718a203a7326e390",
-      "transcript_captured_at": "2026-11-19T02:33:27.518831Z",
-      "summary_generated_at": "2026-11-19T02:39:02.639745Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is a commentary episode combining a reported interview with the creator’s interpretations and allegations.",
-        "The cited expert says injury patterns and the circumstances of the hanging remain partly unknowable because key evidence is missing.",
-        "Caption defects include profanity redactions, misrecognized names, and transcription errors that may obscure precise wording.",
-        "The transcript does not independently establish the allegations concerning homicide, political involvement, or Donald Trump.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
