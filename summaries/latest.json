@@ -1,11 +1,208 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T04:42:01.150231Z",
+  "generated_at": "2026-11-22T17:12:01.213587Z",
   "reporting_window": {
-    "start": "2026-11-15T04:42:01.150231Z",
-    "end": "2026-11-22T04:42:01.150231Z"
+    "start": "2026-11-15T17:12:01.213587Z",
+    "end": "2026-11-22T17:12:01.213587Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "AS3S3VyyP1Y",
+      "title": "‘TREASON’ — Congress SOUNDS ALARM as MAJOR Trump-Russia Ties Exposed, this is SERIOUS!!",
+      "url": "https://www.youtube.com/watch?v=AS3S3VyyP1Y",
+      "published_at": "2026-11-22T15:00:33.000000Z",
+      "summary": "Creator Aaron Parnas presents an urgent argument that Donald Trump’s relationship with Vladimir Putin warrants congressional scrutiny. He links Trump’s description of Putin as a friend to a reported Russian strike in Ukraine and discusses a 2018 email exchange in which Jeffrey Epstein appeared to offer Russian officials insight into Trump. Parnas then highlights Senator Sheldon Whitehouse’s call for investigation and a list of alleged Trump actions benefiting Russia, including pauses in Ukraine assistance, limited sanctions enforcement, appointments, and diplomatic efforts. In an interview excerpt, Hillary Clinton attributes Trump’s positions to authoritarian sympathies and financial interests, while also alleging that Putin may possess compromising material about Trump. The episode treats these interpretations as allegations or opinions, not established findings. Its central conclusion is that congressional investigators should examine possible political, financial, and personal connections among Trump, Russia, and Epstein. The transcript is commentary-driven and does not provide documents, independent corroboration, or responses from the people accused.",
+      "topics": [
+        "Trump–Russia relations",
+        "Epstein correspondence",
+        "Congressional oversight",
+        "Ukraine policy",
+        "Political allegations"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A 2018 email exchange involving Jeffrey Epstein discussed providing Russian officials with insight into Donald Trump.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            35,
+            36,
+            39,
+            40,
+            46,
+            47,
+            50,
+            51,
+            57,
+            58
+          ]
+        },
+        {
+          "claim": "Senator Sheldon Whitehouse said Trump’s actions could be viewed as doing Russia’s bidding and supported investigating them.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69
+          ]
+        },
+        {
+          "claim": "The episode alleges that Trump took several actions favorable to Russia, including pausing Ukraine assistance, easing sanctions enforcement, and ending or reducing pressure on Russian oligarchs.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            70,
+            71,
+            77,
+            78,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            87,
+            104,
+            106,
+            107,
+            108,
+            109
+          ]
+        },
+        {
+          "claim": "Hillary Clinton alleged that Putin may possess compromising material about Trump, including possible photos or videos connected to Epstein-related disclosures.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            180,
+            182,
+            183
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames Trump’s friendly characterization of Putin as inconsistent with Russia’s reported attack in Ukraine.",
+          "evidence_segment_indices": [
+            5,
+            8,
+            9,
+            10,
+            11,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "start_seconds": 9.76,
+          "end_seconds": 76.479
+        },
+        {
+          "point": "The episode centers on an alleged Epstein-linked channel for discussing Trump with Russian officials.",
+          "evidence_segment_indices": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            39,
+            40,
+            46,
+            48,
+            49,
+            50,
+            51,
+            52,
+            57,
+            58,
+            61,
+            62
+          ],
+          "start_seconds": 74.64,
+          "end_seconds": 148.4
+        },
+        {
+          "point": "Whitehouse’s remarks are used to introduce a proposed congressional investigation into Trump’s Russia-related conduct.",
+          "evidence_segment_indices": [
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            110,
+            111,
+            112,
+            113
+          ],
+          "start_seconds": 146.239,
+          "end_seconds": 296.8
+        },
+        {
+          "point": "The concluding interpretation attributes Trump’s Russia policy to affinity for strongmen, financial interests, and possible leverage.",
+          "evidence_segment_indices": [
+            126,
+            127,
+            128,
+            131,
+            132,
+            136,
+            137,
+            138,
+            144,
+            145,
+            146,
+            153,
+            154,
+            163,
+            164,
+            165,
+            166,
+            167,
+            178,
+            179
+          ],
+          "start_seconds": 329.039,
+          "end_seconds": 466.639
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "ca2d2bcc62eeb099600fe6b237c385c44f678cda76e839659b19454de62c033a",
+      "transcript_captured_at": "2026-11-22T17:03:18.327163Z",
+      "summary_generated_at": "2026-11-22T17:08:25.057599Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a creator-led presentation and includes allegations, commentary, and interview excerpts without source documents or independent corroboration.",
+        "Several captions contain transcription defects, missing words, and unclear names, limiting precise interpretation of some statements.",
+        "The transcript does not include responses from Trump, Putin, Epstein’s representatives, or other people accused of wrongdoing.",
+        "The source provides only episode audio captions, so the underlying dates, events, quotations, and policy descriptions require independent verification.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5035,145 +5232,6 @@
         "Several names and terms appear mistranscribed, including references to Xi Jinping, Yalta, and other proper nouns.",
         "The transcript includes overlapping captions, hesitations, and incomplete wording that may affect interpretation.",
         "The source does not provide the full declaration, underlying documents, or complete context for the financial and political allegations.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mike Figueredo — The Humanist Report",
-      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
-      "video_id": "HknlHnLUNg0",
-      "title": "Right-Wing Democrat Says Jeffries’ Big Win Means They Can “Marginalize” Progressives",
-      "url": "https://www.youtube.com/watch?v=HknlHnLUNg0",
-      "published_at": "2026-11-19T01:58:20.000000Z",
-      "summary": "The creator argues that House Democrats’ selection of Hakeem Jeffries as speaker demonstrates a refusal to reflect progressive voters’ priorities. He criticizes Jeffries’ stated positions on Israel, the Iran war, and healthcare, contrasting incremental proposals such as expanded Medicare eligibility and ACA subsidies with the creator’s preference for Medicare for All and ending military funding. The episode acknowledges that 11 Democrats opposed Jeffries but portrays their limited resistance as insufficient, while focusing on comments describing progressives as a small, marginalized faction. The creator also discusses reported frustration within the Congressional Progressive Caucus over Ayanna Pressley’s perceived ambiguity about a speakership bid. A later segment turns to the Senate leadership contest, encouraging viewers to support Chris Van Hollen against Chuck Schumer. Throughout, the creator presents a strongly adversarial interpretation of Democratic strategy, alleging donor influence, deliberate obstruction, and disregard for constituents. The transcript contains extensive commentary and excerpts, but many factual assertions are attributed to cited reporting without the underlying articles being provided.",
-      "topics": [
-        "Hakeem Jeffries speakership",
-        "Progressive Democratic priorities",
-        "Israel and Iran policy",
-        "Congressional leadership contests",
-        "Democratic Party strategy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The creator says Jeffries supports a temporary funding extension without conditions on the Iran war and would not defund the war.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            33,
-            38,
-            41,
-            43,
-            44
-          ]
-        },
-        {
-          "claim": "The creator says Jeffries supports lowering the Medicare eligibility age, adding vision, dental, and hearing coverage, and restoring enhanced ACA subsidies, while opposing Medicare for All.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            66,
-            72,
-            87,
-            90,
-            91
-          ]
-        },
-        {
-          "claim": "The creator reports that 11 Democrats voted against Jeffries, including newly elected members associated with the DSA bloc.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            110,
-            112,
-            115,
-            119
-          ]
-        },
-        {
-          "claim": "The creator cites reporting that some Congressional Progressive Caucus members privately criticized Ayanna Pressley for not more forcefully rejecting speakership speculation.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            254,
-            258,
-            266,
-            274,
-            277
-          ]
-        },
-        {
-          "claim": "The creator cites reporting that some Senate Democrats may support Chuck Schumer privately or conditionally in the leadership contest.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            584,
-            590,
-            601,
-            608,
-            617
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator frames Jeffries’ election as evidence that Democratic leaders are ignoring progressive demands on foreign policy and healthcare.",
-          "evidence_segment_indices": [
-            16,
-            22,
-            26,
-            32,
-            75,
-            90
-          ],
-          "start_seconds": 57.36,
-          "end_seconds": 208.239
-        },
-        {
-          "point": "The episode distinguishes symbolic representation from policy representation, acknowledging the historic significance of a Black speaker while arguing that policy outcomes matter more.",
-          "evidence_segment_indices": [
-            510,
-            513,
-            524,
-            527,
-            530
-          ],
-          "start_seconds": 1003.44,
-          "end_seconds": 1046.88
-        },
-        {
-          "point": "Eleven Democratic defections are presented as encouraging but inadequate resistance to an otherwise uncontested leadership process.",
-          "evidence_segment_indices": [
-            110,
-            120,
-            122,
-            163,
-            166
-          ],
-          "start_seconds": 241.36,
-          "end_seconds": 353.84
-        },
-        {
-          "point": "The creator urges continued pressure on senators and specifically advocates support for Chris Van Hollen.",
-          "evidence_segment_indices": [
-            647,
-            653,
-            657,
-            660,
-            672
-          ],
-          "start_seconds": 1272.159,
-          "end_seconds": 1328.799
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "ec1b62db98999067e4067b8d0f6ea7422320a3eb1619b56670503d6de2565680",
-      "transcript_captured_at": "2026-11-19T04:03:15.933458Z",
-      "summary_generated_at": "2026-11-19T04:08:26.684277Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is automatic and includes misrecognized names, clipped phrases, profanity placeholders, and overlapping segments.",
-        "Several cited news reports and political claims are summarized in the episode but are not included as source material here.",
-        "The transcript alone does not establish the accuracy of allegations about bribery, donor influence, corruption, voting behavior, or private caucus discussions.",
-        "Some quoted exchanges are difficult to attribute because speaker labels and context are incomplete.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
