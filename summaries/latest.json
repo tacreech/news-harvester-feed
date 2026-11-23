@@ -1,11 +1,177 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T17:12:01.213587Z",
+  "generated_at": "2026-11-23T00:42:01.210671Z",
   "reporting_window": {
-    "start": "2026-11-15T17:12:01.213587Z",
-    "end": "2026-11-22T17:12:01.213587Z"
+    "start": "2026-11-16T00:42:01.210671Z",
+    "end": "2026-11-23T00:42:01.210671Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "L5q0ADZlVqk",
+      "title": "🚨 'HE'S KILLING US' — Trump IGNORES Court, Prepares LEAD BOMB in Iowa as Canada Mocks Him, URGENT!!",
+      "url": "https://www.youtube.com/watch?v=L5q0ADZlVqk",
+      "published_at": "2026-11-22T22:56:36.000000Z",
+      "summary": "Aaron Parnas presents an overview centered on a reported U.S. Army plan to destroy degraded lead-based explosive material at an ammunition plant in Middleton, Iowa. He says the Army considers the material an immediate threat and intends a controlled detonation, while environmental groups and officials question the health risks, permitting, timing, public notification, and the decision to abandon chemical neutralization. The episode also discusses a federal appellate court’s reported pause of a permit and the government’s position that emergency authority makes the permit unnecessary. Parnas then highlights excerpts from a confirmation hearing in which officials declined to characterize January 6, 2021, as an attack while acknowledging violence and trespass. A further segment concerns intelligence officials defending President Trump’s description of Vladimir Putin as a friend. The episode closes with a comedic Canadian impersonation of Trump. The transcript contains overlapping, imperfect captions and presents these matters through the creator’s framing rather than independently verified documentation.",
+      "topics": [
+        "Iowa explosive disposal",
+        "Lead exposure concerns",
+        "January 6 hearing",
+        "U.S.-Canada political satire"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The Army planned to detonate nearly five tons of degraded lead-based explosive material in Iowa and considered it an immediate threat.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            6,
+            7,
+            28,
+            29,
+            30,
+            31,
+            32,
+            44,
+            45,
+            46
+          ]
+        },
+        {
+          "claim": "A federal appellate court paused a permit, while the government argued that emergency authority allowed the Army to proceed without one.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            39,
+            40,
+            41,
+            42,
+            43,
+            47,
+            48
+          ]
+        },
+        {
+          "claim": "The Army had previously considered chemically neutralizing the material but canceled that contract over safety concerns.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            62,
+            63,
+            64,
+            65,
+            66,
+            67
+          ]
+        },
+        {
+          "claim": "Officials at a confirmation hearing declined to describe January 6, 2021, as an attack while acknowledging violence and trespass.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            101,
+            102,
+            103,
+            106,
+            109,
+            110,
+            117,
+            118,
+            122,
+            123,
+            142,
+            143,
+            158,
+            159,
+            162,
+            164
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator reports that the planned Iowa detonation could disperse lead dust across areas of Iowa, the Mississippi River, and Illinois.",
+          "evidence_segment_indices": [
+            33,
+            34,
+            35,
+            36
+          ],
+          "start_seconds": 80.96,
+          "end_seconds": 92.32
+        },
+        {
+          "point": "The episode emphasizes limited public notice and the absence of an announced exact detonation time in the cited account.",
+          "evidence_segment_indices": [
+            69,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85
+          ],
+          "start_seconds": 155.599,
+          "end_seconds": 196.239
+        },
+        {
+          "point": "The hearing excerpts show repeated refusals to use the term “attack,” alongside explicit condemnation of violence.",
+          "evidence_segment_indices": [
+            117,
+            118,
+            122,
+            123,
+            127,
+            128,
+            151,
+            152,
+            153,
+            155,
+            156,
+            159,
+            160,
+            162,
+            164
+          ],
+          "start_seconds": 264.16,
+          "end_seconds": 360.24
+        },
+        {
+          "point": "The closing segment portrays Canadian political satire involving a Trump impersonator.",
+          "evidence_segment_indices": [
+            205,
+            206,
+            208,
+            209,
+            210,
+            211,
+            212,
+            219,
+            220
+          ],
+          "start_seconds": 455.84,
+          "end_seconds": 493.039
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "b4bdec93a97b84955b43dd83c10b8d0a9c0efd5fbcd48e7869084319134ad629",
+      "transcript_captured_at": "2026-11-23T00:33:14.652077Z",
+      "summary_generated_at": "2026-11-23T00:38:24.061788Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Captions are overlapping and contain transcription defects, including misheard names, places, and terms.",
+        "The source does not provide the underlying court filings, permits, technical assessments, or hearing records.",
+        "The summary reflects the creator’s presentation and quoted excerpts; allegations and reported plans require independent verification.",
+        "Some timing references are relative and cannot be resolved from the transcript alone.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5057,181 +5223,6 @@
         "Several references and proper names are ambiguous or difficult to identify from the transcript alone.",
         "The source provides only Kulinski’s commentary and does not include independent corroboration or responses from Musk.",
         "Causal claims about government actions, deaths, spending, funding, and immigration status require independent verification.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "Q7fBK_MgtYc",
-      "title": "🚨 'TRAITOR' — World ERUPTS as Trump Cuts SECRET Deal with the DEVIL, FIVE ALARM FIRE!!",
-      "url": "https://www.youtube.com/watch?v=Q7fBK_MgtYc",
-      "published_at": "2026-11-19T15:04:20.000000Z",
-      "summary": "Aaron Parnas presents the summit as a troubling realignment, arguing that Donald Trump’s meeting with Vladimir Putin and Xi Jinping produced symbolism and broad commitments but no stated action on Ukraine. He describes a four-point declaration concerning strategic stability, UN reform, energy flows, immunity for state officials, limits on international courts, and nuclear-risk reduction, emphasizing that Ukraine was not mentioned. Parnas interprets the immunity language and Trump’s criticism of the International Criminal Court as potentially undermining the court’s warrant for Putin, while noting Polish criticism and Putin’s subsequent praise of Trump alongside threats toward Ukraine. He also portrays China as gaining diplomatic prestige without accepting meaningful constraints, based on his reading of the declaration. The episode then raises allegations about Jared Kushner’s private-equity investment in a defense contractor and delayed disclosure, and discusses Elon Musk’s regret over election spending and comments about Ukraine’s political history. These claims are presented through the creator’s narration and excerpts, with no independent corroboration in the source.",
-      "topics": [
-        "US-Russia-China summit",
-        "Ukraine and European security",
-        "International Criminal Court",
-        "Kushner investment disclosure",
-        "Elon Musk and MAGA"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A first trilateral summit involving the leaders of the United States, Russia, and China occurred and produced the described four-point declaration.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            9,
-            40,
-            45,
-            52,
-            56,
-            67,
-            72,
-            80
-          ]
-        },
-        {
-          "claim": "Jared Kushner’s firm bought a $32 million stake in defense contractor Arxis and disclosed it only after the stated deadline or election timing.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            179,
-            180,
-            181,
-            182,
-            185,
-            186,
-            187,
-            189,
-            190,
-            191,
-            192
-          ]
-        },
-        {
-          "claim": "The International Criminal Court issued a 2023 warrant for Vladimir Putin concerning the alleged deportation of Ukrainian children.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            103,
-            104,
-            105,
-            106,
-            107,
-            108
-          ]
-        },
-        {
-          "claim": "Elon Musk said he was no longer part of MAGA and characterized U.S. involvement in Ukraine’s political history as described.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            207,
-            208,
-            209,
-            217,
-            218,
-            220,
-            221,
-            222,
-            226,
-            227,
-            228
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator says the declaration addressed security, energy, immunity, and nuclear risks but omitted Ukraine.",
-          "evidence_segment_indices": [
-            45,
-            56,
-            67,
-            72,
-            80,
-            86,
-            87
-          ],
-          "start_seconds": 96.72,
-          "end_seconds": 181.76
-        },
-        {
-          "point": "Parnas interprets the court-related language as potentially relevant to Putin’s ICC warrant.",
-          "evidence_segment_indices": [
-            98,
-            99,
-            101,
-            103,
-            108,
-            109,
-            110,
-            111
-          ],
-          "start_seconds": 198.8,
-          "end_seconds": 227.36
-        },
-        {
-          "point": "Polish Prime Minister Donald Tusk is quoted expressing concern about America’s relationship with Putin.",
-          "evidence_segment_indices": [
-            127,
-            128,
-            129,
-            130,
-            131,
-            133,
-            134,
-            135
-          ],
-          "start_seconds": 259.68,
-          "end_seconds": 283.44
-        },
-        {
-          "point": "The episode portrays China as the summit’s principal beneficiary in prestige and agenda-setting.",
-          "evidence_segment_indices": [
-            151,
-            152,
-            153,
-            154,
-            155,
-            159,
-            160,
-            164,
-            165
-          ],
-          "start_seconds": 309.84,
-          "end_seconds": 342.08
-        },
-        {
-          "point": "The closing sections discuss alleged Kushner financial ties and Musk’s political criticism.",
-          "evidence_segment_indices": [
-            179,
-            180,
-            181,
-            185,
-            188,
-            189,
-            190,
-            193,
-            194,
-            197,
-            207,
-            208
-          ],
-          "start_seconds": 370.08,
-          "end_seconds": 443.039
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "f2839062da57c4b67b07a052998507891352a9ae053a92270a9e47a7c68f0a87",
-      "transcript_captured_at": "2026-11-19T16:03:16.073044Z",
-      "summary_generated_at": "2026-11-19T16:08:25.393217Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The account is based solely on the supplied transcript and contains no independent verification.",
-        "Several names and terms appear mistranscribed, including references to Xi Jinping, Yalta, and other proper nouns.",
-        "The transcript includes overlapping captions, hesitations, and incomplete wording that may affect interpretation.",
-        "The source does not provide the full declaration, underlying documents, or complete context for the financial and political allegations.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
