@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T00:30:55.062581Z",
+  "generated_at": "2026-11-23T01:00:55.111424Z",
   "reporting_window": {
-    "start": "2026-11-16T00:30:55.062581Z",
-    "end": "2026-11-23T00:30:55.062581Z",
+    "start": "2026-11-16T01:00:55.111424Z",
+    "end": "2026-11-23T01:00:55.111424Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,7 +14,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-23T00:30:53.601424Z",
+      "last_successful_poll": "2026-11-23T01:00:53.691000Z",
       "warnings": []
     },
     {
@@ -23,16 +23,16 @@
       "identity_status": "verified",
       "health": "success_new",
       "discovery_status": "success_new",
-      "last_successful_poll": "2026-11-23T00:30:53.862175Z",
+      "last_successful_poll": "2026-11-23T01:00:53.977203Z",
       "warnings": []
     },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-23T00:30:54.079480Z",
+      "health": "success_new",
+      "discovery_status": "success_new",
+      "last_successful_poll": "2026-11-23T01:00:54.277426Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-23T00:30:54.370251Z",
+      "last_successful_poll": "2026-11-23T01:00:54.621242Z",
       "warnings": []
     },
     {
@@ -50,11 +50,35 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-23T00:30:54.875337Z",
+      "last_successful_poll": "2026-11-23T01:00:54.937007Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "xety8MwsqGE",
+      "title": "GTA 6 Is Already Being Ported To PC...",
+      "published_at": "2026-11-23T00:50:51.000000Z",
+      "url": "https://www.youtube.com/watch?v=xety8MwsqGE",
+      "first_seen": "2026-11-23T01:00:54.277426Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "9O33k1VsLQM",
+      "title": "Absolutely crazy footage captured at the bottom of the ocean.",
+      "published_at": "2026-11-23T00:42:02.000000Z",
+      "url": "https://www.youtube.com/watch?v=9O33k1VsLQM",
+      "first_seen": "2026-11-23T01:00:53.977203Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -101,7 +125,7 @@
       "first_seen": "2026-11-22T23:30:54.484424Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "not_queued"
+      "transcript_status": "captions_ready"
     },
     {
       "creator": "Aaron Parnas",
