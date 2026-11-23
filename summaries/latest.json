@@ -1,11 +1,235 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T16:42:00.610342Z",
+  "generated_at": "2026-11-23T18:42:00.615996Z",
   "reporting_window": {
-    "start": "2026-11-16T16:42:00.610342Z",
-    "end": "2026-11-23T16:42:00.610342Z"
+    "start": "2026-11-16T18:42:00.615996Z",
+    "end": "2026-11-23T18:42:00.615996Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "w85KegrZU9g",
+      "title": "‘TRUMP IS FOR SALE’ — Oligarchy EXPOSED as National Security Officials SOUND ALARM, this is URGENT!!",
+      "url": "https://www.youtube.com/watch?v=w85KegrZU9g",
+      "published_at": "2026-11-23T16:37:46.000000Z",
+      "summary": "Aaron Parnas presents his view that Donald Trump’s intervention in Nvidia’s leadership dispute raises concerns about oligarchy, corruption, and national security. He recounts allegations that Nvidia CEO Jensen Huang’s romantic partner had contact with Chinese intelligence and that advanced Nvidia chips may have been diverted to China, while noting that these claims are presented as reported rather than established facts. The episode centers on Trump’s public support for Huang’s return, his statement that an investigation found Huang had done nothing wrong, and his admission that he communicated with Nvidia’s board and discussed Huang with China’s president. Trump argues that preserving Huang’s technical expertise outweighs the reported concerns and says the administration provided Nvidia assurances based on available information. Parnas interprets the episode as evidence of political influence over a major technology company. The recording also contains a substantial sponsor segment and promotional appeals, limiting the portion devoted to the underlying allegations.",
+      "topics": [
+        "Nvidia leadership dispute",
+        "Trump and corporate influence",
+        "China-related security concerns",
+        "AI chip export controls"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A partner of Nvidia CEO Jensen Huang had contact with China’s Ministry of State Security, and related associates were connected to Chinese intelligence.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            69,
+            70,
+            71,
+            72,
+            73,
+            77,
+            78,
+            79,
+            198,
+            199,
+            200,
+            201
+          ]
+        },
+        {
+          "claim": "Advanced Nvidia AI chips connected to the partner’s network were acquired in large quantities, with some allegedly smuggled to China.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            73,
+            74,
+            75,
+            76
+          ]
+        },
+        {
+          "claim": "Trump communicated with Nvidia’s board and discussed Huang with China’s president while supporting Huang’s return.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            256,
+            257,
+            265,
+            266,
+            267,
+            268
+          ]
+        },
+        {
+          "claim": "Trump said a government investigation found Huang had done nothing wrong and that the administration gave Nvidia national-security assurances.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            166,
+            167,
+            172,
+            173,
+            174,
+            175,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames Trump’s support for Nvidia’s CEO as alleged oligarchic influence and corruption.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            27,
+            28,
+            29,
+            30
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 86.88
+        },
+        {
+          "point": "Trump publicly endorsed the CEO’s return and described him as important to the American economy and national security.",
+          "evidence_segment_indices": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            60,
+            61,
+            62
+          ],
+          "start_seconds": 88.88,
+          "end_seconds": 152.16
+        },
+        {
+          "point": "Trump said losing the CEO’s expertise would pose a greater threat than the reported contacts involving China.",
+          "evidence_segment_indices": [
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224
+          ],
+          "start_seconds": 437.039,
+          "end_seconds": 499.759
+        },
+        {
+          "point": "The episode includes a sponsor segment and repeated subscription appeals alongside the political discussion.",
+          "evidence_segment_indices": [
+            31,
+            32,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            157,
+            158,
+            159
+          ],
+          "start_seconds": 84.88,
+          "end_seconds": 357.68
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "c735b2f92ff265d516b60a47ab963971055267a50e16cdb0f4d17a4995423fa5",
+      "transcript_captured_at": "2026-11-23T18:33:12.750475Z",
+      "summary_generated_at": "2026-11-23T18:38:25.642816Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies only on the supplied transcript and does not independently verify allegations, official statements, or cited reporting.",
+        "Automatic captions contain apparent name, wording, and transcription errors, including inconsistent renderings of the Nvidia CEO’s name.",
+        "Some claims are compressed or paraphrased by the creator, making the underlying sources and chronology unclear.",
+        "The sponsor segment and promotional material interrupt the substantive discussion.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4998,218 +5222,6 @@
         "The referenced clips and conference remarks are presented through Kulinski's commentary, without full surrounding context.",
         "Predictions about the Republican Party's future are opinions rather than established outcomes.",
         "Several factual assertions, including attendance, hospital closures, and political actions, require independent verification.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "EcseeBuPAZ0",
-      "title": "BREAKING: PENTAGON ‘MISSING’ $2 TRILLION, FAILS 9TH AUDIT STRAIGHT | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=EcseeBuPAZ0",
-      "published_at": "2026-11-19T21:15:10.000000Z",
-      "summary": "Kyle Kulinski argues that repeated Pentagon audit failures and proposed increases in military spending expose severe accountability problems. Citing Responsible Statecraft, Ben Freeman, and a quoted Government Accountability Office warning, he says the Pentagon has never passed a full financial audit, has roughly $2 trillion outside clean audit coverage, and may receive $1.5 trillion next year. Kulinski contrasts these figures with unmet domestic priorities such as healthcare, education, infrastructure, and debt relief. He further alleges that defense contractors benefit from no-bid contracts, executive compensation, and stock buybacks while producing costly or ineffective equipment. The episode frames weak financial controls as both a fiscal and national-security issue, linking them to alleged readiness problems and reported use of expired munitions. Kulinski concludes that military spending should be reduced and accountability imposed. The transcript presents these figures and allegations through commentary and quoted sources; it does not independently establish their accuracy or provide detailed audit documentation.",
-      "topics": [
-        "Pentagon audits and financial accountability",
-        "Military spending and proposed budget increases",
-        "Defense contractors and procurement",
-        "Military readiness and munitions",
-        "Domestic spending priorities"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The Pentagon failed its ninth consecutive audit and has roughly $2 trillion outside clean audit coverage.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            12,
-            13,
-            63,
-            64,
-            65,
-            66,
-            67,
-            95,
-            96,
-            97,
-            98
-          ]
-        },
-        {
-          "claim": "The Pentagon budget exceeded $1 trillion and a $1.5 trillion budget is proposed for the following year.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            15,
-            16,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181
-          ]
-        },
-        {
-          "claim": "More than half of Pentagon spending goes to private contractors, including spending on stock buybacks and executive compensation.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            99,
-            100,
-            101,
-            102,
-            103,
-            104
-          ]
-        },
-        {
-          "claim": "The Navy used expired munitions during Operation Epic Fury after recoding them for use.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            271,
-            272,
-            273,
-            274,
-            275,
-            276,
-            277,
-            278,
-            279,
-            280,
-            281,
-            282,
-            283,
-            284
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski presents audit failures and proposed spending increases as evidence of inadequate Pentagon accountability.",
-          "evidence_segment_indices": [
-            11,
-            12,
-            13,
-            15,
-            16,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36
-          ],
-          "start_seconds": 22.4,
-          "end_seconds": 82.08
-        },
-        {
-          "point": "He argues that military spending competes with healthcare, education, infrastructure, and other domestic priorities.",
-          "evidence_segment_indices": [
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            143,
-            144,
-            145,
-            146,
-            147,
-            148,
-            191,
-            192,
-            193,
-            244,
-            245,
-            246,
-            252
-          ],
-          "start_seconds": 85.92,
-          "end_seconds": 504.96
-        },
-        {
-          "point": "He alleges that defense contracting rewards companies and executives despite questionable performance or unnecessary products.",
-          "evidence_segment_indices": [
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140,
-            141
-          ],
-          "start_seconds": 203.2,
-          "end_seconds": 294.639
-        },
-        {
-          "point": "The episode characterizes financial management as a national-security concern, citing claimed readiness and munitions problems.",
-          "evidence_segment_indices": [
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            210,
-            217,
-            271,
-            272,
-            273,
-            274,
-            275,
-            276,
-            277,
-            278,
-            279,
-            280
-          ],
-          "start_seconds": 398.24,
-          "end_seconds": 564.88
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "6f31bbfc1ec63c2062939521fe9a4d3a3b6ae82534024d0865ee9aed6d5d7e9e",
-      "transcript_captured_at": "2026-11-19T22:33:20.825734Z",
-      "summary_generated_at": "2026-11-19T22:38:55.187489Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is commentary and quoted material rather than primary audit or budget documentation.",
-        "Several numerical and historical claims are attributed to cited sources but are not independently substantiated in the episode.",
-        "Automatic captions contain profanity redactions, apparent transcription errors, and ambiguous wording, including some names and equipment references.",
-        "Claims about current conflicts, military performance, contractor conduct, and alleged illegality require independent verification.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
