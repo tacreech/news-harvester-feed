@@ -1,11 +1,394 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T22:42:00.644496Z",
+  "generated_at": "2026-11-23T23:12:00.631981Z",
   "reporting_window": {
-    "start": "2026-11-16T22:42:00.644496Z",
-    "end": "2026-11-23T22:42:00.644496Z"
+    "start": "2026-11-16T23:12:00.631981Z",
+    "end": "2026-11-23T23:12:00.631981Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "4cNgp4UMWV4",
+      "title": "Abdul SCHOOLS Smug TV Host In TOTAL MASTERCLASS!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=4cNgp4UMWV4",
+      "published_at": "2026-11-23T22:10:39.000000Z",
+      "summary": "The creator praises Abdul for, in his view, turning adversarial interviews into favorable political moments. The episode highlights an interview in which Abdul rejects ethnostates and argues that Palestinians and Jewish Israelis should have equal rights, dignity, peace, and self-determination. He also frames democracy as a principle that should apply consistently, while questioning support for Israel when comparable standards are not applied elsewhere. The creator then discusses Abdul’s response to a question about defunding the Iran war: Abdul argues that Congress should not fund what he calls an illegal, unjustified war and says any resulting government shutdown would reflect the president’s choice to prioritize the war. The creator endorses this framing and urges Democrats to present a unified antiwar position. The commentary also alleges that some Democratic leaders privately support continuing the war and predicts electoral gains if Democrats adopted Abdul’s approach. The transcript is commentary and excerpts rather than independent documentation of the interview, political claims, or polling.",
+      "topics": [
+        "Media interviews and political messaging",
+        "Israel, democracy, and equal rights",
+        "Iran war funding and congressional authority",
+        "Democratic strategy and electoral predictions"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The interviewee argued that Israel should prioritize equal rights and democracy for Palestinians and Jewish Israelis rather than an ethno-national state.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            62,
+            63,
+            64,
+            81,
+            84,
+            85,
+            86,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122
+          ]
+        },
+        {
+          "claim": "The interviewee said Congress should not fund what he characterized as an illegal and unjustified war with Iran.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            224,
+            233,
+            234,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242
+          ]
+        },
+        {
+          "claim": "The creator alleges that Chuck Schumer privately supports continuing the Iran war despite public ambiguity.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            315,
+            316,
+            317,
+            318,
+            319,
+            320,
+            321,
+            322,
+            323
+          ]
+        },
+        {
+          "claim": "The creator predicts Democrats could substantially improve their electoral performance by adopting the interviewee’s approach.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            331,
+            332,
+            333,
+            334,
+            335,
+            336,
+            337,
+            338
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator presents Abdul as unusually effective at reversing hostile or leading questions.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            8,
+            9,
+            10,
+            13,
+            14,
+            16,
+            17,
+            18,
+            19
+          ],
+          "start_seconds": 0.16,
+          "end_seconds": 52.559
+        },
+        {
+          "point": "The interview excerpt centers on opposition to ethnostates and support for equal rights and self-determination.",
+          "evidence_segment_indices": [
+            62,
+            63,
+            64,
+            71,
+            72,
+            73,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91
+          ],
+          "start_seconds": 138.4,
+          "end_seconds": 183.599
+        },
+        {
+          "point": "A second exchange concerns whether Democrats should withhold war funding, with Abdul assigning responsibility for a shutdown to the president if a nonwar funding deal exists.",
+          "evidence_segment_indices": [
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            240,
+            241,
+            242
+          ],
+          "start_seconds": 435.039,
+          "end_seconds": 477.12
+        },
+        {
+          "point": "The creator argues that Democrats should communicate a unified position against funding the Iran war.",
+          "evidence_segment_indices": [
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270
+          ],
+          "start_seconds": 479.12,
+          "end_seconds": 536.0
+        },
+        {
+          "point": "The episode closes with a political prediction and a request for viewers to like and subscribe.",
+          "evidence_segment_indices": [
+            331,
+            332,
+            333,
+            334,
+            335,
+            336,
+            337,
+            338,
+            339,
+            340,
+            341,
+            342,
+            343,
+            344
+          ],
+          "start_seconds": 650.8,
+          "end_seconds": 680.32
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "a4e62636c40c12c67c01a95fa0ee5360a9636e209bff778777f7926ab3ce5f83",
+      "transcript_captured_at": "2026-11-23T23:03:19.184685Z",
+      "summary_generated_at": "2026-11-23T23:08:44.268199Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is an advocacy-oriented commentary segment, not an independent account.",
+        "Several captions contain transcription defects, profanity placeholders, and unclear names or words.",
+        "The transcript does not independently establish the interview’s date, surrounding context, legal status of the war, or cited political and polling claims.",
+        "Predictions and allegations are presented by the creator and should not be treated as verified facts.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "ecIHt-5eVZc",
+      "title": "Trump Walks Right Into Abdul’s Trap | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=ecIHt-5eVZc",
+      "published_at": "2026-11-23T21:40:35.000000Z",
+      "summary": "Kyle Kulinski argues that Senator Abdul El-Sayed is using an unusually effective strategy to promote Medicare for All by repeatedly offering to work with Donald Trump and emphasizing that the program could carry Trump’s name. Kulinski says Trump has shown openness to discussing bipartisan healthcare legislation, including by reposting Abdul’s messaging and mentioning possible cooperation, but he doubts that Trump or congressional Republicans would ultimately support such a proposal. Abdul presents guaranteed healthcare without premiums, copays, or deductibles as the central objective, regardless of its branding, and suggests Trump’s influence could attract Republican votes. Kulinski frames the approach as valuable even if it fails legislatively because it keeps Medicare for All prominent in public debate. The episode also discusses criticism from Rand Paul and John Kennedy, contrasting their objections about cost and government administration with Abdul’s claims that single-payer healthcare would reduce spending. The excerpt is commentary and selected clips, so it does not independently establish the policy, polling, legislative, or cost claims discussed.",
+      "topics": [
+        "Medicare for All",
+        "Trump and bipartisan healthcare",
+        "Political messaging",
+        "Healthcare costs"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Trump has signaled openness to bipartisan healthcare legislation and possible cooperation with Democrats.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            59,
+            66,
+            73,
+            113,
+            121,
+            230,
+            284,
+            296
+          ]
+        },
+        {
+          "claim": "Abdul’s proposal would provide healthcare without premiums, copays, or deductibles.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            127,
+            130,
+            132,
+            139,
+            141,
+            142
+          ]
+        },
+        {
+          "claim": "Single-payer healthcare would reduce overall spending by eliminating private-insurance profit margins.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            404,
+            408,
+            416,
+            417,
+            573,
+            577,
+            580
+          ]
+        },
+        {
+          "claim": "Recent legislation could cause hundreds of rural hospitals to close and remove millions of people from Medicaid.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            194,
+            195,
+            196,
+            198,
+            199,
+            200,
+            201,
+            552,
+            553
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski praises Abdul’s use of flattering, Trump-branded messaging to advance Medicare for All.",
+          "evidence_segment_indices": [
+            22,
+            24,
+            31,
+            38,
+            42,
+            50,
+            52,
+            56,
+            149,
+            150,
+            152
+          ],
+          "start_seconds": 52.48,
+          "end_seconds": 303.68
+        },
+        {
+          "point": "Abdul says he would work with Trump if doing so advanced guaranteed healthcare, regardless of the program’s name.",
+          "evidence_segment_indices": [
+            121,
+            124,
+            127,
+            130,
+            133,
+            142,
+            143
+          ],
+          "start_seconds": 256.0,
+          "end_seconds": 288.639
+        },
+        {
+          "point": "Kulinski doubts Republicans would support Medicare for All but says the strategy is still useful for public messaging.",
+          "evidence_segment_indices": [
+            183,
+            186,
+            190,
+            202,
+            205,
+            232,
+            254,
+            257
+          ],
+          "start_seconds": 353.919,
+          "end_seconds": 498.72
+        },
+        {
+          "point": "The episode contrasts objections about taxation, government administration, and employer insurance with arguments favoring single-payer care.",
+          "evidence_segment_indices": [
+            403,
+            405,
+            408,
+            447,
+            479,
+            486,
+            493,
+            545,
+            573,
+            580
+          ],
+          "start_seconds": 781.92,
+          "end_seconds": 1148.24
+        },
+        {
+          "point": "Kulinski says keeping Medicare for All in public discussion can increase attention to the proposal.",
+          "evidence_segment_indices": [
+            307,
+            313,
+            315,
+            319,
+            321,
+            324,
+            332,
+            334
+          ],
+          "start_seconds": 589.44,
+          "end_seconds": 654.399
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "ec4f5754cf01b1ab82d15d02dbe311b1b0519561a791dbe29435882b93a10522",
+      "transcript_captured_at": "2026-11-23T23:03:13.931966Z",
+      "summary_generated_at": "2026-11-23T23:08:23.178020Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is strongly opinionated commentary rather than a neutral report.",
+        "Captioning contains profanity redactions, transcription errors, and possible name or phrase ambiguities.",
+        "Several quoted clips are summarized or excerpted rather than independently available in the source.",
+        "The overview reflects only the supplied episode excerpt and does not verify its numerical or political claims.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4769,471 +5152,6 @@
         "Several allegations and predictions are attributed to Parnas, cited reporting, or Coons rather than independently established in the source.",
         "The transcript includes only selected remarks and does not provide corroborating documents, full interview context, or responses from people criticized.",
         "Some references are ambiguous because transcription errors obscure locations, identities, agencies, and event details.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "18HXXLpgOc0",
-      "title": "Billionaires Are Trying To Trick Democratic Voters | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=18HXXLpgOc0",
-      "published_at": "2026-11-19T22:45:26.000000Z",
-      "summary": "Kyle Kulinski argues that Democratic primary voters should distinguish progressive policy from what he characterizes as billionaire-backed “radical centrism.” He says corporate-aligned Democrats use broad, reassuring language—such as expanding access to affordable healthcare—instead of clearly endorsing universal, single-payer coverage. The episode contrasts Pete Buttigieg’s stated support for “Medicare for all who want it,” with private insurance remaining available, against Kulinski’s preference for a single public system. Kulinski argues that a public option would either be too weak to attract people or strong enough to destabilize private insurers, while preserving administrative complexity. He also criticizes Buttigieg’s opposition to broad student-debt relief and presents funding relationships involving liberal media and Democratic organizations as evidence of an organized centrist political network. The episode concludes that Democrats should cooperate on investigations and immediate legislation but openly contest ideological differences before 2028. Kulinski predicts that only substantial social-democratic reforms can secure durable Democratic support and prevent Republicans from returning to power.",
-      "topics": [
-        "Democratic primary politics",
-        "Healthcare policy",
-        "Billionaire influence",
-        "Student debt",
-        "Progressive versus centrist Democrats"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Emma Vigan’s reported funding and ownership relationships involving liberal media outlets, the Bullwark, and Democratic organizations are accurate.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            97,
-            98,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107
-          ]
-        },
-        {
-          "claim": "The episode’s policy claims about public-option incentives, insurance-market effects, and administrative costs are accurate.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            310,
-            311,
-            312,
-            313,
-            314,
-            315,
-            316,
-            317,
-            318,
-            319,
-            373,
-            374,
-            375,
-            376,
-            377,
-            378,
-            379,
-            380,
-            381,
-            382,
-            383,
-            384,
-            385,
-            386
-          ]
-        },
-        {
-          "claim": "Broad student-debt relief was substantially blocked by the Supreme Court, as stated in the episode.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            164,
-            165,
-            166,
-            167,
-            168,
-            169
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski says primary season should expose differences within the Democratic coalition rather than focus only on opposing Republicans.",
-          "evidence_segment_indices": [
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27
-          ],
-          "start_seconds": 23.76,
-          "end_seconds": 55.52
-        },
-        {
-          "point": "He presents vague healthcare language as distinct from explicit single-payer or Medicare-for-all proposals.",
-          "evidence_segment_indices": [
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74
-          ],
-          "start_seconds": 108.0,
-          "end_seconds": 158.959
-        },
-        {
-          "point": "Buttigieg describes a default public plan with an option to retain private insurance; Kulinski calls this a two-tiered system.",
-          "evidence_segment_indices": [
-            270,
-            271,
-            272,
-            273,
-            274,
-            275,
-            276,
-            277,
-            278,
-            279,
-            280,
-            281,
-            282,
-            295,
-            296,
-            297,
-            298,
-            299,
-            300,
-            301,
-            302,
-            303,
-            304,
-            305
-          ],
-          "start_seconds": 551.68,
-          "end_seconds": 606.08
-        },
-        {
-          "point": "Kulinski says Democrats can cooperate on oversight and legislation while debating policy direction ahead of 2028.",
-          "evidence_segment_indices": [
-            510,
-            511,
-            512,
-            513,
-            514,
-            519,
-            520,
-            521,
-            522,
-            523,
-            524,
-            525,
-            526,
-            527,
-            528,
-            529,
-            530,
-            531,
-            532,
-            533,
-            534,
-            535,
-            536,
-            537
-          ],
-          "start_seconds": 968.399,
-          "end_seconds": 1022.16
-        },
-        {
-          "point": "He advocates social-democratic measures including healthcare, education, higher taxes on wealthy people, redistribution, and paid vacation.",
-          "evidence_segment_indices": [
-            553,
-            554,
-            555,
-            559,
-            560,
-            561,
-            562,
-            563,
-            564,
-            565,
-            566,
-            567
-          ],
-          "start_seconds": 1054.24,
-          "end_seconds": 1081.28
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "df81f0befdc4aeee9b7c9cfdede42cc639bfbaa0641b82aebc298821d19b8aca",
-      "transcript_captured_at": "2026-11-20T00:33:15.607267Z",
-      "summary_generated_at": "2026-11-20T00:38:26.962956Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The material is a single opinionated commentary episode and does not independently establish its allegations or predictions.",
-        "Automatic captions contain profanity redactions, misspellings, and transcription errors, including names and policy terms.",
-        "Several quoted or referenced claims are presented without the underlying articles, interviews, studies, or financial records.",
-        "The episode uses strongly evaluative language, so descriptions of political motives reflect Kulinski’s framing rather than neutral findings.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "MF8nZD-HScw",
-      "title": "RIGHT-WING TWITTER ACCOUNTS OUTTED AS PAID PSYOP | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=MF8nZD-HScw",
-      "published_at": "2026-11-19T22:15:39.000000Z",
-      "summary": "Kyle Kulinski argues that a reported influencer-marketing investigation indicates some right-wing online creators may have promoted Nvidia chip sales to China through coordinated, paid campaigns. He cites the Midas Project’s account of posts appearing after US approval of H200 sales, allegedly using similar language and links tracked through mycreator.studio to Urban Legend. Kulinski says the investigation identified thousands of posts across roughly 1,400 campaigns, spanning AI policy, chip exports, crypto, healthcare, energy, immigration, and other topics. He also discusses alleged connections involving prominent influencers, political figures, and AI-related advocacy groups, while arguing that undisclosed sponsorships undermine audience trust. The episode broadens from the specific Nvidia example into Kulinski’s sweeping criticism that much of right-wing Twitter consists of bots or paid promoters. The supplied transcript presents Kulinski’s commentary and summaries of an external investigation, but does not independently establish the investigation’s methods, the alleged payments, or the full scope of the claims.",
-      "topics": [
-        "Influencer campaigns",
-        "Nvidia chip exports",
-        "Political advertising disclosure",
-        "Online media trust"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The Midas Project reported a covert campaign using right-wing creators to promote Nvidia chip sales to China, with posts allegedly appearing after US approval of H200 sales and sometimes using similar language.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            9,
-            10,
-            11,
-            12,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56
-          ]
-        },
-        {
-          "claim": "Campaign links were allegedly tracked through mycreator.studio and connected to Urban Legend, which the discussion says had run more than 1,300 campaigns.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            75,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81
-          ]
-        },
-        {
-          "claim": "The investigation allegedly identified more than 10,000 posts across approximately 1,400 campaigns covering multiple policy areas.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133
-          ]
-        },
-        {
-          "claim": "The discussion alleges that some influencers and public figures participated in paid campaigns and that some sponsorships were not disclosed.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            91,
-            92,
-            93,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            282,
-            283,
-            284
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode centers on a reported investigation into coordinated influencer promotion of Nvidia chip exports to China.",
-          "evidence_segment_indices": [
-            9,
-            10,
-            11,
-            12,
-            19,
-            20,
-            21,
-            22
-          ],
-          "start_seconds": 17.92,
-          "end_seconds": 52.48
-        },
-        {
-          "point": "Kulinski highlights repeated wording, tracked links, and alleged campaign-firm connections as indicators of coordination.",
-          "evidence_segment_indices": [
-            47,
-            48,
-            49,
-            50,
-            51,
-            55,
-            56,
-            75,
-            76,
-            77,
-            78,
-            79,
-            80
-          ],
-          "start_seconds": 105.759,
-          "end_seconds": 173.92
-        },
-        {
-          "point": "He says the alleged campaign network extends beyond AI and chips into crypto, healthcare, energy, immigration, and other issues.",
-          "evidence_segment_indices": [
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            229,
-            232,
-            233,
-            234,
-            235,
-            236
-          ],
-          "start_seconds": 276.639,
-          "end_seconds": 490.24
-        },
-        {
-          "point": "Kulinski frames paid or undisclosed promotion as a threat to the trust between political creators and their audiences.",
-          "evidence_segment_indices": [
-            166,
-            167,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            191,
-            192,
-            193
-          ],
-          "start_seconds": 355.84,
-          "end_seconds": 406.56
-        },
-        {
-          "point": "He generalizes from the cited examples to a broad critique of right-wing online media, describing much of it as paid or automated.",
-          "evidence_segment_indices": [
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144,
-            145,
-            206,
-            207,
-            208,
-            209,
-            210,
-            211,
-            212,
-            239,
-            240,
-            241,
-            242
-          ],
-          "start_seconds": 295.68,
-          "end_seconds": 500.8
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "c418216740b4b7c2dc1ba2bad8cd3bfbe9a9cefeb4a2e5ed562e39cd8fb01ab6",
-      "transcript_captured_at": "2026-11-19T22:33:38.146900Z",
-      "summary_generated_at": "2026-11-19T22:39:38.961279Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is commentary summarizing an external investigation; the underlying report, data, and methodology are not included.",
-        "Several claims are presented as allegations or interpretations, including payment, coordination, disclosure violations, and the scope of participation.",
-        "Caption defects include redactions, misrecognitions, profanity, and ambiguous names or phrases, which may affect precise attribution.",
-        "Kulinski’s broader claims about the entire right-wing media ecosystem go beyond the specific evidence described in the supplied transcript.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
