@@ -1,11 +1,241 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T18:42:00.615996Z",
+  "generated_at": "2026-11-23T22:42:00.644496Z",
   "reporting_window": {
-    "start": "2026-11-16T18:42:00.615996Z",
-    "end": "2026-11-23T18:42:00.615996Z"
+    "start": "2026-11-16T22:42:00.644496Z",
+    "end": "2026-11-23T22:42:00.644496Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "A1YM2515pRA",
+      "title": "BREAKING: Trump CRACKS As ECONOMY IMPLODES & FBI HACKED!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=A1YM2515pRA",
+      "published_at": "2026-11-23T21:00:14.000000Z",
+      "summary": "The creator presents a strongly critical episode focused on claims of economic deterioration, cybersecurity incidents, and presidential intervention in corporate affairs. He cites reported declines in pending home sales and argues that housing affordability has reached crisis levels, while also discussing steep losses among major AI stocks and a broader market selloff. The episode frames an alleged FBI database breach and other outages as evidence of worsening cyber risk, contrasting those concerns with officials’ more reassuring explanations. The creator also discusses reports that President Trump intervened in Nvidia’s leadership situation while questions remained about an executive’s alleged relationship with a Chinese spy, characterizing the episode as a conflict-of-interest and national-security scandal. Additional segments address Trump’s election-related rhetoric, weak performance by his endorsements, and reported debates over naming a Navy carrier. The supplied transcript consists only of captions and commentary, so the episode’s underlying statistics, reports, and allegations are not independently established here.",
+      "topics": [
+        "US economy and housing",
+        "AI stocks and markets",
+        "Cybersecurity incidents",
+        "Presidential ethics and influence"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Pending US home sales reportedly fell to their lowest recorded level in the cited data series, with a 4.7% monthly decline and a 16.7% annual decline.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            79,
+            80,
+            81,
+            82,
+            83,
+            94,
+            95,
+            96
+          ]
+        },
+        {
+          "claim": "The FBI’s nationwide criminal-information database was reportedly subject to an apparent breach.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245
+          ]
+        },
+        {
+          "claim": "US ports reportedly experienced a major increase in cyberattack attempts, including approximately 120 million attempts against the Port of Los Angeles in August.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            450,
+            451,
+            452,
+            453,
+            454,
+            455,
+            456,
+            457,
+            458,
+            459,
+            460,
+            461,
+            462
+          ]
+        },
+        {
+          "claim": "President Trump reportedly intervened with Nvidia’s board and supported Jensen Huang’s reinstatement while questions about Huang’s alleged connection to a Chinese spy remained under investigation.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            638,
+            639,
+            640,
+            641,
+            644,
+            647,
+            648,
+            649,
+            650,
+            651,
+            652,
+            656,
+            657,
+            658,
+            660,
+            661,
+            662,
+            663,
+            664,
+            665,
+            666,
+            667
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator uses pending-home-sales data and AI-stock losses to argue that economic weakness is broader than headline market indexes suggest.",
+          "evidence_segment_indices": [
+            79,
+            80,
+            81,
+            82,
+            84,
+            85,
+            86,
+            87,
+            88,
+            94,
+            95,
+            101,
+            102,
+            128,
+            129,
+            134,
+            135,
+            136,
+            137,
+            138
+          ],
+          "start_seconds": 169.44,
+          "end_seconds": 323.36
+        },
+        {
+          "point": "The episode links reported cyber incidents affecting the FBI, banks, ports, and other infrastructure to concerns about national resilience, while officials describe some outages as security-related glitches.",
+          "evidence_segment_indices": [
+            237,
+            238,
+            239,
+            240,
+            241,
+            450,
+            451,
+            452,
+            459,
+            460,
+            461,
+            462,
+            529,
+            530,
+            531,
+            532,
+            539,
+            540,
+            541,
+            545,
+            548,
+            549,
+            551,
+            554
+          ],
+          "start_seconds": 536.399,
+          "end_seconds": 1201.36
+        },
+        {
+          "point": "The creator portrays Trump’s comments about cyberattacks and election claims as an attempt to redirect attention from crises facing his administration.",
+          "evidence_segment_indices": [
+            262,
+            263,
+            264,
+            267,
+            268,
+            269,
+            270,
+            271,
+            274,
+            275,
+            276,
+            277,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290,
+            291,
+            292,
+            293,
+            294,
+            295,
+            296
+          ],
+          "start_seconds": 591.76,
+          "end_seconds": 669.2
+        },
+        {
+          "point": "The episode argues that reported presidential involvement in Nvidia’s leadership raises questions about conflicts of interest and national security.",
+          "evidence_segment_indices": [
+            638,
+            639,
+            640,
+            641,
+            651,
+            652,
+            653,
+            654,
+            655,
+            656,
+            657,
+            660,
+            661,
+            662,
+            663,
+            664,
+            665,
+            666,
+            667,
+            688,
+            689,
+            690,
+            691
+          ],
+          "start_seconds": 1383.44,
+          "end_seconds": 1502.559
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "802c4a16fc4f7be829cf20c8d5917f8cb2d94f5fbc9e3eabce7cf12cc0d8a43c",
+      "transcript_captured_at": "2026-11-23T22:33:12.965862Z",
+      "summary_generated_at": "2026-11-23T22:38:26.501495Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains many automated-caption defects, profanity redactions, repeated words, and unclear names.",
+        "Most substantive assertions are presented through the creator’s commentary or attributed reports; the transcript does not provide the underlying documents or data.",
+        "Some allegations, including espionage, corruption, criminal conduct, and national-security misconduct, remain allegations in this source and require independent verification.",
+        "The supplied material covers the episode’s opening and main economic, cyber, and Nvidia segments but may not represent its full contents.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5004,224 +5234,6 @@
         "Several claims are presented as allegations or interpretations, including payment, coordination, disclosure violations, and the scope of participation.",
         "Caption defects include redactions, misrecognitions, profanity, and ambiguous names or phrases, which may affect precise attribution.",
         "Kulinski’s broader claims about the entire right-wing media ecosystem go beyond the specific evidence described in the supplied transcript.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "MWOsAJyjC5o",
-      "title": "MAGA Is Evolving (Getting Dumber & More Evil) | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=MWOsAJyjC5o",
-      "published_at": "2026-11-19T21:45:26.000000Z",
-      "summary": "Kyle Kulinski argues that the Republican Party is unlikely to moderate after Donald Trump and predicts that Christian nationalism will become more influential in the post-Trump right. He characterizes this projected movement as increasingly religious, exclusionary, and hostile toward minority groups, and contrasts it with a progressive agenda focused on policy changes such as universal healthcare. Kulinski discusses a conference involving Nick Fuentes and presents remarks attributed to a speaker about Christianity, TPUSA, and organizing young right-wing men. He interprets those remarks as evidence of a harder ideological turn and alleges that some activists are seeking to reverse gains involving women, racial minorities, immigrants, and LGBTQ people. He also disputes the characterization of Charlie Kirk as a moderate and predicts continued political escalation rather than moderation. The episode is primarily commentary and includes strongly worded assessments, predictions, and allegations; the transcript provides limited context for the referenced conference, speakers, and policy claims.",
-      "topics": [
-        "Republican Party succession",
-        "Christian nationalism",
-        "Right-wing conferences",
-        "Political polarization"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The referenced conference had approximately 1,300 attendees and organizers expected attendance to double in 2027.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            145,
-            146,
-            147,
-            148,
-            149
-          ]
-        },
-        {
-          "claim": "TPUSA was declining or falling apart after Charlie Kirk's departure and was expected to be replaced by another organization or event network.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            67,
-            68,
-            69,
-            70,
-            72,
-            73,
-            154,
-            155,
-            156,
-            157
-          ]
-        },
-        {
-          "claim": "Up to 742 hospitals were closing because of a referenced bill, alongside reported healthcare losses.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            131,
-            132,
-            133,
-            134,
-            135
-          ]
-        },
-        {
-          "claim": "A referenced speaker advocated restricting women's voting rights and pursuing other regressive gender and racial policies.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            210,
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            223,
-            224,
-            225,
-            226,
-            227
-          ]
-        },
-        {
-          "claim": "Trump promoted Steven Miller to chief of staff after what Kulinski describes as a defeat.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            319,
-            320,
-            321,
-            322,
-            323,
-            324,
-            325,
-            326
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski predicts only a very small chance that Republicans will moderate after Trump.",
-          "evidence_segment_indices": [
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26
-          ],
-          "start_seconds": 44.239,
-          "end_seconds": 63.28
-        },
-        {
-          "point": "He argues that Christian nationalism may replace Trumpism as the dominant post-Trump direction.",
-          "evidence_segment_indices": [
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            312,
-            313
-          ],
-          "start_seconds": 57.44,
-          "end_seconds": 641.6
-        },
-        {
-          "point": "The episode analyzes remarks associated with Nick Fuentes and a conference organizer as examples of the projected ideological shift.",
-          "evidence_segment_indices": [
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58
-          ],
-          "start_seconds": 98.799,
-          "end_seconds": 133.36
-        },
-        {
-          "point": "Kulinski frames scapegoating minorities as a distraction from economic problems and identifies billionaires as the more consequential target.",
-          "evidence_segment_indices": [
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            119,
-            120,
-            121,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            138,
-            139
-          ],
-          "start_seconds": 80.0,
-          "end_seconds": 305.759
-        },
-        {
-          "point": "He contrasts the right's alleged backward-looking agenda with a left-wing emphasis on repairing healthcare and other institutions.",
-          "evidence_segment_indices": [
-            272,
-            273,
-            274,
-            275,
-            276,
-            277,
-            278,
-            279,
-            280,
-            281,
-            282,
-            283,
-            284
-          ],
-          "start_seconds": 560.48,
-          "end_seconds": 586.8
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "451f5116a8cb5bb4ceba47b8547a4b183dc84d624354fbb26f90f97c1694e31d",
-      "transcript_captured_at": "2026-11-19T22:33:28.613668Z",
-      "summary_generated_at": "2026-11-19T22:39:16.285771Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains profanity masking and apparent caption errors, including unclear names and terms.",
-        "The referenced clips and conference remarks are presented through Kulinski's commentary, without full surrounding context.",
-        "Predictions about the Republican Party's future are opinions rather than established outcomes.",
-        "Several factual assertions, including attendance, hospital closures, and political actions, require independent verification.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
