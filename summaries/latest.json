@@ -1,11 +1,201 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T23:12:00.631981Z",
+  "generated_at": "2026-11-24T00:12:00.591463Z",
   "reporting_window": {
-    "start": "2026-11-16T23:12:00.631981Z",
-    "end": "2026-11-23T23:12:00.631981Z"
+    "start": "2026-11-17T00:12:00.591463Z",
+    "end": "2026-11-24T00:12:00.591463Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "8lRLGe-_BX0",
+      "title": "‘REMOVE HIM’ — Congress ERUPTS as Trump ADMITS to Corruption, They Want him GONE!!!",
+      "url": "https://www.youtube.com/watch?v=8lRLGe-_BX0",
+      "published_at": "2026-11-23T22:21:38.000000Z",
+      "summary": "The creator argues that President Trump publicly described influencing Nvidia’s board to reinstate CEO Jensen Huang, framing the episode as a potential conflict involving national security, export controls, and presidential financial interests. The video cites Democratic calls for investigations and questions from Republican senators about which officials advised Nvidia, why the board changed course, and whether an internal inquiry was still pending. It also discusses Trump’s claim that Huang was effectively cleared and his account of consultations with government officials, while contrasting that with statements that Congress had not been briefed. An interview with Senator Kirsten Gillibrand presents her allegations that Huang and Commerce Secretary Howard Lutnick showed poor judgment and that advanced chips could reach China, alongside her support for stronger export-control legislation. The segment later broadens into Democratic priorities for oversight, lowering costs, ending tariffs and the Iran war, and possible filibuster changes. The material is an advocacy-oriented commentary episode relying on quoted remarks and imperfect captions.",
+      "topics": [
+        "Nvidia leadership controversy",
+        "National security and export controls",
+        "Congressional investigations",
+        "Presidential conflicts of interest",
+        "Democratic legislative agenda"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Trump said he influenced Nvidia’s board and gave assurances related to Huang’s status and national-security concerns.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            6,
+            146,
+            149,
+            150,
+            153,
+            164,
+            172
+          ]
+        },
+        {
+          "claim": "Nvidia’s board reinstated Huang while an independent investigation was reportedly still underway.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            96,
+            99,
+            100,
+            101,
+            258,
+            259,
+            260
+          ]
+        },
+        {
+          "claim": "Members of Congress said they had not been briefed and called for investigations into the decision and related export-control issues.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            58,
+            59,
+            60,
+            76,
+            77,
+            80,
+            81,
+            84,
+            85,
+            212,
+            213,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243
+          ]
+        },
+        {
+          "claim": "The episode alleges that Huang or Nvidia may have breached export controls or enabled sensitive technology access to China.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            216,
+            217,
+            218,
+            224,
+            225,
+            226,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290,
+            291,
+            292,
+            293,
+            294,
+            295,
+            296,
+            297
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator presents Trump’s comments as the central evidence for alleged presidential involvement in Nvidia’s board decision.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "start_seconds": 0.08,
+          "end_seconds": 24.4
+        },
+        {
+          "point": "The cited lawmakers seek answers about government input, national-security assessments, and the timing of the reinstatement.",
+          "evidence_segment_indices": [
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108
+          ],
+          "start_seconds": 185.76,
+          "end_seconds": 235.12
+        },
+        {
+          "point": "Gillibrand supports stronger export controls and says congressional oversight should accompany the controversy.",
+          "evidence_segment_indices": [
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            306,
+            307,
+            308,
+            309,
+            310,
+            311
+          ],
+          "start_seconds": 516.399,
+          "end_seconds": 694.16
+        },
+        {
+          "point": "The interview expands into Democratic plans involving oversight, costs, tariffs, Iran, health care, and the filibuster.",
+          "evidence_segment_indices": [
+            349,
+            350,
+            351,
+            357,
+            358,
+            359,
+            362,
+            363,
+            386,
+            387,
+            388,
+            430,
+            431,
+            437,
+            438,
+            439,
+            440
+          ],
+          "start_seconds": 770.48,
+          "end_seconds": 965.279
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "26c0bbf08ccb408d6c070214f169cc389fda877dea9aae9bd73208c22e11eb38",
+      "transcript_captured_at": "2026-11-24T00:03:13.791499Z",
+      "summary_generated_at": "2026-11-24T00:08:23.429696Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Captions contain apparent name, wording, and transcription errors, including variations in names and malformed phrases.",
+        "The episode presents allegations, opinions, and quoted political statements; the supplied material does not independently establish their accuracy.",
+        "Some surrounding claims and references are incomplete or ambiguous because the transcript is excerpted and imperfectly captioned.",
+        "Coverage is limited to this commentary episode and its embedded interview excerpts.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4947,211 +5137,6 @@
         "The episode relies on reported analyses and public disclosures that are not independently verified here.",
         "The transcript does not establish whether consumers legally receive tariff refunds or how each company ultimately uses refund proceeds.",
         "Claims that the tariff policy was deliberately planned as a scam or involved insider trading are presented as Kulinski’s allegations and speculation.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "unfO0LC-DGk",
-      "title": "‘HE IS IN TROUBLE’ — Trump TURNS ON Vance as Allies Sound ALARM, He Gives Up EVERYTHING!!",
-      "url": "https://www.youtube.com/watch?v=unfO0LC-DGk",
-      "published_at": "2026-11-19T22:53:36.000000Z",
-      "summary": "Aaron Parnas argues that Donald Trump’s reported dissatisfaction with JD Vance has left the vice president politically constrained: supporting Trump could tie him to an unpopular war, while breaking with him could cost presidential backing. The episode also describes Trump questioning European support for Ukraine after meeting Vladimir Putin and contrasts that approach with a German leader’s stated commitment to backing Ukraine. Parnas then presents a confirmation hearing in which Trump’s cyber-defense nominee gives uncertain answers about January 6. In an extended interview, Senator Chris Coons criticizes the administration’s foreign-policy judgment, raises concerns about infrastructure outages and AI-related vulnerabilities, and calls for investigations involving powerful business figures. Coons also predicts that Democrats’ electoral gains will matter only if the party delivers tangible results and develops broader leadership. The program mixes reported claims, commentary, interview opinions, promotional material, and captions with frequent transcription errors; the supplied transcript alone does not establish the accuracy of its allegations or predictions.",
-      "topics": [
-        "Trump–Vance relationship",
-        "Ukraine and Russia policy",
-        "Confirmation hearing",
-        "Cybersecurity and AI risks",
-        "Democratic strategy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Trump reportedly became dissatisfied with Vance after Vance attributed Republican midterm losses to the war, and Vance was removed from Iran peace talks.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            34,
-            37,
-            38,
-            40,
-            41,
-            44,
-            45
-          ]
-        },
-        {
-          "claim": "Trump questioned European allies about continued financial support for Ukraine after meeting Putin.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            63,
-            66,
-            67,
-            68,
-            70,
-            71,
-            72
-          ]
-        },
-        {
-          "claim": "The nominee discussed in the hearing gave conflicting or uncertain answers about whether the Capitol was attacked on January 6, 2021.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            117,
-            118,
-            119,
-            120,
-            121,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136
-          ]
-        },
-        {
-          "claim": "Coons alleged that Elon Musk’s actions involving Ukraine’s satellite communications contributed to civilian deaths and raised concerns about national-security vulnerabilities.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            348,
-            350,
-            351,
-            352,
-            353,
-            354,
-            355,
-            356,
-            357,
-            358,
-            359,
-            360,
-            361,
-            362,
-            363
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames Vance as caught between loyalty to Trump and political costs associated with the war.",
-          "evidence_segment_indices": [
-            40,
-            41,
-            42,
-            44,
-            45,
-            58,
-            59,
-            60,
-            61
-          ],
-          "start_seconds": 86.88,
-          "end_seconds": 134.8
-        },
-        {
-          "point": "The episode portrays European leaders as insisting that Ukraine’s future peace and security require European participation.",
-          "evidence_segment_indices": [
-            73,
-            78,
-            79,
-            80,
-            82,
-            84,
-            85,
-            88,
-            89,
-            90
-          ],
-          "start_seconds": 154.879,
-          "end_seconds": 210.319
-        },
-        {
-          "point": "Coons argues that emerging cyber and AI vulnerabilities require stronger oversight and questions the administration’s competence.",
-          "evidence_segment_indices": [
-            385,
-            388,
-            392,
-            394,
-            397,
-            400,
-            407,
-            408,
-            409,
-            410,
-            451,
-            452,
-            453,
-            454
-          ],
-          "start_seconds": 882.8,
-          "end_seconds": 1062.64
-        },
-        {
-          "point": "Coons says Democrats should pursue focused investigations while also delivering practical improvements for voters.",
-          "evidence_segment_indices": [
-            313,
-            314,
-            331,
-            332,
-            333,
-            334,
-            336,
-            337,
-            338,
-            339,
-            340,
-            341,
-            342,
-            343,
-            344,
-            345
-          ],
-          "start_seconds": 711.2,
-          "end_seconds": 791.04
-        },
-        {
-          "point": "The interview closes with uncertainty over Democratic Senate leadership and an emphasis on broad caucus representation.",
-          "evidence_segment_indices": [
-            479,
-            480,
-            481,
-            482,
-            490,
-            491,
-            502,
-            503,
-            504,
-            516,
-            517,
-            518,
-            519,
-            529,
-            530,
-            531,
-            537,
-            538,
-            539,
-            540
-          ],
-          "start_seconds": 1109.84,
-          "end_seconds": 1256.48
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "8cc32edb093b6198174924de4eed295d5637ab1b084b24ec641bc88ba3e6de40",
-      "transcript_captured_at": "2026-11-20T01:33:20.524994Z",
-      "summary_generated_at": "2026-11-20T01:38:29.386662Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains numerous caption defects, including misspelled names, garbled phrases, overlapping segments, and unclear speaker labels.",
-        "Several allegations and predictions are attributed to Parnas, cited reporting, or Coons rather than independently established in the source.",
-        "The transcript includes only selected remarks and does not provide corroborating documents, full interview context, or responses from people criticized.",
-        "Some references are ambiguous because transcription errors obscure locations, identities, agencies, and event details.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
