@@ -1,11 +1,656 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T21:42:00.621038Z",
+  "generated_at": "2026-11-24T22:42:00.600066Z",
   "reporting_window": {
-    "start": "2026-11-17T21:42:00.621038Z",
-    "end": "2026-11-24T21:42:00.621038Z"
+    "start": "2026-11-17T22:42:00.600066Z",
+    "end": "2026-11-24T22:42:00.600066Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "lw3-s51XMec",
+      "title": "Elon’s Awkwardness SHOCKS ALL In Bizarre Interview As WALLS CLOSE IN!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=lw3-s51XMec",
+      "published_at": "2026-11-24T22:05:12.000000Z",
+      "summary": "Kyle Kulinski argues that Elon Musk’s hesitant performance at a Tesla event in Argentina reflects broader problems for Musk and Tesla. The episode contrasts Musk’s pauses and difficulty speaking with the expectation that a product launch should promote vehicle sales. Kulinski connects the presentation to Tesla’s reported delivery decline and to Musk’s emphasis on robotaxis and robots rather than conventional cars. He also alleges that Musk is repositioning himself politically to protect business interests, citing proposed Texas manufacturing investment, criticism of subsidies, and the hiring of Democratic lobbyists. The commentary further attributes multiple government cuts, regulatory decisions, and alleged misconduct to Musk, while claiming these actions have caused serious public harm. Kulinski speculates about Musk’s mental health and drug use, but the supplied material provides no independent confirmation. Overall, the episode is an intensely adversarial interpretation built around a short, awkward interview clip, reported business figures, and numerous unverified allegations.",
+      "topics": [
+        "Elon Musk",
+        "Tesla",
+        "Political repositioning",
+        "Government cuts",
+        "Public allegations"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Tesla deliveries reportedly fell 8.6% to 1.636 million in 2025, described as a second consecutive annual decline.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            55,
+            56,
+            57
+          ]
+        },
+        {
+          "claim": "Musk allegedly cut or weakened government programs and agencies, including screw-worm prevention, pediatric cancer research, Meals on Wheels, weather services, and the CFPB.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255
+          ]
+        },
+        {
+          "claim": "Tesla reportedly proposed a $3.1 billion Texas polysilicon plant, while the commentary says Musk hired Democratic lobbyists and sought a friendlier political posture.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            296,
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            310,
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            321,
+            322,
+            323
+          ]
+        },
+        {
+          "claim": "The episode repeats allegations that Musk used drugs and engaged in sexually inappropriate conduct toward a subordinate.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            114,
+            115,
+            116,
+            118,
+            119,
+            120,
+            121,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            168
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski presents Musk’s pauses and fragmented answers at a Tesla event as evidence of serious personal or professional problems.",
+          "evidence_segment_indices": [
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            100,
+            101,
+            102
+          ],
+          "start_seconds": 76.479,
+          "end_seconds": 234.239
+        },
+        {
+          "point": "The commentary links Tesla’s perceived weakness to Musk’s focus on robotaxis and Optimus rather than selling cars.",
+          "evidence_segment_indices": [
+            45,
+            46,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "start_seconds": 90.08,
+          "end_seconds": 126.32
+        },
+        {
+          "point": "Kulinski interprets Musk’s political shift and Texas outreach as an effort to preserve subsidies, contracts, and business access.",
+          "evidence_segment_indices": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            301,
+            302,
+            303,
+            314,
+            315,
+            316,
+            321,
+            322,
+            323,
+            324
+          ],
+          "start_seconds": 29.84,
+          "end_seconds": 748.16
+        },
+        {
+          "point": "The episode broadens its criticism to alleged regulatory cuts, public harms, and Musk’s accumulated wealth and influence.",
+          "evidence_segment_indices": [
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            242,
+            243,
+            244,
+            245
+          ],
+          "start_seconds": 509.039,
+          "end_seconds": 586.48
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "cff421b8698780d2052569e8ce5c1075541c0d82cebf3fc6e492f1e7dff32434",
+      "transcript_captured_at": "2026-11-24T22:33:30.629793Z",
+      "summary_generated_at": "2026-11-24T22:39:30.565358Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a partisan monologue and does not independently establish the allegations it presents.",
+        "Captions contain profanity redactions, repetitions, speaker changes, and occasional transcription errors.",
+        "Claims about Musk’s health, drug use, motives, misconduct, government actions, and resulting harms require independent verification.",
+        "The supplied material centers on commentary and a short interview excerpt, with limited underlying documentation.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "OraI9a_c9CQ",
+      "title": "Ben Shapiro PANICS & Tries To Distance From Trump!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=OraI9a_c9CQ",
+      "published_at": "2026-11-24T21:35:25.000000Z",
+      "summary": "Kyle Kulinski argues that Ben Shapiro is attempting to distance himself from Donald Trump while preserving support for much of Trump’s agenda. Kulinski contrasts Shapiro’s statement that he agrees with roughly 80% of Trump’s policies but disagrees with about 90% of their implementation with his own view that the underlying conservative program is unpopular, regardless of execution. The episode also criticizes Shapiro’s foreign-policy discussion, particularly his explanation of the rationale for military action against Iran and his suggestion that repeated attacks might be necessary to prevent nuclear development. Kulinski portrays these positions as evidence of inconsistency and contrasts them with policies he considers broadly popular, including social programs and healthcare. The commentary is highly partisan and frequently uses insults, sarcasm, and unsupported assertions. It presents allegations about domestic-policy effects, public approval, military actions, nuclear capabilities, and election outcomes without supplying independent documentation. The transcript also contains profanity, transcription defects, and ambiguous references, so it should be treated as a summary of Kulinski’s argument rather than verification of its factual claims.",
+      "topics": [
+        "Ben Shapiro and Trump",
+        "Conservative policy criticism",
+        "Iran and foreign policy",
+        "Public approval and elections"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Trump had a 29% approval rating and a historic Democratic wave followed.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            20,
+            381,
+            382
+          ]
+        },
+        {
+          "claim": "A major policy bill would close 742 rural hospitals and remove millions from Medicaid and food assistance.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            137,
+            138,
+            140,
+            141,
+            143,
+            145
+          ]
+        },
+        {
+          "claim": "Military action against Iran occurred in 2025 and was justified by ballistic-missile and nuclear-site concerns.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            220,
+            223,
+            230,
+            231,
+            232,
+            255,
+            261,
+            266
+          ]
+        },
+        {
+          "claim": "Shapiro’s proposed approach could entail recurring attacks on Iran and possibly a tactical nuclear strike on a mountain facility.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            267,
+            272,
+            274,
+            275,
+            296,
+            298,
+            301
+          ]
+        },
+        {
+          "claim": "Trump’s administration cut pediatric cancer research, Meals on Wheels, and large numbers of government jobs.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            164,
+            165,
+            166,
+            173,
+            175,
+            176
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski says Shapiro supports most Trump policies but criticizes how they were implemented.",
+          "evidence_segment_indices": [
+            52,
+            54,
+            55,
+            56,
+            85,
+            87,
+            88
+          ],
+          "start_seconds": 110.479,
+          "end_seconds": 181.36
+        },
+        {
+          "point": "Kulinski argues conservative policies are unpopular on their substance, not merely their execution.",
+          "evidence_segment_indices": [
+            99,
+            100,
+            102,
+            107,
+            120,
+            126,
+            133,
+            134
+          ],
+          "start_seconds": 196.8,
+          "end_seconds": 275.199
+        },
+        {
+          "point": "The episode challenges Shapiro’s explanation of the Iran conflict and his support for possible recurring military action.",
+          "evidence_segment_indices": [
+            218,
+            220,
+            228,
+            230,
+            241,
+            256,
+            258,
+            296,
+            300
+          ],
+          "start_seconds": 433.44,
+          "end_seconds": 588.48
+        },
+        {
+          "point": "Kulinski contrasts conservative proposals with left-wing programs he says become politically durable after adoption.",
+          "evidence_segment_indices": [
+            184,
+            187,
+            195,
+            200,
+            201,
+            208,
+            214
+          ],
+          "start_seconds": 370.639,
+          "end_seconds": 429.759
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "91b814d2a81348e47674f670510ef5f1a51643fde364dbd31c45fd6f2d82a5e1",
+      "transcript_captured_at": "2026-11-24T22:33:25.700063Z",
+      "summary_generated_at": "2026-11-24T22:39:07.888710Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a single partisan commentator’s presentation and does not independently establish its factual allegations.",
+        "Several captions contain transcription errors, profanity placeholders, incomplete sentences, and ambiguous names or references.",
+        "The source does not provide supporting documents, polling methodology, legal findings, or independent reporting for consequential claims.",
+        "Some statements about policy effects and military events are presented rhetorically rather than with precise definitions or evidence.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "XdpJTbTpuek",
+      "title": "Americans REVOLT Over DATA CENTER FROM HELL (It’s Worse Than You Think) | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=XdpJTbTpuek",
+      "published_at": "2026-11-24T21:05:33.000000Z",
+      "summary": "Kyle Kulinski argues that data-center development has become a politically consequential local issue, focusing on reported impacts around an xAI-related project in Southaven, Mississippi. He presents descriptions of persistent low-frequency noise, construction activity, bright nighttime lighting, traffic, and concerns about water use, energy costs, emissions, and possible job displacement. Residents interviewed in the episode describe sleep disruption, ear ringing, migraines, nausea, and feeling unable to sell or comfortably inhabit their properties; one resident cites a professional noise analysis, though the underlying report is not provided. The segment also discusses a class-action lawsuit alleging public nuisance, emotional distress, and negligence, while noting that xAI did not respond to a request for comment. Kulinski links community frustration to reported electoral shifts and contends that Democrats should support stronger data-center limits, including a moratorium and tighter AI regulation. The episode combines commentary, quoted reporting, and resident testimony; it does not independently establish the alleged health, environmental, economic, or electoral effects.",
+      "topics": [
+        "Data-center impacts",
+        "Community opposition",
+        "Mississippi elections",
+        "AI regulation"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Residents’ reported health problems, including migraines, nausea, breathing issues, and sleep disruption, were caused by data-center noise or emissions.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            53,
+            57,
+            58,
+            59,
+            169,
+            170,
+            171,
+            172,
+            173,
+            193,
+            194,
+            195,
+            196,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207
+          ]
+        },
+        {
+          "claim": "The xAI-related plant is the subject of a class-action lawsuit alleging public nuisance, emotional distress, and negligence.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            163,
+            164,
+            165,
+            166,
+            167,
+            168
+          ]
+        },
+        {
+          "claim": "The cited Mississippi counties shifted from supporting Trump to supporting Democratic candidates partly because of data-center impacts.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114
+          ]
+        },
+        {
+          "claim": "The project has increased local energy costs, affected water supplies, or reduced nearby property values.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            160,
+            161,
+            184,
+            185,
+            186,
+            187,
+            346,
+            347,
+            348,
+            376,
+            377,
+            378,
+            379
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode centers on residents’ accounts of continuous noise, lighting, construction, and traffic near an xAI-associated project.",
+          "evidence_segment_indices": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            48,
+            49,
+            50,
+            64,
+            65,
+            66,
+            67
+          ],
+          "start_seconds": 59.199,
+          "end_seconds": 138.48
+        },
+        {
+          "point": "Residents and interviewers describe the project as disruptive, while local officials cite possible jobs and economic benefits.",
+          "evidence_segment_indices": [
+            66,
+            67,
+            68,
+            69,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89
+          ],
+          "start_seconds": 133.68,
+          "end_seconds": 173.04
+        },
+        {
+          "point": "The program frames community opposition as crossing partisan lines and influencing voting decisions.",
+          "evidence_segment_indices": [
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            324,
+            325,
+            326,
+            327,
+            328,
+            329,
+            330,
+            331,
+            332,
+            333,
+            334,
+            335
+          ],
+          "start_seconds": 398.479,
+          "end_seconds": 618.16
+        },
+        {
+          "point": "Kulinski advocates a data-center moratorium and stronger restrictions on certain AI systems.",
+          "evidence_segment_indices": [
+            385,
+            386,
+            387,
+            388,
+            389,
+            390,
+            391,
+            392,
+            393,
+            394,
+            395,
+            396,
+            397,
+            398,
+            408,
+            409,
+            410,
+            411,
+            412,
+            413,
+            414,
+            415,
+            416,
+            417
+          ],
+          "start_seconds": 715.76,
+          "end_seconds": 787.36
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "f4f2524c9cba627075403b2c946f037903732ebbffba6d4ff1375319690cae4f",
+      "transcript_captured_at": "2026-11-24T22:33:20.617761Z",
+      "summary_generated_at": "2026-11-24T22:38:49.115875Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is an excerpted transcript with caption errors, omissions, music markers, and occasional unclear names or wording.",
+        "Several environmental, health, property-value, and electoral assertions are presented as testimony or commentary rather than independently verified findings.",
+        "The cited professional noise analysis, lawsuit filings, election data, and company response are not included in the supplied material.",
+        "Coverage is limited to the episode’s framing and selected interviews; opposing evidence and broader local context are absent.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -200,6 +845,207 @@
         "The transcript attributes several cybersecurity claims to the New York Times or unnamed sources but provides no underlying reports or documentation.",
         "Some captions contain transcription errors, repetitions, speaker changes, and incomplete phrases, especially in the quoted interview.",
         "The episode combines a cybersecurity discussion with a separate political interview, so the relationship between the topics is editorial rather than established by the transcript.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "-ptFFtUZ268",
+      "title": "MAGA Is COMPLETELY F*CKED For Good, Says CNN Data Guru | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=-ptFFtUZ268",
+      "published_at": "2026-11-24T20:35:06.000000Z",
+      "summary": "Kyle Kulinski argues that MAGA and Trump are losing political strength, while presenting the alleged Nvidia leadership controversy as an example of elite influence and weak accountability. He says Trump intervened to reinstate Jensen Huang despite alleged investigations involving China, while personally holding Nvidia-related financial interests. Kulinski also discusses televised commentary defending Huang and criticizes the idea that wealth makes wrongdoing unlikely. The episode then turns to polling and election claims presented by CNN commentators: MAGA reportedly reached a record-low favorability rating, Democrats reportedly held a substantial party favorability advantage, and many Republicans reportedly doubted Trump could pass his preferred policies. A CNN data analyst is quoted as describing Trump as potentially becoming irrelevant or a lame duck, while noting that comparable historically unpopular presidents did not recover their approval ratings. Kulinski concludes that the evidence indicates serious political decline, but the episode relies heavily on commentary, selected polling references, and allegations that are not independently established in the transcript.",
+      "topics": [
+        "Trump and MAGA polling",
+        "Nvidia and alleged conflicts of interest",
+        "Elite accountability",
+        "Republican political strategy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Trump personally intervened to reinstate Jensen Huang as Nvidia CEO while holding Nvidia-related financial interests.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            36,
+            38,
+            41,
+            44,
+            113,
+            118
+          ]
+        },
+        {
+          "claim": "Huang was under investigation for allegedly leaking sensitive chip information to China and having possible ties to a Chinese spy.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            45,
+            46,
+            47,
+            48,
+            49,
+            127,
+            129,
+            131
+          ]
+        },
+        {
+          "claim": "MAGA reached a record-low net favorability rating, reportedly 41 points underwater, in October 2026.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            491,
+            492,
+            493,
+            494,
+            498,
+            499
+          ]
+        },
+        {
+          "claim": "Polling cited in the episode showed Democrats with a 17-point net favorability advantage over Republicans.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            516,
+            517,
+            518,
+            527,
+            528,
+            529,
+            530,
+            531
+          ]
+        },
+        {
+          "claim": "A cited poll placed Trump's approval at 29%, reportedly for the second time in recent polling.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            662,
+            663,
+            664,
+            665,
+            666,
+            667,
+            668,
+            669
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames the Nvidia episode as evidence of alleged presidential favoritism and billionaire impunity.",
+          "evidence_segment_indices": [
+            50,
+            51,
+            52,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86
+          ],
+          "start_seconds": 107.52,
+          "end_seconds": 188.159
+        },
+        {
+          "point": "A televised exchange challenges the claim that Huang could not commit wrongdoing because he is wealthy and successful.",
+          "evidence_segment_indices": [
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            249,
+            257,
+            261,
+            262,
+            265,
+            271,
+            272,
+            273
+          ],
+          "start_seconds": 448.16,
+          "end_seconds": 545.2
+        },
+        {
+          "point": "The episode presents polling suggesting declining support for MAGA, Trump, and the Republican Party.",
+          "evidence_segment_indices": [
+            491,
+            499,
+            500,
+            516,
+            517,
+            518,
+            527,
+            528,
+            529,
+            530,
+            531
+          ],
+          "start_seconds": 938.48,
+          "end_seconds": 1008.959
+        },
+        {
+          "point": "The cited CNN analyst says Republicans increasingly view Trump as unable to pass his policies and possibly becoming a lame duck.",
+          "evidence_segment_indices": [
+            613,
+            614,
+            615,
+            616,
+            617,
+            618,
+            619,
+            623,
+            624,
+            625,
+            626,
+            627,
+            628,
+            633,
+            634,
+            635
+          ],
+          "start_seconds": 1137.6,
+          "end_seconds": 1178.0
+        },
+        {
+          "point": "Historical comparison is explicitly limited to two prior presidents with similarly low approval ratings.",
+          "evidence_segment_indices": [
+            646,
+            647,
+            649,
+            650,
+            651,
+            652,
+            655,
+            656,
+            657,
+            658,
+            659,
+            660,
+            661
+          ],
+          "start_seconds": 1189.28,
+          "end_seconds": 1221.52
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "6b2c5f3c0b7267ca3b97f345d4df185f85f6a7aa9bf5e24356a505266823997f",
+      "transcript_captured_at": "2026-11-24T22:33:14.153530Z",
+      "summary_generated_at": "2026-11-24T22:38:25.965663Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains automatic-caption defects, garbled words, profanity placeholders, and occasional speaker-attribution ambiguity.",
+        "Polling figures, election results, financial holdings, investigations, and alleged misconduct are presented within the episode but are not independently substantiated by the source text.",
+        "The episode uses selected clips and commentary, so it does not establish the broader context, methodology, dates, or representativeness of the cited polls.",
+        "Several statements are rhetorical opinions or accusations by Kulinski and should not be read as verified findings.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -4520,783 +5366,6 @@
         "The breach, its scope, affected records, and any attacker access or modifications are presented through the creator’s account and are not independently established in the source.",
         "Several technical explanations and causal links are explicitly speculative or opinion-based.",
         "The source provides only the creator’s discussion and does not include primary statements, incident reports, or corroborating documentation.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "HTiNuWcZaCA",
-      "title": "‘NATIONAL DISGRACE’ — Trump Signs Order to BLOCK Investigations as he ABANDONS America, URGENT!!",
-      "url": "https://www.youtube.com/watch?v=HTiNuWcZaCA",
-      "published_at": "2026-11-21T22:44:19.000000Z",
-      "summary": "The creator presents a strongly critical account of President Trump, arguing that he is aligning with Vladimir Putin while restricting congressional investigations. The episode describes an executive order that, according to the creator, requires federal contractors to notify the White House about congressional information requests and follow White House instructions, with possible contract consequences for noncompliance. It also relays an oversight committee criticism that the order undermines Congress’s investigative authority, while noting that legal experts expect possible court challenges. The creator discusses Trump’s reported interactions with Putin and Xi Jinping, alleged limits on military cooperation with Canada, and backlash from Trump supporters after Trump reposted a healthcare proposal associated with Abdul El-Sayed. A final segment covers Trump’s comments about a reported FBI crime-database hack. In the quoted remarks, Trump says the incident is not good but suggests it might reveal information about past investigations and voter fraud. Trump also expresses openness to bipartisan cooperation on healthcare and other issues. The source is commentary and quoted statements, not independent verification.",
-      "topics": [
-        "Executive privilege and congressional oversight",
-        "Trump’s foreign-policy relationships",
-        "Reported FBI database hack",
-        "Healthcare and bipartisan cooperation"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The executive order requires federal contractors to notify the White House about congressional requests and follow its instructions, with possible contract penalties for noncompliance.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            70,
-            74,
-            85,
-            90,
-            96,
-            100
-          ]
-        },
-        {
-          "claim": "Hackers broke into the FBI’s National Crime Information Center database.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            148,
-            150,
-            151,
-            162,
-            163
-          ]
-        },
-        {
-          "claim": "The administration restricted military cooperation between the United States and Canada.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            34,
-            36,
-            37,
-            38,
-            39
-          ]
-        },
-        {
-          "claim": "White House officials directed agencies to obtain approval before employees testify before Congress.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            124,
-            126,
-            127,
-            128,
-            129
-          ]
-        },
-        {
-          "claim": "Trump reposted a healthcare proposal associated with Abdul El-Sayed and received substantial backlash from supporters.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            45,
-            50,
-            54,
-            55,
-            56,
-            57
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator frames the episode as evidence of presidential efforts to constrain congressional oversight.",
-          "evidence_segment_indices": [
-            70,
-            74,
-            75,
-            78,
-            84,
-            91,
-            95,
-            107,
-            113
-          ],
-          "start_seconds": 170.8,
-          "end_seconds": 268.8
-        },
-        {
-          "point": "The order is described as protecting sensitive communications, while congressional critics characterize it as an attack on oversight powers.",
-          "evidence_segment_indices": [
-            102,
-            103,
-            104,
-            105,
-            108,
-            109,
-            110,
-            111,
-            112,
-            117
-          ],
-          "start_seconds": 244.08,
-          "end_seconds": 276.0
-        },
-        {
-          "point": "The episode contrasts Trump’s reported engagement with Russia and China with alleged tensions involving Canada.",
-          "evidence_segment_indices": [
-            24,
-            27,
-            28,
-            34,
-            38,
-            39,
-            40,
-            41,
-            42
-          ],
-          "start_seconds": 57.44,
-          "end_seconds": 111.84
-        },
-        {
-          "point": "Trump’s quoted remarks combine openness to bipartisan healthcare work with a positive-spin interpretation of the reported hack.",
-          "evidence_segment_indices": [
-            168,
-            169,
-            170,
-            181,
-            182,
-            183,
-            197,
-            210,
-            212,
-            216
-          ],
-          "start_seconds": 378.88,
-          "end_seconds": 477.44
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "e8b0d1f872c7e32a017684f52457fb8e6622da1e6431c6645d745a5bc483eb53",
-      "transcript_captured_at": "2026-11-22T00:33:15.206331Z",
-      "summary_generated_at": "2026-11-22T00:38:23.746778Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is an automatically generated caption record with apparent names, words, and repetitions that may be inaccurate.",
-        "The episode’s allegations and characterizations are attributed to the creator or quoted speakers and are not independently established here.",
-        "The source provides commentary and selected quotations without the underlying executive-order text, reporting, or corroborating documentation.",
-        "Some references to political figures, events, and timing are ambiguous in the transcript.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "xfnyGnI5Xvo",
-      "title": "JD Vance PANICS As ALL PLANS COLLAPSE!! ",
-      "url": "https://www.youtube.com/watch?v=xfnyGnI5Xvo",
-      "published_at": "2026-11-21T17:00:30.000000Z",
-      "summary": "The creator and guests discuss possible 2028 presidential contests, arguing that polling portrays Kamala Harris ahead of JD Vance while Marco Rubio leads an early Republican field. They characterize Vance as politically constrained by loyalty to Donald Trump, who they say remains influential with Republican voters despite broader unpopularity. The conversation also considers potential Republican candidates, including Ron DeSantis, Thomas Massie, Pete Hegseth, and Donald Trump Jr., while predicting a crowded primary. On the Democratic side, the speakers debate whether voters will prioritize policy commitments such as Medicare for All, opposition to Israel’s war in Gaza, abolishing ICE, anti-corruption measures, and resistance to surveillance. They criticize centrist candidates for limited or carefully managed public engagement and argue that a more direct left-wing message could benefit Democrats. The discussion concludes by presenting opposition to AI expansion, data centers, and technology-sector influence as an increasingly important political issue. The transcript is commentary and prediction, not independent verification of the cited polls or events.",
-      "topics": [
-        "2028 presidential politics",
-        "Republican primary field",
-        "Democratic coalition and policy priorities",
-        "AI, data centers, and tech power"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A hypothetical 2028 matchup poll places Kamala Harris at 50% and JD Vance at 40%.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            43,
-            44,
-            45
-          ]
-        },
-        {
-          "claim": "An early 2028 Republican primary poll places Marco Rubio at 36%, JD Vance at 20%, and several others at 7%.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            155,
-            156,
-            157,
-            158,
-            159,
-            163,
-            166
-          ]
-        },
-        {
-          "claim": "The speakers attribute possible political distancing by Vance from Trump to anticipated criticism and electoral strategy.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            55,
-            56,
-            57,
-            58,
-            60,
-            61,
-            62,
-            63,
-            100,
-            101,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110
-          ]
-        },
-        {
-          "claim": "The discussion states that opposition to data centers contributed to Democratic gains in rural America and mattered in a Texas governor’s race.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            778,
-            780,
-            781,
-            782,
-            783,
-            784,
-            785,
-            786
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The guests interpret Vance’s political position as difficult because he must balance loyalty to Trump with a possible future presidential campaign.",
-          "evidence_segment_indices": [
-            97,
-            99,
-            100,
-            101,
-            104,
-            105,
-            107,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114
-          ],
-          "start_seconds": 184.879,
-          "end_seconds": 219.36
-        },
-        {
-          "point": "They expect a competitive Republican field and debate whether Trump will endorse a successor or seek to retain control over the nomination process.",
-          "evidence_segment_indices": [
-            155,
-            156,
-            157,
-            158,
-            212,
-            213,
-            346,
-            347,
-            367,
-            368,
-            371,
-            372,
-            393,
-            395,
-            396,
-            397,
-            404,
-            405,
-            406,
-            407,
-            408
-          ],
-          "start_seconds": 308.639,
-          "end_seconds": 769.519
-        },
-        {
-          "point": "They argue that Democratic voters may demand clearer positions on Gaza, Medicare for All, abolishing ICE, corruption, and surveillance.",
-          "evidence_segment_indices": [
-            587,
-            588,
-            589,
-            590,
-            591,
-            598,
-            599,
-            600,
-            601,
-            602,
-            674,
-            675,
-            687,
-            688,
-            694,
-            695,
-            696,
-            753,
-            754,
-            755,
-            756
-          ],
-          "start_seconds": 1096.4,
-          "end_seconds": 1417.919
-        },
-        {
-          "point": "The conversation presents resistance to AI infrastructure and technology oligarchs as a growing cross-country political concern.",
-          "evidence_segment_indices": [
-            773,
-            774,
-            775,
-            776,
-            777,
-            778,
-            780,
-            787,
-            788,
-            790,
-            791,
-            792,
-            793,
-            794,
-            795,
-            796,
-            797,
-            798,
-            799,
-            800
-          ],
-          "start_seconds": 1448.4,
-          "end_seconds": 1510.88
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "3fe30f1bd6ab41eab75fdd40d7af406cc79797faafe45bdcba1037e2d16246b5",
-      "transcript_captured_at": "2026-11-21T18:03:18.204898Z",
-      "summary_generated_at": "2026-11-21T18:08:28.088829Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Automatic captions contain numerous names, terms, and phrases that appear mistranscribed or ambiguous.",
-        "Poll sponsors, field dates, sample sizes, and methodology are not provided in the transcript.",
-        "The source consists of political commentary, forecasts, and allegations; it does not independently substantiate them.",
-        "The excerpt ends while introducing a clip about AI, so that segment’s substance is not included.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "CnOqRZDKXw0",
-      "title": "Google Has Become More Evil Than Ever...",
-      "url": "https://www.youtube.com/watch?v=CnOqRZDKXw0",
-      "published_at": "2026-11-21T01:16:14.000000Z",
-      "summary": "Mutahar argues that Google is reducing Android’s openness through app-install verification, waiting periods, and possible bootloader restrictions, framing these changes as threats to user control rather than solely safety measures. He says Google presents verification as protection against scams, while he questions whether the company should control access to third-party software. He also discusses GrapheneOS, describing it as a privacy- and security-focused Android alternative and relaying its allegations that Google is disadvantaging competing operating systems, pressuring device manufacturers, and making features exclusive to Pixel phones. Mutahar presents these allegations as evidence of business incentives to preserve Google’s ecosystem and describes possible antitrust implications. He favors GrapheneOS because he believes it offers stronger privacy and security, while acknowledging that no platform is completely safe. The episode also compares Android’s openness with Apple’s restrictions and advocates broader user control over software, bootloaders, and personal data. The transcript provides the creator’s perspective but does not independently substantiate the technical, legal, or corporate claims.",
-      "topics": [
-        "Android openness and sideloading",
-        "GrapheneOS and privacy",
-        "Bootloader restrictions",
-        "Platform competition and antitrust"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Google plans Android verification and a waiting period for installing third-party applications in January 2027.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40
-          ]
-        },
-        {
-          "claim": "GrapheneOS alleges that Google is disadvantaging alternative operating systems, pressuring device manufacturers, and making features exclusive to Pixel phones.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            94,
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105
-          ]
-        },
-        {
-          "claim": "GrapheneOS can resist some phone-access techniques that affect comparable devices running Google’s operating system.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189
-          ]
-        },
-        {
-          "claim": "Google’s mobile-services licensing contains illegal or anticompetitive terms and its actions may violate U.S. antitrust law.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            233,
-            234,
-            235,
-            236,
-            237,
-            238,
-            239,
-            336,
-            337,
-            338,
-            339
-          ]
-        },
-        {
-          "claim": "A prior cyberattack affected 170 websites and exposed cryptocurrency and credit-card information through malicious code.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Mutahar characterizes Android’s proposed verification process as a loss of user control over sideloading.",
-          "evidence_segment_indices": [
-            14,
-            15,
-            16,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40
-          ],
-          "start_seconds": 30.72,
-          "end_seconds": 96.32
-        },
-        {
-          "point": "He presents GrapheneOS as a privacy-focused Android alternative that he personally uses for sensitive accounts.",
-          "evidence_segment_indices": [
-            105,
-            106,
-            107,
-            108,
-            109,
-            120,
-            121,
-            122,
-            123,
-            124,
-            445,
-            446,
-            447,
-            448,
-            449
-          ],
-          "start_seconds": 239.04,
-          "end_seconds": 1030.0
-        },
-        {
-          "point": "He attributes pressure against GrapheneOS and other alternatives to Google’s business interests in ecosystem control.",
-          "evidence_segment_indices": [
-            220,
-            221,
-            222,
-            223,
-            224,
-            230,
-            231,
-            232,
-            233,
-            240,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249
-          ],
-          "start_seconds": 501.039,
-          "end_seconds": 570.399
-        },
-        {
-          "point": "He argues that users should retain authority over applications, operating systems, bootloaders, and personal data.",
-          "evidence_segment_indices": [
-            281,
-            282,
-            283,
-            284,
-            285,
-            286,
-            287,
-            288,
-            289,
-            295,
-            296,
-            297,
-            298,
-            306,
-            307,
-            308,
-            309,
-            310,
-            311,
-            312
-          ],
-          "start_seconds": 632.24,
-          "end_seconds": 714.16
-        },
-        {
-          "point": "He acknowledges that GrapheneOS and other platforms remain vulnerable and that the episode is based largely on reported allegations and personal opinion.",
-          "evidence_segment_indices": [
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160,
-            161,
-            162,
-            323,
-            324,
-            325,
-            326,
-            327,
-            328,
-            450,
-            451,
-            452,
-            453,
-            454,
-            455,
-            456,
-            460
-          ],
-          "start_seconds": 354.4,
-          "end_seconds": 1055.84
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "4fb25d9a6a1ce4ecc5da0847c168eebfd1ad297878e637d58a310fb448236f9f",
-      "transcript_captured_at": "2026-11-21T02:33:14.820368Z",
-      "summary_generated_at": "2026-11-21T02:38:28.435082Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is an automated captioning and contains misheard or garbled terms, including repeated references to GrapheneOS and Cellebrite.",
-        "Corporate, technical, cybersecurity, and legal assertions are presented through the creator’s commentary and reported allegations, without supporting documents in the source.",
-        "The source does not establish the scope, applicability, or final status of the described Android policies.",
-        "Comparisons of security, privacy, and platform safety reflect the creator’s judgments rather than independently verified measurements.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "AgPXlFr_eKA",
-      "title": "Angie Nixon SPILLS THE TEA On HISTORIC Campaign!! ",
-      "url": "https://www.youtube.com/watch?v=AgPXlFr_eKA",
-      "published_at": "2026-11-21T01:16:13.000000Z",
-      "summary": "The creator presents an interview with Angie Nixon about her Florida campaign and its reported performance. The host characterizes Nixon as helping break Republican supermajorities, winning Miami-Dade, shifting the vote substantially, and attracting independents and some Republicans. Nixon attributes the result to a progressive, working-class message; voter outreach in Latino and Hispanic communities; appearances in local media; open events; and organizing across Florida. She rejects claims that she harmed other Democratic candidates and says the campaign faced a large registration gap, limited funding, and insufficient turnout efforts in some Black communities and her home county. Nixon argues that attacks portraying her as a communist were less effective than expected because voters responded to direct engagement and her opposition to what she described as authoritarian government. She also says a more moderate candidate would not necessarily have produced stronger numbers. The excerpt ends as the discussion turns to Democratic Senate leadership, without Nixon’s substantive answer.",
-      "topics": [
-        "Florida campaign performance",
-        "Voter outreach and turnout",
-        "Latino and Hispanic organizing",
-        "Progressive messaging",
-        "Democratic Senate leadership"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Nixon won Miami-Dade and produced an 18-point shift in the relevant comparison.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            18,
-            20,
-            21
-          ]
-        },
-        {
-          "claim": "Nixon received 57% of independents, 7% of Republicans, and outperformed Kamala Harris among Cuban voters by 21 points.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            27,
-            28,
-            29
-          ]
-        },
-        {
-          "claim": "Florida had a 1.5–1.6 million voter-registration gap between Republicans and Democrats, with the cited turnout rates near 68% and 62%.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54
-          ]
-        },
-        {
-          "claim": "Nixon’s campaign helped eliminate Republican supermajorities and coincided with another progressive state-legislative seat flipping.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            16,
-            17,
-            56,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The host frames Nixon’s campaign as an unexpectedly strong performance in Florida.",
-          "evidence_segment_indices": [
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            26,
-            27,
-            28,
-            29
-          ],
-          "start_seconds": 33.92,
-          "end_seconds": 65.439
-        },
-        {
-          "point": "Nixon credits direct organizing, local media, and Latino/Hispanic outreach for countering negative attacks.",
-          "evidence_segment_indices": [
-            82,
-            85,
-            86,
-            88,
-            95,
-            98,
-            99,
-            102,
-            107,
-            108,
-            109,
-            110,
-            113,
-            114
-          ],
-          "start_seconds": 192.64,
-          "end_seconds": 287.759
-        },
-        {
-          "point": "She identifies limited money, registration imbalance, and inadequate turnout work as campaign weaknesses.",
-          "evidence_segment_indices": [
-            47,
-            48,
-            49,
-            50,
-            54,
-            55,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            135,
-            136,
-            155,
-            156,
-            157
-          ],
-          "start_seconds": 107.119,
-          "end_seconds": 406.4
-        },
-        {
-          "point": "Nixon says she used the same message with Republican voters and openly engaged with difficult questions.",
-          "evidence_segment_indices": [
-            173,
-            174,
-            175,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221
-          ],
-          "start_seconds": 440.639,
-          "end_seconds": 563.92
-        },
-        {
-          "point": "The excerpt closes by introducing a question about Senate leadership without providing Nixon’s answer.",
-          "evidence_segment_indices": [
-            222,
-            223,
-            230,
-            231,
-            232,
-            233,
-            234,
-            235,
-            236,
-            237,
-            238
-          ],
-          "start_seconds": 560.16,
-          "end_seconds": 599.36
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "611e920b501e620e35de062c2b21dc4acb6abe9ffa162bdc7860ad28bdacfc6d",
-      "transcript_captured_at": "2026-11-21T02:03:19.399115Z",
-      "summary_generated_at": "2026-11-21T02:08:26.299541Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains overlapping segments, hesitations, misrecognitions, and apparent caption errors.",
-        "Several numerical and electoral statements are presented by the speakers but are not independently established in this excerpt.",
-        "The excerpt ends mid-answer, so the Senate-leadership discussion is incomplete.",
-        "Some comparisons, including the stated vote shift and Cuban-voter figure, lack a clearly specified baseline in the transcript.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
