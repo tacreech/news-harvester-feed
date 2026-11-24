@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T01:12:00.648751Z",
+  "generated_at": "2026-11-24T01:42:00.649360Z",
   "reporting_window": {
-    "start": "2026-11-17T01:12:00.648751Z",
-    "end": "2026-11-24T01:12:00.648751Z"
+    "start": "2026-11-17T01:42:00.649360Z",
+    "end": "2026-11-24T01:42:00.649360Z"
   },
   "episodes": [
     {
@@ -519,6 +519,176 @@
         "The source presents Kulinski’s commentary and excerpts from another discussion; it does not independently establish the factual claims made by either side.",
         "Claims about elections, public records, Gaza, Israel, podcast rankings, and quoted political figures require independent verification.",
         "The transcript’s speaker labels are incomplete, so attribution within the embedded exchange is sometimes uncertain.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "2mim0X2vvDw",
+      "title": "He's Back At Nvidia...",
+      "url": "https://www.youtube.com/watch?v=2mim0X2vvDw",
+      "published_at": "2026-11-23T23:37:48.000000Z",
+      "summary": "Mutahar argues that Nvidia reinstated CEO Jensen Huang after an alleged affair raised concerns about possible foreign-intelligence ties and GPU shipments to China. He presents Nvidia’s reported board statement as saying the decision followed government input and that Huang’s return posed no national-security risk, while also noting that an independent investigation remains underway. The episode frames the reinstatement as a business-driven choice: Mutahar says Huang’s leadership is closely tied to Nvidia’s strategy, market value, and dominance in AI hardware, and that the company’s stock fell after his removal before recovering when he returned. He questions whether Nvidia and government officials applied different standards because the company is economically and strategically important. The discussion also predicts that Huang’s return will not improve consumer GPU prices, as Nvidia may continue prioritizing cloud providers and hyperscalers. The supplied captions contain unclear names, transcription errors, and unsupported assertions, so the account should be treated as a creator’s commentary rather than independently established reporting.",
+      "topics": [
+        "Nvidia leadership",
+        "Alleged foreign-intelligence ties",
+        "AI hardware and export controls",
+        "Corporate governance",
+        "Consumer GPU pricing"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Nvidia reinstated Jensen Huang as president and chief executive after his removal.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            68,
+            69,
+            70,
+            94,
+            95,
+            96,
+            97
+          ]
+        },
+        {
+          "claim": "The board said it received input from senior U.S. government officials and concluded Huang’s reinstatement posed no national-security risk.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            118,
+            119,
+            120,
+            121,
+            122,
+            123
+          ]
+        },
+        {
+          "claim": "An independent board committee and outside counsel were investigating reports that Huang was targeted in a foreign-intelligence effort.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277
+          ]
+        },
+        {
+          "claim": "Allegations linked Huang to a person or company involved in sending Nvidia GPUs to China.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            185,
+            186,
+            187,
+            188,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Mutahar centers the episode on Huang’s reported return to Nvidia’s leadership after a brief removal.",
+          "evidence_segment_indices": [
+            68,
+            69,
+            70,
+            94,
+            95,
+            96,
+            97
+          ],
+          "start_seconds": 160.16,
+          "end_seconds": 234.08
+        },
+        {
+          "point": "He distinguishes alleged personal misconduct from concerns about national security, export controls, and corporate decision-making.",
+          "evidence_segment_indices": [
+            27,
+            28,
+            29,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            217,
+            218,
+            219,
+            237,
+            238,
+            239,
+            240
+          ],
+          "start_seconds": 62.079,
+          "end_seconds": 558.64
+        },
+        {
+          "point": "He says Nvidia’s strategic importance and Huang’s perceived value may have influenced the board’s decision.",
+          "evidence_segment_indices": [
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251
+          ],
+          "start_seconds": 277.84,
+          "end_seconds": 582.0
+        },
+        {
+          "point": "He predicts Nvidia will keep prioritizing AI infrastructure customers over ordinary gamers, leaving consumer GPU prices high.",
+          "evidence_segment_indices": [
+            379,
+            380,
+            381,
+            382,
+            385,
+            386,
+            387,
+            388,
+            389,
+            390,
+            391,
+            392,
+            393,
+            394
+          ],
+          "start_seconds": 854.72,
+          "end_seconds": 889.68
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "9f00bca50287385979283275a744e850d734fc3d11cd5584dedab571d6317115",
+      "transcript_captured_at": "2026-11-24T01:33:13.776952Z",
+      "summary_generated_at": "2026-11-24T01:38:24.908376Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The captions contain garbled words, inconsistent renderings of names, and missing profanity markers.",
+        "The source presents allegations, interpretations, and stock-market observations without independently supplied documentation.",
+        "The transcript does not establish the identities of alleged associates, the details of any investigation, or the accuracy of cited corporate and government statements.",
+        "Some market, market-share, export-control, and pricing claims are presented as commentary and require independent verification.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -5108,170 +5278,6 @@
         "Several reported figures and election outcomes are presented by speakers without supporting documentation in the excerpt.",
         "The episode combines commentary, allegations, reported events, and an interview; the source alone does not establish independent verification.",
         "The excerpt may omit context surrounding the legal, regulatory, military, and electoral claims.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "_2Pxn9POaok",
-      "title": "‘A DISASTER’ — Trump Admin Officials Face FIRING as Hearings Devolve into Complete CHAOS, It’s BAD!!",
-      "url": "https://www.youtube.com/watch?v=_2Pxn9POaok",
-      "published_at": "2026-11-20T00:56:04.000000Z",
-      "summary": "Creator Aaron Parnas argues that Trump administration nominations and congressional hearings have deteriorated, portraying several nominees as unable or unwilling to answer basic questions about the 2020 election, January 6, and ethics. He focuses first on Michael Losapio, described as Trump’s choice to lead CISA, whose hearing included repeated refusals or uncertainty when asked about the 2020 popular vote and whether the Capitol was attacked. Parnas then discusses an ethics nominee identified as Chamberlain, who declined to assess reported financial dealings involving the president and World Liberty Financial without more information. The episode also covers inspectors-general and judicial nominees, emphasizing their answers that Joe Biden was certified president while avoiding or initially failing to state who won the popular vote. Senator Rand Paul is presented as defending a broader debate over election irregularities and the treatment of January 6 defendants. The overview reflects the creator’s framing and caption transcript only; names, roles, events, and allegations require independent verification.",
-      "topics": [
-        "Trump administration nominations",
-        "Congressional hearings",
-        "Election-related questioning",
-        "Government ethics",
-        "January 6 and election claims"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The national cyber director resigned or departed shortly after a cyber incident affecting the Agriculture Department.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "claim": "Michael Losapio was nominated to lead CISA and gave the described answers about the 2020 election and January 6.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            25,
-            27,
-            28,
-            30,
-            32,
-            33,
-            35,
-            38,
-            57,
-            63,
-            68,
-            70,
-            81,
-            88
-          ]
-        },
-        {
-          "claim": "A presidential financial-interest arrangement involving UAE payments to World Liberty Financial occurred as described during the ethics questioning.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            114,
-            116,
-            117,
-            118,
-            121,
-            124,
-            125,
-            126,
-            128,
-            129,
-            136
-          ]
-        },
-        {
-          "claim": "Wisconsin counted tens of thousands of mail ballots lacking witness signatures under the process described by Rand Paul.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            264,
-            268,
-            270,
-            274,
-            276,
-            278,
-            281,
-            282
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas presents the hearings as evidence of worsening problems for the administration and says multiple nominations may be imperiled.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            17,
-            18
-          ],
-          "start_seconds": 0.08,
-          "end_seconds": 44.559
-        },
-        {
-          "point": "Losapio repeatedly declined or struggled to answer questions about the 2020 popular vote and January 6 during CISA-related questioning.",
-          "evidence_segment_indices": [
-            27,
-            33,
-            38,
-            50,
-            57,
-            63,
-            68,
-            70,
-            81,
-            88
-          ],
-          "start_seconds": 59.199,
-          "end_seconds": 190.4
-        },
-        {
-          "point": "The creator says Chamberlain avoided offering an ethics assessment of reported presidential financial dealings without additional facts.",
-          "evidence_segment_indices": [
-            109,
-            114,
-            121,
-            124,
-            128,
-            130,
-            132,
-            136,
-            137
-          ],
-          "start_seconds": 240.72,
-          "end_seconds": 306.0
-        },
-        {
-          "point": "Rand Paul argues that judges should not be forced to answer political questions and describes disputes over election procedures and January 6 prosecutions.",
-          "evidence_segment_indices": [
-            240,
-            242,
-            256,
-            258,
-            261,
-            268,
-            281,
-            288,
-            293,
-            298,
-            301,
-            302,
-            310
-          ],
-          "start_seconds": 544.88,
-          "end_seconds": 704.399
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "2d95200e75ec071333e7708e181fba145a26166bc234d55b4a045467cef02031",
-      "transcript_captured_at": "2026-11-20T03:03:16.435555Z",
-      "summary_generated_at": "2026-11-20T03:08:26.204036Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains automated-caption errors, including uncertain names, titles, and words.",
-        "Several exchanges are fragmented or overlap, making some speaker attributions ambiguous.",
-        "The source provides commentary and excerpts rather than complete hearing records or corroborating documents.",
-        "Claims about cyber incidents, financial arrangements, ballot procedures, and nominations are presented in the episode but are not independently established here.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
