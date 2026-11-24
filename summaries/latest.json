@@ -1,11 +1,254 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T02:42:00.687908Z",
+  "generated_at": "2026-11-24T16:12:00.698255Z",
   "reporting_window": {
-    "start": "2026-11-17T02:42:00.687908Z",
-    "end": "2026-11-24T02:42:00.687908Z"
+    "start": "2026-11-17T16:12:00.698255Z",
+    "end": "2026-11-24T16:12:00.698255Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "q5D59Hym5ks",
+      "title": "'INVESTIGATE HIM' — Trump Makes Millions as Congress Has Had ENOUGH, this is CORRUPTION!!",
+      "url": "https://www.youtube.com/watch?v=q5D59Hym5ks",
+      "published_at": "2026-11-24T15:02:03.000000Z",
+      "summary": "Aaron Parnas argues that Donald Trump’s reported involvement in Nvidia’s leadership and possible financial gain from the company’s stock rise warrant investigation. He describes conflicting accounts about whether Jensen Huang was cleared of scrutiny, notes Republican lawmakers’ national-security objections, and highlights Nvidia’s board finding that Huang violated its conduct code before unanimously reinstating him. Parnas also discusses reported plans for new tariffs affecting 16 economies, warning that they could raise prices amid elevated producer inflation. A separate segment covers the planned detonation of toxic lead in Iowa and relays public-health guidance to remain indoors, limit outdoor-air intake, and clean surfaces cautiously. Parnas then presents Ukrainian President Volodymyr Zelenskyy’s criticism that U.S. policy may be pushing Ukraine toward unfavorable compromises, citing a report that Patriot interceptors await approval. The episode closes with a clip of incoming Representative Chuck Hudner discussing support for his LGBTQ daughter and marginalized groups.",
+      "topics": [
+        "Trump and Nvidia",
+        "Tariff policy",
+        "Iowa lead detonation",
+        "Ukraine and Patriot interceptors",
+        "Congressional politics"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Trump may have owned Nvidia shares and potentially gained as much as $15 million after the stock rose following Huang’s reinstatement.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            28,
+            29,
+            30,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ]
+        },
+        {
+          "claim": "The Justice Department and FBI have differing or unresolved positions regarding scrutiny of Huang and alleged links involving a woman feared to have Chinese intelligence ties.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77
+          ]
+        },
+        {
+          "claim": "The Trump administration is preparing tariffs affecting 16 economies, potentially restoring rates toward earlier levels amid elevated producer inflation.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140
+          ]
+        },
+        {
+          "claim": "The U.S. Army planned to detonate lead explosives in Iowa, prompting poison-control and health guidance for residents to shelter indoors and reduce exposure.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames Trump’s Nvidia involvement and reported stock holdings as a possible conflict requiring scrutiny.",
+          "evidence_segment_indices": [
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51
+          ],
+          "start_seconds": 93.439,
+          "end_seconds": 113.04
+        },
+        {
+          "point": "Republican lawmakers publicly questioned whether Nvidia’s internal review addressed broader national-security concerns.",
+          "evidence_segment_indices": [
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ],
+          "start_seconds": 198.0,
+          "end_seconds": 222.319
+        },
+        {
+          "point": "The episode reports that Huang is scheduled to testify publicly and privately before Congress.",
+          "evidence_segment_indices": [
+            111,
+            112,
+            113,
+            114
+          ],
+          "start_seconds": 220.64,
+          "end_seconds": 231.28
+        },
+        {
+          "point": "Parnas relays sheltering and cleaning precautions associated with the Iowa lead detonation.",
+          "evidence_segment_indices": [
+            160,
+            161,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185
+          ],
+          "start_seconds": 325.36,
+          "end_seconds": 384.639
+        },
+        {
+          "point": "The closing clip features Chuck Hudner expressing support for his daughter and LGBTQ and other marginalized communities.",
+          "evidence_segment_indices": [
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225
+          ],
+          "start_seconds": 416.0,
+          "end_seconds": 475.759
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "5d79fa3abe5170332e5e3b97dad5e454218863d97e8441481318a55093500977",
+      "transcript_captured_at": "2026-11-24T16:03:13.710808Z",
+      "summary_generated_at": "2026-11-24T16:08:28.066701Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies solely on the supplied transcript and does not independently verify its cited reports, figures, allegations, or predictions.",
+        "Automatic captions contain apparent name, word, and number errors, including references to Nvidia, Jensen Huang, Volodymyr Zelenskyy, and Chuck Hudner.",
+        "Several statements are explicitly framed as possibilities, reports, interpretations, or attributed opinions rather than established facts.",
+        "The transcript provides limited context for some references, including the Iowa detonation, the underlying investigations, and the tariff timeline.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mike Figueredo — The Humanist Report",
       "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
@@ -4972,228 +5215,6 @@
         "The source does not provide the full press conference or independent corroboration of factual claims.",
         "Some statements are paraphrased by Parnas rather than presented in the quoted excerpts.",
         "The source’s strongly critical framing may shape which moments are emphasized.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "House of El – AI",
-      "channel_id": "UCsoc5Ad-fC7wWie2PH4rPcw",
-      "video_id": "6y8Ew6_ymRk",
-      "title": "AI Bubble BLOODBATH: Anthropic Erased $230 Billion in Hours",
-      "url": "https://www.youtube.com/watch?v=6y8Ew6_ymRk",
-      "published_at": "2026-11-20T15:00:10.000000Z",
-      "summary": "The creator argues that public frustration with AI is driven less by the technology itself than by how institutions impose and govern it. He divides skeptics into people who see mainly risks—job loss, intellectual-property concerns, and infrastructure costs—and users who resent mandatory adoption, usage targets, and responsibility for correcting AI errors. He links this concern to alleged disruptions affecting banks, government systems, and air travel, while acknowledging that some explanations are unconfirmed and that the FAA denied responsibility for one claimed connection. The episode also discusses Google’s reported warning about increasingly autonomous cyberattacks. A major focus is Anthropic’s reported IPO and the possibility that index-fund rules could channel retirement savings into the company without individual investors choosing it. The creator presents financial and operational figures as reasons for caution but declines to predict the stock’s direction. He concludes by advocating stronger AI governance, financial regulation, and user choice, while still describing AI as useful when voluntarily adopted.",
-      "topics": [
-        "AI governance and public trust",
-        "Critical infrastructure and cybersecurity",
-        "Workplace AI mandates",
-        "Anthropic IPO and passive investing"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The creator reports that six major disruptions occurred in six days, including banking, government-network, and air-travel outages, with more than 20,000 flights cancelled.",
-          "attributed_to": "House of El – AI",
-          "evidence_segment_indices": [
-            98,
-            101,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108
-          ]
-        },
-        {
-          "claim": "The creator says three anonymous sources attributed some outages to rushed fixes for flaws identified by AI models, while explicitly calling the account unconfirmed.",
-          "attributed_to": "House of El – AI",
-          "evidence_segment_indices": [
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            131,
-            132
-          ]
-        },
-        {
-          "claim": "The creator reports that Google said autonomous cyberattacks had arrived and described AI-assisted exploitation of newly fixed vulnerabilities.",
-          "attributed_to": "House of El – AI",
-          "evidence_segment_indices": [
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189,
-            199,
-            200,
-            201,
-            202
-          ]
-        },
-        {
-          "claim": "The creator reports that Anthropic priced its shares at $83, raised just over $81 billion, and reached an approximate $1.5 trillion valuation.",
-          "attributed_to": "House of El – AI",
-          "evidence_segment_indices": [
-            441,
-            442,
-            443,
-            444,
-            445,
-            446,
-            447,
-            448,
-            449
-          ]
-        },
-        {
-          "claim": "The creator argues that rapid index inclusion could direct passive fund money, including retirement savings, into Anthropic without individual savers selecting the company.",
-          "attributed_to": "House of El – AI",
-          "evidence_segment_indices": [
-            460,
-            461,
-            462,
-            463,
-            467,
-            468,
-            469,
-            470,
-            471,
-            472,
-            473,
-            474,
-            475,
-            476,
-            480,
-            481,
-            482,
-            483,
-            493,
-            494,
-            495,
-            496,
-            497,
-            498
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator’s central distinction is between opposition to AI’s effects and resentment of compulsory, metric-driven adoption.",
-          "evidence_segment_indices": [
-            30,
-            31,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            257,
-            258,
-            259,
-            260,
-            261,
-            262
-          ],
-          "start_seconds": 69.2,
-          "end_seconds": 595.2
-        },
-        {
-          "point": "He argues that organizations may shift review burdens and liability onto employees who must validate AI-generated work.",
-          "evidence_segment_indices": [
-            369,
-            370,
-            371,
-            372,
-            373,
-            374,
-            375,
-            376,
-            377,
-            378,
-            379,
-            380,
-            381
-          ],
-          "start_seconds": 821.839,
-          "end_seconds": 854.72
-        },
-        {
-          "point": "He presents connected systems as vulnerable to both rushed deployment and faster AI-enabled attacks.",
-          "evidence_segment_indices": [
-            133,
-            134,
-            135,
-            136,
-            137,
-            180,
-            181,
-            182,
-            203,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            210,
-            211,
-            212,
-            213,
-            214
-          ],
-          "start_seconds": 298.16,
-          "end_seconds": 491.28
-        },
-        {
-          "point": "The creator supports stronger governance and regulation while maintaining that voluntary AI use can be beneficial.",
-          "evidence_segment_indices": [
-            576,
-            577,
-            578,
-            579,
-            580,
-            581,
-            582,
-            583,
-            584,
-            585,
-            603,
-            604,
-            605,
-            606,
-            607,
-            608,
-            609,
-            610
-          ],
-          "start_seconds": 1304.159,
-          "end_seconds": 1383.679
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "ac7f90294cf8727d3d49cb0003181fb347a6c76e0d9737f8ae134d677abaae57",
-      "transcript_captured_at": "2026-11-20T16:03:20.378340Z",
-      "summary_generated_at": "2026-11-20T16:08:28.383115Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview relies only on the supplied automatic captions; several names, figures, and terms appear mistranscribed.",
-        "The creator labels the account about AI-related outage causes as unconfirmed, and the FAA is described as denying that its tool caused the ground stop.",
-        "Reported polls, financial results, IPO details, cyber threat findings, and outage figures are presented in the episode but are not independently verified here.",
-        "Some conclusions about future stock performance, systemic failure, and regulatory outcomes are the creator’s opinions or predictions rather than established facts.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
