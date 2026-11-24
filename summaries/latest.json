@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T02:12:00.632284Z",
+  "generated_at": "2026-11-24T02:42:00.687908Z",
   "reporting_window": {
-    "start": "2026-11-17T02:12:00.632284Z",
-    "end": "2026-11-24T02:12:00.632284Z"
+    "start": "2026-11-17T02:42:00.687908Z",
+    "end": "2026-11-24T02:42:00.687908Z"
   },
   "episodes": [
     {
@@ -194,6 +194,174 @@
         "Several claims are presented as allegations or commentary and are not independently established by the source.",
         "Some caption segments are incomplete, garbled, or contain redacted profanity, limiting precise interpretation.",
         "The overview reflects only the supplied episode transcript and does not assess the cited reports or legal claims.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "UMcR-Zr91HE",
+      "title": "JEFF BEZOS IS F*CKED | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=UMcR-Zr91HE",
+      "published_at": "2026-11-24T00:50:36.000000Z",
+      "summary": "Kyle Kulinski argues that Amazon and other corporations wield excessive power, focusing on an alleged warning that New York City customers could face a $5 surcharge if worker-protection legislation passes. He presents the surcharge as corporate coercion and says the proposed protections would cover minimum wages, paid leave, workers’ compensation, and workplace safety for delivery workers, including those employed through contractors. Kulinski disputes the stated cost, suggesting the actual increase could be only a few cents, while acknowledging no supporting calculation in the episode. He condemns Jeff Bezos and urges city and federal officials to resist billionaire influence. The discussion then broadens into a critique of extreme wealth: Kulinski advocates taxing every dollar above a $999 million net worth at 100%, directing the proceeds toward healthcare, education, and debt relief. The episode is an impassioned political commentary, relying heavily on quoted claims and assertions that are not independently substantiated in the transcript.",
+      "topics": [
+        "Amazon labor practices",
+        "New York City worker protections",
+        "Corporate power",
+        "Billionaire taxation"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Amazon allegedly threatened a $5 surcharge on New York City customers if a worker-protection bill passed.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim": "The proposed protections concern minimum wage, paid leave, workers’ compensation, and employee safety for delivery workers.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            39,
+            44,
+            45,
+            46,
+            47
+          ]
+        },
+        {
+          "claim": "A local politician cited in the episode has an approval rating above 60 percent.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            157,
+            158,
+            159,
+            160,
+            161
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames the alleged surcharge as an attempt to shift blame for labor regulation onto government and customers.",
+          "evidence_segment_indices": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            25,
+            26,
+            27,
+            28
+          ],
+          "start_seconds": 26.64,
+          "end_seconds": 68.88
+        },
+        {
+          "point": "He argues that contracted delivery workers should receive protections comparable to other employees.",
+          "evidence_segment_indices": [
+            40,
+            41,
+            42,
+            43,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "start_seconds": 91.2,
+          "end_seconds": 172.239
+        },
+        {
+          "point": "He proposes a 100% tax on wealth above $999 million to fund public benefits and reduce debt.",
+          "evidence_segment_indices": [
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211
+          ],
+          "start_seconds": 372.0,
+          "end_seconds": 427.12
+        },
+        {
+          "point": "The episode links concentrated wealth to perceived threats against democratic accountability.",
+          "evidence_segment_indices": [
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229
+          ],
+          "start_seconds": 428.96,
+          "end_seconds": 461.44
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "b490c596749ab60d700ab1e57f945eba2eea394947136fc40bcb7c148d1c4dfa",
+      "transcript_captured_at": "2026-11-24T02:33:16.464659Z",
+      "summary_generated_at": "2026-11-24T02:38:23.078339Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a single commentator’s account and does not include Amazon, city-government, or legislative responses.",
+        "Several names and phrases appear corrupted or ambiguous in the captions.",
+        "The episode provides no documentary evidence for the alleged surcharge, the estimated few-cent alternative, or the approval-rating figure.",
+        "The discussion is strongly rhetorical and includes unsupported historical and economic assertions.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -5026,219 +5194,6 @@
         "The creator labels the account about AI-related outage causes as unconfirmed, and the FAA is described as denying that its tool caused the ground stop.",
         "Reported polls, financial results, IPO details, cyber threat findings, and outage figures are presented in the episode but are not independently verified here.",
         "Some conclusions about future stock performance, systemic failure, and regulatory outcomes are the creator’s opinions or predictions rather than established facts.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mike Figueredo — The Humanist Report",
-      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
-      "video_id": "y9_RCWY01pw",
-      "title": "Conservative Outrage Over GTA 6 is So Damn Goofy it Feels Satirical",
-      "url": "https://www.youtube.com/watch?v=y9_RCWY01pw",
-      "published_at": "2026-11-20T14:59:54.000000Z",
-      "summary": "The creator argues that conservative criticism of GTA 6 is exaggerated and internally inconsistent. He contrasts a Fox News discussion portraying the game as harmful to children, potentially connected to violence, and corrosive to responsibility with the creator’s view that parents should regulate children’s access and that fictional gameplay is not comparable to handling a real firearm. He also challenges the segment’s broader claims about video games and violence, while asserting that the hosts’ concerns about guns and crime conflict with their political positions. A second focus is criticism from online male influencers who object to gameplay involving household chores, respectful treatment of women, and limits on misogynistic or hateful actions; the creator interprets much of this reaction as performative, though he acknowledges some may be sincere. The episode relies heavily on commentary, satire, and excerpts from other media. Several factual allegations and research references are presented without supporting documentation in the transcript.",
-      "topics": [
-        "GTA 6 controversy",
-        "Video games and violence",
-        "Conservative media criticism",
-        "Online misogyny",
-        "Parenting and game access"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The creator says studies have concluded that violent video games do not make people violent.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            144,
-            145,
-            146,
-            147,
-            148
-          ]
-        },
-        {
-          "claim": "The creator alleges that a named political figure committed or was responsible for numerous crimes, including war crimes and corruption.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195,
-            196
-          ]
-        },
-        {
-          "claim": "The creator says a named online personality was indicted for allegedly raping a minor.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            408,
-            409,
-            410
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode opens by criticizing claims that adults should not take time off work to play GTA 6.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30
-          ],
-          "start_seconds": 0.08,
-          "end_seconds": 66.4
-        },
-        {
-          "point": "A featured media discussion links video games with violence, youth crime, and the availability of firearms; the creator disputes or mocks these arguments.",
-          "evidence_segment_indices": [
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85
-          ],
-          "start_seconds": 96.64,
-          "end_seconds": 175.599
-        },
-        {
-          "point": "The creator distinguishes fictional game actions from real-world firearm use and supports parental limits on children’s access to adult games.",
-          "evidence_segment_indices": [
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            262,
-            263,
-            264,
-            265,
-            266,
-            267,
-            271,
-            272,
-            273,
-            274
-          ],
-          "start_seconds": 452.08,
-          "end_seconds": 567.04
-        },
-        {
-          "point": "The episode portrays some online backlash against GTA 6’s relationship-oriented missions and restrictions as performative or rooted in resentment toward respectful treatment of women.",
-          "evidence_segment_indices": [
-            312,
-            313,
-            314,
-            315,
-            316,
-            317,
-            318,
-            319,
-            320,
-            321,
-            322,
-            323,
-            324,
-            325,
-            326,
-            327,
-            328,
-            329,
-            330,
-            331,
-            332,
-            333,
-            334,
-            335
-          ],
-          "start_seconds": 633.44,
-          "end_seconds": 679.6
-        },
-        {
-          "point": "The creator concludes that conservative outrage is useful mainly as an example of what he views as political inconsistency and moral panic.",
-          "evidence_segment_indices": [
-            429,
-            430,
-            431,
-            432,
-            433,
-            434,
-            435,
-            436,
-            437,
-            438,
-            439,
-            440,
-            441,
-            442,
-            443,
-            444
-          ],
-          "start_seconds": 874.399,
-          "end_seconds": 905.68
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "70c98919b75aa037be934a9148fc14091928df77bfccf04c22c35b115ec53fa2",
-      "transcript_captured_at": "2026-11-20T16:33:15.430479Z",
-      "summary_generated_at": "2026-11-20T16:38:26.365562Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains automatic-caption errors, profanity redactions, repetitions, and some unclear names or phrases.",
-        "The source is a commentary episode with selected clips, not a complete record of the referenced broadcasts or games.",
-        "Several allegations, research references, statistics, and descriptions of game content are asserted without documentation in the provided material.",
-        "The transcript does not independently establish whether the quoted media speakers were being literal, hyperbolic, or sarcastic.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
