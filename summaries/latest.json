@@ -1,11 +1,149 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T22:42:00.600066Z",
+  "generated_at": "2026-11-24T23:12:00.653580Z",
   "reporting_window": {
-    "start": "2026-11-17T22:42:00.600066Z",
-    "end": "2026-11-24T22:42:00.600066Z"
+    "start": "2026-11-17T23:12:00.653580Z",
+    "end": "2026-11-24T23:12:00.653580Z"
   },
   "episodes": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "Z6NIBsCm83Y",
+      "title": "GTA 6 Is Running on PC...",
+      "url": "https://www.youtube.com/watch?v=Z6NIBsCm83Y",
+      "published_at": "2026-11-24T22:39:35.000000Z",
+      "summary": "The creator presents an early, unofficial attempt to run GTA 6 on PC using an Xbox game dump and the XCL compatibility layer. He says the files appeared non-malicious in his limited checks but warns viewers not to download purported PC releases, which he characterizes as scams and potential malware. In his demonstration, the game reaches account setup, menus, introductory material, and briefly displays gameplay-related content, but performance is extremely poor, ranging from roughly 1–5 frames per second before crashes. He describes multiple community projects and forks as progressing at different rates, while emphasizing that the PC effort is incomplete and unsupported. The episode also argues that Rockstar’s lack of a simultaneous PC release and limited physical availability contribute to preservation concerns. The creator does not endorse piracy and says he plans to purchase the PC edition. His forecast that development may advance rapidly, possibly by year’s end, remains speculative and is based on the reported activity of these projects.",
+      "topics": [
+        "Unofficial PC compatibility",
+        "Game preservation",
+        "Piracy and malware risks",
+        "Community port projects"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A leaked Xbox Series game dump enabled an unofficial PC launch through the XCL compatibility layer.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            48,
+            52,
+            53,
+            134,
+            151,
+            177,
+            178
+          ]
+        },
+        {
+          "claim": "The demonstrated build reached menus and introductory content but ran at approximately 1–5 frames per second and crashed before normal gameplay.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            198,
+            202,
+            220,
+            237,
+            241,
+            245,
+            266,
+            295,
+            320,
+            325,
+            326
+          ]
+        },
+        {
+          "claim": "Many purported GTA 6 PC downloads circulating online are scams or may contain malware.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            77,
+            80,
+            81,
+            83
+          ]
+        },
+        {
+          "claim": "Multiple community projects or forks are reportedly attempting to run the game, with some claiming limited scene rendering.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            121,
+            123,
+            124,
+            277,
+            279,
+            281,
+            284
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames the PC run as an early technical demonstration, not a playable release.",
+          "evidence_segment_indices": [
+            131,
+            150,
+            152,
+            241,
+            248
+          ],
+          "start_seconds": 298.56,
+          "end_seconds": 562.0
+        },
+        {
+          "point": "The observed build progressed beyond a black screen into menus and introductory material, but remained unstable and extremely slow.",
+          "evidence_segment_indices": [
+            207,
+            220,
+            245,
+            266,
+            320,
+            325
+          ],
+          "start_seconds": 461.12,
+          "end_seconds": 731.76
+        },
+        {
+          "point": "The creator warns against downloading untrusted files and says his own checks were limited.",
+          "evidence_segment_indices": [
+            63,
+            65,
+            69,
+            70,
+            73,
+            80
+          ],
+          "start_seconds": 141.599,
+          "end_seconds": 188.319
+        },
+        {
+          "point": "The episode advocates simultaneous PC availability and physical preservation while explicitly rejecting piracy.",
+          "evidence_segment_indices": [
+            393,
+            395,
+            428,
+            496,
+            500,
+            530
+          ],
+          "start_seconds": 879.6,
+          "end_seconds": 1188.24
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "5b709cfb26ca68eddc0fee41a17c91d6f361252a727b789d40dc9cf1c10f0aa5",
+      "transcript_captured_at": "2026-11-24T23:03:13.750893Z",
+      "summary_generated_at": "2026-11-24T23:08:24.005342Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The account is based solely on the creator’s narration and displayed demonstration; no independent verification is provided.",
+        "Claims about leaks, malware, project status, performance, sales, employment, or future progress are reported or predicted within the episode and require separate verification.",
+        "Automatic captions contain omissions and profanity redactions, so some technical names and statements may be imperfectly transcribed.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5104,268 +5242,6 @@
         "The transcript is overlapping and occasionally fragmentary, especially around quoted speech and the FBI discussion.",
         "The FBI incident, vote totals, healthcare proposal, and baseball-related legal claims are presented only through this source and are not independently verified here.",
         "The creator’s descriptions of political motives, Republican reactions, and who ‘won’ are commentary rather than established facts.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "lm-Tycg1Xlw",
-      "title": "FBI CRIME DATABASE GOT HACKED",
-      "url": "https://www.youtube.com/watch?v=lm-Tycg1Xlw",
-      "published_at": "2026-11-22T00:51:49.000000Z",
-      "summary": "The creator discusses reports that the FBI’s National Crime Information Center (NCIC) was breached, while noting that the FBI had not yet issued a major public statement. He explains that the system supports law-enforcement searches involving wanted and missing people, warrants, stolen vehicles, firearms, protection orders, and immigration-related records, making unauthorized access or modification potentially serious. He suggests the intrusion may have entered through a state or local endpoint rather than the FBI’s central servers, but explicitly presents this as a guess and acknowledges he has no law-enforcement experience. The episode also references safeguards such as logging, partitioning, confirmation procedures, and access controls, alongside concerns about confidentiality and record integrity. The creator connects the incident to earlier alleged FBI targeting by the ShinyHunters group, recent outages and vendor attacks affecting major companies, and his broader view that AI-enabled tools are increasing the speed and scale of cyberattacks. He closes by advocating greater personal data minimization and local storage.",
-      "topics": [
-        "FBI and NCIC breach reports",
-        "Law-enforcement database security",
-        "Cyberattack access through local endpoints",
-        "AI-enabled attack scale",
-        "Personal data privacy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "News organizations reported an intrusion involving the FBI’s National Crime Information Center, although the creator said the FBI had not yet made a major statement.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30
-          ]
-        },
-        {
-          "claim": "The NCIC contains or provides access to records involving wanted and missing persons, warrants, stolen vehicles, firearms, protection orders, and immigration violator records.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            210,
-            211
-          ]
-        },
-        {
-          "claim": "The creator’s suggestion that attackers may have entered through a state or local department endpoint is speculative.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121,
-            122,
-            123,
-            124,
-            125
-          ]
-        },
-        {
-          "claim": "The episode references an earlier alleged ShinyHunters breach involving FBI applicant or operator information and threats to publish it.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81
-          ]
-        },
-        {
-          "claim": "The FBI’s NCIC is described as having 22 files and 18 million records, with ICE authorized to manage immigration violator records.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            210,
-            211,
-            212
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator frames the reported NCIC intrusion as potentially more consequential than a compromise limited to FBI personnel information.",
-          "evidence_segment_indices": [
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103
-          ],
-          "start_seconds": 116.56,
-          "end_seconds": 232.799
-        },
-        {
-          "point": "He highlights confidentiality and integrity risks, including possible exposure or alteration of live law-enforcement records.",
-          "evidence_segment_indices": [
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            229,
-            230,
-            231,
-            232
-          ],
-          "start_seconds": 370.0,
-          "end_seconds": 501.68
-        },
-        {
-          "point": "The discussion describes safeguards including agency confirmation, logging, partitioning, and specialized access controls.",
-          "evidence_segment_indices": [
-            146,
-            147,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153,
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160,
-            161,
-            162,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169
-          ],
-          "start_seconds": 316.4,
-          "end_seconds": 370.0
-        },
-        {
-          "point": "The creator argues that AI and automated tooling may increase the volume and speed of cyberattacks, placing pressure on defense teams.",
-          "evidence_segment_indices": [
-            15,
-            16,
-            17,
-            18,
-            19,
-            300,
-            301,
-            302,
-            303,
-            304,
-            305,
-            306,
-            307,
-            308,
-            309,
-            310,
-            311,
-            312,
-            313,
-            314,
-            315,
-            316,
-            317,
-            318
-          ],
-          "start_seconds": 33.36,
-          "end_seconds": 684.88
-        },
-        {
-          "point": "He recommends reducing reliance on cloud-held personal data and considering local storage or privacy-focused devices.",
-          "evidence_segment_indices": [
-            369,
-            370,
-            371,
-            372,
-            373,
-            374,
-            375,
-            376,
-            377,
-            378,
-            379,
-            380,
-            381,
-            382,
-            383
-          ],
-          "start_seconds": 787.76,
-          "end_seconds": 822.24
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "482369e702325f848891e6e2716fcbafd6e247dd70bc35657d1041a59f275839",
-      "transcript_captured_at": "2026-11-22T02:03:13.777382Z",
-      "summary_generated_at": "2026-11-22T02:08:29.321346Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The supplied material is an automatic transcript with malformed or misrecognized terms, including repeated confusion between NCIC and similarly named systems.",
-        "The breach, its scope, affected records, and any attacker access or modifications are presented through the creator’s account and are not independently established in the source.",
-        "Several technical explanations and causal links are explicitly speculative or opinion-based.",
-        "The source provides only the creator’s discussion and does not include primary statements, incident reports, or corroborating documentation.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
