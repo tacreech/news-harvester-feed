@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T14:00:22.196888Z",
+  "generated_at": "2026-11-24T14:30:58.724801Z",
   "reporting_window": {
-    "start": "2026-11-17T14:00:22.196888Z",
-    "end": "2026-11-24T14:00:22.196888Z",
+    "start": "2026-11-17T14:30:58.724801Z",
+    "end": "2026-11-24T14:30:58.724801Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,7 +14,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-24T14:00:19.986439Z",
+      "last_successful_poll": "2026-11-24T14:30:57.547773Z",
       "warnings": []
     },
     {
@@ -23,7 +23,7 @@
       "identity_status": "verified",
       "health": "success_new",
       "discovery_status": "success_new",
-      "last_successful_poll": "2026-11-24T14:00:20.198932Z",
+      "last_successful_poll": "2026-11-24T14:30:57.767490Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-24T14:00:20.413776Z",
+      "last_successful_poll": "2026-11-24T14:30:57.989886Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-24T14:00:20.870028Z",
+      "last_successful_poll": "2026-11-24T14:30:58.236245Z",
       "warnings": []
     },
     {
@@ -50,11 +50,23 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-24T14:00:22.036415Z",
+      "last_successful_poll": "2026-11-24T14:30:58.523157Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "aBb6LV6DwMA",
+      "title": "Good morning, Trump plans sweeping new tariffs.",
+      "published_at": "2026-11-24T14:07:05.000000Z",
+      "url": "https://www.youtube.com/watch?v=aBb6LV6DwMA",
+      "first_seen": "2026-11-24T14:30:57.767490Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -1902,18 +1914,6 @@
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "expired"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "9LcJJu9sOi0",
-      "title": "NEWS: DHS Secretary flew to college football game while Americans were stranded.",
-      "published_at": "2026-11-17T14:00:37.000000Z",
-      "url": "https://www.youtube.com/watch?v=9LcJJu9sOi0",
-      "first_seen": "2026-11-17T14:30:31.704398Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "not_queued"
     }
   ]
 }
