@@ -1,11 +1,262 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T16:12:00.698255Z",
+  "generated_at": "2026-11-24T20:12:00.612071Z",
   "reporting_window": {
-    "start": "2026-11-17T16:12:00.698255Z",
-    "end": "2026-11-24T16:12:00.698255Z"
+    "start": "2026-11-17T20:12:00.612071Z",
+    "end": "2026-11-24T20:12:00.612071Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "L4kdYbHNXp0",
+      "title": "'IMPEACHMENT!!' — Republicans and Democrats UNITE Against Trump as Criminality Becomes CLEAR!!",
+      "url": "https://www.youtube.com/watch?v=L4kdYbHNXp0",
+      "published_at": "2026-11-24T18:39:06.000000Z",
+      "summary": "Creator Aaron Parnas argues that controversy involving Nvidia, Jensen Huang, Donald Trump, and alleged chip diversion has prompted some Republicans to discuss possible impeachment. He highlights comments attributed to Greg and Mitt Romney, including concerns about executive misconduct, inadequate safeguards, and possible corruption. The episode also presents Singapore Prime Minister Lawrence Wong’s account that authorities investigated Mega Speed, received limited assistance from U.S. officials, and found chips routed through Singapore to other countries. A media report is used to connect the company and Alice Wang to Nvidia’s leadership, while the creator characterizes her alleged intelligence ties and the diversion claims as central to the scandal. A Justice Department press conference is then presented, in which an official says Nvidia is a good corporate citizen, declines to discuss confidential intelligence or specific investigations, and says criminal findings would ordinarily lead to an indictment. The episode ends by questioning whether these responses inspire confidence. The source is commentary and excerpts, not independent corroboration.",
+      "topics": [
+        "Nvidia and chip diversion allegations",
+        "Trump and possible impeachment",
+        "Singapore investigation claims",
+        "Justice Department response"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Some Republicans, including Greg and Mitt Romney, called for or discussed impeachment and criticized the administration’s handling of Nvidia-related issues.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+          ]
+        },
+        {
+          "claim": "Singapore authorities investigated Mega Speed, received limited U.S. cooperation, and reported that Nvidia chips were routed through Singapore to other countries.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            50,
+            51,
+            52,
+            53,
+            54,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            78,
+            79,
+            80,
+            82,
+            83,
+            84
+          ]
+        },
+        {
+          "claim": "Donald Trump intervened in Jensen Huang’s reinstatement at Nvidia, allegedly overruling security agencies or the company board.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94
+          ]
+        },
+        {
+          "claim": "The Justice Department official said Nvidia was a good corporate citizen and declined to confirm specific investigations or intelligence-related allegations.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            115,
+            116,
+            117,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames Nvidia-related developments as a major political turning point and links them to impeachment discussion.",
+          "evidence_segment_indices": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "start_seconds": 3.84,
+          "end_seconds": 47.039
+        },
+        {
+          "point": "The episode attributes corruption and misconduct concerns to Republican critics, including Romney’s warning about profit and corruption.",
+          "evidence_segment_indices": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+          ],
+          "start_seconds": 54.32,
+          "end_seconds": 96.4
+        },
+        {
+          "point": "Singapore’s prime minister is presented as saying an inquiry received incomplete U.S. cooperation and involved chips routed onward from Singapore.",
+          "evidence_segment_indices": [
+            50,
+            51,
+            52,
+            53,
+            54,
+            61,
+            62,
+            63,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            78,
+            79,
+            80,
+            82,
+            83,
+            84,
+            85
+          ],
+          "start_seconds": 96.4,
+          "end_seconds": 181.2
+        },
+        {
+          "point": "A Justice Department exchange emphasizes limited public disclosure and says criminal cases depend on evidence gathered through investigations.",
+          "evidence_segment_indices": [
+            135,
+            136,
+            137,
+            138,
+            139,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            178,
+            179,
+            180,
+            181,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            221,
+            222
+          ],
+          "start_seconds": 280.72,
+          "end_seconds": 452.4
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "06f9c5b379c8703e4818362a1cc7c00d4ffa9522c01eb58f0dfe748b1f4a04b0",
+      "transcript_captured_at": "2026-11-24T20:03:13.474348Z",
+      "summary_generated_at": "2026-11-24T20:08:26.716605Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains frequent recognition and name errors, including variants of Huang, Wong, Wang, and Mega Speed.",
+        "Several allegations are presented through commentary, media excerpts, or attributed statements rather than independently documented evidence.",
+        "The source does not provide the underlying documents, dates, investigative records, or full context for the cited claims.",
+        "Some excerpts are fragmented or overlapping, limiting confidence about exact wording and speaker attribution.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5085,136 +5336,6 @@
         "Several legal, legislative, numerical, and projected economic claims are presented through the creator or interviewees and are not independently corroborated here.",
         "The source is a single episode transcript and does not provide the underlying bill text, court order, attendance records, or cited reports.",
         "Some statements are predictions or opinions, including expected passage, presidential approval, and effects on prices or development.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "yggOl_GGsWg",
-      "title": "🚨‘HE’S LOSING IT’ — Trump has INSANE Press Conference Spouting Kremlin Talking Points, this is WILD!",
-      "url": "https://www.youtube.com/watch?v=yggOl_GGsWg",
-      "published_at": "2026-11-20T19:00:52.000000Z",
-      "summary": "Creator Aaron Parnas presents the press conference as unusually chaotic and argues that Trump appeared overly sympathetic toward Russia while criticizing allies and American cities. The episode centers on Trump describing Vladimir Putin as a personal friend, declining to say whether Putin is a friend to the United States, and saying Putin wants to end the war in Ukraine. Parnas highlights Trump’s claims that Russia and China admired a new Air Force One, that post-election market losses totaled four trillion dollars, and that Canada has treated the United States unfairly. The discussion also covers Trump’s criticism of the International Criminal Court, his response to questions about Ukraine’s security guarantees, and remarks about air-traffic-control systems. Parnas interprets these statements as evidence of declining leadership and possible concessions to Putin. The source consists of commentary interwoven with excerpted answers, so the episode’s framing and the underlying claims are not independently established here.",
-      "topics": [
-        "Trump press conference",
-        "Russia and Ukraine",
-        "International Criminal Court",
-        "U.S. allies and leadership"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Trump said Putin was his friend, wanted to end the war, and that Putin would not have invaded Ukraine if Trump had been president.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            12,
-            47,
-            55,
-            88,
-            189,
-            193
-          ]
-        },
-        {
-          "claim": "Trump stated that four trillion dollars had been lost since the election because the world disliked the election’s outcome.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            151,
-            155,
-            156,
-            159
-          ]
-        },
-        {
-          "claim": "Trump claimed that approximately 25,000 to 30,000 people were dying each month in the war.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            340,
-            343,
-            344,
-            345,
-            348
-          ]
-        },
-        {
-          "claim": "Trump criticized the International Criminal Court and said it could not arrest heads of state without sufficient strength behind it.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            275,
-            280,
-            286,
-            287,
-            290
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames the conference as exceptionally disorganized and says critics questioned Trump’s mental fitness and loyalty to allies.",
-          "evidence_segment_indices": [
-            0,
-            7,
-            18,
-            20,
-            28
-          ],
-          "start_seconds": 0.16,
-          "end_seconds": 68.08
-        },
-        {
-          "point": "Trump emphasized personal relationships with Putin and Xi while discussing nuclear weapons and the war in Ukraine.",
-          "evidence_segment_indices": [
-            55,
-            57,
-            61,
-            67,
-            69,
-            70
-          ],
-          "start_seconds": 120.159,
-          "end_seconds": 154.8
-        },
-        {
-          "point": "The episode contrasts Trump’s praise for Russia and China with criticism of Canada and unfavorable descriptions of some U.S. cities.",
-          "evidence_segment_indices": [
-            148,
-            161,
-            163,
-            176,
-            200,
-            210
-          ],
-          "start_seconds": 313.039,
-          "end_seconds": 453.039
-        },
-        {
-          "point": "Parnas concludes that Trump’s comments on Russia, air traffic control, and leadership show America lacking effective leadership.",
-          "evidence_segment_indices": [
-            358,
-            381,
-            383,
-            385,
-            388,
-            390
-          ],
-          "start_seconds": 791.2,
-          "end_seconds": 869.6
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "026062ceec32562dd859660e553201c5757d53c77467116a01c620416a19f5f9",
-      "transcript_captured_at": "2026-11-20T19:33:14.178833Z",
-      "summary_generated_at": "2026-11-20T19:38:23.864008Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "Captioning contains repeated words, omissions, misrecognitions, and unclear names.",
-        "The source does not provide the full press conference or independent corroboration of factual claims.",
-        "Some statements are paraphrased by Parnas rather than presented in the quoted excerpts.",
-        "The source’s strongly critical framing may shape which moments are emphasized.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
