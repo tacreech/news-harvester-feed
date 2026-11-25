@@ -1,11 +1,217 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T02:12:00.786210Z",
+  "generated_at": "2026-11-25T16:12:00.643907Z",
   "reporting_window": {
-    "start": "2026-11-18T02:12:00.786210Z",
-    "end": "2026-11-25T02:12:00.786210Z"
+    "start": "2026-11-18T16:12:00.643907Z",
+    "end": "2026-11-25T16:12:00.643907Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "rgkqmNA_yIA",
+      "title": "‘KILLING US’ — Americans ERUPT as Trump Administration DETONATES Toxic Lead, Judge EVISCERATES Trump",
+      "url": "https://www.youtube.com/watch?v=rgkqmNA_yIA",
+      "published_at": "2026-11-25T15:03:32.000000Z",
+      "summary": "Aaron Parnas presents a critical overview of a reported U.S. Army detonation at the Iowa Army Ammunition Plant, saying residents faced evacuation or shelter-in-place guidance after officials deemed degraded explosive material unstable. He highlights the Army’s stated containment measures and relays concerns that public plume maps used less stringent assumptions than an EPA worst-case scenario, while noting that environmental and agricultural effects may take time to assess. Parnas then discusses a magistrate judge’s written criticism of federal prosecutors’ timing in a case against two former FBI officials, characterizing it as politically motivated. He also raises questions about a possible Pentagon-backed loan involving a company linked financially to Donald Trump Jr. and an unexplained government-account infusion for a Washington renovation. In an interview, Representative LaMonica McIver describes her ongoing federal case, her claim that it stems from congressional oversight, the personal and financial strain involved, and her plans to pursue investigations and accountability. The episode combines reported events, political commentary, allegations, and interviewee perspectives.",
+      "topics": [
+        "Iowa Army detonation",
+        "Lead containment and environmental monitoring",
+        "Federal prosecution and judicial criticism",
+        "Pentagon financing questions",
+        "LaMonica McIver legal case"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The Army detonated nearly five tons of degraded explosive material at the Iowa Army Ammunition Plant and issued evacuation or shelter-in-place guidance.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            28,
+            29,
+            30,
+            31,
+            38,
+            39,
+            40,
+            41
+          ]
+        },
+        {
+          "claim": "A New York Times review reportedly found that Army plume maps used a less stringent standard than an EPA worst-case scenario, potentially understating a release.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            59,
+            60,
+            61,
+            62,
+            63,
+            64
+          ]
+        },
+        {
+          "claim": "A magistrate judge wrote that prosecutors rushed charges against two former FBI officials to influence looming elections.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            124,
+            125,
+            126,
+            131,
+            132,
+            133
+          ]
+        },
+        {
+          "claim": "The Pentagon is considering a $15 billion loan to a startup with financial ties to Donald Trump Jr.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            153,
+            154,
+            155,
+            156,
+            157,
+            158
+          ]
+        },
+        {
+          "claim": "A secret $300 million infusion funded a government account for Donald Trump's Washington renovation, with the payer unknown.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            159,
+            160,
+            161,
+            162,
+            163
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode reports that the Army cited instability and crystallization as reasons for the Iowa operation, while describing water, foam, screening, and monitoring measures.",
+          "evidence_segment_indices": [
+            43,
+            44,
+            45,
+            46,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57
+          ],
+          "start_seconds": 104.88,
+          "end_seconds": 140.64
+        },
+        {
+          "point": "Residents and reporters express uncertainty about contamination, protective equipment, livestock, soil testing, and when agricultural areas might be cleared.",
+          "evidence_segment_indices": [
+            72,
+            73,
+            75,
+            77,
+            80,
+            81,
+            82,
+            84,
+            85,
+            86,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            114,
+            115,
+            116,
+            117
+          ],
+          "start_seconds": 166.72,
+          "end_seconds": 283.52
+        },
+        {
+          "point": "McIver says her federal case remains active after unsuccessful appellate efforts and that her legal team is weighing further review or trial.",
+          "evidence_segment_indices": [
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195
+          ],
+          "start_seconds": 404.08,
+          "end_seconds": 451.44
+        },
+        {
+          "point": "McIver describes accountability as including congressional hearings, subpoenas, investigations, removals, and potentially criminal charges, while advocating oversight of detention facilities.",
+          "evidence_segment_indices": [
+            288,
+            289,
+            290,
+            293,
+            294,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            303,
+            304,
+            315,
+            346,
+            347,
+            348,
+            349,
+            350,
+            351,
+            352,
+            353
+          ],
+          "start_seconds": 644.8,
+          "end_seconds": 782.16
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "1681d7acead6e2f5fdfabaf63749b53e65a9d3755b6ce8c879629c13597e6c22",
+      "transcript_captured_at": "2026-11-25T16:03:13.241476Z",
+      "summary_generated_at": "2026-11-25T16:08:26.280867Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains substantial caption defects and apparent name, terminology, and word-recognition errors.",
+        "Several allegations and reported legal or financial developments are presented without primary documents or independent corroboration in the source.",
+        "The source does not provide post-detonation monitoring results, contamination findings, or a confirmed timeline for agricultural clearance.",
+        "The interview records McIver’s own account of her case and allegations; it does not establish those claims as adjudicated facts.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5014,230 +5220,6 @@
         "Most substantive assertions are presented through the creator’s commentary or attributed reports; the transcript does not provide the underlying documents or data.",
         "Some allegations, including espionage, corruption, criminal conduct, and national-security misconduct, remain allegations in this source and require independent verification.",
         "The supplied material covers the episode’s opening and main economic, cyber, and Nvidia segments but may not represent its full contents.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "w85KegrZU9g",
-      "title": "‘TRUMP IS FOR SALE’ — Oligarchy EXPOSED as National Security Officials SOUND ALARM, this is URGENT!!",
-      "url": "https://www.youtube.com/watch?v=w85KegrZU9g",
-      "published_at": "2026-11-23T16:37:46.000000Z",
-      "summary": "Aaron Parnas presents his view that Donald Trump’s intervention in Nvidia’s leadership dispute raises concerns about oligarchy, corruption, and national security. He recounts allegations that Nvidia CEO Jensen Huang’s romantic partner had contact with Chinese intelligence and that advanced Nvidia chips may have been diverted to China, while noting that these claims are presented as reported rather than established facts. The episode centers on Trump’s public support for Huang’s return, his statement that an investigation found Huang had done nothing wrong, and his admission that he communicated with Nvidia’s board and discussed Huang with China’s president. Trump argues that preserving Huang’s technical expertise outweighs the reported concerns and says the administration provided Nvidia assurances based on available information. Parnas interprets the episode as evidence of political influence over a major technology company. The recording also contains a substantial sponsor segment and promotional appeals, limiting the portion devoted to the underlying allegations.",
-      "topics": [
-        "Nvidia leadership dispute",
-        "Trump and corporate influence",
-        "China-related security concerns",
-        "AI chip export controls"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A partner of Nvidia CEO Jensen Huang had contact with China’s Ministry of State Security, and related associates were connected to Chinese intelligence.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            12,
-            13,
-            14,
-            15,
-            16,
-            69,
-            70,
-            71,
-            72,
-            73,
-            77,
-            78,
-            79,
-            198,
-            199,
-            200,
-            201
-          ]
-        },
-        {
-          "claim": "Advanced Nvidia AI chips connected to the partner’s network were acquired in large quantities, with some allegedly smuggled to China.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            73,
-            74,
-            75,
-            76
-          ]
-        },
-        {
-          "claim": "Trump communicated with Nvidia’s board and discussed Huang with China’s president while supporting Huang’s return.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            225,
-            226,
-            227,
-            228,
-            229,
-            230,
-            231,
-            232,
-            241,
-            242,
-            243,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250,
-            256,
-            257,
-            265,
-            266,
-            267,
-            268
-          ]
-        },
-        {
-          "claim": "Trump said a government investigation found Huang had done nothing wrong and that the administration gave Nvidia national-security assurances.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            166,
-            167,
-            172,
-            173,
-            174,
-            175,
-            248,
-            249,
-            250,
-            251,
-            252,
-            253
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames Trump’s support for Nvidia’s CEO as alleged oligarchic influence and corruption.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            27,
-            28,
-            29,
-            30
-          ],
-          "start_seconds": 0.16,
-          "end_seconds": 86.88
-        },
-        {
-          "point": "Trump publicly endorsed the CEO’s return and described him as important to the American economy and national security.",
-          "evidence_segment_indices": [
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            60,
-            61,
-            62
-          ],
-          "start_seconds": 88.88,
-          "end_seconds": 152.16
-        },
-        {
-          "point": "Trump said losing the CEO’s expertise would pose a greater threat than the reported contacts involving China.",
-          "evidence_segment_indices": [
-            195,
-            196,
-            197,
-            198,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224
-          ],
-          "start_seconds": 437.039,
-          "end_seconds": 499.759
-        },
-        {
-          "point": "The episode includes a sponsor segment and repeated subscription appeals alongside the political discussion.",
-          "evidence_segment_indices": [
-            31,
-            32,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144,
-            145,
-            146,
-            147,
-            148,
-            157,
-            158,
-            159
-          ],
-          "start_seconds": 84.88,
-          "end_seconds": 357.68
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "c735b2f92ff265d516b60a47ab963971055267a50e16cdb0f4d17a4995423fa5",
-      "transcript_captured_at": "2026-11-23T18:33:12.750475Z",
-      "summary_generated_at": "2026-11-23T18:38:25.642816Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview relies only on the supplied transcript and does not independently verify allegations, official statements, or cited reporting.",
-        "Automatic captions contain apparent name, wording, and transcription errors, including inconsistent renderings of the Nvidia CEO’s name.",
-        "Some claims are compressed or paraphrased by the creator, making the underlying sources and chronology unclear.",
-        "The sponsor segment and promotional material interrupt the substantive discussion.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
