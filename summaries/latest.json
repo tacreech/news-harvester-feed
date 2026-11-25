@@ -1,11 +1,199 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T16:12:00.643907Z",
+  "generated_at": "2026-11-25T19:42:00.635405Z",
   "reporting_window": {
-    "start": "2026-11-18T16:12:00.643907Z",
-    "end": "2026-11-25T16:12:00.643907Z"
+    "start": "2026-11-18T19:42:00.635405Z",
+    "end": "2026-11-25T19:42:00.635405Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "Dix5CY7cadk",
+      "title": "‘THEY’RE ALL IN ON IT!’ – Massive Trump Family CORRUPTION EXPOSED in Shocking Grifting Scheme",
+      "url": "https://www.youtube.com/watch?v=Dix5CY7cadk",
+      "published_at": "2026-11-25T18:21:34.000000Z",
+      "summary": "Aaron Parnas argues that alleged financial benefits involving Donald Trump and Donald Trump Jr. illustrate a broader, interconnected “grift,” while Americans face persistent inflation. He discusses reporting that a National Park Service account associated with Trump projects received roughly $300 million whose source and intended uses were not identified, and that the account had collected nearly $800 million since Trump took office. Parnas also highlights a proposed Pentagon loan of up to $15 billion to Hadrien Automation, a startup reportedly linked financially to Trump Jr. through 1789 Capital, while noting concerns about the company’s limited track record and potential conflicts. The episode then turns to inflation data, citing a reported 3.8% annual PCE rate, a low savings rate, and household financial strain. It closes by contrasting these developments with the administration’s relatively limited response and includes a Medicare-plan sponsorship segment.",
+      "topics": [
+        "Alleged Trump family financial benefits",
+        "National Park Service account funding",
+        "Proposed Pentagon loan to Hadrien Automation",
+        "Inflation and household finances"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A National Park Service account associated with Trump projects received approximately $300 million from an unidentified source and nearly $800 million since Trump took office.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            22,
+            23,
+            26,
+            27,
+            28,
+            29,
+            30,
+            33,
+            34,
+            48,
+            49,
+            50
+          ]
+        },
+        {
+          "claim": "The Pentagon is considering a loan of up to $15 billion to Hadrien Automation, a startup with financial ties to Donald Trump Jr.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            77
+          ]
+        },
+        {
+          "claim": "1789 Capital, where Donald Trump Jr. is a partner, participated in Hadrien Automation’s investment round and holds a minority stake.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88
+          ]
+        },
+        {
+          "claim": "The reported PCE inflation rate reached 3.8% annually and the savings rate was 4.1%.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            147,
+            148,
+            152,
+            159,
+            160,
+            161,
+            162,
+            188,
+            189
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames the episode as an alleged interconnected financial scheme involving Trump family figures.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            55,
+            56,
+            57
+          ],
+          "start_seconds": 0.08,
+          "end_seconds": 124.32
+        },
+        {
+          "point": "The episode describes undisclosed funding for Trump-associated Washington projects and questions its source and use.",
+          "evidence_segment_indices": [
+            22,
+            23,
+            33,
+            34,
+            35,
+            36,
+            41,
+            42,
+            43,
+            50,
+            51,
+            52,
+            53,
+            54
+          ],
+          "start_seconds": 49.039,
+          "end_seconds": 117.36
+        },
+        {
+          "point": "It presents the proposed Hadrien loan as unusually large relative to the company and raises conflict-of-interest and taxpayer-protection concerns.",
+          "evidence_segment_indices": [
+            62,
+            65,
+            68,
+            77,
+            78,
+            79,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105
+          ],
+          "start_seconds": 129.36,
+          "end_seconds": 218.159
+        },
+        {
+          "point": "The latter portion links elevated inflation and low savings with financial pressure on households.",
+          "evidence_segment_indices": [
+            146,
+            147,
+            148,
+            159,
+            162,
+            173,
+            174,
+            175,
+            176,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196
+          ],
+          "start_seconds": 300.639,
+          "end_seconds": 416.0
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "a392e5b0b690ece9bd28c525a21511e78e83f2637cf0a6e87c15532de8ce7a33",
+      "transcript_captured_at": "2026-11-25T19:33:13.699598Z",
+      "summary_generated_at": "2026-11-25T19:38:24.889616Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview reflects the episode’s transcript and cited reporting, not independently verified findings.",
+        "Several captions contain transcription errors, including malformed numbers, names, and phrases.",
+        "The source does not provide full documents, responses from all parties, or enough context to assess the allegations conclusively.",
+        "The inflation discussion includes clipped or ambiguous statements and references to geopolitical causes that are not fully explained.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -4990,236 +5178,6 @@
         "Captioning contains profanity redactions, transcription errors, and possible name or phrase ambiguities.",
         "Several quoted clips are summarized or excerpted rather than independently available in the source.",
         "The overview reflects only the supplied episode excerpt and does not verify its numerical or political claims.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "A1YM2515pRA",
-      "title": "BREAKING: Trump CRACKS As ECONOMY IMPLODES & FBI HACKED!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=A1YM2515pRA",
-      "published_at": "2026-11-23T21:00:14.000000Z",
-      "summary": "The creator presents a strongly critical episode focused on claims of economic deterioration, cybersecurity incidents, and presidential intervention in corporate affairs. He cites reported declines in pending home sales and argues that housing affordability has reached crisis levels, while also discussing steep losses among major AI stocks and a broader market selloff. The episode frames an alleged FBI database breach and other outages as evidence of worsening cyber risk, contrasting those concerns with officials’ more reassuring explanations. The creator also discusses reports that President Trump intervened in Nvidia’s leadership situation while questions remained about an executive’s alleged relationship with a Chinese spy, characterizing the episode as a conflict-of-interest and national-security scandal. Additional segments address Trump’s election-related rhetoric, weak performance by his endorsements, and reported debates over naming a Navy carrier. The supplied transcript consists only of captions and commentary, so the episode’s underlying statistics, reports, and allegations are not independently established here.",
-      "topics": [
-        "US economy and housing",
-        "AI stocks and markets",
-        "Cybersecurity incidents",
-        "Presidential ethics and influence"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Pending US home sales reportedly fell to their lowest recorded level in the cited data series, with a 4.7% monthly decline and a 16.7% annual decline.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            79,
-            80,
-            81,
-            82,
-            83,
-            94,
-            95,
-            96
-          ]
-        },
-        {
-          "claim": "The FBI’s nationwide criminal-information database was reportedly subject to an apparent breach.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            237,
-            238,
-            239,
-            240,
-            241,
-            242,
-            243,
-            244,
-            245
-          ]
-        },
-        {
-          "claim": "US ports reportedly experienced a major increase in cyberattack attempts, including approximately 120 million attempts against the Port of Los Angeles in August.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            450,
-            451,
-            452,
-            453,
-            454,
-            455,
-            456,
-            457,
-            458,
-            459,
-            460,
-            461,
-            462
-          ]
-        },
-        {
-          "claim": "President Trump reportedly intervened with Nvidia’s board and supported Jensen Huang’s reinstatement while questions about Huang’s alleged connection to a Chinese spy remained under investigation.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            638,
-            639,
-            640,
-            641,
-            644,
-            647,
-            648,
-            649,
-            650,
-            651,
-            652,
-            656,
-            657,
-            658,
-            660,
-            661,
-            662,
-            663,
-            664,
-            665,
-            666,
-            667
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator uses pending-home-sales data and AI-stock losses to argue that economic weakness is broader than headline market indexes suggest.",
-          "evidence_segment_indices": [
-            79,
-            80,
-            81,
-            82,
-            84,
-            85,
-            86,
-            87,
-            88,
-            94,
-            95,
-            101,
-            102,
-            128,
-            129,
-            134,
-            135,
-            136,
-            137,
-            138
-          ],
-          "start_seconds": 169.44,
-          "end_seconds": 323.36
-        },
-        {
-          "point": "The episode links reported cyber incidents affecting the FBI, banks, ports, and other infrastructure to concerns about national resilience, while officials describe some outages as security-related glitches.",
-          "evidence_segment_indices": [
-            237,
-            238,
-            239,
-            240,
-            241,
-            450,
-            451,
-            452,
-            459,
-            460,
-            461,
-            462,
-            529,
-            530,
-            531,
-            532,
-            539,
-            540,
-            541,
-            545,
-            548,
-            549,
-            551,
-            554
-          ],
-          "start_seconds": 536.399,
-          "end_seconds": 1201.36
-        },
-        {
-          "point": "The creator portrays Trump’s comments about cyberattacks and election claims as an attempt to redirect attention from crises facing his administration.",
-          "evidence_segment_indices": [
-            262,
-            263,
-            264,
-            267,
-            268,
-            269,
-            270,
-            271,
-            274,
-            275,
-            276,
-            277,
-            285,
-            286,
-            287,
-            288,
-            289,
-            290,
-            291,
-            292,
-            293,
-            294,
-            295,
-            296
-          ],
-          "start_seconds": 591.76,
-          "end_seconds": 669.2
-        },
-        {
-          "point": "The episode argues that reported presidential involvement in Nvidia’s leadership raises questions about conflicts of interest and national security.",
-          "evidence_segment_indices": [
-            638,
-            639,
-            640,
-            641,
-            651,
-            652,
-            653,
-            654,
-            655,
-            656,
-            657,
-            660,
-            661,
-            662,
-            663,
-            664,
-            665,
-            666,
-            667,
-            688,
-            689,
-            690,
-            691
-          ],
-          "start_seconds": 1383.44,
-          "end_seconds": 1502.559
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "802c4a16fc4f7be829cf20c8d5917f8cb2d94f5fbc9e3eabce7cf12cc0d8a43c",
-      "transcript_captured_at": "2026-11-23T22:33:12.965862Z",
-      "summary_generated_at": "2026-11-23T22:38:26.501495Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains many automated-caption defects, profanity redactions, repeated words, and unclear names.",
-        "Most substantive assertions are presented through the creator’s commentary or attributed reports; the transcript does not provide the underlying documents or data.",
-        "Some allegations, including espionage, corruption, criminal conduct, and national-security misconduct, remain allegations in this source and require independent verification.",
-        "The supplied material covers the episode’s opening and main economic, cyber, and Nvidia segments but may not represent its full contents.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
