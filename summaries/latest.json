@@ -1,11 +1,283 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T19:42:00.635405Z",
+  "generated_at": "2026-11-25T20:42:00.592714Z",
   "reporting_window": {
-    "start": "2026-11-18T19:42:00.635405Z",
-    "end": "2026-11-25T19:42:00.635405Z"
+    "start": "2026-11-18T20:42:00.592714Z",
+    "end": "2026-11-25T20:42:00.592714Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "_ibWvtOL4m0",
+      "title": "HAPPY THANKSGIVING!! Have Some Lead Poisoning.. | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=_ibWvtOL4m0",
+      "published_at": "2026-11-25T19:30:09.000000Z",
+      "summary": "Kyle Kulinski presents a strongly critical commentary on an alleged Iowa Army Ammunition Plant detonation involving lead azide and other hazardous materials. He characterizes the event as a major public-health and government-accountability failure, citing reported shelter-in-place guidance, projected airborne lead dust, risks to farmland, livestock, waterways, and drinking-water systems, and warnings aimed especially at vulnerable residents. Kulinski also alleges that safer neutralization options were available, that officials had known about the issue for years, and that contractors connected to the plant received substantial new work. The episode further links the situation to federal policy promoting development on contaminated or military land. Near the end, he discusses an official’s reported claim that monitoring detected no remaining contamination and disputes that reassurance by comparing it with past government statements about environmental and public-health risks. The transcript includes extensive sarcasm, political judgments, and quoted or paraphrased media reports; it does not independently establish the underlying claims.",
+      "topics": [
+        "Iowa ammunition-plant detonation",
+        "Lead contamination and public health",
+        "Emergency response and accountability",
+        "Military land and AI development",
+        "Environmental regulation"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A federal court authorized the U.S. Army to detonate nearly five tons of lead azide at the Iowa Army Ammunition Plant.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            351,
+            352,
+            353,
+            354,
+            357,
+            358,
+            359
+          ]
+        },
+        {
+          "claim": "Officials issued warnings involving sheltering, evacuation, airborne lead dust, and protective measures for residents and farmers.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            310,
+            311,
+            312,
+            313,
+            315
+          ]
+        },
+        {
+          "claim": "Safer neutralization options were proposed, but the Army and officials did not use them before the detonation.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            553,
+            554,
+            555,
+            556,
+            557,
+            558,
+            559,
+            560,
+            569,
+            570,
+            571,
+            572,
+            573,
+            574,
+            575,
+            576,
+            577,
+            578
+          ]
+        },
+        {
+          "claim": "The contractor associated with the plant received a $2.3 billion contract for an ammunition-storage depot in Nevada.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            591,
+            592,
+            593,
+            594,
+            595,
+            596
+          ]
+        },
+        {
+          "claim": "An EPA official said air monitors showed zero detection after the blast and that the blast cratered inward as intended.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            743,
+            744,
+            745,
+            746,
+            757,
+            758,
+            759,
+            760,
+            767,
+            768,
+            769,
+            770,
+            771,
+            772,
+            773,
+            774
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode focuses primarily on the alleged Iowa detonation and its potential environmental consequences.",
+          "evidence_segment_indices": [
+            74,
+            75,
+            76,
+            143,
+            144,
+            145,
+            146,
+            147,
+            161,
+            162,
+            163,
+            164
+          ],
+          "start_seconds": 153.76,
+          "end_seconds": 337.52
+        },
+        {
+          "point": "Kulinski highlights possible effects on soil, farmland, water, livestock, food production, and nearby communities.",
+          "evidence_segment_indices": [
+            182,
+            183,
+            184,
+            185,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            298,
+            299,
+            300,
+            303,
+            304,
+            305,
+            306,
+            310,
+            311,
+            312
+          ],
+          "start_seconds": 364.24,
+          "end_seconds": 618.24
+        },
+        {
+          "point": "He argues that the incident reflects delayed planning, inadequate public communication, and weak government oversight.",
+          "evidence_segment_indices": [
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            367,
+            368,
+            369,
+            370,
+            371,
+            372,
+            373
+          ],
+          "start_seconds": 271.759,
+          "end_seconds": 726.0
+        },
+        {
+          "point": "The program connects the plant to proposed private development, crypto mining, and AI data-center policy on contaminated or military land.",
+          "evidence_segment_indices": [
+            376,
+            377,
+            378,
+            390,
+            391,
+            392,
+            393,
+            394,
+            395,
+            396,
+            397,
+            398,
+            399,
+            400,
+            401,
+            402,
+            403,
+            404,
+            405,
+            406,
+            407,
+            408,
+            409,
+            410
+          ],
+          "start_seconds": 728.0,
+          "end_seconds": 798.32
+        },
+        {
+          "point": "The source ends by disputing official reassurance and framing the event through partisan criticism.",
+          "evidence_segment_indices": [
+            743,
+            744,
+            745,
+            746,
+            747,
+            748,
+            749,
+            750,
+            751,
+            752,
+            753,
+            754,
+            755,
+            775,
+            776,
+            781,
+            782,
+            783,
+            800,
+            801,
+            802,
+            803
+          ],
+          "start_seconds": 1504.559,
+          "end_seconds": 1640.88
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "9c23e444a342c231066b402d2d9ab662b20669cbabc574459c8b32baaa497245",
+      "transcript_captured_at": "2026-11-25T20:33:13.683393Z",
+      "summary_generated_at": "2026-11-25T20:38:28.945479Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains caption defects, including garbled chemical names, duplicated speech, and missing profanity markers.",
+        "Many details are presented through Kulinski’s commentary or excerpts from other media rather than directly documented in the source.",
+        "The transcript does not independently establish the detonation’s actual outcome, contamination levels, health effects, court record, contracts, or policy documents.",
+        "Some claims and dates are ambiguous because excerpts are paraphrased and the transcript provides no supporting documents.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5010,174 +5282,6 @@
         "Several captions contain transcription defects, profanity placeholders, and unclear names or words.",
         "The transcript does not independently establish the interview’s date, surrounding context, legal status of the war, or cited political and polling claims.",
         "Predictions and allegations are presented by the creator and should not be treated as verified facts.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "ecIHt-5eVZc",
-      "title": "Trump Walks Right Into Abdul’s Trap | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=ecIHt-5eVZc",
-      "published_at": "2026-11-23T21:40:35.000000Z",
-      "summary": "Kyle Kulinski argues that Senator Abdul El-Sayed is using an unusually effective strategy to promote Medicare for All by repeatedly offering to work with Donald Trump and emphasizing that the program could carry Trump’s name. Kulinski says Trump has shown openness to discussing bipartisan healthcare legislation, including by reposting Abdul’s messaging and mentioning possible cooperation, but he doubts that Trump or congressional Republicans would ultimately support such a proposal. Abdul presents guaranteed healthcare without premiums, copays, or deductibles as the central objective, regardless of its branding, and suggests Trump’s influence could attract Republican votes. Kulinski frames the approach as valuable even if it fails legislatively because it keeps Medicare for All prominent in public debate. The episode also discusses criticism from Rand Paul and John Kennedy, contrasting their objections about cost and government administration with Abdul’s claims that single-payer healthcare would reduce spending. The excerpt is commentary and selected clips, so it does not independently establish the policy, polling, legislative, or cost claims discussed.",
-      "topics": [
-        "Medicare for All",
-        "Trump and bipartisan healthcare",
-        "Political messaging",
-        "Healthcare costs"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Trump has signaled openness to bipartisan healthcare legislation and possible cooperation with Democrats.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            59,
-            66,
-            73,
-            113,
-            121,
-            230,
-            284,
-            296
-          ]
-        },
-        {
-          "claim": "Abdul’s proposal would provide healthcare without premiums, copays, or deductibles.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            127,
-            130,
-            132,
-            139,
-            141,
-            142
-          ]
-        },
-        {
-          "claim": "Single-payer healthcare would reduce overall spending by eliminating private-insurance profit margins.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            404,
-            408,
-            416,
-            417,
-            573,
-            577,
-            580
-          ]
-        },
-        {
-          "claim": "Recent legislation could cause hundreds of rural hospitals to close and remove millions of people from Medicaid.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            194,
-            195,
-            196,
-            198,
-            199,
-            200,
-            201,
-            552,
-            553
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski praises Abdul’s use of flattering, Trump-branded messaging to advance Medicare for All.",
-          "evidence_segment_indices": [
-            22,
-            24,
-            31,
-            38,
-            42,
-            50,
-            52,
-            56,
-            149,
-            150,
-            152
-          ],
-          "start_seconds": 52.48,
-          "end_seconds": 303.68
-        },
-        {
-          "point": "Abdul says he would work with Trump if doing so advanced guaranteed healthcare, regardless of the program’s name.",
-          "evidence_segment_indices": [
-            121,
-            124,
-            127,
-            130,
-            133,
-            142,
-            143
-          ],
-          "start_seconds": 256.0,
-          "end_seconds": 288.639
-        },
-        {
-          "point": "Kulinski doubts Republicans would support Medicare for All but says the strategy is still useful for public messaging.",
-          "evidence_segment_indices": [
-            183,
-            186,
-            190,
-            202,
-            205,
-            232,
-            254,
-            257
-          ],
-          "start_seconds": 353.919,
-          "end_seconds": 498.72
-        },
-        {
-          "point": "The episode contrasts objections about taxation, government administration, and employer insurance with arguments favoring single-payer care.",
-          "evidence_segment_indices": [
-            403,
-            405,
-            408,
-            447,
-            479,
-            486,
-            493,
-            545,
-            573,
-            580
-          ],
-          "start_seconds": 781.92,
-          "end_seconds": 1148.24
-        },
-        {
-          "point": "Kulinski says keeping Medicare for All in public discussion can increase attention to the proposal.",
-          "evidence_segment_indices": [
-            307,
-            313,
-            315,
-            319,
-            321,
-            324,
-            332,
-            334
-          ],
-          "start_seconds": 589.44,
-          "end_seconds": 654.399
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "ec4f5754cf01b1ab82d15d02dbe311b1b0519561a791dbe29435882b93a10522",
-      "transcript_captured_at": "2026-11-23T23:03:13.931966Z",
-      "summary_generated_at": "2026-11-23T23:08:23.178020Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is strongly opinionated commentary rather than a neutral report.",
-        "Captioning contains profanity redactions, transcription errors, and possible name or phrase ambiguities.",
-        "Several quoted clips are summarized or excerpted rather than independently available in the source.",
-        "The overview reflects only the supplied episode excerpt and does not verify its numerical or political claims.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
