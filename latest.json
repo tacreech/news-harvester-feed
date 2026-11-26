@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T02:01:01.432750Z",
+  "generated_at": "2026-11-26T02:30:21.423319Z",
   "reporting_window": {
-    "start": "2026-11-19T02:01:01.432750Z",
-    "end": "2026-11-26T02:01:01.432750Z",
+    "start": "2026-11-19T02:30:21.423319Z",
+    "end": "2026-11-26T02:30:21.423319Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,7 +14,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-26T02:00:59.990194Z",
+      "last_successful_poll": "2026-11-26T02:30:20.030445Z",
       "warnings": []
     },
     {
@@ -23,7 +23,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-26T02:01:00.220669Z",
+      "last_successful_poll": "2026-11-26T02:30:20.248890Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-26T02:01:00.476570Z",
+      "last_successful_poll": "2026-11-26T02:30:20.507540Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-26T02:01:00.757682Z",
+      "last_successful_poll": "2026-11-26T02:30:20.804964Z",
       "warnings": []
     },
     {
@@ -50,7 +50,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-26T02:01:01.231055Z",
+      "last_successful_poll": "2026-11-26T02:30:21.247151Z",
       "warnings": []
     }
   ],
@@ -653,7 +653,7 @@
       "first_seen": "2026-11-24T01:30:21.863635Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "captions_ready"
+      "transcript_status": "expired"
     },
     {
       "creator": "Aaron Parnas",
