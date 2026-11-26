@@ -1,11 +1,439 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T00:12:00.627370Z",
+  "generated_at": "2026-11-26T00:42:00.616478Z",
   "reporting_window": {
-    "start": "2026-11-19T00:12:00.627370Z",
-    "end": "2026-11-26T00:12:00.627370Z"
+    "start": "2026-11-19T00:42:00.616478Z",
+    "end": "2026-11-26T00:42:00.616478Z"
   },
   "episodes": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "a4Ezfi-kmv4",
+      "title": "The CIA Has Been Hacked...",
+      "url": "https://www.youtube.com/watch?v=a4Ezfi-kmv4",
+      "published_at": "2026-11-25T23:55:55.000000Z",
+      "summary": "Mutahar argues that a reported cyber incident involving CIA-related open-source intelligence systems illustrates how exposed public-facing services can become targets. He says the affected systems aggregate public material, social-media content, satellite imagery, and commercially purchased data, while emphasizing that the available information does not establish what was accessed or whether classified material was involved. The episode also discusses alleged incidents involving other government organizations, including FinCEN, and connects the broader trend to automated penetration-testing tools, large language models, and possible reductions in cybersecurity staffing. Mutahar presents these explanations as speculation rather than confirmed attribution, explicitly noting that claims about a tool called Rex being used are unverified. He concludes with privacy advice: reduce personal information shared online, consider self-hosting sensitive data, and recognize that cloud services remain potential targets. The episode is therefore a source-only commentary on an emerging story, mixing cautious caveats with strong criticism of intelligence agencies and their security practices.",
+      "topics": [
+        "Reported government cyber breach",
+        "Open-source intelligence systems",
+        "AI-assisted cyberattacks",
+        "Data privacy and brokers",
+        "Self-hosting"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A cyber breach affected CIA-related or intelligence-community open-source intelligence systems.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            22,
+            23,
+            40,
+            41,
+            100,
+            101
+          ]
+        },
+        {
+          "claim": "The incident may have involved unclassified data, with the scope and specific information accessed still unclear.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            145,
+            146,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156
+          ]
+        },
+        {
+          "claim": "FinCEN was investigating a separate cybersecurity incident involving unauthorized access to a limited subset of systems.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            267,
+            268,
+            269,
+            270,
+            281,
+            282,
+            283,
+            284,
+            285
+          ]
+        },
+        {
+          "claim": "The tool Rex may have been used in the alleged CIA-related intrusion, but this was explicitly not confirmed.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            139,
+            140,
+            141
+          ]
+        },
+        {
+          "claim": "Government cybersecurity staffing reductions may have contributed to security gaps.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames the story as a reported breach involving public-facing intelligence tools, not necessarily core CIA headquarters servers.",
+          "evidence_segment_indices": [
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            249,
+            250,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260
+          ],
+          "start_seconds": 451.52,
+          "end_seconds": 572.72
+        },
+        {
+          "point": "The discussion explains that open-source intelligence can combine public and commercially obtained information.",
+          "evidence_segment_indices": [
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46
+          ],
+          "start_seconds": 96.24,
+          "end_seconds": 113.439
+        },
+        {
+          "point": "Mutahar links the risk to scalable AI-assisted scanning while stressing that attribution and tool usage remain uncertain.",
+          "evidence_segment_indices": [
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141
+          ],
+          "start_seconds": 259.84,
+          "end_seconds": 321.52
+        },
+        {
+          "point": "The episode recommends limiting online personal information and considering local storage or self-hosting.",
+          "evidence_segment_indices": [
+            88,
+            89,
+            390,
+            391,
+            392,
+            393,
+            394,
+            395,
+            398,
+            399,
+            400,
+            401,
+            402,
+            403,
+            404,
+            419,
+            420,
+            421,
+            422,
+            423,
+            424,
+            425,
+            426,
+            427
+          ],
+          "start_seconds": 193.84,
+          "end_seconds": 939.839
+        },
+        {
+          "point": "The creator says the reported breach does not establish exposure of viewers’ personal information.",
+          "evidence_segment_indices": [
+            335,
+            336,
+            337,
+            338
+          ],
+          "start_seconds": 732.399,
+          "end_seconds": 743.36
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "fb5cec0a033df5df29af0462b91240bcdea69517ad3ef6cc7e3d7cc2f16be37b",
+      "transcript_captured_at": "2026-11-26T00:33:13.321674Z",
+      "summary_generated_at": "2026-11-26T00:38:26.239020Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains repeated words, profanity redactions, and garbled names or acronyms.",
+        "The source does not identify the affected systems, confirmed attackers, or verified data loss.",
+        "Several explanations about AI tools, staffing, and state-linked attackers are presented as speculation.",
+        "This overview relies only on the supplied transcript and does not independently verify the reported incidents.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "Z3UEvFqEXxs",
+      "title": "‘CODE RED’: Experts FREAK As Super-Intelligent AI God Is Here | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=Z3UEvFqEXxs",
+      "published_at": "2026-11-25T23:50:29.000000Z",
+      "summary": "Kyle Kulinski argues that AI is being developed and deployed recklessly, portraying it as a potential source of cyberattacks, job losses, social instability, and weakened human control. He discusses a reported shortfall of white-collar employment and cites researchers’ caution that AI is only one possible cause, alongside interest rates and post-pandemic hiring changes. He also criticizes proposals that humans should surrender decision-making to superintelligent systems, comparing that idea with risks he associates with self-driving technology. The episode presents reported warnings about Microsoft’s outage, AI safety concerns, and allegedly unsafe unreleased models, while emphasizing that these claims require independent confirmation. Kulinski links the AI debate to broader economic pressures, including reduced grocery spending and food insecurity, arguing that public attention is focused on technological speculation instead of immediate material problems. The presentation is strongly opinionated and uses inflammatory language; its central conclusions are the creator’s interpretations rather than established findings.",
+      "topics": [
+        "AI safety and control",
+        "Employment and automation",
+        "Cybersecurity risks",
+        "Economic hardship"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "AI was likely involved in a major series of cyberattacks, potentially through foreign-government use.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim": "The US economy has about 1.5 million fewer white-collar jobs than projected from pre-pandemic trends, with AI possibly contributing.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            59,
+            60,
+            61,
+            62,
+            63
+          ]
+        },
+        {
+          "claim": "Microsoft declared its highest emergency alert after a global outage and experienced roughly a decade’s worth of failures in two hours.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            146,
+            147,
+            148,
+            149,
+            150,
+            151
+          ]
+        },
+        {
+          "claim": "Employees at Anthropic and OpenAI reportedly feared that unreleased AI models were too unsafe to release.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            273,
+            274,
+            275,
+            276,
+            277,
+            278,
+            279,
+            280,
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames AI as more likely to produce harmful uses than promised social benefits.",
+          "evidence_segment_indices": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+          ],
+          "start_seconds": 41.44,
+          "end_seconds": 74.799
+        },
+        {
+          "point": "The cited labor-market report says hiring weakness may disproportionately affect entry-level workers and future career development.",
+          "evidence_segment_indices": [
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+          ],
+          "start_seconds": 128.239,
+          "end_seconds": 157.519
+        },
+        {
+          "point": "The episode rejects transferring broad decision-making authority from humans to superintelligent AI.",
+          "evidence_segment_indices": [
+            160,
+            161,
+            162,
+            163,
+            164,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174
+          ],
+          "start_seconds": 320.96,
+          "end_seconds": 354.72
+        },
+        {
+          "point": "The creator connects AI controversy with consumers reducing food spending and with neglected economic hardship.",
+          "evidence_segment_indices": [
+            288,
+            289,
+            290,
+            291,
+            292,
+            293,
+            294,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            310,
+            311
+          ],
+          "start_seconds": 557.76,
+          "end_seconds": 612.48
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "891d15d154505999bacaf39d4b5fbef316b394f996c8bb19160cb0e8c16dd7ef",
+      "transcript_captured_at": "2026-11-26T00:33:21.641622Z",
+      "summary_generated_at": "2026-11-26T00:38:50.564246Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is an automatic captioning output with profanity redactions, transcription errors, and ambiguous names or phrases.",
+        "Several statistics and reports are attributed to Axios, Reuters, or other researchers but are not independently verified here.",
+        "The episode combines sourced claims with the creator’s speculation, predictions, analogies, and political judgments.",
+        "The source covers only the creator’s presentation and does not provide responses from the people or organizations criticized.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4868,402 +5296,6 @@
         "Several claims are presented as allegations or commentary and are not independently established by the source.",
         "Some caption segments are incomplete, garbled, or contain redacted profanity, limiting precise interpretation.",
         "The overview reflects only the supplied episode transcript and does not assess the cited reports or legal claims.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "UMcR-Zr91HE",
-      "title": "JEFF BEZOS IS F*CKED | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=UMcR-Zr91HE",
-      "published_at": "2026-11-24T00:50:36.000000Z",
-      "summary": "Kyle Kulinski argues that Amazon and other corporations wield excessive power, focusing on an alleged warning that New York City customers could face a $5 surcharge if worker-protection legislation passes. He presents the surcharge as corporate coercion and says the proposed protections would cover minimum wages, paid leave, workers’ compensation, and workplace safety for delivery workers, including those employed through contractors. Kulinski disputes the stated cost, suggesting the actual increase could be only a few cents, while acknowledging no supporting calculation in the episode. He condemns Jeff Bezos and urges city and federal officials to resist billionaire influence. The discussion then broadens into a critique of extreme wealth: Kulinski advocates taxing every dollar above a $999 million net worth at 100%, directing the proceeds toward healthcare, education, and debt relief. The episode is an impassioned political commentary, relying heavily on quoted claims and assertions that are not independently substantiated in the transcript.",
-      "topics": [
-        "Amazon labor practices",
-        "New York City worker protections",
-        "Corporate power",
-        "Billionaire taxation"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Amazon allegedly threatened a $5 surcharge on New York City customers if a worker-protection bill passed.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ]
-        },
-        {
-          "claim": "The proposed protections concern minimum wage, paid leave, workers’ compensation, and employee safety for delivery workers.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            32,
-            33,
-            34,
-            35,
-            36,
-            39,
-            44,
-            45,
-            46,
-            47
-          ]
-        },
-        {
-          "claim": "A local politician cited in the episode has an approval rating above 60 percent.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            157,
-            158,
-            159,
-            160,
-            161
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames the alleged surcharge as an attempt to shift blame for labor regulation onto government and customers.",
-          "evidence_segment_indices": [
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            25,
-            26,
-            27,
-            28
-          ],
-          "start_seconds": 26.64,
-          "end_seconds": 68.88
-        },
-        {
-          "point": "He argues that contracted delivery workers should receive protections comparable to other employees.",
-          "evidence_segment_indices": [
-            40,
-            41,
-            42,
-            43,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            76,
-            77,
-            78,
-            79,
-            80
-          ],
-          "start_seconds": 91.2,
-          "end_seconds": 172.239
-        },
-        {
-          "point": "He proposes a 100% tax on wealth above $999 million to fund public benefits and reduce debt.",
-          "evidence_segment_indices": [
-            187,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195,
-            196,
-            197,
-            206,
-            207,
-            208,
-            209,
-            210,
-            211
-          ],
-          "start_seconds": 372.0,
-          "end_seconds": 427.12
-        },
-        {
-          "point": "The episode links concentrated wealth to perceived threats against democratic accountability.",
-          "evidence_segment_indices": [
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            229
-          ],
-          "start_seconds": 428.96,
-          "end_seconds": 461.44
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "b490c596749ab60d700ab1e57f945eba2eea394947136fc40bcb7c148d1c4dfa",
-      "transcript_captured_at": "2026-11-24T02:33:16.464659Z",
-      "summary_generated_at": "2026-11-24T02:38:23.078339Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is a single commentator’s account and does not include Amazon, city-government, or legislative responses.",
-        "Several names and phrases appear corrupted or ambiguous in the captions.",
-        "The episode provides no documentary evidence for the alleged surcharge, the estimated few-cent alternative, or the approval-rating figure.",
-        "The discussion is strongly rhetorical and includes unsupported historical and economic assertions.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "d23iuL6O0P0",
-      "title": "Republicans LOSE THEIR MINDS Over GTA6 In TOTAL MELTDOWN!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=d23iuL6O0P0",
-      "published_at": "2026-11-24T00:20:27.000000Z",
-      "summary": "Kyle Kulinski argues that the reaction from conservative commentators to GTA 6 reflects a misplaced moral panic. He presents clips criticizing adults who take time off to play, comparing violent gameplay to giving children guns, and claiming violent games desensitize children. Kulinski responds that games are fictional entertainment, disputes the stated research consensus about violence and games, and contrasts the criticism with what he describes as tolerance for gun violence and government or military actions. He also frames time off as reasonable amid dissatisfaction with work and broader affordability pressures. The episode concludes with his support for paid vacation, a four-day workweek, higher taxes on wealthy people, and expanded public provision of healthcare and education. The discussion relies heavily on sarcasm, political denunciation, and selected excerpts from Fox News-related commentary; the transcript alone does not establish the accuracy of the cited studies, economic figures, casualty claims, or allegations about public figures.",
-      "topics": [
-        "GTA 6 controversy",
-        "Video-game violence debate",
-        "Workplace and leisure policy",
-        "Gun violence and regulation"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Kulinski says studies have found no effect of violent video games on real-world violence.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            150,
-            151,
-            152,
-            153,
-            154,
-            155,
-            156
-          ]
-        },
-        {
-          "claim": "Kulinski cites an approximate historical figure of 35,000 annual U.S. gun-violence deaths and suggests regulation could halve it.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            191,
-            192
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that named political figures or networks supported genocide, bombing, or other harmful policies.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            107,
-            108,
-            109,
-            110,
-            111
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that Elon Musk illegally cut programs, misused taxpayer money, and is a ketamine addict.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            270,
-            271,
-            272,
-            273,
-            274,
-            275,
-            276,
-            277,
-            278,
-            279,
-            280,
-            281,
-            282
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode centers on conservative criticism of GTA 6 as irresponsible or harmful.",
-          "evidence_segment_indices": [
-            17,
-            18,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121
-          ],
-          "start_seconds": 31.039,
-          "end_seconds": 238.64
-        },
-        {
-          "point": "Kulinski argues that fictional games should be distinguished from real-world violence and criticizes claims that they directly cause violent behavior.",
-          "evidence_segment_indices": [
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144,
-            146
-          ],
-          "start_seconds": 234.319,
-          "end_seconds": 293.04
-        },
-        {
-          "point": "He portrays taking time off to enjoy a game as legitimate and links the debate to dissatisfaction with work and economic pressures.",
-          "evidence_segment_indices": [
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            236,
-            237,
-            238,
-            239,
-            240,
-            241
-          ],
-          "start_seconds": 129.2,
-          "end_seconds": 487.28
-        },
-        {
-          "point": "Kulinski endorses a four-day workweek, paid vacation, progressive taxation, and expanded social programs.",
-          "evidence_segment_indices": [
-            310,
-            311,
-            312,
-            313,
-            314,
-            315,
-            316,
-            317,
-            318,
-            319,
-            320,
-            321,
-            322,
-            323,
-            324,
-            325,
-            326
-          ],
-          "start_seconds": 638.24,
-          "end_seconds": 677.279
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "04c395555c56a1893d2bc4765fb9493703df359a3df0f5b08bcd18ae6ac1e232",
-      "transcript_captured_at": "2026-11-24T01:03:35.520768Z",
-      "summary_generated_at": "2026-11-24T01:09:40.329715Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains automatic-caption defects, profanity redactions, interruptions, and overlapping or fragmented speech.",
-        "Several statements are presented as sarcasm, rhetoric, or allegations rather than documented evidence.",
-        "The source is a single commentary episode and does not provide the underlying studies, data, clips, or cited policy records.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
