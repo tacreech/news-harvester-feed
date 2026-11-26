@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T00:42:00.616478Z",
+  "generated_at": "2026-11-26T01:12:00.632719Z",
   "reporting_window": {
-    "start": "2026-11-19T00:42:00.616478Z",
-    "end": "2026-11-26T00:42:00.616478Z"
+    "start": "2026-11-19T01:12:00.632719Z",
+    "end": "2026-11-26T01:12:00.632719Z"
   },
   "episodes": [
     {
@@ -618,6 +618,244 @@
         "Automatic captions contain profanity redactions, transcription errors, unclear names, and occasional garbled phrases.",
         "Several candidate fundraising figures and affiliations are presented conversationally and should be checked against primary records.",
         "The creator’s interpretations and predictions are commentary, not established findings.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "u4_czNxRnwI",
+      "title": "‘HE’S ALL ALONE’ — Trump ISOLATED as Scandals ERUPT and Public Demand Answers, Beginning of the End!",
+      "url": "https://www.youtube.com/watch?v=u4_czNxRnwI",
+      "published_at": "2026-11-25T22:53:14.000000Z",
+      "summary": "Aaron Parnas presents a commentary episode about disputes involving the Trump administration, Nvidia CEO Jensen Huang, and a hazardous-material detonation in Iowa. Parnas says Trump supports Huang’s return to Nvidia while some Republicans question whether Huang’s alleged connections create national-security risks; he contrasts Trump’s reported openness to a pardon with Vice President Vance’s statement that Huang needs no pardon and is not under investigation. The episode also discusses an Iowa operation that Parnas says destroyed five tons of unstable material, with officials reportedly describing no infrastructure damage and no detected lead in monitoring. Parnas says residents were advised to shelter and farmers lacked complete information, while administration officials blamed earlier decisions on Barack Obama. The program concludes with an interview with Maine senator-elect Troy Jackson, who discusses Senate leadership, healthcare and heating assistance, tariffs, the filibuster, cooperation with the White House, and oversight of nominees. The transcript contains caption errors and does not independently establish the claims discussed.",
+      "topics": [
+        "Trump administration controversies",
+        "Jensen Huang and Nvidia",
+        "Iowa hazardous-material detonation",
+        "Maine Senate-elect interview"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The Iowa operation destroyed five tons of unstable material without infrastructure damage, and monitoring detected no lead.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            127,
+            130,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139
+          ]
+        },
+        {
+          "claim": "Officials said Jensen Huang was not under investigation and that accusations against him were based on anonymous reporting rather than evidence.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            58,
+            66,
+            70,
+            73,
+            74,
+            88,
+            92,
+            94,
+            105,
+            111,
+            112,
+            113,
+            114
+          ]
+        },
+        {
+          "claim": "Trump and Vice President Vance gave differing indications about whether Huang might need or receive a pardon.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            45,
+            46,
+            47,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105
+          ]
+        },
+        {
+          "claim": "The Trump administration attributed responsibility for the Iowa hazardous-material situation to the Obama administration.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            170,
+            172,
+            173,
+            177,
+            178,
+            192,
+            193,
+            194,
+            195
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames Huang’s Nvidia reinstatement as a source of disagreement among Republicans over national security and China-related export controls.",
+          "evidence_segment_indices": [
+            24,
+            26,
+            28,
+            29,
+            30,
+            31,
+            35,
+            36,
+            37,
+            38,
+            39,
+            76,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85
+          ],
+          "start_seconds": 52.16,
+          "end_seconds": 179.04
+        },
+        {
+          "point": "Vance says he received assurances from government officials that Huang was not under investigation and says prosecution would require evidence.",
+          "evidence_segment_indices": [
+            58,
+            66,
+            70,
+            71,
+            72,
+            73,
+            74,
+            88,
+            89,
+            90,
+            91,
+            92,
+            104,
+            105,
+            106,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116
+          ],
+          "start_seconds": 121.92,
+          "end_seconds": 236.08
+        },
+        {
+          "point": "The Iowa segment reports a controlled detonation, continuing public-safety guidance, and unresolved concerns for farms in the affected area.",
+          "evidence_segment_indices": [
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153
+          ],
+          "start_seconds": 263.6,
+          "end_seconds": 314.32
+        },
+        {
+          "point": "Troy Jackson says he opposes Chuck Schumer for Senate leader, favors changing or eliminating the filibuster, and supports healthcare and cost-relief measures.",
+          "evidence_segment_indices": [
+            224,
+            225,
+            226,
+            227,
+            228,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            241,
+            242,
+            244,
+            245,
+            246,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            262,
+            263
+          ],
+          "start_seconds": 454.319,
+          "end_seconds": 544.959
+        },
+        {
+          "point": "Jackson describes a pragmatic approach to working with the White House while reserving judgment on presidential nominees.",
+          "evidence_segment_indices": [
+            328,
+            334,
+            339,
+            340,
+            343,
+            345,
+            346,
+            347,
+            348,
+            352,
+            353,
+            361,
+            362,
+            371,
+            372,
+            373,
+            374,
+            378,
+            379,
+            380,
+            381
+          ],
+          "start_seconds": 673.04,
+          "end_seconds": 797.68
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "231bbb133888d9152e595c18478903eb53b4a57da8e6234c658c90c99a0d6d6f",
+      "transcript_captured_at": "2026-11-26T01:03:16.112314Z",
+      "summary_generated_at": "2026-11-26T01:08:26.984651Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript has frequent caption defects, including misspellings, duplicated words, and garbled phrases.",
+        "Several names and descriptions appear inconsistently transcribed, including Jensen Huang and references to Iowa officials or materials.",
+        "The episode is commentary and interview material; the transcript alone does not independently verify the reported events, allegations, or official statements.",
+        "The source provides no supporting documents or direct corroboration beyond the spoken claims and quoted interview excerpts.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -5103,199 +5341,6 @@
         "Automatic captions contain apparent name, word, and number errors, including references to Nvidia, Jensen Huang, Volodymyr Zelenskyy, and Chuck Hudner.",
         "Several statements are explicitly framed as possibilities, reports, interpretations, or attributed opinions rather than established facts.",
         "The transcript provides limited context for some references, including the Iowa detonation, the underlying investigations, and the tariff timeline.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mike Figueredo — The Humanist Report",
-      "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
-      "video_id": "3fTcL4uCWgo",
-      "title": "Jensen Huang’s Comeback Proves Crimes are Basically Legal for Rich People",
-      "url": "https://www.youtube.com/watch?v=3fTcL4uCWgo",
-      "published_at": "2026-11-24T01:10:48.000000Z",
-      "summary": "Mike Figueredo of The Humanist Report argues that Jensen Huang’s reported reinstatement reflects unequal accountability for wealthy and politically connected people. The episode presents a presidential statement defending Huang and commentary that Trump’s intervention helped restore him to Nvidia’s leadership. It then discusses allegations involving Huang’s relationship with a woman described as a suspected Chinese intelligence operative, a company linked to alleged diversion of Nvidia chips to China, and Huang’s advocacy regarding export controls. The commentary acknowledges that Huang’s actual knowledge and legal responsibility remain unresolved, but portrays his access to Trump and Nvidia’s economic importance as reasons he may avoid consequences. Figueredo broadens the argument to alleged donations, regulatory failures, and the treatment of other wealthy figures, concluding that American institutions have become an oligarchy in which money and influence weaken enforcement. The episode ends with a call for accountability, while the supplied captions contain numerous apparent name errors and incomplete phrases.",
-      "topics": [
-        "Jensen Huang and Nvidia",
-        "Export controls and alleged chip diversion",
-        "Political influence and accountability",
-        "Oligarchy and wealth inequality"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Trump intervened in Huang’s reinstatement and communicated that Huang was not expected to face prosecution.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35
-          ]
-        },
-        {
-          "claim": "A company associated in the commentary with Huang’s alleged partner was investigated for diverting Nvidia chips to China, and related arrests occurred.",
-          "attributed_to": "Mike Figueredo — The Humanist Report",
-          "evidence_segment_indices": [
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            80,
-            81,
-            82
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode centers on Huang’s reported return to Nvidia after presidential involvement.",
-          "evidence_segment_indices": [
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36
-          ],
-          "start_seconds": 66.32,
-          "end_seconds": 86.08
-        },
-        {
-          "point": "It distinguishes allegations of chip diversion and national-security concerns from the unresolved question of Huang’s intent or knowledge.",
-          "evidence_segment_indices": [
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            159,
-            160,
-            161,
-            162,
-            163,
-            164,
-            165
-          ],
-          "start_seconds": 205.04,
-          "end_seconds": 367.52
-        },
-        {
-          "point": "Figueredo argues that wealth and strategic importance produce unequal treatment under the law.",
-          "evidence_segment_indices": [
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195,
-            196,
-            197,
-            198,
-            199,
-            200
-          ],
-          "start_seconds": 392.639,
-          "end_seconds": 440.16
-        },
-        {
-          "point": "The commentary expands the case into a broader critique of oligarchic influence over government and democracy.",
-          "evidence_segment_indices": [
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            229,
-            230,
-            231,
-            232,
-            233,
-            234
-          ],
-          "start_seconds": 456.24,
-          "end_seconds": 508.08
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "8b3a9a7a0d533ffb67cd200a8b3b21806b9dd8d0d2e82dfb612c52b8cc801dfc",
-      "transcript_captured_at": "2026-11-24T02:03:13.247486Z",
-      "summary_generated_at": "2026-11-24T02:08:25.450896Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The captions contain inconsistent names, including variants of Huang’s and related individuals’ names.",
-        "Several claims are presented as allegations or commentary and are not independently established by the source.",
-        "Some caption segments are incomplete, garbled, or contain redacted profanity, limiting precise interpretation.",
-        "The overview reflects only the supplied episode transcript and does not assess the cited reports or legal claims.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
