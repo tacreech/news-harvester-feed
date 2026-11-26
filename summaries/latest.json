@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T20:12:00.611812Z",
+  "generated_at": "2026-11-26T21:12:00.626537Z",
   "reporting_window": {
-    "start": "2026-11-19T20:12:00.611812Z",
-    "end": "2026-11-26T20:12:00.611812Z"
+    "start": "2026-11-19T21:12:00.626537Z",
+    "end": "2026-11-26T21:12:00.626537Z"
   },
   "episodes": [
     {
@@ -424,6 +424,222 @@
         "The source is a single creator’s commentary and embedded clip, without independent corroboration or responses from the people discussed.",
         "Several names, terms, and political references appear captioned ambiguously or with transcription errors.",
         "The transcript does not establish the dates, formal outcomes, or full context of the cited meetings, committee assignments, legislation, or polling claim.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "GpX-DDq1-AA",
+      "title": "‘HORRIFYING’ — ICE TRICKS Children in Detention Centers as Trump White House LAUGHS, this is URGENT!",
+      "url": "https://www.youtube.com/watch?v=GpX-DDq1-AA",
+      "published_at": "2026-11-26T18:22:24.000000Z",
+      "summary": "Aaron Parnas argues that children and families in U.S. immigration detention are being subjected to cruel treatment, while alleging that ICE enforcement also harms young people in public. He recounts claims that children at the Dilley family detention facility were shown Thanksgiving food and later told it was for employees, and that Christmas treats were taken away after children received them and posed for photographs with Santa. The episode includes testimony describing these incidents and a forum participant’s warning that detention experiences may cause lasting trauma. Parnas then presents a partially audible Oakland video involving a 17-year-old and relatives during an apparent ICE encounter, using it to argue that young people are being physically and psychologically harmed. He urges viewers to share the video and remember detained children during the holidays. The source is advocacy-oriented and provides limited context for the allegations, the cited testimony, and the recorded encounter.",
+      "topics": [
+        "Immigration detention",
+        "Treatment of children",
+        "ICE enforcement",
+        "Dilley facility",
+        "Holiday incidents"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Children at the Dilley family detention facility were shown Thanksgiving food and then told it was reserved for employees, leaving them distressed.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            31,
+            32,
+            35,
+            43,
+            44,
+            45,
+            46,
+            89,
+            90,
+            92,
+            93,
+            98,
+            99,
+            100,
+            101
+          ]
+        },
+        {
+          "claim": "At Christmas, children at the facility received treat bags, posed for photographs with Santa, and then had the bags taken away.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            67,
+            68,
+            71,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            102,
+            103,
+            105,
+            106,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114
+          ]
+        },
+        {
+          "claim": "A forum participant said detention experiences can have a lasting traumatic impact on children.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            121,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133
+          ]
+        },
+        {
+          "claim": "The Oakland footage depicts an ICE encounter involving a 17-year-old and relatives, including physical harm or detention.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            138,
+            139,
+            140,
+            141,
+            144,
+            145,
+            148,
+            149,
+            153,
+            158,
+            159,
+            160,
+            161,
+            164,
+            165
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas frames the episode as an urgent appeal about alleged mistreatment of children in detention and during street-level immigration enforcement.",
+          "evidence_segment_indices": [
+            0,
+            8,
+            17,
+            18,
+            27,
+            28,
+            29,
+            135,
+            136,
+            137,
+            138,
+            141
+          ],
+          "start_seconds": 0.24,
+          "end_seconds": 324.88
+        },
+        {
+          "point": "The central detention allegations concern staged or withheld holiday food and gifts at Dilley.",
+          "evidence_segment_indices": [
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            67,
+            68,
+            69,
+            71,
+            76,
+            77,
+            78,
+            84
+          ],
+          "start_seconds": 118.159,
+          "end_seconds": 184.0
+        },
+        {
+          "point": "Included testimony repeats the Thanksgiving and Christmas accounts and describes children left in tears or weeping.",
+          "evidence_segment_indices": [
+            87,
+            89,
+            90,
+            94,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            106,
+            110,
+            112,
+            113,
+            114
+          ],
+          "start_seconds": 185.2,
+          "end_seconds": 261.6
+        },
+        {
+          "point": "A forum participant links alleged detention abuses to possible lasting trauma in children.",
+          "evidence_segment_indices": [
+            121,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133
+          ],
+          "start_seconds": 272.639,
+          "end_seconds": 308.4
+        },
+        {
+          "point": "The Oakland video is difficult to interpret, but includes repeated references to a 17-year-old and a younger brother.",
+          "evidence_segment_indices": [
+            144,
+            148,
+            153,
+            158,
+            159,
+            160,
+            161
+          ],
+          "start_seconds": 327.039,
+          "end_seconds": 440.88
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "ae7a1f86ae9ff934698fee230db7d38f13d1d3d45f52601d9aeff81c4450f032",
+      "transcript_captured_at": "2026-11-26T21:03:15.394386Z",
+      "summary_generated_at": "2026-11-26T21:08:25.410666Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a commentary episode and presents allegations largely through narration and quoted testimony rather than independently documented records.",
+        "The transcript has caption defects, including repetitions, missing words, and unintelligible sections in the Oakland footage.",
+        "The Oakland encounter’s participants, actions, date, and outcome are not fully established by the supplied transcript.",
+        "The source provides limited corroborating context for the Dilley accounts and the broader claims about ICE conduct.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
@@ -5104,160 +5320,6 @@
         "Captions contain profanity redactions, repetitions, speaker changes, and occasional transcription errors.",
         "Claims about Musk’s health, drug use, motives, misconduct, government actions, and resulting harms require independent verification.",
         "The supplied material centers on commentary and a short interview excerpt, with limited underlying documentation.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "OraI9a_c9CQ",
-      "title": "Ben Shapiro PANICS & Tries To Distance From Trump!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=OraI9a_c9CQ",
-      "published_at": "2026-11-24T21:35:25.000000Z",
-      "summary": "Kyle Kulinski argues that Ben Shapiro is attempting to distance himself from Donald Trump while preserving support for much of Trump’s agenda. Kulinski contrasts Shapiro’s statement that he agrees with roughly 80% of Trump’s policies but disagrees with about 90% of their implementation with his own view that the underlying conservative program is unpopular, regardless of execution. The episode also criticizes Shapiro’s foreign-policy discussion, particularly his explanation of the rationale for military action against Iran and his suggestion that repeated attacks might be necessary to prevent nuclear development. Kulinski portrays these positions as evidence of inconsistency and contrasts them with policies he considers broadly popular, including social programs and healthcare. The commentary is highly partisan and frequently uses insults, sarcasm, and unsupported assertions. It presents allegations about domestic-policy effects, public approval, military actions, nuclear capabilities, and election outcomes without supplying independent documentation. The transcript also contains profanity, transcription defects, and ambiguous references, so it should be treated as a summary of Kulinski’s argument rather than verification of its factual claims.",
-      "topics": [
-        "Ben Shapiro and Trump",
-        "Conservative policy criticism",
-        "Iran and foreign policy",
-        "Public approval and elections"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Trump had a 29% approval rating and a historic Democratic wave followed.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            20,
-            381,
-            382
-          ]
-        },
-        {
-          "claim": "A major policy bill would close 742 rural hospitals and remove millions from Medicaid and food assistance.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            137,
-            138,
-            140,
-            141,
-            143,
-            145
-          ]
-        },
-        {
-          "claim": "Military action against Iran occurred in 2025 and was justified by ballistic-missile and nuclear-site concerns.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            220,
-            223,
-            230,
-            231,
-            232,
-            255,
-            261,
-            266
-          ]
-        },
-        {
-          "claim": "Shapiro’s proposed approach could entail recurring attacks on Iran and possibly a tactical nuclear strike on a mountain facility.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            267,
-            272,
-            274,
-            275,
-            296,
-            298,
-            301
-          ]
-        },
-        {
-          "claim": "Trump’s administration cut pediatric cancer research, Meals on Wheels, and large numbers of government jobs.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            164,
-            165,
-            166,
-            173,
-            175,
-            176
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski says Shapiro supports most Trump policies but criticizes how they were implemented.",
-          "evidence_segment_indices": [
-            52,
-            54,
-            55,
-            56,
-            85,
-            87,
-            88
-          ],
-          "start_seconds": 110.479,
-          "end_seconds": 181.36
-        },
-        {
-          "point": "Kulinski argues conservative policies are unpopular on their substance, not merely their execution.",
-          "evidence_segment_indices": [
-            99,
-            100,
-            102,
-            107,
-            120,
-            126,
-            133,
-            134
-          ],
-          "start_seconds": 196.8,
-          "end_seconds": 275.199
-        },
-        {
-          "point": "The episode challenges Shapiro’s explanation of the Iran conflict and his support for possible recurring military action.",
-          "evidence_segment_indices": [
-            218,
-            220,
-            228,
-            230,
-            241,
-            256,
-            258,
-            296,
-            300
-          ],
-          "start_seconds": 433.44,
-          "end_seconds": 588.48
-        },
-        {
-          "point": "Kulinski contrasts conservative proposals with left-wing programs he says become politically durable after adoption.",
-          "evidence_segment_indices": [
-            184,
-            187,
-            195,
-            200,
-            201,
-            208,
-            214
-          ],
-          "start_seconds": 370.639,
-          "end_seconds": 429.759
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "91b814d2a81348e47674f670510ef5f1a51643fde364dbd31c45fd6f2d82a5e1",
-      "transcript_captured_at": "2026-11-24T22:33:25.700063Z",
-      "summary_generated_at": "2026-11-24T22:39:07.888710Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is a single partisan commentator’s presentation and does not independently establish its factual allegations.",
-        "Several captions contain transcription errors, profanity placeholders, incomplete sentences, and ambiguous names or references.",
-        "The source does not provide supporting documents, polling methodology, legal findings, or independent reporting for consequential claims.",
-        "Some statements about policy effects and military events are presented rhetorically rather than with precise definitions or evidence.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
