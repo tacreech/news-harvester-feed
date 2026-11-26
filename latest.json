@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T20:30:21.275303Z",
+  "generated_at": "2026-11-26T21:00:57.315497Z",
   "reporting_window": {
-    "start": "2026-11-19T20:30:21.275303Z",
-    "end": "2026-11-26T20:30:21.275303Z",
+    "start": "2026-11-19T21:00:57.315497Z",
+    "end": "2026-11-26T21:00:57.315497Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,16 +14,16 @@
       "identity_status": "verified",
       "health": "success_new",
       "discovery_status": "success_new",
-      "last_successful_poll": "2026-11-26T20:30:20.021309Z",
+      "last_successful_poll": "2026-11-26T21:00:51.215213Z",
       "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-26T20:30:20.243358Z",
+      "health": "success_new",
+      "discovery_status": "success_new",
+      "last_successful_poll": "2026-11-26T21:00:52.960908Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-26T20:30:20.510463Z",
+      "last_successful_poll": "2026-11-26T21:00:53.789429Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-26T20:30:20.801496Z",
+      "last_successful_poll": "2026-11-26T21:00:56.911345Z",
       "warnings": []
     },
     {
@@ -50,11 +50,35 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-26T20:30:21.099733Z",
+      "last_successful_poll": "2026-11-26T21:00:57.151493Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "X9fCaSi6dPY",
+      "title": "Major Thanksgiving storm happening right now.",
+      "published_at": "2026-11-26T20:46:21.000000Z",
+      "url": "https://www.youtube.com/watch?v=X9fCaSi6dPY",
+      "first_seen": "2026-11-26T21:00:52.960908Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "WPlcgX0zvPY",
+      "title": "THE IRAN WAR IS F*CKED | The Kyle Kulinski Show",
+      "published_at": "2026-11-26T20:30:18.000000Z",
+      "url": "https://www.youtube.com/watch?v=WPlcgX0zvPY",
+      "first_seen": "2026-11-26T21:00:51.215213Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -1839,30 +1863,6 @@
       "published_at": "2026-11-19T21:15:10.000000Z",
       "url": "https://www.youtube.com/watch?v=EcseeBuPAZ0",
       "first_seen": "2026-11-19T22:00:01.493449Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "expired"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "59ZnAVNT1ew",
-      "title": "Cruelty is the point.",
-      "published_at": "2026-11-19T20:50:11.000000Z",
-      "url": "https://www.youtube.com/watch?v=59ZnAVNT1ew",
-      "first_seen": "2026-11-19T21:30:42.441318Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "not_queued"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "yFfuFQwOUTk",
-      "title": "Dems Unveil MASTER PLAN After Blue Tsunami | The Kyle Kulinski Show Playlist",
-      "published_at": "2026-11-19T20:45:14.000000Z",
-      "url": "https://www.youtube.com/watch?v=yFfuFQwOUTk",
-      "first_seen": "2026-11-19T21:00:41.912844Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "expired"
