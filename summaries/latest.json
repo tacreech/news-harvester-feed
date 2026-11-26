@@ -1,11 +1,274 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T17:12:00.623554Z",
+  "generated_at": "2026-11-26T19:42:00.612005Z",
   "reporting_window": {
-    "start": "2026-11-19T17:12:00.623554Z",
-    "end": "2026-11-26T17:12:00.623554Z"
+    "start": "2026-11-19T19:42:00.612005Z",
+    "end": "2026-11-26T19:42:00.612005Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "jMRLFO_OT88",
+      "title": "Trump’s STAGGERING $700 Million Corruption Has To Be Seen To Be Believed | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=jMRLFO_OT88",
+      "published_at": "2026-11-26T18:00:10.000000Z",
+      "summary": "Kyle Kulinski frames the episode as an opinionated critique of alleged corruption surrounding the Trump administration, beginning with a reported surge of roughly $790 million into a National Park Service account used for Washington renovation projects. He highlights reporting that the account previously received less than $100 million annually and says the source of much of the money is unclear, while alleging that the funds enable undisclosed pay-to-play arrangements. Kulinski also discusses President Trump’s reactions to falling markets, arguing that Trump takes credit for gains while blaming Democrats for losses and focuses too heavily on stock performance. The episode further alleges conflicts involving Nvidia, cryptocurrency ventures, foreign-linked business activity, government contracts, and family members. Additional segments attack comments attributed to Jason Whitlock and Ben Shapiro. The transcript is a single-host commentary and presents cited reports, interpretations, and accusations without independently establishing them; several claims are hyperbolic or incomplete in the supplied material.",
+      "topics": [
+        "Trump administration and alleged corruption",
+        "Government renovation funding",
+        "Markets and Nvidia",
+        "Cryptocurrency and foreign business ties",
+        "Political media commentary"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A National Park Service account reportedly received about $790 million after previously receiving less than $100 million annually, with funds used for projects including a White House ballroom.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            200,
+            201,
+            202,
+            203,
+            224,
+            225,
+            226,
+            227,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247
+          ]
+        },
+        {
+          "claim": "The source of roughly $300 million in donations and the remaining increase in the account is undisclosed or untraceable.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            190,
+            191,
+            199,
+            200,
+            201,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            249,
+            250,
+            251,
+            252,
+            253,
+            256,
+            257,
+            258,
+            259
+          ]
+        },
+        {
+          "claim": "Trump-linked cryptocurrency ventures, foreign participants, and pardons are connected to efforts to obtain government favors.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            364,
+            365,
+            366,
+            367,
+            368,
+            369,
+            370,
+            371,
+            372,
+            373,
+            374,
+            375,
+            376
+          ]
+        },
+        {
+          "claim": "A company tied to Donald Trump Jr. received a $620 million government contract.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            463,
+            464,
+            465,
+            466,
+            467,
+            468,
+            469,
+            470
+          ]
+        },
+        {
+          "claim": "Trump’s market commentary and Nvidia-related actions reflect conflicts of interest or improper influence.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            90,
+            91,
+            92,
+            93,
+            95,
+            100,
+            103,
+            104,
+            105,
+            117,
+            118,
+            119,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            140,
+            143,
+            144,
+            145,
+            146,
+            147
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski centers the episode on reported funding flows into a government account used for Washington projects.",
+          "evidence_segment_indices": [
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            224,
+            225,
+            226,
+            227,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242
+          ],
+          "start_seconds": 400.095,
+          "end_seconds": 489.997
+        },
+        {
+          "point": "He argues that Trump claims credit for market gains but blames Democrats for declines.",
+          "evidence_segment_indices": [
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            128,
+            129,
+            130,
+            135,
+            136,
+            140,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148
+          ],
+          "start_seconds": 236.592,
+          "end_seconds": 304.194
+        },
+        {
+          "point": "The episode surveys alleged conflicts involving cryptocurrency, foreign interests, family businesses, and government contracts.",
+          "evidence_segment_indices": [
+            334,
+            335,
+            336,
+            337,
+            338,
+            339,
+            340,
+            341,
+            342,
+            364,
+            369,
+            370,
+            371,
+            372,
+            405,
+            406,
+            407,
+            408,
+            409,
+            410,
+            411,
+            412,
+            463,
+            464
+          ],
+          "start_seconds": 675.798,
+          "end_seconds": 950.501
+        },
+        {
+          "point": "Kulinski portrays the media as giving insufficient attention to the allegations and contrasts them with coverage of Democratic controversies.",
+          "evidence_segment_indices": [
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            322,
+            323,
+            324,
+            325,
+            326,
+            327,
+            328,
+            329,
+            330,
+            476,
+            477
+          ],
+          "start_seconds": 602.097,
+          "end_seconds": 978.101
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "b420177b87f1a1ed6863a93e839bd03d824e5372f102bcad446ffa9d44a56949",
+      "transcript_captured_at": "2026-11-26T19:33:16.648137Z",
+      "summary_generated_at": "2026-11-26T19:38:29.281014Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is a single commentator’s presentation and does not independently verify the cited reports or allegations.",
+        "Several financial figures and descriptions are repeated from secondary reporting without full documentation in the supplied text.",
+        "Caption defects include redacted profanity, disfluencies, overlap, and occasional ambiguous wording.",
+        "The source covers selected controversies and does not provide a complete account of relevant legal, financial, or political context.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5016,207 +5279,6 @@
         "The transcript attributes several cybersecurity claims to the New York Times or unnamed sources but provides no underlying reports or documentation.",
         "Some captions contain transcription errors, repetitions, speaker changes, and incomplete phrases, especially in the quoted interview.",
         "The episode combines a cybersecurity discussion with a separate political interview, so the relationship between the topics is editorial rather than established by the transcript.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "-ptFFtUZ268",
-      "title": "MAGA Is COMPLETELY F*CKED For Good, Says CNN Data Guru | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=-ptFFtUZ268",
-      "published_at": "2026-11-24T20:35:06.000000Z",
-      "summary": "Kyle Kulinski argues that MAGA and Trump are losing political strength, while presenting the alleged Nvidia leadership controversy as an example of elite influence and weak accountability. He says Trump intervened to reinstate Jensen Huang despite alleged investigations involving China, while personally holding Nvidia-related financial interests. Kulinski also discusses televised commentary defending Huang and criticizes the idea that wealth makes wrongdoing unlikely. The episode then turns to polling and election claims presented by CNN commentators: MAGA reportedly reached a record-low favorability rating, Democrats reportedly held a substantial party favorability advantage, and many Republicans reportedly doubted Trump could pass his preferred policies. A CNN data analyst is quoted as describing Trump as potentially becoming irrelevant or a lame duck, while noting that comparable historically unpopular presidents did not recover their approval ratings. Kulinski concludes that the evidence indicates serious political decline, but the episode relies heavily on commentary, selected polling references, and allegations that are not independently established in the transcript.",
-      "topics": [
-        "Trump and MAGA polling",
-        "Nvidia and alleged conflicts of interest",
-        "Elite accountability",
-        "Republican political strategy"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Trump personally intervened to reinstate Jensen Huang as Nvidia CEO while holding Nvidia-related financial interests.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            36,
-            38,
-            41,
-            44,
-            113,
-            118
-          ]
-        },
-        {
-          "claim": "Huang was under investigation for allegedly leaking sensitive chip information to China and having possible ties to a Chinese spy.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            45,
-            46,
-            47,
-            48,
-            49,
-            127,
-            129,
-            131
-          ]
-        },
-        {
-          "claim": "MAGA reached a record-low net favorability rating, reportedly 41 points underwater, in October 2026.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            491,
-            492,
-            493,
-            494,
-            498,
-            499
-          ]
-        },
-        {
-          "claim": "Polling cited in the episode showed Democrats with a 17-point net favorability advantage over Republicans.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            516,
-            517,
-            518,
-            527,
-            528,
-            529,
-            530,
-            531
-          ]
-        },
-        {
-          "claim": "A cited poll placed Trump's approval at 29%, reportedly for the second time in recent polling.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            662,
-            663,
-            664,
-            665,
-            666,
-            667,
-            668,
-            669
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames the Nvidia episode as evidence of alleged presidential favoritism and billionaire impunity.",
-          "evidence_segment_indices": [
-            50,
-            51,
-            52,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86
-          ],
-          "start_seconds": 107.52,
-          "end_seconds": 188.159
-        },
-        {
-          "point": "A televised exchange challenges the claim that Huang could not commit wrongdoing because he is wealthy and successful.",
-          "evidence_segment_indices": [
-            217,
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            249,
-            257,
-            261,
-            262,
-            265,
-            271,
-            272,
-            273
-          ],
-          "start_seconds": 448.16,
-          "end_seconds": 545.2
-        },
-        {
-          "point": "The episode presents polling suggesting declining support for MAGA, Trump, and the Republican Party.",
-          "evidence_segment_indices": [
-            491,
-            499,
-            500,
-            516,
-            517,
-            518,
-            527,
-            528,
-            529,
-            530,
-            531
-          ],
-          "start_seconds": 938.48,
-          "end_seconds": 1008.959
-        },
-        {
-          "point": "The cited CNN analyst says Republicans increasingly view Trump as unable to pass his policies and possibly becoming a lame duck.",
-          "evidence_segment_indices": [
-            613,
-            614,
-            615,
-            616,
-            617,
-            618,
-            619,
-            623,
-            624,
-            625,
-            626,
-            627,
-            628,
-            633,
-            634,
-            635
-          ],
-          "start_seconds": 1137.6,
-          "end_seconds": 1178.0
-        },
-        {
-          "point": "Historical comparison is explicitly limited to two prior presidents with similarly low approval ratings.",
-          "evidence_segment_indices": [
-            646,
-            647,
-            649,
-            650,
-            651,
-            652,
-            655,
-            656,
-            657,
-            658,
-            659,
-            660,
-            661
-          ],
-          "start_seconds": 1189.28,
-          "end_seconds": 1221.52
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "6b2c5f3c0b7267ca3b97f345d4df185f85f6a7aa9bf5e24356a505266823997f",
-      "transcript_captured_at": "2026-11-24T22:33:14.153530Z",
-      "summary_generated_at": "2026-11-24T22:38:25.965663Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains automatic-caption defects, garbled words, profanity placeholders, and occasional speaker-attribution ambiguity.",
-        "Polling figures, election results, financial holdings, investigations, and alleged misconduct are presented within the episode but are not independently substantiated by the source text.",
-        "The episode uses selected clips and commentary, so it does not establish the broader context, methodology, dates, or representativeness of the cited polls.",
-        "Several statements are rhetorical opinions or accusations by Kulinski and should not be read as verified findings.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
