@@ -1,11 +1,385 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T21:42:00.636203Z",
+  "generated_at": "2026-11-26T23:42:00.624300Z",
   "reporting_window": {
-    "start": "2026-11-19T21:42:00.636203Z",
-    "end": "2026-11-26T21:42:00.636203Z"
+    "start": "2026-11-19T23:42:00.624300Z",
+    "end": "2026-11-26T23:42:00.624300Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "SXBQl4H3kf8",
+      "title": "Fox News Defends Trump Extorting Like A Mob Boss | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=SXBQl4H3kf8",
+      "published_at": "2026-11-26T22:00:03.000000Z",
+      "summary": "Kyle Kulinski argues that Fox News is defending what he characterizes as presidential blackmail and extortion involving Donald Trump and Nvidia CEO Jensen Huang. He plays a Fox segment in which Jesse Waters says Trump has Huang “by the chips,” could use him against Anthropic, and may benefit from Huang’s alleged favors. Kulinski interprets this as an open endorsement of mafia-style government, contrasting it with his view that government should serve constituents through safety, infrastructure, regulation, healthcare, and wages. He further speculates that Trump’s support for Huang may relate to investments in Nvidia and concerns about the stock market and artificial-intelligence bubble. He also alleges, without presenting evidence in the episode, that Huang sells chips to China and that Trump may profit personally. The episode is primarily commentary and political criticism, relying on a clipped Fox discussion and Kulinski’s interpretation; it does not establish the alleged blackmail, financial interests, China sales, or personal profits as verified facts.",
+      "topics": [
+        "Fox News commentary",
+        "Trump and Jensen Huang",
+        "Alleged blackmail and extortion",
+        "Government accountability",
+        "Nvidia and AI markets"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Fox commentators argued that Trump could use alleged leverage over Jensen Huang for political or financial purposes.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            41,
+            42,
+            43,
+            45,
+            46,
+            47,
+            48,
+            49,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58
+          ]
+        },
+        {
+          "claim": "The episode alleges that Trump has investments in Nvidia and other AI companies that could influence his support for Huang.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143
+          ]
+        },
+        {
+          "claim": "The episode speculates that Huang sells chips directly to China and that Trump may personally profit from this activity.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152
+          ]
+        },
+        {
+          "claim": "The episode alleges that a Fox commentator previously advocated lethal measures against homeless people.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            13,
+            14
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski presents Fox’s discussion of Trump and Huang as an endorsement of coercive, mafia-style politics.",
+          "evidence_segment_indices": [
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94
+          ],
+          "start_seconds": 162.0,
+          "end_seconds": 204.879
+        },
+        {
+          "point": "He contrasts alleged political extortion with government responsibilities such as public safety, infrastructure, regulation, healthcare, and wages.",
+          "evidence_segment_indices": [
+            102,
+            103,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120
+          ],
+          "start_seconds": 217.04,
+          "end_seconds": 260.079
+        },
+        {
+          "point": "The episode closes with broader criticism of Trump supporters and Fox News, followed by channel and subscription promotions.",
+          "evidence_segment_indices": [
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            199,
+            200,
+            201,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211
+          ],
+          "start_seconds": 327.44,
+          "end_seconds": 460.8
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "47ab098adddfb230f05104b846f1769cc2d00cd4c7af2ca2bf43c3495864ecf5",
+      "transcript_captured_at": "2026-11-26T23:33:23.531477Z",
+      "summary_generated_at": "2026-11-26T23:38:47.800638Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains profanity redactions, misrecognitions, overlapping captions, and apparent name errors.",
+        "The source provides commentary and quoted television remarks rather than corroborating documents or independent reporting.",
+        "Several allegations are explicitly speculative, using language such as “probably” and “almost certainly.”",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "Izd3LqjHVy8",
+      "title": "Ben Shapiro Compares Abdul To Osama Bin Laden | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=Izd3LqjHVy8",
+      "published_at": "2026-11-26T21:30:34.000000Z",
+      "summary": "Kyle Kulinski critiques a podcast exchange in which Ben Shapiro argues that a Muslim American politician does not share U.S. priorities and presents Shapiro’s reasoning as Islamophobic. Kulinski focuses on Shapiro’s analogy involving Osama bin Laden, while the excerpt shows Shapiro saying the comparison is about analogous logic rather than personal identity. The discussion then turns to whether criticism of U.S. policy is compatible with patriotism, Israel’s conduct in Gaza, civilian harm, and the meaning of genocide. Shapiro emphasizes Israel’s military warnings and argues that the reported casualty ratio is historically low; Kulinski disputes this framing, citing destruction, civilian deaths, and alleged abuses. Kulinski also portrays the exchange as evidence that conservative commentary applies different standards to Muslim political figures and favored politicians. The episode is strongly argumentative, contains profanity and repeated allegations, and offers no independently verified documentation for the many numerical, legal, or historical assertions presented.",
+      "topics": [
+        "Ben Shapiro and Abdul",
+        "Islamophobia and political rhetoric",
+        "U.S. patriotism and criticism",
+        "Israel-Gaza war debate",
+        "Media framing"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The discussion attributes extensive destruction and civilian casualties in Gaza to Israeli military operations, including a claim that 80–90% of buildings were destroyed.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            281,
+            287,
+            290,
+            291,
+            292,
+            293,
+            332,
+            339,
+            340
+          ]
+        },
+        {
+          "claim": "The excerpt presents competing casualty estimates, including 70,000 Palestinian deaths and Kulinski’s higher estimate of at least 200,000.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            347,
+            349,
+            350,
+            351,
+            352,
+            364,
+            365,
+            367
+          ]
+        },
+        {
+          "claim": "The speakers refer to alleged Israeli attacks, abuses, and statements involving safe zones, hostages, white flags, aid workers, hospitals, and possible nuclear use.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            304,
+            306,
+            307,
+            308,
+            309,
+            419,
+            420,
+            421,
+            423,
+            424,
+            434,
+            438,
+            443,
+            445,
+            449
+          ]
+        },
+        {
+          "claim": "Shapiro is presented as comparing the logic attributed to Abdul with Osama bin Laden’s logic while denying that he is equating their identities.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            94,
+            95,
+            96,
+            99,
+            101,
+            102,
+            103,
+            105,
+            106
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames Shapiro’s use of a Muslim politician’s full name and his warning about that politician as othering and fear-based.",
+          "evidence_segment_indices": [
+            11,
+            12,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "start_seconds": 24.8,
+          "end_seconds": 50.96
+        },
+        {
+          "point": "Shapiro says the politician does not share U.S. priorities; the excerpt records a challenge that the politician was Michigan-born and raised.",
+          "evidence_segment_indices": [
+            26,
+            30,
+            31,
+            34,
+            35,
+            36,
+            37
+          ],
+          "start_seconds": 52.399,
+          "end_seconds": 70.479
+        },
+        {
+          "point": "The exchange contrasts Shapiro’s defense of Israel’s conduct with Kulinski’s criticism of bombing, civilian harm, and alleged abuses.",
+          "evidence_segment_indices": [
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            320,
+            321,
+            322,
+            392,
+            393,
+            397,
+            398,
+            402,
+            403
+          ],
+          "start_seconds": 503.039,
+          "end_seconds": 738.079
+        },
+        {
+          "point": "Kulinski says he would interview the politician and asks questions about terrorism, alleged Muslim Brotherhood ties, and Israel’s political character.",
+          "evidence_segment_indices": [
+            205,
+            206,
+            208,
+            210,
+            212,
+            213,
+            214,
+            232,
+            233,
+            234,
+            235,
+            240,
+            241
+          ],
+          "start_seconds": 369.36,
+          "end_seconds": 424.319
+        },
+        {
+          "point": "The episode ends with Kulinski condemning Shapiro and promoting the channel’s videos and subscriptions.",
+          "evidence_segment_indices": [
+            472,
+            473,
+            480,
+            483,
+            484,
+            488,
+            489,
+            490,
+            491,
+            492
+          ],
+          "start_seconds": 877.04,
+          "end_seconds": 925.76
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "85ed5ece66aad3ceffe02091c62ca2c425a68281c273c5e5f963ead319a016d1",
+      "transcript_captured_at": "2026-11-26T23:33:15.684308Z",
+      "summary_generated_at": "2026-11-26T23:38:27.985958Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is automatic captioning with profanity redactions, malformed names, duplicated passages, and apparent transcription errors.",
+        "Several names and phrases are unclear or inconsistent in the captions, including the politician’s name and references to programs or incidents.",
+        "The source is a commentary episode containing competing assertions; it does not provide documents, links, or independent corroboration.",
+        "Legal, numerical, casualty, historical, and attribution claims in the discussion require verification outside this excerpt.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5014,477 +5388,6 @@
         "Automatic captions contain apparent name errors, including variants of Hakeem Jeffries and AIPAC, plus profanity redactions and transcription defects.",
         "The episode presents allegations about funding networks, private meetings, and political motives without documentary support in the provided segments.",
         "The overview reflects one commentator’s framing and interview excerpts; it does not independently verify the underlying political or military claims.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "MBGnMzfDzUM",
-      "title": "Fox Host Says Medicare For All Will Lead To The 3rd Reich | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=MBGnMzfDzUM",
-      "published_at": "2026-11-24T23:35:25.000000Z",
-      "summary": "The creator argues that Medicare for All has become more prominent after Abdul El-Sayed proposed branding it as “TrumpCare for All” and President Trump expressed interest. He presents this as an example of emphasizing left-wing policies to force conservative opponents to defend unpopular positions. The episode then critiques Fox commentary warning that expanding Medicare would cause severe debt, reduce innovation and quality, shorten lives, or lead to authoritarian outcomes associated with the Third Reich. The creator counters that universal healthcare systems generally perform better, that private insurers add unnecessary costs, and that public financing could improve access and living standards. He also disputes claims about healthcare in Canada and England, defends physician-assisted dying for terminally ill patients, and argues that criticism of Obamacare overlooks its market-based design. The discussion is highly partisan and relies on excerpts, sarcasm, and unsupported assertions; this overview reflects the episode’s arguments rather than independently confirming them.",
-      "topics": [
-        "Medicare for All",
-        "Universal healthcare",
-        "Healthcare policy debate",
-        "Political rhetoric"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The Commonwealth Fund ranks the United States last among the wealthy countries it compares for healthcare performance.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            147,
-            148,
-            149,
-            150,
-            151
-          ]
-        },
-        {
-          "claim": "Countries with universal healthcare have longer average lifespans than the United States.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            273,
-            274,
-            275,
-            276,
-            277,
-            278
-          ]
-        },
-        {
-          "claim": "Medical bills are the leading cause of bankruptcy in the United States.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            312,
-            313,
-            314,
-            315,
-            316,
-            317
-          ]
-        },
-        {
-          "claim": "The government funds all research and development for new drugs.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            263,
-            264,
-            265,
-            266,
-            267,
-            268,
-            269
-          ]
-        },
-        {
-          "claim": "Canada’s physician-assisted-dying policy is limited to people with terminal illnesses.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            340,
-            341,
-            342,
-            343,
-            344,
-            345
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator praises Abdul El-Sayed’s proposal to rebrand Medicare for All as “TrumpCare for All” and says it helped center the issue politically.",
-          "evidence_segment_indices": [
-            8,
-            9,
-            10,
-            11,
-            12,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38
-          ],
-          "start_seconds": 15.519,
-          "end_seconds": 84.4
-        },
-        {
-          "point": "A Fox commentator argues that expanding Medicare would create enormous costs, undermine innovation, and harm healthcare quality.",
-          "evidence_segment_indices": [
-            236,
-            237,
-            238,
-            239,
-            240,
-            241,
-            242,
-            243,
-            244,
-            245,
-            246,
-            247,
-            255,
-            256,
-            257,
-            258,
-            259,
-            260,
-            261,
-            262,
-            263,
-            264,
-            265,
-            266
-          ],
-          "start_seconds": 501.36,
-          "end_seconds": 555.04
-        },
-        {
-          "point": "The creator rejects the comparison between universal healthcare and the Third Reich as exaggerated political rhetoric.",
-          "evidence_segment_indices": [
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            133
-          ],
-          "start_seconds": 218.0,
-          "end_seconds": 283.44
-        },
-        {
-          "point": "The episode advocates publicly funded universal healthcare and criticizes profit-driven insurance for rewarding denials of care.",
-          "evidence_segment_indices": [
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            248,
-            249,
-            250,
-            251,
-            252,
-            253,
-            254,
-            389,
-            390,
-            391,
-            392,
-            393,
-            394
-          ],
-          "start_seconds": 463.599,
-          "end_seconds": 788.959
-        },
-        {
-          "point": "The creator closes by arguing that left-wing policy proposals expose conservative opposition and should remain central to political messaging.",
-          "evidence_segment_indices": [
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            433,
-            434,
-            435,
-            436,
-            437,
-            438,
-            439,
-            440,
-            441,
-            442
-          ],
-          "start_seconds": 90.0,
-          "end_seconds": 880.24
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "7d5b8a0793638136f4e708522a7fa9cfe41a5a27b8d33da7c0cdcab9d5486912",
-      "transcript_captured_at": "2026-11-25T00:33:28.146891Z",
-      "summary_generated_at": "2026-11-25T00:39:04.907389Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains automatic-caption errors, profanity redactions, speaker-label ambiguity, and names that may be misspelled.",
-        "The source presents advocacy and commentary alongside quoted clips; attribution is sometimes unclear in fragmented excerpts.",
-        "Claims about healthcare rankings, costs, outcomes, foreign systems, wars, and public figures are source-only and require independent verification.",
-        "The episode’s broader political and historical allegations are not substantiated within the supplied transcript.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "4yfKNYSOJ3I",
-      "title": "‘CODE RED’ — Trump Family in CHAOS as Congress TURN on White House, MAJOR Updates!!",
-      "url": "https://www.youtube.com/watch?v=4yfKNYSOJ3I",
-      "published_at": "2026-11-24T23:30:21.000000Z",
-      "summary": "Aaron Parnas presents a report alleging that Donald Trump Jr.’s investment role, several government controversies, and disputes inside Congress reflect mounting pressure on the Trump administration. He says 1789 Capital grew substantially after Trump’s 2024 election victory and links some investments to companies that later received government commitments, regulatory decisions, or other favorable developments, while noting that Congress is seeking explanations. Parnas also reports an alleged breach involving an intelligence-related system, an Army plan to detonate lead-containing explosives in Iowa amid complaints about notice and communication, and a disputed account of detained children witnessing a holiday meal. The episode then features Senator Chris Van Hollen discussing his campaign to become Senate Democratic leader. Van Hollen describes priorities including oversight, minimum-wage and tax changes, AI safeguards, filibuster reform, and opposition to nominees he considers unqualified. He predicts momentum for his candidacy and advocates hearings and possible future accountability, but the excerpt does not independently establish the reported allegations or broader conclusions.",
-      "topics": [
-        "Trump family finances",
-        "Government cybersecurity",
-        "Iowa lead detonation",
-        "Senate leadership contest",
-        "AI and congressional oversight"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Parnas reports that 1789 Capital grew from about $150 million to $3 billion and that investments were followed by favorable government or market developments involving several companies.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47
-          ]
-        },
-        {
-          "claim": "Parnas reports that systems associated with the CIA and the Office of the Director of National Intelligence were breached, exposing some unclassified information.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            57,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66
-          ]
-        },
-        {
-          "claim": "Parnas reports that the Army planned a lead-containing detonation in Iowa, with evacuation and shelter guidance, while residents and officials disputed the adequacy and timing of communication.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            72,
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95
-          ]
-        },
-        {
-          "claim": "Parnas recounts an account that children at a Texas immigration detention center watched employees receive a Thanksgiving meal that detainees did not receive.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode connects allegations concerning Trump Jr.’s investment firm to congressional scrutiny of possible conflicts or enrichment.",
-          "evidence_segment_indices": [
-            23,
-            24,
-            28,
-            29,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55
-          ],
-          "start_seconds": 55.6,
-          "end_seconds": 137.12
-        },
-        {
-          "point": "Reported national-security and public-safety topics include an intelligence-system breach and a planned Iowa detonation.",
-          "evidence_segment_indices": [
-            56,
-            57,
-            58,
-            59,
-            60,
-            72,
-            73,
-            74,
-            75,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112
-          ],
-          "start_seconds": 134.0,
-          "end_seconds": 263.68
-        },
-        {
-          "point": "Van Hollen says his leadership agenda would emphasize oversight, economic measures, AI safeguards, and changing Senate procedures.",
-          "evidence_segment_indices": [
-            219,
-            220,
-            222,
-            228,
-            233,
-            239,
-            245,
-            260,
-            272,
-            279,
-            298,
-            301,
-            355,
-            364,
-            367,
-            368,
-            370
-          ],
-          "start_seconds": 496.08,
-          "end_seconds": 850.48
-        },
-        {
-          "point": "Van Hollen says Democratic senators should investigate alleged wrongdoing and preserve records for potential future accountability.",
-          "evidence_segment_indices": [
-            401,
-            409,
-            410,
-            413,
-            414,
-            415,
-            416,
-            417,
-            423,
-            424,
-            425,
-            427,
-            435,
-            437,
-            441
-          ],
-          "start_seconds": 917.199,
-          "end_seconds": 1012.079
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "68c794e35dd783a4310f4ed5ba7ec255c7bc807b2b530e8f1b55dd837a6c24fa",
-      "transcript_captured_at": "2026-11-25T01:33:19.909648Z",
-      "summary_generated_at": "2026-11-25T01:38:29.812364Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is a creator’s presentation and interview excerpt rather than independently verified reporting.",
-        "Several captions contain transcription defects, including names, places, company names, and legal or technical terms.",
-        "The excerpt gives limited sourcing for the reported investigations, breach, detonation, detention-center account, and investment outcomes.",
-        "Van Hollen’s statements describe opinions, proposals, allegations, and predictions, not established findings.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
