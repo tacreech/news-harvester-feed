@@ -1,11 +1,434 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T19:42:00.612005Z",
+  "generated_at": "2026-11-26T20:12:00.611812Z",
   "reporting_window": {
-    "start": "2026-11-19T19:42:00.612005Z",
-    "end": "2026-11-26T19:42:00.612005Z"
+    "start": "2026-11-19T20:12:00.611812Z",
+    "end": "2026-11-26T20:12:00.611812Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "cTjhAZipN78",
+      "title": "Joe Rogan PANICS As Sam Harris COOKS HIM Over & Over | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=cTjhAZipN78",
+      "published_at": "2026-11-26T19:00:38.000000Z",
+      "summary": "The creator reviews Sam Harris’s criticism of Joe Rogan’s interviews, focusing on Rogan’s handling of Donald Trump and other controversial guests. Harris argues that large podcasts can give alleged liars and conspiracy-minded figures extensive unchallenged exposure; the creator agrees that Rogan often fails to press guests, while saying Harris’s own positions undermine his credibility. The discussion contrasts independent media with established institutions, arguing that both can be unreliable because of political, financial, and audience incentives. The creator also says Rogan’s skepticism about institutions and pharmaceutical companies has shifted into broader cynicism toward modern medicine. A recurring theme is responsibility: if Rogan addresses major political, historical, or medical issues, the speakers argue that he should apply the same fact-checking standards he uses in subjects he knows well. The episode is primarily commentary and opinion, and its allegations about interviews, endorsements, audience trends, and public figures are presented without supporting documentation in the transcript.",
+      "topics": [
+        "Joe Rogan interviews",
+        "Sam Harris criticism",
+        "Independent media",
+        "Misinformation and accountability"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The creator says Rogan endorsed Trump after interviewing him and later attended Trump’s inauguration.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102
+          ]
+        },
+        {
+          "claim": "The creator claims Rogan’s podcast has become less popular every month.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            609,
+            610,
+            611,
+            612,
+            613
+          ]
+        },
+        {
+          "claim": "The speakers allege that Rogan’s interviews gave false or misleading claims extensive exposure without adequate challenge.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            286,
+            287,
+            288,
+            289,
+            290
+          ]
+        },
+        {
+          "claim": "The creator alleges that Harris denies or dismisses claims concerning genocide in Gaza.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            605,
+            606,
+            607
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Harris criticizes podcasts for providing long, insufficiently challenged platforms to controversial guests.",
+          "evidence_segment_indices": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "start_seconds": 22.4,
+          "end_seconds": 51.12
+        },
+        {
+          "point": "The creator agrees with much of the criticism of Rogan but argues that Harris’s own record makes the criticism seem hypocritical.",
+          "evidence_segment_indices": [
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186
+          ],
+          "start_seconds": 341.12,
+          "end_seconds": 392.319
+        },
+        {
+          "point": "The episode argues that independent media is not automatically more reliable than mainstream institutions.",
+          "evidence_segment_indices": [
+            472,
+            473,
+            474,
+            475,
+            476,
+            477,
+            478,
+            479,
+            480,
+            481,
+            482,
+            483,
+            484,
+            485,
+            486,
+            500,
+            501,
+            502,
+            503,
+            504,
+            505,
+            506,
+            507,
+            508
+          ],
+          "start_seconds": 936.16,
+          "end_seconds": 1007.68
+        },
+        {
+          "point": "The speakers say Rogan should use stronger fact-checking and qualification when discussing consequential topics.",
+          "evidence_segment_indices": [
+            395,
+            396,
+            397,
+            398,
+            399,
+            400,
+            401,
+            402,
+            403,
+            404,
+            405,
+            406,
+            407,
+            408,
+            409,
+            410,
+            418,
+            419,
+            420,
+            421,
+            422,
+            423,
+            439,
+            440
+          ],
+          "start_seconds": 793.44,
+          "end_seconds": 883.199
+        },
+        {
+          "point": "The creator frames Rogan’s skepticism as having shifted toward cynicism about medicine and expertise.",
+          "evidence_segment_indices": [
+            543,
+            544,
+            545,
+            546,
+            547,
+            548,
+            549,
+            550,
+            551,
+            552,
+            553,
+            554,
+            555,
+            556,
+            557,
+            558,
+            559,
+            560,
+            561,
+            562,
+            563,
+            564,
+            565,
+            566
+          ],
+          "start_seconds": 1078.08,
+          "end_seconds": 1135.919
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "f65f523b1821553f36267c7976be7c3cc5f1823ac58f0a56591a589fec299ce5",
+      "transcript_captured_at": "2026-11-26T20:03:23.105676Z",
+      "summary_generated_at": "2026-11-26T20:08:45.577410Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is auto-generated and contains profanity redactions, word substitutions, and apparent transcription errors.",
+        "The excerpt does not provide links, recordings, dates, or corroborating documents for the cited interviews and public claims.",
+        "Several statements are evaluative or speculative commentary rather than independently testable descriptions.",
+        "The source covers the creator’s and Harris’s expressed views, not a complete account of the underlying events.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "zv1HtPtCQOI",
+      "title": "HAKEEM RATF*CKED DEMOCRATS AGAIN | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=zv1HtPtCQOI",
+      "published_at": "2026-11-26T18:30:05.000000Z",
+      "summary": "Kyle Kulinski argues that Democratic leadership, particularly Hakeem Jeffries, is abandoning progressive voters by prioritizing donors, lobbyists, and industry interests. He points to Jeffries’s reported meeting with Jared Kushner, committee assignments involving Israel policy, and an alleged reversal on Medicare for All as evidence of this pattern. Kulinski also criticizes the selection of Frank Pallone and Richard Neal for healthcare-related leadership, contending that their records and industry ties make universal coverage less likely. The episode includes a clip in which Jeffries advocates lowering Medicare’s eligibility age, expanding benefits, covering children, and moving toward universal coverage; Kulinski presents this as rhetorical moderation rather than a firm commitment to Medicare for All. He further alleges that Neal obstructed surprise-billing legislation and favors corporate interests. The broader argument is that Democrats are deliberately setting limited goals so they can later claim failure was unavoidable. These are the creator’s interpretations and allegations; the supplied transcript provides no independent documentation or responses from the people criticized.",
+      "topics": [
+        "Democratic leadership",
+        "Healthcare policy",
+        "Campaign finance",
+        "Israel and Iran policy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Hakeem Jeffries met with Jared Kushner and subsequently made the committee and policy decisions described by Kulinski.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            4,
+            5,
+            6,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim": "Frank Pallone and Richard Neal do not support Medicare for All and were selected to lead the cited healthcare committees.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            62,
+            63,
+            64,
+            65,
+            67,
+            68,
+            69,
+            70
+          ]
+        },
+        {
+          "claim": "Richard Neal tried to block surprise medical billing legislation and has received substantial corporate-linked campaign support.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            148,
+            149,
+            150,
+            152,
+            153,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163
+          ]
+        },
+        {
+          "claim": "Jeffries has reversed his position on Medicare for All after becoming a Democratic leader.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames Jeffries as betraying Democratic voters in favor of donors and lobbyists.",
+          "evidence_segment_indices": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            241,
+            242,
+            243
+          ],
+          "start_seconds": 73.439,
+          "end_seconds": 521.2
+        },
+        {
+          "point": "Jeffries’s quoted healthcare agenda includes broader Medicare eligibility, added benefits, and coverage for children.",
+          "evidence_segment_indices": [
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103
+          ],
+          "start_seconds": 186.56,
+          "end_seconds": 218.879
+        },
+        {
+          "point": "Kulinski argues that committee choices could constrain ambitious healthcare and foreign-policy goals.",
+          "evidence_segment_indices": [
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            203,
+            204,
+            205
+          ],
+          "start_seconds": 278.32,
+          "end_seconds": 440.4
+        },
+        {
+          "point": "The episode predicts Democrats will disappoint supporters by pursuing incremental measures.",
+          "evidence_segment_indices": [
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            223,
+            224,
+            225,
+            226
+          ],
+          "start_seconds": 155.519,
+          "end_seconds": 486.08
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "21f5fff7b5e41c083739f41c822eeabce1f9286e5748810c83b8af575d557997",
+      "transcript_captured_at": "2026-11-26T20:03:15.734164Z",
+      "summary_generated_at": "2026-11-26T20:08:23.297402Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a single creator’s commentary and embedded clip, without independent corroboration or responses from the people discussed.",
+        "Several names, terms, and political references appear captioned ambiguously or with transcription errors.",
+        "The transcript does not establish the dates, formal outcomes, or full context of the cited meetings, committee assignments, legislation, or polling claim.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4835,450 +5258,6 @@
         "Several captions contain transcription errors, profanity placeholders, incomplete sentences, and ambiguous names or references.",
         "The source does not provide supporting documents, polling methodology, legal findings, or independent reporting for consequential claims.",
         "Some statements about policy effects and military events are presented rhetorically rather than with precise definitions or evidence.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "XdpJTbTpuek",
-      "title": "Americans REVOLT Over DATA CENTER FROM HELL (It’s Worse Than You Think) | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=XdpJTbTpuek",
-      "published_at": "2026-11-24T21:05:33.000000Z",
-      "summary": "Kyle Kulinski argues that data-center development has become a politically consequential local issue, focusing on reported impacts around an xAI-related project in Southaven, Mississippi. He presents descriptions of persistent low-frequency noise, construction activity, bright nighttime lighting, traffic, and concerns about water use, energy costs, emissions, and possible job displacement. Residents interviewed in the episode describe sleep disruption, ear ringing, migraines, nausea, and feeling unable to sell or comfortably inhabit their properties; one resident cites a professional noise analysis, though the underlying report is not provided. The segment also discusses a class-action lawsuit alleging public nuisance, emotional distress, and negligence, while noting that xAI did not respond to a request for comment. Kulinski links community frustration to reported electoral shifts and contends that Democrats should support stronger data-center limits, including a moratorium and tighter AI regulation. The episode combines commentary, quoted reporting, and resident testimony; it does not independently establish the alleged health, environmental, economic, or electoral effects.",
-      "topics": [
-        "Data-center impacts",
-        "Community opposition",
-        "Mississippi elections",
-        "AI regulation"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Residents’ reported health problems, including migraines, nausea, breathing issues, and sleep disruption, were caused by data-center noise or emissions.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            53,
-            57,
-            58,
-            59,
-            169,
-            170,
-            171,
-            172,
-            173,
-            193,
-            194,
-            195,
-            196,
-            199,
-            200,
-            201,
-            202,
-            203,
-            204,
-            205,
-            206,
-            207
-          ]
-        },
-        {
-          "claim": "The xAI-related plant is the subject of a class-action lawsuit alleging public nuisance, emotional distress, and negligence.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            163,
-            164,
-            165,
-            166,
-            167,
-            168
-          ]
-        },
-        {
-          "claim": "The cited Mississippi counties shifted from supporting Trump to supporting Democratic candidates partly because of data-center impacts.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            107,
-            108,
-            109,
-            110,
-            111,
-            112,
-            113,
-            114
-          ]
-        },
-        {
-          "claim": "The project has increased local energy costs, affected water supplies, or reduced nearby property values.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            16,
-            17,
-            18,
-            19,
-            20,
-            160,
-            161,
-            184,
-            185,
-            186,
-            187,
-            346,
-            347,
-            348,
-            376,
-            377,
-            378,
-            379
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode centers on residents’ accounts of continuous noise, lighting, construction, and traffic near an xAI-associated project.",
-          "evidence_segment_indices": [
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            48,
-            49,
-            50,
-            64,
-            65,
-            66,
-            67
-          ],
-          "start_seconds": 59.199,
-          "end_seconds": 138.48
-        },
-        {
-          "point": "Residents and interviewers describe the project as disruptive, while local officials cite possible jobs and economic benefits.",
-          "evidence_segment_indices": [
-            66,
-            67,
-            68,
-            69,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            88,
-            89
-          ],
-          "start_seconds": 133.68,
-          "end_seconds": 173.04
-        },
-        {
-          "point": "The program frames community opposition as crossing partisan lines and influencing voting decisions.",
-          "evidence_segment_indices": [
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224,
-            225,
-            324,
-            325,
-            326,
-            327,
-            328,
-            329,
-            330,
-            331,
-            332,
-            333,
-            334,
-            335
-          ],
-          "start_seconds": 398.479,
-          "end_seconds": 618.16
-        },
-        {
-          "point": "Kulinski advocates a data-center moratorium and stronger restrictions on certain AI systems.",
-          "evidence_segment_indices": [
-            385,
-            386,
-            387,
-            388,
-            389,
-            390,
-            391,
-            392,
-            393,
-            394,
-            395,
-            396,
-            397,
-            398,
-            408,
-            409,
-            410,
-            411,
-            412,
-            413,
-            414,
-            415,
-            416,
-            417
-          ],
-          "start_seconds": 715.76,
-          "end_seconds": 787.36
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "f4f2524c9cba627075403b2c946f037903732ebbffba6d4ff1375319690cae4f",
-      "transcript_captured_at": "2026-11-24T22:33:20.617761Z",
-      "summary_generated_at": "2026-11-24T22:38:49.115875Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is an excerpted transcript with caption errors, omissions, music markers, and occasional unclear names or wording.",
-        "Several environmental, health, property-value, and electoral assertions are presented as testimony or commentary rather than independently verified findings.",
-        "The cited professional noise analysis, lawsuit filings, election data, and company response are not included in the supplied material.",
-        "Coverage is limited to the episode’s framing and selected interviews; opposing evidence and broader local context are absent.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "vZ0YCMhPjro",
-      "title": "🚨’BREACHED’ — America’s Intelligence Agencies HACKED, this is URGENT!!",
-      "url": "https://www.youtube.com/watch?v=vZ0YCMhPjro",
-      "published_at": "2026-11-24T20:40:30.000000Z",
-      "summary": "The creator presents an urgent account of alleged cybersecurity breaches involving U.S. intelligence and other government systems, while emphasizing that the available material does not identify the perpetrator or establish what information was taken. He says the reported intrusion affected an unclassified open-source intelligence system and argues that commercially obtained data could still be sensitive when combined. The episode also links the intelligence incident to alleged disruptions involving the FBI, Agriculture Department, NSA, airlines, and technology companies, although it acknowledges these events may be unrelated. A quoted official advises preparing for possible interruptions during system upgrades and characterizes Americans as resilient. The episode then shifts to an interview with former Alabama senator Doug Jones, who attributes his recent close election loss partly to straight-ticket voting and insufficient Democratic investment. Jones advocates sustained grassroots organizing and attention to Southern states, and predicts that long-term regional engagement could improve Democratic prospects in future elections. The segment ends with discussion of possible 2028 leadership and governing priorities.",
-      "topics": [
-        "Cybersecurity and intelligence systems",
-        "Government outages and preparedness",
-        "Alabama election analysis",
-        "Democratic strategy in the South",
-        "2028 political prospects"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The CIA and ODNI experienced a cybersecurity breach involving an open-source intelligence system and unclassified information.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            4,
-            5,
-            23,
-            25,
-            26,
-            27,
-            28
-          ]
-        },
-        {
-          "claim": "Recent incidents affected the FBI crime database, the Agriculture Department, the NSA classified network, airlines, and major technology companies.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            53,
-            54,
-            64,
-            65,
-            66
-          ]
-        },
-        {
-          "claim": "Classified material was not compromised, while information at other government agencies may have been exposed.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            44,
-            45,
-            46,
-            47,
-            48
-          ]
-        },
-        {
-          "claim": "Doug Jones says his Alabama election loss reflected roughly 90,000 to 100,000 more Republican straight-ticket votes and a lack of major Democratic investment.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            153,
-            154,
-            158,
-            159,
-            160,
-            175,
-            185,
-            186,
-            187,
-            188
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator reports an alleged intelligence-system breach but says the responsible party and scope of any data loss remain unknown.",
-          "evidence_segment_indices": [
-            25,
-            26,
-            27,
-            28,
-            49,
-            50,
-            51
-          ],
-          "start_seconds": 50.64,
-          "end_seconds": 107.68
-        },
-        {
-          "point": "The episode raises the possibility that several recent outages are connected, while acknowledging they could be coincidences.",
-          "evidence_segment_indices": [
-            116,
-            117,
-            118,
-            119,
-            120,
-            121,
-            122
-          ],
-          "start_seconds": 239.76,
-          "end_seconds": 257.84
-        },
-        {
-          "point": "A quoted official says systems may be interrupted during upgrades and recommends preparing for possible longer outages.",
-          "evidence_segment_indices": [
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            108,
-            109,
-            110,
-            112,
-            113,
-            114
-          ],
-          "start_seconds": 145.68,
-          "end_seconds": 239.76
-        },
-        {
-          "point": "Doug Jones argues that sustained grassroots engagement and investment in Southern states are necessary for future Democratic gains.",
-          "evidence_segment_indices": [
-            226,
-            227,
-            228,
-            229,
-            230,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251,
-            252,
-            253,
-            254,
-            255,
-            256,
-            257,
-            261,
-            262,
-            263,
-            264,
-            265,
-            266
-          ],
-          "start_seconds": 474.879,
-          "end_seconds": 570.0
-        },
-        {
-          "point": "Jones predicts that candidates who build durable support in the South could demonstrate broader governing appeal.",
-          "evidence_segment_indices": [
-            347,
-            348,
-            349,
-            350,
-            359,
-            360,
-            367,
-            368,
-            369,
-            370,
-            371,
-            372,
-            373,
-            374,
-            380,
-            381,
-            382,
-            383,
-            384,
-            385
-          ],
-          "start_seconds": 743.92,
-          "end_seconds": 836.48
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "315254e22cbf255ab1ba99fb4d41ed0d5922344fa8ed2e46342d6b0ad83c8346",
-      "transcript_captured_at": "2026-11-24T21:33:12.780859Z",
-      "summary_generated_at": "2026-11-24T21:38:27.504770Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview relies only on the supplied transcript and does not independently confirm any reported breach, outage, election result, polling figure, or political prediction.",
-        "The transcript attributes several cybersecurity claims to the New York Times or unnamed sources but provides no underlying reports or documentation.",
-        "Some captions contain transcription errors, repetitions, speaker changes, and incomplete phrases, especially in the quoted interview.",
-        "The episode combines a cybersecurity discussion with a separate political interview, so the relationship between the topics is editorial rather than established by the transcript.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
