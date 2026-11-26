@@ -1,11 +1,821 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T22:12:00.620652Z",
+  "generated_at": "2026-11-26T00:12:00.627370Z",
   "reporting_window": {
-    "start": "2026-11-18T22:12:00.620652Z",
-    "end": "2026-11-25T22:12:00.620652Z"
+    "start": "2026-11-19T00:12:00.627370Z",
+    "end": "2026-11-26T00:12:00.627370Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "gZ9RnHSEXSg",
+      "title": "Corporate Dems PANIC As DNC BANS DARK MONEY & SUPER PACS | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=gZ9RnHSEXSg",
+      "published_at": "2026-11-25T23:20:39.000000Z",
+      "summary": "Kyle Kulinski discusses the Democratic National Committee’s reported 2028 primary framework, focusing on a proposed campaign-finance pledge and a schedule of 12 debates. He presents the rules as an anti-corruption effort that would require candidates seeking primary-debate participation to reject dark-money organizations and super PAC spending, while noting that the pledge would not apply to the general election. Kulinski portrays reported objections from party officials, strategists, and advisers as concerns about political risk, debate volume, and candidates’ competitiveness. He argues that these criticisms reflect insider dependence on large donors, while acknowledging that self-funded candidates could gain an advantage and that other restrictions may be overly broad. The episode also offers an informal comparison of prospective candidates’ reported reliance on small donors, super PACs, or personal wealth, and predicts that grassroots candidates could benefit. The discussion is commentary-driven and relies on cited media reporting and the creator’s interpretation; several names, figures, and terms are difficult to resolve from the captions alone.",
+      "topics": [
+        "DNC primary rules",
+        "Campaign finance",
+        "Dark money and super PACs",
+        "2028 Democratic primary",
+        "Debate access"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The DNC’s reported 2028 primary framework includes up to 12 debates and campaign-finance requirements involving dark money and super PACs.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            10,
+            11,
+            12,
+            14,
+            102,
+            103,
+            136,
+            137,
+            138
+          ]
+        },
+        {
+          "claim": "NBC News reportedly interviewed more than a dozen party insiders who criticized aspects of the debate plan, including the number of debates and the finance pledge.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            261,
+            262,
+            263,
+            264
+          ]
+        },
+        {
+          "claim": "The proposed pledge would apply to Democratic primary debates but not bind the party’s nominee in the general election.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            137,
+            138,
+            139,
+            140,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149
+          ]
+        },
+        {
+          "claim": "The episode attributes specific fundraising percentages, totals, and outside-spending relationships to multiple possible 2028 Democratic candidates.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            389,
+            390,
+            391,
+            394,
+            397,
+            398,
+            400,
+            402,
+            413,
+            414,
+            415,
+            416,
+            417,
+            418,
+            431,
+            432,
+            433,
+            434,
+            440,
+            441,
+            442
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski supports the stated anti-corruption goal while acknowledging the rules are imperfect.",
+          "evidence_segment_indices": [
+            349,
+            350,
+            351,
+            352,
+            363,
+            364,
+            365,
+            410,
+            411,
+            412
+          ],
+          "start_seconds": 655.44,
+          "end_seconds": 786.32
+        },
+        {
+          "point": "He interprets insider criticism as evidence that some campaigns depend on large-donor or super-PAC support.",
+          "evidence_segment_indices": [
+            316,
+            323,
+            324,
+            326,
+            327,
+            328,
+            329,
+            330,
+            331,
+            332,
+            342,
+            343,
+            344
+          ],
+          "start_seconds": 586.88,
+          "end_seconds": 650.079
+        },
+        {
+          "point": "He argues that candidates with strong grassroots and small-dollar support could be advantaged.",
+          "evidence_segment_indices": [
+            448,
+            449,
+            450,
+            451,
+            455,
+            456,
+            457,
+            458
+          ],
+          "start_seconds": 856.399,
+          "end_seconds": 876.0
+        },
+        {
+          "point": "He disputes the argument that rejecting outside money would necessarily leave Democrats electorally unable to compete.",
+          "evidence_segment_indices": [
+            224,
+            225,
+            226,
+            227,
+            228,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            373,
+            374,
+            375,
+            376,
+            377,
+            378
+          ],
+          "start_seconds": 410.88,
+          "end_seconds": 715.2
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "56c03cf6907cae59da8b81012300bb00d2d4a5b887c314cdbf909a2b4e404ef4",
+      "transcript_captured_at": "2026-11-26T00:03:40.334541Z",
+      "summary_generated_at": "2026-11-26T00:09:30.294728Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview is based only on the supplied episode captions and does not independently verify the reported DNC rules or media coverage.",
+        "Automatic captions contain profanity redactions, transcription errors, unclear names, and occasional garbled phrases.",
+        "Several candidate fundraising figures and affiliations are presented conversationally and should be checked against primary records.",
+        "The creator’s interpretations and predictions are commentary, not established findings.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "P6O_txcVUEk",
+      "title": "SHOCK: DEA POISONED America With 1.4 Million F*ntanyl Pills | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=P6O_txcVUEk",
+      "published_at": "2026-11-25T22:50:12.000000Z",
+      "summary": "Kyle Kulinski argues that an Associated Press investigation raises serious questions about the DEA’s handling of counterfeit fentanyl pills. He says the report found agents monitored trafficking operations yet allowed at least 1.4 million pills to circulate between August 2024 and April 2025 while pursuing a major case. The episode contrasts this “permit to walk” strategy with the drug’s stated danger and notes that the reporting prompted congressional oversight and a criminal investigation in New Mexico. Kulinski presents the policy as hypocritical, especially alongside alleged military strikes against suspected drug boats, and speculates that officials may have been financially involved. He also criticizes prohibition and favors legalizing, taxing, and regulating some drugs while treating fentanyl as exceptionally dangerous. The source is primarily commentary built around a reported AP account; it does not independently establish why the DEA delayed seizures, whether anyone profited, or the episode’s broader allegations about government conduct.",
+      "topics": [
+        "DEA drug investigations",
+        "Fentanyl trafficking",
+        "Law enforcement policy",
+        "Drug prohibition",
+        "Government accountability"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The DEA permitted at least 1.4 million counterfeit fentanyl pills to be trafficked between August 2024 and April 2025.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79
+          ]
+        },
+        {
+          "claim": "The AP reporting prompted congressional oversight and a criminal investigation by New Mexico’s attorney general.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            186,
+            187,
+            188,
+            189
+          ]
+        },
+        {
+          "claim": "The DEA loosened fentanyl-seizure rules in 2024.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            171,
+            172,
+            173,
+            174,
+            175,
+            176
+          ]
+        },
+        {
+          "claim": "Military strikes against suspected drug boats killed people and were justified as an imminent drug threat.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230
+          ]
+        },
+        {
+          "claim": "Officials or institutions profited from allowing fentanyl trafficking, as Kulinski speculates.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames the episode around an AP report alleging that DEA agents watched trafficking operations while large quantities of pills moved through multiple states.",
+          "evidence_segment_indices": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "start_seconds": 78.64,
+          "end_seconds": 130.72
+        },
+        {
+          "point": "The discussion explains the investigative tactic of allowing drugs to move under surveillance to pursue larger targets, while emphasizing fentanyl’s exceptional danger.",
+          "evidence_segment_indices": [
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136
+          ],
+          "start_seconds": 254.239,
+          "end_seconds": 285.28
+        },
+        {
+          "point": "Kulinski argues that the reported policy conflicts with aggressive anti-drug rhetoric and alleged attacks on boats suspected of carrying drugs.",
+          "evidence_segment_indices": [
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233
+          ],
+          "start_seconds": 419.199,
+          "end_seconds": 469.36
+        },
+        {
+          "point": "He advocates a mixed drug policy, supporting regulation for some substances while describing fentanyl as exceptionally toxic and dangerous.",
+          "evidence_segment_indices": [
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258
+          ],
+          "start_seconds": 481.039,
+          "end_seconds": 516.959
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "003ddc9e384bfe8b295b64b4c99d0e49c2aa35248026e494e3e4170577cde56e",
+      "transcript_captured_at": "2026-11-26T00:03:32.247903Z",
+      "summary_generated_at": "2026-11-26T00:09:09.483115Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Caption transcription contains recurring spelling and wording defects, including variants of fentanyl and several unclear phrases.",
+        "The episode relies on a summarized AP account and commentary; the underlying records and official responses are not provided here.",
+        "Kulinski’s suggestions of corruption, profiteering, and high-level involvement are speculation rather than established findings in the source.",
+        "Some claims about military strikes, casualties, and specific individuals are presented unclearly or without supporting detail in the transcript.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "S9BeCoKaiUw",
+      "title": "Tucker Prepares Presidential Run (But There’s A Catch) | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=S9BeCoKaiUw",
+      "published_at": "2026-11-25T22:20:05.000000Z",
+      "summary": "Kyle Kulinski argues that reporting about Tucker Carlson potentially pursuing a third-party presidential bid is mainly a strategy to oppose Marco Rubio, rather than a serious path to winning. He says Carlson would not run if JD Vance became the Republican nominee and predicts Carlson could present Vance as an anti-establishment, anti-war figure despite Vance’s alleged support for military escalation. Kulinski further argues that Carlson’s interview comments about Peter Thiel and Palantir appear contradictory, interpreting them as evidence of concealed ties and broader coordination to preserve right-wing influence after Trump. He portrays Carlson and Vance as vehicles for billionaire-backed, pseudo-populist politics that could divert support from left-wing movements. The episode relies heavily on Kulinski’s commentary, excerpts from an interview, and references to reported or remembered claims. Several accusations—including alleged war conduct, financial relationships, and political coordination—are presented by the speaker but are not independently established in the supplied material.",
+      "topics": [
+        "Tucker Carlson’s potential third-party run",
+        "JD Vance and anti-war messaging",
+        "Peter Thiel, Palantir, and political ties",
+        "Right-wing populism and electoral strategy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A Washington Examiner report says Tucker Carlson may run on a third-party ticket if Marco Rubio wins the Republican nomination, but not if JD Vance does.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            3,
+            4,
+            5,
+            6,
+            96,
+            97,
+            98
+          ]
+        },
+        {
+          "claim": "Kulinski alleges that JD Vance supported an aggressive approach to the Iran war and promoted a nuclear-attack scenario as justification.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            33,
+            35,
+            36,
+            37,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49
+          ]
+        },
+        {
+          "claim": "Kulinski alleges that Tucker Carlson’s show was financed by 1789 Capital, founded by Peter Thiel, and interprets this as evidence of meaningful Thiel-related influence.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            386,
+            387,
+            388,
+            414,
+            415,
+            416,
+            417,
+            418,
+            419,
+            420,
+            421
+          ]
+        },
+        {
+          "claim": "Kulinski alleges that Carlson and Vance are being used to advance billionaire-backed, pseudo-populist politics and undermine left-wing movements.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            389,
+            390,
+            391,
+            392,
+            393,
+            394,
+            395,
+            396,
+            397,
+            398,
+            399,
+            400,
+            401,
+            402,
+            403,
+            404,
+            405
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames Carlson’s possible candidacy as an intentional spoiler effort aimed at weakening Rubio and helping Democrats.",
+          "evidence_segment_indices": [
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116
+          ],
+          "start_seconds": 209.76,
+          "end_seconds": 256.799
+        },
+        {
+          "point": "He rejects the idea that Vance represents genuine anti-establishment or anti-war politics.",
+          "evidence_segment_indices": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            52,
+            53,
+            60,
+            61,
+            62,
+            63,
+            64
+          ],
+          "start_seconds": 59.6,
+          "end_seconds": 142.48
+        },
+        {
+          "point": "He highlights apparent contradictions in Carlson’s statements about his relationship with Peter Thiel.",
+          "evidence_segment_indices": [
+            293,
+            294,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            315,
+            316,
+            317,
+            318,
+            319,
+            320,
+            321,
+            322,
+            323,
+            324
+          ],
+          "start_seconds": 577.12,
+          "end_seconds": 648.64
+        },
+        {
+          "point": "The episode closes with Kulinski’s broader argument that right-wing politics cannot be genuinely anti-establishment or anti-war.",
+          "evidence_segment_indices": [
+            426,
+            427,
+            428,
+            429,
+            430,
+            431,
+            432,
+            433,
+            434,
+            435,
+            436,
+            437,
+            438,
+            439,
+            440,
+            441,
+            442,
+            443,
+            444,
+            445
+          ],
+          "start_seconds": 839.839,
+          "end_seconds": 879.92
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "e6402d53d28590f98e023951d80eaa3a6a24eea3c5eb98faf89a27d9f6448821",
+      "transcript_captured_at": "2026-11-26T00:03:25.088390Z",
+      "summary_generated_at": "2026-11-26T00:08:48.206556Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The supplied transcript contains profanity, censoring gaps, apparent caption errors, and speaker-attribution ambiguity in the embedded interview.",
+        "The episode references external reporting and past articles but provides no documents or links beyond the quoted transcript.",
+        "Several allegations are explicitly framed as speculation, memory, or interpretation and require independent verification.",
+        "Names and terms are inconsistently transcribed, including references to Palantir and Peter Thiel.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "g0CPKqJvfEo",
+      "title": "Chuck Schumer COLLAPSES As Van Hollen SURGES In Leader Race!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=g0CPKqJvfEo",
+      "published_at": "2026-11-25T21:50:04.000000Z",
+      "summary": "The creator argues that Democratic leaders should replace Chuck Schumer with Chris Van Hollen, presenting the contest as a test of whether the party will follow its voters and adopt a more confrontational agenda. He criticizes House Democrats for supporting Hakeem Jeffries while acknowledging that some newer members opposed him and advanced demands. The episode cites an Economist/YouGov poll in which Democratic respondents preferred Van Hollen to Schumer, along with a letter from celebrities and donors urging a public, accountable leadership vote. It also discusses criticism from ADL chief Jonathan Greenblatt, who reportedly accused Van Hollen’s challenge of being centered on Israel; the creator rejects that framing and links the dispute to the Iran nuclear agreement and Israel policy. Finally, he attacks DSCC chair Kirsten Gillibrand’s stated path to a 60-seat Democratic Senate majority because she reportedly supports John Fetterman’s reelection. The presentation is strongly opinionated, uses inflammatory language, and relies on quoted claims and source references that are not independently established here.",
+      "topics": [
+        "Democratic Senate leadership contest",
+        "Chuck Schumer and Chris Van Hollen",
+        "Party strategy and voter preferences",
+        "Israel policy and political criticism",
+        "2028 Senate prospects"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "An Economist/YouGov poll reportedly showed Democratic respondents preferring Chris Van Hollen over Chuck Schumer by 40% to 19%, and 2024 Kamala Harris voters by 48% to 18%.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            65,
+            66,
+            67,
+            68,
+            69,
+            76,
+            77,
+            78
+          ]
+        },
+        {
+          "claim": "About 35 celebrities and Democratic donors reportedly signed a letter backing Van Hollen and said they had donated or helped raise about $23 million for Democratic congressional candidates.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ]
+        },
+        {
+          "claim": "Kirsten Gillibrand reportedly said the DSCC would support John Fetterman in a primary if he seeks another term.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            360,
+            361,
+            377,
+            378,
+            379,
+            380
+          ]
+        },
+        {
+          "claim": "Gillibrand reportedly described a possible Democratic path to a 60-seat Senate majority involving several Republican-held states.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            360,
+            361,
+            362,
+            363,
+            364,
+            365,
+            366
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator portrays Van Hollen as substantially more popular with Democratic voters than Schumer.",
+          "evidence_segment_indices": [
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83
+          ],
+          "start_seconds": 122.88,
+          "end_seconds": 178.08
+        },
+        {
+          "point": "The episode frames the leadership vote as a conflict over party accountability, policy priorities, and Israel-related debate.",
+          "evidence_segment_indices": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            200,
+            201,
+            202,
+            203,
+            204,
+            224,
+            225,
+            226,
+            227
+          ],
+          "start_seconds": 234.08,
+          "end_seconds": 461.36
+        },
+        {
+          "point": "The creator argues that supporting Fetterman undermines Democratic leaders’ stated goal of building a large Senate majority.",
+          "evidence_segment_indices": [
+            362,
+            363,
+            364,
+            365,
+            366,
+            367,
+            368,
+            369,
+            370,
+            371,
+            372,
+            373,
+            374,
+            377,
+            378,
+            379,
+            380,
+            381,
+            423,
+            424,
+            425,
+            426
+          ],
+          "start_seconds": 720.24,
+          "end_seconds": 854.56
+        },
+        {
+          "point": "The episode ends by urging viewers to contact Democratic senators in support of Van Hollen.",
+          "evidence_segment_indices": [
+            442,
+            443,
+            444,
+            445,
+            446,
+            447,
+            448,
+            449,
+            450,
+            451
+          ],
+          "start_seconds": 881.04,
+          "end_seconds": 902.639
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "ff0b09023f8dee151dcfccb8fc7fc686e5f7d754670926c0a4f0b7c66c1a7b10",
+      "transcript_captured_at": "2026-11-26T00:03:16.417381Z",
+      "summary_generated_at": "2026-11-26T00:08:26.603469Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains frequent recognition errors, including inconsistent renderings of names such as Van Hollen and Hakeem Jeffries.",
+        "Poll figures, donor totals, political statements, and historical assertions are presented through the episode’s narration and are not independently verified here.",
+        "The source is a single strongly opinionated commentary episode, so its framing and selection of evidence may not represent competing interpretations.",
+        "Some quoted or discussed statements are fragmented or difficult to attribute because the captions switch between speakers.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4454,900 +5264,6 @@
         "The transcript contains automatic-caption defects, profanity redactions, interruptions, and overlapping or fragmented speech.",
         "Several statements are presented as sarcasm, rhetoric, or allegations rather than documented evidence.",
         "The source is a single commentary episode and does not provide the underlying studies, data, clips, or cited policy records.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "OaXhXZ59SXU",
-      "title": "Joe Rogan Goes FULL ISLAMOPHOBE At Zohran & Abdul | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=OaXhXZ59SXU",
-      "published_at": "2026-11-23T23:50:24.000000Z",
-      "summary": "Kyle Kulinski argues that Joe Rogan’s political presentation is inconsistent: although Rogan sometimes criticizes Donald Trump, Kulinski says he continues to favor Republican arguments and has previously supported Trump. The episode centers on a Rogan discussion in which a guest says he is frightened by Muslim politicians Zohran Mamdani and Abdul El-Sayed while denying Islamophobia. Kulinski characterizes that concern as anti-Muslim fearmongering and challenges the implication that their religion determines their politics. He contrasts the guest’s claims about women’s and LGBTQ rights with examples he presents of Mamdani and El-Sayed supporting LGBTQ communities. Kulinski also argues that criticism of Islamic conservatism can coexist with support for Muslims and LGBTQ rights, and compares the discussion with religious extremism among some Christian and Jewish political actors. He connects the rhetoric to debates over Israel and Gaza, alleging that dehumanizing Muslims helps justify violence against Palestinians. The episode ends with Kulinski praising Mamdani and El-Sayed and dismissing Rogan’s show as ideologically unprincipled. The transcript contains profanity, misrecognitions, and unclear names.",
-      "topics": [
-        "Joe Rogan’s political positioning",
-        "Islamophobia and religious stereotyping",
-        "Mamdani and El-Sayed",
-        "LGBTQ rights",
-        "Israel-Gaza rhetoric"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Kulinski states that Trump and Republicans won the 2024 election by about 1.5 percentage points, while Democrats later won a midterm race by 13.5 points.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            22,
-            23,
-            24,
-            25,
-            26
-          ]
-        },
-        {
-          "claim": "Kulinski says Zohran Mamdani marched in an LGBTQ pride parade and that Abdul El-Sayed publicly supported LGBTQ communities.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            148,
-            149,
-            150,
-            151,
-            395,
-            396,
-            397,
-            398,
-            399,
-            400,
-            401,
-            402,
-            403
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that Israel is committing genocide and ethnic cleansing in Gaza and that dehumanizing Palestinians is used to justify violence.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            263,
-            264,
-            265,
-            266,
-            267,
-            268,
-            269,
-            270,
-            271,
-            272,
-            273,
-            274,
-            275,
-            276,
-            277,
-            278,
-            279,
-            280,
-            281,
-            282
-          ]
-        },
-        {
-          "claim": "Kulinski says the U.S. ambassador to Israel endorsed taking the entire Middle East for biblical reasons and attributes religious-extremist motives to some Israeli and Christian political actors.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            315,
-            316,
-            317,
-            318,
-            319,
-            320,
-            321,
-            322,
-            323,
-            324,
-            325,
-            326,
-            327,
-            328,
-            329,
-            330,
-            331,
-            332,
-            333,
-            334,
-            335,
-            336,
-            337
-          ]
-        },
-        {
-          "claim": "Kulinski says the Michigan Democratic Party LGBTQIA caucus described El-Sayed as an ally and champion for health equity.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            395,
-            396,
-            397,
-            398,
-            399,
-            400,
-            401,
-            402,
-            403
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski presents Rogan as shifting between criticism of and alignment with Trump and Republicans.",
-          "evidence_segment_indices": [
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51
-          ],
-          "start_seconds": 60.719,
-          "end_seconds": 112.24
-        },
-        {
-          "point": "The central dispute concerns whether fear of Muslim politicians is justified or reflects anti-Muslim stereotyping.",
-          "evidence_segment_indices": [
-            68,
-            69,
-            70,
-            71,
-            72,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134
-          ],
-          "start_seconds": 152.239,
-          "end_seconds": 279.759
-        },
-        {
-          "point": "Kulinski argues that support for Muslim Americans and LGBTQ rights is not inherently contradictory.",
-          "evidence_segment_indices": [
-            160,
-            161,
-            162,
-            163,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            171,
-            172,
-            173,
-            204,
-            205,
-            206,
-            207,
-            208,
-            209,
-            214,
-            215,
-            216,
-            217
-          ],
-          "start_seconds": 325.36,
-          "end_seconds": 454.24
-        },
-        {
-          "point": "He contrasts alleged focus on Muslim politicians with examples of conservative religious extremism and anti-LGBTQ positions.",
-          "evidence_segment_indices": [
-            306,
-            307,
-            308,
-            309,
-            310,
-            311,
-            312,
-            313,
-            314,
-            360,
-            361,
-            362,
-            363,
-            364,
-            365,
-            366,
-            367,
-            368,
-            369,
-            370,
-            371,
-            372,
-            373
-          ],
-          "start_seconds": 624.64,
-          "end_seconds": 754.56
-        },
-        {
-          "point": "Kulinski closes by praising Mamdani and El-Sayed and rejecting criticism of them on his show.",
-          "evidence_segment_indices": [
-            375,
-            376,
-            377,
-            378,
-            379,
-            380,
-            381,
-            382,
-            383,
-            384,
-            385,
-            389,
-            390,
-            391,
-            392,
-            393,
-            394,
-            457,
-            458,
-            460,
-            461,
-            462,
-            463,
-            464
-          ],
-          "start_seconds": 754.56,
-          "end_seconds": 939.6
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "df9827ba773e1612e146dbf504a2ebd1f4a1fa0d14248ebc5ee6fa1beabfdc92",
-      "transcript_captured_at": "2026-11-24T01:03:27.838581Z",
-      "summary_generated_at": "2026-11-24T01:09:17.869987Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is caption-derived and contains profanity redactions, transcription errors, overlapping segments, and several unclear or inconsistent names.",
-        "The source presents Kulinski’s commentary and excerpts from another discussion; it does not independently establish the factual claims made by either side.",
-        "Claims about elections, public records, Gaza, Israel, podcast rankings, and quoted political figures require independent verification.",
-        "The transcript’s speaker labels are incomplete, so attribution within the embedded exchange is sometimes uncertain.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "2mim0X2vvDw",
-      "title": "He's Back At Nvidia...",
-      "url": "https://www.youtube.com/watch?v=2mim0X2vvDw",
-      "published_at": "2026-11-23T23:37:48.000000Z",
-      "summary": "Mutahar argues that Nvidia reinstated CEO Jensen Huang after an alleged affair raised concerns about possible foreign-intelligence ties and GPU shipments to China. He presents Nvidia’s reported board statement as saying the decision followed government input and that Huang’s return posed no national-security risk, while also noting that an independent investigation remains underway. The episode frames the reinstatement as a business-driven choice: Mutahar says Huang’s leadership is closely tied to Nvidia’s strategy, market value, and dominance in AI hardware, and that the company’s stock fell after his removal before recovering when he returned. He questions whether Nvidia and government officials applied different standards because the company is economically and strategically important. The discussion also predicts that Huang’s return will not improve consumer GPU prices, as Nvidia may continue prioritizing cloud providers and hyperscalers. The supplied captions contain unclear names, transcription errors, and unsupported assertions, so the account should be treated as a creator’s commentary rather than independently established reporting.",
-      "topics": [
-        "Nvidia leadership",
-        "Alleged foreign-intelligence ties",
-        "AI hardware and export controls",
-        "Corporate governance",
-        "Consumer GPU pricing"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Nvidia reinstated Jensen Huang as president and chief executive after his removal.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            68,
-            69,
-            70,
-            94,
-            95,
-            96,
-            97
-          ]
-        },
-        {
-          "claim": "The board said it received input from senior U.S. government officials and concluded Huang’s reinstatement posed no national-security risk.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            118,
-            119,
-            120,
-            121,
-            122,
-            123
-          ]
-        },
-        {
-          "claim": "An independent board committee and outside counsel were investigating reports that Huang was targeted in a foreign-intelligence effort.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            269,
-            270,
-            271,
-            272,
-            273,
-            274,
-            275,
-            276,
-            277
-          ]
-        },
-        {
-          "claim": "Allegations linked Huang to a person or company involved in sending Nvidia GPUs to China.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            185,
-            186,
-            187,
-            188,
-            191,
-            192,
-            193,
-            194,
-            195,
-            196
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Mutahar centers the episode on Huang’s reported return to Nvidia’s leadership after a brief removal.",
-          "evidence_segment_indices": [
-            68,
-            69,
-            70,
-            94,
-            95,
-            96,
-            97
-          ],
-          "start_seconds": 160.16,
-          "end_seconds": 234.08
-        },
-        {
-          "point": "He distinguishes alleged personal misconduct from concerns about national security, export controls, and corporate decision-making.",
-          "evidence_segment_indices": [
-            27,
-            28,
-            29,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            217,
-            218,
-            219,
-            237,
-            238,
-            239,
-            240
-          ],
-          "start_seconds": 62.079,
-          "end_seconds": 558.64
-        },
-        {
-          "point": "He says Nvidia’s strategic importance and Huang’s perceived value may have influenced the board’s decision.",
-          "evidence_segment_indices": [
-            118,
-            119,
-            120,
-            121,
-            122,
-            123,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251
-          ],
-          "start_seconds": 277.84,
-          "end_seconds": 582.0
-        },
-        {
-          "point": "He predicts Nvidia will keep prioritizing AI infrastructure customers over ordinary gamers, leaving consumer GPU prices high.",
-          "evidence_segment_indices": [
-            379,
-            380,
-            381,
-            382,
-            385,
-            386,
-            387,
-            388,
-            389,
-            390,
-            391,
-            392,
-            393,
-            394
-          ],
-          "start_seconds": 854.72,
-          "end_seconds": 889.68
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "9f00bca50287385979283275a744e850d734fc3d11cd5584dedab571d6317115",
-      "transcript_captured_at": "2026-11-24T01:33:13.776952Z",
-      "summary_generated_at": "2026-11-24T01:38:24.908376Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The captions contain garbled words, inconsistent renderings of names, and missing profanity markers.",
-        "The source presents allegations, interpretations, and stock-market observations without independently supplied documentation.",
-        "The transcript does not establish the identities of alleged associates, the details of any investigation, or the accuracy of cited corporate and government statements.",
-        "Some market, market-share, export-control, and pricing claims are presented as commentary and require independent verification.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "f_jzpa2_5Sc",
-      "title": "BREAKING: ICE IN FREE FALL!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=f_jzpa2_5Sc",
-      "published_at": "2026-11-23T23:25:21.000000Z",
-      "summary": "Kyle Kulinski argues that recent ICE operations reflect systemic misconduct and inadequate oversight. He highlights a reported detention involving U.S. citizen Domingo Vasquez, described as cognitively impaired and recently recovering from brain surgery, then presents an account from Ernesto Martinez, who alleges that immigration agents injured him during detention and that he later became paralyzed. The episode also discusses footage of a father and daughter detained at a Seattle airport, with officials reportedly identifying the father as a Mexican national who overstayed a visa. Kulinski broadens these examples into claims that citizens, lawful residents, and people without criminal convictions are being targeted. He further alleges poor training, harsh detention conditions, missing detainee records, deaths in custody, and corruption in detention-facility contracts. The discussion includes a reported Princeton researcher’s detention and a claim about unusually high payments for an ICE detention site. The transcript primarily presents Kulinski’s commentary, embedded video narration, and individual allegations; it does not independently establish the broader accusations.",
-      "topics": [
-        "ICE enforcement and detention",
-        "Alleged mistreatment in custody",
-        "Immigration policy and oversight",
-        "Detention spending and contracting"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A masked ICE agent detained U.S. citizen Domingo Vasquez, who was cognitively impaired and had recently undergone brain surgery.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        {
-          "claim": "Ernesto Martinez alleges that immigration agents injured him during detention and that he was later left paralyzed.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            64,
-            66,
-            67,
-            68,
-            69,
-            70,
-            74,
-            75,
-            78,
-            80,
-            81,
-            84,
-            86,
-            91,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128
-          ]
-        },
-        {
-          "claim": "Homeland Security said a father detained at a Seattle airport was targeted for overstaying a visa, while another woman was arrested for obstructing the operation.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            175,
-            176,
-            177,
-            178,
-            183,
-            185,
-            186,
-            187,
-            197,
-            198,
-            199
-          ]
-        },
-        {
-          "claim": "More than 3,500 ICE recruits were allowed to complete training online, with some reportedly finishing in less than a day.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            295,
-            296,
-            297,
-            298,
-            299,
-            300,
-            301
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode opens with Kulinski characterizing ICE activity as a disaster and introducing several alleged incidents.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            9,
-            10
-          ],
-          "start_seconds": 0.16,
-          "end_seconds": 33.52
-        },
-        {
-          "point": "Embedded reporting and testimony describe alleged injuries, detention abuses, and disputed treatment of detainees.",
-          "evidence_segment_indices": [
-            64,
-            66,
-            67,
-            68,
-            78,
-            80,
-            86,
-            92,
-            93,
-            102,
-            105,
-            110,
-            121,
-            123,
-            126,
-            129,
-            130
-          ],
-          "start_seconds": 195.84,
-          "end_seconds": 303.44
-        },
-        {
-          "point": "Kulinski argues that enforcement reaches citizens, lawful residents, and people without criminal convictions, though the transcript does not substantiate the scale of that claim.",
-          "evidence_segment_indices": [
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            144,
-            145,
-            146,
-            153,
-            154
-          ],
-          "start_seconds": 157.84,
-          "end_seconds": 352.96
-        },
-        {
-          "point": "The episode links alleged detention abuses with claims about weak training, unclear detainee locations, and questionable spending.",
-          "evidence_segment_indices": [
-            243,
-            244,
-            245,
-            246,
-            247,
-            248,
-            296,
-            297,
-            298,
-            419,
-            420,
-            421,
-            422,
-            423,
-            424,
-            425
-          ],
-          "start_seconds": 555.68,
-          "end_seconds": 942.16
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "5331280b700dd9b1a6b6be00962cdfd502ad20a81201ae9059028c171cf8d995",
-      "transcript_captured_at": "2026-11-24T01:03:20.798440Z",
-      "summary_generated_at": "2026-11-24T01:08:50.785559Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is an automatically transcribed commentary episode with overlapping, incomplete, and occasionally garbled captions.",
-        "Several allegations are presented through quoted testimony or news narration, while ICE responses are generally absent or described as pending.",
-        "The transcript contains strong political language and speculation that should not be treated as independently verified evidence.",
-        "This overview covers only the supplied transcript and does not establish the accuracy, scope, or current status of the reported events.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "1bszuxwgrcI",
-      "title": "US Army To Detonate DIRTY BOMB In Iowa (& Poison Americans) | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=1bszuxwgrcI",
-      "published_at": "2026-11-23T22:40:20.000000Z",
-      "summary": "Kyle Kulinski argues that media coverage of an alleged Iranian “dirty bomb” threat distracts from a reported U.S. Army plan to detonate lead azide in Iowa. He presents the Iowa operation as an example of government and military institutions minimizing environmental safeguards and public notification. A local news report included in the episode says environmental groups challenged an EPA permit, a judge issued an administrative stay, and EPA officials argued that the Army might not need a permit under an emergency-related exception. The report also says the detonation schedule was uncertain. Kulinski highlights claims that cold temperatures could make the material unstable and that the Army intended to proceed quickly, while questioning whether safer alternatives were available. He broadens the discussion to alleged military and corporate environmental damage, citing Vieques and data-center pollution as examples. The episode is strongly opinionated and uses sarcasm, commentary, and third-party claims; the supplied transcript does not independently establish the legal, technical, health, or scheduling assertions.",
-      "topics": [
-        "Iowa lead azide detonation",
-        "Environmental regulation",
-        "Military accountability",
-        "Public notification",
-        "Media framing"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The Army planned to detonate lead azide in Iowa, with timing affected by court proceedings and changing schedules.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            52,
-            53,
-            90,
-            93,
-            94,
-            106,
-            107,
-            185,
-            186,
-            188,
-            191,
-            192,
-            197,
-            198,
-            201,
-            202,
-            271,
-            272,
-            273
-          ]
-        },
-        {
-          "claim": "EPA officials argued that federal law could allow the activity without an EPA permit under an immediate-threat or military-munitions exception.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            103,
-            104,
-            105,
-            106,
-            107,
-            109,
-            110,
-            137,
-            138,
-            140,
-            141,
-            144,
-            145,
-            146,
-            147,
-            148
-          ]
-        },
-        {
-          "claim": "Environmental groups and local officials said public notification was inadequate and that the operation could release toxic lead into air and onto surfaces.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            157,
-            158,
-            159,
-            160,
-            161,
-            162,
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184
-          ]
-        },
-        {
-          "claim": "The Army told a court that lead azide could explode as temperatures fell below 30 degrees, with a forecast low of 22 degrees cited.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            264,
-            265,
-            266,
-            267,
-            268,
-            269,
-            270,
-            271,
-            272
-          ]
-        },
-        {
-          "claim": "The episode repeats allegations that past military activity in Vieques produced severe pollution and elevated cancer rates.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            392,
-            393,
-            394,
-            395,
-            396,
-            405,
-            406,
-            407,
-            408,
-            409,
-            410,
-            411,
-            412
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski contrasts an alleged Iranian bomb narrative with the reported Iowa detonation plan.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            48,
-            49,
-            50,
-            68,
-            69,
-            70,
-            71
-          ],
-          "start_seconds": 0.3,
-          "end_seconds": 149.192
-        },
-        {
-          "point": "A local news clip describes litigation, an administrative stay, uncertain timing, and limited official clarity.",
-          "evidence_segment_indices": [
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            96,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            185,
-            186,
-            187,
-            188,
-            189,
-            190,
-            191,
-            192
-          ],
-          "start_seconds": 181.592,
-          "end_seconds": 374.295
-        },
-        {
-          "point": "Kulinski frames the episode as criticism of weak oversight, inadequate notice, and cost-driven environmental decisions.",
-          "evidence_segment_indices": [
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118,
-            119,
-            120,
-            121,
-            125,
-            126,
-            127,
-            308,
-            309,
-            310,
-            311,
-            312,
-            327,
-            328,
-            329,
-            330,
-            331,
-            332
-          ],
-          "start_seconds": 219.892,
-          "end_seconds": 667.698
-        },
-        {
-          "point": "The discussion expands to alleged environmental harms associated with military sites and corporations.",
-          "evidence_segment_indices": [
-            393,
-            394,
-            395,
-            396,
-            397,
-            398,
-            399,
-            405,
-            406,
-            407,
-            408,
-            409,
-            410,
-            411,
-            412,
-            429,
-            430,
-            431,
-            432,
-            433,
-            434,
-            435,
-            436,
-            437
-          ],
-          "start_seconds": 786.199,
-          "end_seconds": 876.401
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "68dd8ea0a6d585dc4b28e98caf7e3478469f8de851136e5be22d31a026db4c77",
-      "transcript_captured_at": "2026-11-24T01:03:15.296692Z",
-      "summary_generated_at": "2026-11-24T01:08:27.400898Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is an opinion program mixing local-news excerpts, commentary, and unattributed or partially attributed online claims.",
-        "Caption omissions and profanity redactions make some wording and attribution ambiguous.",
-        "The supplied material does not establish the final detonation outcome, permit ruling, technical hazards, or health impacts.",
-        "References to other incidents and corporations are presented through commentary and require separate source review.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
