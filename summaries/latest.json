@@ -1,11 +1,141 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T01:42:00.589768Z",
+  "generated_at": "2026-11-26T17:12:00.623554Z",
   "reporting_window": {
-    "start": "2026-11-19T01:42:00.589768Z",
-    "end": "2026-11-26T01:42:00.589768Z"
+    "start": "2026-11-19T17:12:00.623554Z",
+    "end": "2026-11-26T17:12:00.623554Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "ZHfAeD5ORoQ",
+      "title": "'HE'S LOSING IT' — Trump ERUPTS as Court Losses Mount, has TERRIBLE Thanksgiving!!",
+      "url": "https://www.youtube.com/watch?v=ZHfAeD5ORoQ",
+      "published_at": "2026-11-26T15:13:16.000000Z",
+      "summary": "Aaron Parnas presents a critical account of President Trump’s Thanksgiving-night statements and several legal and political developments, framing them as evidence of mounting setbacks. The episode says Trump attacked journalist David Sanger and alleged that previously released economic figures were deliberately falsified, while citing a revised third-quarter GDP estimate of 4.3% rather than 3.4% and Trump’s call for an investigation. Parnas contrasts that allegation with his explanation that economic data are routinely revised. He also describes court rulings that, according to the episode, rejected administration efforts involving ABC and Agriculture Secretary Brooke Rollins’s religious holiday emails, while Rollins argues the emails were personal expressions rather than coercion and says the decision will be appealed. The program then turns to Pennsylvania politics, where an unnamed interviewee predicts John Fetterman will not remain a senator after 2028 and criticizes his attendance, public activity, and foreign-policy stance. The transcript provides commentary and excerpts but no documents or independent corroboration.",
+      "topics": [
+        "Trump’s economic-data allegations",
+        "Court disputes over media and religion",
+        "Brooke Rollins appeal",
+        "Pennsylvania Senate politics"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A court ruled that administration efforts targeting ABC violated the First Amendment.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            62,
+            65,
+            68,
+            71,
+            73,
+            74,
+            76
+          ]
+        },
+        {
+          "claim": "A revised third-quarter GDP estimate was 4.3%, compared with an earlier 3.4% figure.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            31,
+            33,
+            39,
+            40
+          ]
+        },
+        {
+          "claim": "The Agriculture Department’s religious holiday emails were found to violate the First Amendment, and the government plans to appeal.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            79,
+            81,
+            83,
+            86,
+            92,
+            132,
+            137
+          ]
+        },
+        {
+          "claim": "John Fetterman has one of the worst Senate attendance records and may not remain a senator after 2028.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            211,
+            215,
+            217,
+            218,
+            223
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Parnas characterizes Trump’s comments about economic data as an allegation of deliberate government misconduct.",
+          "evidence_segment_indices": [
+            30,
+            43,
+            45,
+            57,
+            59
+          ],
+          "start_seconds": 62.64,
+          "end_seconds": 129.599
+        },
+        {
+          "point": "The episode contrasts Trump’s media dispute with court decisions it says rejected efforts to pressure ABC.",
+          "evidence_segment_indices": [
+            65,
+            69,
+            73,
+            76
+          ],
+          "start_seconds": 137.36,
+          "end_seconds": 171.28
+        },
+        {
+          "point": "Brooke Rollins says her holiday messages were noncoercive and that the ruling will be appealed.",
+          "evidence_segment_indices": [
+            97,
+            100,
+            112,
+            137,
+            152,
+            157
+          ],
+          "start_seconds": 210.239,
+          "end_seconds": 350.479
+        },
+        {
+          "point": "The closing political discussion focuses on speculation about Fetterman’s party and reelection prospects.",
+          "evidence_segment_indices": [
+            196,
+            203,
+            205,
+            210,
+            215
+          ],
+          "start_seconds": 421.36,
+          "end_seconds": 462.88
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "f7a1534647484d2c1a2789f1a7f8d6f4a3c265ac9f5e3bb2ea0c457edace3c01",
+      "transcript_captured_at": "2026-11-26T17:03:13.224727Z",
+      "summary_generated_at": "2026-11-26T17:08:22.196744Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies solely on the supplied transcript; no rulings, economic releases, or attendance records are included.",
+        "Several captions contain transcription errors, duplicated dialogue, and unclear speaker boundaries.",
+        "The transcript does not identify the court cases, rulings, interviewee, or relevant dates in enough detail for full context.",
+        "Some statements are opinions, predictions, or allegations presented by speakers rather than independently established facts.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mike Figueredo — The Humanist Report",
       "channel_id": "UC7Q4rvzJDbHeBHYk5rnvZeA",
@@ -5087,257 +5217,6 @@
         "Polling figures, election results, financial holdings, investigations, and alleged misconduct are presented within the episode but are not independently substantiated by the source text.",
         "The episode uses selected clips and commentary, so it does not establish the broader context, methodology, dates, or representativeness of the cited polls.",
         "Several statements are rhetorical opinions or accusations by Kulinski and should not be read as verified findings.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "L4kdYbHNXp0",
-      "title": "'IMPEACHMENT!!' — Republicans and Democrats UNITE Against Trump as Criminality Becomes CLEAR!!",
-      "url": "https://www.youtube.com/watch?v=L4kdYbHNXp0",
-      "published_at": "2026-11-24T18:39:06.000000Z",
-      "summary": "Creator Aaron Parnas argues that controversy involving Nvidia, Jensen Huang, Donald Trump, and alleged chip diversion has prompted some Republicans to discuss possible impeachment. He highlights comments attributed to Greg and Mitt Romney, including concerns about executive misconduct, inadequate safeguards, and possible corruption. The episode also presents Singapore Prime Minister Lawrence Wong’s account that authorities investigated Mega Speed, received limited assistance from U.S. officials, and found chips routed through Singapore to other countries. A media report is used to connect the company and Alice Wang to Nvidia’s leadership, while the creator characterizes her alleged intelligence ties and the diversion claims as central to the scandal. A Justice Department press conference is then presented, in which an official says Nvidia is a good corporate citizen, declines to discuss confidential intelligence or specific investigations, and says criminal findings would ordinarily lead to an indictment. The episode ends by questioning whether these responses inspire confidence. The source is commentary and excerpts, not independent corroboration.",
-      "topics": [
-        "Nvidia and chip diversion allegations",
-        "Trump and possible impeachment",
-        "Singapore investigation claims",
-        "Justice Department response"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Some Republicans, including Greg and Mitt Romney, called for or discussed impeachment and criticized the administration’s handling of Nvidia-related issues.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            6,
-            7,
-            8,
-            9,
-            10,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48
-          ]
-        },
-        {
-          "claim": "Singapore authorities investigated Mega Speed, received limited U.S. cooperation, and reported that Nvidia chips were routed through Singapore to other countries.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            50,
-            51,
-            52,
-            53,
-            54,
-            58,
-            59,
-            60,
-            61,
-            62,
-            63,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            78,
-            79,
-            80,
-            82,
-            83,
-            84
-          ]
-        },
-        {
-          "claim": "Donald Trump intervened in Jensen Huang’s reinstatement at Nvidia, allegedly overruling security agencies or the company board.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            86,
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94
-          ]
-        },
-        {
-          "claim": "The Justice Department official said Nvidia was a good corporate citizen and declined to confirm specific investigations or intelligence-related allegations.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            115,
-            116,
-            117,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            146,
-            147,
-            148,
-            149,
-            150,
-            151,
-            152,
-            153,
-            154
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames Nvidia-related developments as a major political turning point and links them to impeachment discussion.",
-          "evidence_segment_indices": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23
-          ],
-          "start_seconds": 3.84,
-          "end_seconds": 47.039
-        },
-        {
-          "point": "The episode attributes corruption and misconduct concerns to Republican critics, including Romney’s warning about profit and corruption.",
-          "evidence_segment_indices": [
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48
-          ],
-          "start_seconds": 54.32,
-          "end_seconds": 96.4
-        },
-        {
-          "point": "Singapore’s prime minister is presented as saying an inquiry received incomplete U.S. cooperation and involved chips routed onward from Singapore.",
-          "evidence_segment_indices": [
-            50,
-            51,
-            52,
-            53,
-            54,
-            61,
-            62,
-            63,
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            75,
-            78,
-            79,
-            80,
-            82,
-            83,
-            84,
-            85
-          ],
-          "start_seconds": 96.4,
-          "end_seconds": 181.2
-        },
-        {
-          "point": "A Justice Department exchange emphasizes limited public disclosure and says criminal cases depend on evidence gathered through investigations.",
-          "evidence_segment_indices": [
-            135,
-            136,
-            137,
-            138,
-            139,
-            164,
-            165,
-            166,
-            167,
-            168,
-            169,
-            170,
-            178,
-            179,
-            180,
-            181,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            221,
-            222
-          ],
-          "start_seconds": 280.72,
-          "end_seconds": 452.4
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "06f9c5b379c8703e4818362a1cc7c00d4ffa9522c01eb58f0dfe748b1f4a04b0",
-      "transcript_captured_at": "2026-11-24T20:03:13.474348Z",
-      "summary_generated_at": "2026-11-24T20:08:26.716605Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains frequent recognition and name errors, including variants of Huang, Wong, Wang, and Mega Speed.",
-        "Several allegations are presented through commentary, media excerpts, or attributed statements rather than independently documented evidence.",
-        "The source does not provide the underlying documents, dates, investigative records, or full context for the cited claims.",
-        "Some excerpts are fragmented or overlapping, limiting confidence about exact wording and speaker attribution.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
