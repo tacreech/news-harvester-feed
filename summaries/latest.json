@@ -1,11 +1,895 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T21:12:00.626537Z",
+  "generated_at": "2026-11-26T21:42:00.636203Z",
   "reporting_window": {
-    "start": "2026-11-19T21:12:00.626537Z",
-    "end": "2026-11-26T21:12:00.626537Z"
+    "start": "2026-11-19T21:42:00.636203Z",
+    "end": "2026-11-26T21:42:00.636203Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "UOkZjumIXtU",
+      "title": "Ben Shapiro Celebrates Iranians Selling Organs For Food | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=UOkZjumIXtU",
+      "published_at": "2026-11-26T21:00:11.000000Z",
+      "summary": "Kyle Kulinski argues that Ben Shapiro is trying to distance himself from Donald Trump while still endorsing most of Trump’s policies, and he criticizes Shapiro’s description of sanctions and blockade-related hardship in Iran as evidence that the measures are effective. Kulinski highlights a quoted report attributed to Iran International about hundreds of Telegram advertisements offering organs or tissue, presenting it as a sign of severe economic distress. He then broadens the critique to U.S. sanctions on Cuba, citing reported medicine shortages, delayed surgeries, and restricted healthcare access. Kulinski characterizes these policies as deliberate collective punishment and condemns what he portrays as indifference toward civilians. The episode also expands into denunciations of U.S. foreign policy, MAGA politics, immigration policy, alleged corruption, and domestic economic effects. The material consists almost entirely of Kulinski’s commentary, excerpts he presents from other speakers, and claims attributed to cited reports; it does not independently establish the underlying events or statistics.",
+      "topics": [
+        "Ben Shapiro and Trump",
+        "Iran sanctions and hardship",
+        "U.S. sanctions on Cuba",
+        "MAGA and foreign policy"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "A report attributed to Iran International found more than 600 Telegram advertisements, with roughly one-third offering multiple organs or tissues.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59
+          ]
+        },
+        {
+          "claim": "Sanctions and fuel restrictions have contributed to major healthcare shortages in Cuba, including reported surgical backlogs and limited access to maternal care.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135
+          ]
+        },
+        {
+          "claim": "Kulinski alleges that Trump-related policies involve coercive foreign interventions, resource extraction, corruption, and harmful domestic economic policies.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski frames Shapiro as broadly aligned with Trump despite attempts to create political distance.",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "start_seconds": 0.24,
+          "end_seconds": 50.32
+        },
+        {
+          "point": "He interprets Shapiro’s statement that a blockade is working as approval of severe hardship in Iran.",
+          "evidence_segment_indices": [
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71
+          ],
+          "start_seconds": 90.08,
+          "end_seconds": 165.76
+        },
+        {
+          "point": "Kulinski uses Iran and Cuba as examples in a broader argument against sanctions and collective punishment.",
+          "evidence_segment_indices": [
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99
+          ],
+          "start_seconds": 175.36,
+          "end_seconds": 242.72
+        },
+        {
+          "point": "The episode closes with criticism of MAGA politics and a call for viewers to engage with the channel.",
+          "evidence_segment_indices": [
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260
+          ],
+          "start_seconds": 521.2,
+          "end_seconds": 590.959
+        },
+        {
+          "point": "The presentation is strongly polemical, using severe moral judgments and personal accusations against political opponents.",
+          "evidence_segment_indices": [
+            72,
+            73,
+            74,
+            75,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197
+          ],
+          "start_seconds": 164.08,
+          "end_seconds": 465.52
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "b38d5df8e0c919d63e09c6afd0f723b084db948c7b55ae182b24ac241faf5119",
+      "transcript_captured_at": "2026-11-26T21:33:40.539077Z",
+      "summary_generated_at": "2026-11-26T21:39:30.864935Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains overlapping segments, hesitations, profanity redactions, and apparent caption defects.",
+        "The excerpted statements from Shapiro and other sources are presented through Kulinski’s commentary, without full surrounding context.",
+        "Underlying reports, statistics, policy descriptions, and allegations are source-only claims requiring independent verification.",
+        "Some references to specific policies, countries, and events are ambiguous in the transcript.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "WPlcgX0zvPY",
+      "title": "THE IRAN WAR IS F*CKED | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=WPlcgX0zvPY",
+      "published_at": "2026-11-26T20:30:18.000000Z",
+      "summary": "Kyle Kulinski argues that Democrats should use an upcoming continuing resolution to stop funding the Iran war, presenting this as the clearest way to force an end to the conflict. He contrasts lawmakers who say they will not provide additional money with Democrats proposing to restrict funding for offensive operations while allowing defensive spending. Kulinski contends that such a compromise would still enable the war because officials could characterize attacks as defensive. He also argues that troops are being inadequately supported and says public opposition is unusually strong, citing polling that he describes as showing majority support for ending the war, including among Democrats. The episode further connects antiwar sentiment to concerns about gas and grocery prices and domestic spending. Much of the presentation is argumentative and relies on assertions, reported statements, and uncited references to polls, military conditions, and proposed legislation rather than independently documented evidence in the transcript.",
+      "topics": [
+        "Iran war funding",
+        "Continuing resolution",
+        "Democratic strategy",
+        "Public opinion",
+        "Military conditions"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The House has voted against the Iran war approximately five or six times.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "claim": "The USS Lincoln experienced shortages of food, toiletries, and medicine, and at least three people attempted suicide as a result of prolonged deployment and failing supply lines.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67
+          ]
+        },
+        {
+          "claim": "Polling shows that 55% of Americans and 80% of Democrats want the war ended immediately and would accept a government shutdown to do so.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93
+          ]
+        },
+        {
+          "claim": "Democrats were nearing a bill restricting funding for offensive attacks while allowing defensive operations without a new authorization.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski urges Democrats to include a categorical prohibition on further Iran-war funding in the continuing resolution.",
+          "evidence_segment_indices": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212
+          ],
+          "start_seconds": 92.159,
+          "end_seconds": 473.039
+        },
+        {
+          "point": "He criticizes a proposed offensive-versus-defensive funding distinction as an ineffective compromise.",
+          "evidence_segment_indices": [
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197
+          ],
+          "start_seconds": 384.56,
+          "end_seconds": 441.44
+        },
+        {
+          "point": "He presents public opposition to the war as broad and unusually strong, including among Democratic voters.",
+          "evidence_segment_indices": [
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104
+          ],
+          "start_seconds": 190.159,
+          "end_seconds": 235.28
+        },
+        {
+          "point": "He links opposition to the war with service-member welfare, household costs, and preferences for domestic investment.",
+          "evidence_segment_indices": [
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69
+          ],
+          "start_seconds": 113.759,
+          "end_seconds": 158.16
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "bdea36ff482a6246da9164c3cd3e4d4f67c11fe76221c6a21721295f72a7d355",
+      "transcript_captured_at": "2026-11-26T21:33:33.007847Z",
+      "summary_generated_at": "2026-11-26T21:39:08.013785Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains profanity redactions and several caption defects, including malformed names and unclear wording.",
+        "Poll figures and legislative developments are presented without source details sufficient to assess methodology or status.",
+        "Allegations about military supply shortages, suicide attempts, deployment conditions, and troop attitudes remain source-only claims here.",
+        "The episode is an opinionated monologue; its characterizations of lawmakers’ motives and legal status are not independently established by the transcript.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "jxqoiMWx2Cw",
+      "title": "Idiots Cry Over Abdul Calling Ted Cruz An Asshole | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=jxqoiMWx2Cw",
+      "published_at": "2026-11-26T20:00:08.000000Z",
+      "summary": "The creator argues that criticism of Abdul El Say for calling Ted Cruz an insult is selective outrage, contrasting it with Cruz’s reported campaign description of Abdul and with harsher rhetoric attributed to Donald Trump. The episode presents Abdul’s reported position as pragmatic: he may work with Cruz as a fellow senator when their interests overlap, while disagreeing sharply on Israel and Gaza. The creator mocks commentators who describe Abdul’s language as a breach of senatorial norms, emphasizing that politicians can cooperate after hostile campaigns. He also questions whether cooperation would require Abdul to accept Cruz’s views on Israel, and rejects that premise. Much of the segment is delivered through sarcasm, profanity, sexual jokes, and exaggerated comparisons. The recording includes a talk-show clip and commentary, but the captions contain redactions, apparent transcription errors, and several serious allegations that are not independently established within the source. The overview therefore reflects the episode’s framing rather than verifying its claims.",
+      "topics": [
+        "Senatorial decorum",
+        "Political rhetoric",
+        "Bipartisan cooperation",
+        "Israel and Gaza",
+        "Media criticism"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The episode reports that Abdul El Say called Ted Cruz an insult in a Wall Street Journal interview and said he would still work with him when necessary.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            0,
+            8,
+            24,
+            32,
+            49,
+            52
+          ]
+        },
+        {
+          "claim": "The episode reports that Ted Cruz called Abdul a “jihadist leprechaun” during the campaign.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            47,
+            48,
+            213,
+            214,
+            215,
+            217
+          ]
+        },
+        {
+          "claim": "The episode repeats allegations of mass civilian harm and other abuses, including claims involving protests, detention, Gaza, and an Iranian school.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            86,
+            90,
+            91,
+            102,
+            104,
+            105,
+            185,
+            188
+          ]
+        },
+        {
+          "claim": "The creator says Donald Trump has used numerous hostile labels for Democrats and argues that comparable rhetoric receives less scrutiny.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            232,
+            237,
+            241,
+            243,
+            247,
+            253
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator defends Abdul’s willingness to work with Cruz despite personal and political hostility.",
+          "evidence_segment_indices": [
+            9,
+            10,
+            11,
+            20,
+            21,
+            194,
+            195
+          ],
+          "start_seconds": 19.52,
+          "end_seconds": 378.24
+        },
+        {
+          "point": "A talk-show discussion frames Abdul’s language as unusually improper for a senator-elect, while acknowledging that cooperation is still possible.",
+          "evidence_segment_indices": [
+            27,
+            30,
+            36,
+            39,
+            53,
+            55,
+            77,
+            82
+          ],
+          "start_seconds": 49.76,
+          "end_seconds": 152.16
+        },
+        {
+          "point": "The creator argues that cooperation with Cruz should not require agreement with Cruz’s positions on Israel and Gaza.",
+          "evidence_segment_indices": [
+            177,
+            193,
+            198,
+            203,
+            204
+          ],
+          "start_seconds": 341.28,
+          "end_seconds": 394.0
+        },
+        {
+          "point": "The segment uses ridicule and sexual humor to attack the commentators’ focus on profanity and decorum.",
+          "evidence_segment_indices": [
+            67,
+            68,
+            74,
+            120,
+            124,
+            139,
+            154,
+            156
+          ],
+          "start_seconds": 123.796,
+          "end_seconds": 312.479
+        },
+        {
+          "point": "The episode closes by urging viewers to like, subscribe, and enable notifications.",
+          "evidence_segment_indices": [
+            267,
+            269,
+            270,
+            271,
+            272
+          ],
+          "start_seconds": 528.399,
+          "end_seconds": 542.24
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "c6c56f3bdaef84429cb5524222e50c7d36367ca6845e5eb1a9a244b327887312",
+      "transcript_captured_at": "2026-11-26T21:33:24.316224Z",
+      "summary_generated_at": "2026-11-26T21:38:48.533898Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "Captions redact profanity and contain apparent name, word, and phrase transcription errors.",
+        "The source presents serious allegations about violence, corruption, and military conduct without supporting documentation in the recording.",
+        "The episode’s quotations are mediated through captions and commentary, so exact wording and attribution may be uncertain.",
+        "This overview covers only the supplied episode transcript and does not independently verify its claims.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "s-s7pe83zgE",
+      "title": "Black Man Agrees With White R*cist That Civil Rights Are Bad | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=s-s7pe83zgE",
+      "published_at": "2026-11-26T19:30:28.000000Z",
+      "summary": "Kyle Kulinski argues that a discussion involving Joel Webbon and Jason Whitlock promotes an exclusionary vision of America centered on mass deportations, racial hierarchy, and compulsory Christianity. The episode presents Webbon proposing deportations affecting undocumented immigrants, visa holders, and their U.S.-born children, while retaining selected groups described as “legacy” populations and seeking a predominantly white society. Kulinski criticizes the proposal as authoritarian and questions how ancestry, religion, and belonging could be defined or enforced. The discussion then turns to civil rights: Webbon characterizes the movement as harmful and suggests Black Americans were better off under conditions of greater racial deference, while expressing approval of a white Anglo-Protestant cultural core. Kulinski rejects this interpretation, emphasizing the historical violence and legal discrimination he associates with segregation and white supremacy. He also predicts that Christian fundamentalism and white nationalism will intensify after Trump, framing the exchange as evidence of a broader political direction. The account is commentary and quoted excerpts, not an independent verification of the speakers’ identities, positions, or broader claims.",
+      "topics": [
+        "Immigration and deportation",
+        "White nationalism",
+        "Christian nationalism",
+        "Civil rights",
+        "Political commentary"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The episode identifies Joel Webbon as having appeared with Nick Fuentes and describes their conference interaction.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim": "Webbon proposes deporting 50 to 100 million people, including undocumented entrants, some U.S.-born children, and visa holders.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+          ]
+        },
+        {
+          "claim": "Kulinski says a U.S.-born Hispanic citizen was detained and deported, presenting it as an example of current enforcement.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            299,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307
+          ]
+        },
+        {
+          "claim": "Kulinski predicts that Christian fundamentalism and white nationalism will intensify after Trump.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            348,
+            349,
+            350,
+            351,
+            352,
+            353,
+            354,
+            355,
+            356,
+            357,
+            358,
+            359,
+            360,
+            361,
+            362,
+            363,
+            364,
+            365,
+            366
+          ]
+        },
+        {
+          "claim": "Webbon characterizes civil rights as harmful to Black Americans and expresses agreement with claims that racial discrimination produced beneficial discipline.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Webbon’s stated ideal includes mass deportations and a more heavily white, Christian national population.",
+          "evidence_segment_indices": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75
+          ],
+          "start_seconds": 75.68,
+          "end_seconds": 149.92
+        },
+        {
+          "point": "Kulinski argues that compulsory religion and ancestry-based membership would undermine freedom and create authoritarian enforcement.",
+          "evidence_segment_indices": [
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88
+          ],
+          "start_seconds": 148.0,
+          "end_seconds": 176.959
+        },
+        {
+          "point": "The episode contrasts Webbon’s civil-rights interpretation with Kulinski’s account of segregation, lynching, and legally enforced discrimination.",
+          "evidence_segment_indices": [
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220
+          ],
+          "start_seconds": 293.04,
+          "end_seconds": 454.479
+        },
+        {
+          "point": "Kulinski presents the exchange as an example of minority conservatives seeking acceptance from white-nationalist politics while remaining vulnerable to exclusion.",
+          "evidence_segment_indices": [
+            275,
+            276,
+            277,
+            280,
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290,
+            291,
+            292,
+            293,
+            294,
+            295,
+            296,
+            297,
+            298,
+            309,
+            310
+          ],
+          "start_seconds": 575.839,
+          "end_seconds": 663.12
+        },
+        {
+          "point": "The episode closes with Kulinski predicting further radicalization within the Republican movement.",
+          "evidence_segment_indices": [
+            348,
+            349,
+            350,
+            351,
+            352,
+            353,
+            354,
+            355,
+            356,
+            357,
+            358,
+            359,
+            360,
+            361,
+            362,
+            363,
+            364,
+            365,
+            366,
+            367,
+            368,
+            369,
+            370,
+            371
+          ],
+          "start_seconds": 738.48,
+          "end_seconds": 786.959
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "5770a5b9936b5834b9bfa3627d134cc1c34a3ce9c02c5c33c045f86158398a0a",
+      "transcript_captured_at": "2026-11-26T21:33:15.932130Z",
+      "summary_generated_at": "2026-11-26T21:38:30.867590Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The source is a partisan commentary episode containing edited or quoted excerpts, so descriptions of other speakers’ views are mediated by Kulinski’s framing.",
+        "Automatic captions contain profanity redactions, repetitions, hesitations, and occasional transcription defects.",
+        "Several factual assertions about deportations, political organizations, historical comparisons, and future political developments are presented without supporting documentation in the source.",
+        "The transcript alone does not establish the full context of the clips or independently verify speaker identities and surrounding events.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -4601,725 +5485,6 @@
         "Several captions contain transcription defects, including names, places, company names, and legal or technical terms.",
         "The excerpt gives limited sourcing for the reported investigations, breach, detonation, detention-center account, and investment outcomes.",
         "Van Hollen’s statements describe opinions, proposals, allegations, and predictions, not established findings.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "ASMtmTYTH8c",
-      "title": "Ex-General SAYS THE QUIET PART LOUD About Iran War | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=ASMtmTYTH8c",
-      "published_at": "2026-11-24T23:05:13.000000Z",
-      "summary": "Kyle Kulinski argues that retired General Jack Keane’s Fox News remarks reveal a U.S. strategy aimed at regime change in Iran. Kulinski presents Keane as advocating severe economic and military pressure, arming Iranian opponents through intelligence-linked channels, and relying on Iranian civilians to overthrow the government. He disputes the expectation that foreign attacks would trigger an uprising, instead arguing that attacks could produce public support for the government. Kulinski also challenges Senator Tim Sheehy’s historical and strategic rationale for intervention, particularly claims that Iran seeks a worldwide caliphate and threatens regional trade. He contrasts those claims with Israel’s and the United States’ military activity, and criticizes continued dependence on Middle Eastern fossil fuels. The episode is an argumentative commentary built around excerpts and the host’s interpretations. Its central allegations about covert support, casualty figures, military actions, territorial expansion, historical claims, and energy policy are not independently established by the supplied transcript.",
-      "topics": [
-        "Iran regime change",
-        "U.S. foreign policy",
-        "Covert intervention allegations",
-        "Middle East military strategy",
-        "Energy security"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Keane advocated arming Iranian opponents through CIA- and intelligence-linked efforts to pursue regime change.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            73,
-            76,
-            80,
-            86,
-            90,
-            92,
-            97
-          ]
-        },
-        {
-          "claim": "Kulinski says foreign attacks produced public support for Iran’s government rather than a successful uprising.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            43,
-            46,
-            48,
-            53,
-            54,
-            55,
-            61,
-            63
-          ]
-        },
-        {
-          "claim": "The episode disputes Sheehy’s claim that Iran seeks a worldwide caliphate and presents competing claims about regional expansion.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            237,
-            252,
-            256,
-            263,
-            270,
-            281,
-            289,
-            290
-          ]
-        },
-        {
-          "claim": "The episode makes numerous unverified assertions about casualties, covert personnel, military actions, territorial control, and the causes of disrupted maritime trade.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            117,
-            120,
-            122,
-            134,
-            140,
-            153,
-            244,
-            248,
-            263,
-            304,
-            306,
-            312
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The discussion centers on Keane’s proposed use of pressure and Iranian proxies to pursue regime change.",
-          "evidence_segment_indices": [
-            20,
-            22,
-            23,
-            27,
-            73,
-            77,
-            80,
-            90
-          ],
-          "start_seconds": 46.64,
-          "end_seconds": 182.64
-        },
-        {
-          "point": "Kulinski argues that external attacks can create a rally-around-the-flag response and complicate opposition movements.",
-          "evidence_segment_indices": [
-            43,
-            46,
-            48,
-            50,
-            54,
-            61,
-            63
-          ],
-          "start_seconds": 95.759,
-          "end_seconds": 139.36
-        },
-        {
-          "point": "Kulinski rejects Sheehy’s historical framing of Iran and challenges the stated threat of an Iranian-led caliphate.",
-          "evidence_segment_indices": [
-            217,
-            222,
-            224,
-            228,
-            237,
-            256,
-            258
-          ],
-          "start_seconds": 431.44,
-          "end_seconds": 516.159
-        },
-        {
-          "point": "The episode links intervention debates to oil dependence, energy prices, and domestic priorities.",
-          "evidence_segment_indices": [
-            291,
-            294,
-            303,
-            315,
-            332,
-            345,
-            355
-          ],
-          "start_seconds": 573.04,
-          "end_seconds": 700.16
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "5e7bd5734eb80e05ba0f528e844ce8f114c752c66a827e523c68a927a2a09983",
-      "transcript_captured_at": "2026-11-25T00:33:21.935857Z",
-      "summary_generated_at": "2026-11-25T00:38:42.246671Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript is source-only commentary and does not provide independent corroboration for major factual claims.",
-        "Captions contain apparent transcription defects, including inconsistent renderings of intelligence organizations and place names.",
-        "Several statements are rhetorical, sarcastic, or disputed within the episode, making speaker attribution important.",
-        "The supplied excerpt ends with a promotional outro and provides no external sources or supporting documentation.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Mutahar — SomeOrdinaryGamers",
-      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "video_id": "Z6NIBsCm83Y",
-      "title": "GTA 6 Is Running on PC...",
-      "url": "https://www.youtube.com/watch?v=Z6NIBsCm83Y",
-      "published_at": "2026-11-24T22:39:35.000000Z",
-      "summary": "The creator presents an early, unofficial attempt to run GTA 6 on PC using an Xbox game dump and the XCL compatibility layer. He says the files appeared non-malicious in his limited checks but warns viewers not to download purported PC releases, which he characterizes as scams and potential malware. In his demonstration, the game reaches account setup, menus, introductory material, and briefly displays gameplay-related content, but performance is extremely poor, ranging from roughly 1–5 frames per second before crashes. He describes multiple community projects and forks as progressing at different rates, while emphasizing that the PC effort is incomplete and unsupported. The episode also argues that Rockstar’s lack of a simultaneous PC release and limited physical availability contribute to preservation concerns. The creator does not endorse piracy and says he plans to purchase the PC edition. His forecast that development may advance rapidly, possibly by year’s end, remains speculative and is based on the reported activity of these projects.",
-      "topics": [
-        "Unofficial PC compatibility",
-        "Game preservation",
-        "Piracy and malware risks",
-        "Community port projects"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A leaked Xbox Series game dump enabled an unofficial PC launch through the XCL compatibility layer.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            48,
-            52,
-            53,
-            134,
-            151,
-            177,
-            178
-          ]
-        },
-        {
-          "claim": "The demonstrated build reached menus and introductory content but ran at approximately 1–5 frames per second and crashed before normal gameplay.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            198,
-            202,
-            220,
-            237,
-            241,
-            245,
-            266,
-            295,
-            320,
-            325,
-            326
-          ]
-        },
-        {
-          "claim": "Many purported GTA 6 PC downloads circulating online are scams or may contain malware.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            77,
-            80,
-            81,
-            83
-          ]
-        },
-        {
-          "claim": "Multiple community projects or forks are reportedly attempting to run the game, with some claiming limited scene rendering.",
-          "attributed_to": "Mutahar — SomeOrdinaryGamers",
-          "evidence_segment_indices": [
-            121,
-            123,
-            124,
-            277,
-            279,
-            281,
-            284
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator frames the PC run as an early technical demonstration, not a playable release.",
-          "evidence_segment_indices": [
-            131,
-            150,
-            152,
-            241,
-            248
-          ],
-          "start_seconds": 298.56,
-          "end_seconds": 562.0
-        },
-        {
-          "point": "The observed build progressed beyond a black screen into menus and introductory material, but remained unstable and extremely slow.",
-          "evidence_segment_indices": [
-            207,
-            220,
-            245,
-            266,
-            320,
-            325
-          ],
-          "start_seconds": 461.12,
-          "end_seconds": 731.76
-        },
-        {
-          "point": "The creator warns against downloading untrusted files and says his own checks were limited.",
-          "evidence_segment_indices": [
-            63,
-            65,
-            69,
-            70,
-            73,
-            80
-          ],
-          "start_seconds": 141.599,
-          "end_seconds": 188.319
-        },
-        {
-          "point": "The episode advocates simultaneous PC availability and physical preservation while explicitly rejecting piracy.",
-          "evidence_segment_indices": [
-            393,
-            395,
-            428,
-            496,
-            500,
-            530
-          ],
-          "start_seconds": 879.6,
-          "end_seconds": 1188.24
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "5b709cfb26ca68eddc0fee41a17c91d6f361252a727b789d40dc9cf1c10f0aa5",
-      "transcript_captured_at": "2026-11-24T23:03:13.750893Z",
-      "summary_generated_at": "2026-11-24T23:08:24.005342Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The account is based solely on the creator’s narration and displayed demonstration; no independent verification is provided.",
-        "Claims about leaks, malware, project status, performance, sales, employment, or future progress are reported or predicted within the episode and require separate verification.",
-        "Automatic captions contain omissions and profanity redactions, so some technical names and statements may be imperfectly transcribed.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "Kr3FLYJrYZQ",
-      "title": "Nick Fuentes Says Republicans Must Copy Zohran | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=Kr3FLYJrYZQ",
-      "published_at": "2026-11-24T22:35:39.000000Z",
-      "summary": "Kyle Kulinski argues that Nick Fuentes is acknowledging the old right-wing strategy of trolling, provocation, and “edgelording” has lost effectiveness, while proposing that conservatives study the appeal of newer left-wing politicians and messaging. Kulinski agrees that the right may need to move beyond the Trump era but rejects Fuentes’s explanation that the left has simply become more strategically sophisticated. He presents his own view that progressive policies such as universal healthcare, free college, living wages, and ending wars give left-wing provocation greater credibility. Kulinski also disputes Fuentes’s characterization of transgender healthcare and other left-wing positions, calling them caricatures. The discussion then broadens into a highly adversarial critique of conservative ideology, which Kulinski describes as fundamentally centered on tax cuts, deregulation, reduced social programs, restrictions on personal freedom, and military intervention. He concludes that conservatives cannot make those ideas broadly appealing merely by adopting a more polished or intellectual presentation.",
-      "topics": [
-        "Political messaging",
-        "Right-wing strategy",
-        "Progressive policy",
-        "Transgender healthcare",
-        "Ideological criticism"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Kulinski says Fuentes argues that trolling and rage-baiting no longer work for the right and that conservatives need a new political playbook.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            5,
-            6,
-            8,
-            10,
-            13,
-            14,
-            116,
-            117,
-            142,
-            148
-          ]
-        },
-        {
-          "claim": "Kulinski states that surgeries on children are not occurring as commonly alleged and distinguishes rare adolescent procedures from bottom surgery.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            77,
-            78,
-            86,
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            98,
-            100,
-            101,
-            102
-          ]
-        },
-        {
-          "claim": "Kulinski claims Republican governance repeatedly produces tax cuts for the rich, increased debt, and new wars, followed by Democrats cleaning up the consequences.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            188,
-            189,
-            192,
-            194,
-            195,
-            226,
-            227,
-            228,
-            229,
-            230,
-            235,
-            236,
-            240,
-            241
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Fuentes’s excerpt calls for conservatives to move beyond Trump-era trolling and learn from newer political styles.",
-          "evidence_segment_indices": [
-            8,
-            10,
-            116,
-            117,
-            142,
-            148,
-            151,
-            152
-          ],
-          "start_seconds": 15.44,
-          "end_seconds": 319.28
-        },
-        {
-          "point": "Kulinski argues progressive policy proposals provide political credibility that right-wing provocation lacks.",
-          "evidence_segment_indices": [
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            52,
-            53,
-            58,
-            60
-          ],
-          "start_seconds": 94.079,
-          "end_seconds": 135.52
-        },
-        {
-          "point": "The episode disputes several descriptions of left-wing views as exaggerated caricatures.",
-          "evidence_segment_indices": [
-            77,
-            78,
-            101,
-            102,
-            105,
-            107,
-            110,
-            111,
-            112,
-            113,
-            114
-          ],
-          "start_seconds": 163.92,
-          "end_seconds": 241.519
-        },
-        {
-          "point": "Kulinski concludes that conservative ideas cannot be made broadly acceptable through presentation alone.",
-          "evidence_segment_indices": [
-            163,
-            164,
-            180,
-            181,
-            184,
-            188,
-            198,
-            207,
-            208,
-            211,
-            221,
-            324,
-            325,
-            332,
-            333
-          ],
-          "start_seconds": 337.759,
-          "end_seconds": 698.48
-        },
-        {
-          "point": "The segment ends with a call for expanded universal programs modeled on earlier Democratic reform agendas.",
-          "evidence_segment_indices": [
-            243,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251,
-            252,
-            253,
-            254
-          ],
-          "start_seconds": 516.959,
-          "end_seconds": 543.36
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "ed0c2051282d9374f11fc32f1a79fdff2067d2f13806f5fb34fb17ebdaac9bbd",
-      "transcript_captured_at": "2026-11-25T00:33:16.862572Z",
-      "summary_generated_at": "2026-11-25T00:38:22.884609Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains automatic-caption errors and garbled names, especially for politicians and public figures.",
-        "The source is a partisan commentary segment featuring quoted remarks and rebuttal; its factual assertions are not independently established here.",
-        "Some claims are rhetorical generalizations rather than precisely defined or evidenced propositions.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "lw3-s51XMec",
-      "title": "Elon’s Awkwardness SHOCKS ALL In Bizarre Interview As WALLS CLOSE IN!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=lw3-s51XMec",
-      "published_at": "2026-11-24T22:05:12.000000Z",
-      "summary": "Kyle Kulinski argues that Elon Musk’s hesitant performance at a Tesla event in Argentina reflects broader problems for Musk and Tesla. The episode contrasts Musk’s pauses and difficulty speaking with the expectation that a product launch should promote vehicle sales. Kulinski connects the presentation to Tesla’s reported delivery decline and to Musk’s emphasis on robotaxis and robots rather than conventional cars. He also alleges that Musk is repositioning himself politically to protect business interests, citing proposed Texas manufacturing investment, criticism of subsidies, and the hiring of Democratic lobbyists. The commentary further attributes multiple government cuts, regulatory decisions, and alleged misconduct to Musk, while claiming these actions have caused serious public harm. Kulinski speculates about Musk’s mental health and drug use, but the supplied material provides no independent confirmation. Overall, the episode is an intensely adversarial interpretation built around a short, awkward interview clip, reported business figures, and numerous unverified allegations.",
-      "topics": [
-        "Elon Musk",
-        "Tesla",
-        "Political repositioning",
-        "Government cuts",
-        "Public allegations"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Tesla deliveries reportedly fell 8.6% to 1.636 million in 2025, described as a second consecutive annual decline.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            55,
-            56,
-            57
-          ]
-        },
-        {
-          "claim": "Musk allegedly cut or weakened government programs and agencies, including screw-worm prevention, pediatric cancer research, Meals on Wheels, weather services, and the CFPB.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            232,
-            233,
-            234,
-            235,
-            236,
-            237,
-            238,
-            239,
-            240,
-            241,
-            242,
-            243,
-            244,
-            245,
-            246,
-            247,
-            248,
-            249,
-            250,
-            251,
-            252,
-            253,
-            254,
-            255
-          ]
-        },
-        {
-          "claim": "Tesla reportedly proposed a $3.1 billion Texas polysilicon plant, while the commentary says Musk hired Democratic lobbyists and sought a friendlier political posture.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            296,
-            297,
-            298,
-            299,
-            300,
-            301,
-            302,
-            303,
-            304,
-            305,
-            306,
-            307,
-            308,
-            309,
-            310,
-            311,
-            312,
-            313,
-            314,
-            315,
-            316,
-            321,
-            322,
-            323
-          ]
-        },
-        {
-          "claim": "The episode repeats allegations that Musk used drugs and engaged in sexually inappropriate conduct toward a subordinate.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            114,
-            115,
-            116,
-            118,
-            119,
-            120,
-            121,
-            150,
-            151,
-            152,
-            153,
-            154,
-            155,
-            156,
-            157,
-            158,
-            159,
-            160,
-            161,
-            162,
-            163,
-            168
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski presents Musk’s pauses and fragmented answers at a Tesla event as evidence of serious personal or professional problems.",
-          "evidence_segment_indices": [
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            100,
-            101,
-            102
-          ],
-          "start_seconds": 76.479,
-          "end_seconds": 234.239
-        },
-        {
-          "point": "The commentary links Tesla’s perceived weakness to Musk’s focus on robotaxis and Optimus rather than selling cars.",
-          "evidence_segment_indices": [
-            45,
-            46,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60
-          ],
-          "start_seconds": 90.08,
-          "end_seconds": 126.32
-        },
-        {
-          "point": "Kulinski interprets Musk’s political shift and Texas outreach as an effort to preserve subsidies, contracts, and business access.",
-          "evidence_segment_indices": [
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            301,
-            302,
-            303,
-            314,
-            315,
-            316,
-            321,
-            322,
-            323,
-            324
-          ],
-          "start_seconds": 29.84,
-          "end_seconds": 748.16
-        },
-        {
-          "point": "The episode broadens its criticism to alleged regulatory cuts, public harms, and Musk’s accumulated wealth and influence.",
-          "evidence_segment_indices": [
-            213,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224,
-            225,
-            232,
-            233,
-            234,
-            235,
-            236,
-            237,
-            238,
-            242,
-            243,
-            244,
-            245
-          ],
-          "start_seconds": 509.039,
-          "end_seconds": 586.48
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "cff421b8698780d2052569e8ce5c1075541c0d82cebf3fc6e492f1e7dff32434",
-      "transcript_captured_at": "2026-11-24T22:33:30.629793Z",
-      "summary_generated_at": "2026-11-24T22:39:30.565358Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The source is a partisan monologue and does not independently establish the allegations it presents.",
-        "Captions contain profanity redactions, repetitions, speaker changes, and occasional transcription errors.",
-        "Claims about Musk’s health, drug use, motives, misconduct, government actions, and resulting harms require independent verification.",
-        "The supplied material centers on commentary and a short interview excerpt, with limited underlying documentation.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
