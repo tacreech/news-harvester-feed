@@ -1,11 +1,195 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T02:12:00.628696Z",
+  "generated_at": "2026-11-27T15:12:00.628106Z",
   "reporting_window": {
-    "start": "2026-11-20T02:12:00.628696Z",
-    "end": "2026-11-27T02:12:00.628696Z"
+    "start": "2026-11-20T15:12:00.628106Z",
+    "end": "2026-11-27T15:12:00.628106Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "5ipURzZNEl0",
+      "title": "United States Suffers MAJOR HACK as Congress TURBO CHARGES Epstein Investigation, JUDGEMENT DAY!!",
+      "url": "https://www.youtube.com/watch?v=5ipURzZNEl0",
+      "published_at": "2026-11-27T14:48:54.000000Z",
+      "summary": "Aaron Parnas presents an update alleging a serious breach of the U.S. Air Force’s Cloud One platform, which he says supports personnel, logistics, maintenance, radar, and weapons-tracking systems. The episode reports that the intrusion was discovered during an upgrade, that Cyber Command is assessing the damage, and that application updates were blocked; it also notes that the attackers, extent of access, and possible data theft were unknown in the cited account. Parnas then discusses congressional plans to intensify the Epstein investigation, including possible witness interviews, public hearings, and scrutiny of financial institutions, while airing allegations of interference and concealment by public officials. He also highlights ICE’s response to reports about detention-center conditions and presents a lawyer’s testimony describing children allegedly being denied holiday food and treats. The episode closes with brief updates on a major storm, an EPA monitoring effort, litigation over birthright citizenship, and an upcoming Supreme Court case. The material is presented as a news commentary roundup, with several claims requiring independent verification.",
+      "topics": [
+        "Air Force cybersecurity incident",
+        "Epstein investigation",
+        "ICE detention conditions",
+        "U.S. legal and political updates"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Hackers breached the Air Force’s Cloud One platform and reached its control plane, disrupting software updates.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            16,
+            17,
+            18,
+            28,
+            29,
+            31,
+            33,
+            34,
+            45,
+            46,
+            47
+          ]
+        },
+        {
+          "claim": "The intrusion may have affected systems involving radar feeds and tracking bombs and missiles at more than 200 locations.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            24,
+            25,
+            26,
+            27,
+            37,
+            38,
+            39
+          ]
+        },
+        {
+          "claim": "Congressional Democrats plan to recall witnesses, hold public hearings, and investigate banks connected to Epstein.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            62,
+            63,
+            64,
+            65,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73
+          ]
+        },
+        {
+          "claim": "Children at an ICE detention facility were denied Thanksgiving food and later had holiday treats taken away.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            123,
+            124,
+            126,
+            127,
+            128,
+            129,
+            136,
+            137,
+            138,
+            146,
+            147,
+            148,
+            150,
+            153,
+            159,
+            160,
+            161
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The reported Air Force intrusion’s perpetrators, scope, and data impact remain undetermined in the source account.",
+          "evidence_segment_indices": [
+            32,
+            40,
+            41,
+            42,
+            43,
+            44
+          ],
+          "start_seconds": 73.52,
+          "end_seconds": 101.92
+        },
+        {
+          "point": "The episode describes proposed congressional actions concerning the Epstein investigation and attributes concealment allegations to public officials and commentators.",
+          "evidence_segment_indices": [
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            88,
+            89,
+            90,
+            93,
+            94,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107
+          ],
+          "start_seconds": 148.4,
+          "end_seconds": 238.08
+        },
+        {
+          "point": "A lawyer’s congressional testimony, as presented, alleges harsh treatment of children and families in ICE detention.",
+          "evidence_segment_indices": [
+            132,
+            133,
+            134,
+            136,
+            137,
+            138,
+            146,
+            147,
+            148,
+            150,
+            153,
+            159,
+            160,
+            161
+          ],
+          "start_seconds": 286.639,
+          "end_seconds": 366.08
+        },
+        {
+          "point": "Additional closing updates concern storm-related outages, EPA monitoring, birthright-citizenship litigation, and an upcoming AR-15 case.",
+          "evidence_segment_indices": [
+            186,
+            187,
+            188,
+            190,
+            191,
+            192,
+            193,
+            197,
+            198,
+            199,
+            200
+          ],
+          "start_seconds": 422.639,
+          "end_seconds": 459.44
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "c92844ffdde0e94b363cf3409285a3969c7f7f9de82b8a29568f4bbcffe6d093",
+      "transcript_captured_at": "2026-11-27T15:03:12.863409Z",
+      "summary_generated_at": "2026-11-27T15:08:24.272334Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies only on the supplied transcript and does not independently verify its reports or allegations.",
+        "Several captions contain apparent transcription errors, including names, places, and technical terms.",
+        "The transcript is a commentary roundup and provides limited sourcing for many closing updates.",
+        "Some statements are presented as quotations or testimony and should not be treated as established facts without corroboration.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
@@ -5104,212 +5288,6 @@
         "Several captions contain transcription errors, including malformed numbers, names, and phrases.",
         "The source does not provide full documents, responses from all parties, or enough context to assess the allegations conclusively.",
         "The inflation discussion includes clipped or ambiguous statements and references to geopolitical causes that are not fully explained.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "rgkqmNA_yIA",
-      "title": "‘KILLING US’ — Americans ERUPT as Trump Administration DETONATES Toxic Lead, Judge EVISCERATES Trump",
-      "url": "https://www.youtube.com/watch?v=rgkqmNA_yIA",
-      "published_at": "2026-11-25T15:03:32.000000Z",
-      "summary": "Aaron Parnas presents a critical overview of a reported U.S. Army detonation at the Iowa Army Ammunition Plant, saying residents faced evacuation or shelter-in-place guidance after officials deemed degraded explosive material unstable. He highlights the Army’s stated containment measures and relays concerns that public plume maps used less stringent assumptions than an EPA worst-case scenario, while noting that environmental and agricultural effects may take time to assess. Parnas then discusses a magistrate judge’s written criticism of federal prosecutors’ timing in a case against two former FBI officials, characterizing it as politically motivated. He also raises questions about a possible Pentagon-backed loan involving a company linked financially to Donald Trump Jr. and an unexplained government-account infusion for a Washington renovation. In an interview, Representative LaMonica McIver describes her ongoing federal case, her claim that it stems from congressional oversight, the personal and financial strain involved, and her plans to pursue investigations and accountability. The episode combines reported events, political commentary, allegations, and interviewee perspectives.",
-      "topics": [
-        "Iowa Army detonation",
-        "Lead containment and environmental monitoring",
-        "Federal prosecution and judicial criticism",
-        "Pentagon financing questions",
-        "LaMonica McIver legal case"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "The Army detonated nearly five tons of degraded explosive material at the Iowa Army Ammunition Plant and issued evacuation or shelter-in-place guidance.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            28,
-            29,
-            30,
-            31,
-            38,
-            39,
-            40,
-            41
-          ]
-        },
-        {
-          "claim": "A New York Times review reportedly found that Army plume maps used a less stringent standard than an EPA worst-case scenario, potentially understating a release.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            59,
-            60,
-            61,
-            62,
-            63,
-            64
-          ]
-        },
-        {
-          "claim": "A magistrate judge wrote that prosecutors rushed charges against two former FBI officials to influence looming elections.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            124,
-            125,
-            126,
-            131,
-            132,
-            133
-          ]
-        },
-        {
-          "claim": "The Pentagon is considering a $15 billion loan to a startup with financial ties to Donald Trump Jr.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            153,
-            154,
-            155,
-            156,
-            157,
-            158
-          ]
-        },
-        {
-          "claim": "A secret $300 million infusion funded a government account for Donald Trump's Washington renovation, with the payer unknown.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            159,
-            160,
-            161,
-            162,
-            163
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode reports that the Army cited instability and crystallization as reasons for the Iowa operation, while describing water, foam, screening, and monitoring measures.",
-          "evidence_segment_indices": [
-            43,
-            44,
-            45,
-            46,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57
-          ],
-          "start_seconds": 104.88,
-          "end_seconds": 140.64
-        },
-        {
-          "point": "Residents and reporters express uncertainty about contamination, protective equipment, livestock, soil testing, and when agricultural areas might be cleared.",
-          "evidence_segment_indices": [
-            72,
-            73,
-            75,
-            77,
-            80,
-            81,
-            82,
-            84,
-            85,
-            86,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110,
-            111,
-            114,
-            115,
-            116,
-            117
-          ],
-          "start_seconds": 166.72,
-          "end_seconds": 283.52
-        },
-        {
-          "point": "McIver says her federal case remains active after unsuccessful appellate efforts and that her legal team is weighing further review or trial.",
-          "evidence_segment_indices": [
-            176,
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184,
-            185,
-            186,
-            187,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195
-          ],
-          "start_seconds": 404.08,
-          "end_seconds": 451.44
-        },
-        {
-          "point": "McIver describes accountability as including congressional hearings, subpoenas, investigations, removals, and potentially criminal charges, while advocating oversight of detention facilities.",
-          "evidence_segment_indices": [
-            288,
-            289,
-            290,
-            293,
-            294,
-            295,
-            296,
-            297,
-            298,
-            299,
-            300,
-            301,
-            302,
-            303,
-            304,
-            315,
-            346,
-            347,
-            348,
-            349,
-            350,
-            351,
-            352,
-            353
-          ],
-          "start_seconds": 644.8,
-          "end_seconds": 782.16
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "1681d7acead6e2f5fdfabaf63749b53e65a9d3755b6ce8c879629c13597e6c22",
-      "transcript_captured_at": "2026-11-25T16:03:13.241476Z",
-      "summary_generated_at": "2026-11-25T16:08:26.280867Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains substantial caption defects and apparent name, terminology, and word-recognition errors.",
-        "Several allegations and reported legal or financial developments are presented without primary documents or independent corroboration in the source.",
-        "The source does not provide post-detonation monitoring results, contamination findings, or a confirmed timeline for agricultural clearance.",
-        "The interview records McIver’s own account of her case and allegations; it does not establish those claims as adjudicated facts.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
