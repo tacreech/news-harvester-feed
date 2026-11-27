@@ -1,11 +1,226 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T15:12:00.628106Z",
+  "generated_at": "2026-11-27T15:42:00.619623Z",
   "reporting_window": {
-    "start": "2026-11-20T15:12:00.628106Z",
-    "end": "2026-11-27T15:12:00.628106Z"
+    "start": "2026-11-20T15:42:00.619623Z",
+    "end": "2026-11-27T15:42:00.619623Z"
   },
   "episodes": [
+    {
+      "creator": "House of El – AI",
+      "channel_id": "UCsoc5Ad-fC7wWie2PH4rPcw",
+      "video_id": "t4GOIyjT7_I",
+      "title": "OpenAI and Anthropic Are Shutting Down AI",
+      "url": "https://www.youtube.com/watch?v=t4GOIyjT7_I",
+      "published_at": "2026-11-27T15:00:09.000000Z",
+      "summary": "The creator argues that AI companies and other powerful institutions increasingly apply one set of rules to the public and another to themselves. The episode examines allegations that Anthropic briefly concealed safeguards that reduced answers for users conducting advanced AI research, reports that OpenAI and Anthropic possess more capable unreleased models, and concerns about limited independent access for safety evaluators. It also discusses a reported Nvidia leadership reversal amid national-security and market concerns, while acknowledging that some allegations in that story lack official confirmation. The creator connects these examples to a broader concern: companies may retain the most capable systems, change products or testing conditions without adequate disclosure, and promote AI adoption while restricting or penalizing its use in certain contexts. The episode concludes by calling for transparency about deployed models and system changes, stronger independent evaluation, and testing beyond benchmark scores. Its central question is whether AI’s benefits and risks are being managed for the public or primarily for institutions controlling the technology.",
+      "topics": [
+        "AI governance and transparency",
+        "Anthropic and OpenAI safety practices",
+        "Independent AI evaluation",
+        "Nvidia and national security",
+        "Workplace AI policies"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The creator reports that Anthropic’s Claude Fable 5 initially used undisclosed safeguards that reduced usefulness for users working on cutting-edge AI, then made the safeguards visible and apologized.",
+          "attributed_to": "House of El – AI",
+          "evidence_segment_indices": [
+            295,
+            300,
+            301,
+            302,
+            303,
+            304,
+            305,
+            313,
+            314,
+            315,
+            316,
+            317
+          ]
+        },
+        {
+          "claim": "The creator reports that Axios, citing more than two dozen sources, described unreleased OpenAI and Anthropic models as substantially more capable than released systems and difficult to make safe for public use.",
+          "attributed_to": "House of El – AI",
+          "evidence_segment_indices": [
+            256,
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263
+          ]
+        },
+        {
+          "claim": "The creator says independent AI testers have received less time and more constrained access to evaluate models, while some testing organizations reported developers seeking excessive control over evaluations.",
+          "attributed_to": "House of El – AI",
+          "evidence_segment_indices": [
+            492,
+            493,
+            494,
+            495,
+            496,
+            497,
+            498,
+            499,
+            500,
+            501,
+            502,
+            503,
+            504,
+            505,
+            506,
+            507,
+            508,
+            509,
+            510,
+            511
+          ]
+        },
+        {
+          "claim": "The creator reports that Nvidia’s board reinstated Jensen Huang after his removal and that the US Commerce Department later blacklisted his former associate’s company and other firms over advanced-chip concerns.",
+          "attributed_to": "House of El – AI",
+          "evidence_segment_indices": [
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            106,
+            107,
+            108,
+            109,
+            110,
+            161,
+            166,
+            167,
+            168,
+            169,
+            170
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator frames the episode around perceived unequal access, accountability, and rule-setting between AI companies, executives, and ordinary users.",
+          "evidence_segment_indices": [
+            8,
+            9,
+            10,
+            13,
+            14,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52
+          ],
+          "start_seconds": 18.5,
+          "end_seconds": 123.792
+        },
+        {
+          "point": "The episode distinguishes reported evidence from the creator’s interpretation, including an explicit acknowledgment that some claims about alleged research sabotage cannot be confirmed from the available source.",
+          "evidence_segment_indices": [
+            321,
+            322,
+            323,
+            324,
+            325,
+            326,
+            327,
+            328,
+            329,
+            330,
+            331,
+            332,
+            333,
+            334
+          ],
+          "start_seconds": 714.698,
+          "end_seconds": 749.199
+        },
+        {
+          "point": "The creator argues that model quality and behavior may change through surrounding software or testing practices, making ordinary benchmark results insufficient for users assessing product consistency.",
+          "evidence_segment_indices": [
+            351,
+            352,
+            353,
+            354,
+            357,
+            358,
+            359,
+            360,
+            361,
+            362,
+            363,
+            364,
+            365,
+            366,
+            367,
+            368,
+            369
+          ],
+          "start_seconds": 779.699,
+          "end_seconds": 820.699
+        },
+        {
+          "point": "The proposed remedies are clearer disclosure, promised access for independent researchers, and broader evaluation of real-world performance.",
+          "evidence_segment_indices": [
+            519,
+            520,
+            521,
+            522,
+            523,
+            524,
+            525,
+            526,
+            527,
+            528,
+            529,
+            530,
+            531,
+            532,
+            533,
+            534
+          ],
+          "start_seconds": 1147.303,
+          "end_seconds": 1183.103
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "a6e654e46554ccbf67f43d3d144d29ea5b9d26fff65c61cb789d6aa107a535ce",
+      "transcript_captured_at": "2026-11-27T15:33:12.007784Z",
+      "summary_generated_at": "2026-11-27T15:38:27.465437Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies only on the supplied transcript and does not independently verify its cited reporting, studies, allegations, or dates.",
+        "Several claims are explicitly attributed to the creator, Axios, Max Tegmark, researchers, or other reported sources rather than presented as established fact.",
+        "The transcript contains caption defects and possible transcription errors, including names, product labels, and phrasing.",
+        "A substantial mid-episode sponsor segment interrupts the discussion and is excluded from the substantive overview.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -5100,194 +5315,6 @@
         "Many details are presented through Kulinski’s commentary or excerpts from other media rather than directly documented in the source.",
         "The transcript does not independently establish the detonation’s actual outcome, contamination levels, health effects, court record, contracts, or policy documents.",
         "Some claims and dates are ambiguous because excerpts are paraphrased and the transcript provides no supporting documents.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "Dix5CY7cadk",
-      "title": "‘THEY’RE ALL IN ON IT!’ – Massive Trump Family CORRUPTION EXPOSED in Shocking Grifting Scheme",
-      "url": "https://www.youtube.com/watch?v=Dix5CY7cadk",
-      "published_at": "2026-11-25T18:21:34.000000Z",
-      "summary": "Aaron Parnas argues that alleged financial benefits involving Donald Trump and Donald Trump Jr. illustrate a broader, interconnected “grift,” while Americans face persistent inflation. He discusses reporting that a National Park Service account associated with Trump projects received roughly $300 million whose source and intended uses were not identified, and that the account had collected nearly $800 million since Trump took office. Parnas also highlights a proposed Pentagon loan of up to $15 billion to Hadrien Automation, a startup reportedly linked financially to Trump Jr. through 1789 Capital, while noting concerns about the company’s limited track record and potential conflicts. The episode then turns to inflation data, citing a reported 3.8% annual PCE rate, a low savings rate, and household financial strain. It closes by contrasting these developments with the administration’s relatively limited response and includes a Medicare-plan sponsorship segment.",
-      "topics": [
-        "Alleged Trump family financial benefits",
-        "National Park Service account funding",
-        "Proposed Pentagon loan to Hadrien Automation",
-        "Inflation and household finances"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A National Park Service account associated with Trump projects received approximately $300 million from an unidentified source and nearly $800 million since Trump took office.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            22,
-            23,
-            26,
-            27,
-            28,
-            29,
-            30,
-            33,
-            34,
-            48,
-            49,
-            50
-          ]
-        },
-        {
-          "claim": "The Pentagon is considering a loan of up to $15 billion to Hadrien Automation, a startup with financial ties to Donald Trump Jr.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            60,
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            77
-          ]
-        },
-        {
-          "claim": "1789 Capital, where Donald Trump Jr. is a partner, participated in Hadrien Automation’s investment round and holds a minority stake.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            81,
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            88
-          ]
-        },
-        {
-          "claim": "The reported PCE inflation rate reached 3.8% annually and the savings rate was 4.1%.",
-          "attributed_to": "Aaron Parnas",
-          "evidence_segment_indices": [
-            147,
-            148,
-            152,
-            159,
-            160,
-            161,
-            162,
-            188,
-            189
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Parnas frames the episode as an alleged interconnected financial scheme involving Trump family figures.",
-          "evidence_segment_indices": [
-            0,
-            1,
-            2,
-            3,
-            55,
-            56,
-            57
-          ],
-          "start_seconds": 0.08,
-          "end_seconds": 124.32
-        },
-        {
-          "point": "The episode describes undisclosed funding for Trump-associated Washington projects and questions its source and use.",
-          "evidence_segment_indices": [
-            22,
-            23,
-            33,
-            34,
-            35,
-            36,
-            41,
-            42,
-            43,
-            50,
-            51,
-            52,
-            53,
-            54
-          ],
-          "start_seconds": 49.039,
-          "end_seconds": 117.36
-        },
-        {
-          "point": "It presents the proposed Hadrien loan as unusually large relative to the company and raises conflict-of-interest and taxpayer-protection concerns.",
-          "evidence_segment_indices": [
-            62,
-            65,
-            68,
-            77,
-            78,
-            79,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            96,
-            97,
-            98,
-            99,
-            100,
-            101,
-            102,
-            103,
-            104,
-            105
-          ],
-          "start_seconds": 129.36,
-          "end_seconds": 218.159
-        },
-        {
-          "point": "The latter portion links elevated inflation and low savings with financial pressure on households.",
-          "evidence_segment_indices": [
-            146,
-            147,
-            148,
-            159,
-            162,
-            173,
-            174,
-            175,
-            176,
-            188,
-            189,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195,
-            196
-          ],
-          "start_seconds": 300.639,
-          "end_seconds": 416.0
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "a392e5b0b690ece9bd28c525a21511e78e83f2637cf0a6e87c15532de8ce7a33",
-      "transcript_captured_at": "2026-11-25T19:33:13.699598Z",
-      "summary_generated_at": "2026-11-25T19:38:24.889616Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The overview reflects the episode’s transcript and cited reporting, not independently verified findings.",
-        "Several captions contain transcription errors, including malformed numbers, names, and phrases.",
-        "The source does not provide full documents, responses from all parties, or enough context to assess the allegations conclusively.",
-        "The inflation discussion includes clipped or ambiguous statements and references to geopolitical causes that are not fully explained.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
