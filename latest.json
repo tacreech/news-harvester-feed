@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T12:00:15.393189Z",
+  "generated_at": "2026-11-27T12:30:40.030269Z",
   "reporting_window": {
-    "start": "2026-11-20T12:00:15.393189Z",
-    "end": "2026-11-27T12:00:15.393189Z",
+    "start": "2026-11-20T12:30:40.030269Z",
+    "end": "2026-11-27T12:30:40.030269Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,7 +14,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-27T12:00:14.357748Z",
+      "last_successful_poll": "2026-11-27T12:30:38.791202Z",
       "warnings": []
     },
     {
@@ -23,7 +23,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-27T12:00:14.543097Z",
+      "last_successful_poll": "2026-11-27T12:30:38.992188Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-27T12:00:14.713849Z",
+      "last_successful_poll": "2026-11-27T12:30:39.186819Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-27T12:00:14.980661Z",
+      "last_successful_poll": "2026-11-27T12:30:39.520858Z",
       "warnings": []
     },
     {
@@ -50,7 +50,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-27T12:00:15.229373Z",
+      "last_successful_poll": "2026-11-27T12:30:39.910919Z",
       "warnings": []
     }
   ],
@@ -1755,18 +1755,6 @@
       "published_at": "2026-11-20T14:02:50.000000Z",
       "url": "https://www.youtube.com/watch?v=DApobkd-tso",
       "first_seen": "2026-11-20T14:30:13.894833Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "not_queued"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "Ej-7W698vbE",
-      "title": "Breaking: Donald Trump’s friend is threatening NATO and bombing Ukrainians.",
-      "published_at": "2026-11-20T12:20:11.000000Z",
-      "url": "https://www.youtube.com/watch?v=Ej-7W698vbE",
-      "first_seen": "2026-11-20T12:30:54.015937Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "not_queued"
