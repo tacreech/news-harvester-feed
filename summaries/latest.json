@@ -1,11 +1,256 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T15:42:00.619623Z",
+  "generated_at": "2026-11-27T19:42:00.633220Z",
   "reporting_window": {
-    "start": "2026-11-20T15:42:00.619623Z",
-    "end": "2026-11-27T15:42:00.619623Z"
+    "start": "2026-11-20T19:42:00.633220Z",
+    "end": "2026-11-27T19:42:00.633220Z"
   },
   "episodes": [
+    {
+      "creator": "Kyle Kulinski — Secular Talk",
+      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
+      "video_id": "7BrCGUWD3lg",
+      "title": "Trump Has THANKSGIVING FROM HELL As US Air Force CYBER-ATTACKED!! | The Kyle Kulinski Show",
+      "url": "https://www.youtube.com/watch?v=7BrCGUWD3lg",
+      "published_at": "2026-11-27T18:21:18.000000Z",
+      "summary": "Kyle Kulinski presents a strongly critical roundup of alleged government misconduct, political conflict, cyber incidents, economic effects, and progressive organizing. He argues that authorities downplayed or concealed risks associated with a purported lead-containing explosion, though the transcript provides no corroborating documentation. Kulinski also discusses a Thanksgiving message attributed to Trump, portraying it as hostile toward immigrants, critics, and opponents. He highlights reports that a federal judge blocked another effort to restrict birthright citizenship and that the Justice Department apologized for misrepresenting a House lawyer’s position in filings related to an Ilhan Omar search. Much of the episode focuses on reported cyberattacks affecting a U.S. Air Force cloud platform, SAP, the UK Department for Work and Pensions, and other systems; the transcript says the Air Force breach’s perpetrators, scope, and data impact remain unknown. Kulinski connects these incidents to broader fears about AI, employment, and financial-system security. He closes by celebrating reported rent and city-bike price measures in New York and praising newer Democratic figures. The account is commentary-driven and requires independent verification.",
+      "topics": [
+        "Political commentary and Trump",
+        "Cybersecurity and AI risks",
+        "Immigration and constitutional litigation",
+        "Economic inequality and labor",
+        "Progressive politics and housing"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Hackers breached the U.S. Air Force’s Cloud One platform, which supports sensitive military operations, and exploited a software vulnerability.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259
+          ]
+        },
+        {
+          "claim": "A federal judge blocked Trump’s second attempt to restrict birthright citizenship after the Supreme Court rejected his first executive order.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199
+          ]
+        },
+        {
+          "claim": "The Justice Department apologized for misrepresenting the House’s top lawyer in filings concerning an October search of Representative Ilhan Omar’s residence.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            488,
+            489,
+            490,
+            491,
+            492,
+            493,
+            494,
+            495,
+            496
+          ]
+        },
+        {
+          "claim": "Black median household income in Washington, D.C., fell to $52,700 in 2025, reportedly linked to federal layoffs that disproportionately affected Black workers.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            627,
+            628,
+            629,
+            630,
+            634,
+            635,
+            636,
+            637,
+            638,
+            639,
+            640
+          ]
+        },
+        {
+          "claim": "New York froze rent for nearly one million new tenants and capped city-bike prices at $3.65, described as a 70% reduction.",
+          "attributed_to": "Kyle Kulinski — Secular Talk",
+          "evidence_segment_indices": [
+            699,
+            700,
+            701,
+            702,
+            712,
+            713,
+            714,
+            715
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "Kulinski attributes the episode’s central claims to commentary and cited reports, while alleging authorities routinely minimize public risks.",
+          "evidence_segment_indices": [
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            49,
+            50
+          ],
+          "start_seconds": 79.28,
+          "end_seconds": 105.68
+        },
+        {
+          "point": "He frames multiple reported cyber incidents as evidence of growing vulnerability, while acknowledging that the Air Force breach’s identity, scope, and data loss were unknown.",
+          "evidence_segment_indices": [
+            214,
+            215,
+            216,
+            217,
+            218,
+            226,
+            227,
+            260,
+            261,
+            262,
+            263,
+            264
+          ],
+          "start_seconds": 417.039,
+          "end_seconds": 520.479
+        },
+        {
+          "point": "He criticizes Trump’s reported rhetoric on immigrants, economic data, White House renovations, and birthright citizenship.",
+          "evidence_segment_indices": [
+            55,
+            59,
+            60,
+            61,
+            62,
+            63,
+            75,
+            76,
+            87,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            126,
+            127,
+            131,
+            132,
+            133,
+            193,
+            194,
+            195
+          ],
+          "start_seconds": 112.24,
+          "end_seconds": 382.88
+        },
+        {
+          "point": "The episode links AI to potential job losses and future threats to financial encryption, presenting these as concerns raised by cited outlets and officials.",
+          "evidence_segment_indices": [
+            274,
+            275,
+            276,
+            277,
+            278,
+            279,
+            280,
+            284,
+            285,
+            286,
+            361,
+            362,
+            363,
+            364,
+            365,
+            366,
+            367,
+            368,
+            369,
+            370,
+            371,
+            372,
+            373,
+            374
+          ],
+          "start_seconds": 533.44,
+          "end_seconds": 735.44
+        },
+        {
+          "point": "Kulinski ends on favorable coverage of progressive candidates and reported affordability measures in New York.",
+          "evidence_segment_indices": [
+            407,
+            408,
+            409,
+            416,
+            417,
+            418,
+            419,
+            420,
+            421,
+            422,
+            699,
+            700,
+            701,
+            702,
+            703,
+            704,
+            705,
+            712,
+            713,
+            714,
+            715,
+            716,
+            717,
+            718
+          ],
+          "start_seconds": 797.76,
+          "end_seconds": 1442.96
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "78b3936fbc94fc96d46e4e9ea651bc0dcf22201679528cde20df81322c3940eb",
+      "transcript_captured_at": "2026-11-27T19:33:13.138054Z",
+      "summary_generated_at": "2026-11-27T19:38:28.573941Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript is an opinionated monologue and does not independently establish the truth of its allegations.",
+        "Automatic captions contain apparent transcription errors, including names, technical terms, numbers, and profanity placeholders.",
+        "Several reports are relayed through unnamed or secondary sources, and the source provides no links or supporting documents.",
+        "Some claims are predictions or interpretations, such as possible Iranian involvement in the Air Force incident and the broader consequences of AI.",
+        "Coverage is limited to the supplied transcript and does not establish the status, context, or outcome of the reported events.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "House of El – AI",
       "channel_id": "UCsoc5Ad-fC7wWie2PH4rPcw",
@@ -5043,278 +5288,6 @@
         "The debate framework and media-status claims are presented through Kulinski's commentary and are not independently confirmed here.",
         "Kulinski's assessments of likely hosts and selection probabilities are explicitly speculative.",
         "The excerpt covers one discussion segment and may omit surrounding context or source documents.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "_ibWvtOL4m0",
-      "title": "HAPPY THANKSGIVING!! Have Some Lead Poisoning.. | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=_ibWvtOL4m0",
-      "published_at": "2026-11-25T19:30:09.000000Z",
-      "summary": "Kyle Kulinski presents a strongly critical commentary on an alleged Iowa Army Ammunition Plant detonation involving lead azide and other hazardous materials. He characterizes the event as a major public-health and government-accountability failure, citing reported shelter-in-place guidance, projected airborne lead dust, risks to farmland, livestock, waterways, and drinking-water systems, and warnings aimed especially at vulnerable residents. Kulinski also alleges that safer neutralization options were available, that officials had known about the issue for years, and that contractors connected to the plant received substantial new work. The episode further links the situation to federal policy promoting development on contaminated or military land. Near the end, he discusses an official’s reported claim that monitoring detected no remaining contamination and disputes that reassurance by comparing it with past government statements about environmental and public-health risks. The transcript includes extensive sarcasm, political judgments, and quoted or paraphrased media reports; it does not independently establish the underlying claims.",
-      "topics": [
-        "Iowa ammunition-plant detonation",
-        "Lead contamination and public health",
-        "Emergency response and accountability",
-        "Military land and AI development",
-        "Environmental regulation"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "A federal court authorized the U.S. Army to detonate nearly five tons of lead azide at the Iowa Army Ammunition Plant.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            351,
-            352,
-            353,
-            354,
-            357,
-            358,
-            359
-          ]
-        },
-        {
-          "claim": "Officials issued warnings involving sheltering, evacuation, airborne lead dust, and protective measures for residents and farmers.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            77,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83,
-            84,
-            85,
-            86,
-            221,
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            229,
-            310,
-            311,
-            312,
-            313,
-            315
-          ]
-        },
-        {
-          "claim": "Safer neutralization options were proposed, but the Army and officials did not use them before the detonation.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            553,
-            554,
-            555,
-            556,
-            557,
-            558,
-            559,
-            560,
-            569,
-            570,
-            571,
-            572,
-            573,
-            574,
-            575,
-            576,
-            577,
-            578
-          ]
-        },
-        {
-          "claim": "The contractor associated with the plant received a $2.3 billion contract for an ammunition-storage depot in Nevada.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            591,
-            592,
-            593,
-            594,
-            595,
-            596
-          ]
-        },
-        {
-          "claim": "An EPA official said air monitors showed zero detection after the blast and that the blast cratered inward as intended.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            743,
-            744,
-            745,
-            746,
-            757,
-            758,
-            759,
-            760,
-            767,
-            768,
-            769,
-            770,
-            771,
-            772,
-            773,
-            774
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The episode focuses primarily on the alleged Iowa detonation and its potential environmental consequences.",
-          "evidence_segment_indices": [
-            74,
-            75,
-            76,
-            143,
-            144,
-            145,
-            146,
-            147,
-            161,
-            162,
-            163,
-            164
-          ],
-          "start_seconds": 153.76,
-          "end_seconds": 337.52
-        },
-        {
-          "point": "Kulinski highlights possible effects on soil, farmland, water, livestock, food production, and nearby communities.",
-          "evidence_segment_indices": [
-            182,
-            183,
-            184,
-            185,
-            189,
-            190,
-            191,
-            192,
-            193,
-            194,
-            195,
-            196,
-            197,
-            198,
-            298,
-            299,
-            300,
-            303,
-            304,
-            305,
-            306,
-            310,
-            311,
-            312
-          ],
-          "start_seconds": 364.24,
-          "end_seconds": 618.24
-        },
-        {
-          "point": "He argues that the incident reflects delayed planning, inadequate public communication, and weak government oversight.",
-          "evidence_segment_indices": [
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            367,
-            368,
-            369,
-            370,
-            371,
-            372,
-            373
-          ],
-          "start_seconds": 271.759,
-          "end_seconds": 726.0
-        },
-        {
-          "point": "The program connects the plant to proposed private development, crypto mining, and AI data-center policy on contaminated or military land.",
-          "evidence_segment_indices": [
-            376,
-            377,
-            378,
-            390,
-            391,
-            392,
-            393,
-            394,
-            395,
-            396,
-            397,
-            398,
-            399,
-            400,
-            401,
-            402,
-            403,
-            404,
-            405,
-            406,
-            407,
-            408,
-            409,
-            410
-          ],
-          "start_seconds": 728.0,
-          "end_seconds": 798.32
-        },
-        {
-          "point": "The source ends by disputing official reassurance and framing the event through partisan criticism.",
-          "evidence_segment_indices": [
-            743,
-            744,
-            745,
-            746,
-            747,
-            748,
-            749,
-            750,
-            751,
-            752,
-            753,
-            754,
-            755,
-            775,
-            776,
-            781,
-            782,
-            783,
-            800,
-            801,
-            802,
-            803
-          ],
-          "start_seconds": 1504.559,
-          "end_seconds": 1640.88
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "9c23e444a342c231066b402d2d9ab662b20669cbabc574459c8b32baaa497245",
-      "transcript_captured_at": "2026-11-25T20:33:13.683393Z",
-      "summary_generated_at": "2026-11-25T20:38:28.945479Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains caption defects, including garbled chemical names, duplicated speech, and missing profanity markers.",
-        "Many details are presented through Kulinski’s commentary or excerpts from other media rather than directly documented in the source.",
-        "The transcript does not independently establish the detonation’s actual outcome, contamination levels, health effects, court record, contracts, or policy documents.",
-        "Some claims and dates are ambiguous because excerpts are paraphrased and the transcript provides no supporting documents.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
