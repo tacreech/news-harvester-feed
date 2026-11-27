@@ -1,11 +1,177 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T23:42:00.624300Z",
+  "generated_at": "2026-11-27T02:12:00.628696Z",
   "reporting_window": {
-    "start": "2026-11-19T23:42:00.624300Z",
-    "end": "2026-11-26T23:42:00.624300Z"
+    "start": "2026-11-20T02:12:00.628696Z",
+    "end": "2026-11-27T02:12:00.628696Z"
   },
   "episodes": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "JKKO_-Ao1DQ",
+      "title": "Playstation Lost, GTA 6 Got Leaked Again...",
+      "url": "https://www.youtube.com/watch?v=JKKO_-Ao1DQ",
+      "published_at": "2026-11-27T00:18:43.000000Z",
+      "summary": "The creator argues that alleged GTA 6 leaks and rapidly developing unofficial PC efforts expose tensions over game ownership, platform exclusivity, and digital rights. He says he briefly played the game on a friend’s legally purchased PlayStation and praises its detailed robbery systems, vehicle choices, and open-world design, while acknowledging that his experience was limited. The episode describes alleged console dumps, translation layers, emulation projects, and AI-assisted development, but repeatedly notes that some reports—especially claims of multiplayer functionality—could not be confirmed. The creator criticizes Sony, Rockstar, and Take-Two for reducing physical ownership and delaying a PC release, framing unauthorized access as a form of civil disobedience while still discouraging piracy and downloads. He also warns that unofficial repositories may contain malware and that contributors could face legal exposure. Finally, he predicts that continued technical progress could pressure Take-Two to release an official PC version sooner, though this remains speculation.",
+      "topics": [
+        "GTA 6 leaks",
+        "Game ownership",
+        "Unofficial PC development",
+        "AI-assisted coding",
+        "Piracy and legal risk"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "Unofficial GTA 6 builds reportedly exist for PlayStation and Xbox, with projects attempting to run them through emulation or translation layers.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            282,
+            288,
+            334,
+            337,
+            340
+          ]
+        },
+        {
+          "claim": "The creator reports that a PC effort reached approximately 91.3% progress and could run portions of the game at low frame rates.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            373,
+            375,
+            378,
+            389,
+            398,
+            400
+          ]
+        },
+        {
+          "claim": "The creator relays an unconfirmed claim that an unofficial PC translation layer achieved multiplayer functionality.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            426,
+            432,
+            434,
+            437,
+            438,
+            440
+          ]
+        },
+        {
+          "claim": "The creator says Take-Two removed roughly 3,000 related PC ports and that dozens of public projects remained active.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            237,
+            239,
+            240,
+            452,
+            455,
+            458
+          ]
+        },
+        {
+          "claim": "The creator predicts that leak-related momentum could lead Take-Two to release an official PC version earlier than planned.",
+          "attributed_to": "Mutahar — SomeOrdinaryGamers",
+          "evidence_segment_indices": [
+            732,
+            733,
+            735,
+            738,
+            740
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The creator presents the alleged leaks as a failure of PlayStation’s efforts to prevent game dumps.",
+          "evidence_segment_indices": [
+            12,
+            17,
+            18,
+            282,
+            288
+          ],
+          "start_seconds": 25.119,
+          "end_seconds": 628.56
+        },
+        {
+          "point": "He praises GTA 6’s reported gameplay depth, especially flexible robbery approaches and vehicle tradeoffs.",
+          "evidence_segment_indices": [
+            71,
+            75,
+            82,
+            88,
+            93,
+            102,
+            113,
+            116
+          ],
+          "start_seconds": 160.72,
+          "end_seconds": 254.799
+        },
+        {
+          "point": "He frames physical media and long-term access as central concerns about modern game ownership.",
+          "evidence_segment_indices": [
+            22,
+            31,
+            34,
+            138,
+            140,
+            192,
+            228,
+            235
+          ],
+          "start_seconds": 48.719,
+          "end_seconds": 497.84
+        },
+        {
+          "point": "He warns that unofficial files and repositories may expose users to malware or legal consequences.",
+          "evidence_segment_indices": [
+            667,
+            670,
+            675,
+            680,
+            704,
+            711,
+            723,
+            725
+          ],
+          "start_seconds": 1441.44,
+          "end_seconds": 1575.6
+        },
+        {
+          "point": "AI-assisted coding is portrayed as accelerating unofficial compatibility work despite severe technical problems.",
+          "evidence_segment_indices": [
+            480,
+            485,
+            524,
+            531,
+            568,
+            570,
+            635,
+            637
+          ],
+          "start_seconds": 1043.839,
+          "end_seconds": 1383.039
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "fecc1efeb566cc446fa78414b0a36bb8c1d9bef9d2817eadc1f8396cf5ea428c",
+      "transcript_captured_at": "2026-11-27T02:03:12.706570Z",
+      "summary_generated_at": "2026-11-27T02:08:24.874335Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The transcript contains substantial automatic-caption errors, profanity redactions, interruptions, and malformed phrases.",
+        "Many leak, project-status, performance, legal, and malware statements are presented only through the creator’s account and are not independently established here.",
+        "The creator explicitly says he cannot confirm the reported multiplayer footage.",
+        "The episode provides limited technical detail and no independently verifiable documentation for several numerical or legal claims.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Kyle Kulinski — Secular Talk",
       "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
@@ -5144,250 +5310,6 @@
         "Several allegations and reported legal or financial developments are presented without primary documents or independent corroboration in the source.",
         "The source does not provide post-detonation monitoring results, contamination findings, or a confirmed timeline for agricultural clearance.",
         "The interview records McIver’s own account of her case and allegations; it does not establish those claims as adjudicated facts.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "FZsJHGRa47E",
-      "title": "Hakeem PANICS As AIPAC Lies FINALLY CATCH UP TO HIM!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=FZsJHGRa47E",
-      "published_at": "2026-11-25T00:05:14.000000Z",
-      "summary": "Kyle Kulinski argues that Hakeem Jeffries is already unpopular with Democratic voters despite recently becoming House Democratic leader, citing an unshown poll that he says puts leadership approval at minus six. Kulinski criticizes Jeffries’s New York Times interview about AIPAC, portraying Jeffries’s statements about contributions and small-dollar fundraising as evasive and misleading. He alleges that AIPAC-linked money may continue through intermediary groups, though the episode provides no independent documentation. Kulinski also condemns Jeffries’s reluctance to commit to using a government-shutdown fight to end funding for the Iran war, interpreting that caution as evidence that Democratic leaders will preserve existing foreign-policy and donor relationships. He predicts Democrats will squander their electoral victory unless activists pressure congressional leaders toward more progressive positions. The episode is therefore primarily commentary and argument: it includes excerpts from an interview and Kulinski’s interpretations, but does not independently establish the poll, funding networks, private meeting allegations, or the broader claims about congressional motivations.",
-      "topics": [
-        "Hakeem Jeffries",
-        "AIPAC and campaign finance",
-        "Democratic leadership",
-        "Iran war funding",
-        "Progressive activism"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "Kulinski says a poll shows Democratic voters rate Democratic leadership at minus six after the 2026 election.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            2,
-            3,
-            13,
-            16,
-            17,
-            18,
-            19
-          ]
-        },
-        {
-          "claim": "Kulinski alleges AIPAC-linked funding is being routed through intermediary or shell groups.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            69,
-            70,
-            71,
-            72,
-            73,
-            74,
-            78,
-            80,
-            82,
-            83,
-            84,
-            85,
-            86,
-            87,
-            88,
-            89,
-            99,
-            100,
-            101
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that Jeffries secretly met Jared Kushner and subsequently influenced committee assignments.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            201,
-            202,
-            203,
-            204,
-            205,
-            207,
-            208,
-            209
-          ]
-        },
-        {
-          "claim": "Kulinski alleges that Jeffries, Chuck Schumer, and others support continuing the Iran war because of AIPAC-related funding.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            309,
-            314,
-            315,
-            316,
-            317,
-            318,
-            319,
-            320,
-            321,
-            322,
-            323,
-            324,
-            329,
-            330
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "Kulinski frames Jeffries’s negative approval rating as evidence that Democratic voters oppose the party leadership rather than simply support Democrats.",
-          "evidence_segment_indices": [
-            13,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30
-          ],
-          "start_seconds": 35.04,
-          "end_seconds": 82.64
-        },
-        {
-          "point": "The episode disputes Jeffries’s account of AIPAC contributions and criticizes his emphasis on small-dollar donations.",
-          "evidence_segment_indices": [
-            40,
-            41,
-            42,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            60,
-            61,
-            62,
-            63,
-            64,
-            67,
-            68,
-            69
-          ],
-          "start_seconds": 98.64,
-          "end_seconds": 162.319
-        },
-        {
-          "point": "Kulinski argues that Jeffries’s answers about shutdown negotiations do not commit Democrats to withholding funding for the Iran war.",
-          "evidence_segment_indices": [
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            222,
-            223,
-            224,
-            225,
-            226,
-            227,
-            228,
-            229,
-            230,
-            240,
-            241,
-            242,
-            243,
-            244,
-            245,
-            246,
-            292
-          ],
-          "start_seconds": 448.56,
-          "end_seconds": 598.48
-        },
-        {
-          "point": "Kulinski predicts Democratic leaders will squander their electoral gains unless grassroots activists pressure them.",
-          "evidence_segment_indices": [
-            355,
-            356,
-            357,
-            358,
-            359,
-            360,
-            361,
-            362,
-            363,
-            364,
-            365,
-            375,
-            376,
-            377,
-            378,
-            379,
-            380,
-            385,
-            386,
-            387,
-            388,
-            389,
-            390,
-            391
-          ],
-          "start_seconds": 723.519,
-          "end_seconds": 809.92
-        },
-        {
-          "point": "The episode closes with calls to like, subscribe, and support the show through Patreon and other channels.",
-          "evidence_segment_indices": [
-            397,
-            398,
-            399,
-            400,
-            401,
-            402,
-            403,
-            404,
-            405,
-            406,
-            407,
-            408,
-            409
-          ],
-          "start_seconds": 817.92,
-          "end_seconds": 842.88
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "29a016deea0b282ec9436de86063644e0264eb3e1f937ec052f3368b3c5ada1a",
-      "transcript_captured_at": "2026-11-25T02:03:22.683960Z",
-      "summary_generated_at": "2026-11-25T02:08:32.228087Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The cited poll is not shown or identified in the episode, so its methodology, timing, and figures cannot be assessed from the source.",
-        "Automatic captions contain apparent name errors, including variants of Hakeem Jeffries and AIPAC, plus profanity redactions and transcription defects.",
-        "The episode presents allegations about funding networks, private meetings, and political motives without documentary support in the provided segments.",
-        "The overview reflects one commentator’s framing and interview excerpts; it does not independently verify the underlying political or military claims.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
