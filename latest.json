@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28T00:00:22.989430Z",
+  "generated_at": "2026-11-28T00:30:36.955765Z",
   "reporting_window": {
-    "start": "2026-11-21T00:00:22.989430Z",
-    "end": "2026-11-28T00:00:22.989430Z",
+    "start": "2026-11-21T00:30:36.955765Z",
+    "end": "2026-11-28T00:30:36.955765Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,7 +14,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-28T00:00:19.962239Z",
+      "last_successful_poll": "2026-11-28T00:30:33.893597Z",
       "warnings": []
     },
     {
@@ -23,7 +23,7 @@
       "identity_status": "verified",
       "health": "success_new",
       "discovery_status": "success_new",
-      "last_successful_poll": "2026-11-28T00:00:20.277162Z",
+      "last_successful_poll": "2026-11-28T00:30:34.072202Z",
       "warnings": []
     },
     {
@@ -32,7 +32,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-28T00:00:20.475745Z",
+      "last_successful_poll": "2026-11-28T00:30:34.285256Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-28T00:00:21.585370Z",
+      "last_successful_poll": "2026-11-28T00:30:35.425081Z",
       "warnings": []
     },
     {
@@ -50,11 +50,23 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-28T00:00:22.824822Z",
+      "last_successful_poll": "2026-11-28T00:30:36.778555Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "3O6OLAFF630",
+      "title": "White House in TURMOIL as Cabinet Secretaries RUN for EXITS, it is ROUGH for Trump!!",
+      "published_at": "2026-11-28T00:02:57.000000Z",
+      "url": "https://www.youtube.com/watch?v=3O6OLAFF630",
+      "first_seen": "2026-11-28T00:30:34.072202Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -473,7 +485,7 @@
       "first_seen": "2026-11-26T00:01:00.273313Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "captions_ready"
+      "transcript_status": "expired"
     },
     {
       "creator": "Aaron Parnas",
@@ -497,7 +509,7 @@
       "first_seen": "2026-11-25T23:30:20.030451Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "captions_ready"
+      "transcript_status": "expired"
     },
     {
       "creator": "Kyle Kulinski — Secular Talk",
@@ -509,7 +521,7 @@
       "first_seen": "2026-11-25T23:00:17.456566Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "captions_ready"
+      "transcript_status": "expired"
     },
     {
       "creator": "Aaron Parnas",
@@ -533,7 +545,7 @@
       "first_seen": "2026-11-25T22:30:59.917618Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "captions_ready"
+      "transcript_status": "expired"
     },
     {
       "creator": "Kyle Kulinski — Secular Talk",
