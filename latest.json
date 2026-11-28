@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28T00:30:36.955765Z",
+  "generated_at": "2026-11-28T01:00:21.202023Z",
   "reporting_window": {
-    "start": "2026-11-21T00:30:36.955765Z",
-    "end": "2026-11-28T00:30:36.955765Z",
+    "start": "2026-11-21T01:00:21.202023Z",
+    "end": "2026-11-28T01:00:21.202023Z",
     "days": 7,
     "basis": "publication_time_utc"
   },
@@ -14,25 +14,25 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-28T00:30:33.893597Z",
+      "last_successful_poll": "2026-11-28T01:00:20.041436Z",
       "warnings": []
     },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
       "identity_status": "verified",
-      "health": "success_new",
-      "discovery_status": "success_new",
-      "last_successful_poll": "2026-11-28T00:30:34.072202Z",
+      "health": "success_no_new",
+      "discovery_status": "success_no_new",
+      "last_successful_poll": "2026-11-28T01:00:20.270222Z",
       "warnings": []
     },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
       "identity_status": "verified",
-      "health": "success_no_new",
-      "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-28T00:30:34.285256Z",
+      "health": "success_new",
+      "discovery_status": "success_new",
+      "last_successful_poll": "2026-11-28T01:00:20.493776Z",
       "warnings": []
     },
     {
@@ -41,7 +41,7 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-28T00:30:35.425081Z",
+      "last_successful_poll": "2026-11-28T01:00:20.747151Z",
       "warnings": []
     },
     {
@@ -50,11 +50,23 @@
       "identity_status": "verified",
       "health": "success_no_new",
       "discovery_status": "success_no_new",
-      "last_successful_poll": "2026-11-28T00:30:36.778555Z",
+      "last_successful_poll": "2026-11-28T01:00:21.042379Z",
       "warnings": []
     }
   ],
   "videos": [
+    {
+      "creator": "Mutahar — SomeOrdinaryGamers",
+      "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "video_id": "EVDaBfFcEuA",
+      "title": "Please Stop This From Happening...",
+      "published_at": "2026-11-28T00:27:18.000000Z",
+      "url": "https://www.youtube.com/watch?v=EVDaBfFcEuA",
+      "first_seen": "2026-11-28T01:00:20.493776Z",
+      "discovery_source": "youtube_atom",
+      "discovery_status": "discovered",
+      "transcript_status": "not_queued"
+    },
     {
       "creator": "Aaron Parnas",
       "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
@@ -461,7 +473,7 @@
       "first_seen": "2026-11-26T00:31:00.434580Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "captions_ready"
+      "transcript_status": "expired"
     },
     {
       "creator": "Kyle Kulinski — Secular Talk",
@@ -473,7 +485,7 @@
       "first_seen": "2026-11-26T00:01:00.273313Z",
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
-      "transcript_status": "captions_ready"
+      "transcript_status": "expired"
     },
     {
       "creator": "Kyle Kulinski — Secular Talk",
@@ -1734,30 +1746,6 @@
       "discovery_source": "youtube_atom",
       "discovery_status": "discovered",
       "transcript_status": "expired"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "2RGDGx4cr-A",
-      "title": "Watch this moment.",
-      "published_at": "2026-11-21T00:49:03.000000Z",
-      "url": "https://www.youtube.com/watch?v=2RGDGx4cr-A",
-      "first_seen": "2026-11-21T01:30:53.873050Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "not_queued"
-    },
-    {
-      "creator": "Aaron Parnas",
-      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
-      "video_id": "jt5nXkZawGw",
-      "title": "Why do you think that is?",
-      "published_at": "2026-11-21T00:33:17.000000Z",
-      "url": "https://www.youtube.com/watch?v=jt5nXkZawGw",
-      "first_seen": "2026-11-21T01:00:14.015630Z",
-      "discovery_source": "youtube_atom",
-      "discovery_status": "discovered",
-      "transcript_status": "not_queued"
     }
   ]
 }
