@@ -1,11 +1,200 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28T02:12:00.620730Z",
+  "generated_at": "2026-11-28T16:42:00.619577Z",
   "reporting_window": {
-    "start": "2026-11-21T02:12:00.620730Z",
-    "end": "2026-11-28T02:12:00.620730Z"
+    "start": "2026-11-21T16:42:00.619577Z",
+    "end": "2026-11-28T16:42:00.619577Z"
   },
   "episodes": [
+    {
+      "creator": "Aaron Parnas",
+      "channel_id": "UCyxcZgX1wNU-nk1yB9CvzSw",
+      "video_id": "kqJK6eqSBFc",
+      "title": "'‘HE’S A CRIMINAL’ — Exposing the BOMBSHELL Trump Money Trail—Contractors, Illegal Spending, More",
+      "url": "https://www.youtube.com/watch?v=kqJK6eqSBFc",
+      "published_at": "2026-11-28T15:15:23.000000Z",
+      "summary": "Aaron Parnas presents an allegation-driven overview of alleged executive-branch spending and contracting abuses, arguing that congressional oversight should “follow the money.” He cites a reported Government Accountability Office finding that more than $9 billion was spent despite asserted statutory restrictions, and describes the legal framework governing congressional appropriations and the Anti-Deficiency Act. The episode then examines claims that taxpayer funds contributed substantially to a White House ballroom project publicly described by Donald Trump as taxpayer-free, while contractors’ estimates allegedly exceeded public figures. Parnas also discusses an unusually large National Park Service account deposit, alleged use of park fees for presidential projects, and reported donations from defense and technology companies with business before the government. Additional allegations concern advertising expenditures, delayed or withheld appropriations, foreign aid, Ukraine funding, and transfers involving America 250 initiatives. The creator acknowledges that the administration disputes the legal interpretation, attacks the GAO’s impartiality, and that some allegations rely on anonymous sources. He calls for congressional subpoenas and investigation.",
+      "topics": [
+        "Executive spending authority",
+        "White House ballroom funding",
+        "Donor and contractor relationships",
+        "National Park Service funds",
+        "Congressional oversight"
+      ],
+      "claims_to_verify": [
+        {
+          "claim": "The Government Accountability Office found that the administration spent more than $9 billion in violation of the Anti-Deficiency Act.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            41,
+            42,
+            43,
+            44,
+            59,
+            60,
+            61
+          ]
+        },
+        {
+          "claim": "Taxpayer sources accounted for more than half of the reported $600 million White House ballroom estimate.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111
+          ]
+        },
+        {
+          "claim": "Defense and technology companies contributed tens of millions of dollars to presidential projects while seeking government-related outcomes.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241
+          ]
+        },
+        {
+          "claim": "A National Park Service account received an unexplained $347 million deposit and was used for presidential projects.",
+          "attributed_to": "Aaron Parnas",
+          "evidence_segment_indices": [
+            189,
+            190,
+            191,
+            192,
+            193,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207
+          ]
+        }
+      ],
+      "key_points": [
+        {
+          "point": "The episode frames appropriations law and congressional control of spending as the central legal issue.",
+          "evidence_segment_indices": [
+            30,
+            31,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "start_seconds": 65.519,
+          "end_seconds": 92.24
+        },
+        {
+          "point": "It compares public statements about the ballroom’s financing with contractor estimates and reported government payments.",
+          "evidence_segment_indices": [
+            98,
+            99,
+            100,
+            103,
+            104,
+            105,
+            106,
+            111,
+            116,
+            117,
+            118,
+            121,
+            122,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131
+          ],
+          "start_seconds": 212.4,
+          "end_seconds": 293.04
+        },
+        {
+          "point": "It links alleged private donations and public funds to a broader group of Washington renovation and commemoration projects.",
+          "evidence_segment_indices": [
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            198,
+            199,
+            200,
+            212,
+            213,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221
+          ],
+          "start_seconds": 390.88,
+          "end_seconds": 485.199
+        },
+        {
+          "point": "The proposed response is congressional investigation using subpoena power and financial tracing.",
+          "evidence_segment_indices": [
+            306,
+            307,
+            308,
+            309,
+            310,
+            311,
+            317,
+            318,
+            319,
+            320
+          ],
+          "start_seconds": 680.399,
+          "end_seconds": 714.24
+        }
+      ],
+      "transcript_source": "youtube_auto_en",
+      "source_hash": "9988f7b79dfbe18b5365a00abee140f0bd264058adf0434c73045f00b60b3030",
+      "transcript_captured_at": "2026-11-28T16:33:12.893507Z",
+      "summary_generated_at": "2026-11-28T16:38:23.043035Z",
+      "model": "gpt-5.6-luna",
+      "prompt_version": "nh-summary-1",
+      "summary_schema_version": 1,
+      "uncertainty_notes": [
+        "The overview relies solely on the supplied transcript and does not independently verify cited findings, figures, legal interpretations, or reported donations.",
+        "The transcript contains apparent caption or recognition errors, including names, figures, and terms that may be mistranscribed.",
+        "Some allegations are explicitly described as relying on anonymous sources, and the administration’s responses are summarized only briefly.",
+        "Several timelines and references are ambiguous or internally difficult to reconcile within the excerpt.",
+        "Creator account; external claims have not been independently verified."
+      ],
+      "summary_status": "complete",
+      "verification_status": "creator_account_not_independently_verified"
+    },
     {
       "creator": "Mutahar — SomeOrdinaryGamers",
       "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
@@ -5056,192 +5245,6 @@
         "The episode references external reporting and past articles but provides no documents or links beyond the quoted transcript.",
         "Several allegations are explicitly framed as speculation, memory, or interpretation and require independent verification.",
         "Names and terms are inconsistently transcribed, including references to Palantir and Peter Thiel.",
-        "Creator account; external claims have not been independently verified."
-      ],
-      "summary_status": "complete",
-      "verification_status": "creator_account_not_independently_verified"
-    },
-    {
-      "creator": "Kyle Kulinski — Secular Talk",
-      "channel_id": "UCldfgbzNILYZA4dmDt4Cd6A",
-      "video_id": "g0CPKqJvfEo",
-      "title": "Chuck Schumer COLLAPSES As Van Hollen SURGES In Leader Race!! | The Kyle Kulinski Show",
-      "url": "https://www.youtube.com/watch?v=g0CPKqJvfEo",
-      "published_at": "2026-11-25T21:50:04.000000Z",
-      "summary": "The creator argues that Democratic leaders should replace Chuck Schumer with Chris Van Hollen, presenting the contest as a test of whether the party will follow its voters and adopt a more confrontational agenda. He criticizes House Democrats for supporting Hakeem Jeffries while acknowledging that some newer members opposed him and advanced demands. The episode cites an Economist/YouGov poll in which Democratic respondents preferred Van Hollen to Schumer, along with a letter from celebrities and donors urging a public, accountable leadership vote. It also discusses criticism from ADL chief Jonathan Greenblatt, who reportedly accused Van Hollen’s challenge of being centered on Israel; the creator rejects that framing and links the dispute to the Iran nuclear agreement and Israel policy. Finally, he attacks DSCC chair Kirsten Gillibrand’s stated path to a 60-seat Democratic Senate majority because she reportedly supports John Fetterman’s reelection. The presentation is strongly opinionated, uses inflammatory language, and relies on quoted claims and source references that are not independently established here.",
-      "topics": [
-        "Democratic Senate leadership contest",
-        "Chuck Schumer and Chris Van Hollen",
-        "Party strategy and voter preferences",
-        "Israel policy and political criticism",
-        "2028 Senate prospects"
-      ],
-      "claims_to_verify": [
-        {
-          "claim": "An Economist/YouGov poll reportedly showed Democratic respondents preferring Chris Van Hollen over Chuck Schumer by 40% to 19%, and 2024 Kamala Harris voters by 48% to 18%.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            65,
-            66,
-            67,
-            68,
-            69,
-            76,
-            77,
-            78
-          ]
-        },
-        {
-          "claim": "About 35 celebrities and Democratic donors reportedly signed a letter backing Van Hollen and said they had donated or helped raise about $23 million for Democratic congressional candidates.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            100,
-            101,
-            102,
-            103,
-            104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            110
-          ]
-        },
-        {
-          "claim": "Kirsten Gillibrand reportedly said the DSCC would support John Fetterman in a primary if he seeks another term.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            360,
-            361,
-            377,
-            378,
-            379,
-            380
-          ]
-        },
-        {
-          "claim": "Gillibrand reportedly described a possible Democratic path to a 60-seat Senate majority involving several Republican-held states.",
-          "attributed_to": "Kyle Kulinski — Secular Talk",
-          "evidence_segment_indices": [
-            360,
-            361,
-            362,
-            363,
-            364,
-            365,
-            366
-          ]
-        }
-      ],
-      "key_points": [
-        {
-          "point": "The creator portrays Van Hollen as substantially more popular with Democratic voters than Schumer.",
-          "evidence_segment_indices": [
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71,
-            72,
-            76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82,
-            83
-          ],
-          "start_seconds": 122.88,
-          "end_seconds": 178.08
-        },
-        {
-          "point": "The episode frames the leadership vote as a conflict over party accountability, policy priorities, and Israel-related debate.",
-          "evidence_segment_indices": [
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            200,
-            201,
-            202,
-            203,
-            204,
-            224,
-            225,
-            226,
-            227
-          ],
-          "start_seconds": 234.08,
-          "end_seconds": 461.36
-        },
-        {
-          "point": "The creator argues that supporting Fetterman undermines Democratic leaders’ stated goal of building a large Senate majority.",
-          "evidence_segment_indices": [
-            362,
-            363,
-            364,
-            365,
-            366,
-            367,
-            368,
-            369,
-            370,
-            371,
-            372,
-            373,
-            374,
-            377,
-            378,
-            379,
-            380,
-            381,
-            423,
-            424,
-            425,
-            426
-          ],
-          "start_seconds": 720.24,
-          "end_seconds": 854.56
-        },
-        {
-          "point": "The episode ends by urging viewers to contact Democratic senators in support of Van Hollen.",
-          "evidence_segment_indices": [
-            442,
-            443,
-            444,
-            445,
-            446,
-            447,
-            448,
-            449,
-            450,
-            451
-          ],
-          "start_seconds": 881.04,
-          "end_seconds": 902.639
-        }
-      ],
-      "transcript_source": "youtube_auto_en",
-      "source_hash": "ff0b09023f8dee151dcfccb8fc7fc686e5f7d754670926c0a4f0b7c66c1a7b10",
-      "transcript_captured_at": "2026-11-26T00:03:16.417381Z",
-      "summary_generated_at": "2026-11-26T00:08:26.603469Z",
-      "model": "gpt-5.6-luna",
-      "prompt_version": "nh-summary-1",
-      "summary_schema_version": 1,
-      "uncertainty_notes": [
-        "The transcript contains frequent recognition errors, including inconsistent renderings of names such as Van Hollen and Hakeem Jeffries.",
-        "Poll figures, donor totals, political statements, and historical assertions are presented through the episode’s narration and are not independently verified here.",
-        "The source is a single strongly opinionated commentary episode, so its framing and selection of evidence may not represent competing interpretations.",
-        "Some quoted or discussed statements are fragmented or difficult to attribute because the captions switch between speakers.",
         "Creator account; external claims have not been independently verified."
       ],
       "summary_status": "complete",
